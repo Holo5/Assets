@@ -1,0 +1,69 @@
+
+kuurna_sofa.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+kuurna_sofa_kuurna_sofa_64_a_0_0.png
+  rotate: false
+  xy: 280, 73
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+kuurna_sofa_kuurna_sofa_64_a_4_0.png
+  rotate: false
+  xy: 163, 60
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+kuurna_sofa_kuurna_sofa_64_b_0_0.png
+  rotate: false
+  xy: 383, 64
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+kuurna_sofa_kuurna_sofa_64_c_0_0.png
+  rotate: false
+  xy: 226, 63
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+kuurna_sofa_kuurna_sofa_64_c_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+kuurna_sofa_kuurna_sofa_64_d_0_0.png
+  rotate: false
+  xy: 98, 59
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+kuurna_sofa_kuurna_sofa_64_d_4_0.png
+  rotate: false
+  xy: 343, 68
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+kuurna_sofa_kuurna_sofa_64_sd_4_0.png
+  rotate: false
+  xy: 2, 70
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+kuurna_sofa_kuurna_sofa_icon_a.png
+  rotate: false
+  xy: 66, 42
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

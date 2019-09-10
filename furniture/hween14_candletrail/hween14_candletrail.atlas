@@ -1,0 +1,62 @@
+
+hween14_candletrail.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween14_candletrail_hween14_candletrail_64_a_6_0.png
+  rotate: false
+  xy: 2, 35
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+hween14_candletrail_hween14_candletrail_64_b_6_0.png
+  rotate: false
+  xy: 39, 16
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+hween14_candletrail_hween14_candletrail_64_b_6_1.png
+  rotate: false
+  xy: 79, 23
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+hween14_candletrail_hween14_candletrail_64_b_6_2.png
+  rotate: false
+  xy: 79, 43
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+hween14_candletrail_hween14_candletrail_64_b_6_3.png
+  rotate: false
+  xy: 91, 3
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+hween14_candletrail_hween14_candletrail_64_c_6_2.png
+  rotate: false
+  xy: 39, 38
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+hween14_candletrail_hween14_candletrail_64_sd_6_0.png
+  rotate: false
+  xy: 2, 16
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+hween14_candletrail_hween14_candletrail_icon_a.png
+  rotate: false
+  xy: 71, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1

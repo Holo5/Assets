@@ -1,0 +1,76 @@
+
+hc_exe_wfall.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc_exe_wfall_hc_exe_wfall_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 56, 120
+  orig: 56, 120
+  offset: 0, 0
+  index: -1
+hc_exe_wfall_hc_exe_wfall_64_b_2_1.png
+  rotate: false
+  xy: 184, 38
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+hc_exe_wfall_hc_exe_wfall_64_b_2_2.png
+  rotate: false
+  xy: 233, 38
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+hc_exe_wfall_hc_exe_wfall_64_b_2_3.png
+  rotate: false
+  xy: 282, 38
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+hc_exe_wfall_hc_exe_wfall_64_c_2_1.png
+  rotate: false
+  xy: 380, 40
+  size: 47, 82
+  orig: 47, 82
+  offset: 0, 0
+  index: -1
+hc_exe_wfall_hc_exe_wfall_64_c_2_2.png
+  rotate: false
+  xy: 429, 41
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+hc_exe_wfall_hc_exe_wfall_64_c_2_3.png
+  rotate: false
+  xy: 331, 39
+  size: 47, 83
+  orig: 47, 83
+  offset: 0, 0
+  index: -1
+hc_exe_wfall_hc_exe_wfall_64_d_2_1.png
+  rotate: false
+  xy: 125, 28
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+hc_exe_wfall_hc_exe_wfall_64_d_2_2.png
+  rotate: false
+  xy: 60, 25
+  size: 63, 97
+  orig: 63, 97
+  offset: 0, 0
+  index: -1
+hc_exe_wfall_hc_exe_wfall_icon_a.png
+  rotate: false
+  xy: 478, 92
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

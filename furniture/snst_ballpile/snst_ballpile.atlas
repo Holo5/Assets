@@ -1,0 +1,34 @@
+
+snst_ballpile.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+snst_ballpile_snst_ballpile_64_a_0_11.png
+  rotate: false
+  xy: 46, 21
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+snst_ballpile_snst_ballpile_64_a_0_12.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+snst_ballpile_snst_ballpile_64_a_0_8.png
+  rotate: false
+  xy: 2, 12
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+snst_ballpile_snst_ballpile_64_a_0_9.png
+  rotate: false
+  xy: 24, 17
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1

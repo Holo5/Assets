@@ -1,0 +1,20 @@
+
+nest_plow_blu.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nest_plow_blu_nest_plow_blu_64_a_2_0.png
+  rotate: false
+  xy: 55, 2
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+nest_plow_blu_nest_plow_blu_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1

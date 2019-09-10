@@ -1,0 +1,34 @@
+
+ads_wowpball.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_wowpball_ads_wowpball_64_a_4_0.png
+  rotate: false
+  xy: 99, 11
+  size: 40, 99
+  orig: 40, 99
+  offset: 0, 0
+  index: -1
+ads_wowpball_ads_wowpball_64_b_4_1.png
+  rotate: false
+  xy: 2, 15
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+ads_wowpball_ads_wowpball_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 11
+  orig: 40, 11
+  offset: 0, 0
+  index: -1
+ads_wowpball_ads_wowpball_icon_a.png
+  rotate: false
+  xy: 141, 87
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1

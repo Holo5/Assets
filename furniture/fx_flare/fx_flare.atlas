@@ -1,0 +1,223 @@
+
+fx_flare.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fx_flare_fx_flare_64_a_0_0.png
+  rotate: false
+  xy: 23, 52
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_a_0_1.png
+  rotate: false
+  xy: 469, 102
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_b_0_0.png
+  rotate: false
+  xy: 354, 74
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_b_0_1.png
+  rotate: false
+  xy: 548, 212
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_c_0_27.png
+  rotate: false
+  xy: 134, 70
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_10.png
+  rotate: false
+  xy: 108, 70
+  size: 24, 181
+  orig: 24, 181
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_11.png
+  rotate: false
+  xy: 187, 77
+  size: 25, 174
+  orig: 25, 174
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_12.png
+  rotate: false
+  xy: 333, 68
+  size: 19, 183
+  orig: 19, 183
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_13.png
+  rotate: false
+  xy: 312, 69
+  size: 19, 182
+  orig: 19, 182
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_14.png
+  rotate: false
+  xy: 377, 80
+  size: 21, 171
+  orig: 21, 171
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_15.png
+  rotate: false
+  xy: 23, 74
+  size: 29, 177
+  orig: 29, 177
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_16.png
+  rotate: false
+  xy: 214, 78
+  size: 25, 173
+  orig: 25, 173
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_17.png
+  rotate: false
+  xy: 265, 75
+  size: 22, 176
+  orig: 22, 176
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_18.png
+  rotate: false
+  xy: 54, 74
+  size: 25, 177
+  orig: 25, 177
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_19.png
+  rotate: false
+  xy: 81, 73
+  size: 25, 178
+  orig: 25, 178
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_2.png
+  rotate: false
+  xy: 13, 20
+  size: 8, 42
+  orig: 8, 42
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_20.png
+  rotate: false
+  xy: 2, 64
+  size: 19, 187
+  orig: 19, 187
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_21.png
+  rotate: false
+  xy: 400, 86
+  size: 21, 165
+  orig: 21, 165
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_22.png
+  rotate: false
+  xy: 289, 74
+  size: 21, 177
+  orig: 21, 177
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_23.png
+  rotate: false
+  xy: 423, 91
+  size: 24, 160
+  orig: 24, 160
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_24.png
+  rotate: false
+  xy: 469, 124
+  size: 27, 127
+  orig: 27, 127
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_25.png
+  rotate: false
+  xy: 513, 140
+  size: 21, 111
+  orig: 21, 111
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_26.png
+  rotate: false
+  xy: 548, 175
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_27.png
+  rotate: false
+  xy: 2, 2
+  size: 9, 60
+  orig: 9, 60
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_3.png
+  rotate: false
+  xy: 536, 173
+  size: 10, 78
+  orig: 10, 78
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_4.png
+  rotate: false
+  xy: 498, 120
+  size: 13, 131
+  orig: 13, 131
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_5.png
+  rotate: false
+  xy: 449, 96
+  size: 18, 155
+  orig: 18, 155
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_6.png
+  rotate: false
+  xy: 354, 80
+  size: 21, 171
+  orig: 21, 171
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_7.png
+  rotate: false
+  xy: 134, 74
+  size: 24, 177
+  orig: 24, 177
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_8.png
+  rotate: false
+  xy: 160, 75
+  size: 25, 176
+  orig: 25, 176
+  offset: 0, 0
+  index: -1
+fx_flare_fx_flare_64_d_0_9.png
+  rotate: false
+  xy: 241, 78
+  size: 22, 173
+  orig: 22, 173
+  offset: 0, 0
+  index: -1

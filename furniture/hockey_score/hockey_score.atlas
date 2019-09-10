@@ -1,0 +1,328 @@
+
+hockey_score.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hockey_score_hockey_score_2_0.png
+  rotate: false
+  xy: 52, 165
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_2_1.png
+  rotate: false
+  xy: 32, 71
+  size: 2, 19
+  orig: 2, 19
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_2_2.png
+  rotate: false
+  xy: 2, 16
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_2_3.png
+  rotate: false
+  xy: 55, 121
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_2_4.png
+  rotate: false
+  xy: 22, 71
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_2_5.png
+  rotate: false
+  xy: 12, 38
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_2_6.png
+  rotate: false
+  xy: 12, 60
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_2_7.png
+  rotate: false
+  xy: 55, 100
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_2_8.png
+  rotate: false
+  xy: 12, 16
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_2_9.png
+  rotate: false
+  xy: 52, 143
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_4_0.png
+  rotate: false
+  xy: 52, 187
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_4_1.png
+  rotate: false
+  xy: 22, 50
+  size: 2, 19
+  orig: 2, 19
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_4_2.png
+  rotate: false
+  xy: 27, 92
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_4_3.png
+  rotate: false
+  xy: 46, 119
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_4_4.png
+  rotate: false
+  xy: 2, 38
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_4_5.png
+  rotate: false
+  xy: 52, 209
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_4_6.png
+  rotate: false
+  xy: 17, 92
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_4_7.png
+  rotate: false
+  xy: 37, 92
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_4_8.png
+  rotate: false
+  xy: 2, 60
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_4_9.png
+  rotate: false
+  xy: 52, 231
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_64_a_2_0.png
+  rotate: false
+  xy: 2, 141
+  size: 48, 110
+  orig: 48, 110
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_64_b_2_0.png
+  rotate: false
+  xy: 2, 114
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_64_e_2_0.png
+  rotate: false
+  xy: 46, 111
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_64_f_2_0.png
+  rotate: false
+  xy: 46, 103
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_icon_a.png
+  rotate: false
+  xy: 2, 82
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_pixel.png
+  rotate: false
+  xy: 61, 94
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_2_0.png
+  rotate: false
+  xy: 28, 35
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_2_2.png
+  rotate: false
+  xy: 54, 77
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_2_3.png
+  rotate: false
+  xy: 48, 79
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_2_4.png
+  rotate: false
+  xy: 42, 80
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_2_5.png
+  rotate: false
+  xy: 26, 2
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_2_6.png
+  rotate: false
+  xy: 20, 2
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_2_7.png
+  rotate: false
+  xy: 55, 89
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_2_8.png
+  rotate: false
+  xy: 22, 14
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_2_9.png
+  rotate: false
+  xy: 28, 47
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_4_0.png
+  rotate: false
+  xy: 32, 59
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_4_1.png
+  rotate: false
+  xy: 52, 92
+  size: 1, 9
+  orig: 1, 9
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_4_2.png
+  rotate: false
+  xy: 22, 26
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_4_3.png
+  rotate: false
+  xy: 22, 38
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_4_4.png
+  rotate: false
+  xy: 46, 91
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_4_5.png
+  rotate: false
+  xy: 14, 4
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_4_6.png
+  rotate: false
+  xy: 8, 4
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_4_7.png
+  rotate: false
+  xy: 36, 80
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_4_8.png
+  rotate: false
+  xy: 26, 59
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_4_9.png
+  rotate: false
+  xy: 2, 4
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hockey_score_s_hockey_score_pixel.png
+  rotate: false
+  xy: 61, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

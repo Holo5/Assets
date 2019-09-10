@@ -1,0 +1,118 @@
+
+es_bench.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+es_bench_es_bench_64_a_0_0.png
+  rotate: false
+  xy: 121, 49
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_a_4_0.png
+  rotate: false
+  xy: 151, 54
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_b_0_1.png
+  rotate: false
+  xy: 211, 59
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_b_4_1.png
+  rotate: false
+  xy: 63, 30
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_c_0_0.png
+  rotate: false
+  xy: 318, 78
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_d_0_1.png
+  rotate: false
+  xy: 63, 8
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_e_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_e_4_0.png
+  rotate: false
+  xy: 2, 46
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_f_0_1.png
+  rotate: false
+  xy: 121, 39
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_f_4_1.png
+  rotate: false
+  xy: 415, 101
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_g_0_0.png
+  rotate: false
+  xy: 211, 70
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_g_4_0.png
+  rotate: false
+  xy: 358, 77
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_h_0_1.png
+  rotate: false
+  xy: 266, 76
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_h_4_1.png
+  rotate: false
+  xy: 390, 83
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_64_sd_0_0.png
+  rotate: false
+  xy: 63, 77
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_icon_a.png
+  rotate: false
+  xy: 448, 95
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1

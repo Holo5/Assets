@@ -1,0 +1,27 @@
+
+snst_iceblock.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+snst_iceblock_snst_iceblock_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+snst_iceblock_snst_iceblock_64_a_2_0.png
+  rotate: false
+  xy: 40, 2
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+snst_iceblock_snst_iceblock_icon_a.png
+  rotate: false
+  xy: 78, 28
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

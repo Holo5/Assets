@@ -1,0 +1,55 @@
+
+uni_laptop.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uni_laptop_uni_laptop_64_a_2_0.png
+  rotate: false
+  xy: 51, 15
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+uni_laptop_uni_laptop_64_a_2_1.png
+  rotate: false
+  xy: 2, 15
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+uni_laptop_uni_laptop_64_a_2_2.png
+  rotate: false
+  xy: 100, 15
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+uni_laptop_uni_laptop_64_a_2_3.png
+  rotate: false
+  xy: 199, 6
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+uni_laptop_uni_laptop_64_a_6_0.png
+  rotate: false
+  xy: 149, 25
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+uni_laptop_uni_laptop_64_a_6_3.png
+  rotate: false
+  xy: 199, 31
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+uni_laptop_uni_laptop_64_sd_2_0.png
+  rotate: false
+  xy: 149, 2
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1

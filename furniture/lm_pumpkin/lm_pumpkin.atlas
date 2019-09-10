@@ -1,0 +1,48 @@
+
+lm_pumpkin.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lm_pumpkin_lm_pumpkin_64_a_2_0.png
+  rotate: false
+  xy: 51, 2
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+lm_pumpkin_lm_pumpkin_64_a_2_1.png
+  rotate: false
+  xy: 100, 2
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+lm_pumpkin_lm_pumpkin_64_a_2_2.png
+  rotate: false
+  xy: 149, 2
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+lm_pumpkin_lm_pumpkin_64_a_2_3.png
+  rotate: false
+  xy: 198, 2
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+lm_pumpkin_lm_pumpkin_64_a_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+lm_pumpkin_lm_pumpkin_64_sd_2_0.png
+  rotate: false
+  xy: 247, 29
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
