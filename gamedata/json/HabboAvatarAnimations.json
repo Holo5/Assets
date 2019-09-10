@@ -1,0 +1,1515 @@
+[
+    {
+        "id": "Move",
+        "part": [
+            {
+                "setType": "bd",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "bds",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "ss",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "lg",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "sh",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "lh",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "lhs",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "ls",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "lc",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "rh",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "rhs",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "rs",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "rc",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            },
+            {
+                "setType": "ch",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wlk"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wlk"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Wave",
+        "part": [
+            {
+                "setType": "lh",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wav"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wav"
+                    }
+                ]
+            },
+            {
+                "setType": "lhs",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wav"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wav"
+                    }
+                ]
+            },
+            {
+                "setType": "ls",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wav"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wav"
+                    }
+                ]
+            },
+            {
+                "setType": "lc",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wav"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wav"
+                    }
+                ]
+            },
+            {
+                "setType": "ch",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wav"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wav"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "wav"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "wav"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Talk",
+        "part": [
+            {
+                "setType": "hd",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "spk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "spk"
+                    }
+                ]
+            },
+            {
+                "setType": "fc",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "spk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "spk"
+                    }
+                ]
+            },
+            {
+                "setType": "fa",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "spk"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "spk"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Swim",
+        "part": [
+            {
+                "setType": "bds",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "swm"
+                    }
+                ]
+            },
+            {
+                "setType": "ss",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "swm"
+                    }
+                ]
+            },
+            {
+                "setType": "lhs",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "swm"
+                    }
+                ]
+            },
+            {
+                "setType": "rhs",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "swm"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "swm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Float",
+        "part": [
+            {
+                "setType": "bds",
+                "frame": [
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "sws"
+                    }
+                ]
+            },
+            {
+                "setType": "ss",
+                "frame": [
+                    {
+                        "number": 0,
+                    "assetPartDefinition": "sws"
+                    }
+                ]
+            },
+            {
+                "setType": "lhs",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "sws"
+                    }
+                ]
+            },
+            {
+                "setType": "rhs",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 3,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 2,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "sws"
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "sws"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Sign",
+        "part": [
+            {
+                "setType": "lh",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "sig"
+                    }
+                ]
+            },
+            {
+                "setType": "li",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "sig"
+                    }
+                ]
+            },
+            {
+                "setType": "ls",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wav"
+                    }
+                ]
+            },
+            {
+                "setType": "lc",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wav"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Respect",
+        "part": [
+            {
+                "setType": "lh",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "respect",
+                        "repeats": 15
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "respect",
+                        "repeats": 15
+                    }
+                ]
+            },
+            {
+                "setType": "ls",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wav",
+                        "repeats": 15
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wav",
+                        "repeats": 15
+                    }
+                ]
+            },
+            {
+                "setType": "lc",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "wav",
+                        "repeats": 15
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "wav",
+                        "repeats": 15
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Blow",
+        "part": [
+            {
+                "setType": "rh",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "blw",
+                        "repeats": 10
+                    },
+                    {
+                        "number": 1,
+                        "assetPartDefinition": "blw",
+                        "repeats": 10
+                    }
+                ]
+            },
+            {
+                "setType": "rs",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "drk"
+                    }
+                ]
+            },
+            {
+                "setType": "rc",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "drk"
+                    }
+                ]
+            },
+            {
+                "setType": "ri",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": ""
+                    }
+                ]
+            },
+            {
+                "setType": "ey",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "std",
+                        "repeats": 10
+                    },
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "eyb",
+                        "repeats": 10
+                    }
+                ]
+            },
+            {
+                "setType": "fc",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "std",
+                        "repeats": 10
+                    },
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "blw",
+                        "repeats": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Laugh",
+        "part": [
+            {
+                "setType": "rh",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "blw"
+                    }
+                ]
+            },
+            {
+                "setType": "rs",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "drk"
+                    }
+                ]
+            },
+            {
+                "setType": "rc",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "drk"
+                    }
+                ]
+            },
+            {
+                "setType": "ri",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": ""
+                    }
+                ]
+            },
+            {
+                "setType": "ey",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "std",
+                        "repeats": 2
+                    }
+                ]
+            },
+            {
+                "setType": "fc",
+                "frame": [
+                    {
+                        "number": 0,
+                        "assetPartDefinition": "sml"
+                    }
+                ]
+            }
+        ],
+        "offsets": [
+            {
+                "id": 0,
+                "directions": [
+                    {
+                        "id": 0,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 1
+                        }
+                    },
+                    {
+                        "id": 1,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 1
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 1
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 1
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 1
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 1
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 1
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "directions": [
+                    {
+                        "id": 0,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 0
+                        }
+                    },
+                    {
+                        "id": 1,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 0
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 0
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 0
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 0
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 0
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 0
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 0,
+                            "dy": 0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "SnowWarRun",
+        "part": {
+            "setType": "ch",
+            "frame": [
+                {
+                    "number": 3,
+                    "assetPartDefinition": "swrun"
+                },
+                {
+                    "number": 2,
+                    "assetPartDefinition": "swrun"
+                },
+                {
+                    "number": 1,
+                    "assetPartDefinition": "swrun"
+                },
+                {
+                    "number": 0,
+                    "assetPartDefinition": "swrun"
+                }
+            ]
+        }
+    },
+    {
+        "id": "SnowWarDieFront",
+        "part": {
+            "setType": "ch",
+            "frame": [
+                {
+                    "number": 0,
+                    "assetPartDefinition": "swdie"
+                },
+                {
+                    "number": 0,
+                    "assetPartDefinition": "swdie"
+                },
+                {
+                    "number": 1,
+                    "assetPartDefinition": "swdie"
+                },
+                {
+                    "number": 1,
+                    "assetPartDefinition": "swdie",
+                    "repeats": 100
+                }
+            ]
+        },
+        "offsets": [
+            {
+                "id": 0,
+                "directions": [
+                    {
+                        "id": 0,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 10,
+                            "dy": 4
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 10,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -10,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -10,
+                            "dy": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "directions": [
+                    {
+                        "id": 0,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 10,
+                            "dy": 4
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 10,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -10,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -10,
+                            "dy": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "directions": [
+                    {
+                        "id": 0,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "repeats": 100,
+                "directions": [
+                    {
+                        "id": 0,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "SnowWarDieBack",
+        "part": {
+            "setType": "ch",
+            "frame": [
+                {
+                    "number": 2,
+                    "assetPartDefinition": "swdie"
+                },
+                {
+                    "number": 2,
+                    "assetPartDefinition": "swdie"
+                },
+                {
+                    "number": 3,
+                    "assetPartDefinition": "swdie"
+                },
+                {
+                    "number": 3,
+                    "assetPartDefinition": "swdie",
+                    "repeats": 100
+                }
+            ]
+        },
+        "offsets": [
+            {
+                "id": 0,
+                "directions": [
+                    {
+                        "id": 0,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -10,
+                            "dy": 4
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -10,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 10,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 10,
+                            "dy": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "directions": [
+                    {
+                        "id": 0,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -10,
+                            "dy": 4
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -10,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 10,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": 10,
+                            "dy": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "directions": [
+                    {
+                        "id": 0,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "repeats": 100,
+                "directions": [
+                    {
+                        "id": 0,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "bodyPart": {
+                            "id": "head",
+                            "dx": -100,
+                            "dy": 5
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "SnowWarPick",
+        "part": {
+            "setType": "ch",
+            "frame": [
+                {
+                    "number": 0,
+                    "assetPartDefinition": "swpick"
+                }
+            ]
+        },
+        "offsets": {
+            "frame": [
+                {
+                    "id": 0,
+                    "directions": [
+                        {
+                            "id": 0,
+                            "bodyPart": {
+                                "id": "head",
+                                "dx": 0,
+                                "dy": 3
+                            }
+                        },
+                        {
+                            "id": 1,
+                            "bodyPart": {
+                                "id": "head",
+                                "dx": 0,
+                                "dy": 3
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "bodyPart": {
+                                "id": "head",
+                                "dx": 0,
+                                "dy": 3
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "bodyPart": {
+                                "id": "head",
+                                "dx": 0,
+                                "dy": 3
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "bodyPart": {
+                                "id": "head",
+                                "dx": 0,
+                                "dy": 3
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "bodyPart": {
+                                "id": "head",
+                                "dx": 0,
+                                "dy": 3
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "bodyPart": {
+                                "id": "head",
+                                "dx": 0,
+                                "dy": 3
+                            }
+                        },
+                        {
+                            "id": 7,
+                            "bodyPart": {
+                                "id": "head",
+                                "dx": 0,
+                                "dy": 3
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": "SnowWarThrow",
+        "part": {
+            "setType": "ch",
+            "frame": [
+                {
+                    "number": 0,
+                    "assetPartDefinition": "swthrow"
+                },
+                {
+                    "number": 0,
+                    "assetPartDefinition": "swthrow"
+                },
+                {
+                    "number": 1,
+                    "assetPartDefinition": "swthrow"
+                },
+                {
+                    "number": 1,
+                    "assetPartDefinition": "swthrow"
+                },
+                {
+                    "number": 1,
+                    "assetPartDefinition": "swthrow"
+                },
+                {
+                    "number": 1,
+                    "assetPartDefinition": "swthrow"
+                },
+                {
+                    "number": 1,
+                    "assetPartDefinition": "swthrow"
+                },
+                {
+                    "number": 1,
+                    "assetPartDefinition": "swthrow"
+                },
+                {
+                    "number": 0,
+                    "assetPartDefinition": "swthrow",
+                    "repeats": 100
+                }
+            ]
+        }
+    }
+]
