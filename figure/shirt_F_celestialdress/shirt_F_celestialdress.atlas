@@ -1,0 +1,853 @@
+
+shirt_F_celestialdress.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_celestialdress_h_drk_rs_3424_0_0.png
+  rotate: false
+  xy: 622, 14
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3424_1_0.png
+  rotate: false
+  xy: 622, 2
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3424_2_0.png
+  rotate: false
+  xy: 985, 51
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3424_3_0.png
+  rotate: false
+  xy: 985, 41
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3424_4_0.png
+  rotate: false
+  xy: 322, 10
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3424_6_0.png
+  rotate: false
+  xy: 979, 35
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3424_7_0.png
+  rotate: false
+  xy: 177, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3426_0_0.png
+  rotate: false
+  xy: 258, 10
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3426_1_0.png
+  rotate: false
+  xy: 156, 14
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3426_2_0.png
+  rotate: false
+  xy: 139, 14
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3426_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3426_6_0.png
+  rotate: false
+  xy: 1021, 61
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_drk_rs_3426_7_0.png
+  rotate: false
+  xy: 1004, 36
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_lay_ch_3424_2_0.png
+  rotate: false
+  xy: 2, 25
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_lay_ch_3425_2_0.png
+  rotate: false
+  xy: 541, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_lay_ch_3426_2_0.png
+  rotate: false
+  xy: 477, 33
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_lay_ls_3424_2_0.png
+  rotate: false
+  xy: 258, 2
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_lay_ls_3426_2_0.png
+  rotate: false
+  xy: 472, 22
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_lay_rs_3424_2_0.png
+  rotate: false
+  xy: 1004, 53
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_lay_rs_3426_2_0.png
+  rotate: false
+  xy: 927, 27
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_sit_ch_3424_0_0.png
+  rotate: false
+  xy: 290, 30
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_sit_ch_3424_2_0.png
+  rotate: false
+  xy: 58, 20
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_sit_ch_3425_0_0.png
+  rotate: false
+  xy: 592, 10
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_sit_ch_3425_2_0.png
+  rotate: false
+  xy: 409, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_sit_ch_3426_0_0.png
+  rotate: false
+  xy: 372, 2
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_sit_ch_3426_2_0.png
+  rotate: false
+  xy: 577, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ch_3424_1_0.png
+  rotate: false
+  xy: 869, 26
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ch_3424_3_0.png
+  rotate: false
+  xy: 407, 27
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ch_3424_7_0.png
+  rotate: false
+  xy: 372, 26
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ch_3425_1_0.png
+  rotate: false
+  xy: 952, 34
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ch_3425_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ch_3426_0_0.png
+  rotate: false
+  xy: 645, 31
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ch_3426_1_0.png
+  rotate: false
+  xy: 517, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ch_3426_2_0.png
+  rotate: false
+  xy: 611, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ch_3426_3_0.png
+  rotate: false
+  xy: 779, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ch_3426_7_0.png
+  rotate: false
+  xy: 747, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ls_3424_0_0.png
+  rotate: false
+  xy: 1004, 42
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ls_3424_3_0.png
+  rotate: false
+  xy: 268, 13
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ls_3424_7_0.png
+  rotate: false
+  xy: 279, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ls_3426_0_0.png
+  rotate: false
+  xy: 963, 28
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ls_3426_2_0.png
+  rotate: false
+  xy: 971, 28
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ls_3426_3_0.png
+  rotate: false
+  xy: 447, 2
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_ls_3426_7_0.png
+  rotate: false
+  xy: 954, 28
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_rs_3424_0_0.png
+  rotate: false
+  xy: 153, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_rs_3424_1_0.png
+  rotate: false
+  xy: 227, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_rs_3424_3_0.png
+  rotate: false
+  xy: 290, 9
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_rs_3424_7_0.png
+  rotate: false
+  xy: 301, 9
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_std_rs_3426_0_0.png
+  rotate: false
+  xy: 300, 2
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3424_0_0.png
+  rotate: false
+  xy: 52, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3424_2_1.png
+  rotate: false
+  xy: 122, 3
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3424_3_0.png
+  rotate: false
+  xy: 112, 3
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3424_4_0.png
+  rotate: false
+  xy: 38, 2
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3424_5_0.png
+  rotate: false
+  xy: 612, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3424_6_0.png
+  rotate: false
+  xy: 577, 10
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3424_6_1.png
+  rotate: false
+  xy: 607, 11
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3424_7_1.png
+  rotate: false
+  xy: 567, 7
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3426_0_1.png
+  rotate: false
+  xy: 637, 14
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3426_1_1.png
+  rotate: false
+  xy: 6, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3426_2_0.png
+  rotate: false
+  xy: 80, 2
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3426_3_1.png
+  rotate: false
+  xy: 72, 2
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3426_4_0.png
+  rotate: false
+  xy: 100, 2
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3426_5_1.png
+  rotate: false
+  xy: 995, 36
+  size: 7, 2
+  orig: 7, 2
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3426_6_0.png
+  rotate: false
+  xy: 62, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3426_6_1.png
+  rotate: false
+  xy: 248, 7
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wav_ls_3426_7_1.png
+  rotate: false
+  xy: 131, 4
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3424_0_0.png
+  rotate: false
+  xy: 252, 24
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3424_0_1.png
+  rotate: false
+  xy: 334, 25
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3424_1_0.png
+  rotate: false
+  xy: 840, 26
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3424_1_1.png
+  rotate: false
+  xy: 811, 27
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3424_1_3.png
+  rotate: false
+  xy: 898, 27
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3424_2_0.png
+  rotate: false
+  xy: 138, 24
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3424_2_1.png
+  rotate: false
+  xy: 214, 24
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3424_2_2.png
+  rotate: false
+  xy: 176, 24
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3424_2_3.png
+  rotate: false
+  xy: 100, 23
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3424_3_1.png
+  rotate: false
+  xy: 542, 28
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3424_7_1.png
+  rotate: false
+  xy: 442, 27
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3425_0_3.png
+  rotate: false
+  xy: 436, 7
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3425_7_3.png
+  rotate: false
+  xy: 952, 48
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3426_0_1.png
+  rotate: false
+  xy: 713, 32
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3426_1_1.png
+  rotate: false
+  xy: 927, 34
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3426_2_3.png
+  rotate: false
+  xy: 679, 31
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3426_3_3.png
+  rotate: false
+  xy: 509, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ch_3426_7_3.png
+  rotate: false
+  xy: 477, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ls_3424_0_1.png
+  rotate: false
+  xy: 639, 3
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ls_3424_2_1.png
+  rotate: false
+  xy: 188, 3
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ls_3424_2_2.png
+  rotate: false
+  xy: 996, 40
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ls_3424_2_3.png
+  rotate: false
+  xy: 1013, 42
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ls_3424_3_0.png
+  rotate: false
+  xy: 268, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ls_3424_3_1.png
+  rotate: false
+  xy: 185, 14
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ls_3424_3_3.png
+  rotate: false
+  xy: 302, 20
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ls_3424_7_1.png
+  rotate: false
+  xy: 311, 10
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ls_3426_0_1.png
+  rotate: false
+  xy: 1011, 36
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ls_3426_2_3.png
+  rotate: false
+  xy: 328, 14
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_ls_3426_7_3.png
+  rotate: false
+  xy: 985, 35
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_0_1.png
+  rotate: false
+  xy: 139, 2
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_0_3.png
+  rotate: false
+  xy: 224, 11
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_1_0.png
+  rotate: false
+  xy: 208, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_1_1.png
+  rotate: false
+  xy: 172, 14
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_1_2.png
+  rotate: false
+  xy: 218, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_1_3.png
+  rotate: false
+  xy: 197, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_2_1.png
+  rotate: false
+  xy: 211, 11
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_2_2.png
+  rotate: false
+  xy: 87, 7
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_2_3.png
+  rotate: false
+  xy: 197, 11
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_3_1.png
+  rotate: false
+  xy: 313, 20
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_3_2.png
+  rotate: false
+  xy: 279, 13
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_3_3.png
+  rotate: false
+  xy: 290, 20
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_7_2.png
+  rotate: false
+  xy: 237, 11
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3424_7_3.png
+  rotate: false
+  xy: 166, 2
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_0_0.png
+  rotate: false
+  xy: 589, 2
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_0_1.png
+  rotate: false
+  xy: 942, 28
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_0_3.png
+  rotate: false
+  xy: 236, 4
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_1_0.png
+  rotate: false
+  xy: 248, 3
+  size: 8, 2
+  orig: 8, 2
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_1_1.png
+  rotate: false
+  xy: 436, 2
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_1_2.png
+  rotate: false
+  xy: 324, 20
+  size: 7, 2
+  orig: 7, 2
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_1_3.png
+  rotate: false
+  xy: 87, 3
+  size: 9, 2
+  orig: 9, 2
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_2_2.png
+  rotate: false
+  xy: 601, 2
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_2_3.png
+  rotate: false
+  xy: 577, 2
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_3_0.png
+  rotate: false
+  xy: 290, 2
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_3_1.png
+  rotate: false
+  xy: 324, 24
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_7_2.png
+  rotate: false
+  xy: 567, 2
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+shirt_F_celestialdress_h_wlk_rs_3426_7_3.png
+  rotate: false
+  xy: 456, 3
+  size: 8, 2
+  orig: 8, 2
+  offset: 0, 0
+  index: -1

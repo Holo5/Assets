@@ -1,0 +1,384 @@
+
+shoes_U_sliponcanvas.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_U_sliponcanvas_h_lay_sh_2905_2_0.png
+  rotate: false
+  xy: 361, 11
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_lay_sh_2906_2_0.png
+  rotate: false
+  xy: 384, 11
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_sit_sh_2905_0_0.png
+  rotate: false
+  xy: 254, 2
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_sit_sh_2906_0_0.png
+  rotate: false
+  xy: 612, 2
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_std_sh_2905_0_0.png
+  rotate: false
+  xy: 205, 8
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_std_sh_2905_1_0.png
+  rotate: false
+  xy: 428, 9
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_std_sh_2905_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_std_sh_2905_3_0.png
+  rotate: false
+  xy: 502, 20
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_std_sh_2905_7_0.png
+  rotate: false
+  xy: 405, 11
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_std_sh_2906_0_0.png
+  rotate: false
+  xy: 283, 22
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_std_sh_2906_1_0.png
+  rotate: false
+  xy: 167, 2
+  size: 18, 3
+  orig: 18, 3
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_std_sh_2906_2_0.png
+  rotate: false
+  xy: 454, 23
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_std_sh_2906_3_0.png
+  rotate: false
+  xy: 274, 2
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_std_sh_2906_7_0.png
+  rotate: false
+  xy: 205, 2
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_0_0.png
+  rotate: false
+  xy: 310, 19
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_0_1.png
+  rotate: false
+  xy: 45, 18
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_0_2.png
+  rotate: false
+  xy: 103, 2
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_0_3.png
+  rotate: false
+  xy: 27, 2
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_1_0.png
+  rotate: false
+  xy: 569, 19
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_1_1.png
+  rotate: false
+  xy: 2, 18
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_1_2.png
+  rotate: false
+  xy: 405, 19
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_1_3.png
+  rotate: false
+  xy: 87, 17
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_2_0.png
+  rotate: false
+  xy: 74, 2
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_2_1.png
+  rotate: false
+  xy: 625, 7
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_2_2.png
+  rotate: false
+  xy: 591, 18
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_2_3.png
+  rotate: false
+  xy: 129, 4
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_3_0.png
+  rotate: false
+  xy: 525, 19
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_3_1.png
+  rotate: false
+  xy: 52, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_3_2.png
+  rotate: false
+  xy: 547, 19
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_3_3.png
+  rotate: false
+  xy: 232, 5
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_7_0.png
+  rotate: false
+  xy: 678, 22
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_7_1.png
+  rotate: false
+  xy: 634, 21
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_7_2.png
+  rotate: false
+  xy: 656, 22
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2905_7_3.png
+  rotate: false
+  xy: 612, 21
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_0_0.png
+  rotate: false
+  xy: 428, 22
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_0_1.png
+  rotate: false
+  xy: 171, 21
+  size: 40, 9
+  orig: 40, 9
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_0_2.png
+  rotate: false
+  xy: 274, 8
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_0_3.png
+  rotate: false
+  xy: 336, 18
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_1_0.png
+  rotate: false
+  xy: 765, 23
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_1_1.png
+  rotate: false
+  xy: 128, 21
+  size: 41, 9
+  orig: 41, 9
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_1_2.png
+  rotate: false
+  xy: 479, 21
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_1_3.png
+  rotate: false
+  xy: 213, 21
+  size: 39, 9
+  orig: 39, 9
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_2_0.png
+  rotate: false
+  xy: 254, 22
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_2_1.png
+  rotate: false
+  xy: 919, 24
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_2_2.png
+  rotate: false
+  xy: 744, 22
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_2_3.png
+  rotate: false
+  xy: 167, 7
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_3_0.png
+  rotate: false
+  xy: 809, 24
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_3_1.png
+  rotate: false
+  xy: 700, 22
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_3_2.png
+  rotate: false
+  xy: 787, 24
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_3_3.png
+  rotate: false
+  xy: 722, 22
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_7_0.png
+  rotate: false
+  xy: 853, 24
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_7_1.png
+  rotate: false
+  xy: 897, 25
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_7_2.png
+  rotate: false
+  xy: 831, 24
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+shoes_U_sliponcanvas_h_wlk_sh_2906_7_3.png
+  rotate: false
+  xy: 875, 25
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1

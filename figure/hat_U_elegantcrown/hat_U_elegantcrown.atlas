@@ -1,0 +1,27 @@
+
+hat_U_elegantcrown.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_elegantcrown_h_lay_ha_3061_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+hat_U_elegantcrown_h_spk_ha_3061_1_0.png
+  rotate: false
+  xy: 41, 6
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+hat_U_elegantcrown_h_std_ha_3061_7_0.png
+  rotate: false
+  xy: 22, 4
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1

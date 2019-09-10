@@ -1,0 +1,48 @@
+
+acc_face_U_kitsune.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_kitsune_h_lay_fa_3202_2_0.png
+  rotate: false
+  xy: 76, 9
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+acc_face_U_kitsune_h_std_fa_3202_0_0.png
+  rotate: false
+  xy: 116, 4
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+acc_face_U_kitsune_h_std_fa_3202_1_0.png
+  rotate: false
+  xy: 37, 7
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+acc_face_U_kitsune_h_std_fa_3202_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+acc_face_U_kitsune_h_std_fa_3202_3_0.png
+  rotate: false
+  xy: 152, 6
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+acc_face_U_kitsune_h_std_fa_3202_7_0.png
+  rotate: false
+  xy: 180, 18
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1

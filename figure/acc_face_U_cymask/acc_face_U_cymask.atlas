@@ -1,0 +1,216 @@
+
+acc_face_U_cymask.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_cymask_h_lay_fa_2647_2_0.png
+  rotate: false
+  xy: 24, 12
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_lay_fa_2648_2_0.png
+  rotate: false
+  xy: 334, 24
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_lay_fa_2649_2_0.png
+  rotate: false
+  xy: 308, 19
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_lsp_fa_2647_2_0.png
+  rotate: false
+  xy: 2, 11
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_lsp_fa_2648_2_0.png
+  rotate: false
+  xy: 343, 25
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_lsp_fa_2649_2_0.png
+  rotate: false
+  xy: 317, 17
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_spk_fa_2647_0_0.png
+  rotate: false
+  xy: 52, 2
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_spk_fa_2647_1_0.png
+  rotate: false
+  xy: 72, 16
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_spk_fa_2647_2_0.png
+  rotate: false
+  xy: 124, 15
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_spk_fa_2647_3_0.png
+  rotate: false
+  xy: 198, 16
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_spk_fa_2647_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_spk_fa_2648_2_0.png
+  rotate: false
+  xy: 46, 16
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_spk_fa_2648_3_0.png
+  rotate: false
+  xy: 26, 2
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_spk_fa_2649_0_0.png
+  rotate: false
+  xy: 272, 21
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_spk_fa_2649_1_0.png
+  rotate: false
+  xy: 194, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_spk_fa_2649_2_0.png
+  rotate: false
+  xy: 172, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_spk_fa_2649_7_0.png
+  rotate: false
+  xy: 46, 13
+  size: 3, 1
+  orig: 3, 1
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2647_0_0.png
+  rotate: false
+  xy: 124, 2
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2647_1_0.png
+  rotate: false
+  xy: 172, 17
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2647_2_0.png
+  rotate: false
+  xy: 148, 15
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2647_3_0.png
+  rotate: false
+  xy: 78, 2
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2648_0_0.png
+  rotate: false
+  xy: 326, 23
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2648_1_0.png
+  rotate: false
+  xy: 296, 23
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2648_2_0.png
+  rotate: false
+  xy: 98, 16
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2648_3_0.png
+  rotate: false
+  xy: 222, 22
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2648_7_0.png
+  rotate: false
+  xy: 150, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2649_0_0.png
+  rotate: false
+  xy: 248, 22
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2649_1_0.png
+  rotate: false
+  xy: 209, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2649_2_0.png
+  rotate: false
+  xy: 102, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+acc_face_U_cymask_h_std_fa_2649_3_0.png
+  rotate: false
+  xy: 150, 7
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1

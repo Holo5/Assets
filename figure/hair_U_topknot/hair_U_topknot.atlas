@@ -1,0 +1,209 @@
+
+hair_U_topknot.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_topknot_h_lay_hr_2629_2_0.png
+  rotate: false
+  xy: 463, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_lay_hr_2630_2_0.png
+  rotate: false
+  xy: 492, 17
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_lay_hrb_2629_2_0.png
+  rotate: false
+  xy: 440, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_lsp_hrb_2630_2_0.png
+  rotate: false
+  xy: 496, 21
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_spk_hr_2629_0_0.png
+  rotate: false
+  xy: 101, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_spk_hr_2629_1_0.png
+  rotate: false
+  xy: 35, 4
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_spk_hr_2629_2_0.png
+  rotate: false
+  xy: 386, 4
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_spk_hr_2629_3_0.png
+  rotate: false
+  xy: 219, 3
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_spk_hr_2629_7_0.png
+  rotate: false
+  xy: 275, 4
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_spk_hr_2630_0_0.png
+  rotate: false
+  xy: 486, 3
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_spk_hr_2630_2_0.png
+  rotate: false
+  xy: 486, 13
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_spk_hr_2630_3_0.png
+  rotate: false
+  xy: 486, 27
+  size: 8, 2
+  orig: 8, 2
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_spk_hrb_2629_1_0.png
+  rotate: false
+  xy: 2, 4
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_spk_hrb_2629_7_0.png
+  rotate: false
+  xy: 303, 4
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hr_2629_0_0.png
+  rotate: false
+  xy: 161, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hr_2629_1_0.png
+  rotate: false
+  xy: 68, 4
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hr_2629_2_0.png
+  rotate: false
+  xy: 413, 4
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hr_2629_3_0.png
+  rotate: false
+  xy: 247, 3
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hr_2629_7_0.png
+  rotate: false
+  xy: 331, 4
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hr_2630_1_0.png
+  rotate: false
+  xy: 486, 8
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hr_2630_2_0.png
+  rotate: false
+  xy: 506, 26
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hr_2630_3_0.png
+  rotate: false
+  xy: 486, 23
+  size: 8, 2
+  orig: 8, 2
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hrb_2629_0_0.png
+  rotate: false
+  xy: 131, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hrb_2629_2_0.png
+  rotate: false
+  xy: 359, 4
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hrb_2629_3_0.png
+  rotate: false
+  xy: 191, 3
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hrb_2630_0_0.png
+  rotate: false
+  xy: 500, 22
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hrb_2630_1_0.png
+  rotate: false
+  xy: 492, 12
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hrb_2630_2_0.png
+  rotate: false
+  xy: 486, 18
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+hair_U_topknot_h_std_hrb_2630_3_0.png
+  rotate: false
+  xy: 496, 27
+  size: 8, 2
+  orig: 8, 2
+  offset: 0, 0
+  index: -1

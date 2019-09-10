@@ -1,0 +1,118 @@
+
+hat_U_bandage.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_bandage_h_lay_ha_2851_2_0.png
+  rotate: false
+  xy: 188, 2
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_lsp_ha_2852_2_0.png
+  rotate: false
+  xy: 138, 21
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_spk_ha_2851_0_0.png
+  rotate: false
+  xy: 126, 31
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_spk_ha_2851_1_0.png
+  rotate: false
+  xy: 157, 31
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_spk_ha_2851_2_0.png
+  rotate: false
+  xy: 96, 30
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_spk_ha_2851_3_0.png
+  rotate: false
+  xy: 2, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_std_ha_2851_0_0.png
+  rotate: false
+  xy: 225, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_std_ha_2851_1_0.png
+  rotate: false
+  xy: 188, 32
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_std_ha_2851_2_0.png
+  rotate: false
+  xy: 66, 30
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_std_ha_2851_3_0.png
+  rotate: false
+  xy: 34, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_std_ha_2851_7_0.png
+  rotate: false
+  xy: 219, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_std_ha_2852_0_0.png
+  rotate: false
+  xy: 147, 22
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_std_ha_2852_1_0.png
+  rotate: false
+  xy: 160, 22
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_std_ha_2852_2_0.png
+  rotate: false
+  xy: 126, 21
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_std_ha_2852_3_0.png
+  rotate: false
+  xy: 178, 22
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+hat_U_bandage_h_std_ha_2852_7_0.png
+  rotate: false
+  xy: 172, 22
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1

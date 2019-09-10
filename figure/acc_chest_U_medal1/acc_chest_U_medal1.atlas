@@ -1,0 +1,76 @@
+
+acc_chest_U_medal1.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_medal1_h_lay_ca_2741_2_0.png
+  rotate: false
+  xy: 2, 21
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+acc_chest_U_medal1_h_lay_ca_2741_4_0.png
+  rotate: false
+  xy: 2, 11
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+acc_chest_U_medal1_h_lay_ca_2742_2_0.png
+  rotate: false
+  xy: 40, 25
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+acc_chest_U_medal1_h_lay_ca_2742_4_0.png
+  rotate: false
+  xy: 40, 19
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+acc_chest_U_medal1_h_std_ca_2741_1_0.png
+  rotate: false
+  xy: 35, 16
+  size: 3, 13
+  orig: 3, 13
+  offset: 0, 0
+  index: -1
+acc_chest_U_medal1_h_std_ca_2741_2_0.png
+  rotate: false
+  xy: 17, 15
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+acc_chest_U_medal1_h_std_ca_2741_3_0.png
+  rotate: false
+  xy: 26, 16
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+acc_chest_U_medal1_h_std_ca_2742_1_0.png
+  rotate: false
+  xy: 49, 23
+  size: 1, 6
+  orig: 1, 6
+  offset: 0, 0
+  index: -1
+acc_chest_U_medal1_h_std_ca_2742_2_0.png
+  rotate: false
+  xy: 9, 2
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+acc_chest_U_medal1_h_std_ca_2742_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1

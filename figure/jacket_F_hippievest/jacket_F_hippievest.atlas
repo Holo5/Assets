@@ -1,0 +1,90 @@
+
+jacket_F_hippievest.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_F_hippievest_h_lay_cc_2016_2_0.png
+  rotate: false
+  xy: 194, 34
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+jacket_F_hippievest_h_lay_cc_2017_2_0.png
+  rotate: false
+  xy: 145, 4
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+jacket_F_hippievest_h_std_cc_2016_0_0.png
+  rotate: false
+  xy: 2, 25
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+jacket_F_hippievest_h_std_cc_2016_1_0.png
+  rotate: false
+  xy: 145, 29
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+jacket_F_hippievest_h_std_cc_2016_2_0.png
+  rotate: false
+  xy: 30, 26
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+jacket_F_hippievest_h_std_cc_2016_3_0.png
+  rotate: false
+  xy: 61, 28
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+jacket_F_hippievest_h_std_cc_2016_7_0.png
+  rotate: false
+  xy: 167, 30
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+jacket_F_hippievest_h_std_cc_2017_0_0.png
+  rotate: false
+  xy: 118, 28
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+jacket_F_hippievest_h_std_cc_2017_1_0.png
+  rotate: false
+  xy: 237, 34
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+jacket_F_hippievest_h_std_cc_2017_2_0.png
+  rotate: false
+  xy: 90, 28
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+jacket_F_hippievest_h_std_cc_2017_3_0.png
+  rotate: false
+  xy: 194, 2
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+jacket_F_hippievest_h_std_cc_2017_7_0.png
+  rotate: false
+  xy: 221, 3
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1

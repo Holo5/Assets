@@ -1,0 +1,90 @@
+
+Hat_U_urban.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Hat_U_urban_h_lay_ha_2093_2_0.png
+  rotate: false
+  xy: 312, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Hat_U_urban_h_lay_ha_2094_2_0.png
+  rotate: false
+  xy: 336, 4
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+Hat_U_urban_h_spk_ha_2093_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+Hat_U_urban_h_spk_ha_2093_3_0.png
+  rotate: false
+  xy: 181, 11
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+Hat_U_urban_h_spk_ha_2093_7_0.png
+  rotate: false
+  xy: 113, 9
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+Hat_U_urban_h_spk_ha_2094_2_0.png
+  rotate: false
+  xy: 279, 15
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+Hat_U_urban_h_spk_ha_2094_7_0.png
+  rotate: false
+  xy: 215, 11
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Hat_U_urban_h_std_ha_2093_1_0.png
+  rotate: false
+  xy: 41, 10
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+Hat_U_urban_h_std_ha_2093_2_0.png
+  rotate: false
+  xy: 78, 9
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+Hat_U_urban_h_std_ha_2094_0_0.png
+  rotate: false
+  xy: 147, 10
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Hat_U_urban_h_std_ha_2094_1_0.png
+  rotate: false
+  xy: 247, 12
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+Hat_U_urban_h_std_ha_2094_3_0.png
+  rotate: false
+  xy: 279, 2
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1

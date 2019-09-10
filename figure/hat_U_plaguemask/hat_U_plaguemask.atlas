@@ -1,0 +1,188 @@
+
+hat_U_plaguemask.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_plaguemask_h_lay_ha_3024_2_0.png
+  rotate: false
+  xy: 330, 24
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_lay_ha_3025_2_0.png
+  rotate: false
+  xy: 247, 27
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_lay_ha_3026_2_0.png
+  rotate: false
+  xy: 46, 5
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_lsp_ha_3025_2_0.png
+  rotate: false
+  xy: 216, 27
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_lsp_ha_3026_2_0.png
+  rotate: false
+  xy: 66, 5
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_spk_ha_3024_2_0.png
+  rotate: false
+  xy: 2, 22
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_spk_ha_3024_7_0.png
+  rotate: false
+  xy: 36, 22
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_spk_ha_3025_0_0.png
+  rotate: false
+  xy: 427, 27
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_spk_ha_3025_1_0.png
+  rotate: false
+  xy: 278, 24
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_spk_ha_3025_2_0.png
+  rotate: false
+  xy: 130, 24
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_spk_ha_3025_3_0.png
+  rotate: false
+  xy: 379, 22
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_spk_ha_3026_0_0.png
+  rotate: false
+  xy: 216, 24
+  size: 4, 1
+  orig: 4, 1
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_spk_ha_3026_1_0.png
+  rotate: false
+  xy: 451, 24
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_spk_ha_3026_2_0.png
+  rotate: false
+  xy: 451, 37
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_spk_ha_3026_3_0.png
+  rotate: false
+  xy: 474, 39
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_std_ha_3024_0_0.png
+  rotate: false
+  xy: 68, 22
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_std_ha_3024_1_0.png
+  rotate: false
+  xy: 189, 21
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_std_ha_3024_3_0.png
+  rotate: false
+  xy: 98, 24
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_std_ha_3025_0_0.png
+  rotate: false
+  xy: 403, 27
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_std_ha_3025_1_0.png
+  rotate: false
+  xy: 304, 24
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_std_ha_3025_2_0.png
+  rotate: false
+  xy: 160, 23
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_std_ha_3025_3_0.png
+  rotate: false
+  xy: 355, 21
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_std_ha_3026_1_0.png
+  rotate: false
+  xy: 85, 8
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_std_ha_3026_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_std_ha_3026_3_0.png
+  rotate: false
+  xy: 24, 4
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+hat_U_plaguemask_h_std_ha_3026_7_0.png
+  rotate: false
+  xy: 216, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

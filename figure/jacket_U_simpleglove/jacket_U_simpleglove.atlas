@@ -1,0 +1,671 @@
+
+jacket_U_simpleglove.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_U_simpleglove_h_crr_lc_2609_2_0.png
+  rotate: false
+  xy: 283, 20
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_crr_lc_2609_3_0.png
+  rotate: false
+  xy: 319, 10
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_crr_lc_2609_4_0.png
+  rotate: false
+  xy: 270, 21
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_crr_lc_2609_5_0.png
+  rotate: false
+  xy: 216, 21
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_crr_lc_2609_6_0.png
+  rotate: false
+  xy: 203, 20
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_crr_rc_2609_0_0.png
+  rotate: false
+  xy: 296, 20
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_crr_rc_2609_1_0.png
+  rotate: false
+  xy: 230, 21
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_crr_rc_2609_2_0.png
+  rotate: false
+  xy: 370, 21
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_crr_rc_2609_3_0.png
+  rotate: false
+  xy: 329, 10
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_crr_rc_2609_4_0.png
+  rotate: false
+  xy: 309, 20
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_drk_rc_2609_0_0.png
+  rotate: false
+  xy: 438, 18
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_drk_rc_2609_1_0.png
+  rotate: false
+  xy: 142, 4
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_drk_rc_2609_2_0.png
+  rotate: false
+  xy: 94, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_drk_rc_2609_3_0.png
+  rotate: false
+  xy: 107, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_drk_rc_2609_4_0.png
+  rotate: false
+  xy: 38, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_drk_rc_2609_5_0.png
+  rotate: false
+  xy: 459, 19
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_drk_rc_2609_6_0.png
+  rotate: false
+  xy: 153, 5
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_drk_rc_2609_7_0.png
+  rotate: false
+  xy: 156, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_lay_lc_2609_2_0.png
+  rotate: false
+  xy: 357, 10
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_lay_rc_2609_2_0.png
+  rotate: false
+  xy: 40, 17
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_std_lc_2609_0_0.png
+  rotate: false
+  xy: 373, 9
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_std_lc_2609_2_0.png
+  rotate: false
+  xy: 390, 8
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_std_lc_2609_3_0.png
+  rotate: false
+  xy: 258, 9
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_std_lc_2609_7_0.png
+  rotate: false
+  xy: 248, 9
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_std_rc_2609_0_0.png
+  rotate: false
+  xy: 427, 19
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_std_rc_2609_1_0.png
+  rotate: false
+  xy: 470, 19
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_std_rc_2609_2_0.png
+  rotate: false
+  xy: 74, 17
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_std_rc_2609_3_0.png
+  rotate: false
+  xy: 310, 8
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_std_rc_2609_7_0.png
+  rotate: false
+  xy: 182, 7
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_0_0.png
+  rotate: false
+  xy: 63, 17
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_0_1.png
+  rotate: false
+  xy: 120, 2
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_1_0.png
+  rotate: false
+  xy: 192, 7
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_1_1.png
+  rotate: false
+  xy: 218, 9
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_2_0.png
+  rotate: false
+  xy: 95, 16
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_2_1.png
+  rotate: false
+  xy: 61, 2
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_3_0.png
+  rotate: false
+  xy: 83, 2
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_3_1.png
+  rotate: false
+  xy: 119, 16
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_4_0.png
+  rotate: false
+  xy: 131, 18
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_4_1.png
+  rotate: false
+  xy: 143, 18
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_5_0.png
+  rotate: false
+  xy: 449, 18
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_5_1.png
+  rotate: false
+  xy: 491, 19
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_6_0.png
+  rotate: false
+  xy: 107, 16
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_6_1.png
+  rotate: false
+  xy: 2, 17
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_7_0.png
+  rotate: false
+  xy: 72, 2
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wav_lc_2609_7_1.png
+  rotate: false
+  xy: 28, 17
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_0_0.png
+  rotate: false
+  xy: 276, 9
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_0_1.png
+  rotate: false
+  xy: 153, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_0_2.png
+  rotate: false
+  xy: 366, 9
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_0_3.png
+  rotate: false
+  xy: 283, 9
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_1_1.png
+  rotate: false
+  xy: 416, 8
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_1_2.png
+  rotate: false
+  xy: 383, 19
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_1_3.png
+  rotate: false
+  xy: 465, 15
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_2_0.png
+  rotate: false
+  xy: 202, 7
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_2_1.png
+  rotate: false
+  xy: 85, 17
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_2_2.png
+  rotate: false
+  xy: 430, 7
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_3_0.png
+  rotate: false
+  xy: 267, 9
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_3_1.png
+  rotate: false
+  xy: 292, 8
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_3_3.png
+  rotate: false
+  xy: 339, 10
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_4_0.png
+  rotate: false
+  xy: 14, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_4_1.png
+  rotate: false
+  xy: 50, 2
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_4_2.png
+  rotate: false
+  xy: 2, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_4_3.png
+  rotate: false
+  xy: 322, 20
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_5_0.png
+  rotate: false
+  xy: 394, 19
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_5_1.png
+  rotate: false
+  xy: 334, 20
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_5_3.png
+  rotate: false
+  xy: 244, 21
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_6_0.png
+  rotate: false
+  xy: 167, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_6_1.png
+  rotate: false
+  xy: 155, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_6_3.png
+  rotate: false
+  xy: 405, 19
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_7_0.png
+  rotate: false
+  xy: 172, 7
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_7_1.png
+  rotate: false
+  xy: 398, 10
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_7_2.png
+  rotate: false
+  xy: 162, 7
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_lc_2609_7_3.png
+  rotate: false
+  xy: 481, 19
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_0_1.png
+  rotate: false
+  xy: 191, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_0_2.png
+  rotate: false
+  xy: 179, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_0_3.png
+  rotate: false
+  xy: 416, 19
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_1_1.png
+  rotate: false
+  xy: 346, 20
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_1_3.png
+  rotate: false
+  xy: 257, 21
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_2_0.png
+  rotate: false
+  xy: 26, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_2_1.png
+  rotate: false
+  xy: 52, 17
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_2_2.png
+  rotate: false
+  xy: 16, 17
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_2_3.png
+  rotate: false
+  xy: 358, 20
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_3_0.png
+  rotate: false
+  xy: 301, 8
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_3_1.png
+  rotate: false
+  xy: 348, 10
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_3_3.png
+  rotate: false
+  xy: 209, 8
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_4_0.png
+  rotate: false
+  xy: 437, 6
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_4_1.png
+  rotate: false
+  xy: 132, 3
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_4_2.png
+  rotate: false
+  xy: 423, 7
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_5_1.png
+  rotate: false
+  xy: 458, 7
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_6_0.png
+  rotate: false
+  xy: 444, 6
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_6_2.png
+  rotate: false
+  xy: 451, 7
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_6_3.png
+  rotate: false
+  xy: 381, 8
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_7_0.png
+  rotate: false
+  xy: 228, 9
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_7_1.png
+  rotate: false
+  xy: 501, 19
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_7_2.png
+  rotate: false
+  xy: 238, 9
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+jacket_U_simpleglove_h_wlk_rc_2609_7_3.png
+  rotate: false
+  xy: 407, 10
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+hat_F_cloche.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_F_cloche_h_lay_ha_2366_2_0.png
+  rotate: false
+  xy: 35, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_lay_ha_2368_2_0.png
+  rotate: false
+  xy: 145, 12
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_lsp_ha_2367_2_0.png
+  rotate: false
+  xy: 171, 11
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_spk_ha_2366_1_0.png
+  rotate: false
+  xy: 35, 33
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_spk_ha_2366_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_spk_ha_2366_3_0.png
+  rotate: false
+  xy: 101, 35
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_spk_ha_2367_0_0.png
+  rotate: false
+  xy: 93, 2
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_spk_ha_2367_1_0.png
+  rotate: false
+  xy: 121, 3
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_spk_ha_2367_2_0.png
+  rotate: false
+  xy: 223, 23
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_spk_ha_2367_7_0.png
+  rotate: false
+  xy: 101, 23
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_spk_ha_2368_1_0.png
+  rotate: false
+  xy: 164, 36
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_spk_ha_2368_2_0.png
+  rotate: false
+  xy: 194, 41
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_spk_ha_2368_7_0.png
+  rotate: false
+  xy: 133, 36
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_std_ha_2366_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_std_ha_2366_7_0.png
+  rotate: false
+  xy: 69, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_std_ha_2367_3_0.png
+  rotate: false
+  xy: 194, 31
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_std_ha_2368_0_0.png
+  rotate: false
+  xy: 67, 2
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+hat_F_cloche_h_std_ha_2368_3_0.png
+  rotate: false
+  xy: 225, 40
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1

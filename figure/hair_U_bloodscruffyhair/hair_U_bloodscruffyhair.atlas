@@ -1,0 +1,244 @@
+
+hair_U_bloodscruffyhair.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_bloodscruffyhair_h_lay_hr_3254_2_0.png
+  rotate: false
+  xy: 2, 96
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_lay_hr_3255_2_0.png
+  rotate: false
+  xy: 110, 223
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_lay_hrb_3254_2_0.png
+  rotate: false
+  xy: 2, 58
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_lay_hrb_3255_2_0.png
+  rotate: false
+  xy: 110, 201
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hr_3254_0_0.png
+  rotate: false
+  xy: 2, 208
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hr_3254_1_0.png
+  rotate: false
+  xy: 38, 136
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hr_3254_2_0.png
+  rotate: false
+  xy: 34, 101
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hr_3254_3_0.png
+  rotate: false
+  xy: 72, 105
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hr_3254_7_0.png
+  rotate: false
+  xy: 74, 208
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hr_3255_0_0.png
+  rotate: false
+  xy: 71, 50
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hr_3255_1_0.png
+  rotate: false
+  xy: 107, 135
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hr_3255_2_0.png
+  rotate: false
+  xy: 108, 167
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hr_3255_3_0.png
+  rotate: false
+  xy: 92, 74
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hr_3255_7_0.png
+  rotate: false
+  xy: 71, 16
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hrb_3254_0_0.png
+  rotate: false
+  xy: 2, 134
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hrb_3254_1_0.png
+  rotate: false
+  xy: 74, 173
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_spk_hrb_3254_2_0.png
+  rotate: false
+  xy: 36, 2
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hr_3254_0_0.png
+  rotate: false
+  xy: 38, 208
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hr_3254_1_0.png
+  rotate: false
+  xy: 2, 23
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hr_3254_2_0.png
+  rotate: false
+  xy: 72, 138
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hr_3254_3_0.png
+  rotate: false
+  xy: 36, 35
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hr_3254_7_0.png
+  rotate: false
+  xy: 38, 171
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hr_3255_0_0.png
+  rotate: false
+  xy: 69, 86
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hr_3255_1_0.png
+  rotate: false
+  xy: 107, 151
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hr_3255_2_0.png
+  rotate: false
+  xy: 108, 184
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hr_3255_3_0.png
+  rotate: false
+  xy: 71, 2
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hr_3255_7_0.png
+  rotate: false
+  xy: 71, 33
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hrb_3254_3_0.png
+  rotate: false
+  xy: 34, 68
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hrb_3254_7_0.png
+  rotate: false
+  xy: 2, 171
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hrb_3255_0_0.png
+  rotate: false
+  xy: 2, 4
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hrb_3255_1_0.png
+  rotate: false
+  xy: 107, 119
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hrb_3255_2_0.png
+  rotate: false
+  xy: 107, 102
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hrb_3255_3_0.png
+  rotate: false
+  xy: 92, 88
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+hair_U_bloodscruffyhair_h_std_hrb_3255_7_0.png
+  rotate: false
+  xy: 69, 69
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1

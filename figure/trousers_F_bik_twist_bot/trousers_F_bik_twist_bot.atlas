@@ -1,0 +1,83 @@
+
+trousers_F_bik_twist_bot.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_F_bik_twist_bot_h_lay_lg_2329_2_0.png
+  rotate: false
+  xy: 27, 12
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+trousers_F_bik_twist_bot_h_lay_lg_2330_2_0.png
+  rotate: false
+  xy: 118, 24
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+trousers_F_bik_twist_bot_h_sit_lg_2329_2_0.png
+  rotate: false
+  xy: 47, 21
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+trousers_F_bik_twist_bot_h_sit_lg_2330_2_0.png
+  rotate: false
+  xy: 72, 11
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+trousers_F_bik_twist_bot_h_std_lg_2329_0_0.png
+  rotate: false
+  xy: 2, 16
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+trousers_F_bik_twist_bot_h_std_lg_2329_1_0.png
+  rotate: false
+  xy: 27, 3
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+trousers_F_bik_twist_bot_h_std_lg_2329_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+trousers_F_bik_twist_bot_h_std_lg_2329_3_0.png
+  rotate: false
+  xy: 72, 19
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+trousers_F_bik_twist_bot_h_std_lg_2329_7_0.png
+  rotate: false
+  xy: 91, 19
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+trousers_F_bik_twist_bot_h_std_lg_2330_0_0.png
+  rotate: false
+  xy: 110, 23
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+trousers_F_bik_twist_bot_h_std_lg_2330_3_0.png
+  rotate: false
+  xy: 47, 14
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1

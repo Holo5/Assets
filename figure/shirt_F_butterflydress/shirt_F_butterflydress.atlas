@@ -1,0 +1,265 @@
+
+shirt_F_butterflydress.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_butterflydress_h_drk_rs_3467_0_0.png
+  rotate: false
+  xy: 33, 4
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_drk_rs_3467_1_0.png
+  rotate: false
+  xy: 9, 3
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_drk_rs_3467_2_0.png
+  rotate: false
+  xy: 152, 2
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_lay_ch_3466_2_0.png
+  rotate: false
+  xy: 110, 36
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_lay_ch_3467_2_0.png
+  rotate: false
+  xy: 142, 37
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_lay_ls_3467_2_0.png
+  rotate: false
+  xy: 118, 2
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_lay_rs_3467_2_0.png
+  rotate: false
+  xy: 216, 9
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_ch_3466_0_0.png
+  rotate: false
+  xy: 199, 38
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_ch_3466_1_0.png
+  rotate: false
+  xy: 224, 19
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_ch_3466_2_0.png
+  rotate: false
+  xy: 173, 38
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_ch_3466_3_0.png
+  rotate: false
+  xy: 180, 12
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_ch_3466_7_0.png
+  rotate: false
+  xy: 224, 39
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_ch_3467_1_0.png
+  rotate: false
+  xy: 152, 11
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_ch_3467_3_0.png
+  rotate: false
+  xy: 118, 9
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_ch_3467_7_0.png
+  rotate: false
+  xy: 2, 16
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_ls_3467_0_0.png
+  rotate: false
+  xy: 205, 28
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_ls_3467_2_0.png
+  rotate: false
+  xy: 244, 19
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_rs_3467_0_0.png
+  rotate: false
+  xy: 168, 2
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_std_rs_3467_2_0.png
+  rotate: false
+  xy: 205, 19
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wav_ls_3466_5_1.png
+  rotate: false
+  xy: 130, 3
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wav_ls_3467_3_1.png
+  rotate: false
+  xy: 76, 26
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wav_ls_3467_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wav_ls_3467_5_1.png
+  rotate: false
+  xy: 227, 9
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wav_ls_3467_6_0.png
+  rotate: false
+  xy: 20, 4
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_ch_3467_0_3.png
+  rotate: false
+  xy: 84, 6
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_ch_3467_2_2.png
+  rotate: false
+  xy: 76, 35
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_ch_3467_7_0.png
+  rotate: false
+  xy: 39, 17
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_ls_3467_1_0.png
+  rotate: false
+  xy: 59, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_rs_3466_2_0.png
+  rotate: false
+  xy: 80, 19
+  size: 1, 5
+  orig: 1, 5
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_rs_3466_2_3.png
+  rotate: false
+  xy: 76, 19
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_rs_3467_0_1.png
+  rotate: false
+  xy: 46, 2
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_rs_3467_1_0.png
+  rotate: false
+  xy: 205, 9
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_rs_3467_1_1.png
+  rotate: false
+  xy: 59, 5
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_rs_3467_1_2.png
+  rotate: false
+  xy: 180, 2
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_rs_3467_1_3.png
+  rotate: false
+  xy: 70, 6
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_rs_3467_3_0.png
+  rotate: false
+  xy: 244, 29
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+shirt_F_butterflydress_h_wlk_rs_3467_7_0.png
+  rotate: false
+  xy: 193, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1

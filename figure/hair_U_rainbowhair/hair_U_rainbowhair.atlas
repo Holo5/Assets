@@ -1,0 +1,132 @@
+
+hair_U_rainbowhair.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_rainbowhair_h_lay_hr_3413_2_0.png
+  rotate: false
+  xy: 2, 8
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_lay_hrb_3413_2_0.png
+  rotate: false
+  xy: 56, 8
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_lsp_hr_3413_2_0.png
+  rotate: false
+  xy: 110, 8
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_spk_hr_3413_0_0.png
+  rotate: false
+  xy: 467, 3
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_spk_hr_3413_1_0.png
+  rotate: false
+  xy: 747, 7
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_spk_hr_3413_2_0.png
+  rotate: false
+  xy: 635, 5
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_spk_hr_3413_3_0.png
+  rotate: false
+  xy: 164, 7
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_spk_hr_3413_7_0.png
+  rotate: false
+  xy: 339, 2
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_spk_hrb_3413_0_0.png
+  rotate: false
+  xy: 425, 3
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_spk_hrb_3413_7_0.png
+  rotate: false
+  xy: 296, 2
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_std_hr_3413_0_0.png
+  rotate: false
+  xy: 509, 3
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_std_hr_3413_1_0.png
+  rotate: false
+  xy: 677, 7
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_std_hr_3413_2_0.png
+  rotate: false
+  xy: 551, 5
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_std_hr_3413_3_0.png
+  rotate: false
+  xy: 252, 7
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_std_hr_3413_7_0.png
+  rotate: false
+  xy: 382, 2
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_std_hrb_3413_1_0.png
+  rotate: false
+  xy: 712, 7
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_std_hrb_3413_2_0.png
+  rotate: false
+  xy: 593, 5
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+hair_U_rainbowhair_h_std_hrb_3413_3_0.png
+  rotate: false
+  xy: 208, 7
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1

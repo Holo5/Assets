@@ -1,0 +1,552 @@
+
+shoes_U_bloodshoes.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_U_bloodshoes_h_lay_sh_3245_2_0.png
+  rotate: false
+  xy: 470, 2
+  size: 3, 10
+  orig: 3, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_lay_sh_3246_2_0.png
+  rotate: false
+  xy: 614, 12
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_sit_sh_3245_0_0.png
+  rotate: false
+  xy: 955, 16
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_sit_sh_3246_0_0.png
+  rotate: false
+  xy: 458, 14
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_sit_sh_3247_0_0.png
+  rotate: false
+  xy: 268, 2
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_sit_sh_3247_2_0.png
+  rotate: false
+  xy: 242, 2
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3245_0_0.png
+  rotate: false
+  xy: 567, 2
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3245_1_0.png
+  rotate: false
+  xy: 988, 11
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3245_2_0.png
+  rotate: false
+  xy: 785, 19
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3245_3_0.png
+  rotate: false
+  xy: 280, 23
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3245_7_0.png
+  rotate: false
+  xy: 873, 23
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3246_0_0.png
+  rotate: false
+  xy: 656, 17
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3246_1_0.png
+  rotate: false
+  xy: 972, 16
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3246_2_0.png
+  rotate: false
+  xy: 680, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3246_3_0.png
+  rotate: false
+  xy: 612, 2
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3246_7_0.png
+  rotate: false
+  xy: 589, 2
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3247_0_0.png
+  rotate: false
+  xy: 475, 16
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3247_1_0.png
+  rotate: false
+  xy: 746, 2
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3247_2_0.png
+  rotate: false
+  xy: 335, 14
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3247_3_0.png
+  rotate: false
+  xy: 501, 16
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_std_sh_3247_7_0.png
+  rotate: false
+  xy: 544, 2
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_0_0.png
+  rotate: false
+  xy: 288, 2
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_0_1.png
+  rotate: false
+  xy: 242, 23
+  size: 36, 7
+  orig: 36, 7
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_0_2.png
+  rotate: false
+  xy: 521, 2
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_0_3.png
+  rotate: false
+  xy: 918, 20
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_1_0.png
+  rotate: false
+  xy: 873, 11
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_1_1.png
+  rotate: false
+  xy: 119, 2
+  size: 35, 10
+  orig: 35, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_1_2.png
+  rotate: false
+  xy: 766, 3
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_1_3.png
+  rotate: false
+  xy: 204, 21
+  size: 36, 9
+  orig: 36, 9
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_2_0.png
+  rotate: false
+  xy: 635, 2
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_2_1.png
+  rotate: false
+  xy: 887, 11
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_2_2.png
+  rotate: false
+  xy: 900, 12
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_2_3.png
+  rotate: false
+  xy: 303, 15
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_3_0.png
+  rotate: false
+  xy: 426, 2
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_3_1.png
+  rotate: false
+  xy: 744, 18
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_3_2.png
+  rotate: false
+  xy: 448, 2
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_3_3.png
+  rotate: false
+  xy: 722, 18
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_7_1.png
+  rotate: false
+  xy: 851, 20
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_7_2.png
+  rotate: false
+  xy: 829, 21
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3245_7_3.png
+  rotate: false
+  xy: 896, 24
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_0_0.png
+  rotate: false
+  xy: 678, 17
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_0_1.png
+  rotate: false
+  xy: 166, 21
+  size: 36, 9
+  orig: 36, 9
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_0_2.png
+  rotate: false
+  xy: 658, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_0_3.png
+  rotate: false
+  xy: 70, 6
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_1_0.png
+  rotate: false
+  xy: 988, 20
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_1_1.png
+  rotate: false
+  xy: 36, 2
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_1_2.png
+  rotate: false
+  xy: 938, 16
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_1_3.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_2_0.png
+  rotate: false
+  xy: 633, 17
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_2_1.png
+  rotate: false
+  xy: 1005, 21
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_2_2.png
+  rotate: false
+  xy: 312, 2
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_2_3.png
+  rotate: false
+  xy: 85, 2
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_3_0.png
+  rotate: false
+  xy: 357, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_3_1.png
+  rotate: false
+  xy: 498, 2
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_3_2.png
+  rotate: false
+  xy: 334, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_3_3.png
+  rotate: false
+  xy: 475, 2
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_7_1.png
+  rotate: false
+  xy: 380, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_7_2.png
+  rotate: false
+  xy: 806, 21
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3246_7_3.png
+  rotate: false
+  xy: 403, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_0_0.png
+  rotate: false
+  xy: 388, 14
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_0_1.png
+  rotate: false
+  xy: 85, 17
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_0_2.png
+  rotate: false
+  xy: 362, 14
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_0_3.png
+  rotate: false
+  xy: 218, 3
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_1_0.png
+  rotate: false
+  xy: 700, 18
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_1_1.png
+  rotate: false
+  xy: 2, 15
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_1_2.png
+  rotate: false
+  xy: 524, 16
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_1_3.png
+  rotate: false
+  xy: 43, 16
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_2_0.png
+  rotate: false
+  xy: 166, 2
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_2_1.png
+  rotate: false
+  xy: 766, 16
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_2_2.png
+  rotate: false
+  xy: 569, 15
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_2_3.png
+  rotate: false
+  xy: 127, 14
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_3_0.png
+  rotate: false
+  xy: 436, 14
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_3_1.png
+  rotate: false
+  xy: 196, 2
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_3_2.png
+  rotate: false
+  xy: 414, 14
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_3_3.png
+  rotate: false
+  xy: 592, 12
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_7_1.png
+  rotate: false
+  xy: 702, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_7_2.png
+  rotate: false
+  xy: 724, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+shoes_U_bloodshoes_h_wlk_sh_3247_7_3.png
+  rotate: false
+  xy: 547, 16
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1

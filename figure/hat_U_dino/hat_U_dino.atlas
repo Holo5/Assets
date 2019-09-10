@@ -1,0 +1,118 @@
+
+hat_U_dino.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_dino_h_lay_ha_2758_2_0.png
+  rotate: false
+  xy: 82, 26
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_lay_ha_2760_2_0.png
+  rotate: false
+  xy: 213, 44
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_lsp_ha_2759_2_0.png
+  rotate: false
+  xy: 78, 2
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_spk_ha_2758_3_0.png
+  rotate: false
+  xy: 157, 28
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_spk_ha_2759_1_0.png
+  rotate: false
+  xy: 213, 28
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_spk_ha_2759_3_0.png
+  rotate: false
+  xy: 2, 4
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_spk_ha_2760_0_0.png
+  rotate: false
+  xy: 241, 50
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_spk_ha_2760_1_0.png
+  rotate: false
+  xy: 122, 14
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_spk_ha_2760_2_0.png
+  rotate: false
+  xy: 33, 12
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_spk_ha_2760_3_0.png
+  rotate: false
+  xy: 100, 9
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_std_ha_2758_0_0.png
+  rotate: false
+  xy: 43, 28
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_std_ha_2758_1_0.png
+  rotate: false
+  xy: 2, 28
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_std_ha_2758_2_0.png
+  rotate: false
+  xy: 120, 28
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_std_ha_2758_7_0.png
+  rotate: false
+  xy: 185, 30
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_std_ha_2759_0_0.png
+  rotate: false
+  xy: 62, 13
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+hat_U_dino_h_std_ha_2759_2_0.png
+  rotate: false
+  xy: 2, 11
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1

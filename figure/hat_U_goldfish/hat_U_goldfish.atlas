@@ -1,0 +1,48 @@
+
+hat_U_goldfish.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_goldfish_h_lsp_ha_3151_2_0.png
+  rotate: false
+  xy: 43, 10
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+hat_U_goldfish_h_spk_ha_3151_3_0.png
+  rotate: false
+  xy: 166, 5
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+hat_U_goldfish_h_std_ha_3151_0_0.png
+  rotate: false
+  xy: 130, 2
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+hat_U_goldfish_h_std_ha_3151_1_0.png
+  rotate: false
+  xy: 2, 3
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+hat_U_goldfish_h_std_ha_3151_2_0.png
+  rotate: false
+  xy: 90, 4
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+hat_U_goldfish_h_std_ha_3151_7_0.png
+  rotate: false
+  xy: 200, 5
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1

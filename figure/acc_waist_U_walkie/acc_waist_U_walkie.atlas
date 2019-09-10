@@ -1,0 +1,111 @@
+
+acc_waist_U_walkie.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_waist_U_walkie_h_lay_wa_2752_2_0.png
+  rotate: false
+  xy: 2, 11
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_lay_wa_2753_2_0.png
+  rotate: false
+  xy: 76, 20
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_lay_wa_2754_2_0.png
+  rotate: false
+  xy: 94, 22
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2752_0_0.png
+  rotate: false
+  xy: 24, 18
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2752_1_0.png
+  rotate: false
+  xy: 49, 11
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2752_2_0.png
+  rotate: false
+  xy: 50, 18
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2752_3_0.png
+  rotate: false
+  xy: 24, 11
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2752_7_0.png
+  rotate: false
+  xy: 2, 4
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2753_1_0.png
+  rotate: false
+  xy: 102, 10
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2753_2_0.png
+  rotate: false
+  xy: 77, 3
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2753_3_0.png
+  rotate: false
+  xy: 68, 2
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2754_1_0.png
+  rotate: false
+  xy: 110, 27
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2754_2_0.png
+  rotate: false
+  xy: 87, 5
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2754_3_0.png
+  rotate: false
+  xy: 95, 8
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+acc_waist_U_walkie_h_std_wa_2754_7_0.png
+  rotate: false
+  xy: 87, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

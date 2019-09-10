@@ -1,0 +1,314 @@
+
+hair_U_ombre.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_ombre_h_lay_hr_2896_2_0.png
+  rotate: false
+  xy: 41, 37
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_lay_hr_2897_2_0.png
+  rotate: false
+  xy: 72, 2
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_lay_hrb_2896_2_0.png
+  rotate: false
+  xy: 77, 37
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_lsp_hrb_2897_2_0.png
+  rotate: false
+  xy: 41, 2
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hr_2896_0_0.png
+  rotate: false
+  xy: 84, 140
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hr_2896_1_0.png
+  rotate: false
+  xy: 84, 217
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hr_2896_2_0.png
+  rotate: false
+  xy: 84, 179
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hr_2896_3_0.png
+  rotate: false
+  xy: 166, 184
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hr_2896_7_0.png
+  rotate: false
+  xy: 2, 216
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hr_2897_0_0.png
+  rotate: false
+  xy: 203, 76
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hr_2897_1_0.png
+  rotate: false
+  xy: 125, 120
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hr_2897_2_0.png
+  rotate: false
+  xy: 203, 132
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hr_2897_3_0.png
+  rotate: false
+  xy: 164, 80
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hr_2897_7_0.png
+  rotate: false
+  xy: 113, 26
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hrb_2896_0_0.png
+  rotate: false
+  xy: 2, 60
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hrb_2896_1_0.png
+  rotate: false
+  xy: 43, 217
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hrb_2896_2_0.png
+  rotate: false
+  xy: 43, 140
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hrb_2896_3_0.png
+  rotate: false
+  xy: 166, 220
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hrb_2896_7_0.png
+  rotate: false
+  xy: 2, 176
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hrb_2897_0_0.png
+  rotate: false
+  xy: 152, 31
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hrb_2897_1_0.png
+  rotate: false
+  xy: 164, 132
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hrb_2897_2_0.png
+  rotate: false
+  xy: 203, 104
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hrb_2897_3_0.png
+  rotate: false
+  xy: 103, 4
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_spk_hrb_2897_7_0.png
+  rotate: false
+  xy: 119, 75
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hr_2896_0_0.png
+  rotate: false
+  xy: 207, 218
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hr_2896_1_0.png
+  rotate: false
+  xy: 2, 99
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hr_2896_2_0.png
+  rotate: false
+  xy: 125, 181
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hr_2896_3_0.png
+  rotate: false
+  xy: 207, 183
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hr_2896_7_0.png
+  rotate: false
+  xy: 43, 178
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hr_2897_0_0.png
+  rotate: false
+  xy: 197, 49
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hr_2897_1_0.png
+  rotate: false
+  xy: 164, 102
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hr_2897_2_0.png
+  rotate: false
+  xy: 113, 48
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hr_2897_3_0.png
+  rotate: false
+  xy: 158, 59
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hr_2897_7_0.png
+  rotate: false
+  xy: 125, 97
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hrb_2896_0_0.png
+  rotate: false
+  xy: 2, 22
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hrb_2896_1_0.png
+  rotate: false
+  xy: 125, 218
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hrb_2896_2_0.png
+  rotate: false
+  xy: 43, 103
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hrb_2896_3_0.png
+  rotate: false
+  xy: 84, 105
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hrb_2896_7_0.png
+  rotate: false
+  xy: 2, 137
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hrb_2897_0_0.png
+  rotate: false
+  xy: 82, 76
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hrb_2897_1_0.png
+  rotate: false
+  xy: 125, 151
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hrb_2897_2_0.png
+  rotate: false
+  xy: 43, 76
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hrb_2897_3_0.png
+  rotate: false
+  xy: 166, 163
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+hair_U_ombre_h_std_hrb_2897_7_0.png
+  rotate: false
+  xy: 205, 160
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1

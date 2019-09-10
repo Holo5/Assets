@@ -1,0 +1,62 @@
+
+acc_chest_U_bowtie.png
+size: 128,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_bowtie_h_lay_ca_2304_2_0.png
+  rotate: false
+  xy: 30, 5
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+acc_chest_U_bowtie_h_lay_ca_2305_2_0.png
+  rotate: false
+  xy: 56, 7
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+acc_chest_U_bowtie_h_std_ca_2304_1_0.png
+  rotate: false
+  xy: 80, 4
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+acc_chest_U_bowtie_h_std_ca_2304_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+acc_chest_U_bowtie_h_std_ca_2304_3_0.png
+  rotate: false
+  xy: 16, 5
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+acc_chest_U_bowtie_h_std_ca_2305_1_0.png
+  rotate: false
+  xy: 86, 6
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: -1
+acc_chest_U_bowtie_h_std_ca_2305_2_0.png
+  rotate: false
+  xy: 44, 4
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+acc_chest_U_bowtie_h_std_ca_2305_3_0.png
+  rotate: false
+  xy: 68, 7
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1

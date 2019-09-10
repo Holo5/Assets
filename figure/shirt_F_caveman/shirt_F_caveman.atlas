@@ -1,0 +1,195 @@
+
+shirt_F_caveman.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_caveman_h_lay_ch_2755_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_std_ch_2755_0_0.png
+  rotate: false
+  xy: 76, 22
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_std_ch_2755_2_0.png
+  rotate: false
+  xy: 188, 26
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_std_ch_2755_3_0.png
+  rotate: false
+  xy: 242, 26
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_std_ch_2755_7_0.png
+  rotate: false
+  xy: 453, 25
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_std_ls_2755_3_0.png
+  rotate: false
+  xy: 41, 49
+  size: 2, 13
+  orig: 2, 13
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wav_ls_2755_3_0.png
+  rotate: false
+  xy: 45, 49
+  size: 1, 13
+  orig: 1, 13
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wav_ls_2755_7_1.png
+  rotate: false
+  xy: 501, 52
+  size: 3, 10
+  orig: 3, 10
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_0_1.png
+  rotate: false
+  xy: 132, 23
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_0_2.png
+  rotate: false
+  xy: 48, 22
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_0_3.png
+  rotate: false
+  xy: 104, 22
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_1_1.png
+  rotate: false
+  xy: 25, 2
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_1_2.png
+  rotate: false
+  xy: 478, 32
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_1_3.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_2_1.png
+  rotate: false
+  xy: 215, 26
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_2_3.png
+  rotate: false
+  xy: 426, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_3_0.png
+  rotate: false
+  xy: 269, 26
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_3_1.png
+  rotate: false
+  xy: 160, 26
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_3_2.png
+  rotate: false
+  xy: 296, 26
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_3_3.png
+  rotate: false
+  xy: 323, 26
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_7_1.png
+  rotate: false
+  xy: 350, 25
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_7_2.png
+  rotate: false
+  xy: 401, 25
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ch_2755_7_3.png
+  rotate: false
+  xy: 376, 25
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ls_2755_3_2.png
+  rotate: false
+  xy: 48, 8
+  size: 2, 12
+  orig: 2, 12
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_ls_2755_3_3.png
+  rotate: false
+  xy: 41, 36
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_rs_2755_3_0.png
+  rotate: false
+  xy: 45, 46
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_caveman_h_wlk_rs_2755_3_2.png
+  rotate: false
+  xy: 41, 33
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,741 @@
+
+shirt_F_teddygown.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_teddygown_h_crr_ls_3506_0_0.png
+  rotate: false
+  xy: 1629, 40
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_ls_3506_2_0.png
+  rotate: false
+  xy: 1579, 38
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_ls_3506_3_0.png
+  rotate: false
+  xy: 1568, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_ls_3506_4_0.png
+  rotate: false
+  xy: 1317, 35
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_ls_3506_6_0.png
+  rotate: false
+  xy: 1202, 37
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_ls_3506_7_0.png
+  rotate: false
+  xy: 1601, 38
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_rs_3506_0_0.png
+  rotate: false
+  xy: 1172, 37
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_rs_3506_1_0.png
+  rotate: false
+  xy: 1358, 39
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_rs_3506_2_0.png
+  rotate: false
+  xy: 1303, 35
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_rs_3506_3_0.png
+  rotate: false
+  xy: 1557, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_rs_3506_4_0.png
+  rotate: false
+  xy: 1546, 38
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_rs_3506_5_0.png
+  rotate: false
+  xy: 1372, 39
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_rs_3506_6_0.png
+  rotate: false
+  xy: 1621, 40
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_crr_rs_3506_7_0.png
+  rotate: false
+  xy: 1590, 38
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_drk_rs_3506_0_0.png
+  rotate: false
+  xy: 87, 2
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_drk_rs_3506_1_0.png
+  rotate: false
+  xy: 66, 9
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_drk_rs_3506_2_0.png
+  rotate: false
+  xy: 1386, 43
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_drk_rs_3506_3_0.png
+  rotate: false
+  xy: 818, 17
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_drk_rs_3506_4_0.png
+  rotate: false
+  xy: 51, 2
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_drk_rs_3506_5_0.png
+  rotate: false
+  xy: 141, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_drk_rs_3506_6_0.png
+  rotate: false
+  xy: 119, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_drk_rs_3506_7_0.png
+  rotate: false
+  xy: 1486, 44
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_lay_ch_3506_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_lay_ls_3506_2_0.png
+  rotate: false
+  xy: 559, 2
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_lay_rs_3506_2_0.png
+  rotate: false
+  xy: 783, 40
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_sit_ch_3506_0_0.png
+  rotate: false
+  xy: 51, 24
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_sit_ch_3506_2_0.png
+  rotate: false
+  xy: 87, 17
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_ch_3506_0_0.png
+  rotate: false
+  xy: 559, 19
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_ch_3506_1_0.png
+  rotate: false
+  xy: 717, 20
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_ch_3506_2_0.png
+  rotate: false
+  xy: 182, 17
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_ch_3506_3_0.png
+  rotate: false
+  xy: 453, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_ch_3506_7_0.png
+  rotate: false
+  xy: 426, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_ls_3506_0_0.png
+  rotate: false
+  xy: 1498, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_ls_3506_2_0.png
+  rotate: false
+  xy: 1534, 38
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_ls_3506_3_0.png
+  rotate: false
+  xy: 1099, 33
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_ls_3506_7_0.png
+  rotate: false
+  xy: 1127, 34
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_rs_3506_0_0.png
+  rotate: false
+  xy: 913, 33
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_rs_3506_1_0.png
+  rotate: false
+  xy: 1217, 38
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_rs_3506_2_0.png
+  rotate: false
+  xy: 956, 34
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_rs_3506_3_0.png
+  rotate: false
+  xy: 1113, 33
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_std_rs_3506_7_0.png
+  rotate: false
+  xy: 1141, 34
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wav_ls_3506_0_0.png
+  rotate: false
+  xy: 783, 20
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wav_ls_3506_1_0.png
+  rotate: false
+  xy: 588, 2
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wav_ls_3506_2_0.png
+  rotate: false
+  xy: 1404, 45
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wav_ls_3506_3_0.png
+  rotate: false
+  xy: 1455, 44
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wav_ls_3506_3_1.png
+  rotate: false
+  xy: 1439, 44
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wav_ls_3506_4_0.png
+  rotate: false
+  xy: 810, 40
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wav_ls_3506_5_1.png
+  rotate: false
+  xy: 1471, 44
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wav_ls_3506_6_0.png
+  rotate: false
+  xy: 666, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wav_ls_3506_7_0.png
+  rotate: false
+  xy: 1422, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wav_ls_3506_7_1.png
+  rotate: false
+  xy: 801, 20
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_0_0.png
+  rotate: false
+  xy: 587, 19
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_0_1.png
+  rotate: false
+  xy: 151, 19
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_0_2.png
+  rotate: false
+  xy: 614, 19
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_0_3.png
+  rotate: false
+  xy: 507, 16
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_1_0.png
+  rotate: false
+  xy: 739, 20
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_1_1.png
+  rotate: false
+  xy: 666, 20
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_1_2.png
+  rotate: false
+  xy: 761, 20
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_1_3.png
+  rotate: false
+  xy: 692, 20
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_2_0.png
+  rotate: false
+  xy: 640, 17
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_2_1.png
+  rotate: false
+  xy: 533, 16
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_2_2.png
+  rotate: false
+  xy: 480, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_2_3.png
+  rotate: false
+  xy: 119, 18
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_3_0.png
+  rotate: false
+  xy: 399, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_3_1.png
+  rotate: false
+  xy: 345, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_3_2.png
+  rotate: false
+  xy: 372, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_3_3.png
+  rotate: false
+  xy: 264, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_7_0.png
+  rotate: false
+  xy: 291, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_7_1.png
+  rotate: false
+  xy: 210, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_7_2.png
+  rotate: false
+  xy: 237, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ch_3506_7_3.png
+  rotate: false
+  xy: 318, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_0_0.png
+  rotate: false
+  xy: 1510, 37
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_0_1.png
+  rotate: false
+  xy: 1612, 40
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_0_3.png
+  rotate: false
+  xy: 1330, 37
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_1_1.png
+  rotate: false
+  xy: 614, 2
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_1_3.png
+  rotate: false
+  xy: 1637, 41
+  size: 6, 21
+  orig: 6, 21
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_2_1.png
+  rotate: false
+  xy: 1344, 38
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_2_2.png
+  rotate: false
+  xy: 1522, 38
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_2_3.png
+  rotate: false
+  xy: 603, 2
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_3_0.png
+  rotate: false
+  xy: 942, 33
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_3_1.png
+  rotate: false
+  xy: 36, 2
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_3_2.png
+  rotate: false
+  xy: 928, 33
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_3_3.png
+  rotate: false
+  xy: 1275, 35
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_7_0.png
+  rotate: false
+  xy: 1071, 34
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_7_1.png
+  rotate: false
+  xy: 1289, 35
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_ls_3506_7_3.png
+  rotate: false
+  xy: 1085, 34
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_0_0.png
+  rotate: false
+  xy: 883, 33
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_0_1.png
+  rotate: false
+  xy: 986, 34
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_0_2.png
+  rotate: false
+  xy: 898, 33
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_0_3.png
+  rotate: false
+  xy: 19, 2
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_1_0.png
+  rotate: false
+  xy: 1232, 38
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_1_1.png
+  rotate: false
+  xy: 832, 38
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_1_2.png
+  rotate: false
+  xy: 1187, 37
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_1_3.png
+  rotate: false
+  xy: 1155, 37
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_2_0.png
+  rotate: false
+  xy: 971, 34
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_2_1.png
+  rotate: false
+  xy: 851, 33
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_2_2.png
+  rotate: false
+  xy: 868, 33
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_3_0.png
+  rotate: false
+  xy: 1001, 34
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_3_1.png
+  rotate: false
+  xy: 1247, 35
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_3_2.png
+  rotate: false
+  xy: 1015, 34
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_3_3.png
+  rotate: false
+  xy: 1043, 34
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_7_0.png
+  rotate: false
+  xy: 1029, 34
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_7_1.png
+  rotate: false
+  xy: 1057, 34
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+shirt_F_teddygown_h_wlk_rs_3506_7_3.png
+  rotate: false
+  xy: 1261, 35
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1

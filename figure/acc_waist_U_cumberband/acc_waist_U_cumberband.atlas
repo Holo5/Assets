@@ -1,0 +1,41 @@
+
+acc_waist_U_cumberband.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_waist_U_cumberband_h_lay_wa_2864_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+acc_waist_U_cumberband_h_std_wa_2864_0_0.png
+  rotate: false
+  xy: 54, 8
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+acc_waist_U_cumberband_h_std_wa_2864_1_0.png
+  rotate: false
+  xy: 106, 13
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+acc_waist_U_cumberband_h_std_wa_2864_2_0.png
+  rotate: false
+  xy: 26, 8
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+acc_waist_U_cumberband_h_std_wa_2864_7_0.png
+  rotate: false
+  xy: 81, 13
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1

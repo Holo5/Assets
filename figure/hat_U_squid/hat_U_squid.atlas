@@ -1,0 +1,48 @@
+
+hat_U_squid.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_squid_h_lsp_ha_2604_2_0.png
+  rotate: false
+  xy: 104, 23
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+hat_U_squid_h_spk_ha_2604_0_0.png
+  rotate: false
+  xy: 149, 20
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+hat_U_squid_h_spk_ha_2604_1_0.png
+  rotate: false
+  xy: 70, 9
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+hat_U_squid_h_spk_ha_2604_3_0.png
+  rotate: false
+  xy: 40, 5
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+hat_U_squid_h_std_ha_2604_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+hat_U_squid_h_std_ha_2604_7_0.png
+  rotate: false
+  xy: 185, 22
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1

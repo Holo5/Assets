@@ -1,0 +1,90 @@
+
+hat_U_piglethat.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_piglethat_h_lsp_ha_3313_2_0.png
+  rotate: false
+  xy: 46, 2
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+hat_U_piglethat_h_lsp_ha_3314_2_0.png
+  rotate: false
+  xy: 86, 9
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+hat_U_piglethat_h_spk_ha_3313_0_0.png
+  rotate: false
+  xy: 129, 29
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+hat_U_piglethat_h_spk_ha_3313_1_0.png
+  rotate: false
+  xy: 166, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hat_U_piglethat_h_spk_ha_3313_3_0.png
+  rotate: false
+  xy: 46, 34
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+hat_U_piglethat_h_spk_ha_3313_7_0.png
+  rotate: false
+  xy: 2, 30
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+hat_U_piglethat_h_spk_ha_3314_0_0.png
+  rotate: false
+  xy: 2, 4
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+hat_U_piglethat_h_spk_ha_3314_1_0.png
+  rotate: false
+  xy: 200, 31
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+hat_U_piglethat_h_spk_ha_3314_7_0.png
+  rotate: false
+  xy: 42, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_U_piglethat_h_std_ha_3313_2_0.png
+  rotate: false
+  xy: 90, 27
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+hat_U_piglethat_h_std_ha_3314_2_0.png
+  rotate: false
+  xy: 200, 44
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+hat_U_piglethat_h_std_ha_3314_3_0.png
+  rotate: false
+  xy: 2, 12
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1

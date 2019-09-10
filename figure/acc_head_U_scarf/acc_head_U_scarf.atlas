@@ -1,0 +1,48 @@
+
+acc_head_U_scarf.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_scarf_h_lay_he_2470_2_0.png
+  rotate: false
+  xy: 101, 6
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+acc_head_U_scarf_h_std_he_2470_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+acc_head_U_scarf_h_std_he_2470_1_0.png
+  rotate: false
+  xy: 128, 8
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+acc_head_U_scarf_h_std_he_2470_2_0.png
+  rotate: false
+  xy: 69, 12
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+acc_head_U_scarf_h_std_he_2470_3_0.png
+  rotate: false
+  xy: 154, 21
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+acc_head_U_scarf_h_std_he_2470_7_0.png
+  rotate: false
+  xy: 38, 8
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1

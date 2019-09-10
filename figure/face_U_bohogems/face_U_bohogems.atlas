@@ -1,0 +1,139 @@
+
+face_U_bohogems.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+face_U_bohogems_h_agr_ey_3417_1_0.png
+  rotate: false
+  xy: 365, 4
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_agr_ey_3417_2_0.png
+  rotate: false
+  xy: 174, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_agr_ey_3417_3_0.png
+  rotate: false
+  xy: 28, 3
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_eyb_ey_3417_1_0.png
+  rotate: false
+  xy: 333, 4
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_eyb_ey_3417_2_0.png
+  rotate: false
+  xy: 195, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_eyb_ey_3417_3_0.png
+  rotate: false
+  xy: 80, 3
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_lag_ey_3417_2_0.png
+  rotate: false
+  xy: 257, 7
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_lay_ey_3417_2_0.png
+  rotate: false
+  xy: 277, 7
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_ley_ey_3417_2_0.png
+  rotate: false
+  xy: 237, 7
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_lsa_ey_3417_2_0.png
+  rotate: false
+  xy: 297, 7
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_sad_ey_3417_1_0.png
+  rotate: false
+  xy: 317, 4
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_sad_ey_3417_2_0.png
+  rotate: false
+  xy: 216, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_sad_ey_3417_3_0.png
+  rotate: false
+  xy: 54, 3
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_srp_ey_3417_1_0.png
+  rotate: false
+  xy: 349, 4
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_srp_ey_3417_2_0.png
+  rotate: false
+  xy: 153, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_srp_ey_3417_3_0.png
+  rotate: false
+  xy: 2, 3
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_std_ey_3417_1_0.png
+  rotate: false
+  xy: 381, 4
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_std_ey_3417_2_0.png
+  rotate: false
+  xy: 132, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+face_U_bohogems_h_std_ey_3417_3_0.png
+  rotate: false
+  xy: 106, 3
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1

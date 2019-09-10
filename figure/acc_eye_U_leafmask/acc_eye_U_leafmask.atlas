@@ -1,0 +1,76 @@
+
+acc_eye_U_leafmask.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_eye_U_leafmask_h_lay_ea_3435_2_0.png
+  rotate: false
+  xy: 28, 14
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+acc_eye_U_leafmask_h_lay_ea_3436_2_0.png
+  rotate: false
+  xy: 123, 16
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+acc_eye_U_leafmask_h_spk_ea_3436_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+acc_eye_U_leafmask_h_spk_ea_3436_1_0.png
+  rotate: false
+  xy: 162, 15
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+acc_eye_U_leafmask_h_spk_ea_3436_2_0.png
+  rotate: false
+  xy: 77, 15
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+acc_eye_U_leafmask_h_spk_ea_3436_3_0.png
+  rotate: false
+  xy: 99, 17
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+acc_eye_U_leafmask_h_std_ea_3435_0_0.png
+  rotate: false
+  xy: 176, 17
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+acc_eye_U_leafmask_h_std_ea_3435_1_0.png
+  rotate: false
+  xy: 146, 13
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+acc_eye_U_leafmask_h_std_ea_3435_2_0.png
+  rotate: false
+  xy: 53, 13
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+acc_eye_U_leafmask_h_std_ea_3435_3_0.png
+  rotate: false
+  xy: 2, 14
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1

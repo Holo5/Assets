@@ -1,0 +1,83 @@
+
+hat_U_hhcap.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_hhcap_h_lay_ha_2278_2_0.png
+  rotate: false
+  xy: 2, 30
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+hat_U_hhcap_h_lay_ha_2279_2_0.png
+  rotate: false
+  xy: 94, 10
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+hat_U_hhcap_h_spk_ha_2278_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hat_U_hhcap_h_spk_ha_2279_1_0.png
+  rotate: false
+  xy: 112, 17
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+hat_U_hhcap_h_spk_ha_2279_2_0.png
+  rotate: false
+  xy: 104, 31
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+hat_U_hhcap_h_spk_ha_2279_3_0.png
+  rotate: false
+  xy: 104, 48
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+hat_U_hhcap_h_std_ha_2278_0_0.png
+  rotate: false
+  xy: 30, 7
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+hat_U_hhcap_h_std_ha_2278_1_0.png
+  rotate: false
+  xy: 64, 38
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+hat_U_hhcap_h_std_ha_2278_2_0.png
+  rotate: false
+  xy: 28, 33
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+hat_U_hhcap_h_std_ha_2278_7_0.png
+  rotate: false
+  xy: 66, 9
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+hat_U_hhcap_h_std_ha_2279_0_0.png
+  rotate: false
+  xy: 94, 29
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+acc_head_U_pins.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_pins_h_lay_he_2395_2_0.png
+  rotate: false
+  xy: 181, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+acc_head_U_pins_h_std_he_2395_0_0.png
+  rotate: false
+  xy: 41, 4
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+acc_head_U_pins_h_std_he_2395_1_0.png
+  rotate: false
+  xy: 2, 6
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+acc_head_U_pins_h_std_he_2395_2_0.png
+  rotate: false
+  xy: 147, 7
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+acc_head_U_pins_h_std_he_2395_3_0.png
+  rotate: false
+  xy: 78, 4
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+acc_head_U_pins_h_std_he_2395_7_0.png
+  rotate: false
+  xy: 113, 4
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+shirt_F_minitop.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_minitop_h_lay_ch_0_2_0.png
+  rotate: false
+  xy: 55, 37
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+shirt_F_minitop_h_std_ch_0_0_0.png
+  rotate: false
+  xy: 28, 33
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+shirt_F_minitop_h_std_ch_0_1_0.png
+  rotate: false
+  xy: 25, 4
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+shirt_F_minitop_h_std_ch_0_2_0.png
+  rotate: false
+  xy: 2, 31
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+shirt_F_minitop_h_std_ch_0_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+shirt_F_minitop_h_std_ch_0_7_0.png
+  rotate: false
+  xy: 86, 37
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1

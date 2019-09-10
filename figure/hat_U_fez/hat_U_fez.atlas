@@ -1,0 +1,97 @@
+
+hat_U_fez.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_fez_h_lay_ha_2495_2_0.png
+  rotate: false
+  xy: 144, 3
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_lay_ha_2496_2_0.png
+  rotate: false
+  xy: 169, 3
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_lsp_ha_2495_2_0.png
+  rotate: false
+  xy: 119, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_spk_ha_2495_1_0.png
+  rotate: false
+  xy: 32, 7
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_spk_ha_2495_2_0.png
+  rotate: false
+  xy: 62, 7
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_spk_ha_2495_7_0.png
+  rotate: false
+  xy: 91, 6
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_spk_ha_2496_0_0.png
+  rotate: false
+  xy: 218, 12
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_spk_ha_2496_3_0.png
+  rotate: false
+  xy: 197, 2
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_spk_ha_2496_7_0.png
+  rotate: false
+  xy: 197, 16
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_std_ha_2495_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_std_ha_2495_3_0.png
+  rotate: false
+  xy: 169, 11
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_std_ha_2496_1_0.png
+  rotate: false
+  xy: 235, 11
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+hat_U_fez_h_std_ha_2496_2_0.png
+  rotate: false
+  xy: 244, 13
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1

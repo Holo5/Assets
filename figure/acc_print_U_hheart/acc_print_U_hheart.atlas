@@ -1,0 +1,34 @@
+
+acc_print_U_hheart.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_print_U_hheart_h_lay_cp_2613_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+acc_print_U_hheart_h_std_cp_2613_4_0.png
+  rotate: false
+  xy: 19, 13
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+acc_print_U_hheart_h_std_cp_2613_6_0.png
+  rotate: false
+  xy: 33, 13
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+acc_print_U_hheart_h_std_cp_2613_7_0.png
+  rotate: false
+  xy: 2, 13
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+hair_U_messycurls.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_messycurls_h_lay_hr_3366_2_0.png
+  rotate: false
+  xy: 451, 9
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_lay_hr_3367_2_0.png
+  rotate: false
+  xy: 867, 26
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_lay_hrb_3366_2_0.png
+  rotate: false
+  xy: 416, 9
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_lay_hrb_3367_2_0.png
+  rotate: false
+  xy: 894, 26
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hr_3366_0_0.png
+  rotate: false
+  xy: 72, 2
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hr_3366_1_0.png
+  rotate: false
+  xy: 248, 4
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hr_3366_2_0.png
+  rotate: false
+  xy: 143, 4
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hr_3366_3_0.png
+  rotate: false
+  xy: 348, 6
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hr_3366_7_0.png
+  rotate: false
+  xy: 486, 2
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hr_3367_0_0.png
+  rotate: false
+  xy: 943, 21
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hr_3367_1_0.png
+  rotate: false
+  xy: 600, 6
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hr_3367_2_0.png
+  rotate: false
+  xy: 661, 16
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hr_3367_3_0.png
+  rotate: false
+  xy: 767, 20
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hr_3367_7_0.png
+  rotate: false
+  xy: 843, 20
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hrb_3366_7_0.png
+  rotate: false
+  xy: 518, 2
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hrb_3367_1_0.png
+  rotate: false
+  xy: 582, 6
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_spk_hrb_3367_2_0.png
+  rotate: false
+  xy: 636, 16
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hr_3366_0_0.png
+  rotate: false
+  xy: 37, 2
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hr_3366_1_0.png
+  rotate: false
+  xy: 281, 4
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hr_3366_2_0.png
+  rotate: false
+  xy: 179, 4
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hr_3366_3_0.png
+  rotate: false
+  xy: 382, 6
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hr_3366_7_0.png
+  rotate: false
+  xy: 550, 2
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hr_3367_1_0.png
+  rotate: false
+  xy: 618, 6
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hr_3367_2_0.png
+  rotate: false
+  xy: 686, 16
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hr_3367_3_0.png
+  rotate: false
+  xy: 711, 20
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hr_3367_7_0.png
+  rotate: false
+  xy: 795, 20
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hrb_3366_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hrb_3366_1_0.png
+  rotate: false
+  xy: 215, 4
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hrb_3366_2_0.png
+  rotate: false
+  xy: 107, 4
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hrb_3366_3_0.png
+  rotate: false
+  xy: 314, 6
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hrb_3367_0_0.png
+  rotate: false
+  xy: 921, 21
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hrb_3367_3_0.png
+  rotate: false
+  xy: 739, 20
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hair_U_messycurls_h_std_hrb_3367_7_0.png
+  rotate: false
+  xy: 819, 20
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1

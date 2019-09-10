@@ -1,0 +1,76 @@
+
+acc_face_U_horn.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_horn_h_lay_fa_2382_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+acc_face_U_horn_h_lay_fa_2383_2_0.png
+  rotate: false
+  xy: 12, 2
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+acc_face_U_horn_h_std_fa_2382_0_0.png
+  rotate: false
+  xy: 51, 18
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+acc_face_U_horn_h_std_fa_2382_1_0.png
+  rotate: false
+  xy: 17, 17
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+acc_face_U_horn_h_std_fa_2382_2_0.png
+  rotate: false
+  xy: 2, 19
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+acc_face_U_horn_h_std_fa_2382_3_0.png
+  rotate: false
+  xy: 29, 17
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+acc_face_U_horn_h_std_fa_2383_0_0.png
+  rotate: false
+  xy: 29, 7
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+acc_face_U_horn_h_std_fa_2383_1_0.png
+  rotate: false
+  xy: 20, 5
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+acc_face_U_horn_h_std_fa_2383_2_0.png
+  rotate: false
+  xy: 38, 21
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+acc_face_U_horn_h_std_fa_2383_3_0.png
+  rotate: false
+  xy: 37, 8
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+hat_U_nurse.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_nurse_h_lay_ha_2508_2_0.png
+  rotate: false
+  xy: 27, 9
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+hat_U_nurse_h_lsp_ha_2507_2_0.png
+  rotate: false
+  xy: 2, 7
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+hat_U_nurse_h_lsp_ha_2508_2_0.png
+  rotate: false
+  xy: 113, 25
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+hat_U_nurse_h_spk_ha_2507_1_0.png
+  rotate: false
+  xy: 71, 4
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+hat_U_nurse_h_spk_ha_2507_2_0.png
+  rotate: false
+  xy: 49, 17
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+hat_U_nurse_h_spk_ha_2507_3_0.png
+  rotate: false
+  xy: 92, 20
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+hat_U_nurse_h_spk_ha_2508_1_0.png
+  rotate: false
+  xy: 7, 2
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+hat_U_nurse_h_spk_ha_2508_2_0.png
+  rotate: false
+  xy: 88, 14
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+hat_U_nurse_h_std_ha_2507_0_0.png
+  rotate: false
+  xy: 27, 16
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+hat_U_nurse_h_std_ha_2507_7_0.png
+  rotate: false
+  xy: 71, 20
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+hat_U_nurse_h_std_ha_2508_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

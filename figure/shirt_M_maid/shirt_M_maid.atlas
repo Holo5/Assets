@@ -1,0 +1,1042 @@
+
+shirt_M_maid.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_M_maid_h_crr_ls_3053_0_0.png
+  rotate: false
+  xy: 1834, 49
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_ls_3053_2_0.png
+  rotate: false
+  xy: 1804, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_ls_3053_3_0.png
+  rotate: false
+  xy: 1689, 49
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_ls_3053_4_0.png
+  rotate: false
+  xy: 1782, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_ls_3053_6_0.png
+  rotate: false
+  xy: 1852, 49
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_ls_3053_7_0.png
+  rotate: false
+  xy: 1676, 49
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_ls_3055_2_0.png
+  rotate: false
+  xy: 540, 2
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_ls_3055_4_0.png
+  rotate: false
+  xy: 547, 2
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_ls_3055_6_0.png
+  rotate: false
+  xy: 1470, 35
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_rs_3053_0_0.png
+  rotate: false
+  xy: 398, 4
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_rs_3053_1_0.png
+  rotate: false
+  xy: 1556, 50
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_rs_3053_3_0.png
+  rotate: false
+  xy: 1650, 49
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_rs_3053_4_0.png
+  rotate: false
+  xy: 384, 5
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_rs_3053_5_0.png
+  rotate: false
+  xy: 1570, 50
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_rs_3053_6_0.png
+  rotate: false
+  xy: 453, 5
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_rs_3053_7_0.png
+  rotate: false
+  xy: 1663, 49
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_rs_3055_0_0.png
+  rotate: false
+  xy: 109, 15
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_rs_3055_4_0.png
+  rotate: false
+  xy: 1452, 35
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_crr_rs_3055_6_0.png
+  rotate: false
+  xy: 1483, 41
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3053_0_0.png
+  rotate: false
+  xy: 1385, 17
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3053_1_0.png
+  rotate: false
+  xy: 1514, 50
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3053_2_0.png
+  rotate: false
+  xy: 1498, 50
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3053_3_0.png
+  rotate: false
+  xy: 1584, 49
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3053_4_0.png
+  rotate: false
+  xy: 1871, 51
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3053_5_0.png
+  rotate: false
+  xy: 1861, 50
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3053_6_0.png
+  rotate: false
+  xy: 1760, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3053_7_0.png
+  rotate: false
+  xy: 1737, 49
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3055_0_0.png
+  rotate: false
+  xy: 577, 10
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3055_1_0.png
+  rotate: false
+  xy: 583, 11
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3055_2_0.png
+  rotate: false
+  xy: 112, 4
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3055_3_0.png
+  rotate: false
+  xy: 1963, 58
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3055_4_0.png
+  rotate: false
+  xy: 552, 10
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_drk_rs_3055_5_0.png
+  rotate: false
+  xy: 130, 13
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_lay_ch_3053_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_lay_ch_3054_2_0.png
+  rotate: false
+  xy: 1428, 41
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_lay_ch_3055_2_0.png
+  rotate: false
+  xy: 50, 31
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_lay_ls_3053_2_0.png
+  rotate: false
+  xy: 30, 2
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_lay_ls_3055_2_0.png
+  rotate: false
+  xy: 588, 14
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_lay_rs_3053_2_0.png
+  rotate: false
+  xy: 311, 5
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_lay_rs_3055_2_0.png
+  rotate: false
+  xy: 104, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_sit_ch_3053_0_0.png
+  rotate: false
+  xy: 553, 21
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_sit_ch_3053_2_0.png
+  rotate: false
+  xy: 627, 22
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_sit_ch_3054_2_0.png
+  rotate: false
+  xy: 50, 2
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_sit_ch_3055_0_0.png
+  rotate: false
+  xy: 590, 21
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_sit_ch_3055_2_0.png
+  rotate: false
+  xy: 1274, 22
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_sit_ls_3055_0_0.png
+  rotate: false
+  xy: 595, 15
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_sit_ls_3055_2_0.png
+  rotate: false
+  xy: 135, 16
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3053_0_0.png
+  rotate: false
+  xy: 874, 19
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3053_2_0.png
+  rotate: false
+  xy: 1049, 21
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3053_3_0.png
+  rotate: false
+  xy: 287, 21
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3053_7_0.png
+  rotate: false
+  xy: 439, 22
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3054_0_0.png
+  rotate: false
+  xy: 2, 4
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3054_1_0.png
+  rotate: false
+  xy: 1304, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3054_2_0.png
+  rotate: false
+  xy: 1370, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3054_3_0.png
+  rotate: false
+  xy: 1403, 35
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3054_7_0.png
+  rotate: false
+  xy: 1456, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3055_0_0.png
+  rotate: false
+  xy: 909, 19
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3055_1_0.png
+  rotate: false
+  xy: 1212, 23
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3055_2_0.png
+  rotate: false
+  xy: 1084, 21
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3055_3_0.png
+  rotate: false
+  xy: 363, 21
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ch_3055_7_0.png
+  rotate: false
+  xy: 477, 22
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ls_3053_2_0.png
+  rotate: false
+  xy: 1749, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_ls_3053_3_0.png
+  rotate: false
+  xy: 1611, 48
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_rs_3053_2_0.png
+  rotate: false
+  xy: 342, 5
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_rs_3053_7_0.png
+  rotate: false
+  xy: 1598, 48
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_rs_3055_2_0.png
+  rotate: false
+  xy: 120, 16
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_rs_3055_3_0.png
+  rotate: false
+  xy: 523, 2
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_std_rs_3055_7_0.png
+  rotate: false
+  xy: 467, 2
+  size: 8, 2
+  orig: 8, 2
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_0_0.png
+  rotate: false
+  xy: 1702, 48
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_0_1.png
+  rotate: false
+  xy: 84, 14
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_1_0.png
+  rotate: false
+  xy: 1714, 48
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_2_0.png
+  rotate: false
+  xy: 356, 5
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_2_1.png
+  rotate: false
+  xy: 1401, 17
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_3_1.png
+  rotate: false
+  xy: 1726, 48
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_4_0.png
+  rotate: false
+  xy: 1483, 48
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_4_1.png
+  rotate: false
+  xy: 370, 5
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_5_1.png
+  rotate: false
+  xy: 523, 7
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_6_0.png
+  rotate: false
+  xy: 30, 13
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_6_1.png
+  rotate: false
+  xy: 1385, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3053_7_0.png
+  rotate: false
+  xy: 327, 5
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3055_0_0.png
+  rotate: false
+  xy: 1921, 55
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3055_0_1.png
+  rotate: false
+  xy: 1890, 53
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3055_1_0.png
+  rotate: false
+  xy: 1910, 55
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3055_2_0.png
+  rotate: false
+  xy: 569, 11
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3055_2_1.png
+  rotate: false
+  xy: 560, 11
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3055_3_0.png
+  rotate: false
+  xy: 1942, 55
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3055_4_0.png
+  rotate: false
+  xy: 1880, 53
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3055_4_1.png
+  rotate: false
+  xy: 84, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3055_5_1.png
+  rotate: false
+  xy: 1932, 55
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3055_6_0.png
+  rotate: false
+  xy: 94, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wav_ls_3055_6_1.png
+  rotate: false
+  xy: 1900, 53
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3053_0_0.png
+  rotate: false
+  xy: 664, 19
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3053_0_1.png
+  rotate: false
+  xy: 699, 18
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3053_0_2.png
+  rotate: false
+  xy: 769, 19
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3053_1_2.png
+  rotate: false
+  xy: 1181, 23
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3053_1_3.png
+  rotate: false
+  xy: 1119, 22
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3053_2_2.png
+  rotate: false
+  xy: 979, 20
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3053_2_3.png
+  rotate: false
+  xy: 804, 19
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3053_3_2.png
+  rotate: false
+  xy: 249, 21
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3053_3_3.png
+  rotate: false
+  xy: 173, 20
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3053_7_0.png
+  rotate: false
+  xy: 97, 22
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3053_7_1.png
+  rotate: false
+  xy: 135, 21
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3054_1_0.png
+  rotate: false
+  xy: 249, 2
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3054_1_1.png
+  rotate: false
+  xy: 280, 2
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3054_2_0.png
+  rotate: false
+  xy: 1337, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3054_2_3.png
+  rotate: false
+  xy: 1304, 31
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3054_3_0.png
+  rotate: false
+  xy: 1335, 2
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3054_3_1.png
+  rotate: false
+  xy: 1360, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3055_0_2.png
+  rotate: false
+  xy: 944, 19
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3055_0_3.png
+  rotate: false
+  xy: 734, 18
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3055_1_1.png
+  rotate: false
+  xy: 1150, 22
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3055_1_2.png
+  rotate: false
+  xy: 1243, 23
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3055_2_2.png
+  rotate: false
+  xy: 1014, 20
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3055_2_3.png
+  rotate: false
+  xy: 839, 19
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3055_3_0.png
+  rotate: false
+  xy: 325, 21
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3055_3_1.png
+  rotate: false
+  xy: 211, 20
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3055_7_1.png
+  rotate: false
+  xy: 401, 21
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ch_3055_7_2.png
+  rotate: false
+  xy: 515, 22
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3053_0_3.png
+  rotate: false
+  xy: 1843, 49
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3053_1_3.png
+  rotate: false
+  xy: 45, 17
+  size: 3, 10
+  orig: 3, 10
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3053_2_0.png
+  rotate: false
+  xy: 1793, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3053_2_1.png
+  rotate: false
+  xy: 1815, 48
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3053_2_2.png
+  rotate: false
+  xy: 1771, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3053_2_3.png
+  rotate: false
+  xy: 1825, 48
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3053_7_0.png
+  rotate: false
+  xy: 1637, 48
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3055_0_3.png
+  rotate: false
+  xy: 1972, 58
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3055_1_1.png
+  rotate: false
+  xy: 1403, 32
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3055_1_3.png
+  rotate: false
+  xy: 1476, 36
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3055_2_0.png
+  rotate: false
+  xy: 601, 16
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3055_2_1.png
+  rotate: false
+  xy: 1462, 35
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3055_2_2.png
+  rotate: false
+  xy: 533, 2
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_ls_3055_2_3.png
+  rotate: false
+  xy: 1980, 59
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_0_0.png
+  rotate: false
+  xy: 426, 4
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_0_1.png
+  rotate: false
+  xy: 509, 6
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_0_3.png
+  rotate: false
+  xy: 439, 5
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_1_0.png
+  rotate: false
+  xy: 1528, 50
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_1_1.png
+  rotate: false
+  xy: 1400, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_1_2.png
+  rotate: false
+  xy: 1542, 50
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_1_3.png
+  rotate: false
+  xy: 538, 7
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_2_0.png
+  rotate: false
+  xy: 495, 6
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_2_1.png
+  rotate: false
+  xy: 481, 6
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_2_2.png
+  rotate: false
+  xy: 467, 6
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_2_3.png
+  rotate: false
+  xy: 412, 4
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3053_3_3.png
+  rotate: false
+  xy: 1624, 48
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3055_0_2.png
+  rotate: false
+  xy: 1952, 58
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3055_1_1.png
+  rotate: false
+  xy: 97, 14
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3055_2_1.png
+  rotate: false
+  xy: 1441, 35
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+shirt_M_maid_h_wlk_rs_3055_2_3.png
+  rotate: false
+  xy: 1428, 35
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1

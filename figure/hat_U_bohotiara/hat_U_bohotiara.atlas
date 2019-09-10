@@ -1,0 +1,90 @@
+
+hat_U_bohotiara.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_bohotiara_h_lay_ha_3400_2_0.png
+  rotate: false
+  xy: 56, 10
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+hat_U_bohotiara_h_lay_ha_3401_2_0.png
+  rotate: false
+  xy: 32, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+hat_U_bohotiara_h_std_ha_3400_0_0.png
+  rotate: false
+  xy: 128, 49
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+hat_U_bohotiara_h_std_ha_3400_1_0.png
+  rotate: false
+  xy: 221, 52
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+hat_U_bohotiara_h_std_ha_3400_2_0.png
+  rotate: false
+  xy: 161, 50
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+hat_U_bohotiara_h_std_ha_3400_3_0.png
+  rotate: false
+  xy: 128, 41
+  size: 28, 6
+  orig: 28, 6
+  offset: 0, 0
+  index: -1
+hat_U_bohotiara_h_std_ha_3400_7_0.png
+  rotate: false
+  xy: 191, 53
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+hat_U_bohotiara_h_std_ha_3401_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+hat_U_bohotiara_h_std_ha_3401_1_0.png
+  rotate: false
+  xy: 66, 36
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+hat_U_bohotiara_h_std_ha_3401_2_0.png
+  rotate: false
+  xy: 34, 36
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+hat_U_bohotiara_h_std_ha_3401_3_0.png
+  rotate: false
+  xy: 98, 40
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+hat_U_bohotiara_h_std_ha_3401_7_0.png
+  rotate: false
+  xy: 2, 4
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

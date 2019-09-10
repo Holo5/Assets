@@ -1,0 +1,48 @@
+
+acc_chest_U_dogtag.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_dogtag_h_lay_ca_2284_2_0.png
+  rotate: false
+  xy: 21, 2
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+acc_chest_U_dogtag_h_std_ca_2284_0_0.png
+  rotate: false
+  xy: 2, 4
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+acc_chest_U_dogtag_h_std_ca_2284_1_0.png
+  rotate: false
+  xy: 18, 14
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+acc_chest_U_dogtag_h_std_ca_2284_2_0.png
+  rotate: false
+  xy: 2, 11
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+acc_chest_U_dogtag_h_std_ca_2284_3_0.png
+  rotate: false
+  xy: 42, 6
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+acc_chest_U_dogtag_h_std_ca_2284_7_0.png
+  rotate: false
+  xy: 36, 24
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1

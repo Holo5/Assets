@@ -1,0 +1,174 @@
+
+hair_U_frohawk.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_frohawk_h_lay_hr_3215_2_0.png
+  rotate: false
+  xy: 206, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_lay_hr_3216_2_0.png
+  rotate: false
+  xy: 576, 18
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_lay_hrb_3215_2_0.png
+  rotate: false
+  xy: 238, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_lay_hrb_3216_2_0.png
+  rotate: false
+  xy: 526, 2
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hr_3215_1_0.png
+  rotate: false
+  xy: 104, 4
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hr_3215_7_0.png
+  rotate: false
+  xy: 356, 3
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hr_3216_0_0.png
+  rotate: false
+  xy: 444, 2
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hr_3216_1_0.png
+  rotate: false
+  xy: 549, 18
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hr_3216_2_0.png
+  rotate: false
+  xy: 384, 14
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hr_3216_3_0.png
+  rotate: false
+  xy: 603, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hr_3216_7_0.png
+  rotate: false
+  xy: 499, 16
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hrb_3215_0_0.png
+  rotate: false
+  xy: 70, 4
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hrb_3215_1_0.png
+  rotate: false
+  xy: 36, 4
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hrb_3215_2_0.png
+  rotate: false
+  xy: 138, 6
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hrb_3215_3_0.png
+  rotate: false
+  xy: 299, 4
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hrb_3215_7_0.png
+  rotate: false
+  xy: 328, 3
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hrb_3216_0_0.png
+  rotate: false
+  xy: 444, 17
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hrb_3216_1_0.png
+  rotate: false
+  xy: 499, 2
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_spk_hrb_3216_3_0.png
+  rotate: false
+  xy: 476, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_std_hr_3215_0_0.png
+  rotate: false
+  xy: 2, 4
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_std_hr_3215_2_0.png
+  rotate: false
+  xy: 172, 6
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_std_hr_3215_3_0.png
+  rotate: false
+  xy: 270, 4
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_std_hrb_3216_2_0.png
+  rotate: false
+  xy: 414, 14
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+hair_U_frohawk_h_std_hrb_3216_7_0.png
+  rotate: false
+  xy: 524, 16
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1

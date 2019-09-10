@@ -1,0 +1,83 @@
+
+hat_U_divershelmet.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_divershelmet_h_lsp_ha_3161_2_0.png
+  rotate: false
+  xy: 400, 14
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+hat_U_divershelmet_h_spk_ha_3161_0_0.png
+  rotate: false
+  xy: 248, 5
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+hat_U_divershelmet_h_spk_ha_3161_1_0.png
+  rotate: false
+  xy: 326, 6
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+hat_U_divershelmet_h_spk_ha_3161_2_0.png
+  rotate: false
+  xy: 125, 3
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+hat_U_divershelmet_h_spk_ha_3161_3_0.png
+  rotate: false
+  xy: 43, 2
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+hat_U_divershelmet_h_spk_ha_3161_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+hat_U_divershelmet_h_std_ha_3161_0_0.png
+  rotate: false
+  xy: 287, 6
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+hat_U_divershelmet_h_std_ha_3161_1_0.png
+  rotate: false
+  xy: 363, 7
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+hat_U_divershelmet_h_std_ha_3161_2_0.png
+  rotate: false
+  xy: 207, 4
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+hat_U_divershelmet_h_std_ha_3161_3_0.png
+  rotate: false
+  xy: 166, 3
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+hat_U_divershelmet_h_std_ha_3161_7_0.png
+  rotate: false
+  xy: 84, 3
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1

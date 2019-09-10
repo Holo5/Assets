@@ -1,0 +1,258 @@
+
+hair_F_showy.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_F_showy_h_lay_hr_2422_2_0.png
+  rotate: false
+  xy: 428, 27
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_lay_hr_2423_2_0.png
+  rotate: false
+  xy: 38, 3
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_lay_hrb_2422_2_0.png
+  rotate: false
+  xy: 382, 27
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_lay_hrb_2423_2_0.png
+  rotate: false
+  xy: 44, 3
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hr_2422_0_0.png
+  rotate: false
+  xy: 474, 27
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hr_2422_1_0.png
+  rotate: false
+  xy: 194, 23
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hr_2422_2_0.png
+  rotate: false
+  xy: 2, 20
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hr_2422_3_0.png
+  rotate: false
+  xy: 654, 15
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hr_2422_7_0.png
+  rotate: false
+  xy: 818, 26
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hr_2423_0_0.png
+  rotate: false
+  xy: 844, 2
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hr_2423_1_0.png
+  rotate: false
+  xy: 14, 2
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hr_2423_7_0.png
+  rotate: false
+  xy: 844, 22
+  size: 13, 2
+  orig: 13, 2
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hrb_2422_0_0.png
+  rotate: false
+  xy: 519, 27
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hrb_2422_1_0.png
+  rotate: false
+  xy: 241, 23
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hrb_2422_2_0.png
+  rotate: false
+  xy: 50, 20
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hrb_2422_3_0.png
+  rotate: false
+  xy: 695, 15
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hrb_2422_7_0.png
+  rotate: false
+  xy: 854, 26
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hrb_2423_0_0.png
+  rotate: false
+  xy: 852, 2
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_spk_hrb_2423_7_0.png
+  rotate: false
+  xy: 859, 22
+  size: 13, 2
+  orig: 13, 2
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hr_2422_0_0.png
+  rotate: false
+  xy: 564, 28
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hr_2422_1_0.png
+  rotate: false
+  xy: 288, 24
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hr_2422_2_0.png
+  rotate: false
+  xy: 98, 21
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hr_2422_3_0.png
+  rotate: false
+  xy: 736, 16
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hr_2422_7_0.png
+  rotate: false
+  xy: 890, 27
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hr_2423_0_0.png
+  rotate: false
+  xy: 986, 35
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hr_2423_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hr_2423_2_0.png
+  rotate: false
+  xy: 974, 36
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hr_2423_3_0.png
+  rotate: false
+  xy: 962, 55
+  size: 24, 7
+  orig: 24, 7
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hrb_2422_0_0.png
+  rotate: false
+  xy: 609, 28
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hrb_2422_1_0.png
+  rotate: false
+  xy: 335, 24
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hrb_2422_2_0.png
+  rotate: false
+  xy: 146, 21
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hrb_2422_3_0.png
+  rotate: false
+  xy: 777, 16
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hrb_2422_7_0.png
+  rotate: false
+  xy: 926, 27
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hrb_2423_1_0.png
+  rotate: false
+  xy: 26, 2
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hrb_2423_2_0.png
+  rotate: false
+  xy: 962, 36
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+hair_F_showy_h_std_hrb_2423_3_0.png
+  rotate: false
+  xy: 818, 17
+  size: 24, 7
+  orig: 24, 7
+  offset: 0, 0
+  index: -1

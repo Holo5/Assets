@@ -1,0 +1,202 @@
+
+Trousers_F_Leather_skirt.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Trousers_F_Leather_skirt_h_lay_lg_2078_2_0.png
+  rotate: false
+  xy: 2, 24
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_sit_lg_2078_0_0.png
+  rotate: false
+  xy: 25, 167
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_sit_lg_2078_2_0.png
+  rotate: false
+  xy: 2, 113
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_std_lg_2078_0_0.png
+  rotate: false
+  xy: 29, 90
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_std_lg_2078_1_0.png
+  rotate: false
+  xy: 44, 235
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_std_lg_2078_2_0.png
+  rotate: false
+  xy: 26, 46
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_std_lg_2078_3_0.png
+  rotate: false
+  xy: 2, 185
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_std_lg_2078_7_0.png
+  rotate: false
+  xy: 2, 168
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_0_0.png
+  rotate: false
+  xy: 28, 24
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_0_1.png
+  rotate: false
+  xy: 2, 92
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_0_2.png
+  rotate: false
+  xy: 26, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_0_3.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_1_0.png
+  rotate: false
+  xy: 44, 218
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_1_1.png
+  rotate: false
+  xy: 2, 236
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_1_2.png
+  rotate: false
+  xy: 25, 219
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_1_3.png
+  rotate: false
+  xy: 23, 236
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_2_0.png
+  rotate: false
+  xy: 2, 70
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_2_1.png
+  rotate: false
+  xy: 24, 68
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_2_2.png
+  rotate: false
+  xy: 2, 46
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_2_3.png
+  rotate: false
+  xy: 32, 112
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_3_0.png
+  rotate: false
+  xy: 25, 201
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_3_1.png
+  rotate: false
+  xy: 2, 202
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_3_2.png
+  rotate: false
+  xy: 2, 219
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_3_3.png
+  rotate: false
+  xy: 25, 184
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_7_0.png
+  rotate: false
+  xy: 2, 134
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_7_1.png
+  rotate: false
+  xy: 2, 151
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_7_2.png
+  rotate: false
+  xy: 25, 150
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Trousers_F_Leather_skirt_h_wlk_lg_2078_7_3.png
+  rotate: false
+  xy: 25, 133
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1

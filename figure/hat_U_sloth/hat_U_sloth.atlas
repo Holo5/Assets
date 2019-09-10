@@ -1,0 +1,90 @@
+
+hat_U_sloth.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_sloth_h_lay_ha_2920_2_0.png
+  rotate: false
+  xy: 369, 7
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+hat_U_sloth_h_lsp_ha_2920_2_0.png
+  rotate: false
+  xy: 395, 7
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+hat_U_sloth_h_spk_ha_2920_0_0.png
+  rotate: false
+  xy: 199, 9
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hat_U_sloth_h_spk_ha_2920_1_0.png
+  rotate: false
+  xy: 81, 6
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+hat_U_sloth_h_spk_ha_2920_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+hat_U_sloth_h_spk_ha_2920_3_0.png
+  rotate: false
+  xy: 335, 11
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+hat_U_sloth_h_spk_ha_2920_7_0.png
+  rotate: false
+  xy: 233, 10
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+hat_U_sloth_h_std_ha_2920_0_0.png
+  rotate: false
+  xy: 164, 9
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+hat_U_sloth_h_std_ha_2920_1_0.png
+  rotate: false
+  xy: 123, 6
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+hat_U_sloth_h_std_ha_2920_2_0.png
+  rotate: false
+  xy: 42, 2
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+hat_U_sloth_h_std_ha_2920_3_0.png
+  rotate: false
+  xy: 301, 11
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+hat_U_sloth_h_std_ha_2920_7_0.png
+  rotate: false
+  xy: 267, 10
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

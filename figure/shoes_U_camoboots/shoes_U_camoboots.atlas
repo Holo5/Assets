@@ -1,0 +1,384 @@
+
+shoes_U_camoboots.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_U_camoboots_h_lay_sh_2736_2_0.png
+  rotate: false
+  xy: 433, 10
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_sit_sh_2735_0_0.png
+  rotate: false
+  xy: 767, 10
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_sit_sh_2735_2_0.png
+  rotate: false
+  xy: 27, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_sit_sh_2736_0_0.png
+  rotate: false
+  xy: 746, 11
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_std_sh_2735_0_0.png
+  rotate: false
+  xy: 354, 13
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_std_sh_2735_1_0.png
+  rotate: false
+  xy: 157, 2
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_std_sh_2735_2_0.png
+  rotate: false
+  xy: 457, 12
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_std_sh_2735_3_0.png
+  rotate: false
+  xy: 482, 2
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_std_sh_2735_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_std_sh_2736_0_0.png
+  rotate: false
+  xy: 809, 2
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_std_sh_2736_1_0.png
+  rotate: false
+  xy: 876, 16
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_std_sh_2736_2_0.png
+  rotate: false
+  xy: 408, 10
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_std_sh_2736_3_0.png
+  rotate: false
+  xy: 508, 2
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_std_sh_2736_7_0.png
+  rotate: false
+  xy: 457, 6
+  size: 23, 4
+  orig: 23, 4
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_0_0.png
+  rotate: false
+  xy: 381, 13
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_0_1.png
+  rotate: false
+  xy: 178, 15
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_0_2.png
+  rotate: false
+  xy: 482, 14
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_0_3.png
+  rotate: false
+  xy: 533, 2
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_1_0.png
+  rotate: false
+  xy: 723, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_1_1.png
+  rotate: false
+  xy: 46, 15
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_1_2.png
+  rotate: false
+  xy: 134, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_1_3.png
+  rotate: false
+  xy: 90, 15
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_2_0.png
+  rotate: false
+  xy: 296, 14
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_2_1.png
+  rotate: false
+  xy: 976, 17
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_2_2.png
+  rotate: false
+  xy: 809, 13
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_2_3.png
+  rotate: false
+  xy: 220, 14
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_3_0.png
+  rotate: false
+  xy: 630, 16
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_3_1.png
+  rotate: false
+  xy: 558, 16
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_3_2.png
+  rotate: false
+  xy: 582, 16
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_3_3.png
+  rotate: false
+  xy: 606, 16
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_7_0.png
+  rotate: false
+  xy: 830, 16
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_7_1.png
+  rotate: false
+  xy: 677, 15
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_7_2.png
+  rotate: false
+  xy: 654, 16
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2735_7_3.png
+  rotate: false
+  xy: 700, 15
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_0_0.png
+  rotate: false
+  xy: 177, 4
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_0_1.png
+  rotate: false
+  xy: 46, 2
+  size: 40, 11
+  orig: 40, 11
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_0_2.png
+  rotate: false
+  xy: 508, 17
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_0_3.png
+  rotate: false
+  xy: 204, 2
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_1_0.png
+  rotate: false
+  xy: 853, 16
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_1_1.png
+  rotate: false
+  xy: 134, 15
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_1_2.png
+  rotate: false
+  xy: 535, 17
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_1_3.png
+  rotate: false
+  xy: 2, 14
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_2_0.png
+  rotate: false
+  xy: 325, 13
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_2_1.png
+  rotate: false
+  xy: 994, 14
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_2_2.png
+  rotate: false
+  xy: 788, 12
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_2_3.png
+  rotate: false
+  xy: 258, 14
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_3_0.png
+  rotate: false
+  xy: 956, 16
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_3_1.png
+  rotate: false
+  xy: 936, 14
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_3_2.png
+  rotate: false
+  xy: 896, 16
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_3_3.png
+  rotate: false
+  xy: 916, 14
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_7_0.png
+  rotate: false
+  xy: 251, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_7_1.png
+  rotate: false
+  xy: 111, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_7_2.png
+  rotate: false
+  xy: 228, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+shoes_U_camoboots_h_wlk_sh_2736_7_3.png
+  rotate: false
+  xy: 88, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1

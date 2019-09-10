@@ -1,0 +1,594 @@
+
+shirt_M_mummy.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_M_mummy_h_crr_ls_2388_0_0.png
+  rotate: false
+  xy: 78, 125
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_crr_ls_2388_2_0.png
+  rotate: false
+  xy: 89, 71
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_crr_ls_2388_3_0.png
+  rotate: false
+  xy: 77, 43
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_crr_ls_2388_7_0.png
+  rotate: false
+  xy: 120, 26
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_crr_rs_2388_0_0.png
+  rotate: false
+  xy: 91, 184
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_crr_rs_2388_1_0.png
+  rotate: false
+  xy: 106, 116
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_crr_rs_2388_2_0.png
+  rotate: false
+  xy: 39, 96
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_crr_rs_2388_3_0.png
+  rotate: false
+  xy: 78, 71
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_crr_rs_2388_4_0.png
+  rotate: false
+  xy: 100, 71
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_crr_rs_2388_5_0.png
+  rotate: false
+  xy: 55, 125
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_crr_rs_2388_6_0.png
+  rotate: false
+  xy: 122, 139
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_crr_rs_2388_7_0.png
+  rotate: false
+  xy: 105, 25
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_drk_rs_2388_0_0.png
+  rotate: false
+  xy: 109, 178
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_drk_rs_2388_1_0.png
+  rotate: false
+  xy: 28, 124
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_drk_rs_2388_2_0.png
+  rotate: false
+  xy: 105, 94
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_drk_rs_2388_3_0.png
+  rotate: false
+  xy: 107, 158
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_drk_rs_2388_4_0.png
+  rotate: false
+  xy: 85, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_drk_rs_2388_5_0.png
+  rotate: false
+  xy: 86, 226
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_drk_rs_2388_6_0.png
+  rotate: false
+  xy: 86, 240
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_drk_rs_2388_7_0.png
+  rotate: false
+  xy: 102, 7
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_lay_ch_2388_2_0.png
+  rotate: false
+  xy: 2, 228
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_lay_ls_2388_2_0.png
+  rotate: false
+  xy: 44, 2
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_lay_rs_2388_2_0.png
+  rotate: false
+  xy: 86, 207
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_ch_2388_0_0.png
+  rotate: false
+  xy: 2, 192
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_ch_2388_1_0.png
+  rotate: false
+  xy: 26, 194
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_ch_2388_2_0.png
+  rotate: false
+  xy: 2, 157
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_ch_2388_3_0.png
+  rotate: false
+  xy: 2, 124
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_ch_2388_7_0.png
+  rotate: false
+  xy: 2, 93
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_ls_2388_0_0.png
+  rotate: false
+  xy: 113, 25
+  size: 5, 20
+  orig: 5, 20
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_ls_2388_1_0.png
+  rotate: false
+  xy: 88, 47
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_ls_2388_2_0.png
+  rotate: false
+  xy: 116, 48
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_ls_2388_3_0.png
+  rotate: false
+  xy: 32, 36
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_ls_2388_7_0.png
+  rotate: false
+  xy: 64, 201
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_rs_2388_0_0.png
+  rotate: false
+  xy: 20, 36
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_rs_2388_1_0.png
+  rotate: false
+  xy: 107, 47
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_rs_2388_2_0.png
+  rotate: false
+  xy: 31, 65
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_rs_2388_3_0.png
+  rotate: false
+  xy: 67, 40
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_std_rs_2388_7_0.png
+  rotate: false
+  xy: 22, 65
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_0_0.png
+  rotate: false
+  xy: 42, 43
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_0_1.png
+  rotate: false
+  xy: 57, 15
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_1_0.png
+  rotate: false
+  xy: 74, 205
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_1_1.png
+  rotate: false
+  xy: 86, 111
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_2_0.png
+  rotate: false
+  xy: 2, 9
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_2_1.png
+  rotate: false
+  xy: 66, 229
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_3_0.png
+  rotate: false
+  xy: 19, 8
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_3_1.png
+  rotate: false
+  xy: 26, 166
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_4_0.png
+  rotate: false
+  xy: 2, 37
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_4_1.png
+  rotate: false
+  xy: 28, 138
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_5_0.png
+  rotate: false
+  xy: 44, 173
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_5_1.png
+  rotate: false
+  xy: 44, 145
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_6_0.png
+  rotate: false
+  xy: 2, 65
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_6_1.png
+  rotate: false
+  xy: 42, 228
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_7_0.png
+  rotate: false
+  xy: 41, 69
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wav_ls_2388_7_1.png
+  rotate: false
+  xy: 44, 201
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_0_0.png
+  rotate: false
+  xy: 113, 3
+  size: 5, 20
+  orig: 5, 20
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_0_1.png
+  rotate: false
+  xy: 71, 125
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_0_3.png
+  rotate: false
+  xy: 95, 23
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_1_2.png
+  rotate: false
+  xy: 97, 47
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_2_1.png
+  rotate: false
+  xy: 97, 112
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_2_2.png
+  rotate: false
+  xy: 121, 71
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_2_3.png
+  rotate: false
+  xy: 122, 125
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_3_1.png
+  rotate: false
+  xy: 56, 96
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_3_2.png
+  rotate: false
+  xy: 57, 40
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_3_3.png
+  rotate: false
+  xy: 58, 69
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_7_1.png
+  rotate: false
+  xy: 82, 146
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_7_2.png
+  rotate: false
+  xy: 72, 144
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_ls_2388_7_3.png
+  rotate: false
+  xy: 66, 97
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_0_1.png
+  rotate: false
+  xy: 44, 16
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_0_2.png
+  rotate: false
+  xy: 61, 145
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_0_3.png
+  rotate: false
+  xy: 92, 159
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_1_1.png
+  rotate: false
+  xy: 92, 135
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_1_2.png
+  rotate: false
+  xy: 111, 71
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_1_3.png
+  rotate: false
+  xy: 106, 136
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_2_1.png
+  rotate: false
+  xy: 114, 228
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_2_2.png
+  rotate: false
+  xy: 27, 93
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_2_3.png
+  rotate: false
+  xy: 113, 198
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_3_0.png
+  rotate: false
+  xy: 72, 172
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_3_1.png
+  rotate: false
+  xy: 75, 14
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_3_2.png
+  rotate: false
+  xy: 34, 7
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_3_3.png
+  rotate: false
+  xy: 62, 172
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_7_0.png
+  rotate: false
+  xy: 82, 172
+  size: 7, 24
+  orig: 7, 24
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_7_1.png
+  rotate: false
+  xy: 68, 69
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_7_2.png
+  rotate: false
+  xy: 76, 97
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+shirt_M_mummy_h_wlk_rs_2388_7_3.png
+  rotate: false
+  xy: 85, 18
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1

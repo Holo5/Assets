@@ -1,0 +1,48 @@
+
+acc_face_U_tragedymask.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_tragedymask_h_lsp_fa_3423_2_0.png
+  rotate: false
+  xy: 68, 36
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+acc_face_U_tragedymask_h_spk_fa_3423_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+acc_face_U_tragedymask_h_spk_fa_3423_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+acc_face_U_tragedymask_h_spk_fa_3423_3_0.png
+  rotate: false
+  xy: 99, 33
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+acc_face_U_tragedymask_h_spk_fa_3423_7_0.png
+  rotate: false
+  xy: 36, 26
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+acc_face_U_tragedymask_h_std_fa_3423_1_0.png
+  rotate: false
+  xy: 36, 36
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

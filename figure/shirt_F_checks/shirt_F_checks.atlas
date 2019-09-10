@@ -1,0 +1,90 @@
+
+shirt_F_checks.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_checks_h_lay_ch_2102_2_0.png
+  rotate: false
+  xy: 2, 212
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+shirt_F_checks_h_lay_ch_2103_2_0.png
+  rotate: false
+  xy: 2, 184
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+shirt_F_checks_h_std_ch_2102_0_0.png
+  rotate: false
+  xy: 2, 146
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+shirt_F_checks_h_std_ch_2102_1_0.png
+  rotate: false
+  xy: 29, 149
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+shirt_F_checks_h_std_ch_2102_2_0.png
+  rotate: false
+  xy: 2, 110
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+shirt_F_checks_h_std_ch_2102_3_0.png
+  rotate: false
+  xy: 2, 37
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+shirt_F_checks_h_std_ch_2102_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+shirt_F_checks_h_std_ch_2103_0_0.png
+  rotate: false
+  xy: 2, 74
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+shirt_F_checks_h_std_ch_2103_1_0.png
+  rotate: false
+  xy: 43, 208
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+shirt_F_checks_h_std_ch_2103_2_0.png
+  rotate: false
+  xy: 28, 76
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+shirt_F_checks_h_std_ch_2103_3_0.png
+  rotate: false
+  xy: 30, 114
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+shirt_F_checks_h_std_ch_2103_7_0.png
+  rotate: false
+  xy: 27, 41
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+hat_U_maidband.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_maidband_h_lay_ha_3043_2_0.png
+  rotate: false
+  xy: 70, 15
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+hat_U_maidband_h_spk_ha_3043_0_0.png
+  rotate: false
+  xy: 27, 16
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+hat_U_maidband_h_spk_ha_3043_1_0.png
+  rotate: false
+  xy: 53, 15
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hat_U_maidband_h_spk_ha_3043_2_0.png
+  rotate: false
+  xy: 2, 15
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+hat_U_maidband_h_spk_ha_3043_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+acc_print_U_number9.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_print_U_number9_h_std_cp_2205_0_0.png
+  rotate: false
+  xy: 2, 15
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+acc_print_U_number9_h_std_cp_2205_6_0.png
+  rotate: false
+  xy: 13, 15
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+acc_print_U_number9_h_std_cp_2205_7_0.png
+  rotate: false
+  xy: 24, 17
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+acc_print_U_number9_h_std_cp_2206_0_0.png
+  rotate: false
+  xy: 35, 17
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+acc_print_U_number9_h_std_cp_2206_6_0.png
+  rotate: false
+  xy: 44, 17
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+acc_print_U_number9_h_std_cp_2206_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1

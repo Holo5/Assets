@@ -1,0 +1,1203 @@
+
+shirt_F_kimono.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_kimono_h_crr_rs_2621_0_0.png
+  rotate: false
+  xy: 361, 38
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2621_1_0.png
+  rotate: false
+  xy: 65, 2
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2621_2_0.png
+  rotate: false
+  xy: 173, 29
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2621_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2621_4_0.png
+  rotate: false
+  xy: 656, 35
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2621_5_0.png
+  rotate: false
+  xy: 567, 42
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2621_6_0.png
+  rotate: false
+  xy: 650, 17
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2621_7_0.png
+  rotate: false
+  xy: 407, 21
+  size: 7, 24
+  orig: 7, 24
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2622_0_0.png
+  rotate: false
+  xy: 995, 48
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2622_1_0.png
+  rotate: false
+  xy: 980, 47
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2622_2_0.png
+  rotate: false
+  xy: 911, 43
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2622_3_0.png
+  rotate: false
+  xy: 512, 2
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2622_4_0.png
+  rotate: false
+  xy: 221, 34
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2622_5_0.png
+  rotate: false
+  xy: 965, 47
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2622_7_0.png
+  rotate: false
+  xy: 700, 21
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2623_0_0.png
+  rotate: false
+  xy: 560, 28
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2623_1_0.png
+  rotate: false
+  xy: 594, 8
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2623_2_0.png
+  rotate: false
+  xy: 542, 2
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2623_3_0.png
+  rotate: false
+  xy: 618, 2
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2623_5_0.png
+  rotate: false
+  xy: 583, 9
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_crr_rs_2623_7_0.png
+  rotate: false
+  xy: 208, 31
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2621_0_0.png
+  rotate: false
+  xy: 529, 42
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2621_1_0.png
+  rotate: false
+  xy: 398, 47
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2621_2_0.png
+  rotate: false
+  xy: 506, 45
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2621_3_0.png
+  rotate: false
+  xy: 380, 38
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2621_4_0.png
+  rotate: false
+  xy: 550, 42
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2621_5_0.png
+  rotate: false
+  xy: 482, 46
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2621_6_0.png
+  rotate: false
+  xy: 455, 47
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2621_7_0.png
+  rotate: false
+  xy: 506, 27
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2622_0_0.png
+  rotate: false
+  xy: 597, 22
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2622_1_0.png
+  rotate: false
+  xy: 843, 49
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2622_2_0.png
+  rotate: false
+  xy: 861, 48
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2622_3_0.png
+  rotate: false
+  xy: 545, 29
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2622_4_0.png
+  rotate: false
+  xy: 670, 23
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2622_5_0.png
+  rotate: false
+  xy: 215, 34
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2622_6_0.png
+  rotate: false
+  xy: 401, 7
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2623_0_0.png
+  rotate: false
+  xy: 542, 17
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2623_1_0.png
+  rotate: false
+  xy: 529, 29
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2623_2_0.png
+  rotate: false
+  xy: 584, 23
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_drk_rs_2623_3_0.png
+  rotate: false
+  xy: 575, 10
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_lay_ch_2621_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_lay_ls_2621_2_0.png
+  rotate: false
+  xy: 425, 50
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_lay_ls_2622_2_0.png
+  rotate: false
+  xy: 271, 2
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_lay_rs_2621_2_0.png
+  rotate: false
+  xy: 208, 41
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_lay_rs_2622_2_0.png
+  rotate: false
+  xy: 822, 47
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_lay_rs_2623_2_0.png
+  rotate: false
+  xy: 878, 48
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ch_2621_0_0.png
+  rotate: false
+  xy: 72, 29
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ch_2621_1_0.png
+  rotate: false
+  xy: 151, 29
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ch_2621_2_0.png
+  rotate: false
+  xy: 44, 26
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ch_2621_3_0.png
+  rotate: false
+  xy: 100, 31
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ch_2621_7_0.png
+  rotate: false
+  xy: 126, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ch_2622_0_0.png
+  rotate: false
+  xy: 822, 39
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ch_2622_1_0.png
+  rotate: false
+  xy: 512, 20
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ch_2622_2_0.png
+  rotate: false
+  xy: 455, 35
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ch_2622_3_0.png
+  rotate: false
+  xy: 1010, 56
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ch_2622_7_0.png
+  rotate: false
+  xy: 276, 3
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ls_2621_0_0.png
+  rotate: false
+  xy: 359, 6
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ls_2621_2_0.png
+  rotate: false
+  xy: 416, 23
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ls_2621_3_0.png
+  rotate: false
+  xy: 679, 32
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ls_2621_7_0.png
+  rotate: false
+  xy: 305, 2
+  size: 7, 30
+  orig: 7, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ls_2622_2_0.png
+  rotate: false
+  xy: 438, 24
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_ls_2622_3_0.png
+  rotate: false
+  xy: 140, 29
+  size: 5, 2
+  orig: 5, 2
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2621_0_0.png
+  rotate: false
+  xy: 215, 2
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2621_1_0.png
+  rotate: false
+  xy: 644, 36
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2621_2_0.png
+  rotate: false
+  xy: 228, 2
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2621_3_0.png
+  rotate: false
+  xy: 241, 2
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2621_7_0.png
+  rotate: false
+  xy: 788, 32
+  size: 7, 30
+  orig: 7, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2622_0_0.png
+  rotate: false
+  xy: 472, 25
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2622_1_0.png
+  rotate: false
+  xy: 482, 27
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2622_2_0.png
+  rotate: false
+  xy: 419, 2
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2622_3_0.png
+  rotate: false
+  xy: 448, 2
+  size: 5, 20
+  orig: 5, 20
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2622_7_0.png
+  rotate: false
+  xy: 498, 2
+  size: 5, 18
+  orig: 5, 18
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2623_0_0.png
+  rotate: false
+  xy: 429, 2
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2623_1_0.png
+  rotate: false
+  xy: 640, 19
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2623_2_0.png
+  rotate: false
+  xy: 533, 2
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2623_3_0.png
+  rotate: false
+  xy: 505, 2
+  size: 5, 18
+  orig: 5, 18
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_std_rs_2623_7_0.png
+  rotate: false
+  xy: 609, 20
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_0_0.png
+  rotate: false
+  xy: 343, 4
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_0_1.png
+  rotate: false
+  xy: 103, 2
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_1_0.png
+  rotate: false
+  xy: 616, 37
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_1_1.png
+  rotate: false
+  xy: 808, 39
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_2_0.png
+  rotate: false
+  xy: 256, 39
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_2_1.png
+  rotate: false
+  xy: 44, 2
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_3_0.png
+  rotate: false
+  xy: 198, 2
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_3_1.png
+  rotate: false
+  xy: 122, 2
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_4_0.png
+  rotate: false
+  xy: 160, 2
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_4_1.png
+  rotate: false
+  xy: 600, 38
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_5_0.png
+  rotate: false
+  xy: 179, 2
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_5_1.png
+  rotate: false
+  xy: 276, 9
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_6_0.png
+  rotate: false
+  xy: 233, 39
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_6_1.png
+  rotate: false
+  xy: 82, 2
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_7_0.png
+  rotate: false
+  xy: 325, 6
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2621_7_1.png
+  rotate: false
+  xy: 276, 36
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_0_0.png
+  rotate: false
+  xy: 398, 41
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_0_1.png
+  rotate: false
+  xy: 670, 17
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_1_1.png
+  rotate: false
+  xy: 455, 30
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_2_0.png
+  rotate: false
+  xy: 707, 22
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_2_1.png
+  rotate: false
+  xy: 394, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_3_0.png
+  rotate: false
+  xy: 693, 21
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_3_1.png
+  rotate: false
+  xy: 379, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_4_0.png
+  rotate: false
+  xy: 679, 20
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_4_1.png
+  rotate: false
+  xy: 387, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_5_0.png
+  rotate: false
+  xy: 401, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_6_0.png
+  rotate: false
+  xy: 361, 33
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_6_1.png
+  rotate: false
+  xy: 333, 2
+  size: 5, 2
+  orig: 5, 2
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wav_ls_2622_7_0.png
+  rotate: false
+  xy: 325, 2
+  size: 6, 2
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_0_1.png
+  rotate: false
+  xy: 474, 2
+  size: 3, 21
+  orig: 3, 21
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_0_2.png
+  rotate: false
+  xy: 400, 12
+  size: 5, 24
+  orig: 5, 24
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_0_3.png
+  rotate: false
+  xy: 390, 12
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_1_1.png
+  rotate: false
+  xy: 528, 20
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_1_2.png
+  rotate: false
+  xy: 425, 47
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_1_3.png
+  rotate: false
+  xy: 455, 2
+  size: 4, 21
+  orig: 4, 21
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_2_0.png
+  rotate: false
+  xy: 424, 23
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_2_1.png
+  rotate: false
+  xy: 379, 12
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_2_3.png
+  rotate: false
+  xy: 631, 3
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_3_1.png
+  rotate: false
+  xy: 294, 2
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_3_2.png
+  rotate: false
+  xy: 252, 2
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_3_3.png
+  rotate: false
+  xy: 668, 35
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_7_0.png
+  rotate: false
+  xy: 723, 31
+  size: 9, 31
+  orig: 9, 31
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_7_1.png
+  rotate: false
+  xy: 712, 32
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_7_2.png
+  rotate: false
+  xy: 701, 32
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2621_7_3.png
+  rotate: false
+  xy: 690, 32
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2622_2_0.png
+  rotate: false
+  xy: 72, 26
+  size: 3, 1
+  orig: 3, 1
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2622_2_1.png
+  rotate: false
+  xy: 431, 23
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_ls_2622_3_0.png
+  rotate: false
+  xy: 263, 2
+  size: 6, 2
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_0_0.png
+  rotate: false
+  xy: 346, 33
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_0_1.png
+  rotate: false
+  xy: 331, 33
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_0_2.png
+  rotate: false
+  xy: 29, 4
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_0_3.png
+  rotate: false
+  xy: 296, 34
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_1_1.png
+  rotate: false
+  xy: 584, 38
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_1_2.png
+  rotate: false
+  xy: 631, 36
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_1_3.png
+  rotate: false
+  xy: 140, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_2_0.png
+  rotate: false
+  xy: 263, 6
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_2_1.png
+  rotate: false
+  xy: 314, 33
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_2_2.png
+  rotate: false
+  xy: 16, 2
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_2_3.png
+  rotate: false
+  xy: 191, 31
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_3_0.png
+  rotate: false
+  xy: 745, 32
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_3_1.png
+  rotate: false
+  xy: 368, 11
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_3_2.png
+  rotate: false
+  xy: 756, 32
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_3_3.png
+  rotate: false
+  xy: 314, 2
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_7_0.png
+  rotate: false
+  xy: 778, 32
+  size: 8, 30
+  orig: 8, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_7_1.png
+  rotate: false
+  xy: 767, 32
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_7_2.png
+  rotate: false
+  xy: 734, 31
+  size: 9, 31
+  orig: 9, 31
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2621_7_3.png
+  rotate: false
+  xy: 797, 34
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_0_0.png
+  rotate: false
+  xy: 927, 43
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_0_1.png
+  rotate: false
+  xy: 952, 45
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_0_3.png
+  rotate: false
+  xy: 442, 32
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_1_0.png
+  rotate: false
+  xy: 518, 26
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_1_1.png
+  rotate: false
+  xy: 407, 2
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_1_3.png
+  rotate: false
+  xy: 895, 46
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_2_1.png
+  rotate: false
+  xy: 431, 28
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_2_2.png
+  rotate: false
+  xy: 438, 2
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_2_3.png
+  rotate: false
+  xy: 939, 44
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_3_1.png
+  rotate: false
+  xy: 663, 17
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_3_3.png
+  rotate: false
+  xy: 553, 10
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_7_1.png
+  rotate: false
+  xy: 568, 10
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_7_2.png
+  rotate: false
+  xy: 656, 17
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2622_7_3.png
+  rotate: false
+  xy: 560, 9
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_0_0.png
+  rotate: false
+  xy: 489, 2
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_0_1.png
+  rotate: false
+  xy: 628, 17
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_0_3.png
+  rotate: false
+  xy: 523, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_1_0.png
+  rotate: false
+  xy: 575, 24
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_1_1.png
+  rotate: false
+  xy: 461, 17
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_1_3.png
+  rotate: false
+  xy: 461, 2
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_2_0.png
+  rotate: false
+  xy: 479, 2
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_2_1.png
+  rotate: false
+  xy: 616, 18
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_2_3.png
+  rotate: false
+  xy: 494, 27
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_3_1.png
+  rotate: false
+  xy: 605, 2
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_3_3.png
+  rotate: false
+  xy: 686, 15
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_7_2.png
+  rotate: false
+  xy: 625, 2
+  size: 4, 13
+  orig: 4, 13
+  offset: 0, 0
+  index: -1
+shirt_F_kimono_h_wlk_rs_2623_7_3.png
+  rotate: false
+  xy: 612, 2
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1

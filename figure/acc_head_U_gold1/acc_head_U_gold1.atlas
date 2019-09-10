@@ -1,0 +1,48 @@
+
+acc_head_U_gold1.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_gold1_h_lay_he_2979_2_0.png
+  rotate: false
+  xy: 160, 12
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+acc_head_U_gold1_h_std_he_2979_0_0.png
+  rotate: false
+  xy: 112, 5
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+acc_head_U_gold1_h_std_he_2979_1_0.png
+  rotate: false
+  xy: 143, 6
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+acc_head_U_gold1_h_std_he_2979_2_0.png
+  rotate: false
+  xy: 80, 2
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+acc_head_U_gold1_h_std_he_2979_3_0.png
+  rotate: false
+  xy: 2, 7
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+acc_head_U_gold1_h_std_he_2979_7_0.png
+  rotate: false
+  xy: 41, 7
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1

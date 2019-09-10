@@ -1,0 +1,90 @@
+
+acc_face_U_gold4.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_gold4_h_lay_fa_2812_2_0.png
+  rotate: false
+  xy: 220, 33
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+acc_face_U_gold4_h_lsp_fa_2812_2_0.png
+  rotate: false
+  xy: 182, 32
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+acc_face_U_gold4_h_spk_fa_2812_0_0.png
+  rotate: false
+  xy: 258, 38
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+acc_face_U_gold4_h_spk_fa_2812_1_0.png
+  rotate: false
+  xy: 49, 29
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+acc_face_U_gold4_h_spk_fa_2812_2_0.png
+  rotate: false
+  xy: 139, 25
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+acc_face_U_gold4_h_spk_fa_2812_3_0.png
+  rotate: false
+  xy: 258, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+acc_face_U_gold4_h_spk_fa_2812_7_0.png
+  rotate: false
+  xy: 44, 10
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+acc_face_U_gold4_h_std_fa_2812_0_0.png
+  rotate: false
+  xy: 2, 3
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+acc_face_U_gold4_h_std_fa_2812_1_0.png
+  rotate: false
+  xy: 2, 29
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+acc_face_U_gold4_h_std_fa_2812_2_0.png
+  rotate: false
+  xy: 96, 25
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+acc_face_U_gold4_h_std_fa_2812_3_0.png
+  rotate: false
+  xy: 288, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+acc_face_U_gold4_h_std_fa_2812_7_0.png
+  rotate: false
+  xy: 300, 46
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1

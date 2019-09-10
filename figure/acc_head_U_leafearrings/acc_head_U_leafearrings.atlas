@@ -1,0 +1,27 @@
+
+acc_head_U_leafearrings.png
+size: 64,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_leafearrings_h_lay_he_3465_2_0.png
+  rotate: false
+  xy: 39, 5
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+acc_head_U_leafearrings_h_std_he_3465_2_0.png
+  rotate: false
+  xy: 32, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+acc_head_U_leafearrings_h_std_he_3465_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1

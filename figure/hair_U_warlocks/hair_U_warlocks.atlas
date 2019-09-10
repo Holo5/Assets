@@ -1,0 +1,132 @@
+
+hair_U_warlocks.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_warlocks_h_lay_hr_3490_2_0.png
+  rotate: false
+  xy: 2, 44
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_lay_hrb_3490_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_spk_hr_3490_0_0.png
+  rotate: false
+  xy: 108, 48
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_spk_hr_3490_1_0.png
+  rotate: false
+  xy: 72, 50
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_spk_hr_3490_2_0.png
+  rotate: false
+  xy: 40, 86
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_spk_hr_3490_3_0.png
+  rotate: false
+  xy: 104, 15
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_spk_hr_3490_7_0.png
+  rotate: false
+  xy: 184, 87
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_spk_hrb_3490_1_0.png
+  rotate: false
+  xy: 68, 14
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_spk_hrb_3490_7_0.png
+  rotate: false
+  xy: 218, 87
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_std_hr_3490_0_0.png
+  rotate: false
+  xy: 150, 84
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_std_hr_3490_1_0.png
+  rotate: false
+  xy: 114, 86
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_std_hr_3490_2_0.png
+  rotate: false
+  xy: 34, 50
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_std_hr_3490_3_0.png
+  rotate: false
+  xy: 211, 54
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_std_hr_3490_7_0.png
+  rotate: false
+  xy: 142, 49
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_std_hrb_3490_0_0.png
+  rotate: false
+  xy: 34, 12
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_std_hrb_3490_1_0.png
+  rotate: false
+  xy: 78, 86
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_std_hrb_3490_2_0.png
+  rotate: false
+  xy: 2, 86
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+hair_U_warlocks_h_std_hrb_3490_3_0.png
+  rotate: false
+  xy: 176, 51
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1

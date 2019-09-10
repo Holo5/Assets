@@ -1,0 +1,279 @@
+
+hair_U_caveman.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_caveman_h_lay_hr_2769_2_0.png
+  rotate: false
+  xy: 2, 131
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_lay_hr_2770_2_0.png
+  rotate: false
+  xy: 113, 33
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_lay_hrb_2769_2_0.png
+  rotate: false
+  xy: 50, 215
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_lay_hrb_2770_2_0.png
+  rotate: false
+  xy: 87, 6
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_lsp_hr_2769_2_0.png
+  rotate: false
+  xy: 2, 214
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_lsp_hrb_2769_2_0.png
+  rotate: false
+  xy: 2, 172
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hr_2769_0_0.png
+  rotate: false
+  xy: 141, 215
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hr_2769_1_0.png
+  rotate: false
+  xy: 179, 175
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hr_2769_2_0.png
+  rotate: false
+  xy: 94, 172
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hr_2769_3_0.png
+  rotate: false
+  xy: 46, 5
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hr_2769_7_0.png
+  rotate: false
+  xy: 2, 43
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hr_2770_1_0.png
+  rotate: false
+  xy: 144, 33
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hr_2770_2_0.png
+  rotate: false
+  xy: 87, 24
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hr_2770_3_0.png
+  rotate: false
+  xy: 135, 42
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hr_2770_7_0.png
+  rotate: false
+  xy: 217, 171
+  size: 23, 4
+  orig: 23, 4
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hrb_2769_0_0.png
+  rotate: false
+  xy: 49, 131
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hrb_2769_1_0.png
+  rotate: false
+  xy: 217, 177
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hrb_2769_2_0.png
+  rotate: false
+  xy: 50, 172
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hrb_2769_3_0.png
+  rotate: false
+  xy: 138, 173
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hrb_2769_7_0.png
+  rotate: false
+  xy: 2, 87
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_spk_hrb_2770_0_0.png
+  rotate: false
+  xy: 153, 33
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hr_2769_0_0.png
+  rotate: false
+  xy: 184, 217
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hr_2769_1_0.png
+  rotate: false
+  xy: 129, 53
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hr_2769_2_0.png
+  rotate: false
+  xy: 97, 215
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hr_2769_3_0.png
+  rotate: false
+  xy: 88, 51
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hr_2769_7_0.png
+  rotate: false
+  xy: 45, 89
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hr_2770_0_0.png
+  rotate: false
+  xy: 160, 44
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hr_2770_1_0.png
+  rotate: false
+  xy: 135, 33
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hr_2770_2_0.png
+  rotate: false
+  xy: 227, 240
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hr_2770_3_0.png
+  rotate: false
+  xy: 88, 40
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hrb_2769_0_0.png
+  rotate: false
+  xy: 92, 133
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hrb_2769_1_0.png
+  rotate: false
+  xy: 88, 91
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hrb_2769_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hrb_2769_3_0.png
+  rotate: false
+  xy: 126, 93
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hrb_2769_7_0.png
+  rotate: false
+  xy: 45, 47
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hrb_2770_1_0.png
+  rotate: false
+  xy: 204, 166
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hrb_2770_2_0.png
+  rotate: false
+  xy: 227, 224
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hrb_2770_3_0.png
+  rotate: false
+  xy: 179, 164
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+hair_U_caveman_h_std_hrb_2770_7_0.png
+  rotate: false
+  xy: 227, 218
+  size: 23, 4
+  orig: 23, 4
+  offset: 0, 0
+  index: -1

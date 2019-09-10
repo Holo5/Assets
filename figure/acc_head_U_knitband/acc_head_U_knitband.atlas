@@ -1,0 +1,104 @@
+
+acc_head_U_knitband.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_knitband_h_lay_he_2801_2_0.png
+  rotate: false
+  xy: 24, 3
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_lsp_he_2801_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_spk_he_2801_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_spk_he_2801_1_0.png
+  rotate: false
+  xy: 130, 37
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_spk_he_2801_2_0.png
+  rotate: false
+  xy: 160, 39
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_spk_he_2801_3_0.png
+  rotate: false
+  xy: 46, 16
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_spk_he_2801_7_0.png
+  rotate: false
+  xy: 66, 36
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_spk_he_2802_0_0.png
+  rotate: false
+  xy: 252, 60
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_std_he_2801_0_0.png
+  rotate: false
+  xy: 34, 35
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_std_he_2801_1_0.png
+  rotate: false
+  xy: 222, 38
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_std_he_2801_2_0.png
+  rotate: false
+  xy: 191, 40
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_std_he_2801_3_0.png
+  rotate: false
+  xy: 78, 18
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_std_he_2801_7_0.png
+  rotate: false
+  xy: 98, 37
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+acc_head_U_knitband_h_std_he_2802_3_0.png
+  rotate: false
+  xy: 46, 12
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1

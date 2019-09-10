@@ -1,0 +1,125 @@
+
+hair_U_luscioushair.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_luscioushair_h_lay_hr_3150_2_0.png
+  rotate: false
+  xy: 525, 10
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_lay_hrb_3150_2_0.png
+  rotate: false
+  xy: 494, 10
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_spk_hr_3150_0_0.png
+  rotate: false
+  xy: 177, 3
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_spk_hr_3150_1_0.png
+  rotate: false
+  xy: 367, 3
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_spk_hr_3150_2_0.png
+  rotate: false
+  xy: 72, 2
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_spk_hr_3150_3_0.png
+  rotate: false
+  xy: 428, 11
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_spk_hr_3150_7_0.png
+  rotate: false
+  xy: 245, 3
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_spk_hrb_3150_1_0.png
+  rotate: false
+  xy: 311, 3
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_spk_hrb_3150_3_0.png
+  rotate: false
+  xy: 461, 11
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_std_hr_3150_0_0.png
+  rotate: false
+  xy: 142, 3
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_std_hr_3150_1_0.png
+  rotate: false
+  xy: 339, 3
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_std_hr_3150_2_0.png
+  rotate: false
+  xy: 37, 2
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_std_hr_3150_3_0.png
+  rotate: false
+  xy: 395, 11
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_std_hr_3150_7_0.png
+  rotate: false
+  xy: 278, 3
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_std_hrb_3150_0_0.png
+  rotate: false
+  xy: 107, 3
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_std_hrb_3150_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+hair_U_luscioushair_h_std_hrb_3150_7_0.png
+  rotate: false
+  xy: 212, 3
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1

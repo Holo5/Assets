@@ -1,0 +1,48 @@
+
+hat_U_feathercrown.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_feathercrown_h_lsp_ha_3267_2_0.png
+  rotate: false
+  xy: 77, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+hat_U_feathercrown_h_spk_ha_3267_2_0.png
+  rotate: false
+  xy: 77, 34
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+hat_U_feathercrown_h_spk_ha_3267_3_0.png
+  rotate: false
+  xy: 2, 5
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+hat_U_feathercrown_h_std_ha_3267_0_0.png
+  rotate: false
+  xy: 2, 30
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+hat_U_feathercrown_h_std_ha_3267_1_0.png
+  rotate: false
+  xy: 40, 4
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+hat_U_feathercrown_h_std_ha_3267_7_0.png
+  rotate: false
+  xy: 40, 33
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1

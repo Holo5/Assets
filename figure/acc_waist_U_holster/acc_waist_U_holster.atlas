@@ -1,0 +1,132 @@
+
+acc_waist_U_holster.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_waist_U_holster_h_lay_wa_2444_2_0.png
+  rotate: false
+  xy: 254, 7
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_lay_wa_2445_2_0.png
+  rotate: false
+  xy: 386, 12
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_lay_wa_2446_2_0.png
+  rotate: false
+  xy: 278, 7
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2444_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2444_1_0.png
+  rotate: false
+  xy: 344, 12
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2444_2_0.png
+  rotate: false
+  xy: 32, 5
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2444_3_0.png
+  rotate: false
+  xy: 219, 15
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2444_7_0.png
+  rotate: false
+  xy: 184, 15
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2445_0_0.png
+  rotate: false
+  xy: 302, 8
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2445_1_0.png
+  rotate: false
+  xy: 402, 15
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2445_2_0.png
+  rotate: false
+  xy: 325, 8
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2445_3_0.png
+  rotate: false
+  xy: 184, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2445_7_0.png
+  rotate: false
+  xy: 118, 5
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2446_0_0.png
+  rotate: false
+  xy: 62, 3
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2446_1_0.png
+  rotate: false
+  xy: 366, 10
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2446_2_0.png
+  rotate: false
+  xy: 90, 3
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2446_3_0.png
+  rotate: false
+  xy: 118, 11
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+acc_waist_U_holster_h_std_wa_2446_7_0.png
+  rotate: false
+  xy: 151, 11
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1

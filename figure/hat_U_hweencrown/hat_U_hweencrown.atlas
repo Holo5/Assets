@@ -1,0 +1,62 @@
+
+hat_U_hweencrown.png
+size: 32,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_hweencrown_h_lay_ha_3041_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+hat_U_hweencrown_h_lay_ha_3042_2_0.png
+  rotate: false
+  xy: 2, 99
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+hat_U_hweencrown_h_spk_ha_3041_3_0.png
+  rotate: false
+  xy: 2, 37
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+hat_U_hweencrown_h_spk_ha_3042_0_0.png
+  rotate: false
+  xy: 2, 159
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+hat_U_hweencrown_h_spk_ha_3042_1_0.png
+  rotate: false
+  xy: 2, 75
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+hat_U_hweencrown_h_spk_ha_3042_7_0.png
+  rotate: false
+  xy: 2, 130
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+hat_U_hweencrown_h_std_ha_3041_0_0.png
+  rotate: false
+  xy: 2, 56
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+hat_U_hweencrown_h_std_ha_3041_1_0.png
+  rotate: false
+  xy: 2, 22
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1

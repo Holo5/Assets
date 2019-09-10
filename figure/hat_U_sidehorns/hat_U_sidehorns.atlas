@@ -1,0 +1,132 @@
+
+hat_U_sidehorns.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_sidehorns_h_lay_ha_2436_2_0.png
+  rotate: false
+  xy: 422, 35
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_lsp_ha_2437_2_0.png
+  rotate: false
+  xy: 479, 51
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_lsp_ha_2438_2_0.png
+  rotate: false
+  xy: 351, 35
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_spk_ha_2436_0_0.png
+  rotate: false
+  xy: 261, 35
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_spk_ha_2437_0_0.png
+  rotate: false
+  xy: 306, 35
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_spk_ha_2437_1_0.png
+  rotate: false
+  xy: 193, 4
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_spk_ha_2437_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_spk_ha_2438_1_0.png
+  rotate: false
+  xy: 391, 28
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_spk_ha_2438_2_0.png
+  rotate: false
+  xy: 2, 23
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_spk_ha_2438_3_0.png
+  rotate: false
+  xy: 109, 30
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_spk_ha_2438_7_0.png
+  rotate: false
+  xy: 53, 30
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_std_ha_2436_1_0.png
+  rotate: false
+  xy: 450, 39
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_std_ha_2436_2_0.png
+  rotate: false
+  xy: 214, 2
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_std_ha_2436_3_0.png
+  rotate: false
+  xy: 148, 2
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_std_ha_2436_7_0.png
+  rotate: false
+  xy: 54, 2
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_std_ha_2437_2_0.png
+  rotate: false
+  xy: 214, 32
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_std_ha_2437_3_0.png
+  rotate: false
+  xy: 96, 9
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+hat_U_sidehorns_h_std_ha_2438_0_0.png
+  rotate: false
+  xy: 165, 27
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1

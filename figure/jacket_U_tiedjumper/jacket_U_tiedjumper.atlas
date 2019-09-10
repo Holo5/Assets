@@ -1,0 +1,90 @@
+
+jacket_U_tiedjumper.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_U_tiedjumper_h_lay_cc_2918_2_0.png
+  rotate: false
+  xy: 132, 13
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+jacket_U_tiedjumper_h_lay_cc_2919_2_0.png
+  rotate: false
+  xy: 167, 4
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+jacket_U_tiedjumper_h_std_cc_2918_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+jacket_U_tiedjumper_h_std_cc_2918_1_0.png
+  rotate: false
+  xy: 56, 6
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+jacket_U_tiedjumper_h_std_cc_2918_2_0.png
+  rotate: false
+  xy: 108, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+jacket_U_tiedjumper_h_std_cc_2918_3_0.png
+  rotate: false
+  xy: 28, 5
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+jacket_U_tiedjumper_h_std_cc_2918_7_0.png
+  rotate: false
+  xy: 83, 4
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+jacket_U_tiedjumper_h_std_cc_2919_0_0.png
+  rotate: false
+  xy: 132, 2
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+jacket_U_tiedjumper_h_std_cc_2919_1_0.png
+  rotate: false
+  xy: 164, 22
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+jacket_U_tiedjumper_h_std_cc_2919_2_0.png
+  rotate: false
+  xy: 152, 2
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+jacket_U_tiedjumper_h_std_cc_2919_3_0.png
+  rotate: false
+  xy: 191, 24
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+jacket_U_tiedjumper_h_std_cc_2919_7_0.png
+  rotate: false
+  xy: 164, 15
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1

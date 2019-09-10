@@ -1,0 +1,328 @@
+
+hair_F_neat.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_F_neat_h_lay_hr_2066_2_0.png
+  rotate: false
+  xy: 920, 17
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_lay_hr_2067_2_0.png
+  rotate: false
+  xy: 1516, 19
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_lay_hrb_2067_2_0.png
+  rotate: false
+  xy: 1545, 19
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_lsp_hr_2067_2_0.png
+  rotate: false
+  xy: 1574, 43
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_lsp_hrb_2066_2_0.png
+  rotate: false
+  xy: 887, 17
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_lsp_hrb_2067_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hr_2066_0_0.png
+  rotate: false
+  xy: 568, 22
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hr_2066_1_0.png
+  rotate: false
+  xy: 678, 22
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hr_2066_2_0.png
+  rotate: false
+  xy: 209, 21
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hr_2066_3_0.png
+  rotate: false
+  xy: 43, 19
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hr_2066_7_0.png
+  rotate: false
+  xy: 786, 21
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hr_2067_0_0.png
+  rotate: false
+  xy: 1221, 24
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hr_2067_1_0.png
+  rotate: false
+  xy: 1154, 24
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hr_2067_2_0.png
+  rotate: false
+  xy: 374, 23
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hr_2067_3_0.png
+  rotate: false
+  xy: 1021, 21
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hr_2067_7_0.png
+  rotate: false
+  xy: 1452, 23
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hrb_2066_0_0.png
+  rotate: false
+  xy: 531, 22
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hrb_2066_1_0.png
+  rotate: false
+  xy: 605, 22
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hrb_2066_2_0.png
+  rotate: false
+  xy: 125, 21
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hrb_2066_3_0.png
+  rotate: false
+  xy: 2, 19
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hrb_2066_7_0.png
+  rotate: false
+  xy: 820, 21
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hrb_2067_0_0.png
+  rotate: false
+  xy: 1188, 24
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hrb_2067_1_0.png
+  rotate: false
+  xy: 1120, 24
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hrb_2067_2_0.png
+  rotate: false
+  xy: 334, 23
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hrb_2067_3_0.png
+  rotate: false
+  xy: 854, 21
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_spk_hrb_2067_7_0.png
+  rotate: false
+  xy: 1420, 23
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hr_2066_0_0.png
+  rotate: false
+  xy: 641, 23
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hr_2066_1_0.png
+  rotate: false
+  xy: 714, 23
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hr_2066_2_0.png
+  rotate: false
+  xy: 167, 21
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hr_2066_3_0.png
+  rotate: false
+  xy: 84, 20
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hr_2066_7_0.png
+  rotate: false
+  xy: 987, 22
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hr_2067_0_0.png
+  rotate: false
+  xy: 1355, 25
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hr_2067_1_0.png
+  rotate: false
+  xy: 1288, 25
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hr_2067_2_0.png
+  rotate: false
+  xy: 414, 24
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hr_2067_3_0.png
+  rotate: false
+  xy: 1087, 22
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hr_2067_7_0.png
+  rotate: false
+  xy: 1484, 24
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hrb_2066_0_0.png
+  rotate: false
+  xy: 494, 23
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hrb_2066_1_0.png
+  rotate: false
+  xy: 750, 23
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hrb_2066_2_0.png
+  rotate: false
+  xy: 251, 21
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hrb_2066_3_0.png
+  rotate: false
+  xy: 293, 20
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hrb_2066_7_0.png
+  rotate: false
+  xy: 953, 22
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hrb_2067_0_0.png
+  rotate: false
+  xy: 1322, 25
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hrb_2067_1_0.png
+  rotate: false
+  xy: 1254, 25
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hrb_2067_2_0.png
+  rotate: false
+  xy: 454, 24
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hrb_2067_3_0.png
+  rotate: false
+  xy: 1054, 22
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+hair_F_neat_h_std_hrb_2067_7_0.png
+  rotate: false
+  xy: 1388, 24
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+acc_face_U_gold5.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_gold5_h_lay_fa_2813_2_0.png
+  rotate: false
+  xy: 122, 2
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+acc_face_U_gold5_h_lsp_fa_2813_2_0.png
+  rotate: false
+  xy: 94, 2
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+acc_face_U_gold5_h_spk_fa_2813_0_0.png
+  rotate: false
+  xy: 236, 9
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+acc_face_U_gold5_h_spk_fa_2813_1_0.png
+  rotate: false
+  xy: 207, 6
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+acc_face_U_gold5_h_spk_fa_2813_2_0.png
+  rotate: false
+  xy: 34, 4
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+acc_face_U_gold5_h_spk_fa_2813_3_0.png
+  rotate: false
+  xy: 66, 2
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+acc_face_U_gold5_h_std_fa_2813_0_0.png
+  rotate: false
+  xy: 254, 10
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+acc_face_U_gold5_h_std_fa_2813_1_0.png
+  rotate: false
+  xy: 178, 6
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+acc_face_U_gold5_h_std_fa_2813_2_0.png
+  rotate: false
+  xy: 2, 4
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+acc_face_U_gold5_h_std_fa_2813_3_0.png
+  rotate: false
+  xy: 150, 3
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+acc_head_U_antlers.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_antlers_h_lay_he_3265_2_0.png
+  rotate: false
+  xy: 74, 9
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+acc_head_U_antlers_h_std_he_3265_0_0.png
+  rotate: false
+  xy: 104, 2
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+acc_head_U_antlers_h_std_he_3265_1_0.png
+  rotate: false
+  xy: 156, 8
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+acc_head_U_antlers_h_std_he_3265_2_0.png
+  rotate: false
+  xy: 130, 2
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+acc_head_U_antlers_h_std_he_3265_3_0.png
+  rotate: false
+  xy: 2, 10
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+acc_head_U_antlers_h_std_he_3265_7_0.png
+  rotate: false
+  xy: 38, 10
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1

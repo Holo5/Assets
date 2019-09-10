@@ -1,0 +1,90 @@
+
+hat_U_mini_bowlerhat_gold.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_mini_bowlerhat_gold_h_lay_ha_3110_2_0.png
+  rotate: false
+  xy: 194, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+hat_U_mini_bowlerhat_gold_h_lsp_ha_3110_2_0.png
+  rotate: false
+  xy: 215, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+hat_U_mini_bowlerhat_gold_h_spk_ha_3110_0_0.png
+  rotate: false
+  xy: 98, 3
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hat_U_mini_bowlerhat_gold_h_spk_ha_3110_1_0.png
+  rotate: false
+  xy: 258, 5
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+hat_U_mini_bowlerhat_gold_h_spk_ha_3110_2_0.png
+  rotate: false
+  xy: 170, 3
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hat_U_mini_bowlerhat_gold_h_spk_ha_3110_3_0.png
+  rotate: false
+  xy: 26, 3
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hat_U_mini_bowlerhat_gold_h_spk_ha_3110_7_0.png
+  rotate: false
+  xy: 50, 3
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hat_U_mini_bowlerhat_gold_h_std_ha_3110_0_0.png
+  rotate: false
+  xy: 74, 3
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hat_U_mini_bowlerhat_gold_h_std_ha_3110_1_0.png
+  rotate: false
+  xy: 236, 5
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+hat_U_mini_bowlerhat_gold_h_std_ha_3110_2_0.png
+  rotate: false
+  xy: 146, 3
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hat_U_mini_bowlerhat_gold_h_std_ha_3110_3_0.png
+  rotate: false
+  xy: 2, 3
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hat_U_mini_bowlerhat_gold_h_std_ha_3110_7_0.png
+  rotate: false
+  xy: 122, 3
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1

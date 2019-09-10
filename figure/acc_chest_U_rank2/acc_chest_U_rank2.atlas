@@ -1,0 +1,34 @@
+
+acc_chest_U_rank2.png
+size: 32,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_rank2_h_lay_ca_2724_2_0.png
+  rotate: false
+  xy: 2, 9
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+acc_chest_U_rank2_h_std_ca_2724_1_0.png
+  rotate: false
+  xy: 20, 9
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+acc_chest_U_rank2_h_std_ca_2724_2_0.png
+  rotate: false
+  xy: 12, 8
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+acc_chest_U_rank2_h_std_ca_2724_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1

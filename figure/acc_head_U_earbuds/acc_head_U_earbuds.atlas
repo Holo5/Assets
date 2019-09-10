@@ -1,0 +1,48 @@
+
+acc_head_U_earbuds.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_earbuds_h_lay_he_2364_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+acc_head_U_earbuds_h_std_he_2364_0_0.png
+  rotate: false
+  xy: 53, 47
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+acc_head_U_earbuds_h_std_he_2364_1_0.png
+  rotate: false
+  xy: 39, 9
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+acc_head_U_earbuds_h_std_he_2364_2_0.png
+  rotate: false
+  xy: 32, 29
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+acc_head_U_earbuds_h_std_he_2364_3_0.png
+  rotate: false
+  xy: 2, 30
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+acc_head_U_earbuds_h_std_he_2364_7_0.png
+  rotate: false
+  xy: 2, 15
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1

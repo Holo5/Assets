@@ -1,0 +1,90 @@
+
+acc_chest_U_skulls.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_skulls_h_lay_ca_2780_2_0.png
+  rotate: false
+  xy: 103, 16
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+acc_chest_U_skulls_h_lay_ca_2794_2_0.png
+  rotate: false
+  xy: 131, 20
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+acc_chest_U_skulls_h_std_ca_2780_0_0.png
+  rotate: false
+  xy: 103, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+acc_chest_U_skulls_h_std_ca_2780_1_0.png
+  rotate: false
+  xy: 179, 9
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+acc_chest_U_skulls_h_std_ca_2780_2_0.png
+  rotate: false
+  xy: 55, 10
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+acc_chest_U_skulls_h_std_ca_2780_3_0.png
+  rotate: false
+  xy: 30, 7
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+acc_chest_U_skulls_h_std_ca_2780_7_0.png
+  rotate: false
+  xy: 222, 23
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+acc_chest_U_skulls_h_std_ca_2794_0_0.png
+  rotate: false
+  xy: 200, 14
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+acc_chest_U_skulls_h_std_ca_2794_1_0.png
+  rotate: false
+  xy: 158, 13
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+acc_chest_U_skulls_h_std_ca_2794_2_0.png
+  rotate: false
+  xy: 79, 12
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+acc_chest_U_skulls_h_std_ca_2794_3_0.png
+  rotate: false
+  xy: 2, 9
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+acc_chest_U_skulls_h_std_ca_2794_7_0.png
+  rotate: false
+  xy: 200, 23
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1

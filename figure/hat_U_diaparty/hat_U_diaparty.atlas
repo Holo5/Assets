@@ -1,0 +1,90 @@
+
+hat_U_diaparty.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_diaparty_h_lay_ha_3222_2_0.png
+  rotate: false
+  xy: 96, 18
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+hat_U_diaparty_h_lsp_ha_3222_2_0.png
+  rotate: false
+  xy: 58, 17
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+hat_U_diaparty_h_spk_ha_3222_0_0.png
+  rotate: false
+  xy: 191, 4
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+hat_U_diaparty_h_spk_ha_3222_1_0.png
+  rotate: false
+  xy: 312, 2
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+hat_U_diaparty_h_spk_ha_3222_2_0.png
+  rotate: false
+  xy: 265, 4
+  size: 22, 52
+  orig: 22, 52
+  offset: 0, 0
+  index: -1
+hat_U_diaparty_h_spk_ha_3222_3_0.png
+  rotate: false
+  xy: 2, 5
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+hat_U_diaparty_h_spk_ha_3222_7_0.png
+  rotate: false
+  xy: 162, 9
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+hat_U_diaparty_h_std_ha_3222_0_0.png
+  rotate: false
+  xy: 216, 5
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+hat_U_diaparty_h_std_ha_3222_1_0.png
+  rotate: false
+  xy: 289, 3
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+hat_U_diaparty_h_std_ha_3222_2_0.png
+  rotate: false
+  xy: 241, 5
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+hat_U_diaparty_h_std_ha_3222_3_0.png
+  rotate: false
+  xy: 30, 6
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+hat_U_diaparty_h_std_ha_3222_7_0.png
+  rotate: false
+  xy: 133, 10
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1

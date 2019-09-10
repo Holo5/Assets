@@ -1,0 +1,132 @@
+
+hat_U_madhat.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_madhat_h_lay_ha_3310_2_0.png
+  rotate: false
+  xy: 2, 23
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_lay_ha_3311_2_0.png
+  rotate: false
+  xy: 455, 21
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_lay_ha_3312_2_0.png
+  rotate: false
+  xy: 431, 28
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_spk_ha_3310_0_0.png
+  rotate: false
+  xy: 161, 26
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_spk_ha_3311_3_0.png
+  rotate: false
+  xy: 2, 11
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_spk_ha_3312_1_0.png
+  rotate: false
+  xy: 240, 33
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_spk_ha_3312_2_0.png
+  rotate: false
+  xy: 311, 28
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_spk_ha_3312_7_0.png
+  rotate: false
+  xy: 371, 37
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_std_ha_3310_1_0.png
+  rotate: false
+  xy: 199, 30
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_std_ha_3310_2_0.png
+  rotate: false
+  xy: 85, 26
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_std_ha_3310_3_0.png
+  rotate: false
+  xy: 123, 26
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_std_ha_3310_7_0.png
+  rotate: false
+  xy: 44, 26
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_std_ha_3311_0_0.png
+  rotate: false
+  xy: 199, 2
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_std_ha_3311_1_0.png
+  rotate: false
+  xy: 44, 2
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_std_ha_3311_2_0.png
+  rotate: false
+  xy: 230, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_std_ha_3311_7_0.png
+  rotate: false
+  xy: 406, 37
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_std_ha_3312_0_0.png
+  rotate: false
+  xy: 279, 31
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+hat_U_madhat_h_std_ha_3312_3_0.png
+  rotate: false
+  xy: 342, 28
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1

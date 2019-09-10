@@ -1,0 +1,685 @@
+
+jacket_M_labcoat.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_M_labcoat_h_crr_lc_3251_0_0.png
+  rotate: false
+  xy: 568, 16
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_lc_3251_1_0.png
+  rotate: false
+  xy: 863, 46
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_lc_3251_2_0.png
+  rotate: false
+  xy: 241, 12
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_lc_3251_3_0.png
+  rotate: false
+  xy: 254, 9
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_lc_3251_7_0.png
+  rotate: false
+  xy: 215, 2
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_rc_3251_0_0.png
+  rotate: false
+  xy: 534, 41
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_rc_3251_1_0.png
+  rotate: false
+  xy: 829, 43
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_rc_3251_2_0.png
+  rotate: false
+  xy: 681, 35
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_rc_3251_3_0.png
+  rotate: false
+  xy: 448, 24
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_rc_3251_4_0.png
+  rotate: false
+  xy: 896, 41
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_rc_3251_5_0.png
+  rotate: false
+  xy: 783, 40
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_rc_3251_6_0.png
+  rotate: false
+  xy: 233, 3
+  size: 5, 19
+  orig: 5, 19
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_crr_rc_3251_7_0.png
+  rotate: false
+  xy: 224, 2
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_drk_rc_3251_0_0.png
+  rotate: false
+  xy: 514, 43
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_drk_rc_3251_1_0.png
+  rotate: false
+  xy: 434, 50
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_drk_rc_3251_2_0.png
+  rotate: false
+  xy: 348, 46
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_drk_rc_3251_3_0.png
+  rotate: false
+  xy: 846, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_drk_rc_3251_4_0.png
+  rotate: false
+  xy: 880, 46
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_drk_rc_3251_5_0.png
+  rotate: false
+  xy: 406, 49
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_drk_rc_3251_6_0.png
+  rotate: false
+  xy: 377, 49
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_drk_rc_3251_7_0.png
+  rotate: false
+  xy: 550, 17
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_lay_cc_3251_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_lay_cc_3252_2_0.png
+  rotate: false
+  xy: 215, 24
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_lay_lc_3251_2_0.png
+  rotate: false
+  xy: 461, 51
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_lay_rc_3251_2_0.png
+  rotate: false
+  xy: 488, 43
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_sit_cc_3251_0_0.png
+  rotate: false
+  xy: 108, 24
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_sit_cc_3251_2_0.png
+  rotate: false
+  xy: 50, 18
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_sit_lc_3251_0_0.png
+  rotate: false
+  xy: 519, 19
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_sit_lc_3251_2_0.png
+  rotate: false
+  xy: 479, 27
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_sit_rc_3251_0_0.png
+  rotate: false
+  xy: 987, 34
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_sit_rc_3251_2_0.png
+  rotate: false
+  xy: 975, 33
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_cc_3251_0_0.png
+  rotate: false
+  xy: 166, 22
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_cc_3251_1_0.png
+  rotate: false
+  xy: 220, 24
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_cc_3251_2_0.png
+  rotate: false
+  xy: 80, 21
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_cc_3251_3_0.png
+  rotate: false
+  xy: 138, 23
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_cc_3251_7_0.png
+  rotate: false
+  xy: 193, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_cc_3252_1_0.png
+  rotate: false
+  xy: 43, 3
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_lc_3251_1_0.png
+  rotate: false
+  xy: 487, 19
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_lc_3251_3_0.png
+  rotate: false
+  xy: 320, 6
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_lc_3251_7_0.png
+  rotate: false
+  xy: 364, 18
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_rc_3251_1_0.png
+  rotate: false
+  xy: 799, 39
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_rc_3251_3_0.png
+  rotate: false
+  xy: 1000, 34
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_std_rc_3251_7_0.png
+  rotate: false
+  xy: 385, 21
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_0_0.png
+  rotate: false
+  xy: 715, 35
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_0_1.png
+  rotate: false
+  xy: 592, 35
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_1_0.png
+  rotate: false
+  xy: 1011, 36
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_1_1.png
+  rotate: false
+  xy: 1011, 9
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_2_0.png
+  rotate: false
+  xy: 25, 2
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_2_1.png
+  rotate: false
+  xy: 309, 36
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_3_0.png
+  rotate: false
+  xy: 664, 35
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_3_1.png
+  rotate: false
+  xy: 554, 35
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_4_0.png
+  rotate: false
+  xy: 288, 36
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_4_1.png
+  rotate: false
+  xy: 329, 36
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_5_0.png
+  rotate: false
+  xy: 573, 35
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_5_1.png
+  rotate: false
+  xy: 629, 34
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_6_1.png
+  rotate: false
+  xy: 241, 35
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_7_0.png
+  rotate: false
+  xy: 610, 36
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wav_lc_3251_7_1.png
+  rotate: false
+  xy: 267, 35
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_0_0.png
+  rotate: false
+  xy: 43, 8
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_0_1.png
+  rotate: false
+  xy: 561, 17
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_0_2.png
+  rotate: false
+  xy: 527, 19
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_0_3.png
+  rotate: false
+  xy: 193, 2
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_1_0.png
+  rotate: false
+  xy: 509, 19
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_1_1.png
+  rotate: false
+  xy: 765, 41
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_1_3.png
+  rotate: false
+  xy: 574, 14
+  size: 4, 19
+  orig: 4, 19
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_2_0.png
+  rotate: false
+  xy: 534, 17
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_2_1.png
+  rotate: false
+  xy: 498, 19
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_2_2.png
+  rotate: false
+  xy: 542, 18
+  size: 6, 21
+  orig: 6, 21
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_2_3.png
+  rotate: false
+  xy: 580, 21
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_3_0.png
+  rotate: false
+  xy: 298, 2
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_3_1.png
+  rotate: false
+  xy: 353, 17
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_3_2.png
+  rotate: false
+  xy: 287, 2
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_3_3.png
+  rotate: false
+  xy: 396, 21
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_7_0.png
+  rotate: false
+  xy: 459, 22
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_7_1.png
+  rotate: false
+  xy: 427, 21
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_7_2.png
+  rotate: false
+  xy: 469, 23
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_lc_3251_7_3.png
+  rotate: false
+  xy: 342, 7
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_0_0.png
+  rotate: false
+  xy: 910, 36
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_0_1.png
+  rotate: false
+  xy: 923, 36
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_0_2.png
+  rotate: false
+  xy: 936, 35
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_0_3.png
+  rotate: false
+  xy: 731, 37
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_1_0.png
+  rotate: false
+  xy: 203, 3
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_1_1.png
+  rotate: false
+  xy: 814, 40
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_1_3.png
+  rotate: false
+  xy: 747, 41
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_2_0.png
+  rotate: false
+  xy: 962, 33
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_2_1.png
+  rotate: false
+  xy: 647, 35
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_2_2.png
+  rotate: false
+  xy: 949, 34
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_2_3.png
+  rotate: false
+  xy: 698, 36
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_3_0.png
+  rotate: false
+  xy: 309, 6
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_3_1.png
+  rotate: false
+  xy: 437, 23
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_3_2.png
+  rotate: false
+  xy: 276, 4
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_3_3.png
+  rotate: false
+  xy: 331, 7
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_7_0.png
+  rotate: false
+  xy: 417, 21
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_7_1.png
+  rotate: false
+  xy: 265, 6
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_7_2.png
+  rotate: false
+  xy: 407, 21
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_M_labcoat_h_wlk_rc_3251_7_3.png
+  rotate: false
+  xy: 375, 18
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1

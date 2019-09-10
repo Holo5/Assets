@@ -1,0 +1,48 @@
+
+hat_U_dragonhat.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_dragonhat_h_lay_ha_3203_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+hat_U_dragonhat_h_spk_ha_3203_0_0.png
+  rotate: false
+  xy: 90, 14
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+hat_U_dragonhat_h_spk_ha_3203_1_0.png
+  rotate: false
+  xy: 41, 18
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+hat_U_dragonhat_h_spk_ha_3203_2_0.png
+  rotate: false
+  xy: 133, 17
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+hat_U_dragonhat_h_std_ha_3203_3_0.png
+  rotate: false
+  xy: 208, 20
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+hat_U_dragonhat_h_std_ha_3203_7_0.png
+  rotate: false
+  xy: 175, 11
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+acc_eye_U_brownglasses.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_eye_U_brownglasses_h_lay_ea_3257_2_0.png
+  rotate: false
+  xy: 30, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+acc_eye_U_brownglasses_h_std_ea_3257_0_0.png
+  rotate: false
+  xy: 28, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+acc_eye_U_brownglasses_h_std_ea_3257_1_0.png
+  rotate: false
+  xy: 53, 17
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+acc_eye_U_brownglasses_h_std_ea_3257_2_0.png
+  rotate: false
+  xy: 2, 17
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+acc_eye_U_brownglasses_h_std_ea_3257_3_0.png
+  rotate: false
+  xy: 2, 4
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+acc_eye_U_brownglasses_h_std_ea_3257_7_0.png
+  rotate: false
+  xy: 53, 28
+  size: 26, 2
+  orig: 26, 2
+  offset: 0, 0
+  index: -1

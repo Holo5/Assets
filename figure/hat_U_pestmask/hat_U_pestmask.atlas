@@ -1,0 +1,90 @@
+
+hat_U_pestmask.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_pestmask_h_lay_ha_2792_2_0.png
+  rotate: false
+  xy: 291, 12
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+hat_U_pestmask_h_lsp_ha_2792_2_0.png
+  rotate: false
+  xy: 208, 12
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+hat_U_pestmask_h_spk_ha_2792_0_0.png
+  rotate: false
+  xy: 366, 6
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+hat_U_pestmask_h_spk_ha_2792_1_0.png
+  rotate: false
+  xy: 401, 9
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+hat_U_pestmask_h_spk_ha_2792_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+hat_U_pestmask_h_spk_ha_2792_3_0.png
+  rotate: false
+  xy: 82, 9
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+hat_U_pestmask_h_spk_ha_2792_7_0.png
+  rotate: false
+  xy: 166, 12
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+hat_U_pestmask_h_std_ha_2792_0_0.png
+  rotate: false
+  xy: 331, 7
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+hat_U_pestmask_h_std_ha_2792_1_0.png
+  rotate: false
+  xy: 435, 11
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+hat_U_pestmask_h_std_ha_2792_2_0.png
+  rotate: false
+  xy: 42, 4
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+hat_U_pestmask_h_std_ha_2792_3_0.png
+  rotate: false
+  xy: 124, 11
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+hat_U_pestmask_h_std_ha_2792_7_0.png
+  rotate: false
+  xy: 249, 13
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+acc_head_U_minotaurhorns.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_minotaurhorns_h_lay_he_3432_2_0.png
+  rotate: false
+  xy: 95, 5
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+acc_head_U_minotaurhorns_h_std_he_3432_0_0.png
+  rotate: false
+  xy: 38, 8
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+acc_head_U_minotaurhorns_h_std_he_3432_1_0.png
+  rotate: false
+  xy: 121, 14
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+acc_head_U_minotaurhorns_h_std_he_3432_2_0.png
+  rotate: false
+  xy: 68, 8
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+acc_head_U_minotaurhorns_h_std_he_3432_3_0.png
+  rotate: false
+  xy: 2, 14
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+acc_head_U_minotaurhorns_h_std_he_3432_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1

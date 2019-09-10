@@ -1,0 +1,342 @@
+
+hair_U_sidesweep.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_sidesweep_h_lay_hr_2319_2_0.png
+  rotate: false
+  xy: 74, 30
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_lay_hr_2320_2_0.png
+  rotate: false
+  xy: 280, 32
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_lay_hrb_2319_2_0.png
+  rotate: false
+  xy: 109, 30
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_lay_hrb_2320_2_0.png
+  rotate: false
+  xy: 311, 32
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_lsp_hr_2319_2_0.png
+  rotate: false
+  xy: 38, 29
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_lsp_hr_2320_2_0.png
+  rotate: false
+  xy: 818, 33
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_lsp_hrb_2319_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_lsp_hrb_2320_2_0.png
+  rotate: false
+  xy: 846, 33
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hr_2319_0_0.png
+  rotate: false
+  xy: 586, 30
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hr_2319_1_0.png
+  rotate: false
+  xy: 244, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hr_2319_2_0.png
+  rotate: false
+  xy: 144, 31
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hr_2319_3_0.png
+  rotate: false
+  xy: 372, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hr_2319_7_0.png
+  rotate: false
+  xy: 466, 27
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hr_2320_0_0.png
+  rotate: false
+  xy: 436, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hr_2320_1_0.png
+  rotate: false
+  xy: 32, 2
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hr_2320_2_0.png
+  rotate: false
+  xy: 404, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hr_2320_3_0.png
+  rotate: false
+  xy: 676, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hr_2320_7_0.png
+  rotate: false
+  xy: 734, 29
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hrb_2319_0_0.png
+  rotate: false
+  xy: 616, 30
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hrb_2319_1_0.png
+  rotate: false
+  xy: 434, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hrb_2319_2_0.png
+  rotate: false
+  xy: 178, 31
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hrb_2319_3_0.png
+  rotate: false
+  xy: 370, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hrb_2319_7_0.png
+  rotate: false
+  xy: 496, 27
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hrb_2320_0_0.png
+  rotate: false
+  xy: 342, 32
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hrb_2320_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hrb_2320_2_0.png
+  rotate: false
+  xy: 402, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hrb_2320_3_0.png
+  rotate: false
+  xy: 646, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_spk_hrb_2320_7_0.png
+  rotate: false
+  xy: 706, 29
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hr_2319_0_0.png
+  rotate: false
+  xy: 676, 31
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hr_2319_1_0.png
+  rotate: false
+  xy: 176, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hr_2319_2_0.png
+  rotate: false
+  xy: 246, 32
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hr_2319_3_0.png
+  rotate: false
+  xy: 308, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hr_2319_7_0.png
+  rotate: false
+  xy: 526, 28
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hr_2320_0_0.png
+  rotate: false
+  xy: 818, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hr_2320_1_0.png
+  rotate: false
+  xy: 556, 2
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hr_2320_2_0.png
+  rotate: false
+  xy: 276, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hr_2320_3_0.png
+  rotate: false
+  xy: 74, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hr_2320_7_0.png
+  rotate: false
+  xy: 762, 30
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hrb_2319_0_0.png
+  rotate: false
+  xy: 646, 31
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hrb_2319_1_0.png
+  rotate: false
+  xy: 144, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hrb_2319_2_0.png
+  rotate: false
+  xy: 212, 32
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hrb_2319_3_0.png
+  rotate: false
+  xy: 212, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hrb_2319_7_0.png
+  rotate: false
+  xy: 556, 28
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hrb_2320_0_0.png
+  rotate: false
+  xy: 846, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hrb_2320_1_0.png
+  rotate: false
+  xy: 526, 2
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hrb_2320_2_0.png
+  rotate: false
+  xy: 340, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hrb_2320_3_0.png
+  rotate: false
+  xy: 104, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+hair_U_sidesweep_h_std_hrb_2320_7_0.png
+  rotate: false
+  xy: 790, 30
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1

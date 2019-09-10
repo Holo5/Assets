@@ -1,0 +1,69 @@
+
+acc_chest_U_backpack.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_backpack_h_lay_ca_2497_2_0.png
+  rotate: false
+  xy: 82, 37
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+acc_chest_U_backpack_h_std_ca_2497_0_0.png
+  rotate: false
+  xy: 2, 26
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+acc_chest_U_backpack_h_std_ca_2497_1_0.png
+  rotate: false
+  xy: 56, 29
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+acc_chest_U_backpack_h_std_ca_2497_2_0.png
+  rotate: false
+  xy: 56, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+acc_chest_U_backpack_h_std_ca_2497_3_0.png
+  rotate: false
+  xy: 2, 3
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+acc_chest_U_backpack_h_std_ca_2497_7_0.png
+  rotate: false
+  xy: 30, 26
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+acc_chest_U_backpack_h_std_ca_2498_0_0.png
+  rotate: false
+  xy: 31, 5
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+acc_chest_U_backpack_h_std_ca_2498_1_0.png
+  rotate: false
+  xy: 101, 46
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+acc_chest_U_backpack_h_std_ca_2498_7_0.png
+  rotate: false
+  xy: 82, 44
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1

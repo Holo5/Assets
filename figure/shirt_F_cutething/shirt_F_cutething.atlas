@@ -1,0 +1,671 @@
+
+shirt_F_cutething.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_cutething_h_crr_ls_3172_1_0.png
+  rotate: false
+  xy: 192, 11
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_ls_3172_2_0.png
+  rotate: false
+  xy: 277, 17
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_ls_3172_3_0.png
+  rotate: false
+  xy: 367, 32
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_ls_3172_6_0.png
+  rotate: false
+  xy: 73, 8
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_ls_3172_7_0.png
+  rotate: false
+  xy: 429, 28
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_rs_3172_0_0.png
+  rotate: false
+  xy: 415, 44
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_rs_3172_1_0.png
+  rotate: false
+  xy: 221, 14
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_rs_3172_2_0.png
+  rotate: false
+  xy: 439, 45
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_rs_3172_3_0.png
+  rotate: false
+  xy: 478, 28
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_rs_3172_4_0.png
+  rotate: false
+  xy: 176, 13
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_rs_3172_5_0.png
+  rotate: false
+  xy: 264, 30
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_rs_3172_6_0.png
+  rotate: false
+  xy: 183, 13
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_crr_rs_3172_7_0.png
+  rotate: false
+  xy: 287, 31
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_drk_rs_3172_0_0.png
+  rotate: false
+  xy: 357, 51
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_drk_rs_3172_1_0.png
+  rotate: false
+  xy: 147, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_drk_rs_3172_2_0.png
+  rotate: false
+  xy: 328, 49
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_drk_rs_3172_3_0.png
+  rotate: false
+  xy: 476, 47
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_drk_rs_3172_4_0.png
+  rotate: false
+  xy: 240, 15
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_drk_rs_3172_5_0.png
+  rotate: false
+  xy: 29, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_drk_rs_3172_6_0.png
+  rotate: false
+  xy: 373, 51
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_drk_rs_3172_7_0.png
+  rotate: false
+  xy: 501, 46
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_lay_ch_3172_2_0.png
+  rotate: false
+  xy: 2, 35
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_lay_ch_3173_2_0.png
+  rotate: false
+  xy: 44, 17
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_lay_ls_3172_2_0.png
+  rotate: false
+  xy: 203, 37
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_lay_rs_3172_2_0.png
+  rotate: false
+  xy: 297, 49
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ch_3172_0_0.png
+  rotate: false
+  xy: 44, 29
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ch_3172_1_0.png
+  rotate: false
+  xy: 129, 32
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ch_3172_2_0.png
+  rotate: false
+  xy: 73, 28
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ch_3172_3_0.png
+  rotate: false
+  xy: 101, 30
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ch_3172_7_0.png
+  rotate: false
+  xy: 2, 4
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ch_3173_1_0.png
+  rotate: false
+  xy: 422, 28
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ch_3173_2_0.png
+  rotate: false
+  xy: 489, 47
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ch_3173_3_0.png
+  rotate: false
+  xy: 275, 32
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ls_3172_0_0.png
+  rotate: false
+  xy: 284, 17
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ls_3172_1_0.png
+  rotate: false
+  xy: 231, 15
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ls_3172_2_0.png
+  rotate: false
+  xy: 249, 14
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ls_3172_3_0.png
+  rotate: false
+  xy: 357, 31
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_ls_3172_7_0.png
+  rotate: false
+  xy: 202, 4
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_rs_3172_0_0.png
+  rotate: false
+  xy: 85, 8
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_rs_3172_1_0.png
+  rotate: false
+  xy: 203, 21
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_rs_3172_2_0.png
+  rotate: false
+  xy: 62, 8
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_rs_3172_3_0.png
+  rotate: false
+  xy: 488, 28
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_std_rs_3172_7_0.png
+  rotate: false
+  xy: 439, 28
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_0_1.png
+  rotate: false
+  xy: 220, 30
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_1_0.png
+  rotate: false
+  xy: 377, 37
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_1_1.png
+  rotate: false
+  xy: 167, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_2_1.png
+  rotate: false
+  xy: 343, 49
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_3_1.png
+  rotate: false
+  xy: 389, 46
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_4_1.png
+  rotate: false
+  xy: 29, 17
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_5_0.png
+  rotate: false
+  xy: 46, 2
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_5_1.png
+  rotate: false
+  xy: 313, 49
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_6_0.png
+  rotate: false
+  xy: 235, 47
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_6_1.png
+  rotate: false
+  xy: 251, 48
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_7_0.png
+  rotate: false
+  xy: 203, 46
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wav_ls_3172_7_1.png
+  rotate: false
+  xy: 219, 46
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_0_0.png
+  rotate: false
+  xy: 263, 14
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_0_1.png
+  rotate: false
+  xy: 167, 13
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_0_2.png
+  rotate: false
+  xy: 256, 14
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_0_3.png
+  rotate: false
+  xy: 212, 5
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_1_0.png
+  rotate: false
+  xy: 389, 30
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_1_1.png
+  rotate: false
+  xy: 450, 47
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_1_2.png
+  rotate: false
+  xy: 400, 29
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_1_3.png
+  rotate: false
+  xy: 267, 48
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_2_0.png
+  rotate: false
+  xy: 233, 30
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_2_1.png
+  rotate: false
+  xy: 449, 28
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_2_2.png
+  rotate: false
+  xy: 213, 21
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_2_3.png
+  rotate: false
+  xy: 270, 15
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_3_0.png
+  rotate: false
+  xy: 337, 29
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_3_1.png
+  rotate: false
+  xy: 137, 10
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_3_2.png
+  rotate: false
+  xy: 127, 8
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_3_3.png
+  rotate: false
+  xy: 327, 29
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_7_0.png
+  rotate: false
+  xy: 297, 30
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_7_1.png
+  rotate: false
+  xy: 157, 12
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_7_2.png
+  rotate: false
+  xy: 307, 30
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_ls_3172_7_3.png
+  rotate: false
+  xy: 97, 8
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_0_0.png
+  rotate: false
+  xy: 252, 30
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_0_1.png
+  rotate: false
+  xy: 402, 45
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_0_2.png
+  rotate: false
+  xy: 240, 29
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_0_3.png
+  rotate: false
+  xy: 427, 45
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_1_0.png
+  rotate: false
+  xy: 192, 27
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_1_1.png
+  rotate: false
+  xy: 282, 48
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_1_2.png
+  rotate: false
+  xy: 411, 28
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_1_3.png
+  rotate: false
+  xy: 463, 47
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_2_0.png
+  rotate: false
+  xy: 163, 42
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_2_1.png
+  rotate: false
+  xy: 176, 43
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_2_2.png
+  rotate: false
+  xy: 190, 43
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_2_3.png
+  rotate: false
+  xy: 150, 40
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_3_0.png
+  rotate: false
+  xy: 117, 8
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_3_1.png
+  rotate: false
+  xy: 317, 29
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_3_2.png
+  rotate: false
+  xy: 147, 12
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_3_3.png
+  rotate: false
+  xy: 107, 8
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_7_0.png
+  rotate: false
+  xy: 468, 28
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_7_1.png
+  rotate: false
+  xy: 347, 29
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_7_2.png
+  rotate: false
+  xy: 458, 28
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_F_cutething_h_wlk_rs_3172_7_3.png
+  rotate: false
+  xy: 498, 28
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1

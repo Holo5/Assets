@@ -1,0 +1,1084 @@
+
+shirt_M_dungarees.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_M_dungarees_h_crr_ls_3258_3_0.png
+  rotate: false
+  xy: 147, 19
+  size: 3, 12
+  orig: 3, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_ls_3258_7_0.png
+  rotate: false
+  xy: 61, 159
+  size: 1, 5
+  orig: 1, 5
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_ls_3259_0_0.png
+  rotate: false
+  xy: 147, 5
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_ls_3259_1_0.png
+  rotate: false
+  xy: 247, 47
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_ls_3259_2_0.png
+  rotate: false
+  xy: 224, 55
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_ls_3259_3_0.png
+  rotate: false
+  xy: 152, 57
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_ls_3259_7_0.png
+  rotate: false
+  xy: 204, 66
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_rs_3258_2_0.png
+  rotate: false
+  xy: 75, 22
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_rs_3258_3_0.png
+  rotate: false
+  xy: 153, 7
+  size: 3, 11
+  orig: 3, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_rs_3258_7_0.png
+  rotate: false
+  xy: 117, 104
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_rs_3259_0_0.png
+  rotate: false
+  xy: 50, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_rs_3259_1_0.png
+  rotate: false
+  xy: 231, 50
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_rs_3259_2_0.png
+  rotate: false
+  xy: 111, 18
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_rs_3259_3_0.png
+  rotate: false
+  xy: 98, 2
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_rs_3259_4_0.png
+  rotate: false
+  xy: 248, 72
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_rs_3259_5_0.png
+  rotate: false
+  xy: 52, 202
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_rs_3259_6_0.png
+  rotate: false
+  xy: 240, 49
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_crr_rs_3259_7_0.png
+  rotate: false
+  xy: 174, 58
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_drk_rs_3258_7_0.png
+  rotate: false
+  xy: 217, 69
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_drk_rs_3259_0_0.png
+  rotate: false
+  xy: 142, 90
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_drk_rs_3259_1_0.png
+  rotate: false
+  xy: 115, 47
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_drk_rs_3259_2_0.png
+  rotate: false
+  xy: 157, 90
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_drk_rs_3259_3_0.png
+  rotate: false
+  xy: 99, 18
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_drk_rs_3259_4_0.png
+  rotate: false
+  xy: 151, 33
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_drk_rs_3259_5_0.png
+  rotate: false
+  xy: 50, 37
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_drk_rs_3259_6_0.png
+  rotate: false
+  xy: 186, 90
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_drk_rs_3259_7_0.png
+  rotate: false
+  xy: 131, 57
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_lay_ch_3258_2_0.png
+  rotate: false
+  xy: 39, 218
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_lay_ch_3259_2_0.png
+  rotate: false
+  xy: 2, 18
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_lay_ls_3259_2_0.png
+  rotate: false
+  xy: 97, 47
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_lay_rs_3258_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_lay_rs_3259_2_0.png
+  rotate: false
+  xy: 101, 95
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_sit_ch_3258_0_0.png
+  rotate: false
+  xy: 92, 214
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_sit_ch_3258_2_0.png
+  rotate: false
+  xy: 132, 206
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_sit_ch_3259_2_0.png
+  rotate: false
+  xy: 64, 96
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_sit_ls_3259_2_0.png
+  rotate: false
+  xy: 224, 68
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_sit_rs_3259_2_0.png
+  rotate: false
+  xy: 109, 57
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ch_3258_0_0.png
+  rotate: false
+  xy: 64, 113
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ch_3258_1_0.png
+  rotate: false
+  xy: 30, 43
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ch_3258_2_0.png
+  rotate: false
+  xy: 2, 93
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ch_3258_3_0.png
+  rotate: false
+  xy: 228, 100
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ch_3258_7_0.png
+  rotate: false
+  xy: 50, 46
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ch_3259_0_0.png
+  rotate: false
+  xy: 97, 76
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ch_3259_1_0.png
+  rotate: false
+  xy: 14, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ch_3259_3_0.png
+  rotate: false
+  xy: 171, 91
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ls_3258_3_0.png
+  rotate: false
+  xy: 213, 54
+  size: 2, 10
+  orig: 2, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ls_3259_0_0.png
+  rotate: false
+  xy: 241, 61
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ls_3259_3_0.png
+  rotate: false
+  xy: 65, 21
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_ls_3259_7_0.png
+  rotate: false
+  xy: 232, 169
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_rs_3258_2_0.png
+  rotate: false
+  xy: 62, 39
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_rs_3258_3_0.png
+  rotate: false
+  xy: 158, 9
+  size: 2, 10
+  orig: 2, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_rs_3258_7_0.png
+  rotate: false
+  xy: 86, 110
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_rs_3259_0_0.png
+  rotate: false
+  xy: 97, 57
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_rs_3259_1_0.png
+  rotate: false
+  xy: 133, 74
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_rs_3259_2_0.png
+  rotate: false
+  xy: 27, 18
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_rs_3259_3_0.png
+  rotate: false
+  xy: 56, 19
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_std_rs_3259_7_0.png
+  rotate: false
+  xy: 120, 59
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3258_3_0.png
+  rotate: false
+  xy: 131, 32
+  size: 3, 13
+  orig: 3, 13
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3258_3_1.png
+  rotate: false
+  xy: 131, 4
+  size: 3, 12
+  orig: 3, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3258_7_0.png
+  rotate: false
+  xy: 242, 75
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_0_0.png
+  rotate: false
+  xy: 39, 202
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_0_1.png
+  rotate: false
+  xy: 26, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_1_0.png
+  rotate: false
+  xy: 204, 54
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_1_1.png
+  rotate: false
+  xy: 122, 18
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_2_0.png
+  rotate: false
+  xy: 86, 96
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_2_1.png
+  rotate: false
+  xy: 84, 18
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_3_0.png
+  rotate: false
+  xy: 143, 73
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_3_1.png
+  rotate: false
+  xy: 130, 87
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_4_0.png
+  rotate: false
+  xy: 118, 87
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_4_1.png
+  rotate: false
+  xy: 62, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_5_0.png
+  rotate: false
+  xy: 243, 178
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_5_1.png
+  rotate: false
+  xy: 243, 165
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_6_0.png
+  rotate: false
+  xy: 84, 32
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_6_1.png
+  rotate: false
+  xy: 98, 32
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_7_0.png
+  rotate: false
+  xy: 112, 32
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wav_ls_3259_7_1.png
+  rotate: false
+  xy: 142, 57
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_0_0.png
+  rotate: false
+  xy: 92, 110
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_0_1.png
+  rotate: false
+  xy: 2, 202
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_0_2.png
+  rotate: false
+  xy: 33, 149
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_0_3.png
+  rotate: false
+  xy: 2, 37
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_1_0.png
+  rotate: false
+  xy: 77, 47
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_1_1.png
+  rotate: false
+  xy: 202, 204
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_1_2.png
+  rotate: false
+  xy: 234, 206
+  size: 18, 48
+  orig: 18, 48
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_1_3.png
+  rotate: false
+  xy: 92, 162
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_2_0.png
+  rotate: false
+  xy: 61, 166
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_2_1.png
+  rotate: false
+  xy: 2, 146
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_2_2.png
+  rotate: false
+  xy: 33, 96
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_2_3.png
+  rotate: false
+  xy: 169, 204
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_3_0.png
+  rotate: false
+  xy: 147, 103
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_3_1.png
+  rotate: false
+  xy: 205, 151
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_3_2.png
+  rotate: false
+  xy: 174, 101
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_3_3.png
+  rotate: false
+  xy: 201, 98
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_7_0.png
+  rotate: false
+  xy: 124, 156
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_7_1.png
+  rotate: false
+  xy: 120, 104
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_7_2.png
+  rotate: false
+  xy: 151, 154
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3258_7_3.png
+  rotate: false
+  xy: 178, 152
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ch_3259_7_2.png
+  rotate: false
+  xy: 118, 76
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3258_3_1.png
+  rotate: false
+  xy: 140, 33
+  size: 2, 12
+  orig: 2, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3258_3_2.png
+  rotate: false
+  xy: 162, 11
+  size: 2, 10
+  orig: 2, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3258_3_3.png
+  rotate: false
+  xy: 162, 23
+  size: 2, 10
+  orig: 2, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3258_7_0.png
+  rotate: false
+  xy: 224, 82
+  size: 2, 14
+  orig: 2, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3258_7_1.png
+  rotate: false
+  xy: 212, 66
+  size: 3, 14
+  orig: 3, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3258_7_2.png
+  rotate: false
+  xy: 182, 74
+  size: 2, 15
+  orig: 2, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3258_7_3.png
+  rotate: false
+  xy: 158, 21
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_0_0.png
+  rotate: false
+  xy: 162, 47
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_0_1.png
+  rotate: false
+  xy: 144, 33
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_0_2.png
+  rotate: false
+  xy: 152, 20
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_0_3.png
+  rotate: false
+  xy: 248, 59
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_1_1.png
+  rotate: false
+  xy: 213, 85
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_1_2.png
+  rotate: false
+  xy: 228, 87
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_1_3.png
+  rotate: false
+  xy: 128, 47
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_2_0.png
+  rotate: false
+  xy: 140, 19
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_2_1.png
+  rotate: false
+  xy: 248, 85
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_2_2.png
+  rotate: false
+  xy: 140, 5
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_2_3.png
+  rotate: false
+  xy: 217, 55
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_3_1.png
+  rotate: false
+  xy: 204, 82
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_3_2.png
+  rotate: false
+  xy: 232, 151
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_3_3.png
+  rotate: false
+  xy: 186, 56
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_7_0.png
+  rotate: false
+  xy: 195, 56
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_7_1.png
+  rotate: false
+  xy: 122, 29
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_7_2.png
+  rotate: false
+  xy: 195, 73
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_ls_3259_7_3.png
+  rotate: false
+  xy: 75, 28
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_0_0.png
+  rotate: false
+  xy: 124, 208
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_1_3.png
+  rotate: false
+  xy: 89, 110
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_2_0.png
+  rotate: false
+  xy: 30, 37
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_2_1.png
+  rotate: false
+  xy: 33, 93
+  size: 5, 1
+  orig: 5, 1
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_2_2.png
+  rotate: false
+  xy: 40, 37
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_2_3.png
+  rotate: false
+  xy: 153, 2
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_3_0.png
+  rotate: false
+  xy: 162, 35
+  size: 2, 10
+  orig: 2, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_3_1.png
+  rotate: false
+  xy: 182, 58
+  size: 2, 14
+  orig: 2, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_3_2.png
+  rotate: false
+  xy: 169, 48
+  size: 2, 9
+  orig: 2, 9
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_3_3.png
+  rotate: false
+  xy: 136, 33
+  size: 2, 12
+  orig: 2, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_7_0.png
+  rotate: false
+  xy: 136, 5
+  size: 2, 12
+  orig: 2, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_7_1.png
+  rotate: false
+  xy: 158, 34
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_7_2.png
+  rotate: false
+  xy: 136, 19
+  size: 2, 12
+  orig: 2, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3258_7_3.png
+  rotate: false
+  xy: 131, 18
+  size: 3, 12
+  orig: 3, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_0_0.png
+  rotate: false
+  xy: 120, 2
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_0_1.png
+  rotate: false
+  xy: 38, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_0_2.png
+  rotate: false
+  xy: 109, 2
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_0_3.png
+  rotate: false
+  xy: 232, 186
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_1_0.png
+  rotate: false
+  xy: 231, 62
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_1_1.png
+  rotate: false
+  xy: 242, 152
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_1_2.png
+  rotate: false
+  xy: 238, 87
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_1_3.png
+  rotate: false
+  xy: 231, 75
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_2_0.png
+  rotate: false
+  xy: 74, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_2_1.png
+  rotate: false
+  xy: 243, 191
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_2_2.png
+  rotate: false
+  xy: 86, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_2_3.png
+  rotate: false
+  xy: 162, 59
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_3_0.png
+  rotate: false
+  xy: 186, 73
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_3_1.png
+  rotate: false
+  xy: 173, 74
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_3_3.png
+  rotate: false
+  xy: 154, 73
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_7_1.png
+  rotate: false
+  xy: 47, 19
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_7_2.png
+  rotate: false
+  xy: 164, 73
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_dungarees_h_wlk_rs_3259_7_3.png
+  rotate: false
+  xy: 38, 19
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1

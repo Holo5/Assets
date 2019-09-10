@@ -1,0 +1,48 @@
+
+hat_U_forrestcrown.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_forrestcrown_h_lay_ha_3333_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+hat_U_forrestcrown_h_spk_ha_3333_0_0.png
+  rotate: false
+  xy: 25, 12
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+hat_U_forrestcrown_h_spk_ha_3333_1_0.png
+  rotate: false
+  xy: 90, 13
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+hat_U_forrestcrown_h_spk_ha_3333_2_0.png
+  rotate: false
+  xy: 121, 16
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+hat_U_forrestcrown_h_spk_ha_3333_3_0.png
+  rotate: false
+  xy: 154, 19
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+hat_U_forrestcrown_h_spk_ha_3333_7_0.png
+  rotate: false
+  xy: 58, 14
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1

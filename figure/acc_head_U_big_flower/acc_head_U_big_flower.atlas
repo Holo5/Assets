@@ -1,0 +1,83 @@
+
+acc_head_U_big_flower.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_big_flower_h_lay_he_2269_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+acc_head_U_big_flower_h_lay_he_2270_2_0.png
+  rotate: false
+  xy: 51, 18
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+acc_head_U_big_flower_h_std_he_2269_0_0.png
+  rotate: false
+  xy: 35, 34
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+acc_head_U_big_flower_h_std_he_2269_1_0.png
+  rotate: false
+  xy: 2, 33
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+acc_head_U_big_flower_h_std_he_2269_2_0.png
+  rotate: false
+  xy: 66, 34
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+acc_head_U_big_flower_h_std_he_2269_3_0.png
+  rotate: false
+  xy: 97, 36
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+acc_head_U_big_flower_h_std_he_2269_7_0.png
+  rotate: false
+  xy: 19, 7
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+acc_head_U_big_flower_h_std_he_2270_0_0.png
+  rotate: false
+  xy: 42, 26
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+acc_head_U_big_flower_h_std_he_2270_1_0.png
+  rotate: false
+  xy: 51, 27
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+acc_head_U_big_flower_h_std_he_2270_2_0.png
+  rotate: false
+  xy: 42, 18
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+acc_head_U_big_flower_h_std_he_2270_3_0.png
+  rotate: false
+  xy: 42, 10
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1

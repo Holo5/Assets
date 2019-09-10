@@ -1,0 +1,90 @@
+
+acc_eye_U_scuba.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_eye_U_scuba_h_lay_ea_2323_2_0.png
+  rotate: false
+  xy: 103, 35
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+acc_eye_U_scuba_h_lay_ea_2324_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+acc_eye_U_scuba_h_std_ea_2323_0_0.png
+  rotate: false
+  xy: 68, 27
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+acc_eye_U_scuba_h_std_ea_2323_1_0.png
+  rotate: false
+  xy: 144, 26
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+acc_eye_U_scuba_h_std_ea_2323_2_0.png
+  rotate: false
+  xy: 2, 21
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+acc_eye_U_scuba_h_std_ea_2323_3_0.png
+  rotate: false
+  xy: 37, 23
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+acc_eye_U_scuba_h_std_ea_2323_7_0.png
+  rotate: false
+  xy: 176, 25
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+acc_eye_U_scuba_h_std_ea_2324_0_0.png
+  rotate: false
+  xy: 129, 4
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+acc_eye_U_scuba_h_std_ea_2324_1_0.png
+  rotate: false
+  xy: 227, 38
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+acc_eye_U_scuba_h_std_ea_2324_2_0.png
+  rotate: false
+  xy: 207, 29
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+acc_eye_U_scuba_h_std_ea_2324_3_0.png
+  rotate: false
+  xy: 103, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+acc_eye_U_scuba_h_std_ea_2324_7_0.png
+  rotate: false
+  xy: 227, 29
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1

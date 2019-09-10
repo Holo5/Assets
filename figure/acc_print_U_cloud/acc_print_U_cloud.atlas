@@ -1,0 +1,34 @@
+
+acc_print_U_cloud.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_print_U_cloud_h_lay_cp_2526_2_0.png
+  rotate: false
+  xy: 37, 19
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+acc_print_U_cloud_h_std_cp_2526_2_0.png
+  rotate: false
+  xy: 21, 15
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+acc_print_U_cloud_h_std_cp_2526_3_0.png
+  rotate: false
+  xy: 2, 17
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+acc_print_U_cloud_h_std_cp_2526_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1

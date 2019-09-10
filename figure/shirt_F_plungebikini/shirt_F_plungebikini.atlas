@@ -1,0 +1,90 @@
+
+shirt_F_plungebikini.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_plungebikini_h_lay_ch_3409_2_0.png
+  rotate: false
+  xy: 2, 11
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+shirt_F_plungebikini_h_lay_ch_3410_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+shirt_F_plungebikini_h_std_ch_3409_0_0.png
+  rotate: false
+  xy: 28, 13
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+shirt_F_plungebikini_h_std_ch_3409_1_0.png
+  rotate: false
+  xy: 127, 15
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+shirt_F_plungebikini_h_std_ch_3409_2_0.png
+  rotate: false
+  xy: 55, 12
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+shirt_F_plungebikini_h_std_ch_3409_3_0.png
+  rotate: false
+  xy: 81, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+shirt_F_plungebikini_h_std_ch_3409_7_0.png
+  rotate: false
+  xy: 104, 15
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shirt_F_plungebikini_h_std_ch_3410_0_0.png
+  rotate: false
+  xy: 16, 3
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+shirt_F_plungebikini_h_std_ch_3410_1_0.png
+  rotate: false
+  xy: 175, 27
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shirt_F_plungebikini_h_std_ch_3410_2_0.png
+  rotate: false
+  xy: 147, 22
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+shirt_F_plungebikini_h_std_ch_3410_3_0.png
+  rotate: false
+  xy: 162, 22
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+shirt_F_plungebikini_h_std_ch_3410_7_0.png
+  rotate: false
+  xy: 147, 15
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1

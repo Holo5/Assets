@@ -1,0 +1,83 @@
+
+hat_U_earthhelm.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_earthhelm_h_lay_ha_2789_2_0.png
+  rotate: false
+  xy: 134, 10
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+hat_U_earthhelm_h_lsp_ha_2789_2_0.png
+  rotate: false
+  xy: 88, 10
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+hat_U_earthhelm_h_spk_ha_2789_0_0.png
+  rotate: false
+  xy: 256, 3
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+hat_U_earthhelm_h_spk_ha_2789_1_0.png
+  rotate: false
+  xy: 2, 3
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+hat_U_earthhelm_h_spk_ha_2789_2_0.png
+  rotate: false
+  xy: 370, 2
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+hat_U_earthhelm_h_spk_ha_2789_3_0.png
+  rotate: false
+  xy: 332, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+hat_U_earthhelm_h_spk_ha_2789_7_0.png
+  rotate: false
+  xy: 179, 8
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+hat_U_earthhelm_h_std_ha_2789_0_0.png
+  rotate: false
+  xy: 218, 3
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+hat_U_earthhelm_h_std_ha_2789_1_0.png
+  rotate: false
+  xy: 45, 4
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+hat_U_earthhelm_h_std_ha_2789_2_0.png
+  rotate: false
+  xy: 407, 3
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+hat_U_earthhelm_h_std_ha_2789_3_0.png
+  rotate: false
+  xy: 294, 3
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1

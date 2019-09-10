@@ -1,0 +1,90 @@
+
+hat_U_stripywool.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_stripywool_h_lay_ha_2396_2_0.png
+  rotate: false
+  xy: 195, 32
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+hat_U_stripywool_h_lay_ha_2397_2_0.png
+  rotate: false
+  xy: 237, 35
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+hat_U_stripywool_h_std_ha_2396_0_0.png
+  rotate: false
+  xy: 153, 31
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+hat_U_stripywool_h_std_ha_2396_1_0.png
+  rotate: false
+  xy: 43, 27
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+hat_U_stripywool_h_std_ha_2396_2_0.png
+  rotate: false
+  xy: 2, 26
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+hat_U_stripywool_h_std_ha_2396_3_0.png
+  rotate: false
+  xy: 89, 27
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+hat_U_stripywool_h_std_ha_2396_7_0.png
+  rotate: false
+  xy: 121, 29
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+hat_U_stripywool_h_std_ha_2397_0_0.png
+  rotate: false
+  xy: 225, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+hat_U_stripywool_h_std_ha_2397_1_0.png
+  rotate: false
+  xy: 153, 3
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hat_U_stripywool_h_std_ha_2397_2_0.png
+  rotate: false
+  xy: 195, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+hat_U_stripywool_h_std_ha_2397_3_0.png
+  rotate: false
+  xy: 43, 4
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+hat_U_stripywool_h_std_ha_2397_7_0.png
+  rotate: false
+  xy: 121, 2
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1

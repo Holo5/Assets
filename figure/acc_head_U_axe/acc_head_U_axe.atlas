@@ -1,0 +1,48 @@
+
+acc_head_U_axe.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_axe_h_lay_he_3235_2_0.png
+  rotate: false
+  xy: 126, 7
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+acc_head_U_axe_h_spk_he_3235_0_0.png
+  rotate: false
+  xy: 97, 6
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+acc_head_U_axe_h_spk_he_3235_1_0.png
+  rotate: false
+  xy: 153, 2
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+acc_head_U_axe_h_spk_he_3235_7_0.png
+  rotate: false
+  xy: 2, 7
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+acc_head_U_axe_h_std_he_3235_2_0.png
+  rotate: false
+  xy: 66, 6
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+acc_head_U_axe_h_std_he_3235_3_0.png
+  rotate: false
+  xy: 34, 7
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1

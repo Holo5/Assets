@@ -1,0 +1,62 @@
+
+hat_U_party11.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_party11_h_lay_ha_2964_2_0.png
+  rotate: false
+  xy: 44, 24
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+hat_U_party11_h_lsp_ha_2964_2_0.png
+  rotate: false
+  xy: 44, 44
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+hat_U_party11_h_spk_ha_2964_0_0.png
+  rotate: false
+  xy: 2, 43
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+hat_U_party11_h_spk_ha_2964_1_0.png
+  rotate: false
+  xy: 23, 24
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+hat_U_party11_h_spk_ha_2964_7_0.png
+  rotate: false
+  xy: 23, 44
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+hat_U_party11_h_std_ha_2964_1_0.png
+  rotate: false
+  xy: 23, 4
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+hat_U_party11_h_std_ha_2964_2_0.png
+  rotate: false
+  xy: 2, 22
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+hat_U_party11_h_std_ha_2964_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1

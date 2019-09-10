@@ -1,0 +1,90 @@
+
+hat_U_piccolo.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_piccolo_h_lay_ha_2515_2_0.png
+  rotate: false
+  xy: 81, 2
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+hat_U_piccolo_h_lsp_ha_2515_2_0.png
+  rotate: false
+  xy: 54, 32
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+hat_U_piccolo_h_spk_ha_2515_0_0.png
+  rotate: false
+  xy: 78, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+hat_U_piccolo_h_spk_ha_2515_1_0.png
+  rotate: false
+  xy: 29, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+hat_U_piccolo_h_spk_ha_2515_2_0.png
+  rotate: false
+  xy: 103, 38
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+hat_U_piccolo_h_spk_ha_2515_3_0.png
+  rotate: false
+  xy: 157, 41
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+hat_U_piccolo_h_spk_ha_2515_7_0.png
+  rotate: false
+  xy: 2, 31
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+hat_U_piccolo_h_std_ha_2515_0_0.png
+  rotate: false
+  xy: 56, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+hat_U_piccolo_h_std_ha_2515_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+hat_U_piccolo_h_std_ha_2515_2_0.png
+  rotate: false
+  xy: 130, 39
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+hat_U_piccolo_h_std_ha_2515_3_0.png
+  rotate: false
+  xy: 185, 42
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+hat_U_piccolo_h_std_ha_2515_7_0.png
+  rotate: false
+  xy: 28, 32
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

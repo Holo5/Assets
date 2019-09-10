@@ -1,0 +1,125 @@
+
+hair_U_halftiedhair.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_halftiedhair_h_lsp_hr_3504_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_lsp_hrb_3504_2_0.png
+  rotate: false
+  xy: 101, 210
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_spk_hr_3504_0_0.png
+  rotate: false
+  xy: 2, 210
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_spk_hr_3504_1_0.png
+  rotate: false
+  xy: 2, 38
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_spk_hr_3504_2_0.png
+  rotate: false
+  xy: 2, 138
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_spk_hr_3504_3_0.png
+  rotate: false
+  xy: 68, 142
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_spk_hr_3504_7_0.png
+  rotate: false
+  xy: 2, 70
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_spk_hrb_3504_0_0.png
+  rotate: false
+  xy: 35, 210
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_spk_hrb_3504_1_0.png
+  rotate: false
+  xy: 35, 74
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_spk_hrb_3504_2_0.png
+  rotate: false
+  xy: 2, 174
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_spk_hrb_3504_3_0.png
+  rotate: false
+  xy: 68, 176
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_spk_hrb_3504_7_0.png
+  rotate: false
+  xy: 35, 140
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_std_hr_3504_0_0.png
+  rotate: false
+  xy: 68, 210
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_std_hr_3504_1_0.png
+  rotate: false
+  xy: 69, 110
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_std_hr_3504_2_0.png
+  rotate: false
+  xy: 35, 174
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_std_hr_3504_3_0.png
+  rotate: false
+  xy: 35, 106
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hair_U_halftiedhair_h_std_hr_3504_7_0.png
+  rotate: false
+  xy: 2, 104
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1

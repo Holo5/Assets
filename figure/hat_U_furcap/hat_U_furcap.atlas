@@ -1,0 +1,174 @@
+
+hat_U_furcap.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_furcap_h_lay_ha_2234_2_0.png
+  rotate: false
+  xy: 248, 28
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_lay_ha_2235_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_lsp_ha_2234_2_0.png
+  rotate: false
+  xy: 341, 29
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_lsp_ha_2235_2_0.png
+  rotate: false
+  xy: 73, 14
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_spk_ha_2234_0_0.png
+  rotate: false
+  xy: 40, 32
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_spk_ha_2234_1_0.png
+  rotate: false
+  xy: 214, 33
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_spk_ha_2234_2_0.png
+  rotate: false
+  xy: 78, 31
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_spk_ha_2234_3_0.png
+  rotate: false
+  xy: 309, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_spk_ha_2234_7_0.png
+  rotate: false
+  xy: 148, 29
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_spk_ha_2235_0_0.png
+  rotate: false
+  xy: 369, 37
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_spk_ha_2235_1_0.png
+  rotate: false
+  xy: 423, 39
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_spk_ha_2235_2_0.png
+  rotate: false
+  xy: 23, 2
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_spk_ha_2235_3_0.png
+  rotate: false
+  xy: 45, 16
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_spk_ha_2235_7_0.png
+  rotate: false
+  xy: 248, 3
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_std_ha_2234_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_std_ha_2234_1_0.png
+  rotate: false
+  xy: 214, 2
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_std_ha_2234_2_0.png
+  rotate: false
+  xy: 113, 31
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_std_ha_2234_3_0.png
+  rotate: false
+  xy: 277, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_std_ha_2234_7_0.png
+  rotate: false
+  xy: 181, 30
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_std_ha_2235_0_0.png
+  rotate: false
+  xy: 181, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_std_ha_2235_1_0.png
+  rotate: false
+  xy: 445, 39
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_std_ha_2235_2_0.png
+  rotate: false
+  xy: 398, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_std_ha_2235_3_0.png
+  rotate: false
+  xy: 467, 46
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+hat_U_furcap_h_std_ha_2235_7_0.png
+  rotate: false
+  xy: 277, 7
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1

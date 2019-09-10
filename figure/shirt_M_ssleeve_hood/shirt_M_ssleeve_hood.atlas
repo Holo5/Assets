@@ -1,0 +1,692 @@
+
+shirt_M_ssleeve_hood.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_M_ssleeve_hood_h_crr_ls_2301_0_0.png
+  rotate: false
+  xy: 110, 9
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_ls_2301_1_0.png
+  rotate: false
+  xy: 139, 22
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_ls_2301_2_0.png
+  rotate: false
+  xy: 305, 37
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_ls_2301_3_0.png
+  rotate: false
+  xy: 217, 37
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_ls_2301_7_0.png
+  rotate: false
+  xy: 130, 21
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_rs_2301_0_0.png
+  rotate: false
+  xy: 346, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_rs_2301_1_0.png
+  rotate: false
+  xy: 177, 23
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_rs_2301_2_0.png
+  rotate: false
+  xy: 197, 36
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_rs_2301_3_0.png
+  rotate: false
+  xy: 81, 6
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_rs_2301_4_0.png
+  rotate: false
+  xy: 438, 42
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_rs_2301_5_0.png
+  rotate: false
+  xy: 369, 37
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_rs_2301_6_0.png
+  rotate: false
+  xy: 431, 40
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_crr_rs_2301_7_0.png
+  rotate: false
+  xy: 101, 8
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_drk_rs_2301_0_0.png
+  rotate: false
+  xy: 483, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_drk_rs_2301_1_0.png
+  rotate: false
+  xy: 74, 20
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_drk_rs_2301_2_0.png
+  rotate: false
+  xy: 231, 51
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_drk_rs_2301_3_0.png
+  rotate: false
+  xy: 423, 51
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_drk_rs_2301_4_0.png
+  rotate: false
+  xy: 189, 34
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_drk_rs_2301_5_0.png
+  rotate: false
+  xy: 86, 20
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_drk_rs_2301_6_0.png
+  rotate: false
+  xy: 408, 39
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_drk_rs_2301_7_0.png
+  rotate: false
+  xy: 91, 5
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_lay_ch_2301_2_0.png
+  rotate: false
+  xy: 33, 36
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_lay_ls_2301_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_lay_rs_2301_2_0.png
+  rotate: false
+  xy: 59, 21
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_sit_ls_2301_0_0.png
+  rotate: false
+  xy: 116, 10
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_sit_ls_2301_2_0.png
+  rotate: false
+  xy: 123, 9
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_sit_rs_2301_0_0.png
+  rotate: false
+  xy: 279, 50
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_sit_rs_2301_2_0.png
+  rotate: false
+  xy: 177, 34
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_ch_2301_0_0.png
+  rotate: false
+  xy: 74, 29
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_ch_2301_1_0.png
+  rotate: false
+  xy: 33, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_ch_2301_2_0.png
+  rotate: false
+  xy: 2, 26
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_ch_2301_3_0.png
+  rotate: false
+  xy: 102, 31
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_ch_2301_7_0.png
+  rotate: false
+  xy: 130, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_ls_2301_0_0.png
+  rotate: false
+  xy: 247, 39
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_ls_2301_1_0.png
+  rotate: false
+  xy: 103, 20
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_ls_2301_2_0.png
+  rotate: false
+  xy: 424, 39
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_ls_2301_3_0.png
+  rotate: false
+  xy: 335, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_ls_2301_7_0.png
+  rotate: false
+  xy: 295, 37
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_rs_2301_0_0.png
+  rotate: false
+  xy: 2, 9
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_rs_2301_1_0.png
+  rotate: false
+  xy: 113, 21
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_rs_2301_2_0.png
+  rotate: false
+  xy: 207, 37
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_rs_2301_3_0.png
+  rotate: false
+  xy: 324, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_std_rs_2301_7_0.png
+  rotate: false
+  xy: 237, 38
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_0_1.png
+  rotate: false
+  xy: 357, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_1_0.png
+  rotate: false
+  xy: 186, 24
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_1_1.png
+  rotate: false
+  xy: 16, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_2_0.png
+  rotate: false
+  xy: 352, 37
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_2_1.png
+  rotate: false
+  xy: 342, 37
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_3_0.png
+  rotate: false
+  xy: 166, 33
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_3_1.png
+  rotate: false
+  xy: 155, 33
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_4_0.png
+  rotate: false
+  xy: 59, 6
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_4_1.png
+  rotate: false
+  xy: 14, 11
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_5_0.png
+  rotate: false
+  xy: 205, 51
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_5_1.png
+  rotate: false
+  xy: 192, 51
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_6_0.png
+  rotate: false
+  xy: 155, 49
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_6_1.png
+  rotate: false
+  xy: 218, 51
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_7_0.png
+  rotate: false
+  xy: 227, 38
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wav_ls_2301_7_1.png
+  rotate: false
+  xy: 71, 6
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_0_0.png
+  rotate: false
+  xy: 116, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_0_1.png
+  rotate: false
+  xy: 26, 5
+  size: 5, 19
+  orig: 5, 19
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_0_2.png
+  rotate: false
+  xy: 97, 20
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_0_3.png
+  rotate: false
+  xy: 130, 11
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_1_0.png
+  rotate: false
+  xy: 159, 23
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_1_1.png
+  rotate: false
+  xy: 148, 24
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_1_2.png
+  rotate: false
+  xy: 168, 23
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_1_3.png
+  rotate: false
+  xy: 446, 45
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_2_0.png
+  rotate: false
+  xy: 362, 37
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_2_1.png
+  rotate: false
+  xy: 418, 39
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_2_2.png
+  rotate: false
+  xy: 505, 51
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_2_3.png
+  rotate: false
+  xy: 123, 19
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_3_0.png
+  rotate: false
+  xy: 368, 50
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_3_1.png
+  rotate: false
+  xy: 313, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_3_2.png
+  rotate: false
+  xy: 302, 50
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_3_3.png
+  rotate: false
+  xy: 291, 50
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_7_0.png
+  rotate: false
+  xy: 495, 52
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_7_1.png
+  rotate: false
+  xy: 332, 37
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_7_2.png
+  rotate: false
+  xy: 322, 37
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_ls_2301_7_3.png
+  rotate: false
+  xy: 285, 37
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_0_0.png
+  rotate: false
+  xy: 471, 52
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_0_1.png
+  rotate: false
+  xy: 459, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_0_2.png
+  rotate: false
+  xy: 243, 51
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_0_3.png
+  rotate: false
+  xy: 434, 52
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_1_0.png
+  rotate: false
+  xy: 398, 39
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_1_1.png
+  rotate: false
+  xy: 446, 53
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_1_2.png
+  rotate: false
+  xy: 388, 39
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_1_3.png
+  rotate: false
+  xy: 378, 39
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_2_0.png
+  rotate: false
+  xy: 168, 49
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_2_1.png
+  rotate: false
+  xy: 255, 50
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_2_2.png
+  rotate: false
+  xy: 180, 49
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_2_3.png
+  rotate: false
+  xy: 267, 50
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_3_0.png
+  rotate: false
+  xy: 379, 50
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_3_1.png
+  rotate: false
+  xy: 390, 50
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_3_2.png
+  rotate: false
+  xy: 401, 50
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_3_3.png
+  rotate: false
+  xy: 412, 50
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_7_0.png
+  rotate: false
+  xy: 255, 37
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_7_1.png
+  rotate: false
+  xy: 275, 37
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_7_2.png
+  rotate: false
+  xy: 265, 37
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+shirt_M_ssleeve_hood_h_wlk_rs_2301_7_3.png
+  rotate: false
+  xy: 312, 37
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+acc_chest_U_stripescarf.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_stripescarf_h_lay_ca_2245_2_0.png
+  rotate: false
+  xy: 2, 4
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_lay_ca_2246_2_0.png
+  rotate: false
+  xy: 110, 17
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_lay_ca_2247_2_0.png
+  rotate: false
+  xy: 92, 50
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2245_0_0.png
+  rotate: false
+  xy: 67, 2
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2245_1_0.png
+  rotate: false
+  xy: 27, 30
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2245_2_0.png
+  rotate: false
+  xy: 2, 26
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2245_3_0.png
+  rotate: false
+  xy: 51, 32
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2245_7_0.png
+  rotate: false
+  xy: 92, 4
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2246_0_0.png
+  rotate: false
+  xy: 110, 28
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2246_1_0.png
+  rotate: false
+  xy: 89, 17
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2246_2_0.png
+  rotate: false
+  xy: 67, 12
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2246_3_0.png
+  rotate: false
+  xy: 113, 36
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2246_7_0.png
+  rotate: false
+  xy: 91, 44
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2247_0_0.png
+  rotate: false
+  xy: 118, 30
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2247_1_0.png
+  rotate: false
+  xy: 56, 2
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2247_2_0.png
+  rotate: false
+  xy: 76, 32
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2247_3_0.png
+  rotate: false
+  xy: 41, 2
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+acc_chest_U_stripescarf_h_std_ca_2247_7_0.png
+  rotate: false
+  xy: 89, 12
+  size: 22, 3
+  orig: 22, 3
+  offset: 0, 0
+  index: -1

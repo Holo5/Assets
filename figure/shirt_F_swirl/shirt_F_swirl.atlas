@@ -1,0 +1,90 @@
+
+shirt_F_swirl.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_swirl_h_lay_ch_2700_2_0.png
+  rotate: false
+  xy: 2, 6
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+shirt_F_swirl_h_lay_ch_2701_2_0.png
+  rotate: false
+  xy: 59, 9
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+shirt_F_swirl_h_std_ch_2700_0_0.png
+  rotate: false
+  xy: 86, 10
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+shirt_F_swirl_h_std_ch_2700_1_0.png
+  rotate: false
+  xy: 187, 11
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+shirt_F_swirl_h_std_ch_2700_2_0.png
+  rotate: false
+  xy: 33, 6
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+shirt_F_swirl_h_std_ch_2700_3_0.png
+  rotate: false
+  xy: 162, 12
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+shirt_F_swirl_h_std_ch_2700_7_0.png
+  rotate: false
+  xy: 252, 18
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shirt_F_swirl_h_std_ch_2701_0_0.png
+  rotate: false
+  xy: 137, 12
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+shirt_F_swirl_h_std_ch_2701_1_0.png
+  rotate: false
+  xy: 232, 14
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+shirt_F_swirl_h_std_ch_2701_2_0.png
+  rotate: false
+  xy: 113, 8
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+shirt_F_swirl_h_std_ch_2701_3_0.png
+  rotate: false
+  xy: 209, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+shirt_F_swirl_h_std_ch_2701_7_0.png
+  rotate: false
+  xy: 209, 2
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1

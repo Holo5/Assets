@@ -1,0 +1,62 @@
+
+acc_chest_U_schooltie.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_schooltie_h_lay_ca_2139_2_0.png
+  rotate: false
+  xy: 2, 19
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+acc_chest_U_schooltie_h_lay_ca_2140_2_0.png
+  rotate: false
+  xy: 22, 21
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+acc_chest_U_schooltie_h_std_ca_2139_1_0.png
+  rotate: false
+  xy: 37, 11
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+acc_chest_U_schooltie_h_std_ca_2139_2_0.png
+  rotate: false
+  xy: 46, 12
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+acc_chest_U_schooltie_h_std_ca_2139_3_0.png
+  rotate: false
+  xy: 55, 12
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+acc_chest_U_schooltie_h_std_ca_2140_1_0.png
+  rotate: false
+  xy: 9, 2
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+acc_chest_U_schooltie_h_std_ca_2140_2_0.png
+  rotate: false
+  xy: 15, 2
+  size: 4, 15
+  orig: 4, 15
+  offset: 0, 0
+  index: -1
+acc_chest_U_schooltie_h_std_ca_2140_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1

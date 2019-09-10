@@ -1,0 +1,90 @@
+
+acc_waist_U_hipbag.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_waist_U_hipbag_h_lay_wa_2120_2_0.png
+  rotate: false
+  xy: 102, 3
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+acc_waist_U_hipbag_h_lay_wa_2121_2_0.png
+  rotate: false
+  xy: 44, 8
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+acc_waist_U_hipbag_h_std_wa_2120_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+acc_waist_U_hipbag_h_std_wa_2120_1_0.png
+  rotate: false
+  xy: 29, 19
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+acc_waist_U_hipbag_h_std_wa_2120_2_0.png
+  rotate: false
+  xy: 2, 16
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+acc_waist_U_hipbag_h_std_wa_2120_3_0.png
+  rotate: false
+  xy: 54, 19
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+acc_waist_U_hipbag_h_std_wa_2120_7_0.png
+  rotate: false
+  xy: 102, 25
+  size: 23, 4
+  orig: 23, 4
+  offset: 0, 0
+  index: -1
+acc_waist_U_hipbag_h_std_wa_2121_0_0.png
+  rotate: false
+  xy: 122, 20
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+acc_waist_U_hipbag_h_std_wa_2121_1_0.png
+  rotate: false
+  xy: 79, 21
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+acc_waist_U_hipbag_h_std_wa_2121_2_0.png
+  rotate: false
+  xy: 58, 7
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+acc_waist_U_hipbag_h_std_wa_2121_3_0.png
+  rotate: false
+  xy: 29, 9
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+acc_waist_U_hipbag_h_std_wa_2121_7_0.png
+  rotate: false
+  xy: 70, 15
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1

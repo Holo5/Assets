@@ -1,0 +1,48 @@
+
+hat_U_teddyhood.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_teddyhood_h_lay_ha_3507_2_0.png
+  rotate: false
+  xy: 40, 9
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+hat_U_teddyhood_h_std_ha_3507_0_0.png
+  rotate: false
+  xy: 161, 7
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+hat_U_teddyhood_h_std_ha_3507_1_0.png
+  rotate: false
+  xy: 198, 11
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+hat_U_teddyhood_h_std_ha_3507_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+hat_U_teddyhood_h_std_ha_3507_3_0.png
+  rotate: false
+  xy: 123, 9
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+hat_U_teddyhood_h_std_ha_3507_7_0.png
+  rotate: false
+  xy: 85, 9
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1

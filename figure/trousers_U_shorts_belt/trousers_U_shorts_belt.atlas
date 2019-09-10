@@ -1,0 +1,265 @@
+
+trousers_U_shorts_belt.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_U_shorts_belt_h_lay_lg_2333_2_0.png
+  rotate: false
+  xy: 32, 11
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_lay_lg_2334_2_0.png
+  rotate: false
+  xy: 466, 14
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_sit_lg_2333_0_0.png
+  rotate: false
+  xy: 135, 16
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_sit_lg_2333_2_0.png
+  rotate: false
+  xy: 2, 11
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_sit_lg_2334_2_0.png
+  rotate: false
+  xy: 296, 22
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_std_lg_2333_0_0.png
+  rotate: false
+  xy: 376, 11
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_std_lg_2333_1_0.png
+  rotate: false
+  xy: 290, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_std_lg_2333_2_0.png
+  rotate: false
+  xy: 85, 12
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_std_lg_2333_3_0.png
+  rotate: false
+  xy: 163, 17
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_std_lg_2334_0_0.png
+  rotate: false
+  xy: 341, 22
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_std_lg_2334_1_0.png
+  rotate: false
+  xy: 25, 5
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_std_lg_2334_2_0.png
+  rotate: false
+  xy: 83, 2
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_0_0.png
+  rotate: false
+  xy: 330, 2
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_0_1.png
+  rotate: false
+  xy: 109, 14
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_0_2.png
+  rotate: false
+  xy: 307, 2
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_0_3.png
+  rotate: false
+  xy: 353, 2
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_1_0.png
+  rotate: false
+  xy: 278, 17
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_1_1.png
+  rotate: false
+  xy: 268, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_1_3.png
+  rotate: false
+  xy: 485, 16
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_2_0.png
+  rotate: false
+  xy: 422, 12
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_2_1.png
+  rotate: false
+  xy: 444, 12
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_2_2.png
+  rotate: false
+  xy: 399, 12
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_2_3.png
+  rotate: false
+  xy: 59, 12
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_3_0.png
+  rotate: false
+  xy: 245, 2
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_3_1.png
+  rotate: false
+  xy: 255, 17
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_3_2.png
+  rotate: false
+  xy: 222, 2
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_3_3.png
+  rotate: false
+  xy: 232, 17
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_7_0.png
+  rotate: false
+  xy: 199, 2
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_7_1.png
+  rotate: false
+  xy: 209, 17
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_7_2.png
+  rotate: false
+  xy: 176, 2
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2333_7_3.png
+  rotate: false
+  xy: 186, 17
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2334_0_0.png
+  rotate: false
+  xy: 319, 22
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2334_0_1.png
+  rotate: false
+  xy: 130, 4
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2334_0_2.png
+  rotate: false
+  xy: 153, 6
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2334_0_3.png
+  rotate: false
+  xy: 59, 2
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2334_2_3.png
+  rotate: false
+  xy: 107, 2
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+trousers_U_shorts_belt_h_wlk_lg_2334_3_2.png
+  rotate: false
+  xy: 2, 5
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+acc_print_F_habbologo.png
+size: 64,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_print_F_habbologo_h_lay_cp_2487_2_0.png
+  rotate: false
+  xy: 18, 4
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+acc_print_F_habbologo_h_lay_cp_2487_4_0.png
+  rotate: false
+  xy: 2, 4
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+acc_print_F_habbologo_h_std_cp_2487_2_0.png
+  rotate: false
+  xy: 54, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+acc_print_F_habbologo_h_std_cp_2487_3_0.png
+  rotate: false
+  xy: 34, 3
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+acc_print_F_habbologo_h_std_cp_2487_4_0.png
+  rotate: false
+  xy: 45, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1

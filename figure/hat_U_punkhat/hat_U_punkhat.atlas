@@ -1,0 +1,90 @@
+
+hat_U_punkhat.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_punkhat_h_lsp_ha_3351_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+hat_U_punkhat_h_lsp_ha_3352_2_0.png
+  rotate: false
+  xy: 28, 18
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+hat_U_punkhat_h_spk_ha_3351_0_0.png
+  rotate: false
+  xy: 78, 38
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+hat_U_punkhat_h_spk_ha_3351_1_0.png
+  rotate: false
+  xy: 38, 40
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+hat_U_punkhat_h_spk_ha_3351_2_0.png
+  rotate: false
+  xy: 2, 35
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+hat_U_punkhat_h_spk_ha_3351_3_0.png
+  rotate: false
+  xy: 114, 37
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+hat_U_punkhat_h_spk_ha_3351_7_0.png
+  rotate: false
+  xy: 142, 40
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+hat_U_punkhat_h_spk_ha_3352_0_0.png
+  rotate: false
+  xy: 170, 45
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+hat_U_punkhat_h_spk_ha_3352_1_0.png
+  rotate: false
+  xy: 28, 6
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+hat_U_punkhat_h_spk_ha_3352_2_0.png
+  rotate: false
+  xy: 202, 45
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+hat_U_punkhat_h_spk_ha_3352_3_0.png
+  rotate: false
+  xy: 226, 44
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+hat_U_punkhat_h_spk_ha_3352_7_0.png
+  rotate: false
+  xy: 170, 39
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1

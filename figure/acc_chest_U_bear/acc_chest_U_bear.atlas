@@ -1,0 +1,48 @@
+
+acc_chest_U_bear.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_bear_h_lay_ca_2939_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+acc_chest_U_bear_h_std_ca_2939_0_0.png
+  rotate: false
+  xy: 40, 44
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+acc_chest_U_bear_h_std_ca_2939_1_0.png
+  rotate: false
+  xy: 48, 14
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+acc_chest_U_bear_h_std_ca_2939_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+acc_chest_U_bear_h_std_ca_2939_3_0.png
+  rotate: false
+  xy: 27, 4
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+acc_chest_U_bear_h_std_ca_2939_7_0.png
+  rotate: false
+  xy: 72, 47
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+acc_face_U_santabeard.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_santabeard_h_lay_fa_2798_2_0.png
+  rotate: false
+  xy: 94, 30
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+acc_face_U_santabeard_h_spk_fa_2798_0_0.png
+  rotate: false
+  xy: 217, 23
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+acc_face_U_santabeard_h_spk_fa_2798_1_0.png
+  rotate: false
+  xy: 190, 20
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+acc_face_U_santabeard_h_spk_fa_2798_2_0.png
+  rotate: false
+  xy: 2, 17
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+acc_face_U_santabeard_h_spk_fa_2798_3_0.png
+  rotate: false
+  xy: 64, 20
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+acc_face_U_santabeard_h_spk_fa_2798_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+acc_face_U_santabeard_h_std_fa_2798_0_0.png
+  rotate: false
+  xy: 235, 24
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+acc_face_U_santabeard_h_std_fa_2798_1_0.png
+  rotate: false
+  xy: 163, 21
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+acc_face_U_santabeard_h_std_fa_2798_2_0.png
+  rotate: false
+  xy: 33, 18
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+acc_face_U_santabeard_h_std_fa_2798_3_0.png
+  rotate: false
+  xy: 133, 21
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+acc_face_U_santabeard_h_std_fa_2798_7_0.png
+  rotate: false
+  xy: 94, 15
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+hair_M_emoish.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_M_emoish_h_lay_hr_2040_2_0.png
+  rotate: false
+  xy: 336, 31
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_lay_hrb_2040_2_0.png
+  rotate: false
+  xy: 304, 31
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_lsp_hr_2040_2_0.png
+  rotate: false
+  xy: 240, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_lsp_hrb_2040_2_0.png
+  rotate: false
+  xy: 272, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_spk_hr_2040_0_0.png
+  rotate: false
+  xy: 497, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_spk_hr_2040_1_0.png
+  rotate: false
+  xy: 465, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_spk_hr_2040_2_0.png
+  rotate: false
+  xy: 172, 32
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_spk_hr_2040_3_0.png
+  rotate: false
+  xy: 432, 2
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_spk_hr_2040_7_0.png
+  rotate: false
+  xy: 2, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_spk_hrb_2040_0_0.png
+  rotate: false
+  xy: 400, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_spk_hrb_2040_1_0.png
+  rotate: false
+  xy: 368, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_spk_hrb_2040_2_0.png
+  rotate: false
+  xy: 138, 32
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_spk_hrb_2040_3_0.png
+  rotate: false
+  xy: 432, 33
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_spk_hrb_2040_7_0.png
+  rotate: false
+  xy: 36, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_std_hr_2040_0_0.png
+  rotate: false
+  xy: 561, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_std_hr_2040_1_0.png
+  rotate: false
+  xy: 529, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_std_hr_2040_2_0.png
+  rotate: false
+  xy: 206, 33
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_std_hr_2040_3_0.png
+  rotate: false
+  xy: 138, 2
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_std_hr_2040_7_0.png
+  rotate: false
+  xy: 70, 31
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_std_hrb_2040_0_0.png
+  rotate: false
+  xy: 529, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_std_hrb_2040_1_0.png
+  rotate: false
+  xy: 561, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_std_hrb_2040_2_0.png
+  rotate: false
+  xy: 206, 2
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_std_hrb_2040_3_0.png
+  rotate: false
+  xy: 171, 2
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+hair_M_emoish_h_std_hrb_2040_7_0.png
+  rotate: false
+  xy: 104, 31
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+trousers_F_rfldress.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_F_rfldress_h_lay_lg_2455_2_0.png
+  rotate: false
+  xy: 261, 6
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_lay_lg_2456_2_0.png
+  rotate: false
+  xy: 360, 2
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_sit_lg_2455_0_0.png
+  rotate: false
+  xy: 114, 8
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_sit_lg_2455_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_sit_lg_2456_0_0.png
+  rotate: false
+  xy: 417, 14
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_sit_lg_2456_2_0.png
+  rotate: false
+  xy: 391, 21
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_std_lg_2455_3_0.png
+  rotate: false
+  xy: 152, 9
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_std_lg_2456_1_0.png
+  rotate: false
+  xy: 360, 24
+  size: 29, 6
+  orig: 29, 6
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_std_lg_2456_2_0.png
+  rotate: false
+  xy: 326, 18
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_std_lg_2456_3_0.png
+  rotate: false
+  xy: 291, 9
+  size: 31, 6
+  orig: 31, 6
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_wlk_lg_2455_0_2.png
+  rotate: false
+  xy: 77, 4
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_wlk_lg_2455_1_2.png
+  rotate: false
+  xy: 226, 8
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_wlk_lg_2455_2_2.png
+  rotate: false
+  xy: 40, 4
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_wlk_lg_2455_7_0.png
+  rotate: false
+  xy: 189, 9
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+trousers_F_rfldress_h_wlk_lg_2456_0_1.png
+  rotate: false
+  xy: 291, 17
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1

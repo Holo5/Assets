@@ -1,0 +1,76 @@
+
+acc_eye_U_skimask.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_eye_U_skimask_h_lay_ea_2240_2_0.png
+  rotate: false
+  xy: 2, 4
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+acc_eye_U_skimask_h_lay_ea_2241_2_0.png
+  rotate: false
+  xy: 29, 2
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+acc_eye_U_skimask_h_std_ea_2240_0_0.png
+  rotate: false
+  xy: 59, 2
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+acc_eye_U_skimask_h_std_ea_2240_1_0.png
+  rotate: false
+  xy: 59, 16
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+acc_eye_U_skimask_h_std_ea_2240_2_0.png
+  rotate: false
+  xy: 29, 12
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+acc_eye_U_skimask_h_std_ea_2240_3_0.png
+  rotate: false
+  xy: 90, 16
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+acc_eye_U_skimask_h_std_ea_2240_7_0.png
+  rotate: false
+  xy: 85, 8
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+acc_eye_U_skimask_h_std_ea_2241_1_0.png
+  rotate: false
+  xy: 47, 4
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+acc_eye_U_skimask_h_std_ea_2241_2_0.png
+  rotate: false
+  xy: 140, 19
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+acc_eye_U_skimask_h_std_ea_2241_3_0.png
+  rotate: false
+  xy: 118, 23
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1

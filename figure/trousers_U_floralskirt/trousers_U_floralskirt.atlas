@@ -1,0 +1,391 @@
+
+trousers_U_floralskirt.png
+size: 2048,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_U_floralskirt_h_lay_lg_2602_2_0.png
+  rotate: false
+  xy: 76, 5
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_lay_lg_2603_2_0.png
+  rotate: false
+  xy: 303, 10
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_sit_lg_2602_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_sit_lg_2602_2_0.png
+  rotate: false
+  xy: 40, 4
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_sit_lg_2603_0_0.png
+  rotate: false
+  xy: 175, 10
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_sit_lg_2603_2_0.png
+  rotate: false
+  xy: 273, 10
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_std_lg_2602_0_0.png
+  rotate: false
+  xy: 613, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_std_lg_2602_1_0.png
+  rotate: false
+  xy: 1272, 5
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_std_lg_2602_2_0.png
+  rotate: false
+  xy: 589, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_std_lg_2602_3_0.png
+  rotate: false
+  xy: 729, 4
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_std_lg_2602_7_0.png
+  rotate: false
+  xy: 844, 4
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_std_lg_2603_0_0.png
+  rotate: false
+  xy: 995, 9
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_std_lg_2603_1_0.png
+  rotate: false
+  xy: 1324, 10
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_std_lg_2603_2_0.png
+  rotate: false
+  xy: 1017, 9
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_std_lg_2603_3_0.png
+  rotate: false
+  xy: 1146, 10
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_std_lg_2603_7_0.png
+  rotate: false
+  xy: 1209, 10
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_0_0.png
+  rotate: false
+  xy: 517, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_0_1.png
+  rotate: false
+  xy: 111, 3
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_0_2.png
+  rotate: false
+  xy: 493, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_0_3.png
+  rotate: false
+  xy: 443, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_1_0.png
+  rotate: false
+  xy: 867, 5
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_1_1.png
+  rotate: false
+  xy: 211, 6
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_1_2.png
+  rotate: false
+  xy: 886, 5
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_1_3.png
+  rotate: false
+  xy: 242, 6
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_2_0.png
+  rotate: false
+  xy: 541, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_2_1.png
+  rotate: false
+  xy: 565, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_2_2.png
+  rotate: false
+  xy: 468, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_2_3.png
+  rotate: false
+  xy: 143, 4
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_3_0.png
+  rotate: false
+  xy: 660, 4
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_3_1.png
+  rotate: false
+  xy: 706, 4
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_3_2.png
+  rotate: false
+  xy: 683, 4
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_3_3.png
+  rotate: false
+  xy: 637, 4
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_7_0.png
+  rotate: false
+  xy: 821, 4
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_7_1.png
+  rotate: false
+  xy: 798, 4
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_7_2.png
+  rotate: false
+  xy: 775, 4
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2602_7_3.png
+  rotate: false
+  xy: 752, 4
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_0_0.png
+  rotate: false
+  xy: 1039, 9
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_0_1.png
+  rotate: false
+  xy: 362, 11
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_0_2.png
+  rotate: false
+  xy: 1061, 9
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_0_3.png
+  rotate: false
+  xy: 928, 9
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_1_0.png
+  rotate: false
+  xy: 1307, 10
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_1_1.png
+  rotate: false
+  xy: 417, 11
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_1_2.png
+  rotate: false
+  xy: 1290, 10
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_1_3.png
+  rotate: false
+  xy: 391, 11
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_2_0.png
+  rotate: false
+  xy: 951, 9
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_2_1.png
+  rotate: false
+  xy: 973, 9
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_2_2.png
+  rotate: false
+  xy: 905, 9
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_2_3.png
+  rotate: false
+  xy: 332, 12
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_3_1.png
+  rotate: false
+  xy: 1251, 11
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_3_2.png
+  rotate: false
+  xy: 1125, 10
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_3_3.png
+  rotate: false
+  xy: 1104, 10
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_7_0.png
+  rotate: false
+  xy: 1230, 10
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_7_1.png
+  rotate: false
+  xy: 1083, 9
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_7_2.png
+  rotate: false
+  xy: 1167, 10
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+trousers_U_floralskirt_h_wlk_lg_2603_7_3.png
+  rotate: false
+  xy: 1188, 10
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1

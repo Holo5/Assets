@@ -1,0 +1,34 @@
+
+acc_head_U_halo.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_halo_h_lay_he_3278_2_0.png
+  rotate: false
+  xy: 45, 13
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+acc_head_U_halo_h_lay_he_3279_2_0.png
+  rotate: false
+  xy: 26, 9
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+acc_head_U_halo_h_std_he_3278_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+acc_head_U_halo_h_std_he_3279_3_0.png
+  rotate: false
+  xy: 2, 14
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1

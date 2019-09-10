@@ -1,0 +1,125 @@
+
+hair_U_sideflopped.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_sideflopped_h_lay_hr_3289_2_0.png
+  rotate: false
+  xy: 31, 11
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_lay_hrb_3289_2_0.png
+  rotate: false
+  xy: 231, 33
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_spk_hr_3289_0_0.png
+  rotate: false
+  xy: 201, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_spk_hr_3289_1_0.png
+  rotate: false
+  xy: 2, 13
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_spk_hr_3289_2_0.png
+  rotate: false
+  xy: 145, 39
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_spk_hr_3289_3_0.png
+  rotate: false
+  xy: 31, 40
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_spk_hr_3289_7_0.png
+  rotate: false
+  xy: 109, 9
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_spk_hrb_3289_0_0.png
+  rotate: false
+  xy: 137, 8
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_std_hr_3289_0_0.png
+  rotate: false
+  xy: 169, 4
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_std_hr_3289_1_0.png
+  rotate: false
+  xy: 202, 35
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_std_hr_3289_2_0.png
+  rotate: false
+  xy: 117, 39
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_std_hr_3289_3_0.png
+  rotate: false
+  xy: 60, 40
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_std_hr_3289_7_0.png
+  rotate: false
+  xy: 81, 9
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_std_hrb_3289_1_0.png
+  rotate: false
+  xy: 173, 35
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_std_hrb_3289_2_0.png
+  rotate: false
+  xy: 89, 39
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_std_hrb_3289_3_0.png
+  rotate: false
+  xy: 2, 40
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+hair_U_sideflopped_h_std_hrb_3289_7_0.png
+  rotate: false
+  xy: 53, 10
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+acc_chest_U_jewels.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_jewels_h_lay_ca_2285_2_0.png
+  rotate: false
+  xy: 53, 16
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+acc_chest_U_jewels_h_lay_ca_2286_2_0.png
+  rotate: false
+  xy: 77, 2
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+acc_chest_U_jewels_h_std_ca_2285_0_0.png
+  rotate: false
+  xy: 126, 19
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+acc_chest_U_jewels_h_std_ca_2285_1_0.png
+  rotate: false
+  xy: 79, 14
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+acc_chest_U_jewels_h_std_ca_2285_2_0.png
+  rotate: false
+  xy: 28, 11
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+acc_chest_U_jewels_h_std_ca_2285_3_0.png
+  rotate: false
+  xy: 2, 11
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+acc_chest_U_jewels_h_std_ca_2285_7_0.png
+  rotate: false
+  xy: 102, 21
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+acc_chest_U_jewels_h_std_ca_2286_0_0.png
+  rotate: false
+  xy: 94, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_chest_U_jewels_h_std_ca_2286_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+acc_chest_U_jewels_h_std_ca_2286_2_0.png
+  rotate: false
+  xy: 148, 17
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+acc_chest_U_jewels_h_std_ca_2286_3_0.png
+  rotate: false
+  xy: 53, 2
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1

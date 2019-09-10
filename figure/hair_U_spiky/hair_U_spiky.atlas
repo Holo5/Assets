@@ -1,0 +1,251 @@
+
+hair_U_spiky.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_spiky_h_lay_hr_2033_2_0.png
+  rotate: false
+  xy: 364, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_lay_hrb_2033_2_0.png
+  rotate: false
+  xy: 328, 24
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_lay_hrb_2034_2_0.png
+  rotate: false
+  xy: 494, 11
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hr_2033_0_0.png
+  rotate: false
+  xy: 32, 2
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hr_2033_1_0.png
+  rotate: false
+  xy: 62, 2
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hr_2033_2_0.png
+  rotate: false
+  xy: 416, 14
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hr_2033_3_0.png
+  rotate: false
+  xy: 468, 15
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hr_2033_7_0.png
+  rotate: false
+  xy: 442, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hr_2034_0_0.png
+  rotate: false
+  xy: 144, 12
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hr_2034_1_0.png
+  rotate: false
+  xy: 219, 15
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hr_2034_3_0.png
+  rotate: false
+  xy: 243, 4
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hr_2034_7_0.png
+  rotate: false
+  xy: 506, 61
+  size: 4, 1
+  orig: 4, 1
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hrb_2033_0_0.png
+  rotate: false
+  xy: 88, 29
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hrb_2033_1_0.png
+  rotate: false
+  xy: 129, 29
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hrb_2033_2_0.png
+  rotate: false
+  xy: 2, 28
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hrb_2033_3_0.png
+  rotate: false
+  xy: 364, 34
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hrb_2033_7_0.png
+  rotate: false
+  xy: 290, 28
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hrb_2034_0_0.png
+  rotate: false
+  xy: 169, 12
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hrb_2034_1_0.png
+  rotate: false
+  xy: 118, 13
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_spk_hrb_2034_2_0.png
+  rotate: false
+  xy: 468, 2
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hr_2033_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hr_2033_1_0.png
+  rotate: false
+  xy: 386, 11
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hr_2033_2_0.png
+  rotate: false
+  xy: 442, 14
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hr_2033_3_0.png
+  rotate: false
+  xy: 92, 10
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hr_2033_7_0.png
+  rotate: false
+  xy: 474, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hr_2034_0_0.png
+  rotate: false
+  xy: 194, 13
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hr_2034_1_0.png
+  rotate: false
+  xy: 269, 14
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hr_2034_2_0.png
+  rotate: false
+  xy: 219, 2
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hr_2034_3_0.png
+  rotate: false
+  xy: 194, 3
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hrb_2033_0_0.png
+  rotate: false
+  xy: 211, 30
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hrb_2033_1_0.png
+  rotate: false
+  xy: 170, 29
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hrb_2033_2_0.png
+  rotate: false
+  xy: 45, 29
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hrb_2033_3_0.png
+  rotate: false
+  xy: 403, 34
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hrb_2033_7_0.png
+  rotate: false
+  xy: 252, 29
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+hair_U_spiky_h_std_hrb_2034_1_0.png
+  rotate: false
+  xy: 244, 14
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1

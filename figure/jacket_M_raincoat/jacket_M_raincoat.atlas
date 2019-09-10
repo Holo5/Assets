@@ -1,0 +1,1259 @@
+
+jacket_M_raincoat.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_M_raincoat_h_crr_lc_3498_0_0.png
+  rotate: false
+  xy: 579, 42
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3498_1_0.png
+  rotate: false
+  xy: 438, 67
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3498_2_0.png
+  rotate: false
+  xy: 278, 19
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3498_3_0.png
+  rotate: false
+  xy: 110, 69
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3498_4_0.png
+  rotate: false
+  xy: 132, 2
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3498_5_0.png
+  rotate: false
+  xy: 529, 77
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3498_6_0.png
+  rotate: false
+  xy: 847, 103
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3498_7_0.png
+  rotate: false
+  xy: 542, 18
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3500_1_0.png
+  rotate: false
+  xy: 424, 47
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3500_2_0.png
+  rotate: false
+  xy: 414, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3500_3_0.png
+  rotate: false
+  xy: 572, 18
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3500_4_0.png
+  rotate: false
+  xy: 664, 93
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3500_5_0.png
+  rotate: false
+  xy: 278, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3500_6_0.png
+  rotate: false
+  xy: 549, 78
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_lc_3500_7_0.png
+  rotate: false
+  xy: 106, 2
+  size: 2, 13
+  orig: 2, 13
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3498_0_0.png
+  rotate: false
+  xy: 76, 17
+  size: 32, 109
+  orig: 32, 109
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3498_2_0.png
+  rotate: false
+  xy: 110, 2
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3498_3_0.png
+  rotate: false
+  xy: 264, 17
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3498_4_0.png
+  rotate: false
+  xy: 400, 20
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3498_6_0.png
+  rotate: false
+  xy: 571, 42
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3498_7_0.png
+  rotate: false
+  xy: 456, 15
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3500_0_0.png
+  rotate: false
+  xy: 601, 73
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3500_1_0.png
+  rotate: false
+  xy: 440, 21
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3500_2_0.png
+  rotate: false
+  xy: 197, 40
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3500_3_0.png
+  rotate: false
+  xy: 625, 83
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3500_4_0.png
+  rotate: false
+  xy: 404, 2
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3500_5_0.png
+  rotate: false
+  xy: 427, 2
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3500_6_0.png
+  rotate: false
+  xy: 521, 96
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_crr_rc_3500_7_0.png
+  rotate: false
+  xy: 708, 95
+  size: 2, 13
+  orig: 2, 13
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3498_0_0.png
+  rotate: false
+  xy: 286, 46
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3498_1_0.png
+  rotate: false
+  xy: 662, 110
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3498_2_0.png
+  rotate: false
+  xy: 252, 104
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3498_3_0.png
+  rotate: false
+  xy: 210, 14
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3498_4_0.png
+  rotate: false
+  xy: 529, 44
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3498_5_0.png
+  rotate: false
+  xy: 692, 110
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3498_6_0.png
+  rotate: false
+  xy: 76, 2
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3498_7_0.png
+  rotate: false
+  xy: 443, 2
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3500_0_0.png
+  rotate: false
+  xy: 550, 63
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3500_1_0.png
+  rotate: false
+  xy: 380, 80
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3500_2_0.png
+  rotate: false
+  xy: 631, 108
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3500_3_0.png
+  rotate: false
+  xy: 388, 2
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3500_4_0.png
+  rotate: false
+  xy: 264, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3500_5_0.png
+  rotate: false
+  xy: 286, 68
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3500_6_0.png
+  rotate: false
+  xy: 231, 5
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_drk_rc_3500_7_0.png
+  rotate: false
+  xy: 195, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_lay_cc_3498_2_0.png
+  rotate: false
+  xy: 110, 35
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_lay_cc_3499_2_0.png
+  rotate: false
+  xy: 722, 110
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_lay_cc_3500_2_0.png
+  rotate: false
+  xy: 197, 103
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_lay_lc_3498_2_0.png
+  rotate: false
+  xy: 752, 108
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_lay_lc_3500_2_0.png
+  rotate: false
+  xy: 210, 2
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_lay_rc_3498_2_0.png
+  rotate: false
+  xy: 601, 107
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_lay_rc_3500_2_0.png
+  rotate: false
+  xy: 529, 64
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3498_0_0.png
+  rotate: false
+  xy: 350, 86
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3498_1_0.png
+  rotate: false
+  xy: 411, 91
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3498_2_0.png
+  rotate: false
+  xy: 286, 81
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3498_3_0.png
+  rotate: false
+  xy: 319, 86
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3498_7_0.png
+  rotate: false
+  xy: 438, 89
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3499_1_0.png
+  rotate: false
+  xy: 702, 95
+  size: 4, 13
+  orig: 4, 13
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3499_2_0.png
+  rotate: false
+  xy: 251, 15
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3499_3_0.png
+  rotate: false
+  xy: 580, 71
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3500_0_0.png
+  rotate: false
+  xy: 465, 91
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3500_1_0.png
+  rotate: false
+  xy: 601, 92
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3500_2_0.png
+  rotate: false
+  xy: 380, 93
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3500_3_0.png
+  rotate: false
+  xy: 492, 96
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_cc_3500_7_0.png
+  rotate: false
+  xy: 2, 6
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_lc_3498_0_0.png
+  rotate: false
+  xy: 511, 14
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_lc_3498_1_0.png
+  rotate: false
+  xy: 518, 41
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_lc_3498_2_0.png
+  rotate: false
+  xy: 429, 66
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_lc_3498_3_0.png
+  rotate: false
+  xy: 568, 66
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_lc_3498_7_0.png
+  rotate: false
+  xy: 490, 12
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_lc_3500_0_0.png
+  rotate: false
+  xy: 384, 46
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_lc_3500_1_0.png
+  rotate: false
+  xy: 621, 31
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_lc_3500_2_0.png
+  rotate: false
+  xy: 620, 74
+  size: 3, 16
+  orig: 3, 16
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_lc_3500_3_0.png
+  rotate: false
+  xy: 532, 17
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_lc_3500_7_0.png
+  rotate: false
+  xy: 657, 85
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_rc_3498_0_0.png
+  rotate: false
+  xy: 515, 66
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_rc_3498_2_0.png
+  rotate: false
+  xy: 169, 35
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_rc_3498_3_0.png
+  rotate: false
+  xy: 384, 50
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_rc_3498_7_0.png
+  rotate: false
+  xy: 321, 14
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_rc_3500_0_0.png
+  rotate: false
+  xy: 467, 14
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_rc_3500_1_0.png
+  rotate: false
+  xy: 686, 90
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_rc_3500_2_0.png
+  rotate: false
+  xy: 237, 72
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_rc_3500_3_0.png
+  rotate: false
+  xy: 501, 14
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_std_rc_3500_7_0.png
+  rotate: false
+  xy: 595, 77
+  size: 4, 21
+  orig: 4, 21
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_0_0.png
+  rotate: false
+  xy: 500, 66
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_0_1.png
+  rotate: false
+  xy: 233, 43
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_1_0.png
+  rotate: false
+  xy: 110, 98
+  size: 85, 28
+  orig: 85, 28
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_1_1.png
+  rotate: false
+  xy: 908, 98
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_2_0.png
+  rotate: false
+  xy: 177, 4
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_2_1.png
+  rotate: false
+  xy: 888, 98
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_3_0.png
+  rotate: false
+  xy: 1001, 98
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_3_1.png
+  rotate: false
+  xy: 868, 98
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_4_0.png
+  rotate: false
+  xy: 521, 99
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_4_1.png
+  rotate: false
+  xy: 575, 100
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_5_0.png
+  rotate: false
+  xy: 255, 72
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_5_1.png
+  rotate: false
+  xy: 947, 97
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_6_0.png
+  rotate: false
+  xy: 154, 3
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_6_1.png
+  rotate: false
+  xy: 549, 97
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_7_0.png
+  rotate: false
+  xy: 928, 97
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3498_7_1.png
+  rotate: false
+  xy: 216, 72
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3499_2_0.png
+  rotate: false
+  xy: 424, 16
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_0_0.png
+  rotate: false
+  xy: 611, 31
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_0_1.png
+  rotate: false
+  xy: 598, 32
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_1_0.png
+  rotate: false
+  xy: 609, 52
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_1_1.png
+  rotate: false
+  xy: 596, 52
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_2_0.png
+  rotate: false
+  xy: 482, 41
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_2_1.png
+  rotate: false
+  xy: 294, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_3_0.png
+  rotate: false
+  xy: 467, 40
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_3_1.png
+  rotate: false
+  xy: 407, 47
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_4_0.png
+  rotate: false
+  xy: 802, 107
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_4_1.png
+  rotate: false
+  xy: 407, 71
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_5_0.png
+  rotate: false
+  xy: 270, 46
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_5_1.png
+  rotate: false
+  xy: 458, 64
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_6_0.png
+  rotate: false
+  xy: 826, 104
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_6_1.png
+  rotate: false
+  xy: 778, 105
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_7_0.png
+  rotate: false
+  xy: 559, 42
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wav_lc_3500_7_1.png
+  rotate: false
+  xy: 545, 42
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_0_1.png
+  rotate: false
+  xy: 415, 20
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_0_2.png
+  rotate: false
+  xy: 479, 13
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_0_3.png
+  rotate: false
+  xy: 293, 19
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_1_0.png
+  rotate: false
+  xy: 307, 43
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_1_1.png
+  rotate: false
+  xy: 306, 18
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_1_3.png
+  rotate: false
+  xy: 308, 2
+  size: 3, 14
+  orig: 3, 14
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_2_0.png
+  rotate: false
+  xy: 580, 17
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_2_1.png
+  rotate: false
+  xy: 427, 21
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_2_2.png
+  rotate: false
+  xy: 587, 46
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_2_3.png
+  rotate: false
+  xy: 621, 51
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_3_0.png
+  rotate: false
+  xy: 364, 13
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_3_1.png
+  rotate: false
+  xy: 376, 13
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_3_2.png
+  rotate: false
+  xy: 274, 73
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_3_3.png
+  rotate: false
+  xy: 342, 14
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_7_1.png
+  rotate: false
+  xy: 373, 43
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_7_2.png
+  rotate: false
+  xy: 396, 51
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3498_7_3.png
+  rotate: false
+  xy: 362, 43
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_0_1.png
+  rotate: false
+  xy: 231, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_1_0.png
+  rotate: false
+  xy: 619, 11
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_1_1.png
+  rotate: false
+  xy: 678, 90
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_1_3.png
+  rotate: false
+  xy: 575, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_2_0.png
+  rotate: false
+  xy: 1019, 109
+  size: 3, 17
+  orig: 3, 17
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_2_1.png
+  rotate: false
+  xy: 610, 11
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_2_2.png
+  rotate: false
+  xy: 1019, 90
+  size: 3, 17
+  orig: 3, 17
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_3_0.png
+  rotate: false
+  xy: 490, 64
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_3_1.png
+  rotate: false
+  xy: 188, 41
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_3_3.png
+  rotate: false
+  xy: 313, 3
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_7_0.png
+  rotate: false
+  xy: 641, 84
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_7_1.png
+  rotate: false
+  xy: 321, 4
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_7_2.png
+  rotate: false
+  xy: 633, 84
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_lc_3500_7_3.png
+  rotate: false
+  xy: 649, 85
+  size: 6, 21
+  orig: 6, 21
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_0_0.png
+  rotate: false
+  xy: 340, 43
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_0_1.png
+  rotate: false
+  xy: 183, 69
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_0_2.png
+  rotate: false
+  xy: 238, 14
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_0_3.png
+  rotate: false
+  xy: 473, 64
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_1_1.png
+  rotate: false
+  xy: 452, 39
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_1_3.png
+  rotate: false
+  xy: 251, 46
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_2_1.png
+  rotate: false
+  xy: 216, 38
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_2_3.png
+  rotate: false
+  xy: 197, 68
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_3_1.png
+  rotate: false
+  xy: 440, 38
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_3_3.png
+  rotate: false
+  xy: 388, 20
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_7_0.png
+  rotate: false
+  xy: 354, 14
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_7_1.png
+  rotate: false
+  xy: 329, 43
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_7_2.png
+  rotate: false
+  xy: 331, 14
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3498_7_3.png
+  rotate: false
+  xy: 318, 43
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3499_3_1.png
+  rotate: false
+  xy: 529, 41
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3499_3_2.png
+  rotate: false
+  xy: 568, 63
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_0_0.png
+  rotate: false
+  xy: 561, 18
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_0_1.png
+  rotate: false
+  xy: 589, 21
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_0_3.png
+  rotate: false
+  xy: 504, 43
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_1_3.png
+  rotate: false
+  xy: 598, 11
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_2_0.png
+  rotate: false
+  xy: 965, 97
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_2_1.png
+  rotate: false
+  xy: 195, 9
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_2_3.png
+  rotate: false
+  xy: 983, 97
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_3_0.png
+  rotate: false
+  xy: 522, 14
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_3_1.png
+  rotate: false
+  xy: 694, 95
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_3_3.png
+  rotate: false
+  xy: 353, 43
+  size: 7, 26
+  orig: 7, 26
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_7_0.png
+  rotate: false
+  xy: 230, 14
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_7_1.png
+  rotate: false
+  xy: 496, 41
+  size: 6, 21
+  orig: 6, 21
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_7_2.png
+  rotate: false
+  xy: 553, 18
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
+jacket_M_raincoat_h_wlk_rc_3500_7_3.png
+  rotate: false
+  xy: 313, 71
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+acc_head_U_sprout.png
+size: 128,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_sprout_h_lay_he_3433_2_0.png
+  rotate: false
+  xy: 86, 2
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_lsp_he_3434_2_0.png
+  rotate: false
+  xy: 32, 5
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_spk_he_3434_0_0.png
+  rotate: false
+  xy: 58, 6
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_spk_he_3434_1_0.png
+  rotate: false
+  xy: 112, 8
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_spk_he_3434_2_0.png
+  rotate: false
+  xy: 45, 6
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_spk_he_3434_7_0.png
+  rotate: false
+  xy: 71, 8
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_std_he_3433_0_0.png
+  rotate: false
+  xy: 94, 2
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_std_he_3433_1_0.png
+  rotate: false
+  xy: 99, 2
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_std_he_3433_3_0.png
+  rotate: false
+  xy: 120, 7
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_std_he_3434_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_std_he_3434_1_0.png
+  rotate: false
+  xy: 104, 6
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_std_he_3434_2_0.png
+  rotate: false
+  xy: 17, 6
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+acc_head_U_sprout_h_std_he_3434_3_0.png
+  rotate: false
+  xy: 86, 9
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+hat_U_airhelm.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_airhelm_h_lay_ha_2788_2_0.png
+  rotate: false
+  xy: 306, 16
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+hat_U_airhelm_h_lsp_ha_2788_2_0.png
+  rotate: false
+  xy: 258, 16
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+hat_U_airhelm_h_spk_ha_2788_0_0.png
+  rotate: false
+  xy: 132, 6
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+hat_U_airhelm_h_spk_ha_2788_1_0.png
+  rotate: false
+  xy: 44, 6
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+hat_U_airhelm_h_spk_ha_2788_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+hat_U_airhelm_h_spk_ha_2788_3_0.png
+  rotate: false
+  xy: 390, 2
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+hat_U_airhelm_h_spk_ha_2788_7_0.png
+  rotate: false
+  xy: 353, 11
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+hat_U_airhelm_h_std_ha_2788_0_0.png
+  rotate: false
+  xy: 216, 6
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+hat_U_airhelm_h_std_ha_2788_1_0.png
+  rotate: false
+  xy: 88, 7
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+hat_U_airhelm_h_std_ha_2788_2_0.png
+  rotate: false
+  xy: 174, 4
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+hat_U_airhelm_h_std_ha_2788_3_0.png
+  rotate: false
+  xy: 426, 3
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
