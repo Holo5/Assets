@@ -1,0 +1,118 @@
+
+Niko.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Niko_h_std_fx99_1_1_0_0.png
+  rotate: false
+  xy: 123, 5
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_1_1_1_0.png
+  rotate: false
+  xy: 173, 10
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_1_1_2_0.png
+  rotate: false
+  xy: 29, 5
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_1_1_3_0.png
+  rotate: false
+  xy: 90, 13
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_1_1_4_0.png
+  rotate: false
+  xy: 2, 5
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_1_1_5_0.png
+  rotate: false
+  xy: 244, 42
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_1_1_6_0.png
+  rotate: false
+  xy: 148, 5
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_1_1_7_0.png
+  rotate: false
+  xy: 56, 13
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_2_1_0_0.png
+  rotate: false
+  xy: 40, 25
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_2_1_1_0.png
+  rotate: false
+  xy: 113, 25
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_2_1_2_0.png
+  rotate: false
+  xy: 148, 25
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_2_1_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_2_1_4_0.png
+  rotate: false
+  xy: 180, 25
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_2_1_5_0.png
+  rotate: false
+  xy: 78, 25
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_2_1_6_0.png
+  rotate: false
+  xy: 2, 25
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+Niko_h_std_fx99_2_1_7_0.png
+  rotate: false
+  xy: 212, 25
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

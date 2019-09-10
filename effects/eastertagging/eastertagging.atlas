@@ -1,0 +1,62 @@
+
+eastertagging.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eastertagging_h_std_fx68_1_1_0_0.png
+  rotate: false
+  xy: 190, 20
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+eastertagging_h_std_fx68_1_1_1_0.png
+  rotate: false
+  xy: 102, 10
+  size: 42, 90
+  orig: 42, 90
+  offset: 0, 0
+  index: -1
+eastertagging_h_std_fx68_1_1_2_0.png
+  rotate: false
+  xy: 55, 2
+  size: 45, 98
+  orig: 45, 98
+  offset: 0, 0
+  index: -1
+eastertagging_h_std_fx68_1_1_3_0.png
+  rotate: false
+  xy: 239, 7
+  size: 34, 93
+  orig: 34, 93
+  offset: 0, 0
+  index: -1
+eastertagging_h_std_fx68_1_1_4_0.png
+  rotate: false
+  xy: 2, 8
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+eastertagging_h_std_fx68_1_1_5_0.png
+  rotate: false
+  xy: 146, 12
+  size: 42, 88
+  orig: 42, 88
+  offset: 0, 0
+  index: -1
+eastertagging_h_std_fx68_1_1_6_0.png
+  rotate: false
+  xy: 275, 48
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+eastertagging_h_std_fx68_1_1_7_0.png
+  rotate: false
+  xy: 314, 49
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1

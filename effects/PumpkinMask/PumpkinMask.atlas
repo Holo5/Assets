@@ -1,0 +1,62 @@
+
+PumpkinMask.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PumpkinMask_h_std_fx85_1_1_0_0.png
+  rotate: false
+  xy: 134, 2
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+PumpkinMask_h_std_fx85_1_1_1_0.png
+  rotate: false
+  xy: 307, 2
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+PumpkinMask_h_std_fx85_1_1_2_0.png
+  rotate: false
+  xy: 178, 2
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+PumpkinMask_h_std_fx85_1_1_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+PumpkinMask_h_std_fx85_1_1_4_0.png
+  rotate: false
+  xy: 264, 2
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+PumpkinMask_h_std_fx85_1_1_5_0.png
+  rotate: false
+  xy: 221, 2
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+PumpkinMask_h_std_fx85_1_1_6_0.png
+  rotate: false
+  xy: 46, 2
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+PumpkinMask_h_std_fx85_1_1_7_0.png
+  rotate: false
+  xy: 90, 2
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1

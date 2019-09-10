@@ -1,0 +1,111 @@
+
+FrostPumpkinMask.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FrostPumpkinMask_h_std_fx125_1_1_0_0.png
+  rotate: false
+  xy: 59, 3
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_0_1.png
+  rotate: false
+  xy: 113, 3
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_1_0.png
+  rotate: false
+  xy: 221, 2
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_1_1.png
+  rotate: false
+  xy: 167, 2
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_2_0.png
+  rotate: false
+  xy: 491, 2
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_2_1.png
+  rotate: false
+  xy: 544, 2
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_3_0.png
+  rotate: false
+  xy: 275, 2
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_3_1.png
+  rotate: false
+  xy: 329, 2
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_4_0.png
+  rotate: false
+  xy: 650, 2
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_4_1.png
+  rotate: false
+  xy: 597, 2
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_5_0.png
+  rotate: false
+  xy: 437, 2
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_5_1.png
+  rotate: false
+  xy: 383, 2
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_6_0.png
+  rotate: false
+  xy: 757, 3
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_6_1.png
+  rotate: false
+  xy: 703, 3
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+FrostPumpkinMask_h_std_fx125_1_1_7_0.png
+  rotate: false
+  xy: 2, 3
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1

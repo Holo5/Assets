@@ -1,0 +1,146 @@
+
+Flies.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Flies_h_std_fx10_1_1_0_0.png
+  rotate: false
+  xy: 64, 2
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_1.png
+  rotate: false
+  xy: 326, 22
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_10.png
+  rotate: false
+  xy: 2, 12
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_11.png
+  rotate: false
+  xy: 45, 11
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_12.png
+  rotate: false
+  xy: 86, 11
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_13.png
+  rotate: false
+  xy: 154, 13
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_14.png
+  rotate: false
+  xy: 182, 14
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_15.png
+  rotate: false
+  xy: 209, 13
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_16.png
+  rotate: false
+  xy: 380, 16
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_17.png
+  rotate: false
+  xy: 354, 18
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_18.png
+  rotate: false
+  xy: 406, 22
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_19.png
+  rotate: false
+  xy: 268, 14
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_2.png
+  rotate: false
+  xy: 93, 2
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_3.png
+  rotate: false
+  xy: 34, 2
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_4.png
+  rotate: false
+  xy: 235, 13
+  size: 31, 6
+  orig: 31, 6
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_5.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 8
+  orig: 30, 8
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_6.png
+  rotate: false
+  xy: 235, 21
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_7.png
+  rotate: false
+  xy: 297, 21
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_8.png
+  rotate: false
+  xy: 267, 21
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+Flies_h_std_fx10_1_1_0_9.png
+  rotate: false
+  xy: 117, 17
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1

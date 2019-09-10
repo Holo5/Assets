@@ -1,0 +1,62 @@
+
+GoldMicrophone.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GoldMicrophone_h_std_fx139_1_1_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+GoldMicrophone_h_std_fx139_1_1_1_0.png
+  rotate: false
+  xy: 42, 6
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+GoldMicrophone_h_std_fx139_1_1_2_0.png
+  rotate: false
+  xy: 2, 16
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+GoldMicrophone_h_std_fx139_1_1_3_0.png
+  rotate: false
+  xy: 62, 8
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+GoldMicrophone_h_std_fx139_1_1_4_0.png
+  rotate: false
+  xy: 22, 16
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+GoldMicrophone_h_std_fx139_1_1_5_0.png
+  rotate: false
+  xy: 42, 18
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+GoldMicrophone_h_std_fx139_1_1_6_0.png
+  rotate: false
+  xy: 22, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+GoldMicrophone_h_std_fx139_1_1_7_0.png
+  rotate: false
+  xy: 42, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+Rango.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Rango_h_std_fx60_1_1_0_0.png
+  rotate: false
+  xy: 41, 2
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Rango_h_std_fx60_1_1_1_0.png
+  rotate: false
+  xy: 80, 89
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Rango_h_std_fx60_1_1_2_0.png
+  rotate: false
+  xy: 42, 48
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Rango_h_std_fx60_1_1_3_0.png
+  rotate: false
+  xy: 2, 83
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Rango_h_std_fx60_1_1_4_0.png
+  rotate: false
+  xy: 78, 48
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+Rango_h_std_fx60_1_1_5_0.png
+  rotate: false
+  xy: 42, 89
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+Rango_h_std_fx60_1_1_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+Rango_h_std_fx60_1_1_7_0.png
+  rotate: false
+  xy: 2, 43
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

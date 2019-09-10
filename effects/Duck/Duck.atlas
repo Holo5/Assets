@@ -1,0 +1,41 @@
+
+Duck.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Duck_h_std_fx170_1_1_0_0.png
+  rotate: false
+  xy: 52, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Duck_h_std_fx170_1_1_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Duck_h_std_fx170_1_1_2_0.png
+  rotate: false
+  xy: 28, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Duck_h_std_fx170_1_1_3_0.png
+  rotate: false
+  xy: 95, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+Duck_h_std_fx170_1_1_7_0.png
+  rotate: false
+  xy: 76, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+Wadeinswamp.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Wadeinswamp_h_std_fx37_1_1_0_0.png
+  rotate: false
+  xy: 92, 23
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Wadeinswamp_h_std_fx37_1_1_0_1.png
+  rotate: false
+  xy: 137, 23
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Wadeinswamp_h_std_fx37_1_1_0_2.png
+  rotate: false
+  xy: 182, 23
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Wadeinswamp_h_std_fx37_2_1_0_0.png
+  rotate: false
+  xy: 227, 23
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Wadeinswamp_h_std_fx37_2_1_0_1.png
+  rotate: false
+  xy: 2, 23
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Wadeinswamp_h_std_fx37_2_1_0_2.png
+  rotate: false
+  xy: 47, 23
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+Wadeinswamp_h_std_fx37_3_1_0_0.png
+  rotate: false
+  xy: 49, 2
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+Wadeinswamp_h_std_fx37_3_1_0_1.png
+  rotate: false
+  xy: 319, 35
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+Wadeinswamp_h_std_fx37_3_1_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+Wadeinswamp_h_std_fx37_3_1_0_3.png
+  rotate: false
+  xy: 272, 35
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+Wadeinswamp_h_std_fx37_3_1_0_4.png
+  rotate: false
+  xy: 96, 2
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1

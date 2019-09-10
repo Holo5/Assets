@@ -1,0 +1,62 @@
+
+DarkAlienMask.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+DarkAlienMask_h_std_fx119_1_1_0_0.png
+  rotate: false
+  xy: 194, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+DarkAlienMask_h_std_fx119_1_1_1_0.png
+  rotate: false
+  xy: 118, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+DarkAlienMask_h_std_fx119_1_1_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+DarkAlienMask_h_std_fx119_1_1_3_0.png
+  rotate: false
+  xy: 232, 2
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+DarkAlienMask_h_std_fx119_1_1_4_0.png
+  rotate: false
+  xy: 41, 2
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+DarkAlienMask_h_std_fx119_1_1_5_0.png
+  rotate: false
+  xy: 156, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+DarkAlienMask_h_std_fx119_1_1_6_0.png
+  rotate: false
+  xy: 80, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+DarkAlienMask_h_std_fx119_1_1_7_0.png
+  rotate: false
+  xy: 268, 3
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1

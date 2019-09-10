@@ -1,0 +1,41 @@
+
+ESred.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ESred_h_std_fx40_1_1_0_0.png
+  rotate: false
+  xy: 104, 7
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+ESred_h_std_fx40_1_1_1_0.png
+  rotate: false
+  xy: 68, 7
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+ESred_h_std_fx40_1_1_2_0.png
+  rotate: false
+  xy: 34, 4
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+ESred_h_std_fx40_1_1_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+ESred_h_std_fx40_1_1_7_0.png
+  rotate: false
+  xy: 137, 9
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

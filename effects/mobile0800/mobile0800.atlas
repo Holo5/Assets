@@ -1,0 +1,69 @@
+
+mobile0800.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mobile0800_h_std_fx65_1_1_0_0.png
+  rotate: false
+  xy: 221, 22
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+mobile0800_h_std_fx65_1_1_2_0.png
+  rotate: false
+  xy: 195, 22
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+mobile0800_h_std_fx65_1_1_3_0.png
+  rotate: false
+  xy: 234, 22
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+mobile0800_h_std_fx65_1_1_4_0.png
+  rotate: false
+  xy: 208, 22
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+mobile0800_h_std_fx65_1_1_5_0.png
+  rotate: false
+  xy: 182, 22
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+mobile0800_h_std_fx65_2_1_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+mobile0800_h_std_fx65_2_1_0_1.png
+  rotate: false
+  xy: 47, 2
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+mobile0800_h_std_fx65_2_1_0_2.png
+  rotate: false
+  xy: 92, 2
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+mobile0800_h_std_fx65_2_1_0_3.png
+  rotate: false
+  xy: 137, 2
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1

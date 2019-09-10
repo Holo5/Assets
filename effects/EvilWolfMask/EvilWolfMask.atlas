@@ -1,0 +1,62 @@
+
+EvilWolfMask.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+EvilWolfMask_h_std_fx127_1_1_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+EvilWolfMask_h_std_fx127_1_1_1_0.png
+  rotate: false
+  xy: 2, 41
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+EvilWolfMask_h_std_fx127_1_1_2_0.png
+  rotate: false
+  xy: 71, 44
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+EvilWolfMask_h_std_fx127_1_1_3_0.png
+  rotate: false
+  xy: 74, 83
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+EvilWolfMask_h_std_fx127_1_1_4_0.png
+  rotate: false
+  xy: 37, 2
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+EvilWolfMask_h_std_fx127_1_1_5_0.png
+  rotate: false
+  xy: 2, 82
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+EvilWolfMask_h_std_fx127_1_1_6_0.png
+  rotate: false
+  xy: 39, 84
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+EvilWolfMask_h_std_fx127_1_1_7_0.png
+  rotate: false
+  xy: 39, 43
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1

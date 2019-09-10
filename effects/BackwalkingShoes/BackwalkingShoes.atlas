@@ -1,0 +1,202 @@
+
+BackwalkingShoes.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BackwalkingShoes_h_std_fx136_1_1_0_0.png
+  rotate: false
+  xy: 203, 51
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_0_1.png
+  rotate: false
+  xy: 230, 51
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_0_2.png
+  rotate: false
+  xy: 161, 50
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_0_3.png
+  rotate: false
+  xy: 112, 6
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_0_4.png
+  rotate: false
+  xy: 161, 2
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_1_0.png
+  rotate: false
+  xy: 388, 40
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_1_1.png
+  rotate: false
+  xy: 279, 51
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_1_2.png
+  rotate: false
+  xy: 2, 7
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_1_3.png
+  rotate: false
+  xy: 138, 8
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_1_4.png
+  rotate: false
+  xy: 161, 35
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_2_0.png
+  rotate: false
+  xy: 161, 18
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_2_1.png
+  rotate: false
+  xy: 83, 6
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_2_2.png
+  rotate: false
+  xy: 187, 21
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_2_3.png
+  rotate: false
+  xy: 367, 50
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_2_4.png
+  rotate: false
+  xy: 45, 4
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_3_0.png
+  rotate: false
+  xy: 256, 52
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_3_1.png
+  rotate: false
+  xy: 323, 51
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_3_2.png
+  rotate: false
+  xy: 345, 48
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_3_3.png
+  rotate: false
+  xy: 301, 51
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_3_4.png
+  rotate: false
+  xy: 186, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_7_0.png
+  rotate: false
+  xy: 476, 56
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_7_1.png
+  rotate: false
+  xy: 432, 54
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_7_2.png
+  rotate: false
+  xy: 388, 53
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_7_3.png
+  rotate: false
+  xy: 454, 54
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_1_1_7_4.png
+  rotate: false
+  xy: 410, 53
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_2_1_0_0.png
+  rotate: false
+  xy: 108, 21
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_2_1_0_1.png
+  rotate: false
+  xy: 2, 21
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+BackwalkingShoes_h_std_fx136_2_1_0_2.png
+  rotate: false
+  xy: 55, 21
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1

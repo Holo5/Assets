@@ -1,0 +1,41 @@
+
+ButteryflyWings2.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ButteryflyWings2_h_std_fx130_1_1_0_0.png
+  rotate: false
+  xy: 2, 55
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+ButteryflyWings2_h_std_fx130_1_1_1_0.png
+  rotate: false
+  xy: 90, 2
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+ButteryflyWings2_h_std_fx130_1_1_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+ButteryflyWings2_h_std_fx130_1_1_5_0.png
+  rotate: false
+  xy: 65, 2
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1
+ButteryflyWings2_h_std_fx130_1_1_6_0.png
+  rotate: false
+  xy: 60, 55
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1

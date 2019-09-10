@@ -1,0 +1,62 @@
+
+ZombieMask.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ZombieMask_h_std_fx88_1_1_0_0.png
+  rotate: false
+  xy: 35, 7
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+ZombieMask_h_std_fx88_1_1_1_0.png
+  rotate: false
+  xy: 2, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ZombieMask_h_std_fx88_1_1_2_0.png
+  rotate: false
+  xy: 66, 33
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+ZombieMask_h_std_fx88_1_1_3_0.png
+  rotate: false
+  xy: 95, 33
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ZombieMask_h_std_fx88_1_1_4_0.png
+  rotate: false
+  xy: 68, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+ZombieMask_h_std_fx88_1_1_5_0.png
+  rotate: false
+  xy: 34, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ZombieMask_h_std_fx88_1_1_6_0.png
+  rotate: false
+  xy: 2, 7
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+ZombieMask_h_std_fx88_1_1_7_0.png
+  rotate: false
+  xy: 97, 27
+  size: 26, 4
+  orig: 26, 4
+  offset: 0, 0
+  index: -1

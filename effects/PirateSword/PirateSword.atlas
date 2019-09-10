@@ -1,0 +1,55 @@
+
+PirateSword.png
+size: 32,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PirateSword_h_std_fx162_1_1_0_0.png
+  rotate: false
+  xy: 16, 95
+  size: 13, 42
+  orig: 13, 42
+  offset: 0, 0
+  index: -1
+PirateSword_h_std_fx162_1_1_1_0.png
+  rotate: false
+  xy: 2, 94
+  size: 12, 43
+  orig: 12, 43
+  offset: 0, 0
+  index: -1
+PirateSword_h_std_fx162_1_1_2_0.png
+  rotate: false
+  xy: 16, 6
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1
+PirateSword_h_std_fx162_1_1_3_0.png
+  rotate: false
+  xy: 16, 50
+  size: 12, 43
+  orig: 12, 43
+  offset: 0, 0
+  index: -1
+PirateSword_h_std_fx162_1_1_4_0.png
+  rotate: false
+  xy: 2, 5
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1
+PirateSword_h_std_fx162_1_1_5_0.png
+  rotate: false
+  xy: 2, 49
+  size: 12, 43
+  orig: 12, 43
+  offset: 0, 0
+  index: -1
+PirateSword_h_std_fx162_1_1_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

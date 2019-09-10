@@ -1,0 +1,223 @@
+
+RedViking.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RedViking_h_std_fx172_1_1_0_0.png
+  rotate: false
+  xy: 115, 195
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_1_1_1_0.png
+  rotate: false
+  xy: 35, 4
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_1_1_2_0.png
+  rotate: false
+  xy: 110, 215
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_1_1_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_1_1_4_0.png
+  rotate: false
+  xy: 94, 215
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_1_1_5_0.png
+  rotate: false
+  xy: 22, 4
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_1_1_6_0.png
+  rotate: false
+  xy: 104, 195
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_2_1_0_0.png
+  rotate: false
+  xy: 72, 3
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_2_1_1_0.png
+  rotate: false
+  xy: 2, 42
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_2_1_2_0.png
+  rotate: false
+  xy: 37, 42
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_2_1_3_0.png
+  rotate: false
+  xy: 48, 213
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_2_1_4_0.png
+  rotate: false
+  xy: 72, 48
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_2_1_5_0.png
+  rotate: false
+  xy: 43, 123
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_2_1_6_0.png
+  rotate: false
+  xy: 78, 140
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_2_1_7_0.png
+  rotate: false
+  xy: 2, 211
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_3_1_0_0.png
+  rotate: false
+  xy: 78, 107
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_3_1_1_0.png
+  rotate: false
+  xy: 113, 162
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_3_1_2_0.png
+  rotate: false
+  xy: 45, 178
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_3_1_3_0.png
+  rotate: false
+  xy: 88, 107
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_3_1_4_0.png
+  rotate: false
+  xy: 98, 107
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_3_1_5_0.png
+  rotate: false
+  xy: 113, 129
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_3_1_7_0.png
+  rotate: false
+  xy: 108, 96
+  size: 8, 31
+  orig: 8, 31
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_4_1_0_0.png
+  rotate: false
+  xy: 55, 183
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_4_1_0_1.png
+  rotate: false
+  xy: 71, 185
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_4_1_0_2.png
+  rotate: false
+  xy: 59, 94
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_4_1_0_3.png
+  rotate: false
+  xy: 43, 93
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_4_1_0_4.png
+  rotate: false
+  xy: 48, 11
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_4_1_0_5.png
+  rotate: false
+  xy: 88, 185
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_5_1_0_0.png
+  rotate: false
+  xy: 2, 88
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_5_1_0_1.png
+  rotate: false
+  xy: 2, 128
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+RedViking_h_std_fx172_5_1_0_2.png
+  rotate: false
+  xy: 2, 169
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+HabnamDance.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+HabnamDance_h_std_fx140_1_1_0_0.png
+  rotate: false
+  xy: 2, 197
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+HabnamDance_h_std_fx140_1_1_0_1.png
+  rotate: false
+  xy: 2, 67
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+HabnamDance_h_std_fx140_1_1_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+HabnamDance_h_std_fx140_1_1_0_3.png
+  rotate: false
+  xy: 2, 132
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+HabnamDance_h_std_fx140_1_1_0_4.png
+  rotate: false
+  xy: 2, 263
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1

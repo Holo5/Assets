@@ -1,0 +1,41 @@
+
+Ambassador.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Ambassador_h_std_fx178_1_1_0_0.png
+  rotate: false
+  xy: 165, 49
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+Ambassador_h_std_fx178_1_1_0_1.png
+  rotate: false
+  xy: 241, 49
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+Ambassador_h_std_fx178_1_1_0_2.png
+  rotate: false
+  xy: 85, 45
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+Ambassador_h_std_fx178_1_1_0_3.png
+  rotate: false
+  xy: 2, 42
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Ambassador_h_std_fx178_2_1_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1

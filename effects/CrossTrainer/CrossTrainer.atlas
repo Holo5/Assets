@@ -1,0 +1,118 @@
+
+CrossTrainer.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CrossTrainer_h_std_fx195_1_1_0_0.png
+  rotate: false
+  xy: 84, 2
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_0_1.png
+  rotate: false
+  xy: 2, 18
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_0_2.png
+  rotate: false
+  xy: 171, 42
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_0_3.png
+  rotate: false
+  xy: 204, 40
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_2_0.png
+  rotate: false
+  xy: 135, 44
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_2_1.png
+  rotate: false
+  xy: 156, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_2_2.png
+  rotate: false
+  xy: 211, 17
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_2_3.png
+  rotate: false
+  xy: 52, 20
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_4_0.png
+  rotate: false
+  xy: 99, 44
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_4_1.png
+  rotate: false
+  xy: 130, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_4_2.png
+  rotate: false
+  xy: 182, 17
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_4_3.png
+  rotate: false
+  xy: 52, 42
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_6_0.png
+  rotate: false
+  xy: 52, 2
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_6_1.png
+  rotate: false
+  xy: 2, 41
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_6_2.png
+  rotate: false
+  xy: 130, 22
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+CrossTrainer_h_std_fx195_1_1_6_3.png
+  rotate: false
+  xy: 99, 20
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1

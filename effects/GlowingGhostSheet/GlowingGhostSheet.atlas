@@ -1,0 +1,181 @@
+
+GlowingGhostSheet.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GlowingGhostSheet_h_std_fx132_1_1_0_0.png
+  rotate: false
+  xy: 576, 3
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_0_1.png
+  rotate: false
+  xy: 422, 3
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_0_2.png
+  rotate: false
+  xy: 461, 4
+  size: 37, 81
+  orig: 37, 81
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_0_3.png
+  rotate: false
+  xy: 538, 3
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_0_4.png
+  rotate: false
+  xy: 500, 3
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_1_0.png
+  rotate: false
+  xy: 910, 5
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_1_1.png
+  rotate: false
+  xy: 875, 5
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_1_2.png
+  rotate: false
+  xy: 799, 5
+  size: 36, 80
+  orig: 36, 80
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_1_3.png
+  rotate: false
+  xy: 945, 5
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_1_4.png
+  rotate: false
+  xy: 837, 5
+  size: 36, 80
+  orig: 36, 80
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_2_0.png
+  rotate: false
+  xy: 651, 2
+  size: 35, 83
+  orig: 35, 83
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_2_1.png
+  rotate: false
+  xy: 688, 2
+  size: 35, 83
+  orig: 35, 83
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_2_2.png
+  rotate: false
+  xy: 725, 2
+  size: 35, 83
+  orig: 35, 83
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_2_3.png
+  rotate: false
+  xy: 614, 2
+  size: 35, 83
+  orig: 35, 83
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_2_4.png
+  rotate: false
+  xy: 762, 4
+  size: 35, 81
+  orig: 35, 81
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_3_0.png
+  rotate: false
+  xy: 254, 3
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_3_1.png
+  rotate: false
+  xy: 212, 3
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_3_2.png
+  rotate: false
+  xy: 338, 3
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_3_3.png
+  rotate: false
+  xy: 296, 3
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_3_4.png
+  rotate: false
+  xy: 380, 3
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_7_0.png
+  rotate: false
+  xy: 128, 3
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_7_1.png
+  rotate: false
+  xy: 170, 3
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_7_2.png
+  rotate: false
+  xy: 86, 3
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_7_3.png
+  rotate: false
+  xy: 44, 3
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+GlowingGhostSheet_h_std_fx132_1_1_7_4.png
+  rotate: false
+  xy: 2, 3
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1

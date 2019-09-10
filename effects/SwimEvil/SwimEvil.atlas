@@ -1,0 +1,97 @@
+
+SwimEvil.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SwimEvil_h_std_fx185_1_1_0_1.png
+  rotate: false
+  xy: 43, 142
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_1_1_0_2.png
+  rotate: false
+  xy: 43, 106
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_1_1_0_3.png
+  rotate: false
+  xy: 94, 207
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_1_1_0_4.png
+  rotate: false
+  xy: 43, 35
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_1_1_0_5.png
+  rotate: false
+  xy: 43, 70
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_2_1_0_1.png
+  rotate: false
+  xy: 49, 209
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_2_1_0_2.png
+  rotate: false
+  xy: 2, 207
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_2_1_0_3.png
+  rotate: false
+  xy: 49, 178
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_3_1_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_3_1_0_2.png
+  rotate: false
+  xy: 2, 166
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_3_1_0_3.png
+  rotate: false
+  xy: 2, 125
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_3_1_0_4.png
+  rotate: false
+  xy: 2, 84
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+SwimEvil_h_std_fx185_3_1_0_5.png
+  rotate: false
+  xy: 2, 43
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Easterchicks.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Easterchicks_h_std_fx53_1_1_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Easterchicks_h_std_fx53_1_1_0_1.png
+  rotate: false
+  xy: 119, 2
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Easterchicks_h_std_fx53_1_1_0_2.png
+  rotate: false
+  xy: 158, 2
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Easterchicks_h_std_fx53_1_1_0_3.png
+  rotate: false
+  xy: 41, 2
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Easterchicks_h_std_fx53_1_1_0_4.png
+  rotate: false
+  xy: 80, 2
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+Easterchicks_h_std_fx53_1_1_0_5.png
+  rotate: false
+  xy: 197, 2
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1

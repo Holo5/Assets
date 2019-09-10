@@ -1,0 +1,55 @@
+
+Microphone.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Microphone_h_std_fx16_1_1_0_0.png
+  rotate: false
+  xy: 22, 16
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+Microphone_h_std_fx16_1_1_1_0.png
+  rotate: false
+  xy: 52, 18
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+Microphone_h_std_fx16_1_1_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+Microphone_h_std_fx16_1_1_3_0.png
+  rotate: false
+  xy: 42, 8
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+Microphone_h_std_fx16_1_1_4_0.png
+  rotate: false
+  xy: 22, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+Microphone_h_std_fx16_1_1_5_0.png
+  rotate: false
+  xy: 72, 18
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+Microphone_h_std_fx16_1_1_6_0.png
+  rotate: false
+  xy: 2, 16
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1

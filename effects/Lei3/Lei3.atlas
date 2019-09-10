@@ -1,0 +1,62 @@
+
+Lei3.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Lei3_h_std_fx76_1_1_0_0.png
+  rotate: false
+  xy: 167, 13
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Lei3_h_std_fx76_1_1_1_0.png
+  rotate: false
+  xy: 136, 3
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Lei3_h_std_fx76_1_1_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Lei3_h_std_fx76_1_1_3_0.png
+  rotate: false
+  xy: 36, 3
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+Lei3_h_std_fx76_1_1_4_0.png
+  rotate: false
+  xy: 71, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+Lei3_h_std_fx76_1_1_5_0.png
+  rotate: false
+  xy: 105, 3
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Lei3_h_std_fx76_1_1_6_0.png
+  rotate: false
+  xy: 197, 13
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+Lei3_h_std_fx76_1_1_7_0.png
+  rotate: false
+  xy: 227, 16
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
