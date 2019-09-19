@@ -1,0 +1,909 @@
+
+demonmonkey.png
+size: 4096,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+demonmonkey_demonmonkey_64_a_0_0.png
+  rotate: false
+  xy: 2709, 76
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_100.png
+  rotate: false
+  xy: 2881, 80
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_1000.png
+  rotate: false
+  xy: 2601, 79
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_101.png
+  rotate: false
+  xy: 961, 78
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_102.png
+  rotate: false
+  xy: 913, 76
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_103.png
+  rotate: false
+  xy: 2159, 79
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_1100.png
+  rotate: false
+  xy: 2637, 79
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_2500.png
+  rotate: false
+  xy: 3139, 93
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_2501.png
+  rotate: false
+  xy: 3205, 92
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_2502.png
+  rotate: false
+  xy: 3874, 93
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_2503.png
+  rotate: false
+  xy: 3172, 92
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_300.png
+  rotate: false
+  xy: 2673, 76
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_301.png
+  rotate: false
+  xy: 2745, 76
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_400.png
+  rotate: false
+  xy: 566, 16
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_0_401.png
+  rotate: false
+  xy: 2848, 76
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_0.png
+  rotate: false
+  xy: 1158, 69
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_100.png
+  rotate: false
+  xy: 821, 69
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_1000.png
+  rotate: false
+  xy: 2126, 72
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_101.png
+  rotate: false
+  xy: 399, 72
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_102.png
+  rotate: false
+  xy: 201, 67
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_103.png
+  rotate: false
+  xy: 352, 69
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_1100.png
+  rotate: false
+  xy: 2093, 72
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_200.png
+  rotate: false
+  xy: 1194, 69
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_2500.png
+  rotate: false
+  xy: 2989, 85
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_2501.png
+  rotate: false
+  xy: 2917, 84
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_2502.png
+  rotate: false
+  xy: 3025, 85
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_2503.png
+  rotate: false
+  xy: 2953, 84
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_300.png
+  rotate: false
+  xy: 1265, 69
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_1_301.png
+  rotate: false
+  xy: 1230, 69
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_0.png
+  rotate: false
+  xy: 1845, 65
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_100.png
+  rotate: false
+  xy: 622, 65
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1000.png
+  rotate: false
+  xy: 1541, 69
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_101.png
+  rotate: false
+  xy: 2, 2
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_102.png
+  rotate: false
+  xy: 92, 2
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_103.png
+  rotate: false
+  xy: 580, 68
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1100.png
+  rotate: false
+  xy: 1439, 69
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1200.png
+  rotate: false
+  xy: 146, 67
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1201.png
+  rotate: false
+  xy: 56, 66
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1300.png
+  rotate: false
+  xy: 2468, 94
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1301.png
+  rotate: false
+  xy: 2515, 94
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1400.png
+  rotate: false
+  xy: 345, 2
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1401.png
+  rotate: false
+  xy: 703, 65
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1402.png
+  rotate: false
+  xy: 2, 65
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1403.png
+  rotate: false
+  xy: 743, 65
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1404.png
+  rotate: false
+  xy: 305, 8
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1405.png
+  rotate: false
+  xy: 2240, 81
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1406.png
+  rotate: false
+  xy: 3099, 94
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1500.png
+  rotate: false
+  xy: 3061, 87
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1501.png
+  rotate: false
+  xy: 2199, 81
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1600.png
+  rotate: false
+  xy: 1609, 70
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1601.png
+  rotate: false
+  xy: 144, 2
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1602.png
+  rotate: false
+  xy: 111, 66
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1603.png
+  rotate: false
+  xy: 1084, 69
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1604.png
+  rotate: false
+  xy: 1300, 70
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1700.png
+  rotate: false
+  xy: 1745, 70
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1800.png
+  rotate: false
+  xy: 1643, 70
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_1900.png
+  rotate: false
+  xy: 1005, 74
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_200.png
+  rotate: false
+  xy: 1941, 65
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2000.png
+  rotate: false
+  xy: 2372, 95
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2001.png
+  rotate: false
+  xy: 2420, 95
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2100.png
+  rotate: false
+  xy: 448, 69
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2101.png
+  rotate: false
+  xy: 538, 69
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2102.png
+  rotate: false
+  xy: 256, 67
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2103.png
+  rotate: false
+  xy: 863, 78
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2104.png
+  rotate: false
+  xy: 2281, 86
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2105.png
+  rotate: false
+  xy: 2324, 93
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2200.png
+  rotate: false
+  xy: 2561, 83
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2201.png
+  rotate: false
+  xy: 487, 11
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2300.png
+  rotate: false
+  xy: 305, 68
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2301.png
+  rotate: false
+  xy: 224, 7
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2302.png
+  rotate: false
+  xy: 448, 8
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2303.png
+  rotate: false
+  xy: 47, 2
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2304.png
+  rotate: false
+  xy: 181, 4
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2305.png
+  rotate: false
+  xy: 1046, 68
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2400.png
+  rotate: false
+  xy: 783, 65
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2401.png
+  rotate: false
+  xy: 663, 65
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2500.png
+  rotate: false
+  xy: 3238, 84
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2501.png
+  rotate: false
+  xy: 3270, 83
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2502.png
+  rotate: false
+  xy: 3334, 84
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_2503.png
+  rotate: false
+  xy: 3302, 83
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_300.png
+  rotate: false
+  xy: 415, 2
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_301.png
+  rotate: false
+  xy: 1909, 65
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_400.png
+  rotate: false
+  xy: 1877, 65
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_401.png
+  rotate: false
+  xy: 382, 2
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_500.png
+  rotate: false
+  xy: 493, 69
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_501.png
+  rotate: false
+  xy: 527, 10
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_502.png
+  rotate: false
+  xy: 1336, 69
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_503.png
+  rotate: false
+  xy: 1507, 69
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_504.png
+  rotate: false
+  xy: 1812, 69
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_505.png
+  rotate: false
+  xy: 1779, 69
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_506.png
+  rotate: false
+  xy: 1473, 69
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_600.png
+  rotate: false
+  xy: 1677, 70
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_700.png
+  rotate: false
+  xy: 1575, 70
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_800.png
+  rotate: false
+  xy: 269, 7
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_801.png
+  rotate: false
+  xy: 1121, 70
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_2_900.png
+  rotate: false
+  xy: 1711, 70
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_0.png
+  rotate: false
+  xy: 1973, 67
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_100.png
+  rotate: false
+  xy: 3510, 67
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_1000.png
+  rotate: false
+  xy: 1405, 68
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_101.png
+  rotate: false
+  xy: 3482, 64
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_102.png
+  rotate: false
+  xy: 3538, 69
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_103.png
+  rotate: false
+  xy: 3454, 68
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_1100.png
+  rotate: false
+  xy: 1371, 68
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_200.png
+  rotate: false
+  xy: 2063, 67
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_2500.png
+  rotate: false
+  xy: 3734, 84
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_2501.png
+  rotate: false
+  xy: 3678, 83
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_2502.png
+  rotate: false
+  xy: 3706, 84
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_2503.png
+  rotate: false
+  xy: 3650, 83
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_300.png
+  rotate: false
+  xy: 2003, 67
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_3_301.png
+  rotate: false
+  xy: 2033, 67
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_100.png
+  rotate: false
+  xy: 3426, 71
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_1000.png
+  rotate: false
+  xy: 2814, 74
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_101.png
+  rotate: false
+  xy: 3566, 74
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_102.png
+  rotate: false
+  xy: 3622, 79
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_103.png
+  rotate: false
+  xy: 3594, 76
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_1100.png
+  rotate: false
+  xy: 2780, 74
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_2500.png
+  rotate: false
+  xy: 3846, 88
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_2501.png
+  rotate: false
+  xy: 3790, 87
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_2502.png
+  rotate: false
+  xy: 3818, 88
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_2503.png
+  rotate: false
+  xy: 3762, 87
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_300.png
+  rotate: false
+  xy: 3396, 71
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_a_7_301.png
+  rotate: false
+  xy: 3366, 71
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_b_0_2600.png
+  rotate: false
+  xy: 3962, 106
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_b_0_2700.png
+  rotate: false
+  xy: 3907, 91
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_b_0_2800.png
+  rotate: false
+  xy: 3940, 106
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_b_0_2900.png
+  rotate: false
+  xy: 4006, 106
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_b_0_3000.png
+  rotate: false
+  xy: 3984, 106
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_b_0_3100.png
+  rotate: false
+  xy: 4028, 107
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+demonmonkey_demonmonkey_64_sd_0_0.png
+  rotate: false
+  xy: 3907, 113
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1

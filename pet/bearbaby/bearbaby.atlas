@@ -1,0 +1,636 @@
+
+bearbaby.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bearbaby_bearbaby_64_a_0_100.png
+  rotate: false
+  xy: 1192, 33
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_1001.png
+  rotate: false
+  xy: 1222, 32
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_1002.png
+  rotate: false
+  xy: 183, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_101.png
+  rotate: false
+  xy: 246, 29
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_102.png
+  rotate: false
+  xy: 179, 34
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_103.png
+  rotate: false
+  xy: 1586, 38
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_200.png
+  rotate: false
+  xy: 215, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_300.png
+  rotate: false
+  xy: 308, 32
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_301.png
+  rotate: false
+  xy: 277, 32
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_600.png
+  rotate: false
+  xy: 409, 7
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_700.png
+  rotate: false
+  xy: 1132, 33
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_701.png
+  rotate: false
+  xy: 1162, 33
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_800.png
+  rotate: false
+  xy: 111, 36
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_0_801.png
+  rotate: false
+  xy: 74, 36
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_100.png
+  rotate: false
+  xy: 1554, 39
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_1000.png
+  rotate: false
+  xy: 687, 38
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_1001.png
+  rotate: false
+  xy: 885, 38
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_1002.png
+  rotate: false
+  xy: 621, 37
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_101.png
+  rotate: false
+  xy: 339, 35
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_102.png
+  rotate: false
+  xy: 441, 39
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_103.png
+  rotate: false
+  xy: 1455, 40
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_200.png
+  rotate: false
+  xy: 852, 38
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_300.png
+  rotate: false
+  xy: 786, 38
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_301.png
+  rotate: false
+  xy: 819, 38
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_600.png
+  rotate: false
+  xy: 373, 35
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_700.png
+  rotate: false
+  xy: 214, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_701.png
+  rotate: false
+  xy: 280, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_800.png
+  rotate: false
+  xy: 513, 42
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_801.png
+  rotate: false
+  xy: 550, 42
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_901.png
+  rotate: false
+  xy: 587, 38
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_902.png
+  rotate: false
+  xy: 406, 38
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_903.png
+  rotate: false
+  xy: 654, 37
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_904.png
+  rotate: false
+  xy: 246, 2
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_905.png
+  rotate: false
+  xy: 753, 38
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_906.png
+  rotate: false
+  xy: 720, 38
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_907.png
+  rotate: false
+  xy: 1422, 40
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_908.png
+  rotate: false
+  xy: 74, 2
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_909.png
+  rotate: false
+  xy: 1250, 25
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_910.png
+  rotate: false
+  xy: 1276, 25
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_1_911.png
+  rotate: false
+  xy: 1301, 25
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_100.png
+  rotate: false
+  xy: 1645, 39
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_1000.png
+  rotate: false
+  xy: 1042, 36
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_1001.png
+  rotate: false
+  xy: 980, 37
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_1002.png
+  rotate: false
+  xy: 949, 37
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_101.png
+  rotate: false
+  xy: 148, 36
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_102.png
+  rotate: false
+  xy: 477, 40
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_103.png
+  rotate: false
+  xy: 917, 37
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_1100.png
+  rotate: false
+  xy: 1521, 42
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_1101.png
+  rotate: false
+  xy: 1488, 41
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_200.png
+  rotate: false
+  xy: 1326, 36
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_300.png
+  rotate: false
+  xy: 1102, 36
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_301.png
+  rotate: false
+  xy: 1072, 36
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_400.png
+  rotate: false
+  xy: 1356, 40
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_401.png
+  rotate: false
+  xy: 1389, 40
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_500.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_501.png
+  rotate: false
+  xy: 2, 33
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_502.png
+  rotate: false
+  xy: 151, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_503.png
+  rotate: false
+  xy: 380, 3
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_600.png
+  rotate: false
+  xy: 1011, 36
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_700.png
+  rotate: false
+  xy: 38, 7
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_2_701.png
+  rotate: false
+  xy: 38, 35
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_100.png
+  rotate: false
+  xy: 1936, 40
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_1000.png
+  rotate: false
+  xy: 1892, 38
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_1001.png
+  rotate: false
+  xy: 2024, 36
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_1002.png
+  rotate: false
+  xy: 519, 14
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_101.png
+  rotate: false
+  xy: 1870, 38
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_102.png
+  rotate: false
+  xy: 1980, 41
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_103.png
+  rotate: false
+  xy: 1914, 39
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_200.png
+  rotate: false
+  xy: 1804, 38
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_300.png
+  rotate: false
+  xy: 1826, 38
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_301.png
+  rotate: false
+  xy: 1848, 38
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_600.png
+  rotate: false
+  xy: 1617, 38
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_700.png
+  rotate: false
+  xy: 1702, 35
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_701.png
+  rotate: false
+  xy: 1674, 35
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_800.png
+  rotate: false
+  xy: 2002, 41
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_3_801.png
+  rotate: false
+  xy: 1958, 40
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_100.png
+  rotate: false
+  xy: 499, 11
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_1000.png
+  rotate: false
+  xy: 479, 8
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_1001.png
+  rotate: false
+  xy: 107, 2
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_1002.png
+  rotate: false
+  xy: 129, 2
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_101.png
+  rotate: false
+  xy: 360, 2
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_102.png
+  rotate: false
+  xy: 439, 2
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_103.png
+  rotate: false
+  xy: 540, 14
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_1100.png
+  rotate: false
+  xy: 1779, 37
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_1101.png
+  rotate: false
+  xy: 1754, 37
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_300.png
+  rotate: false
+  xy: 459, 2
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_600.png
+  rotate: false
+  xy: 336, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_700.png
+  rotate: false
+  xy: 1730, 33
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_a_7_701.png
+  rotate: false
+  xy: 312, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+bearbaby_bearbaby_64_sd_0_0.png
+  rotate: false
+  xy: 560, 28
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1

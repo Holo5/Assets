@@ -1,0 +1,622 @@
+
+velociraptor.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+velociraptor_velociraptor_64_a_0_0.png
+  rotate: false
+  xy: 237, 84
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_0_100.png
+  rotate: false
+  xy: 76, 2
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_0_1600.png
+  rotate: false
+  xy: 302, 84
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_0_1601.png
+  rotate: false
+  xy: 411, 3
+  size: 63, 81
+  orig: 63, 81
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_0_1602.png
+  rotate: false
+  xy: 1295, 92
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_0_1700.png
+  rotate: false
+  xy: 476, 32
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_0_1701.png
+  rotate: false
+  xy: 617, 23
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_0_200.png
+  rotate: false
+  xy: 367, 86
+  size: 63, 92
+  orig: 63, 92
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_0_900.png
+  rotate: false
+  xy: 1365, 173
+  size: 73, 81
+  orig: 73, 81
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_0_901.png
+  rotate: false
+  xy: 1294, 169
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_0_902.png
+  rotate: false
+  xy: 2, 16
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_0_903.png
+  rotate: false
+  xy: 165, 87
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_1_0.png
+  rotate: false
+  xy: 645, 170
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_1_100.png
+  rotate: false
+  xy: 795, 167
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_1_200.png
+  rotate: false
+  xy: 720, 170
+  size: 73, 84
+  orig: 73, 84
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_1_900.png
+  rotate: false
+  xy: 2, 180
+  size: 87, 74
+  orig: 87, 74
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_1_901.png
+  rotate: false
+  xy: 321, 180
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_1_902.png
+  rotate: false
+  xy: 2, 105
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_1_903.png
+  rotate: false
+  xy: 404, 184
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_0.png
+  rotate: false
+  xy: 868, 166
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_100.png
+  rotate: false
+  xy: 1223, 166
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1000.png
+  rotate: false
+  xy: 1895, 132
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1101.png
+  rotate: false
+  xy: 1909, 188
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1202.png
+  rotate: false
+  xy: 997, 35
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1203.png
+  rotate: false
+  xy: 1749, 126
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1204.png
+  rotate: false
+  xy: 1070, 38
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1205.png
+  rotate: false
+  xy: 1440, 124
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1400.png
+  rotate: false
+  xy: 1079, 94
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1401.png
+  rotate: false
+  xy: 1151, 96
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1600.png
+  rotate: false
+  xy: 939, 166
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1601.png
+  rotate: false
+  xy: 1223, 97
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1800.png
+  rotate: false
+  xy: 852, 33
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1900.png
+  rotate: false
+  xy: 1081, 166
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_1901.png
+  rotate: false
+  xy: 1152, 166
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_200.png
+  rotate: false
+  xy: 1010, 166
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2000.png
+  rotate: false
+  xy: 143, 16
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2001.png
+  rotate: false
+  xy: 470, 108
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2002.png
+  rotate: false
+  xy: 1596, 181
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2003.png
+  rotate: false
+  xy: 1440, 180
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2004.png
+  rotate: false
+  xy: 1518, 181
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2005.png
+  rotate: false
+  xy: 626, 97
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2100.png
+  rotate: false
+  xy: 932, 95
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2101.png
+  rotate: false
+  xy: 547, 109
+  size: 77, 66
+  orig: 77, 66
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2102.png
+  rotate: false
+  xy: 237, 178
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2103.png
+  rotate: false
+  xy: 488, 181
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2200.png
+  rotate: false
+  xy: 164, 166
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_2201.png
+  rotate: false
+  xy: 91, 165
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_300.png
+  rotate: false
+  xy: 1006, 95
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_301.png
+  rotate: false
+  xy: 779, 31
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_302.png
+  rotate: false
+  xy: 924, 35
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_303.png
+  rotate: false
+  xy: 1518, 129
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_304.png
+  rotate: false
+  xy: 1146, 2
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_305.png
+  rotate: false
+  xy: 1827, 145
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_400.png
+  rotate: false
+  xy: 1988, 41
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_500.png
+  rotate: false
+  xy: 1151, 46
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_501.png
+  rotate: false
+  xy: 1434, 70
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_502.png
+  rotate: false
+  xy: 1827, 188
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_600.png
+  rotate: false
+  xy: 780, 96
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_700.png
+  rotate: false
+  xy: 1889, 62
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_701.png
+  rotate: false
+  xy: 1822, 76
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_800.png
+  rotate: false
+  xy: 719, 30
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_801.png
+  rotate: false
+  xy: 857, 96
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_802.png
+  rotate: false
+  xy: 703, 99
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_803.png
+  rotate: false
+  xy: 222, 13
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_900.png
+  rotate: false
+  xy: 567, 177
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_901.png
+  rotate: false
+  xy: 1674, 178
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_902.png
+  rotate: false
+  xy: 1749, 184
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_2_903.png
+  rotate: false
+  xy: 91, 94
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_3_0.png
+  rotate: false
+  xy: 541, 22
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_3_100.png
+  rotate: false
+  xy: 1991, 170
+  size: 38, 84
+  orig: 38, 84
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_3_200.png
+  rotate: false
+  xy: 1396, 87
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_3_900.png
+  rotate: false
+  xy: 579, 18
+  size: 36, 89
+  orig: 36, 89
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_3_901.png
+  rotate: false
+  xy: 1584, 98
+  size: 36, 81
+  orig: 36, 81
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_3_902.png
+  rotate: false
+  xy: 432, 93
+  size: 36, 89
+  orig: 36, 89
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_3_903.png
+  rotate: false
+  xy: 373, 2
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_7_100.png
+  rotate: false
+  xy: 682, 8
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_7_200.png
+  rotate: false
+  xy: 1360, 80
+  size: 34, 87
+  orig: 34, 87
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_7_900.png
+  rotate: false
+  xy: 1952, 46
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_7_901.png
+  rotate: false
+  xy: 301, 2
+  size: 34, 80
+  orig: 34, 80
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_7_902.png
+  rotate: false
+  xy: 1988, 84
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_a_7_903.png
+  rotate: false
+  xy: 337, 3
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_b_0_2300.png
+  rotate: false
+  xy: 1963, 166
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_b_0_2400.png
+  rotate: false
+  xy: 1963, 144
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_b_0_2500.png
+  rotate: false
+  xy: 719, 8
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_b_0_2600.png
+  rotate: false
+  xy: 741, 8
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_b_0_2700.png
+  rotate: false
+  xy: 1622, 159
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_b_0_2800.png
+  rotate: false
+  xy: 520, 11
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+velociraptor_velociraptor_64_sd_0_0.png
+  rotate: false
+  xy: 476, 9
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1

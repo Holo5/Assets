@@ -1,0 +1,2582 @@
+
+horse.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+horse_horse_64_a_0_1000.png
+  rotate: false
+  xy: 2, 24
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_0_1100.png
+  rotate: false
+  xy: 1506, 203
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_0_200.png
+  rotate: false
+  xy: 658, 137
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_0_300.png
+  rotate: false
+  xy: 543, 137
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_0_301.png
+  rotate: false
+  xy: 1101, 97
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_0_302.png
+  rotate: false
+  xy: 557, 5
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_0_303.png
+  rotate: false
+  xy: 4004, 190
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_0_500.png
+  rotate: false
+  xy: 3072, 201
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_0_601.png
+  rotate: false
+  xy: 795, 74
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_0_700.png
+  rotate: false
+  xy: 3420, 190
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_0_701.png
+  rotate: false
+  xy: 709, 139
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_1_0.png
+  rotate: false
+  xy: 893, 9
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_1_300.png
+  rotate: false
+  xy: 873, 142
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_1_301.png
+  rotate: false
+  xy: 601, 137
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_1_302.png
+  rotate: false
+  xy: 461, 2
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_1_303.png
+  rotate: false
+  xy: 372, 140
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_1_700.png
+  rotate: false
+  xy: 483, 141
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_1_701.png
+  rotate: false
+  xy: 743, 74
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_1000.png
+  rotate: false
+  xy: 1795, 196
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_1100.png
+  rotate: false
+  xy: 1727, 190
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_300.png
+  rotate: false
+  xy: 317, 134
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_301.png
+  rotate: false
+  xy: 3945, 186
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_302.png
+  rotate: false
+  xy: 765, 139
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_303.png
+  rotate: false
+  xy: 890, 74
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_400.png
+  rotate: false
+  xy: 1581, 158
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_500.png
+  rotate: false
+  xy: 3206, 205
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_600.png
+  rotate: false
+  xy: 219, 124
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_601.png
+  rotate: false
+  xy: 432, 135
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_700.png
+  rotate: false
+  xy: 845, 4
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_701.png
+  rotate: false
+  xy: 928, 142
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_801.png
+  rotate: false
+  xy: 447, 66
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_802.png
+  rotate: false
+  xy: 1489, 158
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_900.png
+  rotate: false
+  xy: 1361, 119
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_2_901.png
+  rotate: false
+  xy: 1051, 91
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_3_0.png
+  rotate: false
+  xy: 340, 3
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_3_300.png
+  rotate: false
+  xy: 687, 2
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_3_301.png
+  rotate: false
+  xy: 1023, 5
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_3_302.png
+  rotate: false
+  xy: 722, 2
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_3_303.png
+  rotate: false
+  xy: 1058, 20
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_3_700.png
+  rotate: false
+  xy: 1419, 143
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_3_701.png
+  rotate: false
+  xy: 981, 76
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_7_200.png
+  rotate: false
+  xy: 369, 69
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_7_300.png
+  rotate: false
+  xy: 1011, 142
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_7_301.png
+  rotate: false
+  xy: 1128, 32
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_7_302.png
+  rotate: false
+  xy: 976, 142
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_7_303.png
+  rotate: false
+  xy: 1093, 26
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_7_700.png
+  rotate: false
+  xy: 1454, 148
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_a_7_701.png
+  rotate: false
+  xy: 1016, 76
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_0_0.png
+  rotate: false
+  xy: 1456, 53
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_0_100.png
+  rotate: false
+  xy: 1456, 6
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_0_1100.png
+  rotate: false
+  xy: 1233, 19
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_0_302.png
+  rotate: false
+  xy: 1502, 63
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_0_601.png
+  rotate: false
+  xy: 1856, 32
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_0_602.png
+  rotate: false
+  xy: 1625, 115
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_0_603.png
+  rotate: false
+  xy: 1788, 22
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_0_604.png
+  rotate: false
+  xy: 1824, 69
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_1_100.png
+  rotate: false
+  xy: 1503, 16
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_1_300.png
+  rotate: false
+  xy: 1570, 18
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_1_301.png
+  rotate: false
+  xy: 1634, 24
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_1_302.png
+  rotate: false
+  xy: 1602, 18
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_1_303.png
+  rotate: false
+  xy: 1756, 22
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_100.png
+  rotate: false
+  xy: 1421, 51
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_1000.png
+  rotate: false
+  xy: 1265, 23
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_1100.png
+  rotate: false
+  xy: 1534, 65
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_300.png
+  rotate: false
+  xy: 1545, 111
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_301.png
+  rotate: false
+  xy: 1335, 23
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_302.png
+  rotate: false
+  xy: 1545, 157
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_303.png
+  rotate: false
+  xy: 1300, 23
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_400.png
+  rotate: false
+  xy: 1535, 19
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_601.png
+  rotate: false
+  xy: 613, 18
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_602.png
+  rotate: false
+  xy: 4066, 210
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_603.png
+  rotate: false
+  xy: 1198, 2
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_604.png
+  rotate: false
+  xy: 1163, 2
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_801.png
+  rotate: false
+  xy: 1691, 64
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_802.png
+  rotate: false
+  xy: 1745, 69
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_900.png
+  rotate: false
+  xy: 1419, 97
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_901.png
+  rotate: false
+  xy: 1351, 69
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_2_902.png
+  rotate: false
+  xy: 1386, 42
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_3_100.png
+  rotate: false
+  xy: 1623, 71
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_3_301.png
+  rotate: false
+  xy: 1856, 75
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_3_302.png
+  rotate: false
+  xy: 1725, 20
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_7_0.png
+  rotate: false
+  xy: 2256, 15
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_7_300.png
+  rotate: false
+  xy: 2145, 108
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_7_301.png
+  rotate: false
+  xy: 2176, 108
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_7_302.png
+  rotate: false
+  xy: 2277, 134
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+horse_horse_64_b_7_303.png
+  rotate: false
+  xy: 2114, 108
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_0_102.png
+  rotate: false
+  xy: 1946, 32
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_0_103.png
+  rotate: false
+  xy: 3489, 145
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_0_104.png
+  rotate: false
+  xy: 2221, 75
+  size: 11, 44
+  orig: 11, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_0_107.png
+  rotate: false
+  xy: 254, 69
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_1000_102.png
+  rotate: false
+  xy: 1938, 122
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_1000_104.png
+  rotate: false
+  xy: 3274, 190
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_1000_107.png
+  rotate: false
+  xy: 194, 66
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_1100_103.png
+  rotate: false
+  xy: 1756, 2
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_1100_107.png
+  rotate: false
+  xy: 2363, 202
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_201.png
+  rotate: false
+  xy: 2258, 122
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_201_102.png
+  rotate: false
+  xy: 1820, 22
+  size: 12, 45
+  orig: 12, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_201_103.png
+  rotate: false
+  xy: 2309, 100
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_201_104.png
+  rotate: false
+  xy: 2074, 18
+  size: 10, 44
+  orig: 10, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_201_107.png
+  rotate: false
+  xy: 1360, 168
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_202.png
+  rotate: false
+  xy: 2175, 26
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_202_102.png
+  rotate: false
+  xy: 1370, 22
+  size: 14, 45
+  orig: 14, 45
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_202_103.png
+  rotate: false
+  xy: 2309, 19
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_202_104.png
+  rotate: false
+  xy: 2075, 65
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_202_107.png
+  rotate: false
+  xy: 1202, 115
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_203.png
+  rotate: false
+  xy: 4066, 148
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_203_101.png
+  rotate: false
+  xy: 2326, 161
+  size: 16, 39
+  orig: 16, 39
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_203_102.png
+  rotate: false
+  xy: 1930, 30
+  size: 14, 43
+  orig: 14, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_203_103.png
+  rotate: false
+  xy: 2155, 2
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_203_104.png
+  rotate: false
+  xy: 1386, 20
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_203_107.png
+  rotate: false
+  xy: 1752, 145
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_204.png
+  rotate: false
+  xy: 2362, 166
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_204_102.png
+  rotate: false
+  xy: 1887, 75
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_204_103.png
+  rotate: false
+  xy: 2135, 25
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_204_104.png
+  rotate: false
+  xy: 2154, 62
+  size: 12, 44
+  orig: 12, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_204_107.png
+  rotate: false
+  xy: 73, 66
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_205.png
+  rotate: false
+  xy: 4066, 176
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_205_101.png
+  rotate: false
+  xy: 2344, 161
+  size: 16, 39
+  orig: 16, 39
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_205_102.png
+  rotate: false
+  xy: 1524, 113
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_205_103.png
+  rotate: false
+  xy: 3419, 148
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_205_104.png
+  rotate: false
+  xy: 2091, 65
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_205_107.png
+  rotate: false
+  xy: 3139, 204
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_300_107.png
+  rotate: false
+  xy: 1253, 115
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_301_107.png
+  rotate: false
+  xy: 1195, 168
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_302_107.png
+  rotate: false
+  xy: 1257, 167
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_303_107.png
+  rotate: false
+  xy: 135, 66
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_0_500_107.png
+  rotate: false
+  xy: 2291, 202
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_0.png
+  rotate: false
+  xy: 2155, 26
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_0_102.png
+  rotate: false
+  xy: 1981, 33
+  size: 15, 43
+  orig: 15, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_0_103.png
+  rotate: false
+  xy: 3455, 153
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_0_104.png
+  rotate: false
+  xy: 2059, 18
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_0_107.png
+  rotate: false
+  xy: 138, 2
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_200_101.png
+  rotate: false
+  xy: 1488, 51
+  size: 12, 47
+  orig: 12, 47
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_201_101.png
+  rotate: false
+  xy: 1780, 69
+  size: 11, 44
+  orig: 11, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_201_102.png
+  rotate: false
+  xy: 2182, 63
+  size: 12, 43
+  orig: 12, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_201_103.png
+  rotate: false
+  xy: 2271, 41
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_201_104.png
+  rotate: false
+  xy: 2033, 64
+  size: 10, 43
+  orig: 10, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_201_105.png
+  rotate: false
+  xy: 2428, 166
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_201_107.png
+  rotate: false
+  xy: 244, 2
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_202_101.png
+  rotate: false
+  xy: 2271, 160
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_202_102.png
+  rotate: false
+  xy: 2234, 77
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_202_103.png
+  rotate: false
+  xy: 3472, 145
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_202_104.png
+  rotate: false
+  xy: 2100, 21
+  size: 14, 41
+  orig: 14, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_202_105.png
+  rotate: false
+  xy: 3538, 144
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_202_107.png
+  rotate: false
+  xy: 697, 74
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_203_101.png
+  rotate: false
+  xy: 2123, 64
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_203_102.png
+  rotate: false
+  xy: 2086, 20
+  size: 12, 43
+  orig: 12, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_203_103.png
+  rotate: false
+  xy: 3380, 193
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_203_104.png
+  rotate: false
+  xy: 1998, 40
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_203_105.png
+  rotate: false
+  xy: 1947, 6
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_203_107.png
+  rotate: false
+  xy: 1154, 103
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_204_101.png
+  rotate: false
+  xy: 1909, 75
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_204_102.png
+  rotate: false
+  xy: 2013, 66
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_204_103.png
+  rotate: false
+  xy: 2252, 41
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_204_104.png
+  rotate: false
+  xy: 2219, 121
+  size: 14, 43
+  orig: 14, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_204_106.png
+  rotate: false
+  xy: 2307, 55
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_204_107.png
+  rotate: false
+  xy: 317, 69
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_205.png
+  rotate: false
+  xy: 2037, 5
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_205_101.png
+  rotate: false
+  xy: 2235, 158
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_205_102.png
+  rotate: false
+  xy: 2013, 109
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_205_103.png
+  rotate: false
+  xy: 1163, 49
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_205_104.png
+  rotate: false
+  xy: 2308, 159
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_205_107.png
+  rotate: false
+  xy: 818, 141
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_300_107.png
+  rotate: false
+  xy: 643, 74
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_301_107.png
+  rotate: false
+  xy: 1099, 156
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_302_107.png
+  rotate: false
+  xy: 1046, 152
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_1_303_107.png
+  rotate: false
+  xy: 191, 2
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_0_102.png
+  rotate: false
+  xy: 2253, 158
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_0_104.png
+  rotate: false
+  xy: 2248, 78
+  size: 13, 42
+  orig: 13, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_0_107.png
+  rotate: false
+  xy: 3664, 179
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_1000_107.png
+  rotate: false
+  xy: 79, 2
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_1100_107.png
+  rotate: false
+  xy: 1654, 191
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_200.png
+  rotate: false
+  xy: 2288, 55
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_200_101.png
+  rotate: false
+  xy: 1488, 2
+  size: 13, 47
+  orig: 13, 47
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_201.png
+  rotate: false
+  xy: 2235, 122
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_201_101.png
+  rotate: false
+  xy: 1963, 32
+  size: 16, 44
+  orig: 16, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_201_102.png
+  rotate: false
+  xy: 1834, 24
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_201_103.png
+  rotate: false
+  xy: 3506, 145
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_201_104.png
+  rotate: false
+  xy: 2289, 160
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_201_107.png
+  rotate: false
+  xy: 3544, 179
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_202.png
+  rotate: false
+  xy: 1914, 119
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_202_101.png
+  rotate: false
+  xy: 2077, 109
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_202_102.png
+  rotate: false
+  xy: 1666, 26
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_202_103.png
+  rotate: false
+  xy: 1998, 2
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_202_104.png
+  rotate: false
+  xy: 4042, 151
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_202_107.png
+  rotate: false
+  xy: 3482, 182
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_203_101.png
+  rotate: false
+  xy: 2034, 111
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_203_102.png
+  rotate: false
+  xy: 1970, 112
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_203_103.png
+  rotate: false
+  xy: 1131, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_203_104.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_203_106.png
+  rotate: false
+  xy: 1329, 4
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_203_107.png
+  rotate: false
+  xy: 73, 120
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_204_101.png
+  rotate: false
+  xy: 2208, 74
+  size: 11, 44
+  orig: 11, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_204_102.png
+  rotate: false
+  xy: 2263, 78
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_204_103.png
+  rotate: false
+  xy: 1823, 116
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_204_104.png
+  rotate: false
+  xy: 2223, 33
+  size: 10, 40
+  orig: 10, 40
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_204_107.png
+  rotate: false
+  xy: 3890, 177
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_205.png
+  rotate: false
+  xy: 2018, 2
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_205_101.png
+  rotate: false
+  xy: 2168, 62
+  size: 12, 44
+  orig: 12, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_205_102.png
+  rotate: false
+  xy: 2308, 137
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_205_103.png
+  rotate: false
+  xy: 3600, 144
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_205_104.png
+  rotate: false
+  xy: 1489, 203
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_300_107.png
+  rotate: false
+  xy: 3721, 179
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_301_107.png
+  rotate: false
+  xy: 3833, 181
+  size: 55, 73
+  orig: 55, 73
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_302_107.png
+  rotate: false
+  xy: 3777, 180
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_303_107.png
+  rotate: false
+  xy: 3605, 178
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_400_101.png
+  rotate: false
+  xy: 2116, 2
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_400_102.png
+  rotate: false
+  xy: 613, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_400_103.png
+  rotate: false
+  xy: 1819, 7
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_400_104.png
+  rotate: false
+  xy: 70, 33
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_400_106.png
+  rotate: false
+  xy: 3988, 149
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_400_107.png
+  rotate: false
+  xy: 543, 203
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_500_101.png
+  rotate: false
+  xy: 3344, 170
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_500_102.png
+  rotate: false
+  xy: 2506, 181
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_500_107.png
+  rotate: false
+  xy: 149, 124
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_801_103.png
+  rotate: false
+  xy: 3523, 145
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_802_103.png
+  rotate: false
+  xy: 3584, 146
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_802_104.png
+  rotate: false
+  xy: 70, 48
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_803.png
+  rotate: false
+  xy: 3377, 160
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_2_900_104.png
+  rotate: false
+  xy: 3615, 151
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_3_0_101.png
+  rotate: false
+  xy: 307, 196
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_3_0_103.png
+  rotate: false
+  xy: 2210, 31
+  size: 11, 41
+  orig: 11, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_3_0_104.png
+  rotate: false
+  xy: 1569, 65
+  size: 10, 44
+  orig: 10, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_3_201_105.png
+  rotate: false
+  xy: 3437, 153
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_3_202.png
+  rotate: false
+  xy: 2288, 24
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_3_203_101.png
+  rotate: false
+  xy: 3348, 201
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_3_203_106.png
+  rotate: false
+  xy: 2534, 188
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_3_204.png
+  rotate: false
+  xy: 3569, 143
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_3_205_103.png
+  rotate: false
+  xy: 2277, 95
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_3_205_106.png
+  rotate: false
+  xy: 2384, 167
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_0.png
+  rotate: false
+  xy: 2192, 25
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_0_101.png
+  rotate: false
+  xy: 2196, 62
+  size: 10, 44
+  orig: 10, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_0_102.png
+  rotate: false
+  xy: 2207, 120
+  size: 10, 44
+  orig: 10, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_201_101.png
+  rotate: false
+  xy: 2296, 91
+  size: 11, 41
+  orig: 11, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_201_102.png
+  rotate: false
+  xy: 1998, 66
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_201_103.png
+  rotate: false
+  xy: 1885, 32
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_201_104.png
+  rotate: false
+  xy: 1926, 75
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_201_106.png
+  rotate: false
+  xy: 3402, 183
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_202_101.png
+  rotate: false
+  xy: 1637, 158
+  size: 15, 39
+  orig: 15, 39
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_202_102.png
+  rotate: false
+  xy: 1726, 64
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_202_103.png
+  rotate: false
+  xy: 2116, 25
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_202_104.png
+  rotate: false
+  xy: 1992, 112
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_202_106.png
+  rotate: false
+  xy: 3398, 152
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_203_102.png
+  rotate: false
+  xy: 2139, 62
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_203_103.png
+  rotate: false
+  xy: 1290, 4
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_203_104.png
+  rotate: false
+  xy: 1093, 2
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_203_105.png
+  rotate: false
+  xy: 1787, 3
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_204_101.png
+  rotate: false
+  xy: 2235, 36
+  size: 15, 39
+  orig: 15, 39
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_204_102.png
+  rotate: false
+  xy: 2045, 64
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_204_103.png
+  rotate: false
+  xy: 2097, 109
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_204_104.png
+  rotate: false
+  xy: 2107, 64
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_204_107.png
+  rotate: false
+  xy: 3554, 143
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_205_102.png
+  rotate: false
+  xy: 2060, 64
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_205_104.png
+  rotate: false
+  xy: 2056, 110
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+horse_horse_64_c_7_205_105.png
+  rotate: false
+  xy: 2406, 167
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_0.png
+  rotate: false
+  xy: 2447, 179
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_0_101.png
+  rotate: false
+  xy: 1205, 66
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_0_102.png
+  rotate: false
+  xy: 1741, 115
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_0_103.png
+  rotate: false
+  xy: 2114, 134
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_0_104.png
+  rotate: false
+  xy: 3310, 180
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_0_106.png
+  rotate: false
+  xy: 499, 69
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_0_107.png
+  rotate: false
+  xy: 1348, 221
+  size: 81, 33
+  orig: 81, 33
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_1000_107.png
+  rotate: false
+  xy: 1266, 217
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_100_105.png
+  rotate: false
+  xy: 1253, 69
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_1100_106.png
+  rotate: false
+  xy: 296, 2
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_1100_107.png
+  rotate: false
+  xy: 2578, 208
+  size: 72, 46
+  orig: 72, 46
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_300_106.png
+  rotate: false
+  xy: 757, 3
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_300_107.png
+  rotate: false
+  xy: 1016, 215
+  size: 81, 39
+  orig: 81, 39
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_301_106.png
+  rotate: false
+  xy: 643, 2
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_301_107.png
+  rotate: false
+  xy: 1099, 217
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_302_106.png
+  rotate: false
+  xy: 846, 72
+  size: 42, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_302_107.png
+  rotate: false
+  xy: 1182, 219
+  size: 82, 35
+  orig: 82, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_303_106.png
+  rotate: false
+  xy: 801, 3
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_303_107.png
+  rotate: false
+  xy: 935, 211
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_500_106.png
+  rotate: false
+  xy: 1151, 157
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_500_107.png
+  rotate: false
+  xy: 3274, 213
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_601.png
+  rotate: false
+  xy: 2030, 40
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_601_101.png
+  rotate: false
+  xy: 4007, 154
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_601_102.png
+  rotate: false
+  xy: 1785, 115
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_601_103.png
+  rotate: false
+  xy: 1843, 119
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_601_104.png
+  rotate: false
+  xy: 1265, 2
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_601_105.png
+  rotate: false
+  xy: 2114, 166
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_601_106.png
+  rotate: false
+  xy: 1313, 115
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_0_601_107.png
+  rotate: false
+  xy: 307, 206
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_0.png
+  rotate: false
+  xy: 42, 2
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_0_101.png
+  rotate: false
+  xy: 1799, 146
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_0_102.png
+  rotate: false
+  xy: 3945, 157
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_0_103.png
+  rotate: false
+  xy: 2164, 166
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_0_104.png
+  rotate: false
+  xy: 1856, 2
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_0_105.png
+  rotate: false
+  xy: 1883, 153
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_0_106.png
+  rotate: false
+  xy: 983, 11
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_0_107.png
+  rotate: false
+  xy: 3348, 220
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_300_107.png
+  rotate: false
+  xy: 2433, 205
+  size: 70, 49
+  orig: 70, 49
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_301_107.png
+  rotate: false
+  xy: 2505, 207
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_302_107.png
+  rotate: false
+  xy: 2652, 206
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_1_303_107.png
+  rotate: false
+  xy: 2724, 205
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_0.png
+  rotate: false
+  xy: 1892, 2
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_0_102.png
+  rotate: false
+  xy: 2161, 134
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_0_103.png
+  rotate: false
+  xy: 1581, 120
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_0_104.png
+  rotate: false
+  xy: 1970, 78
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_0_105.png
+  rotate: false
+  xy: 1302, 69
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_0_106.png
+  rotate: false
+  xy: 938, 76
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_0_107.png
+  rotate: false
+  xy: 2009, 198
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_1000_106.png
+  rotate: false
+  xy: 418, 2
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_1000_107.png
+  rotate: false
+  xy: 1431, 214
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_1100_106.png
+  rotate: false
+  xy: 940, 11
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_1100_107.png
+  rotate: false
+  xy: 1865, 198
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_300_106.png
+  rotate: false
+  xy: 375, 3
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_300_107.png
+  rotate: false
+  xy: 2080, 198
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_301_107.png
+  rotate: false
+  xy: 1581, 199
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_302_106.png
+  rotate: false
+  xy: 404, 69
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_302_107.png
+  rotate: false
+  xy: 1937, 198
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_303_107.png
+  rotate: false
+  xy: 2150, 198
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_400_107.png
+  rotate: false
+  xy: 2935, 204
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_500_107.png
+  rotate: false
+  xy: 2866, 205
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_601.png
+  rotate: false
+  xy: 1386, 88
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_601_101.png
+  rotate: false
+  xy: 515, 2
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_601_102.png
+  rotate: false
+  xy: 1581, 65
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_601_103.png
+  rotate: false
+  xy: 1654, 112
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_601_104.png
+  rotate: false
+  xy: 1928, 2
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_601_105.png
+  rotate: false
+  xy: 1698, 110
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_601_106.png
+  rotate: false
+  xy: 1704, 147
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_601_107.png
+  rotate: false
+  xy: 73, 185
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_800_107.png
+  rotate: false
+  xy: 2, 96
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_801_107.png
+  rotate: false
+  xy: 3004, 200
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_802_107.png
+  rotate: false
+  xy: 229, 195
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_900_101.png
+  rotate: false
+  xy: 1318, 167
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_900_107.png
+  rotate: false
+  xy: 148, 194
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_2_901_107.png
+  rotate: false
+  xy: 2, 172
+  size: 69, 82
+  orig: 69, 82
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_0.png
+  rotate: false
+  xy: 1058, 2
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_0_101.png
+  rotate: false
+  xy: 1843, 145
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_0_102.png
+  rotate: false
+  xy: 1678, 2
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_0_103.png
+  rotate: false
+  xy: 2478, 178
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_0_104.png
+  rotate: false
+  xy: 1702, 2
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_0_105.png
+  rotate: false
+  xy: 1883, 119
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_0_106.png
+  rotate: false
+  xy: 267, 122
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_0_107.png
+  rotate: false
+  xy: 785, 205
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_300_106.png
+  rotate: false
+  xy: 543, 64
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_300_107.png
+  rotate: false
+  xy: 860, 205
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_301_107.png
+  rotate: false
+  xy: 475, 206
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_302_106.png
+  rotate: false
+  xy: 593, 64
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_302_107.png
+  rotate: false
+  xy: 708, 205
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_3_303_107.png
+  rotate: false
+  xy: 2795, 205
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_7_0.png
+  rotate: false
+  xy: 1979, 3
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_7_0_101.png
+  rotate: false
+  xy: 1654, 71
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_7_0_102.png
+  rotate: false
+  xy: 2235, 2
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_7_0_103.png
+  rotate: false
+  xy: 2211, 166
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_7_0_104.png
+  rotate: false
+  xy: 3366, 165
+  size: 9, 34
+  orig: 9, 34
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_7_0_105.png
+  rotate: false
+  xy: 1793, 69
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_7_0_106.png
+  rotate: false
+  xy: 1654, 147
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_7_0_107.png
+  rotate: false
+  xy: 554, 203
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_7_301_107.png
+  rotate: false
+  xy: 392, 205
+  size: 81, 49
+  orig: 81, 49
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_7_302_107.png
+  rotate: false
+  xy: 631, 203
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+horse_horse_64_d_7_303_107.png
+  rotate: false
+  xy: 2218, 203
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+horse_horse_64_e_0_0_10.png
+  rotate: false
+  xy: 1422, 7
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_e_0_0_9.png
+  rotate: false
+  xy: 1691, 20
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_e_1_0_10.png
+  rotate: false
+  xy: 1942, 79
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_e_1_0_9.png
+  rotate: false
+  xy: 1902, 32
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+horse_horse_64_e_2_0_10.png
+  rotate: false
+  xy: 1489, 110
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+horse_horse_64_e_2_0_9.png
+  rotate: false
+  xy: 1454, 100
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+horse_horse_64_e_3_0_10.png
+  rotate: false
+  xy: 2069, 152
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_e_3_0_9.png
+  rotate: false
+  xy: 2024, 152
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+horse_horse_64_e_7_0_10.png
+  rotate: false
+  xy: 1977, 154
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_e_7_0_9.png
+  rotate: false
+  xy: 1930, 154
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+horse_horse_64_f_1_1200.png
+  rotate: false
+  xy: 1634, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+horse_horse_64_f_1_1600.png
+  rotate: false
+  xy: 1834, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+horse_horse_64_f_7_1300.png
+  rotate: false
+  xy: 1656, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+horse_horse_64_sd_0_0.png
+  rotate: false
+  xy: 1581, 97
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1

@@ -95,7 +95,6 @@ duckets.upper_limit=1300
 dynamic.download.name.template=%revision%/hh_furni_xx_%typeid%.cct
 dynamic.download.samples.template=%revision%/%typeid%.cct
 dynamic.download.url=${nitro.swfs}/dcr/hof_furni/
-dynamic.download.url.pet=${nitro.swfs}/dcr/gordon/
 effects.in.avatar.editor=true
 effects.reactivate.on.room.entry=true
 embed.showInRoomInfo=true

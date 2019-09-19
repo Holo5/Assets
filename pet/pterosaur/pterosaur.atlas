@@ -1,0 +1,650 @@
+
+pterosaur.png
+size: 4096,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pterosaur_pterosaur_64_a_0_1.png
+  rotate: false
+  xy: 2882, 62
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_100.png
+  rotate: false
+  xy: 2836, 62
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_1000.png
+  rotate: false
+  xy: 1715, 18
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_1001.png
+  rotate: false
+  xy: 550, 2
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_1002.png
+  rotate: false
+  xy: 76, 2
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_1003.png
+  rotate: false
+  xy: 3199, 66
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_1200.png
+  rotate: false
+  xy: 2928, 77
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_1201.png
+  rotate: false
+  xy: 882, 2
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_200.png
+  rotate: false
+  xy: 3493, 67
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_301.png
+  rotate: false
+  xy: 2310, 59
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_302.png
+  rotate: false
+  xy: 928, 2
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_600.png
+  rotate: false
+  xy: 2790, 62
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_601.png
+  rotate: false
+  xy: 2740, 63
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_602.png
+  rotate: false
+  xy: 2474, 64
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_603.png
+  rotate: false
+  xy: 2364, 63
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_700.png
+  rotate: false
+  xy: 1802, 75
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_701.png
+  rotate: false
+  xy: 730, 82
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_702.png
+  rotate: false
+  xy: 1482, 22
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_703.png
+  rotate: false
+  xy: 1077, 2
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_704.png
+  rotate: false
+  xy: 214, 24
+  size: 92, 55
+  orig: 92, 55
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_800.png
+  rotate: false
+  xy: 2986, 77
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_801.png
+  rotate: false
+  xy: 3832, 87
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_0_802.png
+  rotate: false
+  xy: 3876, 87
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_1.png
+  rotate: false
+  xy: 1931, 56
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_100.png
+  rotate: false
+  xy: 1874, 56
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_200.png
+  rotate: false
+  xy: 2637, 63
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_300.png
+  rotate: false
+  xy: 479, 3
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_301.png
+  rotate: false
+  xy: 1291, 2
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_302.png
+  rotate: false
+  xy: 308, 13
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_700.png
+  rotate: false
+  xy: 645, 78
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_701.png
+  rotate: false
+  xy: 1555, 84
+  size: 82, 42
+  orig: 82, 42
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_702.png
+  rotate: false
+  xy: 1077, 71
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_703.png
+  rotate: false
+  xy: 130, 10
+  size: 82, 69
+  orig: 82, 69
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_704.png
+  rotate: false
+  xy: 911, 65
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_900.png
+  rotate: false
+  xy: 360, 9
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_901.png
+  rotate: false
+  xy: 1347, 8
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_902.png
+  rotate: false
+  xy: 1228, 2
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_1_903.png
+  rotate: false
+  xy: 1721, 78
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_1.png
+  rotate: false
+  xy: 2202, 54
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_1201.png
+  rotate: false
+  xy: 791, 2
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_200.png
+  rotate: false
+  xy: 2689, 62
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_301.png
+  rotate: false
+  xy: 842, 2
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_302.png
+  rotate: false
+  xy: 2255, 58
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_400.png
+  rotate: false
+  xy: 3150, 68
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_401.png
+  rotate: false
+  xy: 3101, 68
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_402.png
+  rotate: false
+  xy: 2149, 54
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_403.png
+  rotate: false
+  xy: 2096, 54
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_500.png
+  rotate: false
+  xy: 618, 2
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_501.png
+  rotate: false
+  xy: 668, 2
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_502.png
+  rotate: false
+  xy: 1988, 54
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_503.png
+  rotate: false
+  xy: 2042, 54
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_700.png
+  rotate: false
+  xy: 995, 2
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_701.png
+  rotate: false
+  xy: 1297, 83
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_702.png
+  rotate: false
+  xy: 1471, 83
+  size: 82, 43
+  orig: 82, 43
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_703.png
+  rotate: false
+  xy: 718, 2
+  size: 71, 61
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_704.png
+  rotate: false
+  xy: 550, 78
+  size: 93, 48
+  orig: 93, 48
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_800.png
+  rotate: false
+  xy: 3044, 79
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_801.png
+  rotate: false
+  xy: 3782, 93
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_802.png
+  rotate: false
+  xy: 3732, 93
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_900.png
+  rotate: false
+  xy: 420, 7
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_901.png
+  rotate: false
+  xy: 1413, 11
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_902.png
+  rotate: false
+  xy: 1155, 2
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_2_903.png
+  rotate: false
+  xy: 1639, 78
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_0.png
+  rotate: false
+  xy: 3568, 57
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_1.png
+  rotate: false
+  xy: 3534, 57
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_1002.png
+  rotate: false
+  xy: 1561, 2
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_1003.png
+  rotate: false
+  xy: 3291, 61
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_200.png
+  rotate: false
+  xy: 3602, 63
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_301.png
+  rotate: false
+  xy: 3374, 56
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_302.png
+  rotate: false
+  xy: 3333, 56
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_700.png
+  rotate: false
+  xy: 2420, 62
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_701.png
+  rotate: false
+  xy: 1215, 76
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_702.png
+  rotate: false
+  xy: 254, 81
+  size: 104, 45
+  orig: 104, 45
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_703.png
+  rotate: false
+  xy: 2527, 68
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_704.png
+  rotate: false
+  xy: 128, 81
+  size: 124, 45
+  orig: 124, 45
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_902.png
+  rotate: false
+  xy: 1637, 18
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_3_903.png
+  rotate: false
+  xy: 1385, 83
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_0.png
+  rotate: false
+  xy: 3636, 63
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_1.png
+  rotate: false
+  xy: 3668, 63
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_1000.png
+  rotate: false
+  xy: 823, 73
+  size: 86, 53
+  orig: 86, 53
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_1001.png
+  rotate: false
+  xy: 995, 68
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_1002.png
+  rotate: false
+  xy: 2, 2
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_1003.png
+  rotate: false
+  xy: 3245, 68
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_200.png
+  rotate: false
+  xy: 3700, 64
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_301.png
+  rotate: false
+  xy: 3454, 61
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_302.png
+  rotate: false
+  xy: 3415, 61
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_700.png
+  rotate: false
+  xy: 1161, 71
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_701.png
+  rotate: false
+  xy: 360, 75
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_702.png
+  rotate: false
+  xy: 456, 75
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_703.png
+  rotate: false
+  xy: 2583, 67
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_a_7_704.png
+  rotate: false
+  xy: 2, 75
+  size: 124, 51
+  orig: 124, 51
+  offset: 0, 0
+  index: -1
+pterosaur_pterosaur_64_sd_0_0.png
+  rotate: false
+  xy: 730, 65
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1

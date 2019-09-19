@@ -1,0 +1,1224 @@
+
+turtle.png
+size: 4096,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+turtle_turtle_64_a_0_0.png
+  rotate: false
+  xy: 3216, 37
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_1.png
+  rotate: false
+  xy: 3246, 37
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_100.png
+  rotate: false
+  xy: 2627, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_1000.png
+  rotate: false
+  xy: 2564, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_1001.png
+  rotate: false
+  xy: 222, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_1002.png
+  rotate: false
+  xy: 192, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_1003.png
+  rotate: false
+  xy: 403, 7
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_1004.png
+  rotate: false
+  xy: 2782, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_1400.png
+  rotate: false
+  xy: 2689, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_1500.png
+  rotate: false
+  xy: 2813, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_1601.png
+  rotate: false
+  xy: 2658, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_2.png
+  rotate: false
+  xy: 3276, 37
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_201.png
+  rotate: false
+  xy: 2720, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_202.png
+  rotate: false
+  xy: 2751, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_3.png
+  rotate: false
+  xy: 3306, 37
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_400.png
+  rotate: false
+  xy: 107, 25
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_401.png
+  rotate: false
+  xy: 313, 2
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_501.png
+  rotate: false
+  xy: 341, 5
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_502.png
+  rotate: false
+  xy: 2530, 36
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_503.png
+  rotate: false
+  xy: 2873, 31
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_601.png
+  rotate: false
+  xy: 840, 25
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_602.png
+  rotate: false
+  xy: 526, 2
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_603.png
+  rotate: false
+  xy: 134, 25
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_900.png
+  rotate: false
+  xy: 161, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_901.png
+  rotate: false
+  xy: 2596, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_0_902.png
+  rotate: false
+  xy: 201, 34
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_0.png
+  rotate: false
+  xy: 1382, 44
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_1.png
+  rotate: false
+  xy: 2205, 44
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_100.png
+  rotate: false
+  xy: 1055, 42
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_1000.png
+  rotate: false
+  xy: 716, 2
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_1001.png
+  rotate: false
+  xy: 1219, 42
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_1002.png
+  rotate: false
+  xy: 115, 2
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_1003.png
+  rotate: false
+  xy: 1178, 42
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_1004.png
+  rotate: false
+  xy: 1260, 42
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_1400.png
+  rotate: false
+  xy: 1096, 42
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_1500.png
+  rotate: false
+  xy: 973, 42
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_1600.png
+  rotate: false
+  xy: 1014, 42
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_1601.png
+  rotate: false
+  xy: 551, 42
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_2.png
+  rotate: false
+  xy: 2167, 44
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_200.png
+  rotate: false
+  xy: 675, 42
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_201.png
+  rotate: false
+  xy: 634, 42
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_202.png
+  rotate: false
+  xy: 593, 42
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_3.png
+  rotate: false
+  xy: 2243, 44
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_401.png
+  rotate: false
+  xy: 867, 29
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_402.png
+  rotate: false
+  xy: 935, 38
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_403.png
+  rotate: false
+  xy: 1341, 44
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_404.png
+  rotate: false
+  xy: 433, 39
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_600.png
+  rotate: false
+  xy: 635, 4
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_601.png
+  rotate: false
+  xy: 662, 4
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_602.png
+  rotate: false
+  xy: 2929, 26
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_603.png
+  rotate: false
+  xy: 608, 4
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_900.png
+  rotate: false
+  xy: 840, 2
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_1_902.png
+  rotate: false
+  xy: 1301, 42
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_0.png
+  rotate: false
+  xy: 2281, 44
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1.png
+  rotate: false
+  xy: 2317, 44
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_100.png
+  rotate: false
+  xy: 1725, 40
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1000.png
+  rotate: false
+  xy: 2425, 41
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1001.png
+  rotate: false
+  xy: 2495, 40
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1002.png
+  rotate: false
+  xy: 1688, 40
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1003.png
+  rotate: false
+  xy: 3113, 42
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1004.png
+  rotate: false
+  xy: 2460, 40
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1300.png
+  rotate: false
+  xy: 794, 2
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1301.png
+  rotate: false
+  xy: 3183, 41
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1302.png
+  rotate: false
+  xy: 3491, 43
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1303.png
+  rotate: false
+  xy: 3871, 44
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1304.png
+  rotate: false
+  xy: 3923, 44
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1305.png
+  rotate: false
+  xy: 3897, 44
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1400.png
+  rotate: false
+  xy: 1614, 40
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1500.png
+  rotate: false
+  xy: 1910, 40
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1600.png
+  rotate: false
+  xy: 1538, 40
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1700.png
+  rotate: false
+  xy: 161, 34
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1800.png
+  rotate: false
+  xy: 473, 39
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1801.png
+  rotate: false
+  xy: 512, 39
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1802.png
+  rotate: false
+  xy: 1799, 40
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1803.png
+  rotate: false
+  xy: 1836, 40
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1901.png
+  rotate: false
+  xy: 74, 2
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1902.png
+  rotate: false
+  xy: 1137, 42
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1903.png
+  rotate: false
+  xy: 1499, 42
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_1904.png
+  rotate: false
+  xy: 2056, 41
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_2.png
+  rotate: false
+  xy: 2353, 44
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_2000.png
+  rotate: false
+  xy: 1947, 40
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_2001.png
+  rotate: false
+  xy: 2093, 42
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_201.png
+  rotate: false
+  xy: 2130, 42
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_202.png
+  rotate: false
+  xy: 757, 2
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_3.png
+  rotate: false
+  xy: 2389, 44
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_300.png
+  rotate: false
+  xy: 393, 38
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_301.png
+  rotate: false
+  xy: 1421, 42
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_302.png
+  rotate: false
+  xy: 897, 37
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_303.png
+  rotate: false
+  xy: 917, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_304.png
+  rotate: false
+  xy: 879, 2
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_305.png
+  rotate: false
+  xy: 1460, 42
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_307.png
+  rotate: false
+  xy: 944, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_600.png
+  rotate: false
+  xy: 766, 23
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_601.png
+  rotate: false
+  xy: 741, 23
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_602.png
+  rotate: false
+  xy: 816, 23
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_603.png
+  rotate: false
+  xy: 716, 23
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_701.png
+  rotate: false
+  xy: 1873, 38
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_702.png
+  rotate: false
+  xy: 2019, 41
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_703.png
+  rotate: false
+  xy: 1983, 40
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_704.png
+  rotate: false
+  xy: 372, 5
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_707.png
+  rotate: false
+  xy: 579, 4
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_708.png
+  rotate: false
+  xy: 554, 2
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_709.png
+  rotate: false
+  xy: 791, 23
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_710.png
+  rotate: false
+  xy: 38, 21
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_711.png
+  rotate: false
+  xy: 2, 20
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_712.png
+  rotate: false
+  xy: 74, 25
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_713.png
+  rotate: false
+  xy: 313, 38
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_714.png
+  rotate: false
+  xy: 3148, 42
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_715.png
+  rotate: false
+  xy: 353, 38
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_716.png
+  rotate: false
+  xy: 2980, 27
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_717.png
+  rotate: false
+  xy: 1762, 40
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_900.png
+  rotate: false
+  xy: 1576, 40
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_2_902.png
+  rotate: false
+  xy: 2980, 2
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_0.png
+  rotate: false
+  xy: 3156, 22
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_1.png
+  rotate: false
+  xy: 3156, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_100.png
+  rotate: false
+  xy: 3601, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_1000.png
+  rotate: false
+  xy: 3790, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_1001.png
+  rotate: false
+  xy: 1096, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_1002.png
+  rotate: false
+  xy: 3763, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_1003.png
+  rotate: false
+  xy: 3038, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_1004.png
+  rotate: false
+  xy: 1123, 2
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_1400.png
+  rotate: false
+  xy: 3628, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_1500.png
+  rotate: false
+  xy: 3817, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_1600.png
+  rotate: false
+  xy: 3520, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_2.png
+  rotate: false
+  xy: 1174, 22
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_201.png
+  rotate: false
+  xy: 3655, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_202.png
+  rotate: false
+  xy: 3682, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_203.png
+  rotate: false
+  xy: 3709, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_204.png
+  rotate: false
+  xy: 3736, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_3.png
+  rotate: false
+  xy: 3177, 21
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_400.png
+  rotate: false
+  xy: 2955, 26
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_401.png
+  rotate: false
+  xy: 3389, 34
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_402.png
+  rotate: false
+  xy: 1149, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_403.png
+  rotate: false
+  xy: 3844, 42
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_404.png
+  rotate: false
+  xy: 3011, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_601.png
+  rotate: false
+  xy: 3006, 27
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_602.png
+  rotate: false
+  xy: 3031, 27
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_603.png
+  rotate: false
+  xy: 689, 4
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_800.png
+  rotate: false
+  xy: 3464, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_900.png
+  rotate: false
+  xy: 3547, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_3_902.png
+  rotate: false
+  xy: 3574, 41
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_0.png
+  rotate: false
+  xy: 4018, 38
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_1.png
+  rotate: false
+  xy: 3972, 38
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_1000.png
+  rotate: false
+  xy: 3363, 34
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_1001.png
+  rotate: false
+  xy: 287, 34
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_1002.png
+  rotate: false
+  xy: 261, 34
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_1003.png
+  rotate: false
+  xy: 235, 34
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_1004.png
+  rotate: false
+  xy: 971, 2
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_1600.png
+  rotate: false
+  xy: 1046, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_1601.png
+  rotate: false
+  xy: 3414, 34
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_2.png
+  rotate: false
+  xy: 3995, 38
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_200.png
+  rotate: false
+  xy: 996, 2
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_201.png
+  rotate: false
+  xy: 3085, 35
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_202.png
+  rotate: false
+  xy: 3056, 35
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_3.png
+  rotate: false
+  xy: 3949, 38
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_400.png
+  rotate: false
+  xy: 495, 2
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_401.png
+  rotate: false
+  xy: 2844, 33
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_402.png
+  rotate: false
+  xy: 3336, 37
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_403.png
+  rotate: false
+  xy: 3439, 37
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_404.png
+  rotate: false
+  xy: 1021, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_601.png
+  rotate: false
+  xy: 433, 2
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_602.png
+  rotate: false
+  xy: 464, 2
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_603.png
+  rotate: false
+  xy: 2902, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_900.png
+  rotate: false
+  xy: 251, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_901.png
+  rotate: false
+  xy: 1071, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_7_902.png
+  rotate: false
+  xy: 276, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_a_dnc_2_0.png
+  rotate: false
+  xy: 1651, 40
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_b_0_2100.png
+  rotate: false
+  xy: 4063, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_b_0_2200.png
+  rotate: false
+  xy: 3065, 13
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_b_0_2300.png
+  rotate: false
+  xy: 3113, 20
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_b_0_2400.png
+  rotate: false
+  xy: 3087, 13
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_b_0_2500.png
+  rotate: false
+  xy: 4041, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_b_0_2600.png
+  rotate: false
+  xy: 3135, 21
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+turtle_turtle_64_sd_0_0.png
+  rotate: false
+  xy: 1096, 27
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
