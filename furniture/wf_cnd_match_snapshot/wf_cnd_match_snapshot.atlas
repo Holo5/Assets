@@ -41,7 +41,7 @@ wf_cnd_match_snapshot_wf_cnd_match_snapshot_64_a_2_12.png
   index: -1
 wf_cnd_match_snapshot_wf_cnd_match_snapshot_64_a_2_13.png
   rotate: false
-  xy: 692, 2
+  xy: 761, 2
   size: 67, 49
   orig: 67, 49
   offset: 0, 0
@@ -55,14 +55,14 @@ wf_cnd_match_snapshot_wf_cnd_match_snapshot_64_a_2_14.png
   index: -1
 wf_cnd_match_snapshot_wf_cnd_match_snapshot_64_a_2_15.png
   rotate: false
-  xy: 830, 2
+  xy: 899, 2
   size: 67, 49
   orig: 67, 49
   offset: 0, 0
   index: -1
 wf_cnd_match_snapshot_wf_cnd_match_snapshot_64_a_2_16.png
   rotate: false
-  xy: 761, 2
+  xy: 830, 2
   size: 67, 49
   orig: 67, 49
   offset: 0, 0
@@ -97,28 +97,35 @@ wf_cnd_match_snapshot_wf_cnd_match_snapshot_64_a_2_5.png
   index: -1
 wf_cnd_match_snapshot_wf_cnd_match_snapshot_64_a_2_6.png
   rotate: false
-  xy: 899, 2
+  xy: 968, 2
   size: 67, 49
   orig: 67, 49
   offset: 0, 0
   index: -1
 wf_cnd_match_snapshot_wf_cnd_match_snapshot_64_a_2_7.png
   rotate: false
-  xy: 968, 2
+  xy: 1037, 2
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+wf_cnd_match_snapshot_wf_cnd_match_snapshot_64_a_2_8.png
+  rotate: false
+  xy: 692, 2
   size: 67, 49
   orig: 67, 49
   offset: 0, 0
   index: -1
 wf_cnd_match_snapshot_wf_cnd_match_snapshot_64_a_2_9.png
   rotate: false
-  xy: 1037, 2
+  xy: 1106, 2
   size: 67, 49
   orig: 67, 49
   offset: 0, 0
   index: -1
 wf_cnd_match_snapshot_wf_cnd_match_snapshot_icon_a.png
   rotate: false
-  xy: 1106, 21
+  xy: 1175, 21
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

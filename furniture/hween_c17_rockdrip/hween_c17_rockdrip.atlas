@@ -13,7 +13,7 @@ hween_c17_rockdrip_hween_c17_rockdrip_64_a_0_0.png
   index: -1
 hween_c17_rockdrip_hween_c17_rockdrip_64_b_0_0.png
   rotate: false
-  xy: 110, 20
+  xy: 37, 10
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
@@ -34,7 +34,7 @@ hween_c17_rockdrip_hween_c17_rockdrip_64_b_0_2.png
   index: -1
 hween_c17_rockdrip_hween_c17_rockdrip_64_c_0_0.png
   rotate: false
-  xy: 30, 9
+  xy: 117, 29
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
@@ -48,7 +48,7 @@ hween_c17_rockdrip_hween_c17_rockdrip_64_c_0_1.png
   index: -1
 hween_c17_rockdrip_hween_c17_rockdrip_64_c_0_10.png
   rotate: false
-  xy: 100, 15
+  xy: 110, 20
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
@@ -70,6 +70,20 @@ hween_c17_rockdrip_hween_c17_rockdrip_64_c_0_3.png
 hween_c17_rockdrip_hween_c17_rockdrip_64_c_0_4.png
   rotate: false
   xy: 110, 25
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+hween_c17_rockdrip_hween_c17_rockdrip_64_c_0_5.png
+  rotate: false
+  xy: 30, 5
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+hween_c17_rockdrip_hween_c17_rockdrip_64_c_0_6.png
+  rotate: false
+  xy: 100, 10
   size: 5, 8
   orig: 5, 8
   offset: 0, 0

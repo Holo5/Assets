@@ -1,6 +1,6 @@
 
 bc_alpha1_u.png
-size: 256,64
+size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -41,8 +41,22 @@ bc_alpha1_u_bc_alpha1_u_64_sd_0_0.png
   index: -1
 bc_alpha1_u_bc_alpha1_u_64_sd_2_0.png
   rotate: false
-  xy: 186, 6
+  xy: 232, 30
   size: 44, 22
   orig: 44, 22
+  offset: 0, 0
+  index: -1
+bc_alpha1_u_bc_alpha1_u_icon_a.png
+  rotate: false
+  xy: 278, 26
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+bc_alpha1_u_bc_alpha1_u_icon_b.png
+  rotate: false
+  xy: 303, 30
+  size: 21, 22
+  orig: 21, 22
   offset: 0, 0
   index: -1

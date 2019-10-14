@@ -18,6 +18,13 @@ wildwest_piano_wildwest_piano_64_b_4_0.png
   orig: 72, 119
   offset: 0, 0
   index: -1
+wildwest_piano_wildwest_piano_64_c_4_0.png
+  rotate: false
+  xy: 188, 66
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
 wildwest_piano_wildwest_piano_64_c_4_1.png
   rotate: false
   xy: 115, 4
@@ -27,35 +34,84 @@ wildwest_piano_wildwest_piano_64_c_4_1.png
   index: -1
 wildwest_piano_wildwest_piano_64_c_4_2.png
   rotate: false
-  xy: 188, 67
+  xy: 188, 58
   size: 12, 6
   orig: 12, 6
   offset: 0, 0
   index: -1
+wildwest_piano_wildwest_piano_64_c_4_3.png
+  rotate: false
+  xy: 2, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_d_4_0.png
+  rotate: false
+  xy: 216, 66
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_d_4_1.png
+  rotate: false
+  xy: 230, 66
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_d_4_2.png
+  rotate: false
+  xy: 202, 58
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_d_4_3.png
+  rotate: false
+  xy: 202, 66
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_d_4_4.png
+  rotate: false
+  xy: 129, 4
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_d_4_5.png
+  rotate: false
+  xy: 164, 35
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 wildwest_piano_wildwest_piano_64_e_4_0.png
   rotate: false
-  xy: 202, 67
+  xy: 230, 58
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 wildwest_piano_wildwest_piano_64_e_4_1.png
   rotate: false
-  xy: 200, 58
+  xy: 143, 4
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 wildwest_piano_wildwest_piano_64_f_4_0.png
   rotate: false
-  xy: 164, 38
+  xy: 244, 65
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 wildwest_piano_wildwest_piano_64_f_4_1.png
   rotate: false
-  xy: 188, 57
+  xy: 164, 38
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
@@ -111,7 +167,7 @@ wildwest_piano_wildwest_piano_64_g_4_5.png
   index: -1
 wildwest_piano_wildwest_piano_64_g_4_6.png
   rotate: false
-  xy: 129, 5
+  xy: 216, 58
   size: 12, 6
   orig: 12, 6
   offset: 0, 0

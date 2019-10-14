@@ -18,9 +18,16 @@ ktchn_c15_sink_ktchn_c15_sink_64_a_4_0.png
   orig: 64, 67
   offset: 0, 0
   index: -1
+ktchn_c15_sink_ktchn_c15_sink_64_b_2_0.png
+  rotate: false
+  xy: 303, 118
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_b_2_1.png
   rotate: false
-  xy: 349, 189
+  xy: 70, 52
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
@@ -41,7 +48,7 @@ ktchn_c15_sink_ktchn_c15_sink_64_b_2_3.png
   index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_b_4_0.png
   rotate: false
-  xy: 509, 253
+  xy: 170, 109
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -81,6 +88,13 @@ ktchn_c15_sink_ktchn_c15_sink_64_c_4_0.png
   orig: 66, 82
   offset: 0, 0
   index: -1
+ktchn_c15_sink_ktchn_c15_sink_64_d_2_0.png
+  rotate: false
+  xy: 368, 202
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_d_2_1.png
   rotate: false
   xy: 266, 116
@@ -88,11 +102,25 @@ ktchn_c15_sink_ktchn_c15_sink_64_d_2_1.png
   orig: 35, 25
   offset: 0, 0
   index: -1
+ktchn_c15_sink_ktchn_c15_sink_64_d_4_0.png
+  rotate: false
+  xy: 229, 113
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_d_4_1.png
   rotate: false
   xy: 229, 116
   size: 35, 25
   orig: 35, 25
+  offset: 0, 0
+  index: -1
+ktchn_c15_sink_ktchn_c15_sink_64_e_2_0.png
+  rotate: false
+  xy: 98, 91
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_e_2_1.png
@@ -104,7 +132,7 @@ ktchn_c15_sink_ktchn_c15_sink_64_e_2_1.png
   index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_e_2_2.png
   rotate: false
-  xy: 70, 58
+  xy: 50, 4
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
@@ -130,39 +158,81 @@ ktchn_c15_sink_ktchn_c15_sink_64_e_2_5.png
   orig: 4, 8
   offset: 0, 0
   index: -1
+ktchn_c15_sink_ktchn_c15_sink_64_e_4_0.png
+  rotate: false
+  xy: 332, 130
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_e_4_1.png
   rotate: false
-  xy: 332, 123
+  xy: 497, 236
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_e_4_2.png
   rotate: false
-  xy: 349, 179
+  xy: 89, 58
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_e_4_3.png
   rotate: false
-  xy: 50, 4
+  xy: 70, 42
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_e_4_4.png
   rotate: false
-  xy: 503, 246
+  xy: 349, 153
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_e_4_5.png
   rotate: false
-  xy: 497, 236
+  xy: 349, 163
   size: 4, 8
   orig: 4, 8
+  offset: 0, 0
+  index: -1
+ktchn_c15_sink_ktchn_c15_sink_64_f_2_0.png
+  rotate: false
+  xy: 104, 100
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ktchn_c15_sink_ktchn_c15_sink_64_f_2_1.png
+  rotate: false
+  xy: 349, 189
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+ktchn_c15_sink_ktchn_c15_sink_64_f_4_0.png
+  rotate: false
+  xy: 503, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ktchn_c15_sink_ktchn_c15_sink_64_f_4_1.png
+  rotate: false
+  xy: 349, 173
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+ktchn_c15_sink_ktchn_c15_sink_64_g_2_0.png
+  rotate: false
+  xy: 338, 140
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_g_2_1.png
@@ -198,6 +268,13 @@ ktchn_c15_sink_ktchn_c15_sink_64_g_2_5.png
   xy: 438, 194
   size: 57, 29
   orig: 57, 29
+  offset: 0, 0
+  index: -1
+ktchn_c15_sink_ktchn_c15_sink_64_g_4_0.png
+  rotate: false
+  xy: 56, 11
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 ktchn_c15_sink_ktchn_c15_sink_64_g_4_1.png

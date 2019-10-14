@@ -39,11 +39,25 @@ romantique_c15_dresser_romantique_c15_dresser_64_d_4_0.png
   orig: 28, 28
   offset: 0, 0
   index: -1
+romantique_c15_dresser_romantique_c15_dresser_64_d_4_1.png
+  rotate: false
+  xy: 104, 46
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 romantique_c15_dresser_romantique_c15_dresser_64_e_4_0.png
   rotate: false
   xy: 37, 10
   size: 28, 28
   orig: 28, 28
+  offset: 0, 0
+  index: -1
+romantique_c15_dresser_romantique_c15_dresser_64_e_4_1.png
+  rotate: false
+  xy: 110, 46
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 romantique_c15_dresser_romantique_c15_dresser_64_f_4_0.png
@@ -60,6 +74,13 @@ romantique_c15_dresser_romantique_c15_dresser_64_g_4_0.png
   orig: 35, 44
   offset: 0, 0
   index: -1
+romantique_c15_dresser_romantique_c15_dresser_64_g_4_1.png
+  rotate: false
+  xy: 247, 79
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 romantique_c15_dresser_romantique_c15_dresser_64_h_4_0.png
   rotate: false
   xy: 2, 4
@@ -67,11 +88,25 @@ romantique_c15_dresser_romantique_c15_dresser_64_h_4_0.png
   orig: 33, 34
   offset: 0, 0
   index: -1
+romantique_c15_dresser_romantique_c15_dresser_64_h_4_1.png
+  rotate: false
+  xy: 107, 46
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 romantique_c15_dresser_romantique_c15_dresser_64_i_4_0.png
   rotate: false
   xy: 67, 2
   size: 16, 42
   orig: 16, 42
+  offset: 0, 0
+  index: -1
+romantique_c15_dresser_romantique_c15_dresser_64_i_4_1.png
+  rotate: false
+  xy: 37, 7
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 romantique_c15_dresser_romantique_c15_dresser_64_sd_4_0.png
@@ -86,5 +121,12 @@ romantique_c15_dresser_romantique_c15_dresser_icon_a.png
   xy: 85, 14
   size: 24, 30
   orig: 24, 30
+  offset: 0, 0
+  index: -1
+romantique_c15_dresser_romantique_c15dresser_64_f_4_1.png
+  rotate: false
+  xy: 135, 77
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1

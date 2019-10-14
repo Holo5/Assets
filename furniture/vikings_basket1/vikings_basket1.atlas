@@ -1,6 +1,6 @@
 
 vikings_basket1.png
-size: 64,64
+size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -16,5 +16,12 @@ vikings_basket1_vikings_basket1_64_sd_0_0.png
   xy: 2, 2
   size: 30, 18
   orig: 30, 18
+  offset: 0, 0
+  index: -1
+vikings_basket1_vikings_basket1_icon_a.png
+  rotate: false
+  xy: 60, 41
+  size: 29, 21
+  orig: 29, 21
   offset: 0, 0
   index: -1

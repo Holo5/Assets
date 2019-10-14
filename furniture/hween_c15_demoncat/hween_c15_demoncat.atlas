@@ -18,6 +18,13 @@ hween_c15_demoncat_hween_c15_demoncat_64_a_4_1.png
   orig: 36, 44
   offset: 0, 0
   index: -1
+hween_c15_demoncat_hween_c15_demoncat_64_a_4_10.png
+  rotate: false
+  xy: 294, 151
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
 hween_c15_demoncat_hween_c15_demoncat_64_a_4_11.png
   rotate: false
   xy: 371, 154
@@ -41,6 +48,13 @@ hween_c15_demoncat_hween_c15_demoncat_64_a_4_13.png
   index: -1
 hween_c15_demoncat_hween_c15_demoncat_64_a_4_14.png
   rotate: false
+  xy: 490, 152
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+hween_c15_demoncat_hween_c15_demoncat_64_a_4_15.png
+  rotate: false
   xy: 294, 105
   size: 36, 44
   orig: 36, 44
@@ -48,7 +62,7 @@ hween_c15_demoncat_hween_c15_demoncat_64_a_4_14.png
   index: -1
 hween_c15_demoncat_hween_c15_demoncat_64_a_4_16.png
   rotate: false
-  xy: 294, 151
+  xy: 332, 107
   size: 36, 44
   orig: 36, 44
   offset: 0, 0
@@ -272,7 +286,7 @@ hween_c15_demoncat_hween_c15_demoncat_64_a_4_44.png
   index: -1
 hween_c15_demoncat_hween_c15_demoncat_64_a_4_45.png
   rotate: false
-  xy: 332, 108
+  xy: 452, 153
   size: 36, 43
   orig: 36, 43
   offset: 0, 0
@@ -314,21 +328,21 @@ hween_c15_demoncat_hween_c15_demoncat_64_a_4_5.png
   index: -1
 hween_c15_demoncat_hween_c15_demoncat_64_a_4_50.png
   rotate: false
-  xy: 528, 176
+  xy: 566, 178
   size: 36, 23
   orig: 36, 23
   offset: 0, 0
   index: -1
 hween_c15_demoncat_hween_c15_demoncat_64_a_4_51.png
   rotate: false
-  xy: 490, 173
+  xy: 528, 151
   size: 36, 23
   orig: 36, 23
   offset: 0, 0
   index: -1
 hween_c15_demoncat_hween_c15_demoncat_64_a_4_52.png
   rotate: false
-  xy: 452, 173
+  xy: 528, 176
   size: 36, 23
   orig: 36, 23
   offset: 0, 0
@@ -370,14 +384,14 @@ hween_c15_demoncat_hween_c15_demoncat_64_a_4_9.png
   index: -1
 hween_c15_demoncat_hween_c15_demoncat_64_sd_4_0.png
   rotate: false
-  xy: 452, 160
+  xy: 604, 195
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 hween_c15_demoncat_hween_c15_demoncat_icon_a.png
   rotate: false
-  xy: 566, 172
+  xy: 566, 147
   size: 25, 29
   orig: 25, 29
   offset: 0, 0

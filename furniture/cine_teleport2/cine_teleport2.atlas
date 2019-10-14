@@ -25,6 +25,13 @@ cine_teleport2_cine_teleport2_64_b_4_0.png
   orig: 33, 100
   offset: 0, 0
   index: -1
+cine_teleport2_cine_teleport2_64_b_4_1.png
+  rotate: false
+  xy: 179, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 cine_teleport2_cine_teleport2_64_b_6_0.png
   rotate: false
   xy: 2, 64
@@ -32,11 +39,25 @@ cine_teleport2_cine_teleport2_64_b_6_0.png
   orig: 54, 30
   offset: 0, 0
   index: -1
+cine_teleport2_cine_teleport2_64_c_4_0.png
+  rotate: false
+  xy: 249, 250
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 cine_teleport2_cine_teleport2_64_c_4_1.png
   rotate: false
   xy: 67, 17
   size: 40, 104
   orig: 40, 104
+  offset: 0, 0
+  index: -1
+cine_teleport2_cine_teleport2_64_c_6_0.png
+  rotate: false
+  xy: 195, 90
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 cine_teleport2_cine_teleport2_64_c_6_1.png
@@ -58,6 +79,13 @@ cine_teleport2_cine_teleport2_64_d_4_1.png
   xy: 67, 123
   size: 64, 131
   orig: 64, 131
+  offset: 0, 0
+  index: -1
+cine_teleport2_cine_teleport2_64_d_6_0.png
+  rotate: false
+  xy: 199, 134
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 cine_teleport2_cine_teleport2_64_d_6_1.png
@@ -95,11 +123,32 @@ cine_teleport2_cine_teleport2_64_f_2_1.png
   orig: 20, 28
   offset: 0, 0
   index: -1
+cine_teleport2_cine_teleport2_64_f_4_0.png
+  rotate: false
+  xy: 2, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 cine_teleport2_cine_teleport2_64_f_4_1.png
   rotate: false
   xy: 179, 93
   size: 19, 28
   orig: 19, 28
+  offset: 0, 0
+  index: -1
+cine_teleport2_cine_teleport2_64_f_6_0.png
+  rotate: false
+  xy: 109, 17
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cine_teleport2_cine_teleport2_64_f_6_1.png
+  rotate: false
+  xy: 58, 93
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 cine_teleport2_cine_teleport2_icon_a.png

@@ -4,6 +4,20 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hole_hole_64_a_0_0.png
+  rotate: false
+  xy: 5, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_a_0_1.png
+  rotate: false
+  xy: 23, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hole_hole_64_a_0_10.png
   rotate: false
   xy: 62, 30
@@ -32,6 +46,41 @@ hole_hole_64_a_0_13.png
   orig: 58, 29
   offset: 0, 0
   index: -1
+hole_hole_64_a_0_2.png
+  rotate: false
+  xy: 52, 5
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+hole_hole_64_a_0_3.png
+  rotate: false
+  xy: 124, 21
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_a_0_4.png
+  rotate: false
+  xy: 68, 13
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hole_hole_64_a_0_5.png
+  rotate: false
+  xy: 159, 24
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_a_0_6.png
+  rotate: false
+  xy: 30, 5
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
 hole_hole_64_a_0_7.png
   rotate: false
   xy: 134, 35
@@ -55,28 +104,119 @@ hole_hole_64_a_0_9.png
   index: -1
 hole_hole_64_b_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 134, 32
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hole_hole_64_b_0_1.png
   rotate: false
-  xy: 194, 35
+  xy: 11, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
+hole_hole_64_b_0_10.png
+  rotate: false
+  xy: 81, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_b_0_11.png
+  rotate: false
+  xy: 34, 12
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hole_hole_64_b_0_12.png
+  rotate: false
+  xy: 245, 44
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_b_0_13.png
+  rotate: false
+  xy: 122, 32
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+hole_hole_64_b_0_2.png
+  rotate: false
+  xy: 37, 5
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+hole_hole_64_b_0_3.png
+  rotate: false
+  xy: 94, 8
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_b_0_4.png
+  rotate: false
+  xy: 211, 32
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hole_hole_64_b_0_5.png
+  rotate: false
+  xy: 122, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_b_0_6.png
+  rotate: false
+  xy: 177, 28
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
 hole_hole_64_b_0_7.png
   rotate: false
-  xy: 207, 46
+  xy: 38, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_b_0_8.png
+  rotate: false
+  xy: 29, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_b_0_9.png
+  rotate: false
+  xy: 62, 5
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+hole_hole_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_c_0_1.png
+  rotate: false
+  xy: 17, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hole_hole_64_c_0_10.png
   rotate: false
-  xy: 194, 38
+  xy: 68, 2
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
@@ -90,63 +230,266 @@ hole_hole_64_c_0_11.png
   index: -1
 hole_hole_64_c_0_12.png
   rotate: false
-  xy: 122, 50
+  xy: 245, 55
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
 hole_hole_64_c_0_13.png
   rotate: false
-  xy: 62, 23
+  xy: 2, 5
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
-hole_hole_64_e_0_0.png
+hole_hole_64_c_0_2.png
   rotate: false
-  xy: 211, 52
+  xy: 42, 5
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+hole_hole_64_c_0_3.png
+  rotate: false
+  xy: 107, 8
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_c_0_4.png
+  rotate: false
+  xy: 228, 32
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hole_hole_64_c_0_5.png
+  rotate: false
+  xy: 137, 24
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_c_0_6.png
+  rotate: false
+  xy: 23, 5
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+hole_hole_64_c_0_7.png
+  rotate: false
+  xy: 41, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
+hole_hole_64_c_0_8.png
+  rotate: false
+  xy: 32, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_c_0_9.png
+  rotate: false
+  xy: 133, 14
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_0.png
+  rotate: false
+  xy: 191, 32
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_1.png
+  rotate: false
+  xy: 20, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_10.png
+  rotate: false
+  xy: 98, 19
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_11.png
+  rotate: false
+  xy: 228, 49
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_12.png
+  rotate: false
+  xy: 245, 22
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_13.png
+  rotate: false
+  xy: 170, 28
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_2.png
+  rotate: false
+  xy: 47, 5
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_3.png
+  rotate: false
+  xy: 120, 8
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_4.png
+  rotate: false
+  xy: 51, 12
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_5.png
+  rotate: false
+  xy: 148, 24
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_6.png
+  rotate: false
+  xy: 184, 28
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_7.png
+  rotate: false
+  xy: 44, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_8.png
+  rotate: false
+  xy: 35, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_d_0_9.png
+  rotate: false
+  xy: 133, 7
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+hole_hole_64_e_0_0.png
+  rotate: false
+  xy: 47, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_e_0_1.png
+  rotate: false
+  xy: 14, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_e_0_10.png
+  rotate: false
+  xy: 85, 19
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_e_0_11.png
+  rotate: false
+  xy: 211, 49
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hole_hole_64_e_0_12.png
+  rotate: false
+  xy: 245, 33
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+hole_hole_64_e_0_13.png
+  rotate: false
+  xy: 9, 5
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
 hole_hole_64_e_0_2.png
   rotate: false
-  xy: 2, 5
+  xy: 129, 32
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
 hole_hole_64_e_0_3.png
   rotate: false
-  xy: 211, 55
+  xy: 111, 19
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 hole_hole_64_e_0_4.png
   rotate: false
-  xy: 34, 12
+  xy: 194, 32
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 hole_hole_64_e_0_5.png
   rotate: false
-  xy: 51, 18
+  xy: 122, 50
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
+hole_hole_64_e_0_6.png
+  rotate: false
+  xy: 16, 5
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
 hole_hole_64_e_0_7.png
   rotate: false
-  xy: 5, 2
+  xy: 8, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hole_hole_64_e_0_8.png
+  rotate: false
+  xy: 26, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hole_hole_64_e_0_9.png
   rotate: false
-  xy: 224, 59
+  xy: 57, 5
   size: 3, 5
   orig: 3, 5
   offset: 0, 0

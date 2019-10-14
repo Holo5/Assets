@@ -53,11 +53,81 @@ tokyo_c18_craftbot_tokyo_c18_craftbot_64_a_0_6.png
   orig: 82, 99
   offset: 0, 0
   index: -1
-tokyo_c18_craftbot_tokyo_c18_craftbot_64_b_0_5.png
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_b_0_0.png
   rotate: false
-  xy: 577, 65
+  xy: 78, 9
   size: 9, 9
   orig: 9, 9
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_b_0_1.png
+  rotate: false
+  xy: 595, 67
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_b_0_2.png
+  rotate: false
+  xy: 656, 110
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_b_0_3.png
+  rotate: false
+  xy: 577, 41
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_b_0_4.png
+  rotate: false
+  xy: 67, 9
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_b_0_5.png
+  rotate: false
+  xy: 595, 78
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_c_0_0.png
+  rotate: false
+  xy: 625, 108
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_c_0_1.png
+  rotate: false
+  xy: 607, 95
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_c_0_2.png
+  rotate: false
+  xy: 577, 63
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_c_0_3.png
+  rotate: false
+  xy: 36, 7
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_c_0_4.png
+  rotate: false
+  xy: 607, 108
+  size: 16, 11
+  orig: 16, 11
   offset: 0, 0
   index: -1
 tokyo_c18_craftbot_tokyo_c18_craftbot_64_c_0_5.png
@@ -69,21 +139,42 @@ tokyo_c18_craftbot_tokyo_c18_craftbot_64_c_0_5.png
   index: -1
 tokyo_c18_craftbot_tokyo_c18_craftbot_64_d_0_0.png
   rotate: false
-  xy: 607, 110
+  xy: 54, 9
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 tokyo_c18_craftbot_tokyo_c18_craftbot_64_d_0_1.png
   rotate: false
-  xy: 595, 79
+  xy: 577, 31
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
   index: -1
 tokyo_c18_craftbot_tokyo_c18_craftbot_64_d_0_2.png
   rotate: false
-  xy: 36, 9
+  xy: 625, 97
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_d_0_3.png
+  rotate: false
+  xy: 577, 52
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_d_0_4.png
+  rotate: false
+  xy: 667, 111
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_d_0_5.png
+  rotate: false
+  xy: 643, 110
   size: 11, 9
   orig: 11, 9
   offset: 0, 0

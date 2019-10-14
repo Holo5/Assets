@@ -1,138 +1,159 @@
 
 elegantp_c17_cat.png
-size: 256,256
+size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 elegantp_c17_cat_elegantp_c17_cat_64_a_0_0.png
   rotate: false
-  xy: 56, 42
+  xy: 484, 57
   size: 51, 66
   orig: 51, 66
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_a_0_1.png
   rotate: false
-  xy: 109, 110
+  xy: 537, 57
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+elegantp_c17_cat_elegantp_c17_cat_64_a_0_10.png
+  rotate: false
+  xy: 378, 57
   size: 51, 66
   orig: 51, 66
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_a_0_11.png
   rotate: false
-  xy: 111, 178
+  xy: 272, 57
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+elegantp_c17_cat_elegantp_c17_cat_64_a_0_12.png
+  rotate: false
+  xy: 325, 57
   size: 51, 66
   orig: 51, 66
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_a_0_2.png
   rotate: false
-  xy: 56, 110
+  xy: 219, 57
   size: 51, 66
   orig: 51, 66
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_a_0_3.png
   rotate: false
-  xy: 109, 44
+  xy: 643, 59
   size: 51, 64
   orig: 51, 64
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_a_0_4.png
   rotate: false
-  xy: 2, 176
+  xy: 2, 55
   size: 52, 68
   orig: 52, 68
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_a_0_5.png
   rotate: false
-  xy: 2, 106
+  xy: 56, 55
   size: 52, 68
   orig: 52, 68
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_a_0_6.png
   rotate: false
-  xy: 164, 178
+  xy: 590, 57
   size: 51, 66
   orig: 51, 66
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_a_0_7.png
   rotate: false
-  xy: 2, 38
+  xy: 165, 57
   size: 52, 66
   orig: 52, 66
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_a_0_8.png
   rotate: false
-  xy: 56, 178
+  xy: 110, 57
   size: 53, 66
   orig: 53, 66
   offset: 0, 0
   index: -1
+elegantp_c17_cat_elegantp_c17_cat_64_a_0_9.png
+  rotate: false
+  xy: 431, 57
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_b_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 696, 89
   size: 31, 34
   orig: 31, 34
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_b_0_1.png
   rotate: false
-  xy: 217, 212
+  xy: 729, 91
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_b_0_2.png
   rotate: false
-  xy: 217, 152
+  xy: 57, 27
   size: 34, 26
   orig: 34, 26
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_b_0_3.png
   rotate: false
-  xy: 162, 115
+  xy: 763, 91
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_b_0_4.png
   rotate: false
-  xy: 162, 81
+  xy: 825, 91
   size: 26, 32
   orig: 26, 32
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_b_0_5.png
   rotate: false
-  xy: 162, 50
+  xy: 853, 94
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_b_0_6.png
   rotate: false
-  xy: 192, 125
+  xy: 2, 2
   size: 29, 22
   orig: 29, 22
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_64_sd_0_0.png
   rotate: false
-  xy: 162, 149
+  xy: 2, 26
   size: 53, 27
   orig: 53, 27
   offset: 0, 0
   index: -1
 elegantp_c17_cat_elegantp_c17_cat_icon_a.png
   rotate: false
-  xy: 217, 180
+  xy: 793, 93
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

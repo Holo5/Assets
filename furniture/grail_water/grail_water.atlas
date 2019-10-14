@@ -6,33 +6,40 @@ filter: Nearest,Nearest
 repeat: none
 grail_water_grail_water_64_a_2_0.png
   rotate: false
-  xy: 59, 2
+  xy: 78, 2
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 grail_water_grail_water_64_a_2_1.png
   rotate: false
-  xy: 40, 2
+  xy: 59, 2
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 grail_water_grail_water_64_a_2_2.png
   rotate: false
-  xy: 97, 2
+  xy: 116, 2
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 grail_water_grail_water_64_a_2_3.png
   rotate: false
-  xy: 78, 2
+  xy: 97, 2
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 grail_water_grail_water_64_a_2_4.png
+  rotate: false
+  xy: 40, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+grail_water_grail_water_64_a_2_5.png
   rotate: false
   xy: 21, 2
   size: 17, 17
@@ -41,7 +48,7 @@ grail_water_grail_water_64_a_2_4.png
   index: -1
 grail_water_grail_water_64_sd_2_0.png
   rotate: false
-  xy: 116, 7
+  xy: 135, 7
   size: 17, 12
   orig: 17, 12
   offset: 0, 0

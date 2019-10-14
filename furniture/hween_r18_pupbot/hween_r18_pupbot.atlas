@@ -137,6 +137,13 @@ hween_r18_pupbot_hween_r18_pupbot_64_d_0_7.png
   orig: 24, 26
   offset: 0, 0
   index: -1
+hween_r18_pupbot_hween_r18_pupbot_64_e_0_0.png
+  rotate: false
+  xy: 188, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_r18_pupbot_hween_r18_pupbot_64_e_0_1.png
   rotate: false
   xy: 51, 6
@@ -198,6 +205,13 @@ hween_r18_pupbot_hween_r18_pupbot_64_h_0_2.png
   xy: 132, 19
   size: 27, 15
   orig: 27, 15
+  offset: 0, 0
+  index: -1
+hween_r18_pupbot_hween_r18_pupbot_64_i_0_0.png
+  rotate: false
+  xy: 185, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_r18_pupbot_hween_r18_pupbot_64_i_0_1.png

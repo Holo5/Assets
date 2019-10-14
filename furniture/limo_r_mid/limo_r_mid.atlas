@@ -1,68 +1,82 @@
 
 limo_r_mid.png
-size: 256,128
+size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 limo_r_mid_limo_r_mid_64_a_2_0.png
   rotate: false
-  xy: 2, 14
+  xy: 106, 61
   size: 66, 65
   orig: 66, 65
   offset: 0, 0
   index: -1
 limo_r_mid_limo_r_mid_64_a_6_0.png
   rotate: false
-  xy: 165, 15
+  xy: 2, 10
   size: 54, 38
   orig: 54, 38
   offset: 0, 0
   index: -1
+limo_r_mid_limo_r_mid_64_b_2_0.png
+  rotate: false
+  xy: 234, 66
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 limo_r_mid_limo_r_mid_64_b_6_0.png
   rotate: false
-  xy: 120, 7
+  xy: 284, 74
   size: 43, 52
   orig: 43, 52
   offset: 0, 0
   index: -1
 limo_r_mid_limo_r_mid_64_c_2_0.png
   rotate: false
-  xy: 182, 55
+  xy: 174, 63
   size: 58, 63
   orig: 58, 63
   offset: 0, 0
   index: -1
 limo_r_mid_limo_r_mid_64_c_6_0.png
   rotate: false
-  xy: 2, 4
+  xy: 58, 40
   size: 13, 8
   orig: 13, 8
   offset: 0, 0
   index: -1
 limo_r_mid_limo_r_mid_64_d_2_0.png
   rotate: false
-  xy: 70, 2
+  xy: 234, 69
   size: 48, 57
   orig: 48, 57
   offset: 0, 0
   index: -1
 limo_r_mid_limo_r_mid_64_d_6_0.png
   rotate: false
-  xy: 106, 61
+  xy: 106, 2
   size: 74, 57
   orig: 74, 57
   offset: 0, 0
   index: -1
+limo_r_mid_limo_r_mid_64_sd_2_0.png
+  rotate: false
+  xy: 2, 50
+  size: 102, 37
+  orig: 102, 37
+  offset: 0, 0
+  index: -1
 limo_r_mid_limo_r_mid_64_sd_6_0.png
   rotate: false
-  xy: 2, 81
+  xy: 2, 89
   size: 102, 37
   orig: 102, 37
   offset: 0, 0
   index: -1
 limo_r_mid_limo_r_mid_icon_a.png
   rotate: false
-  xy: 221, 33
+  xy: 329, 106
   size: 27, 20
   orig: 27, 20
   offset: 0, 0

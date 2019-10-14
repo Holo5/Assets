@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 pirate_stage2_pirate_stage2_64_a_0_0.png
   rotate: false
-  xy: 380, 74
+  xy: 101, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -51,6 +51,13 @@ pirate_stage2_pirate_stage2_64_a_6_0.png
   xy: 380, 40
   size: 68, 30
   orig: 68, 30
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_a_7_0.png
+  rotate: false
+  xy: 101, 5
+  size: 8, 1
+  orig: 8, 1
   offset: 0, 0
   index: -1
 pirate_stage2_pirate_stage2_64_b_0_0.png
@@ -109,6 +116,13 @@ pirate_stage2_pirate_stage2_64_b_7_0.png
   orig: 29, 52
   offset: 0, 0
   index: -1
+pirate_stage2_pirate_stage2_64_c_0_0.png
+  rotate: false
+  xy: 104, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 pirate_stage2_pirate_stage2_64_c_1_0.png
   rotate: false
   xy: 220, 10
@@ -144,6 +158,13 @@ pirate_stage2_pirate_stage2_64_c_5_0.png
   orig: 10, 67
   offset: 0, 0
   index: -1
+pirate_stage2_pirate_stage2_64_c_6_0.png
+  rotate: false
+  xy: 107, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 pirate_stage2_pirate_stage2_64_c_7_0.png
   rotate: false
   xy: 450, 3
@@ -153,7 +174,7 @@ pirate_stage2_pirate_stage2_64_c_7_0.png
   index: -1
 pirate_stage2_pirate_stage2_64_d_0_0.png
   rotate: false
-  xy: 383, 74
+  xy: 110, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

@@ -41,35 +41,35 @@ xmas_c17_boy_xmas_c17_boy_64_a_0_12.png
   index: -1
 xmas_c17_boy_xmas_c17_boy_64_a_0_13.png
   rotate: false
-  xy: 113, 39
+  xy: 183, 111
   size: 34, 69
   orig: 34, 69
   offset: 0, 0
   index: -1
 xmas_c17_boy_xmas_c17_boy_64_a_0_14.png
   rotate: false
-  xy: 148, 111
+  xy: 183, 41
   size: 34, 68
   orig: 34, 68
   offset: 0, 0
   index: -1
 xmas_c17_boy_xmas_c17_boy_64_a_0_15.png
   rotate: false
-  xy: 112, 110
+  xy: 147, 110
   size: 34, 69
   orig: 34, 69
   offset: 0, 0
   index: -1
 xmas_c17_boy_xmas_c17_boy_64_a_0_16.png
   rotate: false
-  xy: 77, 37
+  xy: 147, 39
   size: 34, 69
   orig: 34, 69
   offset: 0, 0
   index: -1
 xmas_c17_boy_xmas_c17_boy_64_a_0_17.png
   rotate: false
-  xy: 77, 108
+  xy: 77, 35
   size: 33, 71
   orig: 33, 71
   offset: 0, 0
@@ -88,6 +88,13 @@ xmas_c17_boy_xmas_c17_boy_64_a_0_3.png
   orig: 37, 71
   offset: 0, 0
   index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_4.png
+  rotate: false
+  xy: 112, 108
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
 xmas_c17_boy_xmas_c17_boy_64_a_0_5.png
   rotate: false
   xy: 41, 34
@@ -95,11 +102,25 @@ xmas_c17_boy_xmas_c17_boy_64_a_0_5.png
   orig: 34, 72
   offset: 0, 0
   index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_6.png
+  rotate: false
+  xy: 112, 35
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
 xmas_c17_boy_xmas_c17_boy_64_a_0_7.png
   rotate: false
   xy: 80, 181
   size: 34, 72
   orig: 34, 72
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_8.png
+  rotate: false
+  xy: 77, 108
+  size: 33, 71
+  orig: 33, 71
   offset: 0, 0
   index: -1
 xmas_c17_boy_xmas_c17_boy_64_a_0_9.png

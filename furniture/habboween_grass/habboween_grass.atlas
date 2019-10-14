@@ -32,6 +32,20 @@ habboween_grass_habboween_grass_64_d_0_0.png
   orig: 57, 44
   offset: 0, 0
   index: -1
+habboween_grass_habboween_grass_64_e_0_0.png
+  rotate: false
+  xy: 502, 60
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+habboween_grass_habboween_grass_64_e_2_0.png
+  rotate: false
+  xy: 78, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 habboween_grass_habboween_grass_64_e_4_0.png
   rotate: false
   xy: 132, 33

@@ -1,145 +1,173 @@
 
 room_gh15_ball.png
-size: 64,256
+size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 room_gh15_ball_room_gh15_ball_64_a_0_0.png
   rotate: false
-  xy: 29, 2
+  xy: 387, 42
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_a_0_1.png
   rotate: false
-  xy: 38, 136
+  xy: 339, 38
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_a_0_10.png
   rotate: false
-  xy: 42, 228
+  xy: 2, 2
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_a_0_2.png
   rotate: false
-  xy: 2, 134
+  xy: 82, 28
   size: 34, 34
   orig: 34, 34
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_a_0_3.png
   rotate: false
-  xy: 2, 170
+  xy: 42, 24
   size: 38, 38
   orig: 38, 38
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_a_0_4.png
   rotate: false
-  xy: 2, 210
+  xy: 2, 24
   size: 38, 38
   orig: 38, 38
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_a_0_5.png
   rotate: false
-  xy: 38, 164
+  xy: 68, 21
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_a_0_6.png
   rotate: false
-  xy: 38, 114
+  xy: 199, 10
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+room_gh15_ball_room_gh15_ball_64_a_0_7.png
+  rotate: false
+  xy: 177, 10
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_a_0_8.png
   rotate: false
-  xy: 42, 184
+  xy: 46, 2
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_a_0_9.png
   rotate: false
-  xy: 42, 162
+  xy: 365, 42
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_b_0_0.png
   rotate: false
-  xy: 2, 70
+  xy: 150, 32
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_b_0_1.png
   rotate: false
-  xy: 2, 102
+  xy: 118, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+room_gh15_ball_room_gh15_ball_64_b_0_10.png
+  rotate: false
+  xy: 214, 32
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_b_0_2.png
   rotate: false
-  xy: 2, 38
+  xy: 246, 32
   size: 29, 30
   orig: 29, 30
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_b_0_3.png
   rotate: false
-  xy: 34, 56
+  xy: 148, 4
   size: 27, 26
   orig: 27, 26
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_b_0_4.png
   rotate: false
-  xy: 2, 12
+  xy: 82, 2
   size: 25, 24
   orig: 25, 24
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_b_0_5.png
   rotate: false
-  xy: 38, 167
+  xy: 109, 25
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_64_b_0_6.png
   rotate: false
-  xy: 34, 84
+  xy: 118, 2
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
   index: -1
-room_gh15_ball_room_gh15_ball_64_b_0_8.png
+room_gh15_ball_room_gh15_ball_64_b_0_7.png
   rotate: false
-  xy: 33, 24
+  xy: 308, 32
   size: 29, 30
   orig: 29, 30
   offset: 0, 0
   index: -1
+room_gh15_ball_room_gh15_ball_64_b_0_8.png
+  rotate: false
+  xy: 277, 32
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+room_gh15_ball_room_gh15_ball_64_b_0_9.png
+  rotate: false
+  xy: 182, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
 room_gh15_ball_room_gh15_ball_64_sd_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 221, 22
   size: 16, 8
   orig: 16, 8
   offset: 0, 0
   index: -1
 room_gh15_ball_room_gh15_ball_icon_a.png
   rotate: false
-  xy: 42, 206
+  xy: 24, 2
   size: 20, 20
   orig: 20, 20
   offset: 0, 0

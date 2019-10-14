@@ -32,6 +32,13 @@ ads_idol_drape_ads_idol_drape_64_c_0_0.png
   orig: 32, 100
   offset: 0, 0
   index: -1
+ads_idol_drape_ads_idol_drape_64_c_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
 ads_idol_drape_ads_idol_drape_64_d_0_0.png
   rotate: false
   xy: 133, 11
@@ -83,7 +90,7 @@ ads_idol_drape_ads_idol_drape_64_h_0_0.png
   index: -1
 ads_idol_drape_ads_idol_drape_64_sd_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 41, 11
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

@@ -102,6 +102,13 @@ gld_gate_gld_gate_64_g_2_15.png
   orig: 23, 17
   offset: 0, 0
   index: -1
+gld_gate_gld_gate_64_g_2_16.png
+  rotate: false
+  xy: 27, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 gld_gate_gld_gate_64_g_2_2.png
   rotate: false
   xy: 248, 132
@@ -214,6 +221,13 @@ gld_gate_gld_gate_64_h_2_15.png
   orig: 12, 12
   offset: 0, 0
   index: -1
+gld_gate_gld_gate_64_h_2_16.png
+  rotate: false
+  xy: 379, 137
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 gld_gate_gld_gate_64_h_2_2.png
   rotate: false
   xy: 326, 136
@@ -298,6 +312,13 @@ gld_gate_gld_gate_64_i_2_3.png
   orig: 47, 133
   offset: 0, 0
   index: -1
+gld_gate_gld_gate_64_i_2_4.png
+  rotate: false
+  xy: 295, 133
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 gld_gate_gld_gate_64_j_2_0.png
   rotate: false
   xy: 100, 45
@@ -312,6 +333,62 @@ gld_gate_gld_gate_64_k_2_0.png
   orig: 8, 60
   offset: 0, 0
   index: -1
+gld_gate_gld_gate_64_l_2_0.png
+  rotate: false
+  xy: 83, 39
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gld_gate_gld_gate_64_l_2_1.png
+  rotate: false
+  xy: 454, 188
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+gld_gate_gld_gate_64_l_2_2.png
+  rotate: false
+  xy: 236, 68
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+gld_gate_gld_gate_64_l_2_3.png
+  rotate: false
+  xy: 199, 51
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+gld_gate_gld_gate_64_l_2_4.png
+  rotate: false
+  xy: 281, 95
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+gld_gate_gld_gate_64_m_2_0.png
+  rotate: false
+  xy: 340, 137
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gld_gate_gld_gate_64_m_2_1.png
+  rotate: false
+  xy: 248, 75
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+gld_gate_gld_gate_64_m_2_2.png
+  rotate: false
+  xy: 117, 42
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
 gld_gate_gld_gate_64_n_2_1.png
   rotate: false
   xy: 275, 95
@@ -321,23 +398,30 @@ gld_gate_gld_gate_64_n_2_1.png
   index: -1
 gld_gate_gld_gate_64_n_2_2.png
   rotate: false
-  xy: 454, 188
+  xy: 443, 157
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 gld_gate_gld_gate_64_n_2_3.png
   rotate: false
-  xy: 443, 157
+  xy: 260, 81
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 gld_gate_gld_gate_64_n_2_4.png
   rotate: false
-  xy: 236, 68
+  xy: 129, 48
   size: 4, 5
   orig: 4, 5
+  offset: 0, 0
+  index: -1
+gld_gate_gld_gate_64_o_2_0.png
+  rotate: false
+  xy: 149, 118
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 gld_gate_gld_gate_64_o_2_1.png
@@ -349,7 +433,7 @@ gld_gate_gld_gate_64_o_2_1.png
   index: -1
 gld_gate_gld_gate_64_o_2_2.png
   rotate: false
-  xy: 248, 75
+  xy: 199, 58
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
@@ -370,14 +454,14 @@ gld_gate_gld_gate_icon_a.png
   index: -1
 gld_gate_gld_gate_icon_b.png
   rotate: false
-  xy: 117, 49
+  xy: 69, 31
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 gld_gate_gld_gate_icon_c.png
   rotate: false
-  xy: 69, 31
+  xy: 261, 88
   size: 5, 4
   orig: 5, 4
   offset: 0, 0

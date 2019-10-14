@@ -13,35 +13,42 @@ obstacle_oxer3_obstacle_oxer3_64_a_4_0.png
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_b_4_0.png
   rotate: false
-  xy: 204, 12
+  xy: 2014, 78
   size: 31, 48
   orig: 31, 48
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_c_4_0.png
   rotate: false
-  xy: 168, 10
+  xy: 215, 10
   size: 34, 50
   orig: 34, 50
   offset: 0, 0
   index: -1
+obstacle_oxer3_obstacle_oxer3_64_d_4_0.png
+  rotate: false
+  xy: 497, 2
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
 obstacle_oxer3_obstacle_oxer3_64_d_4_1.png
   rotate: false
-  xy: 1526, 69
+  xy: 1620, 69
   size: 81, 57
   orig: 81, 57
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_d_4_10.png
   rotate: false
-  xy: 1689, 75
+  xy: 1783, 75
   size: 77, 51
   orig: 77, 51
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_d_4_11.png
   rotate: false
-  xy: 1609, 74
+  xy: 1703, 74
   size: 78, 52
   orig: 78, 52
   offset: 0, 0
@@ -67,23 +74,30 @@ obstacle_oxer3_obstacle_oxer3_64_d_4_14.png
   orig: 107, 64
   offset: 0, 0
   index: -1
+obstacle_oxer3_obstacle_oxer3_64_d_4_15.png
+  rotate: false
+  xy: 573, 2
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
 obstacle_oxer3_obstacle_oxer3_64_d_4_16.png
   rotate: false
-  xy: 1844, 72
+  xy: 1938, 72
   size: 74, 54
   orig: 74, 54
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_d_4_17.png
   rotate: false
-  xy: 1353, 71
+  xy: 1447, 71
   size: 87, 55
   orig: 87, 55
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_d_4_18.png
   rotate: false
-  xy: 497, 7
+  xy: 1353, 71
   size: 92, 55
   orig: 92, 55
   offset: 0, 0
@@ -97,7 +111,7 @@ obstacle_oxer3_obstacle_oxer3_64_d_4_19.png
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_d_4_2.png
   rotate: false
-  xy: 1442, 70
+  xy: 1536, 70
   size: 82, 56
   orig: 82, 56
   offset: 0, 0
@@ -118,7 +132,7 @@ obstacle_oxer3_obstacle_oxer3_64_d_4_21.png
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_d_4_3.png
   rotate: false
-  xy: 591, 5
+  xy: 649, 5
   size: 87, 57
   orig: 87, 57
   offset: 0, 0
@@ -160,63 +174,63 @@ obstacle_oxer3_obstacle_oxer3_64_d_4_8.png
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_d_4_9.png
   rotate: false
-  xy: 1768, 73
+  xy: 1862, 73
   size: 74, 53
   orig: 74, 53
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_e_4_0.png
   rotate: false
-  xy: 736, 67
+  xy: 649, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_e_4_1.png
   rotate: false
-  xy: 97, 16
+  xy: 86, 16
   size: 14, 21
   orig: 14, 21
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_e_4_2.png
   rotate: false
-  xy: 256, 36
+  xy: 277, 36
   size: 16, 24
   orig: 16, 24
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_e_4_3.png
   rotate: false
-  xy: 237, 34
+  xy: 67, 11
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_e_4_4.png
   rotate: false
-  xy: 2016, 93
+  xy: 251, 27
   size: 24, 33
   orig: 24, 33
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_e_4_5.png
   rotate: false
-  xy: 1969, 84
+  xy: 168, 18
   size: 45, 42
   orig: 45, 42
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_e_4_6.png
   rotate: false
-  xy: 1920, 82
+  xy: 788, 24
   size: 47, 44
   orig: 47, 44
   offset: 0, 0
   index: -1
 obstacle_oxer3_obstacle_oxer3_64_e_4_7.png
   rotate: false
-  xy: 680, 16
+  xy: 738, 22
   size: 48, 46
   orig: 48, 46
   offset: 0, 0
@@ -237,7 +251,7 @@ obstacle_oxer3_obstacle_oxer3_64_g_4_0.png
   index: -1
 obstacle_oxer3_obstacle_oxer3_icon_a.png
   rotate: false
-  xy: 67, 14
+  xy: 251, 2
   size: 28, 23
   orig: 28, 23
   offset: 0, 0

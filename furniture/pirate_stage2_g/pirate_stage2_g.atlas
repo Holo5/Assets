@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 pirate_stage2_g_pirate_stage2_g_64_a_0_0.png
   rotate: false
-  xy: 12, 2
+  xy: 22, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -51,6 +51,13 @@ pirate_stage2_g_pirate_stage2_g_64_a_6_0.png
   xy: 897, 96
   size: 68, 30
   orig: 68, 30
+  offset: 0, 0
+  index: -1
+pirate_stage2_g_pirate_stage2_g_64_a_7_0.png
+  rotate: false
+  xy: 12, 2
+  size: 8, 1
+  orig: 8, 1
   offset: 0, 0
   index: -1
 pirate_stage2_g_pirate_stage2_g_64_b_0_0.png
@@ -109,6 +116,13 @@ pirate_stage2_g_pirate_stage2_g_64_b_7_0.png
   orig: 29, 52
   offset: 0, 0
   index: -1
+pirate_stage2_g_pirate_stage2_g_64_c_0_0.png
+  rotate: false
+  xy: 28, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 pirate_stage2_g_pirate_stage2_g_64_c_1_0.png
   rotate: false
   xy: 600, 27
@@ -144,6 +158,13 @@ pirate_stage2_g_pirate_stage2_g_64_c_5_0.png
   orig: 10, 67
   offset: 0, 0
   index: -1
+pirate_stage2_g_pirate_stage2_g_64_c_6_0.png
+  rotate: false
+  xy: 25, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 pirate_stage2_g_pirate_stage2_g_64_c_7_0.png
   rotate: false
   xy: 651, 6
@@ -153,7 +174,7 @@ pirate_stage2_g_pirate_stage2_g_64_c_7_0.png
   index: -1
 pirate_stage2_g_pirate_stage2_g_64_d_0_0.png
   rotate: false
-  xy: 15, 2
+  xy: 37, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -270,6 +291,13 @@ pirate_stage2_g_pirate_stage2_g_64_e_7_0.png
   orig: 32, 59
   offset: 0, 0
   index: -1
+pirate_stage2_g_pirate_stage2_g_64_f_0_0.png
+  rotate: false
+  xy: 34, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 pirate_stage2_g_pirate_stage2_g_64_f_1_0.png
   rotate: false
   xy: 547, 77
@@ -303,6 +331,13 @@ pirate_stage2_g_pirate_stage2_g_64_f_5_0.png
   xy: 764, 4
   size: 27, 74
   orig: 27, 74
+  offset: 0, 0
+  index: -1
+pirate_stage2_g_pirate_stage2_g_64_f_6_0.png
+  rotate: false
+  xy: 31, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 pirate_stage2_g_pirate_stage2_g_64_f_7_0.png

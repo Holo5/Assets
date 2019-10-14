@@ -1,152 +1,278 @@
 
 room_thr15_div3.png
-size: 128,256
+size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 room_thr15_div3_room_thr15_div3_64_a_0_0.png
   rotate: false
-  xy: 79, 106
+  xy: 748, 43
   size: 38, 19
   orig: 38, 19
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_64_a_0_1.png
   rotate: false
-  xy: 64, 174
+  xy: 572, 46
   size: 58, 16
   orig: 58, 16
   offset: 0, 0
   index: -1
+room_thr15_div3_room_thr15_div3_64_a_0_10.png
+  rotate: false
+  xy: 572, 24
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
 room_thr15_div3_room_thr15_div3_64_a_0_11.png
   rotate: false
-  xy: 82, 34
+  xy: 712, 31
   size: 34, 31
   orig: 34, 31
   offset: 0, 0
   index: -1
+room_thr15_div3_room_thr15_div3_64_a_0_2.png
+  rotate: false
+  xy: 488, 2
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+room_thr15_div3_room_thr15_div3_64_a_0_3.png
+  rotate: false
+  xy: 446, 2
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
 room_thr15_div3_room_thr15_div3_64_a_0_4.png
   rotate: false
-  xy: 2, 2
+  xy: 404, 2
   size: 40, 20
   orig: 40, 20
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_64_a_0_5.png
   rotate: false
-  xy: 46, 34
+  xy: 614, 13
   size: 34, 31
   orig: 34, 31
   offset: 0, 0
   index: -1
+room_thr15_div3_room_thr15_div3_64_a_0_6.png
+  rotate: false
+  xy: 788, 43
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
 room_thr15_div3_room_thr15_div3_64_a_0_7.png
   rotate: false
-  xy: 64, 192
+  xy: 2, 6
   size: 62, 17
   orig: 62, 17
   offset: 0, 0
   index: -1
+room_thr15_div3_room_thr15_div3_64_a_0_8.png
+  rotate: false
+  xy: 572, 2
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+room_thr15_div3_room_thr15_div3_64_a_0_9.png
+  rotate: false
+  xy: 530, 2
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+room_thr15_div3_room_thr15_div3_64_b_0_0.png
+  rotate: false
+  xy: 182, 17
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
 room_thr15_div3_room_thr15_div3_64_b_0_1.png
   rotate: false
-  xy: 2, 164
+  xy: 74, 16
   size: 60, 46
   orig: 60, 46
   offset: 0, 0
   index: -1
+room_thr15_div3_room_thr15_div3_64_b_0_10.png
+  rotate: false
+  xy: 71, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 room_thr15_div3_room_thr15_div3_64_b_0_11.png
   rotate: false
-  xy: 79, 127
+  xy: 492, 25
   size: 38, 37
   orig: 38, 37
   offset: 0, 0
   index: -1
+room_thr15_div3_room_thr15_div3_64_b_0_2.png
+  rotate: false
+  xy: 360, 19
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+room_thr15_div3_room_thr15_div3_64_b_0_3.png
+  rotate: false
+  xy: 448, 24
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+room_thr15_div3_room_thr15_div3_64_b_0_4.png
+  rotate: false
+  xy: 272, 16
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
 room_thr15_div3_room_thr15_div3_64_b_0_5.png
   rotate: false
-  xy: 77, 67
+  xy: 532, 25
   size: 38, 37
   orig: 38, 37
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_64_c_0_0.png
   rotate: false
-  xy: 124, 189
+  xy: 709, 61
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_64_c_0_10.png
   rotate: false
-  xy: 2, 69
+  xy: 228, 16
   size: 42, 46
   orig: 42, 46
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_64_c_0_11.png
   rotate: false
-  xy: 46, 72
+  xy: 681, 11
   size: 29, 43
   orig: 29, 43
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_64_c_0_5.png
   rotate: false
-  xy: 48, 119
+  xy: 650, 11
   size: 29, 43
   orig: 29, 43
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_64_c_0_6.png
   rotate: false
-  xy: 2, 117
+  xy: 136, 17
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_64_c_0_7.png
   rotate: false
-  xy: 2, 212
+  xy: 2, 25
   size: 70, 37
   orig: 70, 37
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_64_c_0_8.png
   rotate: false
-  xy: 2, 24
+  xy: 316, 19
   size: 42, 43
   orig: 42, 43
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_64_c_0_9.png
   rotate: false
-  xy: 74, 211
+  xy: 404, 24
   size: 42, 38
   orig: 42, 38
   offset: 0, 0
   index: -1
+room_thr15_div3_room_thr15_div3_64_d_0_0.png
+  rotate: false
+  xy: 860, 56
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
 room_thr15_div3_room_thr15_div3_64_d_0_1.png
   rotate: false
-  xy: 64, 166
+  xy: 632, 56
   size: 60, 6
   orig: 60, 6
   offset: 0, 0
   index: -1
+room_thr15_div3_room_thr15_div3_64_d_0_10.png
+  rotate: false
+  xy: 632, 48
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+room_thr15_div3_room_thr15_div3_64_d_0_11.png
+  rotate: false
+  xy: 66, 17
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+room_thr15_div3_room_thr15_div3_64_d_0_2.png
+  rotate: false
+  xy: 614, 5
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+room_thr15_div3_room_thr15_div3_64_d_0_3.png
+  rotate: false
+  xy: 704, 56
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+room_thr15_div3_room_thr15_div3_64_d_0_5.png
+  rotate: false
+  xy: 748, 35
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
 room_thr15_div3_room_thr15_div3_64_d_0_6.png
   rotate: false
-  xy: 123, 243
+  xy: 712, 23
   size: 3, 6
   orig: 3, 6
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_64_d_0_8.png
   rotate: false
-  xy: 118, 243
+  xy: 694, 56
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+room_thr15_div3_room_thr15_div3_64_d_0_9.png
+  rotate: false
+  xy: 699, 56
   size: 3, 6
   orig: 3, 6
   offset: 0, 0
   index: -1
 room_thr15_div3_room_thr15_div3_icon_a.png
   rotate: false
-  xy: 46, 8
+  xy: 828, 38
   size: 30, 24
   orig: 30, 24
   offset: 0, 0

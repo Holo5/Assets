@@ -102,6 +102,13 @@ lon_gate_lon_gate_64_g_2_15.png
   orig: 23, 17
   offset: 0, 0
   index: -1
+lon_gate_lon_gate_64_g_2_16.png
+  rotate: false
+  xy: 69, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 lon_gate_lon_gate_64_g_2_2.png
   rotate: false
   xy: 248, 132
@@ -214,6 +221,13 @@ lon_gate_lon_gate_64_h_2_15.png
   orig: 12, 12
   offset: 0, 0
   index: -1
+lon_gate_lon_gate_64_h_2_16.png
+  rotate: false
+  xy: 432, 174
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 lon_gate_lon_gate_64_h_2_2.png
   rotate: false
   xy: 298, 136
@@ -298,6 +312,13 @@ lon_gate_lon_gate_64_i_2_3.png
   orig: 47, 133
   offset: 0, 0
   index: -1
+lon_gate_lon_gate_64_i_2_4.png
+  rotate: false
+  xy: 72, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 lon_gate_lon_gate_64_j_2_0.png
   rotate: false
   xy: 100, 45
@@ -312,9 +333,16 @@ lon_gate_lon_gate_64_k_2_0.png
   orig: 8, 60
   offset: 0, 0
   index: -1
+lon_gate_lon_gate_64_l_2_0.png
+  rotate: false
+  xy: 113, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 lon_gate_lon_gate_64_l_2_1.png
   rotate: false
-  xy: 275, 97
+  xy: 69, 30
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
@@ -328,21 +356,28 @@ lon_gate_lon_gate_64_l_2_2.png
   index: -1
 lon_gate_lon_gate_64_l_2_3.png
   rotate: false
-  xy: 69, 30
+  xy: 156, 50
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 lon_gate_lon_gate_64_l_2_4.png
   rotate: false
-  xy: 142, 42
+  xy: 340, 133
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
+lon_gate_lon_gate_64_m_2_0.png
+  rotate: false
+  xy: 110, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 lon_gate_lon_gate_64_m_2_1.png
   rotate: false
-  xy: 236, 75
+  xy: 142, 36
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
@@ -350,6 +385,55 @@ lon_gate_lon_gate_64_m_2_1.png
 lon_gate_lon_gate_64_m_2_2.png
   rotate: false
   xy: 300, 123
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+lon_gate_lon_gate_64_n_2_1.png
+  rotate: false
+  xy: 110, 5
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+lon_gate_lon_gate_64_n_2_2.png
+  rotate: false
+  xy: 275, 97
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+lon_gate_lon_gate_64_n_2_3.png
+  rotate: false
+  xy: 429, 177
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+lon_gate_lon_gate_64_n_2_4.png
+  rotate: false
+  xy: 379, 138
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+lon_gate_lon_gate_64_o_2_0.png
+  rotate: false
+  xy: 429, 174
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lon_gate_lon_gate_64_o_2_1.png
+  rotate: false
+  xy: 135, 23
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+lon_gate_lon_gate_64_o_2_2.png
+  rotate: false
+  xy: 236, 75
   size: 10, 11
   orig: 10, 11
   offset: 0, 0

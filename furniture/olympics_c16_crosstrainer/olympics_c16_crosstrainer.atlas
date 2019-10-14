@@ -67,6 +67,13 @@ olympics_c16_crosstrainer_olympics_c16_crosstrainer_64_b_0_12.png
   orig: 15, 13
   offset: 0, 0
   index: -1
+olympics_c16_crosstrainer_olympics_c16_crosstrainer_64_b_0_13.png
+  rotate: false
+  xy: 234, 95
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 olympics_c16_crosstrainer_olympics_c16_crosstrainer_64_b_0_2.png
   rotate: false
   xy: 171, 47
@@ -121,6 +128,13 @@ olympics_c16_crosstrainer_olympics_c16_crosstrainer_64_b_0_9.png
   xy: 234, 113
   size: 15, 13
   orig: 15, 13
+  offset: 0, 0
+  index: -1
+olympics_c16_crosstrainer_olympics_c16_crosstrainer_64_b_4_0.png
+  rotate: false
+  xy: 251, 125
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 olympics_c16_crosstrainer_olympics_c16_crosstrainer_64_b_6_0.png
@@ -219,6 +233,13 @@ olympics_c16_crosstrainer_olympics_c16_crosstrainer_64_b_6_9.png
   xy: 222, 47
   size: 15, 13
   orig: 15, 13
+  offset: 0, 0
+  index: -1
+olympics_c16_crosstrainer_olympics_c16_crosstrainer_64_c_0_0.png
+  rotate: false
+  xy: 233, 92
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 olympics_c16_crosstrainer_olympics_c16_crosstrainer_64_c_4_0.png

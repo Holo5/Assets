@@ -6,455 +6,1169 @@ filter: Nearest,Nearest
 repeat: none
 army15_largescreen_army15_largescreen_64_a_2_0.png
   rotate: false
-  xy: 2, 111
+  xy: 2, 114
   size: 127, 138
   orig: 127, 138
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_a_4_0.png
   rotate: false
-  xy: 131, 111
+  xy: 131, 114
   size: 125, 138
   orig: 125, 138
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_b_2_0.png
   rotate: false
-  xy: 484, 176
+  xy: 484, 179
   size: 83, 73
   orig: 83, 73
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_b_2_1.png
   rotate: false
-  xy: 2, 36
+  xy: 2, 39
   size: 83, 73
   orig: 83, 73
   offset: 0, 0
   index: -1
+army15_largescreen_army15_largescreen_64_b_2_2.png
+  rotate: false
+  xy: 261, 56
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
 army15_largescreen_army15_largescreen_64_b_4_0.png
   rotate: false
-  xy: 484, 142
+  xy: 484, 145
   size: 80, 32
   orig: 80, 32
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_b_4_1.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 5
   size: 80, 32
   orig: 80, 32
   offset: 0, 0
   index: -1
+army15_largescreen_army15_largescreen_64_b_4_2.png
+  rotate: false
+  xy: 87, 41
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
 army15_largescreen_army15_largescreen_64_c_2_0.png
   rotate: false
-  xy: 258, 111
+  xy: 258, 114
   size: 65, 13
   orig: 65, 13
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_c_2_1.png
   rotate: false
-  xy: 484, 125
+  xy: 484, 128
   size: 65, 15
   orig: 65, 15
   offset: 0, 0
   index: -1
+army15_largescreen_army15_largescreen_64_c_2_2.png
+  rotate: false
+  xy: 990, 206
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
 army15_largescreen_army15_largescreen_64_c_4_0.png
   rotate: false
-  xy: 750, 192
+  xy: 750, 195
   size: 61, 57
   orig: 61, 57
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_c_4_1.png
   rotate: false
-  xy: 687, 190
+  xy: 687, 193
   size: 61, 59
   orig: 61, 59
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_c_4_2.png
   rotate: false
-  xy: 87, 38
+  xy: 261, 60
   size: 1, 2
   orig: 1, 2
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_d_2_0.png
   rotate: false
-  xy: 628, 182
+  xy: 628, 185
   size: 57, 67
   orig: 57, 67
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_d_2_1.png
   rotate: false
-  xy: 569, 182
+  xy: 569, 185
   size: 57, 67
   orig: 57, 67
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_d_2_2.png
   rotate: false
-  xy: 87, 42
+  xy: 87, 45
   size: 57, 67
   orig: 57, 67
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_d_2_3.png
   rotate: false
-  xy: 146, 42
+  xy: 146, 45
   size: 57, 67
   orig: 57, 67
   offset: 0, 0
   index: -1
+army15_largescreen_army15_largescreen_64_d_2_4.png
+  rotate: false
+  xy: 1019, 251
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 army15_largescreen_army15_largescreen_64_d_4_0.png
   rotate: false
-  xy: 205, 61
+  xy: 205, 64
   size: 57, 48
   orig: 57, 48
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_d_4_1.png
   rotate: false
-  xy: 872, 201
+  xy: 872, 204
   size: 57, 48
   orig: 57, 48
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_d_4_2.png
   rotate: false
-  xy: 931, 201
+  xy: 931, 204
   size: 57, 48
   orig: 57, 48
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_d_4_3.png
   rotate: false
-  xy: 813, 201
+  xy: 813, 204
   size: 57, 48
   orig: 57, 48
   offset: 0, 0
   index: -1
+army15_largescreen_army15_largescreen_64_d_4_4.png
+  rotate: false
+  xy: 566, 176
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 army15_largescreen_army15_largescreen_64_e_2_0.png
   rotate: false
-  xy: 441, 111
+  xy: 320, 69
   size: 10, 13
   orig: 10, 13
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_e_2_1.png
   rotate: false
-  xy: 429, 111
+  xy: 332, 86
   size: 10, 13
   orig: 10, 13
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_e_2_2.png
   rotate: false
-  xy: 417, 111
+  xy: 320, 84
   size: 10, 13
   orig: 10, 13
   offset: 0, 0
   index: -1
+army15_largescreen_army15_largescreen_64_e_2_3.png
+  rotate: false
+  xy: 569, 182
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 army15_largescreen_army15_largescreen_64_e_4_0.png
   rotate: false
-  xy: 393, 111
+  xy: 1007, 166
   size: 10, 13
   orig: 10, 13
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_e_4_1.png
   rotate: false
-  xy: 405, 111
+  xy: 320, 99
   size: 10, 13
   orig: 10, 13
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_e_4_2.png
   rotate: false
-  xy: 306, 68
+  xy: 1007, 181
   size: 10, 13
   orig: 10, 13
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_e_4_3.png
   rotate: false
-  xy: 569, 179
+  xy: 2, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-army15_largescreen_army15_largescreen_64_f_2_2.png
+army15_largescreen_army15_largescreen_64_f_2_0.png
   rotate: false
-  xy: 849, 187
+  xy: 867, 176
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_1.png
+  rotate: false
+  xy: 380, 61
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_10.png
+  rotate: false
+  xy: 344, 87
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
+army15_largescreen_army15_largescreen_64_f_2_11.png
+  rotate: false
+  xy: 841, 190
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_12.png
+  rotate: false
+  xy: 967, 190
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_13.png
+  rotate: false
+  xy: 883, 190
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_14.png
+  rotate: false
+  xy: 535, 114
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_15.png
+  rotate: false
+  xy: 493, 114
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_16.png
+  rotate: false
+  xy: 755, 181
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_17.png
+  rotate: false
+  xy: 715, 179
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_18.png
+  rotate: false
+  xy: 428, 69
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_19.png
+  rotate: false
+  xy: 518, 104
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_2.png
+  rotate: false
+  xy: 422, 101
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_20.png
+  rotate: false
+  xy: 551, 128
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_21.png
+  rotate: false
+  xy: 993, 182
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
 army15_largescreen_army15_largescreen_64_f_2_3.png
   rotate: false
-  xy: 306, 97
+  xy: 895, 176
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_f_2_4.png
   rotate: false
-  xy: 367, 112
+  xy: 937, 176
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_f_2_5.png
   rotate: false
-  xy: 885, 189
+  xy: 332, 60
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_6.png
+  rotate: false
+  xy: 368, 73
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_7.png
+  rotate: false
+  xy: 813, 190
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_8.png
+  rotate: false
+  xy: 939, 190
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_2_9.png
+  rotate: false
+  xy: 479, 102
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_0.png
+  rotate: false
+  xy: 292, 58
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_1.png
+  rotate: false
+  xy: 404, 89
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_10.png
+  rotate: false
+  xy: 1007, 196
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_11.png
+  rotate: false
+  xy: 233, 50
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_12.png
+  rotate: false
+  xy: 367, 115
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_13.png
+  rotate: false
+  xy: 292, 100
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_14.png
+  rotate: false
+  xy: 409, 115
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_15.png
+  rotate: false
+  xy: 381, 115
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_16.png
+  rotate: false
+  xy: 990, 210
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_17.png
+  rotate: false
+  xy: 264, 100
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_18.png
+  rotate: false
+  xy: 428, 77
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_19.png
+  rotate: false
+  xy: 509, 104
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_2.png
+  rotate: false
+  xy: 356, 87
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_20.png
+  rotate: false
+  xy: 332, 57
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_21.png
+  rotate: false
+  xy: 346, 101
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_3.png
+  rotate: false
+  xy: 839, 176
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_4.png
+  rotate: false
+  xy: 797, 181
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_5.png
+  rotate: false
+  xy: 416, 89
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_6.png
+  rotate: false
+  xy: 368, 87
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_7.png
+  rotate: false
+  xy: 1004, 210
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_8.png
+  rotate: false
+  xy: 306, 100
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_f_4_9.png
+  rotate: false
+  xy: 320, 57
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_g_2_0.png
   rotate: false
-  xy: 292, 83
+  xy: 853, 176
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_g_2_1.png
   rotate: false
-  xy: 897, 189
+  xy: 368, 61
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_10.png
+  rotate: false
+  xy: 332, 72
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_11.png
+  rotate: false
+  xy: 827, 190
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_12.png
+  rotate: false
+  xy: 953, 190
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_13.png
+  rotate: false
+  xy: 869, 190
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_14.png
+  rotate: false
+  xy: 521, 114
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_15.png
+  rotate: false
+  xy: 479, 114
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_16.png
+  rotate: false
+  xy: 993, 196
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_17.png
+  rotate: false
+  xy: 701, 179
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_18.png
+  rotate: false
+  xy: 428, 85
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_19.png
+  rotate: false
+  xy: 500, 104
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_2.png
+  rotate: false
+  xy: 380, 73
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_20.png
+  rotate: false
+  xy: 566, 173
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_21.png
+  rotate: false
+  xy: 993, 168
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_3.png
+  rotate: false
+  xy: 909, 176
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_4.png
+  rotate: false
+  xy: 951, 176
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_5.png
+  rotate: false
+  xy: 356, 61
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_6.png
+  rotate: false
+  xy: 380, 87
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_7.png
+  rotate: false
+  xy: 465, 115
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_8.png
+  rotate: false
+  xy: 925, 190
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_2_9.png
+  rotate: false
+  xy: 416, 65
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_0.png
+  rotate: false
+  xy: 278, 58
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_1.png
+  rotate: false
+  xy: 392, 75
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_10.png
+  rotate: false
+  xy: 743, 179
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_11.png
+  rotate: false
+  xy: 264, 72
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_12.png
+  rotate: false
+  xy: 292, 72
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_13.png
+  rotate: false
+  xy: 353, 115
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_14.png
+  rotate: false
+  xy: 423, 115
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_15.png
+  rotate: false
+  xy: 306, 72
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_16.png
+  rotate: false
+  xy: 219, 50
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_17.png
+  rotate: false
+  xy: 551, 131
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_18.png
+  rotate: false
+  xy: 543, 106
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_19.png
+  rotate: false
+  xy: 527, 104
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_2.png
+  rotate: false
+  xy: 344, 73
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_20.png
+  rotate: false
+  xy: 428, 66
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_21.png
+  rotate: false
+  xy: 360, 101
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_3.png
+  rotate: false
+  xy: 825, 176
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_4.png
+  rotate: false
+  xy: 783, 181
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_5.png
+  rotate: false
+  xy: 404, 77
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_6.png
+  rotate: false
+  xy: 356, 73
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_7.png
+  rotate: false
+  xy: 339, 115
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_8.png
+  rotate: false
+  xy: 292, 86
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_g_4_9.png
+  rotate: false
+  xy: 416, 77
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_h_2_0.png
+  rotate: false
+  xy: 881, 176
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_h_2_1.png
+  rotate: false
+  xy: 392, 63
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_2_10.png
   rotate: false
-  xy: 453, 112
+  xy: 374, 101
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_2_11.png
   rotate: false
-  xy: 278, 97
+  xy: 437, 115
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_2_12.png
   rotate: false
-  xy: 1004, 207
+  xy: 897, 190
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_2_13.png
   rotate: false
-  xy: 339, 112
+  xy: 855, 190
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_2_14.png
   rotate: false
-  xy: 278, 83
+  xy: 507, 114
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_2_15.png
   rotate: false
-  xy: 264, 69
+  xy: 306, 58
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_2_16.png
   rotate: false
-  xy: 353, 112
+  xy: 729, 179
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_2_17.png
   rotate: false
-  xy: 292, 97
+  xy: 687, 179
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
-army15_largescreen_army15_largescreen_64_h_2_21.png
+army15_largescreen_army15_largescreen_64_h_2_18.png
   rotate: false
-  xy: 292, 69
-  size: 12, 12
-  orig: 12, 12
+  xy: 428, 93
+  size: 5, 6
+  orig: 5, 6
   offset: 0, 0
   index: -1
-army15_largescreen_army15_largescreen_64_h_2_6.png
+army15_largescreen_army15_largescreen_64_h_2_19.png
   rotate: false
-  xy: 837, 187
+  xy: 491, 104
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_h_2_2.png
+  rotate: false
+  xy: 392, 87
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
+army15_largescreen_army15_largescreen_64_h_2_20.png
+  rotate: false
+  xy: 84, 36
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_h_2_21.png
+  rotate: false
+  xy: 979, 176
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_h_2_3.png
+  rotate: false
+  xy: 923, 176
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_h_2_4.png
+  rotate: false
+  xy: 965, 176
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_h_2_5.png
+  rotate: false
+  xy: 344, 61
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_h_2_6.png
+  rotate: false
+  xy: 410, 101
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_h_2_7.png
+  rotate: false
+  xy: 451, 115
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_h_2_8.png
+  rotate: false
+  xy: 911, 190
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
 army15_largescreen_army15_largescreen_64_h_2_9.png
   rotate: false
-  xy: 909, 189
+  xy: 404, 65
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_0.png
   rotate: false
-  xy: 233, 47
+  xy: 264, 58
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_1.png
   rotate: false
-  xy: 813, 189
+  xy: 434, 103
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_10.png
   rotate: false
-  xy: 381, 112
+  xy: 981, 190
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_11.png
   rotate: false
-  xy: 551, 128
+  xy: 264, 86
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_12.png
   rotate: false
-  xy: 990, 207
+  xy: 247, 50
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_13.png
   rotate: false
-  xy: 325, 112
+  xy: 278, 86
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_14.png
   rotate: false
-  xy: 264, 83
+  xy: 395, 115
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_15.png
   rotate: false
-  xy: 219, 47
+  xy: 306, 86
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_16.png
   rotate: false
-  xy: 264, 97
+  xy: 325, 115
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_17.png
   rotate: false
-  xy: 205, 47
+  xy: 205, 50
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_18.png
   rotate: false
-  xy: 477, 118
+  xy: 536, 106
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_19.png
   rotate: false
-  xy: 921, 191
+  xy: 470, 105
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_2.png
   rotate: false
-  xy: 465, 112
+  xy: 386, 101
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
+army15_largescreen_army15_largescreen_64_h_4_20.png
+  rotate: false
+  xy: 205, 47
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 army15_largescreen_army15_largescreen_64_h_4_21.png
   rotate: false
-  xy: 306, 83
+  xy: 332, 101
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_3.png
   rotate: false
-  xy: 278, 69
+  xy: 811, 176
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_4.png
   rotate: false
-  xy: 247, 47
+  xy: 769, 181
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_5.png
   rotate: false
-  xy: 861, 189
+  xy: 446, 103
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_h_4_6.png
   rotate: false
-  xy: 825, 187
+  xy: 398, 101
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
+army15_largescreen_army15_largescreen_64_h_4_7.png
+  rotate: false
+  xy: 278, 100
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+army15_largescreen_army15_largescreen_64_h_4_8.png
+  rotate: false
+  xy: 278, 72
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
 army15_largescreen_army15_largescreen_64_h_4_9.png
   rotate: false
-  xy: 873, 189
+  xy: 458, 103
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_i_2_0.png
   rotate: false
-  xy: 258, 126
+  xy: 258, 129
   size: 111, 123
   orig: 111, 123
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_64_i_4_0.png
   rotate: false
-  xy: 371, 126
+  xy: 371, 129
   size: 111, 123
   orig: 111, 123
   offset: 0, 0
   index: -1
 army15_largescreen_army15_largescreen_icon_a.png
   rotate: false
-  xy: 990, 221
+  xy: 990, 224
   size: 27, 28
   orig: 27, 28
   offset: 0, 0

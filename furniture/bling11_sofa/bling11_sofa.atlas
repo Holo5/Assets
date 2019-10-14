@@ -46,6 +46,13 @@ bling11_sofa_bling11_sofa_64_c_6_0.png
   orig: 39, 20
   offset: 0, 0
   index: -1
+bling11_sofa_bling11_sofa_64_d_2_0.png
+  rotate: false
+  xy: 124, 245
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 bling11_sofa_bling11_sofa_64_d_6_0.png
   rotate: false
   xy: 41, 34
@@ -65,6 +72,13 @@ bling11_sofa_bling11_sofa_64_e_6_0.png
   xy: 2, 28
   size: 36, 38
   orig: 36, 38
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_64_f_2_0.png
+  rotate: false
+  xy: 124, 248
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 bling11_sofa_bling11_sofa_64_f_6_0.png

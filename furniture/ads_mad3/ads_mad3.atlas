@@ -6,28 +6,35 @@ filter: Nearest,Nearest
 repeat: none
 ads_mad3_ads_mad3_64_a_2_0.png
   rotate: false
-  xy: 98, 23
+  xy: 98, 44
   size: 94, 174
   orig: 94, 174
   offset: 0, 0
   index: -1
 ads_mad3_ads_mad3_64_a_4_0.png
   rotate: false
-  xy: 2, 23
+  xy: 2, 44
   size: 94, 174
   orig: 94, 174
   offset: 0, 0
   index: -1
-ads_mad3_ads_mad3_64_sd_4_0.png
+ads_mad3_ads_mad3_64_sd_2_0.png
   rotate: false
   xy: 2, 2
   size: 61, 19
   orig: 61, 19
   offset: 0, 0
   index: -1
+ads_mad3_ads_mad3_64_sd_4_0.png
+  rotate: false
+  xy: 2, 23
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
 ads_mad3_ads_mad3_icon_a.png
   rotate: false
-  xy: 194, 167
+  xy: 194, 188
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

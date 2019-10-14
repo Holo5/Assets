@@ -95,6 +95,13 @@ theatre_seat_theatre_seat_64_c_0_0.png
   orig: 65, 77
   offset: 0, 0
   index: -1
+theatre_seat_theatre_seat_64_c_4_0.png
+  rotate: false
+  xy: 262, 71
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 theatre_seat_theatre_seat_64_sd_4_0.png
   rotate: false
   xy: 229, 106

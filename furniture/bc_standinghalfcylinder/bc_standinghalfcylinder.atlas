@@ -48,7 +48,7 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_a_2_0.png
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_a_2_1.png
   rotate: false
-  xy: 712, 11
+  xy: 826, 11
   size: 21, 51
   orig: 21, 51
   offset: 0, 0
@@ -62,14 +62,14 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_a_2_2.png
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_a_2_3.png
   rotate: false
-  xy: 800, 29
+  xy: 712, 16
   size: 21, 33
   orig: 21, 33
   offset: 0, 0
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_a_2_4.png
   rotate: false
-  xy: 911, 39
+  xy: 914, 39
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
@@ -83,7 +83,7 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_a_4_0.png
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_a_4_1.png
   rotate: false
-  xy: 735, 11
+  xy: 849, 11
   size: 21, 51
   orig: 21, 51
   offset: 0, 0
@@ -97,14 +97,14 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_a_4_2.png
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_a_4_3.png
   rotate: false
-  xy: 823, 29
+  xy: 735, 16
   size: 21, 33
   orig: 21, 33
   offset: 0, 0
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_a_4_4.png
   rotate: false
-  xy: 888, 39
+  xy: 800, 26
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
@@ -174,7 +174,7 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_0_3.png
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_0_4.png
   rotate: false
-  xy: 582, 25
+  xy: 746, 51
   size: 38, 11
   orig: 38, 11
   offset: 0, 0
@@ -188,7 +188,7 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_2_0.png
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_2_1.png
   rotate: false
-  xy: 779, 13
+  xy: 893, 13
   size: 19, 49
   orig: 19, 49
   offset: 0, 0
@@ -202,7 +202,7 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_2_2.png
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_2_3.png
   rotate: false
-  xy: 846, 31
+  xy: 758, 18
   size: 19, 31
   orig: 19, 31
   offset: 0, 0
@@ -223,7 +223,7 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_4_0.png
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_4_1.png
   rotate: false
-  xy: 758, 13
+  xy: 872, 13
   size: 19, 49
   orig: 19, 49
   offset: 0, 0
@@ -237,7 +237,7 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_4_2.png
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_4_3.png
   rotate: false
-  xy: 867, 31
+  xy: 779, 18
   size: 19, 31
   orig: 19, 31
   offset: 0, 0
@@ -279,9 +279,16 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_6_3.png
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_b_6_4.png
   rotate: false
-  xy: 666, 51
+  xy: 786, 51
   size: 38, 11
   orig: 38, 11
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_0_0.png
+  rotate: false
+  xy: 416, 2
+  size: 38, 1
+  orig: 38, 1
   offset: 0, 0
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_0_1.png
@@ -291,23 +298,93 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_0_1.png
   orig: 38, 1
   offset: 0, 0
   index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_0_2.png
+  rotate: false
+  xy: 664, 2
+  size: 38, 1
+  orig: 38, 1
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_0_3.png
+  rotate: false
+  xy: 624, 2
+  size: 38, 1
+  orig: 38, 1
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_0_4.png
+  rotate: false
+  xy: 823, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_2_0.png
+  rotate: false
+  xy: 979, 38
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_2_1.png
+  rotate: false
+  xy: 1000, 38
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_2_2.png
+  rotate: false
+  xy: 958, 38
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_2_3.png
   rotate: false
-  xy: 946, 51
+  xy: 937, 38
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_2_4.png
+  rotate: false
+  xy: 1021, 61
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_4_0.png
+  rotate: false
+  xy: 1000, 51
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_4_1.png
+  rotate: false
+  xy: 979, 51
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_4_2.png
+  rotate: false
+  xy: 958, 51
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_4_3.png
   rotate: false
-  xy: 800, 16
+  xy: 937, 51
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_4_4.png
   rotate: false
-  xy: 416, 2
+  xy: 456, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -319,9 +396,37 @@ bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_6_0.png
   orig: 38, 11
   offset: 0, 0
   index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_6_1.png
+  rotate: false
+  xy: 582, 25
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_6_2.png
+  rotate: false
+  xy: 666, 51
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_6_3.png
+  rotate: false
+  xy: 706, 51
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+bc_standinghalfcylinder_bc_standinghalfcylinder_64_c_6_4.png
+  rotate: false
+  xy: 823, 48
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 bc_standinghalfcylinder_bc_standinghalfcylinder_icon_a.png
   rotate: false
-  xy: 934, 34
+  xy: 914, 9
   size: 10, 28
   orig: 10, 28
   offset: 0, 0

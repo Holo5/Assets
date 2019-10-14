@@ -1,313 +1,495 @@
 
 hween12_strengthtest.png
-size: 2048,256
+size: 4096,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hween12_strengthtest_hween12_strengthtest_64_a_2_0.png
+  rotate: false
+  xy: 1054, 114
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween12_strengthtest_hween12_strengthtest_64_a_2_1.png
   rotate: false
-  xy: 1395, 2
+  xy: 934, 2
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_a_2_2.png
+  rotate: false
+  xy: 2684, 117
+  size: 60, 113
+  orig: 60, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_b_2_0.png
+  rotate: false
+  xy: 2114, 114
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_b_2_1.png
+  rotate: false
+  xy: 2926, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_b_2_10.png
   rotate: false
-  xy: 795, 22
+  xy: 3706, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_b_2_11.png
   rotate: false
-  xy: 735, 22
+  xy: 3646, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_b_2_12.png
   rotate: false
-  xy: 915, 22
+  xy: 3826, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_b_2_13.png
   rotate: false
-  xy: 855, 22
+  xy: 3766, 117
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_b_2_14.png
+  rotate: false
+  xy: 3286, 117
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_b_2_15.png
+  rotate: false
+  xy: 2866, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_b_2_16.png
   rotate: false
-  xy: 1821, 137
+  xy: 2498, 117
   size: 60, 113
   orig: 60, 113
   offset: 0, 0
   index: -1
+hween12_strengthtest_hween12_strengthtest_64_b_2_2.png
+  rotate: false
+  xy: 2242, 117
+  size: 62, 113
+  orig: 62, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_b_2_3.png
+  rotate: false
+  xy: 1125, 117
+  size: 83, 113
+  orig: 83, 113
+  offset: 0, 0
+  index: -1
 hween12_strengthtest_hween12_strengthtest_64_b_2_4.png
   rotate: false
-  xy: 759, 137
+  xy: 838, 117
   size: 99, 113
   orig: 99, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_b_2_5.png
   rotate: false
-  xy: 1757, 137
+  xy: 2370, 117
   size: 62, 113
   orig: 62, 113
   offset: 0, 0
   index: -1
+hween12_strengthtest_hween12_strengthtest_64_b_2_6.png
+  rotate: false
+  xy: 3466, 117
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_b_2_7.png
+  rotate: false
+  xy: 3586, 117
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
 hween12_strengthtest_hween12_strengthtest_64_b_2_8.png
   rotate: false
-  xy: 975, 22
+  xy: 3886, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_b_2_9.png
   rotate: false
-  xy: 1035, 22
+  xy: 3946, 117
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_0.png
+  rotate: false
+  xy: 2, 87
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_1.png
+  rotate: false
+  xy: 2986, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_10.png
   rotate: false
-  xy: 1455, 3
+  xy: 994, 2
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_11.png
+  rotate: false
+  xy: 874, 2
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_12.png
   rotate: false
-  xy: 1335, 2
+  xy: 814, 2
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_13.png
   rotate: false
-  xy: 1275, 2
+  xy: 754, 2
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_14.png
   rotate: false
-  xy: 1215, 7
+  xy: 694, 2
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_15.png
+  rotate: false
+  xy: 3106, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_16.png
   rotate: false
-  xy: 1030, 137
+  xy: 1380, 117
   size: 83, 113
   orig: 83, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_17.png
   rotate: false
-  xy: 657, 137
+  xy: 736, 117
   size: 100, 113
   orig: 100, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_18.png
   rotate: false
-  xy: 1197, 122
+  xy: 1547, 102
   size: 80, 128
   orig: 80, 128
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_19.png
   rotate: false
-  xy: 1355, 117
+  xy: 1705, 97
   size: 74, 133
   orig: 74, 133
   offset: 0, 0
   index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_2.png
+  rotate: false
+  xy: 2306, 117
+  size: 62, 113
+  orig: 62, 113
+  offset: 0, 0
+  index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_20.png
   rotate: false
-  xy: 1431, 118
+  xy: 1781, 98
   size: 69, 132
   orig: 69, 132
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_21.png
   rotate: false
-  xy: 2, 110
+  xy: 2, 90
   size: 77, 140
   orig: 77, 140
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_22.png
   rotate: false
-  xy: 1502, 118
+  xy: 1852, 98
   size: 69, 132
   orig: 69, 132
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_23.png
   rotate: false
-  xy: 81, 110
+  xy: 81, 90
+  size: 77, 140
+  orig: 77, 140
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_24.png
+  rotate: false
+  xy: 1923, 98
+  size: 69, 132
+  orig: 69, 132
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_25.png
+  rotate: false
+  xy: 160, 90
   size: 77, 140
   orig: 77, 140
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_26.png
   rotate: false
-  xy: 239, 110
+  xy: 318, 90
   size: 77, 140
   orig: 77, 140
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_27.png
   rotate: false
-  xy: 160, 110
+  xy: 239, 90
   size: 77, 140
   orig: 77, 140
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_28.png
   rotate: false
-  xy: 318, 110
+  xy: 397, 90
   size: 77, 140
   orig: 77, 140
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_29.png
   rotate: false
-  xy: 397, 110
+  xy: 476, 90
   size: 77, 140
   orig: 77, 140
   offset: 0, 0
   index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_3.png
+  rotate: false
+  xy: 1210, 117
+  size: 83, 113
+  orig: 83, 113
+  offset: 0, 0
+  index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_30.png
   rotate: false
-  xy: 476, 110
+  xy: 555, 90
   size: 77, 140
   orig: 77, 140
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_31.png
   rotate: false
-  xy: 1279, 117
+  xy: 1629, 97
   size: 74, 133
   orig: 74, 133
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_32.png
   rotate: false
-  xy: 1115, 122
+  xy: 1465, 102
   size: 80, 128
   orig: 80, 128
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_33.png
   rotate: false
-  xy: 555, 137
+  xy: 634, 117
   size: 100, 113
   orig: 100, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_34.png
   rotate: false
-  xy: 945, 137
+  xy: 1295, 117
   size: 83, 113
   orig: 83, 113
   offset: 0, 0
   index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_35.png
+  rotate: false
+  xy: 3346, 117
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_36.png
+  rotate: false
+  xy: 3046, 117
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_37.png
+  rotate: false
+  xy: 2560, 117
+  size: 60, 113
+  orig: 60, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_4.png
+  rotate: false
+  xy: 939, 117
+  size: 99, 113
+  orig: 99, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_c_2_5.png
+  rotate: false
+  xy: 2434, 117
+  size: 62, 113
+  orig: 62, 113
+  offset: 0, 0
+  index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_6.png
   rotate: false
-  xy: 1155, 7
+  xy: 634, 2
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_7.png
   rotate: false
-  xy: 1095, 6
+  xy: 4006, 116
   size: 58, 114
   orig: 58, 114
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_8.png
   rotate: false
-  xy: 1633, 126
+  xy: 2054, 106
   size: 58, 124
   orig: 58, 124
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_c_2_9.png
   rotate: false
-  xy: 1573, 115
+  xy: 1994, 95
   size: 58, 135
   orig: 58, 135
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_d_2_0.png
   rotate: false
-  xy: 1633, 123
+  xy: 2054, 103
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_d_2_1.png
   rotate: false
-  xy: 1883, 137
+  xy: 2746, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
+hween12_strengthtest_hween12_strengthtest_64_d_2_10.png
+  rotate: false
+  xy: 2622, 117
+  size: 60, 113
+  orig: 60, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_d_2_2.png
+  rotate: false
+  xy: 2178, 117
+  size: 62, 113
+  orig: 62, 113
+  offset: 0, 0
+  index: -1
 hween12_strengthtest_hween12_strengthtest_64_d_2_3.png
   rotate: false
-  xy: 860, 137
+  xy: 1040, 117
   size: 83, 113
   orig: 83, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_d_2_4.png
   rotate: false
-  xy: 1693, 137
+  xy: 2114, 117
   size: 62, 113
   orig: 62, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_d_2_5.png
   rotate: false
-  xy: 615, 22
+  xy: 3406, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_d_2_6.png
   rotate: false
-  xy: 675, 22
+  xy: 3526, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_d_2_7.png
   rotate: false
-  xy: 1943, 137
+  xy: 3166, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_64_d_2_8.png
   rotate: false
-  xy: 555, 22
+  xy: 3226, 117
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+hween12_strengthtest_hween12_strengthtest_64_d_2_9.png
+  rotate: false
+  xy: 2806, 117
   size: 58, 113
   orig: 58, 113
   offset: 0, 0
   index: -1
 hween12_strengthtest_hween12_strengthtest_icon_a.png
   rotate: false
-  xy: 2003, 220
+  xy: 4066, 200
   size: 15, 30
   orig: 15, 30
   offset: 0, 0

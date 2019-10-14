@@ -4,6 +4,20 @@ size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+wildwest_wagon_wildwest_wagon_64_a_0_0.png
+  rotate: false
+  xy: 446, 124
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_a_0_1.png
+  rotate: false
+  xy: 446, 121
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 wildwest_wagon_wildwest_wagon_64_a_4_0.png
   rotate: false
   xy: 449, 36

@@ -39,6 +39,13 @@ anc_artifact1_anc_artifact1_64_e_2_0.png
   orig: 68, 145
   offset: 0, 0
   index: -1
+anc_artifact1_anc_artifact1_64_f_2_0.png
+  rotate: false
+  xy: 253, 249
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 anc_artifact1_anc_artifact1_64_f_2_1.png
   rotate: false
   xy: 250, 247
@@ -48,14 +55,14 @@ anc_artifact1_anc_artifact1_64_f_2_1.png
   index: -1
 anc_artifact1_anc_artifact1_64_f_2_2.png
   rotate: false
-  xy: 216, 196
+  xy: 174, 167
   size: 6, 3
   orig: 6, 3
   offset: 0, 0
   index: -1
 anc_artifact1_anc_artifact1_64_f_2_3.png
   rotate: false
-  xy: 53, 81
+  xy: 72, 88
   size: 10, 3
   orig: 10, 3
   offset: 0, 0
@@ -69,7 +76,7 @@ anc_artifact1_anc_artifact1_64_f_2_4.png
   index: -1
 anc_artifact1_anc_artifact1_64_f_2_5.png
   rotate: false
-  xy: 237, 207
+  xy: 174, 172
   size: 17, 11
   orig: 17, 11
   offset: 0, 0
@@ -88,16 +95,44 @@ anc_artifact1_anc_artifact1_64_f_2_7.png
   orig: 16, 13
   offset: 0, 0
   index: -1
+anc_artifact1_anc_artifact1_64_g_2_0.png
+  rotate: false
+  xy: 253, 246
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+anc_artifact1_anc_artifact1_64_g_2_1.png
+  rotate: false
+  xy: 154, 155
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+anc_artifact1_anc_artifact1_64_g_2_2.png
+  rotate: false
+  xy: 216, 188
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+anc_artifact1_anc_artifact1_64_g_2_3.png
+  rotate: false
+  xy: 237, 201
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
 anc_artifact1_anc_artifact1_64_g_2_4.png
   rotate: false
-  xy: 72, 86
+  xy: 136, 140
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 anc_artifact1_anc_artifact1_64_g_2_5.png
   rotate: false
-  xy: 174, 172
+  xy: 53, 73
   size: 11, 11
   orig: 11, 11
   offset: 0, 0

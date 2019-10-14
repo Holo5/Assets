@@ -6,15 +6,22 @@ filter: Nearest,Nearest
 repeat: none
 eco_cactus2_eco_cactus2_64_a_0_0.png
   rotate: false
-  xy: 2, 13
+  xy: 2, 22
   size: 33, 35
   orig: 33, 35
   offset: 0, 0
   index: -1
 eco_cactus2_eco_cactus2_64_sd_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 23, 11
   size: 27, 9
   orig: 27, 9
+  offset: 0, 0
+  index: -1
+eco_cactus2_eco_cactus2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 18
+  orig: 19, 18
   offset: 0, 0
   index: -1

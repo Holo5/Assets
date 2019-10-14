@@ -13,14 +13,14 @@ fball_goal_r_fball_goal_r_64_a_2_0.png
   index: -1
 fball_goal_r_fball_goal_r_64_a_6_0.png
   rotate: false
-  xy: 189, 16
+  xy: 388, 147
   size: 27, 99
   orig: 27, 99
   offset: 0, 0
   index: -1
 fball_goal_r_fball_goal_r_64_b_2_0.png
   rotate: false
-  xy: 68, 9
+  xy: 307, 144
   size: 47, 102
   orig: 47, 102
   offset: 0, 0
@@ -34,7 +34,7 @@ fball_goal_r_fball_goal_r_64_b_6_0.png
   index: -1
 fball_goal_r_fball_goal_r_64_c_2_0.png
   rotate: false
-  xy: 157, 18
+  xy: 356, 149
   size: 30, 97
   orig: 30, 97
   offset: 0, 0
@@ -48,7 +48,7 @@ fball_goal_r_fball_goal_r_64_c_6_0.png
   index: -1
 fball_goal_r_fball_goal_r_64_d_2_0.png
   rotate: false
-  xy: 117, 2
+  xy: 68, 2
   size: 38, 109
   orig: 38, 109
   offset: 0, 0
@@ -67,9 +67,16 @@ fball_goal_r_fball_goal_r_64_sd_2_0.png
   orig: 114, 58
   offset: 0, 0
   index: -1
+fball_goal_r_fball_goal_r_64_sd_6_0.png
+  rotate: false
+  xy: 191, 128
+  size: 114, 58
+  orig: 114, 58
+  offset: 0, 0
+  index: -1
 fball_goal_r_fball_goal_r_icon_a.png
   rotate: false
-  xy: 307, 217
+  xy: 417, 217
   size: 24, 29
   orig: 24, 29
   offset: 0, 0

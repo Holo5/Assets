@@ -1,68 +1,152 @@
 
 lc_medusa1.png
-size: 512,256
+size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 lc_medusa1_lc_medusa1_64_a_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 8
   size: 52, 74
   orig: 52, 74
   offset: 0, 0
   index: -1
 lc_medusa1_lc_medusa1_64_b_0_0.png
   rotate: false
-  xy: 474, 208
+  xy: 946, 162
   size: 18, 31
   orig: 18, 31
   offset: 0, 0
   index: -1
 lc_medusa1_lc_medusa1_64_c_0_0.png
   rotate: false
-  xy: 106, 26
+  xy: 56, 32
   size: 48, 50
   orig: 48, 50
   offset: 0, 0
   index: -1
 lc_medusa1_lc_medusa1_64_c_0_1.png
   rotate: false
-  xy: 56, 26
+  xy: 946, 195
   size: 48, 50
   orig: 48, 50
   offset: 0, 0
   index: -1
+lc_medusa1_lc_medusa1_64_d_0_0.png
+  rotate: false
+  xy: 106, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 lc_medusa1_lc_medusa1_64_d_0_1.png
   rotate: false
-  xy: 238, 78
+  xy: 474, 84
   size: 116, 161
   orig: 116, 161
+  offset: 0, 0
+  index: -1
+lc_medusa1_lc_medusa1_64_d_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lc_medusa1_lc_medusa1_64_d_2_1.png
+  rotate: false
+  xy: 828, 84
+  size: 116, 161
+  orig: 116, 161
+  offset: 0, 0
+  index: -1
+lc_medusa1_lc_medusa1_64_d_4_0.png
+  rotate: false
+  xy: 56, 29
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 lc_medusa1_lc_medusa1_64_d_4_1.png
   rotate: false
-  xy: 120, 78
+  xy: 238, 84
   size: 116, 161
   orig: 116, 161
+  offset: 0, 0
+  index: -1
+lc_medusa1_lc_medusa1_64_d_6_0.png
+  rotate: false
+  xy: 1013, 244
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lc_medusa1_lc_medusa1_64_d_6_1.png
+  rotate: false
+  xy: 120, 84
+  size: 116, 161
+  orig: 116, 161
+  offset: 0, 0
+  index: -1
+lc_medusa1_lc_medusa1_64_e_0_0.png
+  rotate: false
+  xy: 996, 214
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lc_medusa1_lc_medusa1_64_e_0_1.png
+  rotate: false
+  xy: 592, 84
+  size: 116, 161
+  orig: 116, 161
+  offset: 0, 0
+  index: -1
+lc_medusa1_lc_medusa1_64_e_2_0.png
+  rotate: false
+  xy: 966, 192
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 lc_medusa1_lc_medusa1_64_e_2_1.png
   rotate: false
-  xy: 356, 78
+  xy: 710, 84
   size: 116, 161
   orig: 116, 161
   offset: 0, 0
   index: -1
+lc_medusa1_lc_medusa1_64_e_4_0.png
+  rotate: false
+  xy: 946, 159
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lc_medusa1_lc_medusa1_64_e_4_1.png
+  rotate: false
+  xy: 356, 84
+  size: 116, 161
+  orig: 116, 161
+  offset: 0, 0
+  index: -1
+lc_medusa1_lc_medusa1_64_e_6_0.png
+  rotate: false
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 lc_medusa1_lc_medusa1_64_e_6_1.png
   rotate: false
-  xy: 2, 78
+  xy: 2, 84
   size: 116, 161
   orig: 116, 161
   offset: 0, 0
   index: -1
 lc_medusa1_lc_medusa1_icon_a.png
   rotate: false
-  xy: 156, 48
+  xy: 996, 217
   size: 15, 28
   orig: 15, 28
   offset: 0, 0

@@ -6,42 +6,56 @@ filter: Nearest,Nearest
 repeat: none
 army_c15_cabinet_army_c15_cabinet_64_a_4_0.png
   rotate: false
-  xy: 2, 146
+  xy: 2, 2
   size: 57, 78
   orig: 57, 78
   offset: 0, 0
   index: -1
+army_c15_cabinet_army_c15_cabinet_64_b_4_0.png
+  rotate: false
+  xy: 2, 137
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
 army_c15_cabinet_army_c15_cabinet_64_b_4_1.png
   rotate: false
-  xy: 2, 62
+  xy: 2, 195
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+army_c15_cabinet_army_c15_cabinet_64_b_4_2.png
+  rotate: false
+  xy: 2, 166
   size: 34, 27
   orig: 34, 27
   offset: 0, 0
   index: -1
 army_c15_cabinet_army_c15_cabinet_64_b_4_3.png
   rotate: false
-  xy: 2, 91
+  xy: 2, 82
   size: 34, 53
   orig: 34, 53
   offset: 0, 0
   index: -1
 army_c15_cabinet_army_c15_cabinet_64_b_4_4.png
   rotate: false
-  xy: 2, 34
+  xy: 5, 224
   size: 43, 26
   orig: 43, 26
   offset: 0, 0
   index: -1
 army_c15_cabinet_army_c15_cabinet_64_b_4_5.png
   rotate: false
-  xy: 61, 223
+  xy: 2, 249
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 army_c15_cabinet_army_c15_cabinet_icon_a.png
   rotate: false
-  xy: 2, 2
+  xy: 38, 192
   size: 22, 30
   orig: 22, 30
   offset: 0, 0

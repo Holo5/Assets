@@ -60,9 +60,23 @@ school_cafe_school_cafe_64_b_6_0.png
   orig: 65, 86
   offset: 0, 0
   index: -1
-school_cafe_school_cafe_64_sd_4_0.png
+school_cafe_school_cafe_64_sd_0_0.png
+  rotate: false
+  xy: 834, 78
+  size: 92, 46
+  orig: 92, 46
+  offset: 0, 0
+  index: -1
+school_cafe_school_cafe_64_sd_2_0.png
   rotate: false
   xy: 646, 78
+  size: 92, 46
+  orig: 92, 46
+  offset: 0, 0
+  index: -1
+school_cafe_school_cafe_64_sd_4_0.png
+  rotate: false
+  xy: 740, 78
   size: 92, 46
   orig: 92, 46
   offset: 0, 0

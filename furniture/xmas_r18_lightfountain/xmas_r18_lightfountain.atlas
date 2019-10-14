@@ -20,19 +20,26 @@ xmas_r18_lightfountain_xmas_r18_lightfountain_64_a_0_1.png
   index: -1
 xmas_r18_lightfountain_xmas_r18_lightfountain_64_a_0_2.png
   rotate: false
-  xy: 56, 2
+  xy: 302, 24
   size: 52, 13
   orig: 52, 13
   offset: 0, 0
   index: -1
 xmas_r18_lightfountain_xmas_r18_lightfountain_64_a_0_3.png
   rotate: false
-  xy: 642, 102
+  xy: 56, 2
   size: 52, 13
   orig: 52, 13
   offset: 0, 0
   index: -1
 xmas_r18_lightfountain_xmas_r18_lightfountain_64_a_0_4.png
+  rotate: false
+  xy: 642, 102
+  size: 52, 13
+  orig: 52, 13
+  offset: 0, 0
+  index: -1
+xmas_r18_lightfountain_xmas_r18_lightfountain_64_a_0_5.png
   rotate: false
   xy: 560, 55
   size: 52, 13

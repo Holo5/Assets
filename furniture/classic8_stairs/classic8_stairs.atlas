@@ -53,6 +53,13 @@ classic8_stairs_classic8_stairs_64_d_2_0.png
   orig: 63, 63
   offset: 0, 0
   index: -1
+classic8_stairs_classic8_stairs_64_d_6_1.png
+  rotate: false
+  xy: 142, 72
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 classic8_stairs_classic8_stairs_64_e_2_0.png
   rotate: false
   xy: 2, 60
@@ -60,11 +67,32 @@ classic8_stairs_classic8_stairs_64_e_2_0.png
   orig: 65, 64
   offset: 0, 0
   index: -1
+classic8_stairs_classic8_stairs_64_e_6_1.png
+  rotate: false
+  xy: 236, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_64_f_2_0.png
+  rotate: false
+  xy: 204, 76
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 classic8_stairs_classic8_stairs_64_f_6_0.png
   rotate: false
   xy: 69, 4
   size: 45, 55
   orig: 45, 55
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_64_g_2_0.png
+  rotate: false
+  xy: 132, 58
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 classic8_stairs_classic8_stairs_64_g_6_0.png

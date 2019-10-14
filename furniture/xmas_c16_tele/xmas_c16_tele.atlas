@@ -48,7 +48,7 @@ xmas_c16_tele_xmas_c16_tele_64_b_0_1.png
   index: -1
 xmas_c16_tele_xmas_c16_tele_64_b_0_10.png
   rotate: false
-  xy: 422, 23
+  xy: 468, 70
   size: 26, 8
   orig: 26, 8
   offset: 0, 0
@@ -65,6 +65,13 @@ xmas_c16_tele_xmas_c16_tele_64_b_0_12.png
   xy: 74, 2
   size: 6, 3
   orig: 6, 3
+  offset: 0, 0
+  index: -1
+xmas_c16_tele_xmas_c16_tele_64_b_0_13.png
+  rotate: false
+  xy: 104, 3
+  size: 3, 3
+  orig: 3, 3
   offset: 0, 0
   index: -1
 xmas_c16_tele_xmas_c16_tele_64_b_0_14.png
@@ -90,9 +97,16 @@ xmas_c16_tele_xmas_c16_tele_64_b_0_16.png
   index: -1
 xmas_c16_tele_xmas_c16_tele_64_b_0_17.png
   rotate: false
-  xy: 468, 54
+  xy: 496, 74
   size: 13, 5
   orig: 13, 5
+  offset: 0, 0
+  index: -1
+xmas_c16_tele_xmas_c16_tele_64_b_0_18.png
+  rotate: false
+  xy: 468, 47
+  size: 3, 3
+  orig: 3, 3
   offset: 0, 0
   index: -1
 xmas_c16_tele_xmas_c16_tele_64_b_0_19.png
@@ -104,7 +118,7 @@ xmas_c16_tele_xmas_c16_tele_64_b_0_19.png
   index: -1
 xmas_c16_tele_xmas_c16_tele_64_b_0_2.png
   rotate: false
-  xy: 468, 61
+  xy: 480, 55
   size: 12, 13
   orig: 12, 13
   offset: 0, 0
@@ -139,14 +153,14 @@ xmas_c16_tele_xmas_c16_tele_64_b_0_23.png
   index: -1
 xmas_c16_tele_xmas_c16_tele_64_b_0_3.png
   rotate: false
-  xy: 471, 76
+  xy: 496, 81
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 xmas_c16_tele_xmas_c16_tele_64_b_0_4.png
   rotate: false
-  xy: 450, 27
+  xy: 468, 52
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
@@ -179,6 +193,13 @@ xmas_c16_tele_xmas_c16_tele_64_b_0_8.png
   orig: 23, 8
   offset: 0, 0
   index: -1
+xmas_c16_tele_xmas_c16_tele_64_b_0_9.png
+  rotate: false
+  xy: 471, 80
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
 xmas_c16_tele_xmas_c16_tele_64_c_0_0.png
   rotate: false
   xy: 46, 7
@@ -191,6 +212,20 @@ xmas_c16_tele_xmas_c16_tele_64_c_0_1.png
   xy: 2, 4
   size: 42, 122
   orig: 42, 122
+  offset: 0, 0
+  index: -1
+xmas_c16_tele_xmas_c16_tele_64_c_0_2.png
+  rotate: false
+  xy: 87, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c16_tele_xmas_c16_tele_64_d_0_0.png
+  rotate: false
+  xy: 258, 25
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c16_tele_xmas_c16_tele_64_d_0_1.png

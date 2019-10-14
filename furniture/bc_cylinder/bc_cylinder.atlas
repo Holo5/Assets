@@ -74,6 +74,13 @@ bc_cylinder_bc_cylinder_64_b_0_4.png
   orig: 38, 24
   offset: 0, 0
   index: -1
+bc_cylinder_bc_cylinder_64_c_0_0.png
+  rotate: false
+  xy: 330, 51
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
 bc_cylinder_bc_cylinder_64_c_0_1.png
   rotate: false
   xy: 208, 8
@@ -81,11 +88,32 @@ bc_cylinder_bc_cylinder_64_c_0_1.png
   orig: 38, 11
   offset: 0, 0
   index: -1
+bc_cylinder_bc_cylinder_64_c_0_2.png
+  rotate: false
+  xy: 370, 51
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+bc_cylinder_bc_cylinder_64_c_0_3.png
+  rotate: false
+  xy: 330, 38
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
 bc_cylinder_bc_cylinder_64_c_0_4.png
   rotate: false
-  xy: 58, 2
+  xy: 410, 61
   size: 1, 1
   orig: 1, 1
+  offset: 0, 0
+  index: -1
+bc_cylinder_bc_cylinder_64_d_0_0.png
+  rotate: false
+  xy: 370, 48
+  size: 12, 1
+  orig: 12, 1
   offset: 0, 0
   index: -1
 bc_cylinder_bc_cylinder_64_d_0_1.png
@@ -95,9 +123,30 @@ bc_cylinder_bc_cylinder_64_d_0_1.png
   orig: 12, 1
   offset: 0, 0
   index: -1
+bc_cylinder_bc_cylinder_64_d_0_2.png
+  rotate: false
+  xy: 58, 2
+  size: 12, 1
+  orig: 12, 1
+  offset: 0, 0
+  index: -1
+bc_cylinder_bc_cylinder_64_d_0_3.png
+  rotate: false
+  xy: 72, 2
+  size: 12, 1
+  orig: 12, 1
+  offset: 0, 0
+  index: -1
+bc_cylinder_bc_cylinder_64_d_0_4.png
+  rotate: false
+  xy: 166, 17
+  size: 12, 1
+  orig: 12, 1
+  offset: 0, 0
+  index: -1
 bc_cylinder_bc_cylinder_icon_a.png
   rotate: false
-  xy: 330, 34
+  xy: 330, 8
   size: 19, 28
   orig: 19, 28
   offset: 0, 0

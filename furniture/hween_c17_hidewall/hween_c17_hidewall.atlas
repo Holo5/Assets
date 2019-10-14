@@ -6,133 +6,154 @@ filter: Nearest,Nearest
 repeat: none
 hween_c17_hidewall_hween_c17_hidewall_64_a_0_0.png
   rotate: false
-  xy: 2, 51
+  xy: 2, 54
   size: 46, 57
   orig: 46, 57
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_a_0_1.png
   rotate: false
-  xy: 305, 199
+  xy: 305, 202
   size: 46, 47
   orig: 46, 47
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_b_0_0.png
   rotate: false
-  xy: 50, 86
+  xy: 50, 89
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_b_0_1.png
   rotate: false
-  xy: 305, 176
+  xy: 305, 179
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_b_0_2.png
   rotate: false
-  xy: 170, 111
+  xy: 170, 114
   size: 4, 2
   orig: 4, 2
   offset: 0, 0
   index: -1
+hween_c17_hidewall_hween_c17_hidewall_64_b_0_3.png
+  rotate: false
+  xy: 26, 41
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_c_0_0.png
   rotate: false
-  xy: 170, 115
+  xy: 170, 118
   size: 66, 131
   orig: 66, 131
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_c_0_1.png
   rotate: false
-  xy: 238, 115
+  xy: 238, 118
   size: 65, 131
   orig: 65, 131
   offset: 0, 0
   index: -1
+hween_c17_hidewall_hween_c17_hidewall_64_d_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_d_0_1.png
   rotate: false
-  xy: 353, 228
+  xy: 353, 231
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_e_0_0.png
   rotate: false
-  xy: 353, 231
+  xy: 353, 234
   size: 10, 15
   orig: 10, 15
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_e_0_1.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 5
   size: 10, 15
   orig: 10, 15
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_e_0_2.png
   rotate: false
-  xy: 50, 93
+  xy: 50, 96
   size: 10, 15
   orig: 10, 15
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_e_0_3.png
   rotate: false
-  xy: 305, 182
+  xy: 305, 185
   size: 10, 15
   orig: 10, 15
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_f_0_0.png
   rotate: false
-  xy: 26, 41
+  xy: 26, 44
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_f_0_1.png
   rotate: false
-  xy: 317, 190
+  xy: 317, 193
   size: 12, 7
   orig: 12, 7
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_f_0_2.png
   rotate: false
-  xy: 62, 101
+  xy: 62, 104
   size: 12, 7
   orig: 12, 7
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_f_0_3.png
   rotate: false
-  xy: 365, 241
+  xy: 365, 244
   size: 11, 5
   orig: 11, 5
   offset: 0, 0
   index: -1
+hween_c17_hidewall_hween_c17_hidewall_64_f_0_4.png
+  rotate: false
+  xy: 14, 19
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_g_0_0.png
   rotate: false
-  xy: 86, 110
+  xy: 86, 113
   size: 82, 136
   orig: 82, 136
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_64_g_0_1.png
   rotate: false
-  xy: 2, 110
+  xy: 2, 113
   size: 82, 136
   orig: 82, 136
   offset: 0, 0
   index: -1
 hween_c17_hidewall_hween_c17_hidewall_icon_a.png
   rotate: false
-  xy: 2, 19
+  xy: 2, 22
   size: 22, 30
   orig: 22, 30
   offset: 0, 0

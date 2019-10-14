@@ -6,329 +6,357 @@ filter: Nearest,Nearest
 repeat: none
 pirate_kraken_pirate_kraken_64_a_0_0.png
   rotate: false
-  xy: 546, 34
+  xy: 546, 46
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_1.png
   rotate: false
-  xy: 1356, 36
+  xy: 1491, 153
   size: 133, 101
   orig: 133, 101
   offset: 0, 0
   index: -1
+pirate_kraken_pirate_kraken_64_a_0_10.png
+  rotate: false
+  xy: 681, 151
+  size: 133, 103
+  orig: 133, 103
+  offset: 0, 0
+  index: -1
 pirate_kraken_pirate_kraken_64_a_0_11.png
   rotate: false
-  xy: 139, 34
+  xy: 139, 46
   size: 134, 103
   orig: 134, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_12.png
   rotate: false
-  xy: 2, 139
+  xy: 2, 151
   size: 135, 103
   orig: 135, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_13.png
   rotate: false
-  xy: 139, 139
+  xy: 139, 151
   size: 134, 103
   orig: 134, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_14.png
   rotate: false
-  xy: 681, 34
+  xy: 816, 151
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_15.png
   rotate: false
-  xy: 2154, 139
+  xy: 2023, 50
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_16.png
   rotate: false
-  xy: 3072, 139
+  xy: 2814, 151
   size: 126, 103
   orig: 126, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_17.png
   rotate: false
-  xy: 2023, 139
+  xy: 1892, 50
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_18.png
   rotate: false
-  xy: 816, 139
+  xy: 816, 46
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_19.png
   rotate: false
-  xy: 681, 139
+  xy: 681, 46
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_2.png
   rotate: false
-  xy: 1626, 40
+  xy: 1892, 155
   size: 133, 99
   orig: 133, 99
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_20.png
   rotate: false
-  xy: 2809, 140
+  xy: 1892, 47
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_3.png
   rotate: false
-  xy: 1491, 141
+  xy: 1491, 50
   size: 133, 101
   orig: 133, 101
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_4.png
   rotate: false
-  xy: 411, 139
+  xy: 411, 151
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_5.png
   rotate: false
-  xy: 411, 34
+  xy: 411, 46
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_6.png
   rotate: false
-  xy: 546, 139
+  xy: 546, 151
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_7.png
   rotate: false
-  xy: 1761, 139
+  xy: 1761, 151
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_8.png
   rotate: false
-  xy: 2944, 139
+  xy: 2686, 151
   size: 126, 103
   orig: 126, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_a_0_9.png
   rotate: false
-  xy: 1892, 139
+  xy: 1761, 46
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_b_0_0.png
   rotate: false
-  xy: 1805, 89
+  xy: 3242, 156
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+pirate_kraken_pirate_kraken_64_b_0_1.png
+  rotate: false
+  xy: 3198, 156
   size: 42, 48
   orig: 42, 48
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_b_0_2.png
   rotate: false
-  xy: 3456, 194
+  xy: 3242, 206
   size: 42, 48
   orig: 42, 48
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_b_0_3.png
   rotate: false
-  xy: 1761, 89
+  xy: 3198, 206
   size: 42, 48
   orig: 42, 48
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_0.png
   rotate: false
-  xy: 1356, 139
+  xy: 1356, 46
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_1.png
   rotate: false
-  xy: 1626, 141
+  xy: 1626, 50
   size: 133, 101
   orig: 133, 101
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_10.png
   rotate: false
-  xy: 1086, 139
+  xy: 1086, 46
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_11.png
   rotate: false
-  xy: 275, 34
+  xy: 275, 46
   size: 134, 103
   orig: 134, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_12.png
   rotate: false
-  xy: 2, 34
+  xy: 2, 46
   size: 135, 103
   orig: 135, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_13.png
   rotate: false
-  xy: 275, 139
+  xy: 275, 151
   size: 134, 103
   orig: 134, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_14.png
   rotate: false
-  xy: 951, 34
+  xy: 1086, 151
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_15.png
   rotate: false
-  xy: 2416, 139
+  xy: 2293, 151
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_16.png
   rotate: false
-  xy: 3200, 139
+  xy: 2942, 151
   size: 126, 103
   orig: 126, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_17.png
   rotate: false
-  xy: 2285, 139
+  xy: 2162, 151
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_18.png
   rotate: false
-  xy: 951, 139
+  xy: 951, 46
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_19.png
   rotate: false
-  xy: 816, 34
+  xy: 951, 151
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_2.png
   rotate: false
-  xy: 2809, 143
+  xy: 2027, 155
   size: 133, 99
   orig: 133, 99
   offset: 0, 0
   index: -1
+pirate_kraken_pirate_kraken_64_c_0_20.png
+  rotate: false
+  xy: 2154, 152
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 pirate_kraken_pirate_kraken_64_c_0_3.png
   rotate: false
-  xy: 1491, 38
+  xy: 1626, 153
   size: 133, 101
   orig: 133, 101
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_4.png
   rotate: false
-  xy: 1221, 139
+  xy: 1221, 46
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_5.png
   rotate: false
-  xy: 1221, 34
+  xy: 1356, 151
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_6.png
   rotate: false
-  xy: 1086, 34
+  xy: 1221, 151
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_7.png
   rotate: false
-  xy: 2678, 139
+  xy: 2555, 151
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_8.png
   rotate: false
-  xy: 3328, 139
+  xy: 3070, 151
   size: 126, 103
   orig: 126, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_c_0_9.png
   rotate: false
-  xy: 2547, 139
+  xy: 2424, 151
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_d_0_0.png
   rotate: false
-  xy: 1761, 41
+  xy: 1491, 2
   size: 42, 46
   orig: 42, 46
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_d_0_1.png
   rotate: false
-  xy: 3500, 196
+  xy: 1579, 2
   size: 42, 46
   orig: 42, 46
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_64_d_0_2.png
   rotate: false
-  xy: 3456, 146
+  xy: 1535, 2
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+pirate_kraken_pirate_kraken_64_d_0_3.png
+  rotate: false
+  xy: 1623, 2
   size: 42, 46
   orig: 42, 46
   offset: 0, 0
   index: -1
 pirate_kraken_pirate_kraken_icon_a.png
   rotate: false
-  xy: 2, 2
+  xy: 3286, 224
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

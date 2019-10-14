@@ -18,6 +18,20 @@ qt_sum11_chair_qt_sum11_chair_64_b_4_0.png
   orig: 46, 37
   offset: 0, 0
   index: -1
+qt_sum11_chair_qt_sum11_chair_64_c_4_0.png
+  rotate: false
+  xy: 8, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+qt_sum11_chair_qt_sum11_chair_64_c_4_1.png
+  rotate: false
+  xy: 55, 45
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
 qt_sum11_chair_qt_sum11_chair_64_c_4_10.png
   rotate: false
   xy: 124, 87
@@ -51,6 +65,13 @@ qt_sum11_chair_qt_sum11_chair_64_c_4_14.png
   xy: 2, 5
   size: 8, 147
   orig: 8, 147
+  offset: 0, 0
+  index: -1
+qt_sum11_chair_qt_sum11_chair_64_c_4_2.png
+  rotate: false
+  xy: 31, 30
+  size: 3, 6
+  orig: 3, 6
   offset: 0, 0
   index: -1
 qt_sum11_chair_qt_sum11_chair_64_c_4_3.png
@@ -100,6 +121,20 @@ qt_sum11_chair_qt_sum11_chair_64_c_4_9.png
   xy: 158, 124
   size: 6, 57
   orig: 6, 57
+  offset: 0, 0
+  index: -1
+qt_sum11_chair_qt_sum11_chair_64_d_4_0.png
+  rotate: false
+  xy: 5, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+qt_sum11_chair_qt_sum11_chair_64_d_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 qt_sum11_chair_qt_sum11_chair_64_d_4_10.png
@@ -191,6 +226,13 @@ qt_sum11_chair_qt_sum11_chair_64_d_4_9.png
   xy: 150, 123
   size: 6, 58
   orig: 6, 58
+  offset: 0, 0
+  index: -1
+qt_sum11_chair_qt_sum11_chair_64_e_4_1.png
+  rotate: false
+  xy: 63, 50
+  size: 3, 3
+  orig: 3, 3
   offset: 0, 0
   index: -1
 qt_sum11_chair_qt_sum11_chair_64_e_4_2.png

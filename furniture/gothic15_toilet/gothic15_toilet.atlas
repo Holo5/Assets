@@ -1,145 +1,236 @@
 
 gothic15_toilet.png
-size: 256,128
+size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 gothic15_toilet_gothic15_toilet_64_a_0_0.png
   rotate: false
-  xy: 161, 21
+  xy: 161, 22
   size: 25, 43
   orig: 25, 43
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_a_4_0.png
   rotate: false
-  xy: 2, 4
+  xy: 2, 5
   size: 62, 120
   orig: 62, 120
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_b_0_0.png
   rotate: false
-  xy: 201, 94
+  xy: 201, 95
   size: 40, 30
   orig: 40, 30
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_b_0_1.png
   rotate: false
-  xy: 159, 66
+  xy: 159, 67
   size: 40, 26
   orig: 40, 26
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_b_4_0.png
   rotate: false
-  xy: 159, 94
+  xy: 159, 95
   size: 40, 30
   orig: 40, 30
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_b_4_1.png
   rotate: false
-  xy: 109, 65
+  xy: 109, 66
   size: 48, 59
   orig: 48, 59
   offset: 0, 0
   index: -1
+gothic15_toilet_gothic15_toilet_64_c_0_0.png
+  rotate: false
+  xy: 229, 89
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gothic15_toilet_gothic15_toilet_64_c_0_1.png
+  rotate: false
+  xy: 435, 101
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
 gothic15_toilet_gothic15_toilet_64_c_0_2.png
   rotate: false
-  xy: 137, 6
+  xy: 407, 114
   size: 26, 11
   orig: 26, 11
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_c_0_3.png
   rotate: false
-  xy: 109, 6
+  xy: 379, 114
   size: 26, 11
   orig: 26, 11
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_c_0_4.png
   rotate: false
-  xy: 208, 25
+  xy: 351, 114
   size: 26, 11
   orig: 26, 11
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_c_0_5.png
   rotate: false
-  xy: 66, 2
+  xy: 323, 114
   size: 26, 11
   orig: 26, 11
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_c_0_6.png
   rotate: false
-  xy: 201, 68
+  xy: 201, 69
   size: 26, 11
   orig: 26, 11
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_c_0_7.png
   rotate: false
-  xy: 201, 81
+  xy: 201, 82
   size: 26, 11
   orig: 26, 11
+  offset: 0, 0
+  index: -1
+gothic15_toilet_gothic15_toilet_64_c_4_0.png
+  rotate: false
+  xy: 66, 13
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_c_4_1.png
   rotate: false
-  xy: 165, 8
+  xy: 435, 114
   size: 26, 11
   orig: 26, 11
   offset: 0, 0
   index: -1
+gothic15_toilet_gothic15_toilet_64_c_4_2.png
+  rotate: false
+  xy: 407, 101
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+gothic15_toilet_gothic15_toilet_64_c_4_3.png
+  rotate: false
+  xy: 379, 101
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+gothic15_toilet_gothic15_toilet_64_c_4_4.png
+  rotate: false
+  xy: 351, 101
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+gothic15_toilet_gothic15_toilet_64_c_4_5.png
+  rotate: false
+  xy: 323, 101
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+gothic15_toilet_gothic15_toilet_64_c_4_6.png
+  rotate: false
+  xy: 295, 101
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+gothic15_toilet_gothic15_toilet_64_c_4_7.png
+  rotate: false
+  xy: 295, 114
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+gothic15_toilet_gothic15_toilet_64_d_0_0.png
+  rotate: false
+  xy: 280, 92
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
 gothic15_toilet_gothic15_toilet_64_d_0_1.png
   rotate: false
-  xy: 230, 59
+  xy: 265, 92
   size: 13, 33
   orig: 13, 33
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_d_4_0.png
   rotate: false
-  xy: 188, 24
+  xy: 188, 25
   size: 18, 40
   orig: 18, 40
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_d_4_1.png
   rotate: false
-  xy: 141, 19
+  xy: 141, 20
   size: 18, 44
   orig: 18, 44
   offset: 0, 0
   index: -1
+gothic15_toilet_gothic15_toilet_64_e_0_0.png
+  rotate: false
+  xy: 229, 92
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 gothic15_toilet_gothic15_toilet_64_e_0_1.png
   rotate: false
-  xy: 109, 19
+  xy: 109, 20
   size: 30, 44
   orig: 30, 44
   offset: 0, 0
   index: -1
+gothic15_toilet_gothic15_toilet_64_e_4_0.png
+  rotate: false
+  xy: 188, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gothic15_toilet_gothic15_toilet_64_e_4_1.png
+  rotate: false
+  xy: 109, 17
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 gothic15_toilet_gothic15_toilet_64_f_0_0.png
   rotate: false
-  xy: 66, 15
+  xy: 66, 16
   size: 41, 109
   orig: 41, 109
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_64_f_4_0.png
   rotate: false
-  xy: 188, 21
+  xy: 2, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 gothic15_toilet_gothic15_toilet_icon_a.png
   rotate: false
-  xy: 208, 38
+  xy: 243, 97
   size: 20, 28
   orig: 20, 28
   offset: 0, 0

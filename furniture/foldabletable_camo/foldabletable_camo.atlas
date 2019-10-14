@@ -1,6 +1,6 @@
 
 foldabletable_camo.png
-size: 128,64
+size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -16,5 +16,12 @@ foldabletable_camo_foldabletable_camo_64_sd_0_0.png
   xy: 65, 33
   size: 56, 29
   orig: 56, 29
+  offset: 0, 0
+  index: -1
+foldabletable_camo_foldabletable_camo_icon_a.png
+  rotate: false
+  xy: 123, 32
+  size: 30, 30
+  orig: 30, 30
   offset: 0, 0
   index: -1

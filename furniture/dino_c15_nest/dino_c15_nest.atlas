@@ -11,6 +11,13 @@ dino_c15_nest_dino_c15_nest_64_a_4_0.png
   orig: 58, 43
   offset: 0, 0
   index: -1
+dino_c15_nest_dino_c15_nest_64_b_4_0.png
+  rotate: false
+  xy: 110, 49
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
 dino_c15_nest_dino_c15_nest_64_b_4_1.png
   rotate: false
   xy: 23, 4
@@ -20,21 +27,21 @@ dino_c15_nest_dino_c15_nest_64_b_4_1.png
   index: -1
 dino_c15_nest_dino_c15_nest_64_b_4_2.png
   rotate: false
-  xy: 110, 50
+  xy: 39, 5
   size: 15, 11
   orig: 15, 11
   offset: 0, 0
   index: -1
 dino_c15_nest_dino_c15_nest_64_c_4_0.png
   rotate: false
-  xy: 83, 10
+  xy: 99, 10
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 dino_c15_nest_dino_c15_nest_64_c_4_1.png
   rotate: false
-  xy: 97, 23
+  xy: 110, 37
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
@@ -55,42 +62,42 @@ dino_c15_nest_dino_c15_nest_64_d_4_1.png
   index: -1
 dino_c15_nest_dino_c15_nest_64_e_4_0.png
   rotate: false
-  xy: 110, 37
+  xy: 98, 22
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 dino_c15_nest_dino_c15_nest_64_e_4_1.png
   rotate: false
-  xy: 68, 8
+  xy: 84, 9
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 dino_c15_nest_dino_c15_nest_64_e_4_2.png
   rotate: false
-  xy: 94, 35
+  xy: 83, 22
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 dino_c15_nest_dino_c15_nest_64_e_4_3.png
   rotate: false
-  xy: 39, 5
+  xy: 94, 35
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 dino_c15_nest_dino_c15_nest_64_e_4_4.png
   rotate: false
-  xy: 83, 22
+  xy: 70, 8
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 dino_c15_nest_dino_c15_nest_64_e_4_5.png
   rotate: false
-  xy: 54, 5
+  xy: 56, 5
   size: 12, 11
   orig: 12, 11
   offset: 0, 0

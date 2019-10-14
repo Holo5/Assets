@@ -1,6 +1,6 @@
 
 hween_c16_ghostvial.png
-size: 256,64
+size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -20,7 +20,7 @@ hween_c16_ghostvial_hween_c16_ghostvial_64_b_0_0.png
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_0.png
   rotate: false
-  xy: 110, 2
+  xy: 382, 50
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
@@ -32,6 +32,20 @@ hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_1.png
   orig: 3, 4
   offset: 0, 0
   index: -1
+hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_10.png
+  rotate: false
+  xy: 428, 59
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_2.png
+  rotate: false
+  xy: 110, 29
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_3.png
   rotate: false
   xy: 55, 22
@@ -41,21 +55,21 @@ hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_3.png
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_4.png
   rotate: false
-  xy: 234, 2
+  xy: 350, 24
   size: 7, 38
   orig: 7, 38
   offset: 0, 0
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_5.png
   rotate: false
-  xy: 195, 2
+  xy: 335, 26
   size: 13, 36
   orig: 13, 36
   offset: 0, 0
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_6.png
   rotate: false
-  xy: 110, 7
+  xy: 316, 37
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
@@ -69,21 +83,21 @@ hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_7.png
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_8.png
   rotate: false
-  xy: 210, 18
+  xy: 269, 42
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_c_0_9.png
   rotate: false
-  xy: 129, 13
+  xy: 293, 42
   size: 21, 20
   orig: 21, 20
   offset: 0, 0
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_d_0_0.png
   rotate: false
-  xy: 152, 15
+  xy: 244, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
@@ -153,9 +167,16 @@ hween_c16_ghostvial_hween_c16_ghostvial_64_d_0_8.png
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_d_0_9.png
   rotate: false
-  xy: 129, 4
+  xy: 359, 55
   size: 27, 7
   orig: 27, 7
+  offset: 0, 0
+  index: -1
+hween_c16_ghostvial_hween_c16_ghostvial_64_e_0_0.png
+  rotate: false
+  xy: 37, 15
+  size: 3, 3
+  orig: 3, 3
   offset: 0, 0
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_e_0_1.png
@@ -165,30 +186,37 @@ hween_c16_ghostvial_hween_c16_ghostvial_64_e_0_1.png
   orig: 18, 10
   offset: 0, 0
   index: -1
+hween_c16_ghostvial_hween_c16_ghostvial_64_e_0_2.png
+  rotate: false
+  xy: 408, 50
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_e_0_3.png
   rotate: false
-  xy: 48, 6
+  xy: 359, 28
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_e_0_4.png
   rotate: false
-  xy: 158, 2
+  xy: 388, 51
   size: 18, 11
   orig: 18, 11
   offset: 0, 0
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_e_0_5.png
   rotate: false
-  xy: 116, 2
+  xy: 382, 45
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 hween_c16_ghostvial_hween_c16_ghostvial_64_sd_0_0.png
   rotate: false
-  xy: 210, 5
+  xy: 359, 42
   size: 21, 11
   orig: 21, 11
   offset: 0, 0

@@ -1,237 +1,461 @@
 
 hween09_ghost.png
-size: 2048,128
+size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 hween09_ghost_hween09_ghost_64_a_0_0.png
   rotate: false
-  xy: 574, 30
+  xy: 512, 112
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_a_0_1.png
   rotate: false
-  xy: 230, 24
+  xy: 680, 53
   size: 25, 15
   orig: 25, 15
   offset: 0, 0
   index: -1
+hween09_ghost_hween09_ghost_64_b_0_0.png
+  rotate: false
+  xy: 882, 199
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_1.png
+  rotate: false
+  xy: 306, 7
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_10.png
+  rotate: false
+  xy: 949, 90
+  size: 62, 27
+  orig: 62, 27
+  offset: 0, 0
+  index: -1
 hween09_ghost_hween09_ghost_64_b_0_11.png
   rotate: false
-  xy: 2, 11
+  xy: 975, 14
   size: 45, 23
   orig: 45, 23
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_12.png
   rotate: false
-  xy: 574, 47
+  xy: 680, 70
   size: 31, 20
   orig: 31, 20
   offset: 0, 0
   index: -1
+hween09_ghost_hween09_ghost_64_b_0_13.png
+  rotate: false
+  xy: 870, 199
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween09_ghost_hween09_ghost_64_b_0_14.png
   rotate: false
-  xy: 504, 18
+  xy: 975, 39
   size: 39, 49
   orig: 39, 49
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_15.png
   rotate: false
-  xy: 1159, 67
+  xy: 377, 16
   size: 49, 59
   orig: 49, 59
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_16.png
   rotate: false
-  xy: 1056, 55
+  xy: 722, 33
   size: 60, 71
   orig: 60, 71
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_17.png
   rotate: false
-  xy: 100, 36
+  xy: 100, 68
   size: 78, 90
   orig: 78, 90
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_18.png
   rotate: false
-  xy: 893, 40
+  xy: 964, 164
   size: 53, 86
   orig: 53, 86
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_19.png
   rotate: false
-  xy: 730, 35
+  xy: 722, 106
   size: 54, 91
   orig: 54, 91
   offset: 0, 0
   index: -1
+hween09_ghost_hween09_ghost_64_b_0_2.png
+  rotate: false
+  xy: 175, 7
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
 hween09_ghost_hween09_ghost_64_b_0_20.png
   rotate: false
-  xy: 260, 55
+  xy: 438, 179
   size: 78, 71
   orig: 78, 71
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_21.png
   rotate: false
-  xy: 260, 2
+  xy: 688, 199
   size: 89, 51
   orig: 89, 51
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_22.png
   rotate: false
-  xy: 351, 4
+  xy: 885, 94
   size: 62, 27
   orig: 62, 27
   offset: 0, 0
   index: -1
+hween09_ghost_hween09_ghost_64_b_0_23.png
+  rotate: false
+  xy: 630, 28
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_24.png
+  rotate: false
+  xy: 525, 20
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_25.png
+  rotate: false
+  xy: 879, 199
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween09_ghost_hween09_ghost_64_b_0_26.png
   rotate: false
-  xy: 672, 27
+  xy: 606, 92
   size: 56, 99
   orig: 56, 99
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_27.png
   rotate: false
-  xy: 1003, 39
+  xy: 260, 71
   size: 51, 87
   orig: 51, 87
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_28.png
   rotate: false
-  xy: 607, 49
+  xy: 885, 123
   size: 63, 77
   orig: 63, 77
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_29.png
   rotate: false
-  xy: 340, 69
+  xy: 2, 9
   size: 88, 57
   orig: 88, 57
   offset: 0, 0
   index: -1
+hween09_ghost_hween09_ghost_64_b_0_3.png
+  rotate: false
+  xy: 784, 33
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
 hween09_ghost_hween09_ghost_64_b_0_30.png
   rotate: false
-  xy: 430, 78
+  xy: 870, 202
   size: 92, 48
   orig: 92, 48
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_31.png
   rotate: false
-  xy: 524, 69
+  xy: 92, 9
   size: 81, 57
   orig: 81, 57
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_32.png
   rotate: false
-  xy: 430, 2
+  xy: 532, 103
   size: 72, 74
   orig: 72, 74
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_33.png
   rotate: false
-  xy: 786, 35
+  xy: 778, 106
   size: 52, 91
   orig: 52, 91
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_34.png
   rotate: false
-  xy: 1118, 45
+  xy: 934, 7
   size: 39, 81
   orig: 39, 81
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_35.png
   rotate: false
-  xy: 545, 13
+  xy: 226, 17
   size: 27, 54
   orig: 27, 54
   offset: 0, 0
   index: -1
+hween09_ghost_hween09_ghost_64_b_0_36.png
+  rotate: false
+  xy: 876, 199
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_37.png
+  rotate: false
+  xy: 630, 53
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_38.png
+  rotate: false
+  xy: 433, 48
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_39.png
+  rotate: false
+  xy: 100, 160
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_4.png
+  rotate: false
+  xy: 198, 160
+  size: 78, 90
+  orig: 78, 90
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_40.png
+  rotate: false
+  xy: 2, 68
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
 hween09_ghost_hween09_ghost_64_b_0_41.png
   rotate: false
-  xy: 2, 36
+  xy: 2, 160
   size: 96, 90
   orig: 96, 90
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_42.png
   rotate: false
-  xy: 1210, 83
+  xy: 950, 119
   size: 62, 43
   orig: 62, 43
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_43.png
   rotate: false
-  xy: 180, 2
+  xy: 428, 9
   size: 48, 37
   orig: 48, 37
   offset: 0, 0
   index: -1
+hween09_ghost_hween09_ghost_64_b_0_44.png
+  rotate: false
+  xy: 873, 199
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_45.png
+  rotate: false
+  xy: 497, 42
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_46.png
+  rotate: false
+  xy: 255, 10
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_47.png
+  rotate: false
+  xy: 278, 165
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
 hween09_ghost_hween09_ghost_64_b_0_48.png
   rotate: false
-  xy: 180, 41
+  xy: 180, 73
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_49.png
+  rotate: false
+  xy: 358, 165
   size: 78, 85
   orig: 78, 85
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_5.png
   rotate: false
-  xy: 948, 40
+  xy: 378, 77
   size: 53, 86
   orig: 53, 86
   offset: 0, 0
   index: -1
+hween09_ghost_hween09_ghost_64_b_0_50.png
+  rotate: false
+  xy: 538, 42
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_51.png
+  rotate: false
+  xy: 589, 41
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_52.png
+  rotate: false
+  xy: 598, 190
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_53.png
+  rotate: false
+  xy: 347, 2
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
 hween09_ghost_hween09_ghost_64_b_0_54.png
   rotate: false
-  xy: 1385, 59
+  xy: 846, 37
   size: 33, 67
   orig: 33, 67
   offset: 0, 0
   index: -1
+hween09_ghost_hween09_ghost_64_b_0_55.png
+  rotate: false
+  xy: 664, 92
+  size: 56, 99
+  orig: 56, 99
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_56.png
+  rotate: false
+  xy: 881, 5
+  size: 51, 87
+  orig: 51, 87
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_57.png
+  rotate: false
+  xy: 313, 86
+  size: 63, 77
+  orig: 63, 77
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_58.png
+  rotate: false
+  xy: 598, 193
+  size: 88, 57
+  orig: 88, 57
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_59.png
+  rotate: false
+  xy: 438, 129
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
 hween09_ghost_hween09_ghost_64_b_0_6.png
   rotate: false
-  xy: 840, 35
+  xy: 832, 106
   size: 51, 91
   orig: 51, 91
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_60.png
   rotate: false
-  xy: 1274, 100
+  xy: 313, 58
   size: 62, 26
   orig: 62, 26
   offset: 0, 0
   index: -1
 hween09_ghost_hween09_ghost_64_b_0_61.png
   rotate: false
-  xy: 1338, 103
+  xy: 478, 17
   size: 45, 23
   orig: 45, 23
   offset: 0, 0
   index: -1
+hween09_ghost_hween09_ghost_64_b_0_7.png
+  rotate: false
+  xy: 518, 179
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_64_b_0_8.png
+  rotate: false
+  xy: 779, 199
+  size: 89, 51
+  orig: 89, 51
+  offset: 0, 0
+  index: -1
 hween09_ghost_hween09_ghost_64_b_0_9.png
   rotate: false
-  xy: 351, 33
+  xy: 433, 93
   size: 77, 34
   orig: 77, 34
+  offset: 0, 0
+  index: -1
+hween09_ghost_hween09_ghost_icon_a.png
+  rotate: false
+  xy: 677, 36
+  size: 14, 15
+  orig: 14, 15
   offset: 0, 0
   index: -1

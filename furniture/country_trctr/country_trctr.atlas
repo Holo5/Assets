@@ -6,203 +6,273 @@ filter: Nearest,Nearest
 repeat: none
 country_trctr_country_trctr_64_a_0_0.png
   rotate: false
-  xy: 2, 31
+  xy: 2, 37
   size: 111, 89
   orig: 111, 89
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_a_0_1.png
   rotate: false
-  xy: 115, 31
+  xy: 115, 37
   size: 111, 89
   orig: 111, 89
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_0.png
   rotate: false
-  xy: 355, 87
+  xy: 433, 96
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_1.png
   rotate: false
-  xy: 495, 94
+  xy: 271, 21
   size: 13, 26
   orig: 13, 26
   offset: 0, 0
   index: -1
+country_trctr_country_trctr_64_b_0_10.png
+  rotate: false
+  xy: 286, 50
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+country_trctr_country_trctr_64_b_0_11.png
+  rotate: false
+  xy: 433, 99
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+country_trctr_country_trctr_64_b_0_12.png
+  rotate: false
+  xy: 111, 8
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+country_trctr_country_trctr_64_b_0_13.png
+  rotate: false
+  xy: 157, 8
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
 country_trctr_country_trctr_64_b_0_14.png
   rotate: false
-  xy: 110, 2
+  xy: 443, 70
   size: 21, 27
   orig: 21, 27
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_15.png
   rotate: false
-  xy: 331, 62
+  xy: 228, 25
   size: 21, 22
   orig: 21, 22
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_16.png
   rotate: false
-  xy: 310, 41
+  xy: 423, 65
   size: 18, 29
   orig: 18, 29
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_17.png
   rotate: false
-  xy: 153, 3
+  xy: 486, 71
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_18.png
   rotate: false
-  xy: 173, 3
+  xy: 251, 21
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
+country_trctr_country_trctr_64_b_0_19.png
+  rotate: false
+  xy: 400, 67
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
 country_trctr_country_trctr_64_b_0_2.png
   rotate: false
-  xy: 286, 43
+  xy: 460, 99
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_20.png
   rotate: false
-  xy: 331, 86
+  xy: 331, 92
   size: 22, 34
   orig: 22, 34
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_21.png
   rotate: false
-  xy: 355, 90
+  xy: 379, 96
   size: 25, 30
   orig: 25, 30
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_22.png
   rotate: false
-  xy: 425, 93
+  xy: 484, 99
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+country_trctr_country_trctr_64_b_0_23.png
+  rotate: false
+  xy: 379, 63
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+country_trctr_country_trctr_64_b_0_24.png
+  rotate: false
+  xy: 355, 92
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+country_trctr_country_trctr_64_b_0_25.png
+  rotate: false
+  xy: 406, 96
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+country_trctr_country_trctr_64_b_0_26.png
+  rotate: false
+  xy: 64, 8
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_27.png
   rotate: false
-  xy: 404, 89
+  xy: 358, 59
   size: 19, 31
   orig: 19, 31
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_28.png
   rotate: false
-  xy: 382, 86
+  xy: 336, 56
   size: 20, 34
   orig: 20, 34
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_29.png
   rotate: false
-  xy: 330, 42
+  xy: 286, 2
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_3.png
   rotate: false
-  xy: 64, 2
+  xy: 203, 8
   size: 21, 27
   orig: 21, 27
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_30.png
   rotate: false
-  xy: 346, 48
+  xy: 326, 35
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_31.png
   rotate: false
-  xy: 193, 3
+  xy: 286, 22
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_32.png
   rotate: false
-  xy: 213, 3
+  xy: 306, 21
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
+country_trctr_country_trctr_64_b_0_33.png
+  rotate: false
+  xy: 180, 8
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
 country_trctr_country_trctr_64_b_0_4.png
   rotate: false
-  xy: 87, 2
+  xy: 313, 49
   size: 21, 27
   orig: 21, 27
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_5.png
   rotate: false
-  xy: 133, 3
+  xy: 466, 71
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_6.png
   rotate: false
-  xy: 37, 3
+  xy: 37, 9
   size: 25, 26
   orig: 25, 26
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_7.png
   rotate: false
-  xy: 259, 43
+  xy: 259, 49
   size: 25, 27
   orig: 25, 27
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_8.png
   rotate: false
-  xy: 449, 93
+  xy: 88, 8
   size: 21, 27
   orig: 21, 27
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_b_0_9.png
   rotate: false
-  xy: 472, 93
+  xy: 134, 8
   size: 21, 27
   orig: 21, 27
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_c_0_0.png
   rotate: false
-  xy: 228, 43
+  xy: 228, 49
   size: 29, 27
   orig: 29, 27
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_64_sd_0_0.png
   rotate: false
-  xy: 228, 72
+  xy: 228, 78
   size: 101, 48
   orig: 101, 48
   offset: 0, 0
   index: -1
 country_trctr_country_trctr_icon_a.png
   rotate: false
-  xy: 2, 3
+  xy: 2, 9
   size: 33, 26
   orig: 33, 26
   offset: 0, 0

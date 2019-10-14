@@ -1,208 +1,460 @@
 
 xmas_c17_pavement.png
-size: 2048,128
+size: 4096,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+xmas_c17_pavement_xmas_c17_pavement_64_a_0_0.png
+  rotate: false
+  xy: 3370, 93
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_a_0_1.png
+  rotate: false
+  xy: 266, 21
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_a_1_0.png
+  rotate: false
+  xy: 3502, 93
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_a_1_1.png
+  rotate: false
+  xy: 398, 21
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_a_2_0.png
   rotate: false
-  xy: 266, 13
+  xy: 662, 21
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_a_2_1.png
+  rotate: false
+  xy: 3766, 93
   size: 130, 33
   orig: 130, 33
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_a_3_0.png
   rotate: false
-  xy: 1810, 85
+  xy: 3238, 93
   size: 130, 33
   orig: 130, 33
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_a_3_1.png
   rotate: false
-  xy: 134, 13
+  xy: 134, 21
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_a_4_0.png
+  rotate: false
+  xy: 3634, 93
   size: 130, 33
   orig: 130, 33
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_a_4_1.png
   rotate: false
-  xy: 659, 20
+  xy: 1316, 28
   size: 127, 33
   orig: 127, 33
   offset: 0, 0
   index: -1
-xmas_c17_pavement_xmas_c17_pavement_64_a_6_1.png
+xmas_c17_pavement_xmas_c17_pavement_64_a_5_0.png
   rotate: false
-  xy: 530, 20
-  size: 127, 33
-  orig: 127, 33
-  offset: 0, 0
-  index: -1
-xmas_c17_pavement_xmas_c17_pavement_64_a_7_1.png
-  rotate: false
-  xy: 398, 19
+  xy: 3898, 93
   size: 130, 33
   orig: 130, 33
   offset: 0, 0
   index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_a_5_1.png
+  rotate: false
+  xy: 1187, 28
+  size: 127, 33
+  orig: 127, 33
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_a_6_0.png
+  rotate: false
+  xy: 794, 21
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_a_6_1.png
+  rotate: false
+  xy: 1058, 27
+  size: 127, 33
+  orig: 127, 33
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_a_7_0.png
+  rotate: false
+  xy: 530, 21
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_a_7_1.png
+  rotate: false
+  xy: 926, 21
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_b_0_0.png
+  rotate: false
+  xy: 266, 56
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_b_1_0.png
+  rotate: false
+  xy: 398, 56
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_b_2_0.png
   rotate: false
-  xy: 134, 48
+  xy: 662, 56
   size: 130, 70
   orig: 130, 70
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_b_3_0.png
   rotate: false
-  xy: 2, 48
+  xy: 2, 56
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_b_4_0.png
+  rotate: false
+  xy: 134, 56
   size: 130, 70
   orig: 130, 70
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_b_5_0.png
   rotate: false
-  xy: 266, 48
+  xy: 794, 56
   size: 130, 70
   orig: 130, 70
   offset: 0, 0
   index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_b_6_0.png
+  rotate: false
+  xy: 926, 56
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_b_7_0.png
+  rotate: false
+  xy: 530, 56
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_c_0_0.png
+  rotate: false
+  xy: 3238, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_c_0_1.png
   rotate: false
-  xy: 939, 10
+  xy: 1672, 18
   size: 73, 43
   orig: 73, 43
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_c_1_0.png
+  rotate: false
+  xy: 4062, 125
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_c_1_1.png
   rotate: false
-  xy: 1678, 75
+  xy: 3106, 83
   size: 130, 43
   orig: 130, 43
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_c_2_0.png
+  rotate: false
+  xy: 1058, 24
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_c_2_1.png
   rotate: false
-  xy: 864, 10
+  xy: 1597, 18
   size: 73, 43
   orig: 73, 43
   offset: 0, 0
   index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_c_3_0.png
+  rotate: false
+  xy: 1058, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_c_3_1.png
   rotate: false
-  xy: 1754, 2
+  xy: 3182, 10
   size: 74, 71
   orig: 74, 71
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_c_4_0.png
+  rotate: false
+  xy: 2, 8
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_c_4_1.png
   rotate: false
-  xy: 1942, 75
+  xy: 1445, 18
   size: 74, 43
   orig: 74, 43
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_c_5_0.png
+  rotate: false
+  xy: 1747, 60
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_c_5_1.png
   rotate: false
-  xy: 2, 3
+  xy: 2, 11
   size: 130, 43
   orig: 130, 43
   offset: 0, 0
   index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_c_6_0.png
+  rotate: false
+  xy: 134, 15
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_c_6_1.png
   rotate: false
-  xy: 788, 10
+  xy: 1521, 18
   size: 74, 43
   orig: 74, 43
   offset: 0, 0
   index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_c_7_0.png
+  rotate: false
+  xy: 4030, 93
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_c_7_1.png
   rotate: false
-  xy: 1678, 2
+  xy: 3106, 10
   size: 74, 71
   orig: 74, 71
   offset: 0, 0
   index: -1
-xmas_c17_pavement_xmas_c17_pavement_64_d_0_1.png
+xmas_c17_pavement_xmas_c17_pavement_64_d_0_0.png
   rotate: false
-  xy: 782, 55
+  xy: 1442, 63
   size: 126, 63
   orig: 126, 63
   offset: 0, 0
   index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_0_1.png
+  rotate: false
+  xy: 1954, 63
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_0_2.png
+  rotate: false
+  xy: 137, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_d_1_0.png
   rotate: false
-  xy: 654, 55
+  xy: 1314, 63
   size: 126, 63
   orig: 126, 63
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_d_1_1.png
   rotate: false
-  xy: 526, 55
+  xy: 1186, 63
   size: 126, 63
   orig: 126, 63
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_d_1_2.png
   rotate: false
-  xy: 2018, 117
+  xy: 134, 18
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_2_0.png
+  rotate: false
+  xy: 2338, 63
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_d_2_1.png
   rotate: false
-  xy: 1166, 55
+  xy: 2594, 63
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_3_0.png
+  rotate: false
+  xy: 1698, 63
   size: 126, 63
   orig: 126, 63
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_d_3_1.png
   rotate: false
-  xy: 1422, 55
+  xy: 2850, 63
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_3_2.png
+  rotate: false
+  xy: 137, 15
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_4_0.png
+  rotate: false
+  xy: 1826, 63
   size: 126, 63
   orig: 126, 63
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_d_4_1.png
   rotate: false
-  xy: 1294, 55
+  xy: 2722, 63
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_4_2.png
+  rotate: false
+  xy: 5, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_5_0.png
+  rotate: false
+  xy: 2466, 63
   size: 126, 63
   orig: 126, 63
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_d_5_1.png
   rotate: false
-  xy: 1550, 55
+  xy: 2978, 63
   size: 126, 63
   orig: 126, 63
   offset: 0, 0
   index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_5_2.png
+  rotate: false
+  xy: 134, 12
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_d_6_0.png
   rotate: false
-  xy: 1038, 55
+  xy: 2210, 63
   size: 126, 63
   orig: 126, 63
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_d_6_1.png
   rotate: false
-  xy: 910, 55
+  xy: 2082, 63
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_6_2.png
+  rotate: false
+  xy: 1061, 24
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_7_0.png
+  rotate: false
+  xy: 1570, 63
   size: 126, 63
   orig: 126, 63
   offset: 0, 0
   index: -1
 xmas_c17_pavement_xmas_c17_pavement_64_d_7_1.png
   rotate: false
-  xy: 398, 54
+  xy: 1058, 62
   size: 126, 64
   orig: 126, 64
   offset: 0, 0
   index: -1
+xmas_c17_pavement_xmas_c17_pavement_64_d_7_2.png
+  rotate: false
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c17_pavement_xmas_c17_pavement_icon_a.png
   rotate: false
-  xy: 1014, 23
+  xy: 4030, 96
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

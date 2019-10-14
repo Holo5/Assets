@@ -4,6 +4,27 @@ size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+dessertcafe_c17_wall_dessertcafe_c17_wall_64_a_0_0.png
+  rotate: false
+  xy: 531, 120
+  size: 1, 127
+  orig: 1, 127
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_wall_dessertcafe_c17_wall_64_a_2_0.png
+  rotate: false
+  xy: 534, 120
+  size: 1, 127
+  orig: 1, 127
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_wall_dessertcafe_c17_wall_64_b_0_0.png
+  rotate: false
+  xy: 537, 120
+  size: 1, 127
+  orig: 1, 127
+  offset: 0, 0
+  index: -1
 dessertcafe_c17_wall_dessertcafe_c17_wall_64_b_2_0.png
   rotate: false
   xy: 528, 120
@@ -13,35 +34,42 @@ dessertcafe_c17_wall_dessertcafe_c17_wall_64_b_2_0.png
   index: -1
 dessertcafe_c17_wall_dessertcafe_c17_wall_64_c_0_0.png
   rotate: false
-  xy: 204, 69
+  xy: 270, 71
   size: 32, 16
   orig: 32, 16
   offset: 0, 0
   index: -1
 dessertcafe_c17_wall_dessertcafe_c17_wall_64_c_2_0.png
   rotate: false
-  xy: 599, 231
+  xy: 236, 69
   size: 32, 16
   orig: 32, 16
   offset: 0, 0
   index: -1
+dessertcafe_c17_wall_dessertcafe_c17_wall_64_d_0_0.png
+  rotate: false
+  xy: 168, 68
+  size: 66, 17
+  orig: 66, 17
+  offset: 0, 0
+  index: -1
 dessertcafe_c17_wall_dessertcafe_c17_wall_64_d_2_0.png
   rotate: false
-  xy: 531, 230
+  xy: 540, 230
   size: 66, 17
   orig: 66, 17
   offset: 0, 0
   index: -1
 dessertcafe_c17_wall_dessertcafe_c17_wall_64_e_0_0.png
   rotate: false
-  xy: 531, 211
+  xy: 608, 230
   size: 34, 17
   orig: 34, 17
   offset: 0, 0
   index: -1
 dessertcafe_c17_wall_dessertcafe_c17_wall_64_e_2_0.png
   rotate: false
-  xy: 168, 68
+  xy: 540, 211
   size: 34, 17
   orig: 34, 17
   offset: 0, 0

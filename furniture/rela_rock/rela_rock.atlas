@@ -1,6 +1,6 @@
 
 rela_rock.png
-size: 256,32
+size: 512,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -32,9 +32,30 @@ rela_rock_rela_rock_64_sd_0_0.png
   orig: 34, 18
   offset: 0, 0
   index: -1
+rela_rock_rela_rock_64_sd_2_0.png
+  rotate: false
+  xy: 221, 12
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+rela_rock_rela_rock_64_sd_4_0.png
+  rotate: false
+  xy: 185, 12
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+rela_rock_rela_rock_64_sd_6_0.png
+  rotate: false
+  xy: 149, 12
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
 rela_rock_rela_rock_icon_a.png
   rotate: false
-  xy: 149, 8
+  xy: 257, 8
   size: 30, 22
   orig: 30, 22
   offset: 0, 0

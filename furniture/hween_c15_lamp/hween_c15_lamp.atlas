@@ -46,6 +46,13 @@ hween_c15_lamp_hween_c15_lamp_64_b_0_1.png
   orig: 65, 191
   offset: 0, 0
   index: -1
+hween_c15_lamp_hween_c15_lamp_64_b_0_2.png
+  rotate: false
+  xy: 563, 46
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c15_lamp_hween_c15_lamp_64_b_2_0.png
   rotate: false
   xy: 136, 44
@@ -60,18 +67,32 @@ hween_c15_lamp_hween_c15_lamp_64_b_2_1.png
   orig: 65, 189
   offset: 0, 0
   index: -1
+hween_c15_lamp_hween_c15_lamp_64_b_2_2.png
+  rotate: false
+  xy: 582, 56
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c15_lamp_hween_c15_lamp_64_c_0_0.png
   rotate: false
-  xy: 540, 59
+  xy: 593, 59
   size: 28, 174
   orig: 28, 174
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_c_0_1.png
   rotate: false
-  xy: 510, 59
+  xy: 563, 59
   size: 28, 174
   orig: 28, 174
+  offset: 0, 0
+  index: -1
+hween_c15_lamp_hween_c15_lamp_64_c_0_2.png
+  rotate: false
+  xy: 1681, 200
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_c_2_0.png
@@ -81,25 +102,60 @@ hween_c15_lamp_hween_c15_lamp_64_c_2_0.png
   orig: 28, 190
   offset: 0, 0
   index: -1
+hween_c15_lamp_hween_c15_lamp_64_c_2_1.png
+  rotate: false
+  xy: 487, 43
+  size: 28, 190
+  orig: 28, 190
+  offset: 0, 0
+  index: -1
+hween_c15_lamp_hween_c15_lamp_64_c_2_2.png
+  rotate: false
+  xy: 1694, 232
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c15_lamp_hween_c15_lamp_64_d_0_0.png
   rotate: false
-  xy: 593, 55
+  xy: 646, 55
   size: 21, 178
   orig: 21, 178
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_d_0_1.png
   rotate: false
-  xy: 570, 55
+  xy: 623, 55
   size: 21, 178
   orig: 21, 178
   offset: 0, 0
   index: -1
+hween_c15_lamp_hween_c15_lamp_64_d_0_2.png
+  rotate: false
+  xy: 381, 65
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c15_lamp_hween_c15_lamp_64_d_2_0.png
   rotate: false
-  xy: 487, 43
+  xy: 517, 43
   size: 21, 190
   orig: 21, 190
+  offset: 0, 0
+  index: -1
+hween_c15_lamp_hween_c15_lamp_64_d_2_1.png
+  rotate: false
+  xy: 540, 43
+  size: 21, 190
+  orig: 21, 190
+  offset: 0, 0
+  index: -1
+hween_c15_lamp_hween_c15_lamp_64_d_2_2.png
+  rotate: false
+  xy: 681, 92
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_e_0_0.png
@@ -111,23 +167,30 @@ hween_c15_lamp_hween_c15_lamp_64_e_0_0.png
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_e_0_1.png
   rotate: false
-  xy: 510, 49
+  xy: 563, 49
   size: 17, 8
   orig: 17, 8
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_e_0_2.png
   rotate: false
-  xy: 616, 65
+  xy: 669, 65
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_e_0_3.png
   rotate: false
-  xy: 616, 95
+  xy: 669, 95
   size: 17, 30
   orig: 17, 30
+  offset: 0, 0
+  index: -1
+hween_c15_lamp_hween_c15_lamp_64_e_0_4.png
+  rotate: false
+  xy: 362, 55
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_e_2_0.png
@@ -158,114 +221,128 @@ hween_c15_lamp_hween_c15_lamp_64_e_2_3.png
   orig: 17, 30
   offset: 0, 0
   index: -1
+hween_c15_lamp_hween_c15_lamp_64_e_2_4.png
+  rotate: false
+  xy: 33, 39
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c15_lamp_hween_c15_lamp_64_f_0_0.png
+  rotate: false
+  xy: 669, 62
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_0_1.png
   rotate: false
-  xy: 1210, 127
+  xy: 1263, 127
   size: 71, 106
   orig: 71, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_0_2.png
   rotate: false
-  xy: 1283, 127
+  xy: 1336, 127
   size: 71, 106
   orig: 71, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_0_3.png
   rotate: false
-  xy: 843, 127
+  xy: 896, 127
   size: 73, 106
   orig: 73, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_0_4.png
   rotate: false
-  xy: 1561, 127
+  xy: 1614, 127
   size: 65, 106
   orig: 65, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_0_5.png
   rotate: false
-  xy: 1425, 127
+  xy: 1478, 127
   size: 67, 106
   orig: 67, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_0_6.png
   rotate: false
-  xy: 1137, 127
+  xy: 1190, 127
   size: 71, 106
   orig: 71, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_0_7.png
   rotate: false
-  xy: 692, 127
+  xy: 745, 127
   size: 74, 106
   orig: 74, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_2_0.png
   rotate: false
-  xy: 635, 124
+  xy: 688, 124
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_2_1.png
   rotate: false
-  xy: 991, 127
+  xy: 1044, 127
   size: 71, 106
   orig: 71, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_2_2.png
   rotate: false
-  xy: 1064, 127
+  xy: 1117, 127
   size: 71, 106
   orig: 71, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_2_3.png
   rotate: false
-  xy: 768, 127
+  xy: 821, 127
   size: 73, 106
   orig: 73, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_2_4.png
   rotate: false
-  xy: 1494, 127
+  xy: 1547, 127
   size: 65, 106
   orig: 65, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_2_5.png
   rotate: false
-  xy: 1356, 127
+  xy: 1409, 127
   size: 67, 106
   orig: 67, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_2_6.png
   rotate: false
-  xy: 918, 127
+  xy: 971, 127
   size: 71, 106
   orig: 71, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_64_f_2_7.png
   rotate: false
-  xy: 616, 127
+  xy: 669, 127
   size: 74, 106
   orig: 74, 106
   offset: 0, 0
   index: -1
 hween_c15_lamp_hween_c15_lamp_icon_a.png
   rotate: false
-  xy: 1628, 203
+  xy: 1681, 203
   size: 11, 30
   orig: 11, 30
   offset: 0, 0

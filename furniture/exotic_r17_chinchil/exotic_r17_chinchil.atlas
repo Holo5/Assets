@@ -6,133 +6,210 @@ filter: Nearest,Nearest
 repeat: none
 exotic_r17_chinchil_exotic_r17_chinchil_64_a_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 8
   size: 66, 33
   orig: 66, 33
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_a_0_1.png
   rotate: false
-  xy: 194, 229
+  xy: 194, 170
   size: 48, 15
   orig: 48, 15
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_b_0_0.png
   rotate: false
-  xy: 2, 102
+  xy: 2, 108
   size: 66, 142
   orig: 66, 142
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_c_0_0.png
   rotate: false
-  xy: 2, 37
+  xy: 2, 43
   size: 50, 63
   orig: 50, 63
   offset: 0, 0
   index: -1
+exotic_r17_chinchil_exotic_r17_chinchil_64_c_0_1.png
+  rotate: false
+  xy: 194, 187
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+exotic_r17_chinchil_exotic_r17_chinchil_64_d_0_0.png
+  rotate: false
+  xy: 175, 42
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_d_0_1.png
   rotate: false
-  xy: 84, 62
+  xy: 142, 22
   size: 27, 19
   orig: 27, 19
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_d_0_2.png
   rotate: false
-  xy: 84, 42
+  xy: 178, 62
   size: 27, 18
   orig: 27, 18
   offset: 0, 0
   index: -1
+exotic_r17_chinchil_exotic_r17_chinchil_64_d_0_3.png
+  rotate: false
+  xy: 171, 21
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_0.png
+  rotate: false
+  xy: 100, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_1.png
+  rotate: false
+  xy: 225, 112
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_10.png
   rotate: false
-  xy: 225, 200
+  xy: 225, 141
   size: 29, 27
   orig: 29, 27
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_11.png
   rotate: false
-  xy: 222, 143
+  xy: 82, 88
   size: 31, 27
   orig: 31, 27
   offset: 0, 0
   index: -1
+exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_12.png
+  rotate: false
+  xy: 145, 72
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_13.png
+  rotate: false
+  xy: 145, 43
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_14.png
+  rotate: false
+  xy: 115, 59
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_15.png
   rotate: false
-  xy: 84, 83
+  xy: 82, 31
   size: 28, 26
   orig: 28, 26
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_16.png
   rotate: false
-  xy: 194, 136
+  xy: 54, 46
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_17.png
   rotate: false
-  xy: 225, 172
+  xy: 194, 111
   size: 29, 26
   orig: 29, 26
   offset: 0, 0
   index: -1
+exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_2.png
+  rotate: false
+  xy: 82, 59
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_3.png
   rotate: false
-  xy: 132, 95
+  xy: 145, 101
   size: 31, 27
   orig: 31, 27
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_4.png
   rotate: false
-  xy: 54, 73
+  xy: 178, 82
   size: 28, 27
   orig: 28, 27
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_5.png
   rotate: false
-  xy: 165, 95
+  xy: 115, 88
   size: 28, 27
   orig: 28, 27
   offset: 0, 0
   index: -1
+exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_6.png
+  rotate: false
+  xy: 112, 31
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_7.png
   rotate: false
-  xy: 194, 167
+  xy: 54, 77
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
   index: -1
+exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_8.png
+  rotate: false
+  xy: 225, 84
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_e_0_9.png
   rotate: false
-  xy: 54, 44
+  xy: 70, 2
   size: 28, 27
   orig: 28, 27
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_f_0_0.png
   rotate: false
-  xy: 70, 111
+  xy: 70, 117
   size: 60, 133
   orig: 60, 133
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_64_g_0_0.png
   rotate: false
-  xy: 132, 124
+  xy: 132, 130
   size: 60, 120
   orig: 60, 120
   offset: 0, 0
   index: -1
 exotic_r17_chinchil_exotic_r17_chinchil_icon_a.png
   rotate: false
-  xy: 194, 198
+  xy: 194, 139
   size: 29, 29
   orig: 29, 29
   offset: 0, 0

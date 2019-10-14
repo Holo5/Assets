@@ -25,6 +25,20 @@ laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_10.png
   orig: 66, 76
   offset: 0, 0
   index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_11.png
+  rotate: false
+  xy: 875, 37
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_12.png
+  rotate: false
+  xy: 807, 37
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
 laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_2.png
   rotate: false
   xy: 281, 37
@@ -76,7 +90,7 @@ laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_8.png
   index: -1
 laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_9.png
   rotate: false
-  xy: 807, 39
+  xy: 943, 39
   size: 66, 74
   orig: 66, 74
   offset: 0, 0
@@ -90,7 +104,7 @@ laundry_c18_washmachine_laundry_c18_washmachine_64_sd_0_0.png
   index: -1
 laundry_c18_washmachine_laundry_c18_washmachine_icon_a.png
   rotate: false
-  xy: 875, 83
+  xy: 70, 5
   size: 28, 30
   orig: 28, 30
   offset: 0, 0

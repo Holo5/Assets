@@ -46,6 +46,13 @@ totem_head_totem_head_64_a_2_5.png
   orig: 80, 86
   offset: 0, 0
   index: -1
+totem_head_totem_head_64_b_2_0.png
+  rotate: false
+  xy: 2108, 24
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 totem_head_totem_head_64_b_2_1.png
   rotate: false
   xy: 548, 7

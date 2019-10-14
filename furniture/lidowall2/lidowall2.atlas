@@ -4,30 +4,37 @@ size: 512,512
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+lidowall2_lidowall2_64_a_0_0.png
+  rotate: false
+  xy: 373, 69
+  size: 32, 304
+  orig: 32, 304
+  offset: 0, 0
+  index: -1
 lidowall2_lidowall2_64_a_2_0.png
   rotate: false
-  xy: 373, 70
+  xy: 441, 70
   size: 32, 303
   orig: 32, 303
   offset: 0, 0
   index: -1
 lidowall2_lidowall2_64_b_0_0.png
   rotate: false
-  xy: 236, 52
+  xy: 270, 52
   size: 33, 321
   orig: 33, 321
   offset: 0, 0
   index: -1
 lidowall2_lidowall2_64_b_2_0.png
   rotate: false
-  xy: 271, 55
+  xy: 305, 55
   size: 32, 318
   orig: 32, 318
   offset: 0, 0
   index: -1
 lidowall2_lidowall2_64_c_0_0.png
   rotate: false
-  xy: 204, 38
+  xy: 238, 38
   size: 30, 335
   orig: 30, 335
   offset: 0, 0
@@ -40,6 +47,13 @@ lidowall2_lidowall2_64_c_2_0.png
   offset: 0, 0
   index: -1
 lidowall2_lidowall2_64_d_0_0.png
+  rotate: false
+  xy: 204, 37
+  size: 32, 336
+  orig: 32, 336
+  offset: 0, 0
+  index: -1
+lidowall2_lidowall2_64_d_2_0.png
   rotate: false
   xy: 170, 37
   size: 32, 336
@@ -62,14 +76,14 @@ lidowall2_lidowall2_64_e_2_0.png
   index: -1
 lidowall2_lidowall2_64_f_0_0.png
   rotate: false
-  xy: 339, 69
+  xy: 407, 69
   size: 32, 304
   orig: 32, 304
   offset: 0, 0
   index: -1
 lidowall2_lidowall2_64_f_2_0.png
   rotate: false
-  xy: 305, 69
+  xy: 339, 69
   size: 32, 304
   orig: 32, 304
   offset: 0, 0

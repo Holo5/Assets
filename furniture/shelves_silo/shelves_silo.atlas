@@ -18,6 +18,13 @@ shelves_silo_shelves_silo_64_a_2_1.png
   orig: 65, 122
   offset: 0, 0
   index: -1
+shelves_silo_shelves_silo_64_b_2_0.png
+  rotate: false
+  xy: 177, 20
+  size: 39, 104
+  orig: 39, 104
+  offset: 0, 0
+  index: -1
 shelves_silo_shelves_silo_64_b_2_1.png
   rotate: false
   xy: 136, 20
@@ -27,14 +34,14 @@ shelves_silo_shelves_silo_64_b_2_1.png
   index: -1
 shelves_silo_shelves_silo_64_sd_2_0.png
   rotate: false
-  xy: 177, 78
+  xy: 218, 78
   size: 84, 46
   orig: 84, 46
   offset: 0, 0
   index: -1
 shelves_silo_shelves_silo_icon_a.png
   rotate: false
-  xy: 177, 46
+  xy: 218, 46
   size: 20, 30
   orig: 20, 30
   offset: 0, 0

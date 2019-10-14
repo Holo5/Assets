@@ -172,6 +172,13 @@ xmas13_snowflake10_xmas13_snowflake10_64_b_4_9.png
   orig: 66, 56
   offset: 0, 0
   index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_c_0_0.png
+  rotate: false
+  xy: 1271, 47
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_c_0_1.png
   rotate: false
   xy: 2, 3
@@ -212,6 +219,13 @@ xmas13_snowflake10_xmas13_snowflake10_64_c_0_6.png
   xy: 954, 62
   size: 65, 64
   orig: 65, 64
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_c_4_0.png
+  rotate: false
+  xy: 1198, 24
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_c_4_1.png
@@ -256,6 +270,20 @@ xmas13_snowflake10_xmas13_snowflake10_64_c_4_6.png
   orig: 43, 64
   offset: 0, 0
   index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_d_0_0.png
+  rotate: false
+  xy: 1181, 20
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_d_0_1.png
+  rotate: false
+  xy: 74, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_d_0_2.png
   rotate: false
   xy: 1150, 19
@@ -282,6 +310,27 @@ xmas13_snowflake10_xmas13_snowflake10_64_d_0_5.png
   xy: 1236, 36
   size: 20, 29
   orig: 20, 29
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_d_0_6.png
+  rotate: false
+  xy: 91, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_d_4_0.png
+  rotate: false
+  xy: 1562, 67
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_d_4_1.png
+  rotate: false
+  xy: 1565, 69
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_d_4_2.png
@@ -312,6 +361,34 @@ xmas13_snowflake10_xmas13_snowflake10_64_d_4_5.png
   orig: 20, 29
   offset: 0, 0
   index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_d_4_6.png
+  rotate: false
+  xy: 288, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_0_0.png
+  rotate: false
+  xy: 1078, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_0_1.png
+  rotate: false
+  xy: 608, 71
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_0_10.png
+  rotate: false
+  xy: 1057, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_e_0_11.png
   rotate: false
   xy: 348, 38
@@ -326,16 +403,79 @@ xmas13_snowflake10_xmas13_snowflake10_64_e_0_12.png
   orig: 60, 42
   offset: 0, 0
   index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_0_2.png
+  rotate: false
+  xy: 582, 71
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_0_3.png
+  rotate: false
+  xy: 117, 14
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_0_4.png
+  rotate: false
+  xy: 1109, 13
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_0_5.png
+  rotate: false
+  xy: 595, 71
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_0_6.png
+  rotate: false
+  xy: 130, 14
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_0_7.png
+  rotate: false
+  xy: 1122, 13
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_0_8.png
+  rotate: false
+  xy: 530, 71
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_0_9.png
+  rotate: false
+  xy: 338, 46
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_4_0.png
+  rotate: false
+  xy: 156, 24
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_e_4_1.png
   rotate: false
-  xy: 87, 14
+  xy: 543, 71
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_e_4_10.png
   rotate: false
-  xy: 1029, 2
+  xy: 1050, 2
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
@@ -354,44 +494,100 @@ xmas13_snowflake10_xmas13_snowflake10_64_e_4_12.png
   orig: 60, 42
   offset: 0, 0
   index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_4_2.png
+  rotate: false
+  xy: 556, 71
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_4_3.png
+  rotate: false
+  xy: 104, 14
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_4_4.png
+  rotate: false
+  xy: 516, 11
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_e_4_5.png
+  rotate: false
+  xy: 569, 71
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_e_4_6.png
   rotate: false
-  xy: 1181, 27
+  xy: 1275, 54
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_e_4_7.png
   rotate: false
-  xy: 1258, 54
+  xy: 143, 14
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_e_4_8.png
   rotate: false
-  xy: 503, 11
+  xy: 1135, 13
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_e_4_9.png
   rotate: false
-  xy: 512, 2
+  xy: 1338, 3
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_f_0_0.png
   rotate: false
-  xy: 530, 81
+  xy: 1211, 37
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_0_1.png
+  rotate: false
+  xy: 1288, 57
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_0_10.png
+  rotate: false
+  xy: 1258, 50
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_0_2.png
+  rotate: false
+  xy: 1029, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_0_3.png
+  rotate: false
+  xy: 512, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_f_0_4.png
   rotate: false
-  xy: 74, 14
+  xy: 503, 11
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
@@ -405,7 +601,7 @@ xmas13_snowflake10_xmas13_snowflake10_64_f_0_5.png
   index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_f_0_6.png
   rotate: false
-  xy: 486, 2
+  xy: 1288, 62
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
@@ -422,6 +618,90 @@ xmas13_snowflake10_xmas13_snowflake10_64_f_0_8.png
   xy: 503, 2
   size: 7, 7
   orig: 7, 7
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_0_9.png
+  rotate: false
+  xy: 91, 14
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_4_0.png
+  rotate: false
+  xy: 1211, 34
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_4_1.png
+  rotate: false
+  xy: 1288, 52
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_4_10.png
+  rotate: false
+  xy: 74, 10
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_4_2.png
+  rotate: false
+  xy: 1036, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_4_3.png
+  rotate: false
+  xy: 521, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_4_4.png
+  rotate: false
+  xy: 1198, 27
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_4_5.png
+  rotate: false
+  xy: 1181, 23
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_4_6.png
+  rotate: false
+  xy: 486, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_4_7.png
+  rotate: false
+  xy: 1043, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_4_8.png
+  rotate: false
+  xy: 2037, 119
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+xmas13_snowflake10_xmas13_snowflake10_64_f_4_9.png
+  rotate: false
+  xy: 1258, 37
+  size: 11, 11
+  orig: 11, 11
   offset: 0, 0
   index: -1
 xmas13_snowflake10_xmas13_snowflake10_64_sd_0_0.png

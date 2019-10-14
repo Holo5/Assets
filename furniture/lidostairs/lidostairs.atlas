@@ -1,9 +1,16 @@
 
 lidostairs.png
-size: 512,64
+size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+lidostairs_lidostairs_64_a_0_0.png
+  rotate: false
+  xy: 491, 29
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
 lidostairs_lidostairs_64_a_2_0.png
   rotate: false
   xy: 423, 29

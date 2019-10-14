@@ -1,33 +1,110 @@
 
 olympics_c16_chair.png
-size: 256,64
+size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 olympics_c16_chair_olympics_c16_chair_64_a_0_0.png
   rotate: false
-  xy: 138, 2
+  xy: 444, 2
   size: 32, 45
   orig: 32, 45
   offset: 0, 0
   index: -1
-olympics_c16_chair_olympics_c16_chair_64_a_6_0.png
+olympics_c16_chair_olympics_c16_chair_64_a_0_1.png
   rotate: false
-  xy: 104, 2
+  xy: 308, 2
   size: 32, 45
   orig: 32, 45
   offset: 0, 0
   index: -1
-olympics_c16_chair_olympics_c16_chair_64_a_6_1.png
+olympics_c16_chair_olympics_c16_chair_64_a_0_2.png
+  rotate: false
+  xy: 172, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+olympics_c16_chair_olympics_c16_chair_64_a_0_3.png
+  rotate: false
+  xy: 36, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+olympics_c16_chair_olympics_c16_chair_64_a_2_0.png
+  rotate: false
+  xy: 478, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+olympics_c16_chair_olympics_c16_chair_64_a_2_1.png
+  rotate: false
+  xy: 342, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+olympics_c16_chair_olympics_c16_chair_64_a_2_2.png
+  rotate: false
+  xy: 206, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+olympics_c16_chair_olympics_c16_chair_64_a_2_3.png
   rotate: false
   xy: 70, 2
   size: 32, 45
   orig: 32, 45
   offset: 0, 0
   index: -1
+olympics_c16_chair_olympics_c16_chair_64_a_4_0.png
+  rotate: false
+  xy: 512, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+olympics_c16_chair_olympics_c16_chair_64_a_4_1.png
+  rotate: false
+  xy: 376, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+olympics_c16_chair_olympics_c16_chair_64_a_4_2.png
+  rotate: false
+  xy: 240, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+olympics_c16_chair_olympics_c16_chair_64_a_4_3.png
+  rotate: false
+  xy: 104, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+olympics_c16_chair_olympics_c16_chair_64_a_6_0.png
+  rotate: false
+  xy: 410, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+olympics_c16_chair_olympics_c16_chair_64_a_6_1.png
+  rotate: false
+  xy: 274, 2
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
 olympics_c16_chair_olympics_c16_chair_64_a_6_2.png
   rotate: false
-  xy: 36, 2
+  xy: 138, 2
   size: 32, 45
   orig: 32, 45
   offset: 0, 0
@@ -41,7 +118,7 @@ olympics_c16_chair_olympics_c16_chair_64_a_6_3.png
   index: -1
 olympics_c16_chair_olympics_c16_chair_icon_a.png
   rotate: false
-  xy: 172, 18
+  xy: 546, 18
   size: 21, 29
   orig: 21, 29
   offset: 0, 0

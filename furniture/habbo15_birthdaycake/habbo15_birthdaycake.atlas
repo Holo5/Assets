@@ -6,49 +6,49 @@ filter: Nearest,Nearest
 repeat: none
 habbo15_birthdaycake_habbo15_birthdaycake_64_a_0_0.png
   rotate: false
-  xy: 735, 23
+  xy: 875, 23
   size: 63, 103
   orig: 63, 103
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_b_0_0.png
   rotate: false
-  xy: 865, 42
+  xy: 816, 85
   size: 57, 41
   orig: 57, 41
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_c_0_0.png
   rotate: false
-  xy: 669, 10
+  xy: 705, 10
   size: 64, 41
   orig: 64, 41
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_c_0_1.png
   rotate: false
-  xy: 800, 42
+  xy: 771, 26
   size: 63, 41
   orig: 63, 41
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_c_0_2.png
   rotate: false
-  xy: 603, 43
+  xy: 618, 56
   size: 64, 41
   orig: 64, 41
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_c_0_3.png
   rotate: false
-  xy: 669, 53
+  xy: 684, 69
   size: 64, 41
   orig: 64, 41
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_c_0_4.png
   rotate: false
-  xy: 800, 85
+  xy: 750, 69
   size: 64, 41
   orig: 64, 41
   offset: 0, 0
@@ -60,44 +60,121 @@ habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_0.png
   orig: 1, 1
   offset: 0, 0
   index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_1.png
+  rotate: false
+  xy: 660, 24
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_10.png
+  rotate: false
+  xy: 647, 40
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_11.png
   rotate: false
-  xy: 579, 26
+  xy: 645, 24
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_12.png
+  rotate: false
+  xy: 645, 8
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_13.png
   rotate: false
-  xy: 579, 10
+  xy: 713, 112
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_14.png
   rotate: false
-  xy: 594, 10
+  xy: 743, 112
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_15.png
   rotate: false
-  xy: 594, 26
+  xy: 728, 112
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_16.png
   rotate: false
-  xy: 613, 101
+  xy: 692, 53
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_17.png
   rotate: false
-  xy: 628, 96
+  xy: 722, 53
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_2.png
+  rotate: false
+  xy: 662, 40
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_3.png
+  rotate: false
+  xy: 690, 8
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_4.png
+  rotate: false
+  xy: 698, 112
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_5.png
+  rotate: false
+  xy: 675, 8
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_6.png
+  rotate: false
+  xy: 690, 24
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_7.png
+  rotate: false
+  xy: 675, 24
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_8.png
+  rotate: false
+  xy: 677, 40
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_d_0_9.png
+  rotate: false
+  xy: 660, 8
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
@@ -144,51 +221,156 @@ habbo15_birthdaycake_habbo15_birthdaycake_64_f_0_2.png
   orig: 111, 33
   offset: 0, 0
   index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_0.png
+  rotate: false
+  xy: 104, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_1.png
+  rotate: false
+  xy: 630, 4
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_10.png
+  rotate: false
+  xy: 603, 52
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_11.png
+  rotate: false
+  xy: 683, 112
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_12.png
+  rotate: false
+  xy: 638, 112
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_13.png
   rotate: false
-  xy: 658, 96
+  xy: 788, 112
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_14.png
   rotate: false
-  xy: 658, 112
+  xy: 773, 112
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_15.png
   rotate: false
-  xy: 643, 96
+  xy: 758, 112
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_16.png
   rotate: false
-  xy: 643, 112
+  xy: 737, 53
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_17.png
   rotate: false
-  xy: 628, 112
+  xy: 707, 53
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_2.png
+  rotate: false
+  xy: 630, 20
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_3.png
+  rotate: false
+  xy: 617, 36
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_4.png
+  rotate: false
+  xy: 668, 112
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_5.png
+  rotate: false
+  xy: 653, 112
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_6.png
+  rotate: false
+  xy: 623, 112
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_7.png
+  rotate: false
+  xy: 632, 40
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_8.png
   rotate: false
-  xy: 598, 86
+  xy: 615, 11
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_g_0_9.png
+  rotate: false
+  xy: 603, 68
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_h_0_0.png
   rotate: false
-  xy: 583, 102
+  xy: 598, 84
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_h_0_1.png
+  rotate: false
+  xy: 597, 9
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_h_0_2.png
+  rotate: false
+  xy: 579, 9
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_h_0_3.png
+  rotate: false
+  xy: 599, 27
   size: 16, 13
   orig: 16, 13
   offset: 0, 0
@@ -200,9 +382,37 @@ habbo15_birthdaycake_habbo15_birthdaycake_64_i_0_0.png
   orig: 18, 16
   offset: 0, 0
   index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_i_0_1.png
+  rotate: false
+  xy: 583, 99
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_i_0_2.png
+  rotate: false
+  xy: 603, 99
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_i_0_3.png
+  rotate: false
+  xy: 579, 24
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
 habbo15_birthdaycake_habbo15_birthdaycake_64_j_0_0.png
   rotate: false
   xy: 338, 66
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+habbo15_birthdaycake_habbo15_birthdaycake_64_j_0_1.png
+  rotate: false
+  xy: 348, 66
   size: 8, 7
   orig: 8, 7
   offset: 0, 0

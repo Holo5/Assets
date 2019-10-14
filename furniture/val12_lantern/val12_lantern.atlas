@@ -25,6 +25,13 @@ val12_lantern_val12_lantern_64_b_0_1.png
   orig: 33, 22
   offset: 0, 0
   index: -1
+val12_lantern_val12_lantern_64_c_0_0.png
+  rotate: false
+  xy: 212, 165
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 val12_lantern_val12_lantern_64_c_0_1.png
   rotate: false
   xy: 63, 205
@@ -39,6 +46,13 @@ val12_lantern_val12_lantern_64_c_0_2.png
   orig: 58, 49
   offset: 0, 0
   index: -1
+val12_lantern_val12_lantern_64_d_0_0.png
+  rotate: false
+  xy: 253, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 val12_lantern_val12_lantern_64_d_0_1.png
   rotate: false
   xy: 88, 108
@@ -46,23 +60,37 @@ val12_lantern_val12_lantern_64_d_0_1.png
   orig: 22, 20
   offset: 0, 0
   index: -1
+val12_lantern_val12_lantern_64_d_0_10.png
+  rotate: false
+  xy: 225, 121
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
 val12_lantern_val12_lantern_64_d_0_11.png
   rotate: false
-  xy: 65, 17
+  xy: 235, 146
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
+val12_lantern_val12_lantern_64_d_0_12.png
+  rotate: false
+  xy: 162, 122
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
 val12_lantern_val12_lantern_64_d_0_13.png
   rotate: false
-  xy: 147, 58
+  xy: 126, 59
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_14.png
   rotate: false
-  xy: 104, 86
+  xy: 203, 122
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
@@ -111,77 +139,77 @@ val12_lantern_val12_lantern_64_d_0_2.png
   index: -1
 val12_lantern_val12_lantern_64_d_0_20.png
   rotate: false
-  xy: 104, 42
+  xy: 104, 64
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_21.png
   rotate: false
-  xy: 104, 64
+  xy: 104, 86
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_22.png
   rotate: false
-  xy: 147, 36
+  xy: 126, 37
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_23.png
   rotate: false
-  xy: 187, 57
+  xy: 107, 19
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_24.png
   rotate: false
-  xy: 86, 58
+  xy: 86, 82
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_25.png
   rotate: false
-  xy: 86, 34
+  xy: 86, 58
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_26.png
   rotate: false
-  xy: 147, 13
+  xy: 167, 34
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_27.png
   rotate: false
-  xy: 126, 58
+  xy: 105, 42
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_28.png
   rotate: false
-  xy: 133, 102
+  xy: 178, 99
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_29.png
   rotate: false
-  xy: 155, 101
+  xy: 193, 168
   size: 20, 19
   orig: 20, 19
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_3.png
   rotate: false
-  xy: 169, 144
+  xy: 140, 123
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
@@ -195,58 +223,72 @@ val12_lantern_val12_lantern_64_d_0_30.png
   index: -1
 val12_lantern_val12_lantern_64_d_0_31.png
   rotate: false
-  xy: 177, 101
+  xy: 209, 144
   size: 20, 19
   orig: 20, 19
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_32.png
   rotate: false
-  xy: 147, 80
+  xy: 126, 81
   size: 20, 19
   orig: 20, 19
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_33.png
   rotate: false
-  xy: 210, 92
+  xy: 190, 90
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_4.png
   rotate: false
-  xy: 126, 37
+  xy: 148, 79
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_5.png
   rotate: false
-  xy: 190, 80
+  xy: 147, 15
   size: 18, 19
   orig: 18, 19
   offset: 0, 0
   index: -1
+val12_lantern_val12_lantern_64_d_0_6.png
+  rotate: false
+  xy: 126, 16
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
 val12_lantern_val12_lantern_64_d_0_7.png
   rotate: false
-  xy: 199, 101
+  xy: 86, 14
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_8.png
   rotate: false
-  xy: 86, 12
+  xy: 215, 188
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_d_0_9.png
   rotate: false
-  xy: 236, 188
+  xy: 215, 165
   size: 18, 21
   orig: 18, 21
+  offset: 0, 0
+  index: -1
+val12_lantern_val12_lantern_64_e_0_0.png
+  rotate: false
+  xy: 209, 165
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_1.png
@@ -265,28 +307,28 @@ val12_lantern_val12_lantern_64_e_0_10.png
   index: -1
 val12_lantern_val12_lantern_64_e_0_11.png
   rotate: false
-  xy: 112, 108
+  xy: 235, 212
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_12.png
   rotate: false
-  xy: 215, 211
+  xy: 112, 108
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_13.png
   rotate: false
-  xy: 184, 122
+  xy: 235, 168
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_14.png
   rotate: false
-  xy: 214, 189
+  xy: 169, 165
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
@@ -335,35 +377,35 @@ val12_lantern_val12_lantern_64_e_0_2.png
   index: -1
 val12_lantern_val12_lantern_64_e_0_20.png
   rotate: false
-  xy: 192, 189
+  xy: 193, 189
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_21.png
   rotate: false
-  xy: 147, 166
+  xy: 171, 187
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_22.png
   rotate: false
-  xy: 171, 187
+  xy: 235, 190
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_23.png
   rotate: false
-  xy: 237, 211
+  xy: 184, 121
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_24.png
   rotate: false
-  xy: 86, 82
+  xy: 191, 144
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
@@ -377,30 +419,37 @@ val12_lantern_val12_lantern_64_e_0_25.png
   index: -1
 val12_lantern_val12_lantern_64_e_0_26.png
   rotate: false
-  xy: 168, 57
+  xy: 86, 35
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_27.png
   rotate: false
-  xy: 126, 80
+  xy: 65, 17
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_28.png
   rotate: false
-  xy: 162, 122
+  xy: 156, 100
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_29.png
   rotate: false
-  xy: 140, 124
+  xy: 134, 102
   size: 20, 19
   orig: 20, 19
+  offset: 0, 0
+  index: -1
+val12_lantern_val12_lantern_64_e_0_3.png
+  rotate: false
+  xy: 147, 166
+  size: 20, 20
+  orig: 20, 20
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_30.png
@@ -412,14 +461,14 @@ val12_lantern_val12_lantern_64_e_0_30.png
   index: -1
 val12_lantern_val12_lantern_64_e_0_31.png
   rotate: false
-  xy: 169, 166
+  xy: 147, 145
   size: 20, 19
   orig: 20, 19
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_32.png
   rotate: false
-  xy: 147, 145
+  xy: 169, 144
   size: 20, 19
   orig: 20, 19
   offset: 0, 0
@@ -433,30 +482,44 @@ val12_lantern_val12_lantern_64_e_0_33.png
   index: -1
 val12_lantern_val12_lantern_64_e_0_4.png
   rotate: false
-  xy: 126, 16
+  xy: 147, 58
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_5.png
   rotate: false
-  xy: 168, 36
+  xy: 167, 13
   size: 18, 19
   orig: 18, 19
   offset: 0, 0
   index: -1
+val12_lantern_val12_lantern_64_e_0_6.png
+  rotate: false
+  xy: 168, 57
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
 val12_lantern_val12_lantern_64_e_0_7.png
   rotate: false
-  xy: 169, 80
+  xy: 169, 78
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_e_0_8.png
   rotate: false
-  xy: 106, 20
+  xy: 147, 36
   size: 18, 20
   orig: 18, 20
+  offset: 0, 0
+  index: -1
+val12_lantern_val12_lantern_64_e_0_9.png
+  rotate: false
+  xy: 215, 210
+  size: 18, 21
+  orig: 18, 21
   offset: 0, 0
   index: -1
 val12_lantern_val12_lantern_64_sd_0_0.png

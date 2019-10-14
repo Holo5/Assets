@@ -46,6 +46,13 @@ xmas_c15_advent5_xmas_c15_advent5_64_c_4_1.png
   orig: 5, 4
   offset: 0, 0
   index: -1
+xmas_c15_advent5_xmas_c15_advent5_64_d_4_0.png
+  rotate: false
+  xy: 9, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c15_advent5_xmas_c15_advent5_64_d_4_1.png
   rotate: false
   xy: 60, 24
@@ -65,6 +72,13 @@ xmas_c15_advent5_xmas_c15_advent5_64_d_4_3.png
   xy: 48, 9
   size: 7, 6
   orig: 7, 6
+  offset: 0, 0
+  index: -1
+xmas_c15_advent5_xmas_c15_advent5_64_e_4_0.png
+  rotate: false
+  xy: 60, 21
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c15_advent5_xmas_c15_advent5_64_e_4_1.png

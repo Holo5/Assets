@@ -13,7 +13,7 @@ js_r16_heli_js_r16_heli_64_a_4_0.png
   index: -1
 js_r16_heli_js_r16_heli_64_b_4_0.png
   rotate: false
-  xy: 2738, 169
+  xy: 2851, 169
   size: 47, 78
   orig: 47, 78
   offset: 0, 0
@@ -25,23 +25,30 @@ js_r16_heli_js_r16_heli_64_c_4_0.png
   orig: 111, 78
   offset: 0, 0
   index: -1
-js_r16_heli_js_r16_heli_64_e_4_0.png
+js_r16_heli_js_r16_heli_64_d_4_0.png
   rotate: false
   xy: 2685, 169
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+js_r16_heli_js_r16_heli_64_e_4_0.png
+  rotate: false
+  xy: 2798, 169
   size: 51, 78
   orig: 51, 78
   offset: 0, 0
   index: -1
 js_r16_heli_js_r16_heli_64_f_4_0.png
   rotate: false
-  xy: 2787, 108
+  xy: 2900, 108
   size: 45, 139
   orig: 45, 139
   offset: 0, 0
   index: -1
 js_r16_heli_js_r16_heli_64_f_4_1.png
   rotate: false
-  xy: 2891, 208
+  xy: 3004, 208
   size: 45, 39
   orig: 45, 39
   offset: 0, 0
@@ -132,14 +139,14 @@ js_r16_heli_js_r16_heli_64_k_4_0.png
   index: -1
 js_r16_heli_js_r16_heli_64_k_4_1.png
   rotate: false
-  xy: 2834, 117
+  xy: 2947, 117
   size: 55, 64
   orig: 55, 64
   offset: 0, 0
   index: -1
 js_r16_heli_js_r16_heli_64_k_4_2.png
   rotate: false
-  xy: 2834, 183
+  xy: 2947, 183
   size: 55, 64
   orig: 55, 64
   offset: 0, 0

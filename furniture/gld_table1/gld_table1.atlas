@@ -60,6 +60,13 @@ gld_table1_gld_table1_64_sd_0_0.png
   orig: 122, 61
   offset: 0, 0
   index: -1
+gld_table1_gld_table1_icon_a.png
+  rotate: false
+  xy: 175, 53
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
 gld_table1_gld_table1_icon_b.png
   rotate: false
   xy: 2, 2

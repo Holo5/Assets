@@ -1,187 +1,796 @@
 
 xmas14_divider.png
-size: 512,128
+size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+xmas14_divider_xmas14_divider_64_a_0_0.png
+  rotate: false
+  xy: 38, 50
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
 xmas14_divider_xmas14_divider_64_a_2_0.png
   rotate: false
-  xy: 38, 49
+  xy: 74, 50
   size: 34, 76
   orig: 34, 76
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_a_4_0.png
   rotate: false
-  xy: 2, 49
+  xy: 2, 50
   size: 34, 76
   orig: 34, 76
   offset: 0, 0
   index: -1
+xmas14_divider_xmas14_divider_64_a_6_0.png
+  rotate: false
+  xy: 110, 50
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_b_0_0.png
+  rotate: false
+  xy: 122, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas14_divider_xmas14_divider_64_b_0_1.png
   rotate: false
-  xy: 432, 104
+  xy: 819, 105
   size: 38, 21
   orig: 38, 21
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_b_2_0.png
+  rotate: false
+  xy: 351, 61
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_b_2_1.png
+  rotate: false
+  xy: 939, 105
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_b_4_0.png
+  rotate: false
+  xy: 138, 44
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_b_4_1.png
+  rotate: false
+  xy: 859, 105
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_b_6_0.png
+  rotate: false
+  xy: 141, 47
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_b_6_1.png
   rotate: false
-  xy: 472, 104
+  xy: 899, 105
   size: 38, 21
   orig: 38, 21
   offset: 0, 0
   index: -1
+xmas14_divider_xmas14_divider_64_c_0_0.png
+  rotate: false
+  xy: 348, 58
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_0_1.png
+  rotate: false
+  xy: 180, 32
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_0_2.png
+  rotate: false
+  xy: 721, 82
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_0_3.png
+  rotate: false
+  xy: 246, 15
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_0_4.png
+  rotate: false
+  xy: 836, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_0_5.png
+  rotate: false
+  xy: 876, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_0_6.png
+  rotate: false
+  xy: 786, 75
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_0_7.png
+  rotate: false
+  xy: 826, 75
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_0_8.png
+  rotate: false
+  xy: 856, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_0_9.png
+  rotate: false
+  xy: 796, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_2_0.png
+  rotate: false
+  xy: 886, 92
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_2_1.png
+  rotate: false
+  xy: 452, 74
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_2_2.png
+  rotate: false
+  xy: 138, 10
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_2_3.png
+  rotate: false
+  xy: 659, 82
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_2_4.png
+  rotate: false
+  xy: 786, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_2_5.png
+  rotate: false
+  xy: 846, 75
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_2_6.png
+  rotate: false
+  xy: 826, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_2_7.png
+  rotate: false
+  xy: 32, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_2_8.png
+  rotate: false
+  xy: 886, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_2_9.png
+  rotate: false
+  xy: 72, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_4_0.png
+  rotate: false
+  xy: 876, 82
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas14_divider_xmas14_divider_64_c_4_1.png
   rotate: false
-  xy: 234, 74
+  xy: 146, 32
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_c_4_2.png
   rotate: false
-  xy: 355, 81
+  xy: 690, 82
   size: 29, 21
   orig: 29, 21
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_4_3.png
+  rotate: false
+  xy: 214, 15
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_4_4.png
+  rotate: false
+  xy: 796, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_4_5.png
+  rotate: false
+  xy: 866, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_4_6.png
+  rotate: false
+  xy: 816, 75
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_4_7.png
+  rotate: false
+  xy: 22, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_4_8.png
+  rotate: false
+  xy: 866, 75
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_4_9.png
+  rotate: false
+  xy: 846, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_6_0.png
+  rotate: false
+  xy: 896, 102
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_c_6_1.png
   rotate: false
-  xy: 200, 63
+  xy: 979, 101
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
+xmas14_divider_xmas14_divider_64_c_6_2.png
+  rotate: false
+  xy: 278, 37
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
 xmas14_divider_xmas14_divider_64_c_6_3.png
   rotate: false
-  xy: 300, 77
+  xy: 278, 14
   size: 29, 21
   orig: 29, 21
   offset: 0, 0
   index: -1
+xmas14_divider_xmas14_divider_64_c_6_4.png
+  rotate: false
+  xy: 836, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_6_5.png
+  rotate: false
+  xy: 112, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_6_6.png
+  rotate: false
+  xy: 776, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_6_7.png
+  rotate: false
+  xy: 62, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_6_8.png
+  rotate: false
+  xy: 92, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_c_6_9.png
+  rotate: false
+  xy: 786, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
 xmas14_divider_xmas14_divider_64_d_0_0.png
   rotate: false
-  xy: 74, 58
+  xy: 146, 59
   size: 41, 67
   orig: 41, 67
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_d_2_0.png
   rotate: false
-  xy: 117, 58
+  xy: 232, 59
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_d_4_0.png
+  rotate: false
+  xy: 189, 59
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_d_6_0.png
+  rotate: false
+  xy: 274, 59
   size: 40, 67
   orig: 40, 67
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_e_0_0.png
   rotate: false
-  xy: 352, 101
+  xy: 138, 47
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_e_0_1.png
   rotate: false
-  xy: 352, 104
+  xy: 659, 105
   size: 38, 21
   orig: 38, 21
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_e_2_0.png
+  rotate: false
+  xy: 486, 98
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_e_2_1.png
   rotate: false
-  xy: 392, 104
+  xy: 739, 105
   size: 38, 21
   orig: 38, 21
   offset: 0, 0
   index: -1
+xmas14_divider_xmas14_divider_64_e_4_0.png
+  rotate: false
+  xy: 310, 56
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_e_4_1.png
+  rotate: false
+  xy: 699, 105
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_e_6_0.png
+  rotate: false
+  xy: 122, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_e_6_1.png
+  rotate: false
+  xy: 779, 105
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_0_0.png
+  rotate: false
+  xy: 313, 56
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas14_divider_xmas14_divider_64_f_0_1.png
   rotate: false
-  xy: 311, 100
+  xy: 577, 101
   size: 39, 25
   orig: 39, 25
   offset: 0, 0
   index: -1
+xmas14_divider_xmas14_divider_64_f_0_10.png
+  rotate: false
+  xy: 806, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
 xmas14_divider_xmas14_divider_64_f_0_2.png
   rotate: false
-  xy: 234, 52
+  xy: 170, 10
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_f_0_3.png
   rotate: false
-  xy: 269, 101
+  xy: 399, 65
   size: 40, 24
   orig: 40, 24
   offset: 0, 0
   index: -1
+xmas14_divider_xmas14_divider_64_f_0_4.png
+  rotate: false
+  xy: 776, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_0_5.png
+  rotate: false
+  xy: 52, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_0_6.png
+  rotate: false
+  xy: 856, 75
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_0_7.png
+  rotate: false
+  xy: 2, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_0_8.png
+  rotate: false
+  xy: 806, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_0_9.png
+  rotate: false
+  xy: 846, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_2_0.png
+  rotate: false
+  xy: 348, 61
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas14_divider_xmas14_divider_64_f_2_1.png
   rotate: false
-  xy: 159, 63
+  xy: 316, 64
   size: 39, 25
   orig: 39, 25
   offset: 0, 0
   index: -1
+xmas14_divider_xmas14_divider_64_f_2_10.png
+  rotate: false
+  xy: 202, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
 xmas14_divider_xmas14_divider_64_f_2_2.png
   rotate: false
-  xy: 268, 79
+  xy: 214, 37
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_f_2_3.png
   rotate: false
-  xy: 227, 101
+  xy: 357, 65
   size: 40, 24
   orig: 40, 24
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_f_2_4.png
   rotate: false
-  xy: 2, 2
+  xy: 1013, 118
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_f_2_5.png
   rotate: false
-  xy: 386, 94
+  xy: 82, 3
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_f_2_6.png
   rotate: false
-  xy: 355, 71
+  xy: 42, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_2_7.png
+  rotate: false
+  xy: 441, 81
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_f_2_8.png
   rotate: false
-  xy: 12, 2
+  xy: 102, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_2_9.png
+  rotate: false
+  xy: 816, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_4_0.png
+  rotate: false
+  xy: 1013, 105
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_4_1.png
+  rotate: false
+  xy: 618, 101
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_4_10.png
+  rotate: false
+  xy: 776, 75
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_4_2.png
+  rotate: false
+  xy: 316, 42
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_4_3.png
+  rotate: false
+  xy: 535, 102
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_4_4.png
+  rotate: false
+  xy: 12, 3
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_4_5.png
+  rotate: false
+  xy: 836, 75
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_4_6.png
+  rotate: false
+  xy: 806, 75
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_4_7.png
+  rotate: false
+  xy: 441, 71
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_4_8.png
+  rotate: false
+  xy: 866, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_4_9.png
+  rotate: false
+  xy: 816, 85
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_6_0.png
+  rotate: false
+  xy: 441, 68
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_6_1.png
+  rotate: false
+  xy: 452, 101
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_6_10.png
+  rotate: false
+  xy: 202, 12
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_6_2.png
+  rotate: false
+  xy: 246, 37
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_6_3.png
+  rotate: false
+  xy: 493, 102
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_6_4.png
+  rotate: false
+  xy: 202, 22
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_6_5.png
+  rotate: false
+  xy: 796, 75
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_6_6.png
+  rotate: false
+  xy: 876, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_6_7.png
+  rotate: false
+  xy: 1013, 108
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_6_8.png
+  rotate: false
+  xy: 826, 95
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_f_6_9.png
+  rotate: false
+  xy: 856, 95
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_sd_0_0.png
   rotate: false
-  xy: 2, 12
+  xy: 2, 13
   size: 66, 35
   orig: 66, 35
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_64_sd_2_0.png
   rotate: false
-  xy: 159, 90
+  xy: 70, 13
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_sd_4_0.png
+  rotate: false
+  xy: 316, 91
+  size: 66, 35
+  orig: 66, 35
+  offset: 0, 0
+  index: -1
+xmas14_divider_xmas14_divider_64_sd_6_0.png
+  rotate: false
+  xy: 384, 91
   size: 66, 35
   orig: 66, 35
   offset: 0, 0
   index: -1
 xmas14_divider_xmas14_divider_icon_a.png
   rotate: false
-  xy: 331, 68
+  xy: 752, 73
   size: 22, 30
   orig: 22, 30
   offset: 0, 0

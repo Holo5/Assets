@@ -88,6 +88,13 @@ habbo15_pumpkin2_habbo15_pumpkin2_64_a_0_9.png
   orig: 50, 50
   offset: 0, 0
   index: -1
+habbo15_pumpkin2_habbo15_pumpkin2_64_b_0_0.png
+  rotate: false
+  xy: 272, 18
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
 habbo15_pumpkin2_habbo15_pumpkin2_64_b_0_1.png
   rotate: false
   xy: 2, 6
@@ -144,16 +151,23 @@ habbo15_pumpkin2_habbo15_pumpkin2_64_c_0_3.png
   orig: 6, 11
   offset: 0, 0
   index: -1
+habbo15_pumpkin2_habbo15_pumpkin2_64_c_0_4.png
+  rotate: false
+  xy: 509, 119
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 habbo15_pumpkin2_habbo15_pumpkin2_64_sd_0_0.png
   rotate: false
-  xy: 272, 26
+  xy: 310, 36
   size: 42, 24
   orig: 42, 24
   offset: 0, 0
   index: -1
 habbo15_pumpkin2_habbo15_pumpkin2_icon_a.png
   rotate: false
-  xy: 316, 30
+  xy: 310, 4
   size: 25, 30
   orig: 25, 30
   offset: 0, 0

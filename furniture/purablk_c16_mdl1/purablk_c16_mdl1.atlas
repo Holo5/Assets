@@ -34,7 +34,7 @@ purablk_c16_mdl1_purablk_c16_mdl1_64_a_6_0.png
   index: -1
 purablk_c16_mdl1_purablk_c16_mdl1_64_b_0_0.png
   rotate: false
-  xy: 336, 22
+  xy: 400, 22
   size: 62, 40
   orig: 62, 40
   offset: 0, 0
@@ -46,44 +46,72 @@ purablk_c16_mdl1_purablk_c16_mdl1_64_b_2_0.png
   orig: 62, 40
   offset: 0, 0
   index: -1
+purablk_c16_mdl1_purablk_c16_mdl1_64_b_4_0.png
+  rotate: false
+  xy: 464, 22
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+purablk_c16_mdl1_purablk_c16_mdl1_64_b_6_0.png
+  rotate: false
+  xy: 336, 22
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+purablk_c16_mdl1_purablk_c16_mdl1_64_c_0_0.png
+  rotate: false
+  xy: 793, 28
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
 purablk_c16_mdl1_purablk_c16_mdl1_64_c_2_0.png
   rotate: false
-  xy: 560, 28
+  xy: 688, 28
   size: 33, 34
   orig: 33, 34
   offset: 0, 0
   index: -1
 purablk_c16_mdl1_purablk_c16_mdl1_64_c_4_0.png
   rotate: false
-  xy: 595, 28
+  xy: 758, 28
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+purablk_c16_mdl1_purablk_c16_mdl1_64_c_6_0.png
+  rotate: false
+  xy: 723, 28
   size: 33, 34
   orig: 33, 34
   offset: 0, 0
   index: -1
 purablk_c16_mdl1_purablk_c16_mdl1_64_d_0_0.png
   rotate: false
-  xy: 520, 11
+  xy: 648, 11
   size: 38, 51
   orig: 38, 51
   offset: 0, 0
   index: -1
 purablk_c16_mdl1_purablk_c16_mdl1_64_d_2_0.png
   rotate: false
-  xy: 480, 11
+  xy: 608, 11
   size: 38, 51
   orig: 38, 51
   offset: 0, 0
   index: -1
 purablk_c16_mdl1_purablk_c16_mdl1_64_d_4_0.png
   rotate: false
-  xy: 400, 11
+  xy: 528, 11
   size: 38, 51
   orig: 38, 51
   offset: 0, 0
   index: -1
 purablk_c16_mdl1_purablk_c16_mdl1_64_d_6_0.png
   rotate: false
-  xy: 440, 11
+  xy: 568, 11
   size: 38, 51
   orig: 38, 51
   offset: 0, 0
@@ -97,7 +125,7 @@ purablk_c16_mdl1_purablk_c16_mdl1_icon_a.png
   index: -1
 purablk_c16_mdl1_purablk_c16_mdl1_icon_b.png
   rotate: false
-  xy: 560, 2
+  xy: 688, 2
   size: 27, 24
   orig: 27, 24
   offset: 0, 0

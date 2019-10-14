@@ -6,77 +6,84 @@ filter: Nearest,Nearest
 repeat: none
 gothic_r16_fountain_gothic_r16_fountain_64_a_2_0.png
   rotate: false
-  xy: 2, 36
+  xy: 2, 39
   size: 38, 85
   orig: 38, 85
   offset: 0, 0
   index: -1
 gothic_r16_fountain_gothic_r16_fountain_64_b_2_0.png
   rotate: false
-  xy: 150, 75
+  xy: 150, 78
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 gothic_r16_fountain_gothic_r16_fountain_64_b_2_1.png
   rotate: false
-  xy: 42, 55
+  xy: 42, 58
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 gothic_r16_fountain_gothic_r16_fountain_64_b_2_2.png
   rotate: false
-  xy: 213, 110
+  xy: 213, 113
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 gothic_r16_fountain_gothic_r16_fountain_64_b_2_3.png
   rotate: false
-  xy: 42, 42
+  xy: 42, 45
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
+gothic_r16_fountain_gothic_r16_fountain_64_c_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 gothic_r16_fountain_gothic_r16_fountain_64_c_2_1.png
   rotate: false
-  xy: 150, 78
+  xy: 150, 81
   size: 19, 43
   orig: 19, 43
   offset: 0, 0
   index: -1
 gothic_r16_fountain_gothic_r16_fountain_64_c_2_2.png
   rotate: false
-  xy: 192, 78
+  xy: 192, 81
   size: 19, 43
   orig: 19, 43
   offset: 0, 0
   index: -1
 gothic_r16_fountain_gothic_r16_fountain_64_c_2_3.png
   rotate: false
-  xy: 171, 78
+  xy: 171, 81
   size: 19, 43
   orig: 19, 43
   offset: 0, 0
   index: -1
 gothic_r16_fountain_gothic_r16_fountain_64_d_2_0.png
   rotate: false
-  xy: 42, 68
+  xy: 42, 71
   size: 53, 53
   orig: 53, 53
   offset: 0, 0
   index: -1
 gothic_r16_fountain_gothic_r16_fountain_64_d_2_1.png
   rotate: false
-  xy: 97, 70
+  xy: 97, 73
   size: 51, 51
   orig: 51, 51
   offset: 0, 0
   index: -1
 gothic_r16_fountain_gothic_r16_fountain_icon_a.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 5
   size: 20, 32
   orig: 20, 32
   offset: 0, 0

@@ -1,12 +1,26 @@
 
 wallpaper.png
-size: 64,64
+size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+wallpaper_wallpaper_64_a_2_0.png
+  rotate: false
+  xy: 34, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
 wallpaper_wallpaper_64_a_4_0.png
   rotate: false
   xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+wallpaper_wallpaper_icon_a.png
+  rotate: false
+  xy: 66, 2
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

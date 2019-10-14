@@ -46,3 +46,17 @@ bc_alpha1_i_bc_alpha1_i_64_sd_2_0.png
   orig: 36, 20
   offset: 0, 0
   index: -1
+bc_alpha1_i_bc_alpha1_i_icon_a.png
+  rotate: false
+  xy: 192, 37
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+bc_alpha1_i_bc_alpha1_i_icon_b.png
+  rotate: false
+  xy: 118, 3
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1

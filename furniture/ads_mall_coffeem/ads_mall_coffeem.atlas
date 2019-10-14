@@ -4,6 +4,13 @@ size: 64,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+ads_mall_coffeem_ads_mall_coffeem_64_a_2_0.png
+  rotate: false
+  xy: 54, 241
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ads_mall_coffeem_ads_mall_coffeem_64_a_2_1.png
   rotate: false
   xy: 2, 2

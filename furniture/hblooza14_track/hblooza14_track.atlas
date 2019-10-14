@@ -1,63 +1,210 @@
 
 hblooza14_track.png
-size: 256,64
+size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 hblooza14_track_hblooza14_track_64_a_2_0.png
   rotate: false
-  xy: 127, 35
+  xy: 252, 35
   size: 41, 26
   orig: 41, 26
   offset: 0, 0
   index: -1
+hblooza14_track_hblooza14_track_64_a_6_0.png
+  rotate: false
+  xy: 295, 35
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_b_2_0.png
+  rotate: false
+  xy: 198, 28
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
 hblooza14_track_hblooza14_track_64_b_6_0.png
   rotate: false
-  xy: 73, 28
+  xy: 144, 28
   size: 52, 33
   orig: 52, 33
   offset: 0, 0
   index: -1
 hblooza14_track_hblooza14_track_64_c_2_0.png
   rotate: false
-  xy: 242, 60
+  xy: 252, 32
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hblooza14_track_hblooza14_track_64_c_2_1.png
   rotate: false
-  xy: 206, 39
+  xy: 554, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_c_2_2.png
+  rotate: false
+  xy: 374, 39
   size: 34, 22
   orig: 34, 22
   offset: 0, 0
   index: -1
 hblooza14_track_hblooza14_track_64_c_2_3.png
   rotate: false
-  xy: 170, 39
+  xy: 338, 39
   size: 34, 22
   orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_c_2_4.png
+  rotate: false
+  xy: 410, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_c_2_5.png
+  rotate: false
+  xy: 590, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_c_6_0.png
+  rotate: false
+  xy: 32, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_c_6_1.png
+  rotate: false
+  xy: 770, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_c_6_2.png
+  rotate: false
+  xy: 950, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_c_6_3.png
+  rotate: false
+  xy: 986, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_c_6_4.png
+  rotate: false
+  xy: 914, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_c_6_5.png
+  rotate: false
+  xy: 734, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_d_2_0.png
+  rotate: false
+  xy: 180, 25
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hblooza14_track_hblooza14_track_64_d_2_1.png
   rotate: false
-  xy: 170, 15
+  xy: 144, 4
   size: 34, 22
   orig: 34, 22
   offset: 0, 0
   index: -1
+hblooza14_track_hblooza14_track_64_d_2_2.png
+  rotate: false
+  xy: 518, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_d_2_3.png
+  rotate: false
+  xy: 482, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_d_2_4.png
+  rotate: false
+  xy: 446, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_d_2_5.png
+  rotate: false
+  xy: 626, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_d_6_0.png
+  rotate: false
+  xy: 338, 36
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hblooza14_track_hblooza14_track_64_d_6_1.png
   rotate: false
-  xy: 73, 4
+  xy: 662, 39
   size: 34, 22
   orig: 34, 22
   offset: 0, 0
   index: -1
 hblooza14_track_hblooza14_track_64_d_6_2.png
   rotate: false
-  xy: 127, 11
+  xy: 806, 39
   size: 34, 22
   orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_d_6_3.png
+  rotate: false
+  xy: 842, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_d_6_4.png
+  rotate: false
+  xy: 878, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_d_6_5.png
+  rotate: false
+  xy: 698, 39
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+hblooza14_track_hblooza14_track_64_sd_2_0.png
+  rotate: false
+  xy: 73, 21
+  size: 69, 40
+  orig: 69, 40
   offset: 0, 0
   index: -1
 hblooza14_track_hblooza14_track_64_sd_6_0.png

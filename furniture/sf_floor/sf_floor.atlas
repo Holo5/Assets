@@ -13,7 +13,7 @@ sf_floor_sf_floor_64_a_0_0.png
   index: -1
 sf_floor_sf_floor_64_b_0_0.png
   rotate: false
-  xy: 419, 225
+  xy: 225, 45
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -23,6 +23,13 @@ sf_floor_sf_floor_64_b_0_1.png
   xy: 225, 48
   size: 156, 78
   orig: 156, 78
+  offset: 0, 0
+  index: -1
+sf_floor_sf_floor_64_c_0_0.png
+  rotate: false
+  xy: 419, 225
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 sf_floor_sf_floor_64_c_0_1.png

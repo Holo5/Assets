@@ -6,8 +6,15 @@ filter: Nearest,Nearest
 repeat: none
 qt_sum11_shell3_qt_sum11_shell3_64_a_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 22
   size: 40, 35
   orig: 40, 35
+  offset: 0, 0
+  index: -1
+qt_sum11_shell3_qt_sum11_shell3_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 18
+  orig: 20, 18
   offset: 0, 0
   index: -1

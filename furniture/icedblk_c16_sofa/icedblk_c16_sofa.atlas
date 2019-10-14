@@ -6,79 +6,100 @@ filter: Nearest,Nearest
 repeat: none
 icedblk_c16_sofa_icedblk_c16_sofa_64_a_2_0.png
   rotate: false
-  xy: 354, 74
+  xy: 362, 64
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_a_6_0.png
   rotate: false
-  xy: 354, 81
+  xy: 450, 81
   size: 43, 36
   orig: 43, 36
   offset: 0, 0
   index: -1
+icedblk_c16_sofa_icedblk_c16_sofa_64_b_2_0.png
+  rotate: false
+  xy: 238, 17
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_b_6_0.png
   rotate: false
-  xy: 226, 71
+  xy: 322, 71
   size: 64, 46
   orig: 64, 46
   offset: 0, 0
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_c_2_0.png
   rotate: false
-  xy: 226, 64
+  xy: 495, 112
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_c_6_0.png
   rotate: false
-  xy: 399, 86
+  xy: 322, 38
   size: 38, 31
   orig: 38, 31
   offset: 0, 0
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_d_2_0.png
   rotate: false
-  xy: 509, 116
+  xy: 488, 78
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_d_6_0.png
   rotate: false
-  xy: 292, 68
+  xy: 388, 68
   size: 60, 49
   orig: 60, 49
   offset: 0, 0
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_e_2_0.png
   rotate: false
-  xy: 164, 48
+  xy: 260, 48
   size: 60, 69
   orig: 60, 69
   offset: 0, 0
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_e_6_0.png
   rotate: false
-  xy: 98, 15
+  xy: 194, 15
   size: 42, 32
   orig: 42, 32
   offset: 0, 0
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_f_2_0.png
   rotate: false
-  xy: 98, 49
+  xy: 194, 49
   size: 64, 68
   orig: 64, 68
   offset: 0, 0
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_f_6_0.png
   rotate: false
-  xy: 439, 88
+  xy: 450, 50
   size: 36, 29
   orig: 36, 29
+  offset: 0, 0
+  index: -1
+icedblk_c16_sofa_icedblk_c16_sofa_64_sd_0_0.png
+  rotate: false
+  xy: 2, 13
+  size: 94, 51
+  orig: 94, 51
+  offset: 0, 0
+  index: -1
+icedblk_c16_sofa_icedblk_c16_sofa_64_sd_2_0.png
+  rotate: false
+  xy: 98, 13
+  size: 94, 51
+  orig: 94, 51
   offset: 0, 0
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_sd_4_0.png
@@ -90,7 +111,7 @@ icedblk_c16_sofa_icedblk_c16_sofa_64_sd_4_0.png
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_64_sd_6_0.png
   rotate: false
-  xy: 2, 13
+  xy: 98, 66
   size: 94, 51
   orig: 94, 51
   offset: 0, 0
@@ -104,7 +125,7 @@ icedblk_c16_sofa_icedblk_c16_sofa_icon_a.png
   index: -1
 icedblk_c16_sofa_icedblk_c16_sofa_icon_b.png
   rotate: false
-  xy: 477, 91
+  xy: 238, 20
   size: 30, 26
   orig: 30, 26
   offset: 0, 0

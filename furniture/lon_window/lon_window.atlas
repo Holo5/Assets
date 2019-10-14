@@ -1,40 +1,40 @@
 
 lon_window.png
-size: 1024,256
+size: 2048,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 lon_window_lon_window_64_a_0_0.png
   rotate: false
-  xy: 598, 33
+  xy: 866, 33
   size: 63, 127
   orig: 63, 127
   offset: 0, 0
   index: -1
 lon_window_lon_window_64_a_0_1.png
   rotate: false
-  xy: 663, 33
+  xy: 931, 33
   size: 63, 127
   orig: 63, 127
   offset: 0, 0
   index: -1
 lon_window_lon_window_64_a_2_0.png
   rotate: false
-  xy: 728, 33
+  xy: 996, 33
   size: 63, 127
   orig: 63, 127
   offset: 0, 0
   index: -1
 lon_window_lon_window_64_a_2_1.png
   rotate: false
-  xy: 793, 33
+  xy: 1061, 33
   size: 63, 127
   orig: 63, 127
   offset: 0, 0
   index: -1
 lon_window_lon_window_64_b_0_0.png
   rotate: false
-  xy: 466, 33
+  xy: 734, 33
   size: 64, 127
   orig: 64, 127
   offset: 0, 0
@@ -48,7 +48,7 @@ lon_window_lon_window_64_b_0_1.png
   index: -1
 lon_window_lon_window_64_b_2_0.png
   rotate: false
-  xy: 532, 33
+  xy: 800, 33
   size: 64, 127
   orig: 64, 127
   offset: 0, 0
@@ -62,14 +62,28 @@ lon_window_lon_window_64_b_2_1.png
   index: -1
 lon_window_lon_window_64_c_0_0.png
   rotate: false
-  xy: 334, 32
+  xy: 470, 32
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+lon_window_lon_window_64_c_0_1.png
+  rotate: false
+  xy: 536, 32
   size: 64, 128
   orig: 64, 128
   offset: 0, 0
   index: -1
 lon_window_lon_window_64_c_2_0.png
   rotate: false
-  xy: 400, 32
+  xy: 602, 32
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+lon_window_lon_window_64_c_2_1.png
+  rotate: false
+  xy: 668, 32
   size: 64, 128
   orig: 64, 128
   offset: 0, 0
@@ -81,9 +95,23 @@ lon_window_lon_window_64_d_0_0.png
   orig: 66, 129
   offset: 0, 0
   index: -1
-lon_window_lon_window_64_d_2_1.png
+lon_window_lon_window_64_d_0_1.png
   rotate: false
   xy: 266, 31
+  size: 66, 129
+  orig: 66, 129
+  offset: 0, 0
+  index: -1
+lon_window_lon_window_64_d_2_0.png
+  rotate: false
+  xy: 402, 31
+  size: 66, 129
+  orig: 66, 129
+  offset: 0, 0
+  index: -1
+lon_window_lon_window_64_d_2_1.png
+  rotate: false
+  xy: 334, 31
   size: 66, 129
   orig: 66, 129
   offset: 0, 0

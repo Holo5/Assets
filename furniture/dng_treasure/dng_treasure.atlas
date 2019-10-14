@@ -6,105 +6,203 @@ filter: Nearest,Nearest
 repeat: none
 dng_treasure_dng_treasure_64_a_0_0.png
   rotate: false
-  xy: 2, 5
+  xy: 2, 2
   size: 74, 17
   orig: 74, 17
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_64_a_0_1.png
   rotate: false
-  xy: 133, 51
+  xy: 264, 49
   size: 74, 17
   orig: 74, 17
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_64_b_0_0.png
   rotate: false
-  xy: 133, 70
+  xy: 132, 24
   size: 127, 25
   orig: 127, 25
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_64_b_0_1.png
   rotate: false
-  xy: 263, 99
+  xy: 264, 68
   size: 127, 24
   orig: 127, 24
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_64_c_0_0.png
   rotate: false
-  xy: 133, 97
+  xy: 264, 94
   size: 128, 26
   orig: 128, 26
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_64_c_0_1.png
   rotate: false
-  xy: 2, 24
+  xy: 2, 21
   size: 128, 28
   orig: 128, 28
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_64_d_0_0.png
   rotate: false
-  xy: 132, 25
+  xy: 393, 66
   size: 69, 24
   orig: 69, 24
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_64_d_0_1.png
   rotate: false
-  xy: 392, 95
+  xy: 394, 92
   size: 70, 28
   orig: 70, 28
   offset: 0, 0
   index: -1
+dng_treasure_dng_treasure_64_e_0_0.png
+  rotate: false
+  xy: 509, 108
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_e_0_1.png
+  rotate: false
+  xy: 151, 17
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_e_0_2.png
+  rotate: false
+  xy: 357, 57
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_e_0_3.png
+  rotate: false
+  xy: 340, 51
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_e_0_4.png
+  rotate: false
+  xy: 370, 57
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_e_0_5.png
+  rotate: false
+  xy: 132, 17
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_f_0_0.png
+  rotate: false
+  xy: 509, 105
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_f_0_1.png
+  rotate: false
+  xy: 156, 17
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_f_0_2.png
+  rotate: false
+  xy: 112, 10
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_f_0_3.png
+  rotate: false
+  xy: 95, 4
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_f_0_4.png
+  rotate: false
+  xy: 381, 57
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_f_0_5.png
+  rotate: false
+  xy: 139, 17
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
 dng_treasure_dng_treasure_64_g_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 261, 48
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_64_g_0_1.png
   rotate: false
-  xy: 507, 118
+  xy: 146, 17
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_64_g_0_2.png
   rotate: false
-  xy: 209, 59
+  xy: 498, 111
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_64_g_0_3.png
   rotate: false
-  xy: 78, 7
+  xy: 78, 4
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_64_g_0_4.png
   rotate: false
-  xy: 496, 114
+  xy: 498, 100
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
+dng_treasure_dng_treasure_64_g_0_5.png
+  rotate: false
+  xy: 125, 14
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_h_0_0.png
+  rotate: false
+  xy: 133, 51
+  size: 129, 69
+  orig: 129, 69
+  offset: 0, 0
+  index: -1
 dng_treasure_dng_treasure_64_h_0_1.png
   rotate: false
-  xy: 2, 54
+  xy: 2, 51
   size: 129, 69
   orig: 129, 69
   offset: 0, 0
   index: -1
 dng_treasure_dng_treasure_icon_a.png
   rotate: false
-  xy: 464, 101
+  xy: 466, 98
   size: 30, 22
   orig: 30, 22
   offset: 0, 0

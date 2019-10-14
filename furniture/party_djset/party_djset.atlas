@@ -102,6 +102,13 @@ party_djset_party_djset_64_d_6_3.png
   orig: 15, 10
   offset: 0, 0
   index: -1
+party_djset_party_djset_64_e_2_0.png
+  rotate: false
+  xy: 59, 20
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 party_djset_party_djset_64_e_2_1.png
   rotate: false
   xy: 84, 122
@@ -114,6 +121,34 @@ party_djset_party_djset_64_e_2_2.png
   xy: 70, 122
   size: 12, 6
   orig: 12, 6
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_e_6_0.png
+  rotate: false
+  xy: 182, 93
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_e_6_1.png
+  rotate: false
+  xy: 200, 192
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_e_6_2.png
+  rotate: false
+  xy: 200, 128
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_f_2_0.png
+  rotate: false
+  xy: 210, 125
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 party_djset_party_djset_64_f_2_1.png
@@ -130,6 +165,13 @@ party_djset_party_djset_64_f_2_2.png
   orig: 33, 21
   offset: 0, 0
   index: -1
+party_djset_party_djset_64_f_6_0.png
+  rotate: false
+  xy: 119, 30
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 party_djset_party_djset_64_f_6_1.png
   rotate: false
   xy: 200, 224
@@ -139,14 +181,14 @@ party_djset_party_djset_64_f_6_1.png
   index: -1
 party_djset_party_djset_64_f_6_2.png
   rotate: false
-  xy: 200, 192
+  xy: 200, 160
   size: 37, 30
   orig: 37, 30
   offset: 0, 0
   index: -1
 party_djset_party_djset_icon_a.png
   rotate: false
-  xy: 200, 160
+  xy: 182, 96
   size: 26, 30
   orig: 26, 30
   offset: 0, 0

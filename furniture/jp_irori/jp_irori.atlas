@@ -11,23 +11,30 @@ jp_irori_jp_irori_64_a_0_0.png
   orig: 140, 89
   offset: 0, 0
   index: -1
+jp_irori_jp_irori_64_b_0_0.png
+  rotate: false
+  xy: 20, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 jp_irori_jp_irori_64_b_0_1.png
   rotate: false
-  xy: 345, 119
+  xy: 354, 119
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 jp_irori_jp_irori_64_b_0_10.png
   rotate: false
-  xy: 302, 90
+  xy: 179, 50
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
   index: -1
 jp_irori_jp_irori_64_b_0_11.png
   rotate: false
-  xy: 326, 107
+  xy: 46, 16
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
@@ -41,7 +48,7 @@ jp_irori_jp_irori_64_b_0_12.png
   index: -1
 jp_irori_jp_irori_64_b_0_13.png
   rotate: false
-  xy: 90, 28
+  xy: 32, 6
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
@@ -74,6 +81,20 @@ jp_irori_jp_irori_64_b_0_17.png
   orig: 7, 11
   offset: 0, 0
   index: -1
+jp_irori_jp_irori_64_b_0_18.png
+  rotate: false
+  xy: 345, 114
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+jp_irori_jp_irori_64_b_0_19.png
+  rotate: false
+  xy: 90, 28
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
 jp_irori_jp_irori_64_b_0_2.png
   rotate: false
   xy: 168, 44
@@ -86,6 +107,20 @@ jp_irori_jp_irori_64_b_0_20.png
   xy: 210, 78
   size: 11, 6
   orig: 11, 6
+  offset: 0, 0
+  index: -1
+jp_irori_jp_irori_64_b_0_21.png
+  rotate: false
+  xy: 326, 105
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+jp_irori_jp_irori_64_b_0_22.png
+  rotate: false
+  xy: 302, 90
+  size: 5, 8
+  orig: 5, 8
   offset: 0, 0
   index: -1
 jp_irori_jp_irori_64_b_0_23.png
@@ -146,14 +181,14 @@ jp_irori_jp_irori_64_b_0_8.png
   index: -1
 jp_irori_jp_irori_64_b_0_9.png
   rotate: false
-  xy: 179, 51
+  xy: 102, 28
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
 jp_irori_jp_irori_64_c_0_0.png
   rotate: false
-  xy: 20, 3
+  xy: 210, 75
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

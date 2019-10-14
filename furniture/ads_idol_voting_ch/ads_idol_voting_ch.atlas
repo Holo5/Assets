@@ -27,7 +27,7 @@ ads_idol_voting_ch_ads_idol_voting_ch_64_a_2_2.png
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_a_6_0.png
   rotate: false
-  xy: 652, 73
+  xy: 701, 73
   size: 49, 53
   orig: 49, 53
   offset: 0, 0
@@ -41,56 +41,56 @@ ads_idol_voting_ch_ads_idol_voting_ch_64_a_6_1.png
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_a_6_2.png
   rotate: false
-  xy: 703, 73
+  xy: 752, 73
   size: 49, 53
   orig: 49, 53
   offset: 0, 0
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_b_2_0.png
   rotate: false
-  xy: 842, 69
+  xy: 891, 69
   size: 42, 57
   orig: 42, 57
   offset: 0, 0
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_b_2_1.png
   rotate: false
-  xy: 798, 69
+  xy: 847, 69
   size: 42, 57
   orig: 42, 57
   offset: 0, 0
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_b_2_2.png
   rotate: false
-  xy: 754, 69
+  xy: 803, 69
   size: 42, 57
   orig: 42, 57
   offset: 0, 0
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_b_6_0.png
   rotate: false
-  xy: 979, 65
+  xy: 265, 33
   size: 43, 19
   orig: 43, 19
   offset: 0, 0
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_b_6_1.png
   rotate: false
-  xy: 979, 107
+  xy: 58, 25
   size: 43, 19
   orig: 43, 19
   offset: 0, 0
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_b_6_2.png
   rotate: false
-  xy: 979, 86
+  xy: 220, 33
   size: 43, 19
   orig: 43, 19
   offset: 0, 0
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_c_2_0.png
   rotate: false
-  xy: 189, 53
+  xy: 554, 66
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
@@ -109,11 +109,25 @@ ads_idol_voting_ch_ads_idol_voting_ch_64_c_2_2.png
   orig: 66, 80
   offset: 0, 0
   index: -1
+ads_idol_voting_ch_ads_idol_voting_ch_64_c_6_0.png
+  rotate: false
+  xy: 2, 11
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_c_6_1.png
   rotate: false
   xy: 138, 57
   size: 69, 69
   orig: 69, 69
+  offset: 0, 0
+  index: -1
+ads_idol_voting_ch_ads_idol_voting_ch_64_d_2_0.png
+  rotate: false
+  xy: 652, 70
+  size: 47, 56
+  orig: 47, 56
   offset: 0, 0
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_d_2_1.png
@@ -151,23 +165,30 @@ ads_idol_voting_ch_ads_idol_voting_ch_64_d_6_2.png
   orig: 57, 72
   offset: 0, 0
   index: -1
+ads_idol_voting_ch_ads_idol_voting_ch_64_e_2_0.png
+  rotate: false
+  xy: 189, 54
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_e_6_0.png
   rotate: false
-  xy: 948, 79
+  xy: 189, 5
   size: 29, 47
   orig: 29, 47
   offset: 0, 0
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_e_6_1.png
   rotate: false
-  xy: 917, 79
+  xy: 966, 79
   size: 29, 47
   orig: 29, 47
   offset: 0, 0
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_64_e_6_2.png
   rotate: false
-  xy: 886, 79
+  xy: 935, 79
   size: 29, 47
   orig: 29, 47
   offset: 0, 0
@@ -181,7 +202,7 @@ ads_idol_voting_ch_ads_idol_voting_ch_64_sd_2_0.png
   index: -1
 ads_idol_voting_ch_ads_idol_voting_ch_icon_a.png
   rotate: false
-  xy: 58, 15
+  xy: 220, 2
   size: 19, 29
   orig: 19, 29
   offset: 0, 0

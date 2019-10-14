@@ -202,7 +202,14 @@ china_moongt_china_moongt_64_g_2_1.png
   index: -1
 china_moongt_china_moongt_64_h_0_0.png
   rotate: false
-  xy: 160, 60
+  xy: 186, 54
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+china_moongt_china_moongt_64_h_0_1.png
+  rotate: false
+  xy: 382, 165
   size: 24, 32
   orig: 24, 32
   offset: 0, 0
@@ -210,6 +217,13 @@ china_moongt_china_moongt_64_h_0_0.png
 china_moongt_china_moongt_64_h_2_0.png
   rotate: false
   xy: 160, 94
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+china_moongt_china_moongt_64_h_2_1.png
+  rotate: false
+  xy: 160, 60
   size: 24, 32
   orig: 24, 32
   offset: 0, 0
@@ -223,7 +237,7 @@ china_moongt_china_moongt_64_sd_0_0.png
   index: -1
 china_moongt_china_moongt_icon_a.png
   rotate: false
-  xy: 186, 56
+  xy: 382, 133
   size: 22, 30
   orig: 22, 30
   offset: 0, 0

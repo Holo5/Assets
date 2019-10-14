@@ -1,68 +1,68 @@
 
 olympics_c16_pommel.png
-size: 1024,128
+size: 2048,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 olympics_c16_pommel_olympics_c16_pommel_64_a_0_0.png
   rotate: false
-  xy: 659, 47
+  xy: 1316, 47
   size: 71, 79
   orig: 71, 79
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_a_0_1.png
   rotate: false
-  xy: 513, 39
+  xy: 1024, 39
   size: 71, 87
   orig: 71, 87
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_a_0_2.png
   rotate: false
-  xy: 367, 31
+  xy: 732, 31
   size: 71, 95
   orig: 71, 95
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_a_0_3.png
   rotate: false
-  xy: 221, 23
+  xy: 440, 23
   size: 71, 103
   orig: 71, 103
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_a_0_4.png
   rotate: false
-  xy: 75, 15
+  xy: 148, 15
   size: 71, 111
   orig: 71, 111
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_a_2_0.png
   rotate: false
-  xy: 586, 46
+  xy: 1170, 46
   size: 71, 80
   orig: 71, 80
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_a_2_1.png
   rotate: false
-  xy: 440, 38
+  xy: 878, 38
   size: 71, 88
   orig: 71, 88
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_a_2_2.png
   rotate: false
-  xy: 294, 30
+  xy: 586, 30
   size: 71, 96
   orig: 71, 96
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_a_2_3.png
   rotate: false
-  xy: 148, 22
+  xy: 294, 22
   size: 71, 104
   orig: 71, 104
   offset: 0, 0
@@ -74,51 +74,247 @@ olympics_c16_pommel_olympics_c16_pommel_64_a_2_4.png
   orig: 71, 112
   offset: 0, 0
   index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_a_4_0.png
+  rotate: false
+  xy: 1389, 47
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_a_4_1.png
+  rotate: false
+  xy: 1097, 39
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_a_4_2.png
+  rotate: false
+  xy: 805, 31
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_a_4_3.png
+  rotate: false
+  xy: 513, 23
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_a_4_4.png
+  rotate: false
+  xy: 221, 15
+  size: 71, 111
+  orig: 71, 111
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_a_6_0.png
+  rotate: false
+  xy: 1243, 46
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_a_6_1.png
+  rotate: false
+  xy: 951, 38
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_a_6_2.png
+  rotate: false
+  xy: 659, 30
+  size: 71, 96
+  orig: 71, 96
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_a_6_3.png
+  rotate: false
+  xy: 367, 22
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_a_6_4.png
+  rotate: false
+  xy: 75, 14
+  size: 71, 112
+  orig: 71, 112
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_0_0.png
+  rotate: false
+  xy: 1561, 108
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_0_1.png
+  rotate: false
+  xy: 1505, 72
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_0_2.png
+  rotate: false
+  xy: 1545, 108
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_b_0_3.png
   rotate: false
-  xy: 180, 2
+  xy: 1529, 108
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_0_4.png
+  rotate: false
+  xy: 1489, 72
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_2_0.png
+  rotate: false
+  xy: 358, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_2_1.png
+  rotate: false
+  xy: 326, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_2_2.png
+  rotate: false
+  xy: 342, 2
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_b_2_3.png
   rotate: false
-  xy: 148, 2
+  xy: 294, 2
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
-olympics_c16_pommel_olympics_c16_pommel_64_b_4_2.png
+olympics_c16_pommel_olympics_c16_pommel_64_b_2_4.png
   rotate: false
-  xy: 732, 78
+  xy: 310, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_4_0.png
+  rotate: false
+  xy: 1609, 109
   size: 14, 17
   orig: 14, 17
   offset: 0, 0
   index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_4_1.png
+  rotate: false
+  xy: 1593, 109
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_4_2.png
+  rotate: false
+  xy: 1577, 109
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_4_3.png
+  rotate: false
+  xy: 1641, 109
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_4_4.png
+  rotate: false
+  xy: 1625, 109
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_6_0.png
+  rotate: false
+  xy: 438, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_6_1.png
+  rotate: false
+  xy: 422, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_6_2.png
+  rotate: false
+  xy: 406, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_b_6_3.png
+  rotate: false
+  xy: 390, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_b_6_4.png
   rotate: false
-  xy: 164, 2
+  xy: 374, 2
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_sd_0_0.png
   rotate: false
-  xy: 440, 2
+  xy: 878, 2
   size: 65, 34
   orig: 65, 34
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_64_sd_2_0.png
   rotate: false
-  xy: 507, 2
+  xy: 1012, 2
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_sd_4_0.png
+  rotate: false
+  xy: 945, 2
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+olympics_c16_pommel_olympics_c16_pommel_64_sd_6_0.png
+  rotate: false
+  xy: 1462, 92
   size: 65, 34
   orig: 65, 34
   offset: 0, 0
   index: -1
 olympics_c16_pommel_olympics_c16_pommel_icon_a.png
   rotate: false
-  xy: 732, 97
+  xy: 1462, 61
   size: 25, 29
   orig: 25, 29
   offset: 0, 0

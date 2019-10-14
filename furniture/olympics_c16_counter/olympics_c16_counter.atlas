@@ -1,35 +1,49 @@
 
 olympics_c16_counter.png
-size: 512,128
+size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 olympics_c16_counter_olympics_c16_counter_64_a_4_0.png
   rotate: false
-  xy: 212, 56
+  xy: 384, 56
   size: 67, 69
   orig: 67, 69
   offset: 0, 0
   index: -1
 olympics_c16_counter_olympics_c16_counter_64_a_4_1.png
   rotate: false
-  xy: 281, 56
+  xy: 453, 56
   size: 67, 69
   orig: 67, 69
   offset: 0, 0
   index: -1
 olympics_c16_counter_olympics_c16_counter_64_a_4_2.png
   rotate: false
-  xy: 143, 56
+  xy: 315, 56
   size: 67, 69
   orig: 67, 69
   offset: 0, 0
   index: -1
-olympics_c16_counter_olympics_c16_counter_64_a_4_4.png
+olympics_c16_counter_olympics_c16_counter_64_a_4_3.png
   rotate: false
-  xy: 73, 2
+  xy: 245, 56
   size: 68, 69
   orig: 68, 69
+  offset: 0, 0
+  index: -1
+olympics_c16_counter_olympics_c16_counter_64_a_4_4.png
+  rotate: false
+  xy: 175, 56
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+olympics_c16_counter_olympics_c16_counter_64_b_4_0.png
+  rotate: false
+  xy: 104, 56
+  size: 69, 69
+  orig: 69, 69
   offset: 0, 0
   index: -1
 olympics_c16_counter_olympics_c16_counter_64_b_4_1.png
@@ -41,14 +55,14 @@ olympics_c16_counter_olympics_c16_counter_64_b_4_1.png
   index: -1
 olympics_c16_counter_olympics_c16_counter_64_b_4_2.png
   rotate: false
-  xy: 419, 56
+  xy: 591, 56
   size: 67, 69
   orig: 67, 69
   offset: 0, 0
   index: -1
 olympics_c16_counter_olympics_c16_counter_64_b_4_3.png
   rotate: false
-  xy: 350, 56
+  xy: 522, 56
   size: 67, 69
   orig: 67, 69
   offset: 0, 0
@@ -62,7 +76,7 @@ olympics_c16_counter_olympics_c16_counter_64_sd_4_0.png
   index: -1
 olympics_c16_counter_olympics_c16_counter_icon_a.png
   rotate: false
-  xy: 104, 99
+  xy: 660, 99
   size: 30, 26
   orig: 30, 26
   offset: 0, 0

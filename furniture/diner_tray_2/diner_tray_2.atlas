@@ -1,6 +1,6 @@
 
 diner_tray_2.png
-size: 64,32
+size: 128,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -9,5 +9,12 @@ diner_tray_2_diner_tray_2_64_a_0_0.png
   xy: 2, 2
   size: 47, 26
   orig: 47, 26
+  offset: 0, 0
+  index: -1
+diner_tray_2_diner_tray_2_icon_a.png
+  rotate: false
+  xy: 51, 14
+  size: 25, 14
+  orig: 25, 14
   offset: 0, 0
   index: -1

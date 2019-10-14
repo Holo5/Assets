@@ -4,6 +4,13 @@ size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+xmas10_surprise_xmas10_surprise_64_a_0_0.png
+  rotate: false
+  xy: 8, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas10_surprise_xmas10_surprise_64_a_0_1.png
   rotate: false
   xy: 45, 16
@@ -13,7 +20,7 @@ xmas10_surprise_xmas10_surprise_64_a_0_1.png
   index: -1
 xmas10_surprise_xmas10_surprise_64_a_0_2.png
   rotate: false
-  xy: 843, 121
+  xy: 903, 121
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
@@ -34,7 +41,7 @@ xmas10_surprise_xmas10_surprise_64_a_0_4.png
   index: -1
 xmas10_surprise_xmas10_surprise_64_a_0_5.png
   rotate: false
-  xy: 832, 117
+  xy: 892, 117
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
@@ -48,9 +55,16 @@ xmas10_surprise_xmas10_surprise_64_a_0_6.png
   index: -1
 xmas10_surprise_xmas10_surprise_64_a_0_7.png
   rotate: false
-  xy: 768, 104
+  xy: 828, 104
   size: 22, 22
   orig: 22, 22
+  offset: 0, 0
+  index: -1
+xmas10_surprise_xmas10_surprise_64_a_0_8.png
+  rotate: false
+  xy: 768, 98
+  size: 28, 28
+  orig: 28, 28
   offset: 0, 0
   index: -1
 xmas10_surprise_xmas10_surprise_64_a_0_9.png
@@ -61,6 +75,13 @@ xmas10_surprise_xmas10_surprise_64_a_0_9.png
   offset: 0, 0
   index: -1
 xmas10_surprise_xmas10_surprise_64_b_0_0.png
+  rotate: false
+  xy: 5, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas10_surprise_xmas10_surprise_64_b_0_1.png
   rotate: false
   xy: 2, 2
   size: 1, 1
@@ -118,7 +139,7 @@ xmas10_surprise_xmas10_surprise_64_b_0_3.png
   index: -1
 xmas10_surprise_xmas10_surprise_64_b_0_4.png
   rotate: false
-  xy: 814, 106
+  xy: 874, 106
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
@@ -132,7 +153,7 @@ xmas10_surprise_xmas10_surprise_64_b_0_5.png
   index: -1
 xmas10_surprise_xmas10_surprise_64_b_0_6.png
   rotate: false
-  xy: 814, 114
+  xy: 874, 114
   size: 16, 12
   orig: 16, 12
   offset: 0, 0
@@ -146,7 +167,7 @@ xmas10_surprise_xmas10_surprise_64_b_0_7.png
   index: -1
 xmas10_surprise_xmas10_surprise_64_b_0_8.png
   rotate: false
-  xy: 792, 104
+  xy: 852, 104
   size: 20, 22
   orig: 20, 22
   offset: 0, 0
@@ -156,6 +177,13 @@ xmas10_surprise_xmas10_surprise_64_b_0_9.png
   xy: 669, 66
   size: 27, 30
   orig: 27, 30
+  offset: 0, 0
+  index: -1
+xmas10_surprise_xmas10_surprise_64_c_0_0.png
+  rotate: false
+  xy: 11, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas10_surprise_xmas10_surprise_64_c_0_1.png
@@ -198,5 +226,12 @@ xmas10_surprise_xmas10_surprise_64_c_0_6.png
   xy: 422, 23
   size: 103, 103
   orig: 103, 103
+  offset: 0, 0
+  index: -1
+xmas10_surprise_xmas10_surprise_icon_a.png
+  rotate: false
+  xy: 798, 98
+  size: 28, 28
+  orig: 28, 28
   offset: 0, 0
   index: -1

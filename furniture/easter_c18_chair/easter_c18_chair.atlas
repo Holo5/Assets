@@ -27,7 +27,7 @@ easter_c18_chair_easter_c18_chair_64_a_4_0.png
   index: -1
 easter_c18_chair_easter_c18_chair_64_a_6_0.png
   rotate: false
-  xy: 440, 83
+  xy: 422, 53
   size: 38, 23
   orig: 38, 23
   offset: 0, 0
@@ -74,6 +74,13 @@ easter_c18_chair_easter_c18_chair_64_sd_2_0.png
   orig: 56, 28
   offset: 0, 0
   index: -1
+easter_c18_chair_easter_c18_chair_64_sd_4_0.png
+  rotate: false
+  xy: 440, 78
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
 easter_c18_chair_easter_c18_chair_64_sd_6_0.png
   rotate: false
   xy: 2, 2
@@ -83,7 +90,7 @@ easter_c18_chair_easter_c18_chair_64_sd_6_0.png
   index: -1
 easter_c18_chair_easter_c18_chair_icon_a.png
   rotate: false
-  xy: 480, 76
+  xy: 122, 2
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

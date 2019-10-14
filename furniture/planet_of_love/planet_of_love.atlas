@@ -62,35 +62,35 @@ planet_of_love_planet_of_love_64_d_0_0.png
   index: -1
 planet_of_love_planet_of_love_64_d_0_1.png
   rotate: false
-  xy: 75, 45
+  xy: 92, 45
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 planet_of_love_planet_of_love_64_d_0_10.png
   rotate: false
-  xy: 164, 94
+  xy: 181, 94
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 planet_of_love_planet_of_love_64_d_0_11.png
   rotate: false
-  xy: 181, 94
+  xy: 198, 94
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 planet_of_love_planet_of_love_64_d_0_12.png
   rotate: false
-  xy: 109, 45
+  xy: 164, 94
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 planet_of_love_planet_of_love_64_d_0_2.png
   rotate: false
-  xy: 92, 45
+  xy: 109, 45
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
@@ -163,5 +163,12 @@ planet_of_love_planet_of_love_64_g_0_0.png
   xy: 30, 2
   size: 4, 3
   orig: 4, 3
+  offset: 0, 0
+  index: -1
+planet_of_love_planet_of_love_icon_a.png
+  rotate: false
+  xy: 75, 45
+  size: 15, 15
+  orig: 15, 15
   offset: 0, 0
   index: -1

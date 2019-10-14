@@ -1,12 +1,40 @@
 
 grungelamp.png
-size: 128,256
+size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-grungelamp_grungelamp_64_a_4_0.png
+grungelamp_grungelamp_64_a_0_0.png
+  rotate: false
+  xy: 59, 129
+  size: 17, 125
+  orig: 17, 125
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_a_0_1.png
+  rotate: false
+  xy: 21, 129
+  size: 17, 125
+  orig: 17, 125
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_a_2_0.png
+  rotate: false
+  xy: 40, 2
+  size: 17, 125
+  orig: 17, 125
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_a_2_1.png
   rotate: false
   xy: 2, 2
+  size: 17, 125
+  orig: 17, 125
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_a_4_0.png
+  rotate: false
+  xy: 40, 129
   size: 17, 125
   orig: 17, 125
   offset: 0, 0
@@ -18,65 +46,247 @@ grungelamp_grungelamp_64_a_4_1.png
   orig: 17, 125
   offset: 0, 0
   index: -1
+grungelamp_grungelamp_64_a_6_0.png
+  rotate: false
+  xy: 59, 2
+  size: 17, 125
+  orig: 17, 125
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_a_6_1.png
+  rotate: false
+  xy: 21, 2
+  size: 17, 125
+  orig: 17, 125
+  offset: 0, 0
+  index: -1
 grungelamp_grungelamp_64_b_0_0.png
   rotate: false
-  xy: 124, 253
+  xy: 188, 41
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
+grungelamp_grungelamp_64_b_0_1.png
+  rotate: false
+  xy: 188, 201
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
 grungelamp_grungelamp_64_b_0_2.png
   rotate: false
-  xy: 21, 201
+  xy: 78, 201
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_0_3.png
+  rotate: false
+  xy: 243, 201
   size: 53, 53
   orig: 53, 53
   offset: 0, 0
   index: -1
 grungelamp_grungelamp_64_b_0_4.png
   rotate: false
-  xy: 21, 44
+  xy: 346, 209
   size: 46, 45
   orig: 46, 45
   offset: 0, 0
   index: -1
+grungelamp_grungelamp_64_b_0_5.png
+  rotate: false
+  xy: 298, 209
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_2_0.png
+  rotate: false
+  xy: 97, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_2_1.png
+  rotate: false
+  xy: 133, 91
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_2_2.png
+  rotate: false
+  xy: 78, 91
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_2_3.png
+  rotate: false
+  xy: 188, 91
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_2_4.png
+  rotate: false
+  xy: 243, 60
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_2_5.png
+  rotate: false
+  xy: 243, 107
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_4_0.png
+  rotate: false
+  xy: 490, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 grungelamp_grungelamp_64_b_4_1.png
   rotate: false
-  xy: 21, 146
+  xy: 133, 146
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_4_2.png
+  rotate: false
+  xy: 78, 146
   size: 53, 53
   orig: 53, 53
   offset: 0, 0
   index: -1
 grungelamp_grungelamp_64_b_4_3.png
   rotate: false
-  xy: 21, 91
+  xy: 188, 146
   size: 53, 53
   orig: 53, 53
   offset: 0, 0
   index: -1
+grungelamp_grungelamp_64_b_4_4.png
+  rotate: false
+  xy: 394, 209
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
 grungelamp_grungelamp_64_b_4_5.png
   rotate: false
-  xy: 76, 209
+  xy: 243, 154
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_6_0.png
+  rotate: false
+  xy: 236, 88
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_6_1.png
+  rotate: false
+  xy: 78, 36
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_6_2.png
+  rotate: false
+  xy: 133, 201
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_6_3.png
+  rotate: false
+  xy: 133, 36
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_6_4.png
+  rotate: false
+  xy: 442, 209
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_b_6_5.png
+  rotate: false
+  xy: 188, 44
   size: 46, 45
   orig: 46, 45
   offset: 0, 0
   index: -1
 grungelamp_grungelamp_64_c_0_0.png
   rotate: false
-  xy: 95, 195
+  xy: 147, 22
   size: 23, 12
   orig: 23, 12
   offset: 0, 0
   index: -1
 grungelamp_grungelamp_64_c_0_1.png
   rotate: false
-  xy: 21, 30
+  xy: 97, 22
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_c_2_0.png
+  rotate: false
+  xy: 298, 195
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_c_2_1.png
+  rotate: false
+  xy: 122, 22
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_c_4_0.png
+  rotate: false
+  xy: 323, 195
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_c_4_1.png
+  rotate: false
+  xy: 122, 8
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_c_6_0.png
+  rotate: false
+  xy: 147, 8
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+grungelamp_grungelamp_64_c_6_1.png
+  rotate: false
+  xy: 97, 8
   size: 23, 12
   orig: 23, 12
   offset: 0, 0
   index: -1
 grungelamp_grungelamp_icon_a.png
   rotate: false
-  xy: 76, 175
+  xy: 78, 2
   size: 17, 32
   orig: 17, 32
   offset: 0, 0

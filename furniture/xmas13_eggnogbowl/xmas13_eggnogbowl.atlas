@@ -1,26 +1,33 @@
 
 xmas13_eggnogbowl.png
-size: 256,128
+size: 128,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+xmas13_eggnogbowl_xmas13_eggnogbowl_64_a_0_0.png
+  rotate: false
+  xy: 2, 54
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
 xmas13_eggnogbowl_xmas13_eggnogbowl_64_a_0_1.png
   rotate: false
-  xy: 2, 34
+  xy: 2, 143
   size: 88, 87
   orig: 88, 87
   offset: 0, 0
   index: -1
 xmas13_eggnogbowl_xmas13_eggnogbowl_64_sd_0_0.png
   rotate: false
-  xy: 92, 71
+  xy: 2, 2
   size: 87, 50
   orig: 87, 50
   offset: 0, 0
   index: -1
 xmas13_eggnogbowl_xmas13_eggnogbowl_icon_a.png
   rotate: false
-  xy: 2, 2
+  xy: 92, 200
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

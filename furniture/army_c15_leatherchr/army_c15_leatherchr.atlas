@@ -60,6 +60,27 @@ army_c15_leatherchr_army_c15_leatherchr_64_b_6_0.png
   orig: 55, 72
   offset: 0, 0
   index: -1
+army_c15_leatherchr_army_c15_leatherchr_64_sd_0_0.png
+  rotate: false
+  xy: 354, 70
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+army_c15_leatherchr_army_c15_leatherchr_64_sd_2_0.png
+  rotate: false
+  xy: 408, 99
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+army_c15_leatherchr_army_c15_leatherchr_64_sd_4_0.png
+  rotate: false
+  xy: 408, 70
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
 army_c15_leatherchr_army_c15_leatherchr_64_sd_6_0.png
   rotate: false
   xy: 354, 99
@@ -69,7 +90,7 @@ army_c15_leatherchr_army_c15_leatherchr_64_sd_6_0.png
   index: -1
 army_c15_leatherchr_army_c15_leatherchr_icon_a.png
   rotate: false
-  xy: 354, 67
+  xy: 462, 96
   size: 18, 30
   orig: 18, 30
   offset: 0, 0

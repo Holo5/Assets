@@ -6,28 +6,35 @@ filter: Nearest,Nearest
 repeat: none
 cine_bigcorn_cine_bigcorn_64_a_0_0.png
   rotate: false
-  xy: 2, 34
+  xy: 2, 44
   size: 58, 88
   orig: 58, 88
   offset: 0, 0
   index: -1
 cine_bigcorn_cine_bigcorn_64_a_2_0.png
   rotate: false
-  xy: 2, 124
+  xy: 2, 134
   size: 58, 88
   orig: 58, 88
   offset: 0, 0
   index: -1
+cine_bigcorn_cine_bigcorn_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
 cine_bigcorn_cine_bigcorn_64_sd_2_0.png
   rotate: false
-  xy: 2, 13
+  xy: 2, 23
   size: 38, 19
   orig: 38, 19
   offset: 0, 0
   index: -1
 cine_bigcorn_cine_bigcorn_icon_a.png
   rotate: false
-  xy: 42, 2
+  xy: 42, 12
   size: 20, 30
   orig: 20, 30
   offset: 0, 0

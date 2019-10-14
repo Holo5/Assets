@@ -1,20 +1,27 @@
 
 coralking_c18_cone.png
-size: 64,32
+size: 32,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 coralking_c18_cone_coralking_c18_cone_64_a_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 40
   size: 28, 19
   orig: 28, 19
   offset: 0, 0
   index: -1
 coralking_c18_cone_coralking_c18_cone_64_sd_0_0.png
   rotate: false
-  xy: 32, 6
+  xy: 2, 2
   size: 26, 15
   orig: 26, 15
+  offset: 0, 0
+  index: -1
+coralking_c18_cone_coralking_c18_cone_icon_a.png
+  rotate: false
+  xy: 2, 19
+  size: 28, 19
+  orig: 28, 19
   offset: 0, 0
   index: -1

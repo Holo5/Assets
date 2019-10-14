@@ -172,6 +172,13 @@ mystics_crystal_s_mystics_crystal_s_64_b_0_5.png
   orig: 71, 137
   offset: 0, 0
   index: -1
+mystics_crystal_s_mystics_crystal_s_64_b_0_6.png
+  rotate: false
+  xy: 834, 158
+  size: 70, 136
+  orig: 70, 136
+  offset: 0, 0
+  index: -1
 mystics_crystal_s_mystics_crystal_s_64_b_0_7.png
   rotate: false
   xy: 397, 137
@@ -184,6 +191,20 @@ mystics_crystal_s_mystics_crystal_s_64_b_0_8.png
   xy: 762, 158
   size: 70, 136
   orig: 70, 136
+  offset: 0, 0
+  index: -1
+mystics_crystal_s_mystics_crystal_s_64_b_0_9.png
+  rotate: false
+  xy: 367, 272
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mystics_crystal_s_mystics_crystal_s_64_c_0_0.png
+  rotate: false
+  xy: 2, 23
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 mystics_crystal_s_mystics_crystal_s_64_c_0_1.png
@@ -237,7 +258,7 @@ mystics_crystal_s_mystics_crystal_s_64_sd_0_0.png
   index: -1
 mystics_crystal_s_mystics_crystal_s_icon_a.png
   rotate: false
-  xy: 834, 264
+  xy: 906, 264
   size: 18, 30
   orig: 18, 30
   offset: 0, 0

@@ -13,8 +13,15 @@ pixel_plantred_pixel_plantred_64_a_0_0.png
   index: -1
 pixel_plantred_pixel_plantred_64_sd_0_0.png
   rotate: false
-  xy: 46, 42
+  xy: 69, 42
   size: 24, 13
   orig: 24, 13
+  offset: 0, 0
+  index: -1
+pixel_plantred_pixel_plantred_icon_a.png
+  rotate: false
+  xy: 46, 27
+  size: 21, 28
+  orig: 21, 28
   offset: 0, 0
   index: -1

@@ -1,6 +1,6 @@
 
 tiki_tray0.png
-size: 64,64
+size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -16,5 +16,12 @@ tiki_tray0_tiki_tray0_64_sd_0_0.png
   xy: 2, 2
   size: 37, 10
   orig: 37, 10
+  offset: 0, 0
+  index: -1
+tiki_tray0_tiki_tray0_icon_a.png
+  rotate: false
+  xy: 49, 29
+  size: 23, 17
+  orig: 23, 17
   offset: 0, 0
   index: -1

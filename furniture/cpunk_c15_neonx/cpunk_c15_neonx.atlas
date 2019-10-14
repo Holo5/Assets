@@ -1,180 +1,215 @@
 
 cpunk_c15_neonx.png
-size: 512,256
+size: 2048,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_0.png
   rotate: false
-  xy: 246, 76
+  xy: 551, 26
   size: 59, 88
   orig: 59, 88
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_1.png
   rotate: false
-  xy: 124, 72
+  xy: 307, 24
   size: 59, 90
   orig: 59, 90
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_10.png
   rotate: false
-  xy: 63, 160
+  xy: 124, 20
   size: 59, 94
   orig: 59, 94
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_11.png
   rotate: false
-  xy: 429, 174
+  xy: 856, 34
   size: 59, 80
   orig: 59, 80
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_12.png
   rotate: false
-  xy: 368, 170
+  xy: 734, 30
   size: 59, 84
   orig: 59, 84
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_13.png
   rotate: false
-  xy: 307, 169
+  xy: 612, 29
   size: 59, 85
   orig: 59, 85
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_14.png
   rotate: false
-  xy: 185, 165
+  xy: 368, 25
   size: 59, 89
   orig: 59, 89
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_15.png
   rotate: false
-  xy: 2, 62
+  xy: 63, 19
   size: 59, 95
   orig: 59, 95
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_2.png
   rotate: false
-  xy: 63, 64
+  xy: 185, 20
   size: 59, 94
   orig: 59, 94
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_3.png
   rotate: false
-  xy: 429, 92
+  xy: 917, 34
   size: 59, 80
   orig: 59, 80
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_4.png
   rotate: false
-  xy: 368, 84
+  xy: 795, 30
   size: 59, 84
   orig: 59, 84
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_5.png
   rotate: false
-  xy: 307, 82
+  xy: 673, 29
   size: 59, 85
   orig: 59, 85
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_6.png
   rotate: false
-  xy: 185, 74
+  xy: 429, 25
   size: 59, 89
   orig: 59, 89
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_7.png
   rotate: false
-  xy: 2, 159
+  xy: 2, 19
   size: 59, 95
   orig: 59, 95
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_8.png
   rotate: false
-  xy: 246, 166
+  xy: 490, 26
   size: 59, 88
   orig: 59, 88
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_a_4_9.png
   rotate: false
-  xy: 124, 164
+  xy: 246, 24
   size: 59, 90
   orig: 59, 90
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_b_4_0.png
   rotate: false
-  xy: 429, 89
+  xy: 246, 21
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
+cpunk_c15_neonx_cpunk_c15_neonx_64_b_4_1.png
+  rotate: false
+  xy: 1238, 42
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+cpunk_c15_neonx_cpunk_c15_neonx_64_b_4_2.png
+  rotate: false
+  xy: 1303, 42
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+cpunk_c15_neonx_cpunk_c15_neonx_64_b_4_3.png
+  rotate: false
+  xy: 1108, 42
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+cpunk_c15_neonx_cpunk_c15_neonx_64_b_4_4.png
+  rotate: false
+  xy: 1173, 42
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_b_4_5.png
   rotate: false
-  xy: 246, 2
+  xy: 978, 42
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+cpunk_c15_neonx_cpunk_c15_neonx_64_b_4_6.png
+  rotate: false
+  xy: 1043, 42
   size: 63, 72
   orig: 63, 72
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_c_4_0.png
   rotate: false
-  xy: 490, 212
+  xy: 1368, 72
   size: 19, 42
   orig: 19, 42
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_d_4_0.png
   rotate: false
-  xy: 490, 203
+  xy: 1368, 63
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_d_4_1.png
   rotate: false
-  xy: 2, 6
+  xy: 1389, 73
   size: 22, 9
   orig: 22, 9
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_d_4_2.png
   rotate: false
-  xy: 2, 17
+  xy: 38, 6
   size: 26, 11
   orig: 26, 11
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_d_4_3.png
   rotate: false
-  xy: 30, 30
+  xy: 1417, 101
   size: 30, 13
   orig: 30, 13
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_64_d_4_4.png
   rotate: false
-  xy: 30, 45
+  xy: 2, 2
   size: 34, 15
   orig: 34, 15
   offset: 0, 0
   index: -1
 cpunk_c15_neonx_cpunk_c15_neonx_icon_a.png
   rotate: false
-  xy: 2, 30
+  xy: 1389, 84
   size: 26, 30
   orig: 26, 30
   offset: 0, 0

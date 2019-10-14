@@ -32,9 +32,16 @@ LT_skull_LT_skull_64_a_2_1.png
   orig: 26, 22
   offset: 0, 0
   index: -1
+LT_skull_LT_skull_64_a_4_1.png
+  rotate: false
+  xy: 128, 2
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
 LT_skull_LT_skull_64_sd_0_0.png
   rotate: false
-  xy: 128, 16
+  xy: 151, 16
   size: 23, 12
   orig: 23, 12
   offset: 0, 0

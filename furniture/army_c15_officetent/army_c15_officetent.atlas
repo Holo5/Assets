@@ -123,9 +123,16 @@ army_c15_officetent_army_c15_officetent_64_q_4_1.png
   orig: 32, 33
   offset: 0, 0
   index: -1
-army_c15_officetent_army_c15_officetent_64_s_4_1.png
+army_c15_officetent_army_c15_officetent_64_r_4_1.png
   rotate: false
   xy: 170, 48
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+army_c15_officetent_army_c15_officetent_64_s_4_1.png
+  rotate: false
+  xy: 204, 83
   size: 32, 33
   orig: 32, 33
   offset: 0, 0

@@ -1,376 +1,397 @@
 
 jungle_ltd16_orangutan.png
-size: 512,128
+size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_a_0_0.png
   rotate: false
-  xy: 2, 60
+  xy: 2, 188
   size: 65, 66
   orig: 65, 66
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_b_0_0.png
   rotate: false
-  xy: 76, 61
+  xy: 195, 130
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_b_0_1.png
   rotate: false
-  xy: 412, 8
+  xy: 167, 177
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_b_0_2.png
   rotate: false
-  xy: 463, 10
+  xy: 136, 15
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_b_0_3.png
   rotate: false
-  xy: 435, 9
+  xy: 223, 242
   size: 26, 12
   orig: 26, 12
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_b_0_4.png
   rotate: false
-  xy: 395, 4
+  xy: 239, 223
   size: 15, 17
   orig: 15, 17
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_b_0_5.png
   rotate: false
-  xy: 99, 61
+  xy: 232, 170
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_b_0_6.png
   rotate: false
-  xy: 377, 4
+  xy: 209, 24
   size: 16, 17
   orig: 16, 17
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_b_0_7.png
   rotate: false
-  xy: 118, 61
+  xy: 231, 190
   size: 16, 18
   orig: 16, 18
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_b_0_8.png
   rotate: false
-  xy: 358, 4
+  xy: 232, 151
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_c_0_0.png
   rotate: false
-  xy: 222, 35
+  xy: 50, 37
   size: 41, 44
   orig: 41, 44
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_c_0_1.png
   rotate: false
-  xy: 144, 81
+  xy: 50, 83
   size: 41, 45
   orig: 41, 45
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_c_0_2.png
   rotate: false
-  xy: 136, 34
+  xy: 109, 130
   size: 41, 45
   orig: 41, 45
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_c_0_3.png
   rotate: false
-  xy: 93, 14
+  xy: 66, 130
   size: 41, 45
   orig: 41, 45
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_c_0_4.png
   rotate: false
-  xy: 187, 81
+  xy: 163, 83
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_c_0_5.png
+  rotate: false
+  xy: 152, 130
   size: 41, 45
   orig: 41, 45
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_c_0_6.png
   rotate: false
-  xy: 179, 34
+  xy: 93, 83
   size: 41, 45
   orig: 41, 45
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_c_0_7.png
   rotate: false
-  xy: 230, 82
+  xy: 93, 37
   size: 41, 44
   orig: 41, 44
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_c_0_8.png
   rotate: false
-  xy: 265, 36
+  xy: 163, 37
   size: 41, 44
   orig: 41, 44
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_d_0_0.png
   rotate: false
-  xy: 71, 5
+  xy: 66, 185
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_d_0_1.png
   rotate: false
-  xy: 107, 3
+  xy: 144, 4
   size: 13, 9
   orig: 13, 9
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_d_0_2.png
   rotate: false
-  xy: 122, 3
+  xy: 239, 212
   size: 13, 9
   orig: 13, 9
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_d_0_3.png
   rotate: false
-  xy: 479, 2
+  xy: 175, 4
   size: 12, 6
   orig: 12, 6
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_d_0_4.png
   rotate: false
-  xy: 493, 71
+  xy: 189, 4
   size: 12, 6
   orig: 12, 6
   offset: 0, 0
   index: -1
+jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_e_0_0.png
+  rotate: false
+  xy: 206, 37
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_e_0_1.png
   rotate: false
-  xy: 463, 2
+  xy: 159, 4
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_e_0_2.png
   rotate: false
-  xy: 342, 40
+  xy: 232, 133
   size: 14, 5
   orig: 14, 5
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_e_0_3.png
   rotate: false
-  xy: 93, 2
+  xy: 218, 135
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_e_0_4.png
   rotate: false
-  xy: 493, 90
+  xy: 129, 2
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_e_0_5.png
   rotate: false
-  xy: 493, 79
+  xy: 232, 140
   size: 13, 9
   orig: 13, 9
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_e_0_6.png
   rotate: false
-  xy: 493, 103
+  xy: 223, 232
   size: 14, 8
   orig: 14, 8
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_f_0_0.png
   rotate: false
-  xy: 137, 2
+  xy: 2, 8
   size: 45, 30
   orig: 45, 30
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_f_0_1.png
   rotate: false
-  xy: 215, 3
+  xy: 49, 6
   size: 47, 29
   orig: 47, 29
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_f_0_2.png
   rotate: false
-  xy: 312, 15
+  xy: 163, 12
   size: 44, 23
   orig: 44, 23
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_f_0_3.png
   rotate: false
-  xy: 408, 89
+  xy: 176, 232
   size: 45, 22
   orig: 45, 22
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_f_0_4.png
   rotate: false
-  xy: 321, 87
+  xy: 195, 147
   size: 35, 39
   orig: 35, 39
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_f_0_5.png
   rotate: false
-  xy: 308, 40
+  xy: 197, 188
   size: 32, 42
   orig: 32, 42
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_f_0_6.png
   rotate: false
-  xy: 69, 78
+  xy: 136, 28
   size: 25, 48
   orig: 25, 48
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_f_0_7.png
   rotate: false
-  xy: 66, 8
+  xy: 136, 78
   size: 25, 50
   orig: 25, 50
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_f_0_8.png
   rotate: false
-  xy: 49, 3
+  xy: 49, 131
   size: 15, 55
   orig: 15, 55
   offset: 0, 0
   index: -1
+jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_g_0_0.png
+  rotate: false
+  xy: 206, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_g_0_1.png
   rotate: false
-  xy: 69, 60
+  xy: 129, 19
   size: 5, 16
   orig: 5, 16
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_g_0_10.png
   rotate: false
-  xy: 66, 3
+  xy: 251, 251
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_g_0_2.png
   rotate: false
-  xy: 420, 49
+  xy: 231, 210
   size: 6, 20
   orig: 6, 20
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_g_0_3.png
   rotate: false
-  xy: 280, 8
+  xy: 206, 71
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_g_0_4.png
   rotate: false
-  xy: 296, 8
+  xy: 206, 43
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_g_0_5.png
   rotate: false
-  xy: 264, 4
+  xy: 206, 99
   size: 14, 29
   orig: 14, 29
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_g_0_6.png
   rotate: false
-  xy: 358, 88
+  xy: 147, 192
   size: 48, 38
   orig: 48, 38
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_g_0_7.png
   rotate: false
-  xy: 342, 47
+  xy: 69, 192
   size: 76, 38
   orig: 76, 38
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_g_0_8.png
   rotate: false
-  xy: 408, 113
+  xy: 69, 177
   size: 96, 13
   orig: 96, 13
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_g_0_9.png
   rotate: false
-  xy: 358, 23
+  xy: 69, 232
   size: 105, 22
   orig: 105, 22
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_h_0_0.png
   rotate: false
-  xy: 2, 3
+  xy: 2, 131
   size: 45, 55
   orig: 45, 55
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_h_0_1.png
   rotate: false
-  xy: 96, 81
+  xy: 2, 84
   size: 46, 45
   orig: 46, 45
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_h_0_2.png
   rotate: false
-  xy: 273, 84
+  xy: 2, 40
   size: 46, 42
   orig: 46, 42
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_64_sd_0_0.png
   rotate: false
-  xy: 312, 2
+  xy: 209, 11
   size: 44, 11
   orig: 44, 11
   offset: 0, 0
   index: -1
 jungle_ltd16_orangutan_jungle_ltd16_orangutan_icon_a.png
   rotate: false
-  xy: 184, 2
+  xy: 98, 5
   size: 29, 30
   orig: 29, 30
   offset: 0, 0

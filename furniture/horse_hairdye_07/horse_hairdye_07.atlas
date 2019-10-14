@@ -25,3 +25,10 @@ horse_hairdye_07_horse_hairdye_07_icon_a.png
   orig: 8, 11
   offset: 0, 0
   index: -1
+horse_hairdye_07_horse_hairdye_07_icon_b.png
+  rotate: false
+  xy: 50, 33
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1

@@ -6,21 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 cubie_decklight_p_cubie_decklight_p_64_a_2_0.png
   rotate: false
-  xy: 82, 55
+  xy: 82, 58
   size: 54, 47
   orig: 54, 47
   offset: 0, 0
   index: -1
-cubie_decklight_p_cubie_decklight_p_64_b_2_1.png
+cubie_decklight_p_cubie_decklight_p_64_b_2_0.png
   rotate: false
   xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cubie_decklight_p_cubie_decklight_p_64_b_2_1.png
+  rotate: false
+  xy: 2, 5
   size: 78, 100
   orig: 78, 100
   offset: 0, 0
   index: -1
 cubie_decklight_p_cubie_decklight_p_icon_a.png
   rotate: false
-  xy: 82, 29
+  xy: 82, 32
   size: 27, 24
   orig: 27, 24
   offset: 0, 0

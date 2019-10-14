@@ -6,238 +6,252 @@ filter: Nearest,Nearest
 repeat: none
 birds_r18_spoonbill_birds_r18_spoonbill_64_a_0_1.png
   rotate: false
-  xy: 719, 53
+  xy: 649, 18
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_0.png
   rotate: false
-  xy: 864, 171
+  xy: 438, 4
   size: 90, 80
   orig: 90, 80
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_1.png
   rotate: false
-  xy: 101, 83
+  xy: 488, 96
   size: 90, 75
   orig: 90, 75
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_10.png
   rotate: false
-  xy: 2, 59
+  xy: 2, 61
   size: 97, 93
   orig: 97, 93
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_11.png
   rotate: false
-  xy: 2, 154
+  xy: 2, 156
   size: 96, 97
   orig: 96, 97
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_12.png
   rotate: false
-  xy: 100, 160
+  xy: 100, 162
   size: 99, 91
   orig: 99, 91
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_13.png
   rotate: false
-  xy: 300, 161
+  xy: 200, 70
   size: 97, 90
   orig: 97, 90
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_14.png
   rotate: false
-  xy: 772, 171
+  xy: 484, 173
   size: 90, 80
   orig: 90, 80
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_15.png
   rotate: false
-  xy: 680, 169
+  xy: 396, 86
   size: 90, 82
   orig: 90, 82
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_16.png
   rotate: false
-  xy: 588, 168
+  xy: 392, 170
   size: 90, 83
   orig: 90, 83
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_2.png
   rotate: false
-  xy: 773, 98
+  xy: 769, 109
   size: 90, 71
   orig: 90, 71
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_3.png
   rotate: false
-  xy: 496, 94
+  xy: 762, 182
   size: 90, 71
   orig: 90, 71
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_4.png
   rotate: false
-  xy: 681, 96
+  xy: 712, 36
   size: 90, 71
   orig: 90, 71
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_5.png
   rotate: false
-  xy: 865, 98
+  xy: 854, 182
   size: 90, 71
   orig: 90, 71
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_6.png
   rotate: false
-  xy: 496, 167
+  xy: 300, 169
   size: 90, 84
   orig: 90, 84
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_7.png
   rotate: false
-  xy: 399, 161
+  xy: 299, 71
   size: 95, 90
   orig: 95, 90
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_8.png
   rotate: false
-  xy: 201, 159
+  xy: 101, 68
   size: 97, 92
   orig: 97, 92
   offset: 0, 0
   index: -1
+birds_r18_spoonbill_birds_r18_spoonbill_64_b_0_9.png
+  rotate: false
+  xy: 201, 163
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_0.png
   rotate: false
-  xy: 587, 32
+  xy: 946, 193
   size: 71, 60
   orig: 71, 60
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_1.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 4
   size: 69, 55
   orig: 69, 55
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_10.png
   rotate: false
-  xy: 195, 11
+  xy: 576, 180
   size: 91, 73
   orig: 91, 73
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_11.png
   rotate: false
-  xy: 390, 82
+  xy: 530, 17
   size: 86, 77
   orig: 86, 77
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_12.png
   rotate: false
-  xy: 193, 86
+  xy: 580, 107
   size: 93, 71
   orig: 93, 71
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_13.png
   rotate: false
-  xy: 101, 11
+  xy: 618, 35
   size: 92, 70
   orig: 92, 70
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_14.png
   rotate: false
-  xy: 514, 32
+  xy: 365, 9
   size: 71, 60
   orig: 71, 60
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_15.png
   rotate: false
-  xy: 440, 18
+  xy: 291, 6
   size: 72, 62
   orig: 72, 62
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_16.png
   rotate: false
-  xy: 366, 17
+  xy: 217, 5
   size: 72, 63
   orig: 72, 63
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_2.png
   rotate: false
-  xy: 957, 144
+  xy: 946, 137
   size: 58, 54
   orig: 58, 54
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_3.png
   rotate: false
-  xy: 956, 200
+  xy: 73, 8
   size: 64, 51
   orig: 64, 51
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_4.png
   rotate: false
-  xy: 957, 88
+  xy: 861, 126
   size: 58, 54
   orig: 58, 54
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_5.png
   rotate: false
-  xy: 660, 38
+  xy: 861, 70
   size: 57, 54
   orig: 57, 54
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_6.png
   rotate: false
-  xy: 288, 23
+  xy: 139, 2
   size: 76, 64
   orig: 76, 64
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_7.png
   rotate: false
-  xy: 300, 89
+  xy: 921, 65
   size: 88, 70
   orig: 88, 70
   offset: 0, 0
   index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_8.png
   rotate: false
-  xy: 588, 94
+  xy: 669, 181
   size: 91, 72
   orig: 91, 72
   offset: 0, 0
   index: -1
+birds_r18_spoonbill_birds_r18_spoonbill_64_c_0_9.png
+  rotate: false
+  xy: 675, 109
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
 birds_r18_spoonbill_birds_r18_spoonbill_icon_a.png
   rotate: false
-  xy: 719, 70
+  xy: 618, 9
   size: 29, 24
   orig: 29, 24
   offset: 0, 0

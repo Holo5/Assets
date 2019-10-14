@@ -39,9 +39,16 @@ xmas_c16_chair_xmas_c16_chair_64_sd_4_0.png
   orig: 57, 28
   offset: 0, 0
   index: -1
+xmas_c16_chair_xmas_c16_chair_64_sd_6_0.png
+  rotate: false
+  xy: 2, 9
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
 xmas_c16_chair_xmas_c16_chair_icon_a.png
   rotate: false
-  xy: 2, 7
+  xy: 106, 23
   size: 23, 30
   orig: 23, 30
   offset: 0, 0

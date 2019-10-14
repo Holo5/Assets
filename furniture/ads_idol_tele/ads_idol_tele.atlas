@@ -1,75 +1,124 @@
 
 ads_idol_tele.png
-size: 256,128
+size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 ads_idol_tele_ads_idol_tele_64_a_4_0.png
   rotate: false
-  xy: 116, 19
+  xy: 154, 8
   size: 36, 104
   orig: 36, 104
   offset: 0, 0
   index: -1
 ads_idol_tele_ads_idol_tele_64_a_4_1.png
   rotate: false
-  xy: 154, 19
+  xy: 192, 8
   size: 33, 104
   orig: 33, 104
   offset: 0, 0
   index: -1
+ads_idol_tele_ads_idol_tele_64_a_6_0.png
+  rotate: false
+  xy: 297, 111
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ads_idol_tele_ads_idol_tele_64_a_6_1.png
   rotate: false
-  xy: 245, 101
+  xy: 283, 57
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
+ads_idol_tele_ads_idol_tele_64_b_4_0.png
+  rotate: false
+  xy: 227, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ads_idol_tele_ads_idol_tele_64_b_4_1.png
   rotate: false
-  xy: 245, 98
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_idol_tele_ads_idol_tele_64_b_6_0.png
+  rotate: false
+  xy: 290, 78
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 ads_idol_tele_ads_idol_tele_64_b_6_1.png
   rotate: false
-  xy: 217, 35
+  xy: 255, 24
   size: 26, 88
   orig: 26, 88
+  offset: 0, 0
+  index: -1
+ads_idol_tele_ads_idol_tele_64_c_4_0.png
+  rotate: false
+  xy: 283, 54
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 ads_idol_tele_ads_idol_tele_64_c_4_1.png
   rotate: false
-  xy: 189, 35
+  xy: 227, 24
   size: 26, 88
   orig: 26, 88
   offset: 0, 0
   index: -1
+ads_idol_tele_ads_idol_tele_64_c_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ads_idol_tele_ads_idol_tele_64_c_6_1.png
   rotate: false
-  xy: 2, 19
+  xy: 2, 8
   size: 36, 104
   orig: 36, 104
   offset: 0, 0
   index: -1
+ads_idol_tele_ads_idol_tele_64_d_4_0.png
+  rotate: false
+  xy: 5, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ads_idol_tele_ads_idol_tele_64_d_4_1.png
   rotate: false
-  xy: 78, 19
+  xy: 116, 8
+  size: 36, 104
+  orig: 36, 104
+  offset: 0, 0
+  index: -1
+ads_idol_tele_ads_idol_tele_64_d_6_0.png
+  rotate: false
+  xy: 78, 8
   size: 36, 104
   orig: 36, 104
   offset: 0, 0
   index: -1
 ads_idol_tele_ads_idol_tele_64_d_6_1.png
   rotate: false
-  xy: 40, 19
+  xy: 40, 8
   size: 36, 104
   orig: 36, 104
   offset: 0, 0
   index: -1
 ads_idol_tele_ads_idol_tele_icon_a.png
   rotate: false
-  xy: 189, 2
+  xy: 283, 81
   size: 12, 31
   orig: 12, 31
   offset: 0, 0

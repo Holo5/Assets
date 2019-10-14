@@ -1,194 +1,425 @@
 
 easter_c19_turnipbuddies.png
-size: 512,64
+size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_0.png
+  rotate: false
+  xy: 775, 24
+  size: 11, 38
+  orig: 11, 38
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_1.png
+  rotate: false
+  xy: 723, 25
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_10.png
+  rotate: false
+  xy: 983, 28
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_11.png
+  rotate: false
+  xy: 502, 3
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_12.png
+  rotate: false
+  xy: 879, 26
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_13.png
+  rotate: false
+  xy: 931, 27
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_14.png
+  rotate: false
+  xy: 957, 28
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_15.png
+  rotate: false
+  xy: 801, 25
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_2.png
+  rotate: false
+  xy: 749, 25
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_3.png
+  rotate: false
+  xy: 853, 26
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_4.png
+  rotate: false
+  xy: 905, 27
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_5.png
+  rotate: false
+  xy: 697, 25
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_6.png
+  rotate: false
+  xy: 827, 26
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_7.png
+  rotate: false
+  xy: 645, 26
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_8.png
+  rotate: false
+  xy: 671, 26
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_a_0_9.png
+  rotate: false
+  xy: 619, 26
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_0.png
+  rotate: false
+  xy: 149, 31
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_1.png
+  rotate: false
+  xy: 107, 31
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_10.png
+  rotate: false
+  xy: 524, 38
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_11.png
+  rotate: false
+  xy: 586, 37
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_12.png
+  rotate: false
+  xy: 482, 35
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_13.png
+  rotate: false
+  xy: 23, 29
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_14.png
+  rotate: false
+  xy: 233, 31
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_15.png
+  rotate: false
+  xy: 275, 31
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_2.png
+  rotate: false
+  xy: 65, 30
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_3.png
+  rotate: false
+  xy: 401, 34
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_4.png
+  rotate: false
+  xy: 26, 2
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_5.png
+  rotate: false
+  xy: 359, 34
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_6.png
+  rotate: false
+  xy: 317, 32
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_7.png
+  rotate: false
+  xy: 191, 31
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_8.png
+  rotate: false
+  xy: 442, 35
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_b_0_9.png
+  rotate: false
+  xy: 546, 37
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_c_0_0.png
+  rotate: false
+  xy: 85, 2
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_c_0_1.png
   rotate: false
-  xy: 56, 2
+  xy: 115, 2
   size: 13, 21
   orig: 13, 21
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_c_0_2.png
   rotate: false
-  xy: 71, 2
+  xy: 145, 2
   size: 13, 21
   orig: 13, 21
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_c_0_3.png
   rotate: false
-  xy: 116, 11
+  xy: 235, 11
   size: 13, 18
   orig: 13, 18
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_c_0_4.png
   rotate: false
-  xy: 101, 11
+  xy: 205, 11
   size: 13, 18
   orig: 13, 18
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_c_0_5.png
   rotate: false
-  xy: 26, 2
+  xy: 1009, 40
   size: 13, 22
   orig: 13, 22
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_c_0_6.png
   rotate: false
-  xy: 86, 2
+  xy: 175, 2
   size: 13, 20
   orig: 13, 20
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_0.png
   rotate: false
-  xy: 392, 24
+  xy: 762, 24
   size: 11, 38
   orig: 11, 38
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_1.png
   rotate: false
-  xy: 366, 25
+  xy: 710, 25
   size: 11, 37
   orig: 11, 37
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_10.png
   rotate: false
-  xy: 496, 28
+  xy: 970, 28
   size: 11, 34
   orig: 11, 34
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_11.png
   rotate: false
-  xy: 252, 3
+  xy: 996, 29
   size: 11, 33
   orig: 11, 33
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_12.png
   rotate: false
-  xy: 444, 26
+  xy: 866, 26
   size: 11, 36
   orig: 11, 36
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_13.png
   rotate: false
-  xy: 470, 27
+  xy: 918, 27
   size: 11, 35
   orig: 11, 35
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_14.png
   rotate: false
-  xy: 483, 28
+  xy: 944, 28
   size: 11, 34
   orig: 11, 34
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_15.png
   rotate: false
-  xy: 405, 25
+  xy: 788, 25
   size: 11, 37
   orig: 11, 37
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_2.png
   rotate: false
-  xy: 379, 25
+  xy: 736, 25
   size: 11, 37
   orig: 11, 37
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_3.png
   rotate: false
-  xy: 431, 26
+  xy: 840, 26
   size: 11, 36
   orig: 11, 36
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_4.png
   rotate: false
-  xy: 457, 27
+  xy: 892, 27
   size: 11, 35
   orig: 11, 35
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_5.png
   rotate: false
-  xy: 353, 25
+  xy: 684, 25
   size: 11, 37
   orig: 11, 37
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_6.png
   rotate: false
-  xy: 418, 26
+  xy: 814, 26
   size: 11, 36
   orig: 11, 36
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_7.png
   rotate: false
-  xy: 327, 26
+  xy: 632, 26
   size: 11, 36
   orig: 11, 36
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_8.png
   rotate: false
-  xy: 340, 26
+  xy: 658, 26
   size: 11, 36
   orig: 11, 36
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_d_0_9.png
   rotate: false
-  xy: 314, 26
+  xy: 606, 26
   size: 11, 36
   orig: 11, 36
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_0.png
   rotate: false
-  xy: 65, 31
+  xy: 128, 31
   size: 19, 31
   orig: 19, 31
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_1.png
   rotate: false
-  xy: 44, 31
+  xy: 86, 31
   size: 19, 31
   orig: 19, 31
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_10.png
   rotate: false
-  xy: 252, 38
+  xy: 502, 38
   size: 20, 24
   orig: 20, 24
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_11.png
   rotate: false
-  xy: 294, 37
+  xy: 566, 37
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_12.png
   rotate: false
-  xy: 232, 35
+  xy: 462, 35
   size: 18, 27
   orig: 18, 27
   offset: 0, 0
@@ -202,28 +433,28 @@ easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_13.png
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_14.png
   rotate: false
-  xy: 107, 31
+  xy: 212, 31
   size: 19, 31
   orig: 19, 31
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_15.png
   rotate: false
-  xy: 128, 31
+  xy: 254, 31
   size: 19, 31
   orig: 19, 31
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_2.png
   rotate: false
-  xy: 23, 30
+  xy: 44, 30
   size: 19, 32
   orig: 19, 32
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_3.png
   rotate: false
-  xy: 191, 34
+  xy: 380, 34
   size: 19, 28
   orig: 19, 28
   offset: 0, 0
@@ -237,42 +468,91 @@ easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_4.png
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_5.png
   rotate: false
-  xy: 170, 34
+  xy: 338, 34
   size: 19, 28
   orig: 19, 28
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_6.png
   rotate: false
-  xy: 149, 32
+  xy: 296, 32
   size: 19, 30
   orig: 19, 30
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_7.png
   rotate: false
-  xy: 86, 31
+  xy: 170, 31
   size: 19, 31
   orig: 19, 31
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_8.png
   rotate: false
-  xy: 212, 35
+  xy: 422, 35
   size: 18, 27
   orig: 18, 27
   offset: 0, 0
   index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_e_0_9.png
   rotate: false
-  xy: 274, 37
+  xy: 50, 3
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
   index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_f_0_0.png
+  rotate: false
+  xy: 100, 2
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_f_0_1.png
+  rotate: false
+  xy: 130, 2
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_f_0_2.png
+  rotate: false
+  xy: 160, 2
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_f_0_3.png
+  rotate: false
+  xy: 250, 11
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_f_0_4.png
+  rotate: false
+  xy: 220, 11
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_f_0_5.png
+  rotate: false
+  xy: 1009, 16
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+easter_c19_turnipbuddies_easter_c19_turnipbuddies_64_f_0_6.png
+  rotate: false
+  xy: 190, 2
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
 easter_c19_turnipbuddies_easter_c19_turnipbuddies_icon_a.png
   rotate: false
-  xy: 41, 2
+  xy: 70, 7
   size: 13, 21
   orig: 13, 21
   offset: 0, 0

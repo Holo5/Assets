@@ -32,6 +32,13 @@ lc_corner_lc_corner_64_a_6_0.png
   orig: 42, 51
   offset: 0, 0
   index: -1
+lc_corner_lc_corner_64_sd_0_0.png
+  rotate: false
+  xy: 340, 32
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
 lc_corner_lc_corner_64_sd_2_0.png
   rotate: false
   xy: 202, 22
@@ -41,14 +48,21 @@ lc_corner_lc_corner_64_sd_2_0.png
   index: -1
 lc_corner_lc_corner_64_sd_4_0.png
   rotate: false
-  xy: 246, 32
+  xy: 290, 32
   size: 48, 21
   orig: 48, 21
   offset: 0, 0
   index: -1
+lc_corner_lc_corner_64_sd_6_0.png
+  rotate: false
+  xy: 246, 22
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
 lc_corner_lc_corner_icon_a.png
   rotate: false
-  xy: 296, 27
+  xy: 390, 27
   size: 24, 26
   orig: 24, 26
   offset: 0, 0

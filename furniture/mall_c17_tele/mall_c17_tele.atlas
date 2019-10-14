@@ -1,75 +1,124 @@
 
 mall_c17_tele.png
-size: 256,128
+size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 mall_c17_tele_mall_c17_tele_64_a_4_0.png
   rotate: false
-  xy: 78, 19
+  xy: 116, 9
   size: 36, 104
   orig: 36, 104
   offset: 0, 0
   index: -1
 mall_c17_tele_mall_c17_tele_64_a_4_1.png
   rotate: false
-  xy: 154, 19
+  xy: 192, 9
   size: 33, 104
   orig: 33, 104
   offset: 0, 0
   index: -1
+mall_c17_tele_mall_c17_tele_64_a_6_0.png
+  rotate: false
+  xy: 5, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 mall_c17_tele_mall_c17_tele_64_a_6_1.png
   rotate: false
-  xy: 245, 101
+  xy: 283, 58
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 mall_c17_tele_mall_c17_tele_64_b_4_0.png
   rotate: false
-  xy: 245, 98
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mall_c17_tele_mall_c17_tele_64_b_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mall_c17_tele_mall_c17_tele_64_b_6_0.png
+  rotate: false
+  xy: 290, 79
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 mall_c17_tele_mall_c17_tele_64_b_6_1.png
   rotate: false
-  xy: 217, 35
+  xy: 255, 25
   size: 26, 88
   orig: 26, 88
+  offset: 0, 0
+  index: -1
+mall_c17_tele_mall_c17_tele_64_c_4_0.png
+  rotate: false
+  xy: 297, 112
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 mall_c17_tele_mall_c17_tele_64_c_4_1.png
   rotate: false
-  xy: 189, 35
+  xy: 227, 25
   size: 26, 88
   orig: 26, 88
   offset: 0, 0
   index: -1
+mall_c17_tele_mall_c17_tele_64_c_6_0.png
+  rotate: false
+  xy: 227, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 mall_c17_tele_mall_c17_tele_64_c_6_1.png
   rotate: false
-  xy: 40, 19
+  xy: 78, 9
   size: 36, 104
   orig: 36, 104
+  offset: 0, 0
+  index: -1
+mall_c17_tele_mall_c17_tele_64_d_4_0.png
+  rotate: false
+  xy: 283, 55
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 mall_c17_tele_mall_c17_tele_64_d_4_1.png
   rotate: false
-  xy: 116, 19
+  xy: 154, 9
   size: 36, 104
   orig: 36, 104
   offset: 0, 0
   index: -1
+mall_c17_tele_mall_c17_tele_64_d_6_0.png
+  rotate: false
+  xy: 40, 8
+  size: 36, 105
+  orig: 36, 105
+  offset: 0, 0
+  index: -1
 mall_c17_tele_mall_c17_tele_64_d_6_1.png
   rotate: false
-  xy: 2, 18
+  xy: 2, 8
   size: 36, 105
   orig: 36, 105
   offset: 0, 0
   index: -1
 mall_c17_tele_mall_c17_tele_icon_a.png
   rotate: false
-  xy: 189, 2
+  xy: 283, 82
   size: 12, 31
   orig: 12, 31
   offset: 0, 0

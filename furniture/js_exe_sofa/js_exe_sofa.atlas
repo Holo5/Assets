@@ -74,11 +74,25 @@ js_exe_sofa_js_exe_sofa_64_e_6_0.png
   orig: 33, 41
   offset: 0, 0
   index: -1
+js_exe_sofa_js_exe_sofa_64_f_2_0.png
+  rotate: false
+  xy: 78, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 js_exe_sofa_js_exe_sofa_64_f_6_0.png
   rotate: false
   xy: 160, 19
   size: 33, 41
   orig: 33, 41
+  offset: 0, 0
+  index: -1
+js_exe_sofa_js_exe_sofa_64_g_2_0.png
+  rotate: false
+  xy: 507, 124
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 js_exe_sofa_js_exe_sofa_64_g_6_0.png

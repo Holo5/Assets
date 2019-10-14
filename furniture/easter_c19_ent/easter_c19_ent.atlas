@@ -83,7 +83,14 @@ easter_c19_ent_easter_c19_ent_64_b_0_2.png
   index: -1
 easter_c19_ent_easter_c19_ent_64_c_0_0.png
   rotate: false
-  xy: 398, 3
+  xy: 683, 3
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_1.png
+  rotate: false
+  xy: 587, 3
   size: 46, 19
   orig: 46, 19
   offset: 0, 0
@@ -130,9 +137,16 @@ easter_c19_ent_easter_c19_ent_64_c_0_5.png
   orig: 48, 19
   offset: 0, 0
   index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_6.png
+  rotate: false
+  xy: 398, 3
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
 easter_c19_ent_easter_c19_ent_64_c_0_7.png
   rotate: false
-  xy: 350, 3
+  xy: 635, 3
   size: 46, 19
   orig: 46, 19
   offset: 0, 0
@@ -140,6 +154,13 @@ easter_c19_ent_easter_c19_ent_64_c_0_7.png
 easter_c19_ent_easter_c19_ent_64_c_0_8.png
   rotate: false
   xy: 302, 3
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_9.png
+  rotate: false
+  xy: 350, 3
   size: 46, 19
   orig: 46, 19
   offset: 0, 0

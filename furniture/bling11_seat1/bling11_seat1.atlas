@@ -6,8 +6,15 @@ filter: Nearest,Nearest
 repeat: none
 bling11_seat1_bling11_seat1_64_a_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 25
   size: 40, 36
   orig: 40, 36
+  offset: 0, 0
+  index: -1
+bling11_seat1_bling11_seat1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 21
+  orig: 22, 21
   offset: 0, 0
   index: -1

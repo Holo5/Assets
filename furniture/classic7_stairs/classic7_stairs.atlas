@@ -13,7 +13,7 @@ classic7_stairs_classic7_stairs_64_a_2_0.png
   index: -1
 classic7_stairs_classic7_stairs_64_a_6_0.png
   rotate: false
-  xy: 124, 36
+  xy: 210, 60
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
@@ -49,6 +49,13 @@ classic7_stairs_classic7_stairs_64_c_6_0.png
 classic7_stairs_classic7_stairs_64_sd_2_0.png
   rotate: false
   xy: 2, 10
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+classic7_stairs_classic7_stairs_64_sd_6_0.png
+  rotate: false
+  xy: 140, 38
   size: 68, 35
   orig: 68, 35
   offset: 0, 0

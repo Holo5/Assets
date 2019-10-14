@@ -34,14 +34,14 @@ xmas14_elf1_xmas14_elf1_64_b_0_2.png
   index: -1
 xmas14_elf1_xmas14_elf1_64_c_0_0.png
   rotate: false
-  xy: 30, 3
+  xy: 59, 4
   size: 27, 25
   orig: 27, 25
   offset: 0, 0
   index: -1
 xmas14_elf1_xmas14_elf1_64_c_0_1.png
   rotate: false
-  xy: 59, 4
+  xy: 88, 4
   size: 27, 25
   orig: 27, 25
   offset: 0, 0
@@ -49,6 +49,13 @@ xmas14_elf1_xmas14_elf1_64_c_0_1.png
 xmas14_elf1_xmas14_elf1_64_c_0_2.png
   rotate: false
   xy: 223, 37
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+xmas14_elf1_xmas14_elf1_64_c_0_3.png
+  rotate: false
+  xy: 30, 3
   size: 27, 25
   orig: 27, 25
   offset: 0, 0
@@ -62,7 +69,7 @@ xmas14_elf1_xmas14_elf1_64_c_0_4.png
   index: -1
 xmas14_elf1_xmas14_elf1_64_sd_0_0.png
   rotate: false
-  xy: 88, 14
+  xy: 117, 14
   size: 30, 15
   orig: 30, 15
   offset: 0, 0

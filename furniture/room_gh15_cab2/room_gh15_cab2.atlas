@@ -32,6 +32,13 @@ room_gh15_cab2_room_gh15_cab2_64_b_2_1.png
   orig: 10, 20
   offset: 0, 0
   index: -1
+room_gh15_cab2_room_gh15_cab2_64_b_6_0.png
+  rotate: false
+  xy: 68, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 room_gh15_cab2_room_gh15_cab2_64_b_6_1.png
   rotate: false
   xy: 134, 85

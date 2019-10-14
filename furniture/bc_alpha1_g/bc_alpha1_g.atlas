@@ -6,43 +6,57 @@ filter: Nearest,Nearest
 repeat: none
 bc_alpha1_g_bc_alpha1_g_64_a_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 14
   size: 45, 48
   orig: 45, 48
   offset: 0, 0
   index: -1
 bc_alpha1_g_bc_alpha1_g_64_a_2_0.png
   rotate: false
-  xy: 49, 2
+  xy: 49, 14
   size: 45, 48
   orig: 45, 48
   offset: 0, 0
   index: -1
 bc_alpha1_g_bc_alpha1_g_64_b_0_0.png
   rotate: false
-  xy: 96, 12
+  xy: 96, 24
   size: 43, 38
   orig: 43, 38
   offset: 0, 0
   index: -1
 bc_alpha1_g_bc_alpha1_g_64_b_2_0.png
   rotate: false
-  xy: 141, 12
+  xy: 141, 24
   size: 43, 38
   orig: 43, 38
   offset: 0, 0
   index: -1
 bc_alpha1_g_bc_alpha1_g_64_sd_0_0.png
   rotate: false
-  xy: 186, 37
+  xy: 186, 49
   size: 44, 13
   orig: 44, 13
   offset: 0, 0
   index: -1
 bc_alpha1_g_bc_alpha1_g_64_sd_2_0.png
   rotate: false
-  xy: 186, 22
+  xy: 186, 34
   size: 44, 13
   orig: 44, 13
+  offset: 0, 0
+  index: -1
+bc_alpha1_g_bc_alpha1_g_icon_a.png
+  rotate: false
+  xy: 186, 7
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+bc_alpha1_g_bc_alpha1_g_icon_b.png
+  rotate: false
+  xy: 96, 2
+  size: 21, 20
+  orig: 21, 20
   offset: 0, 0
   index: -1

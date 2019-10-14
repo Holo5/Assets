@@ -4,6 +4,27 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+st_hween14_mbox_st_hween14_mbox_64_a_4_0.png
+  rotate: false
+  xy: 138, 29
+  size: 65, 91
+  orig: 65, 91
+  offset: 0, 0
+  index: -1
+st_hween14_mbox_st_hween14_mbox_64_a_4_1.png
+  rotate: false
+  xy: 55, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+st_hween14_mbox_st_hween14_mbox_64_b_4_0.png
+  rotate: false
+  xy: 270, 30
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 st_hween14_mbox_st_hween14_mbox_64_b_4_1.png
   rotate: false
   xy: 71, 29
@@ -20,14 +41,14 @@ st_hween14_mbox_st_hween14_mbox_64_b_4_2.png
   index: -1
 st_hween14_mbox_st_hween14_mbox_64_b_4_3.png
   rotate: false
-  xy: 203, 33
+  xy: 270, 33
   size: 66, 87
   orig: 66, 87
   offset: 0, 0
   index: -1
 st_hween14_mbox_st_hween14_mbox_64_b_4_4.png
   rotate: false
-  xy: 138, 27
+  xy: 205, 27
   size: 63, 93
   orig: 63, 93
   offset: 0, 0
@@ -41,7 +62,7 @@ st_hween14_mbox_st_hween14_mbox_64_sd_4_0.png
   index: -1
 st_hween14_mbox_st_hween14_mbox_icon_a.png
   rotate: false
-  xy: 271, 90
+  xy: 338, 90
   size: 21, 30
   orig: 21, 30
   offset: 0, 0

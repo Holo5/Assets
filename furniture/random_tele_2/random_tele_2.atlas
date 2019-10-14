@@ -18,6 +18,13 @@ random_tele_2_random_tele_2_64_a_2_1.png
   orig: 46, 192
   offset: 0, 0
   index: -1
+random_tele_2_random_tele_2_64_b_2_0.png
+  rotate: false
+  xy: 509, 251
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 random_tele_2_random_tele_2_64_b_2_1.png
   rotate: false
   xy: 144, 6
@@ -95,9 +102,16 @@ random_tele_2_random_tele_2_64_b_2_9.png
   orig: 26, 113
   offset: 0, 0
   index: -1
+random_tele_2_random_tele_2_64_c_2_0.png
+  rotate: false
+  xy: 506, 251
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 random_tele_2_random_tele_2_64_c_2_1.png
   rotate: false
-  xy: 326, 69
+  xy: 389, 71
   size: 19, 65
   orig: 19, 65
   offset: 0, 0
@@ -111,21 +125,28 @@ random_tele_2_random_tele_2_64_c_2_10.png
   index: -1
 random_tele_2_random_tele_2_64_c_2_11.png
   rotate: false
-  xy: 193, 12
+  xy: 284, 43
   size: 19, 91
   orig: 19, 91
   offset: 0, 0
   index: -1
 random_tele_2_random_tele_2_64_c_2_2.png
   rotate: false
-  xy: 214, 17
+  xy: 305, 48
+  size: 19, 86
+  orig: 19, 86
+  offset: 0, 0
+  index: -1
+random_tele_2_random_tele_2_64_c_2_3.png
+  rotate: false
+  xy: 326, 48
   size: 19, 86
   orig: 19, 86
   offset: 0, 0
   index: -1
 random_tele_2_random_tele_2_64_c_2_4.png
   rotate: false
-  xy: 284, 49
+  xy: 347, 51
   size: 19, 85
   orig: 19, 85
   offset: 0, 0
@@ -139,14 +160,28 @@ random_tele_2_random_tele_2_64_c_2_5.png
   index: -1
 random_tele_2_random_tele_2_64_c_2_6.png
   rotate: false
-  xy: 305, 54
+  xy: 368, 56
   size: 19, 80
   orig: 19, 80
+  offset: 0, 0
+  index: -1
+random_tele_2_random_tele_2_64_c_2_7.png
+  rotate: false
+  xy: 214, 2
+  size: 19, 101
+  orig: 19, 101
   offset: 0, 0
   index: -1
 random_tele_2_random_tele_2_64_c_2_8.png
   rotate: false
   xy: 172, 2
+  size: 19, 101
+  orig: 19, 101
+  offset: 0, 0
+  index: -1
+random_tele_2_random_tele_2_64_c_2_9.png
+  rotate: false
+  xy: 193, 2
   size: 19, 101
   orig: 19, 101
   offset: 0, 0

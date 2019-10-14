@@ -1,6 +1,6 @@
 
 olympics_r16_cheerleader.png
-size: 1024,128
+size: 2048,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -88,9 +88,23 @@ olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_0_9.png
   orig: 72, 100
   offset: 0, 0
   index: -1
+olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_0.png
+  rotate: false
+  xy: 962, 43
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
+olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_1.png
+  rotate: false
+  xy: 908, 43
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
 olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_10.png
   rotate: false
-  xy: 955, 47
+  xy: 1326, 47
   size: 45, 79
   orig: 45, 79
   offset: 0, 0
@@ -102,11 +116,67 @@ olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_11.png
   orig: 52, 83
   offset: 0, 0
   index: -1
+olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_2.png
+  rotate: false
+  xy: 1373, 47
+  size: 45, 79
+  orig: 45, 79
+  offset: 0, 0
+  index: -1
+olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_3.png
+  rotate: false
+  xy: 1070, 43
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
 olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_4.png
   rotate: false
-  xy: 908, 41
+  xy: 1232, 41
   size: 45, 85
   orig: 45, 85
+  offset: 0, 0
+  index: -1
+olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_5.png
+  rotate: false
+  xy: 1016, 43
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
+olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_6.png
+  rotate: false
+  xy: 1420, 47
+  size: 45, 79
+  orig: 45, 79
+  offset: 0, 0
+  index: -1
+olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_7.png
+  rotate: false
+  xy: 1178, 43
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
+olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_8.png
+  rotate: false
+  xy: 1279, 41
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+olympics_r16_cheerleader_olympics_r16_cheerleader_64_a_4_9.png
+  rotate: false
+  xy: 1124, 43
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
+olympics_r16_cheerleader_olympics_r16_cheerleader_64_sd_0_0.png
+  rotate: false
+  xy: 1467, 109
+  size: 34, 17
+  orig: 34, 17
   offset: 0, 0
   index: -1
 olympics_r16_cheerleader_olympics_r16_cheerleader_64_sd_4_0.png
@@ -118,7 +188,7 @@ olympics_r16_cheerleader_olympics_r16_cheerleader_64_sd_4_0.png
   index: -1
 olympics_r16_cheerleader_olympics_r16_cheerleader_icon_a.png
   rotate: false
-  xy: 1002, 96
+  xy: 1467, 77
   size: 20, 30
   orig: 20, 30
   offset: 0, 0

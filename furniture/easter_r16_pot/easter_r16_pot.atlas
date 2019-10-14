@@ -25,60 +25,123 @@ easter_r16_pot_easter_r16_pot_64_b_0_1.png
   orig: 58, 18
   offset: 0, 0
   index: -1
+easter_r16_pot_easter_r16_pot_64_c_0_0.png
+  rotate: false
+  xy: 380, 72
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 easter_r16_pot_easter_r16_pot_64_c_0_1.png
   rotate: false
-  xy: 193, 27
+  xy: 394, 60
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_c_0_2.png
   rotate: false
-  xy: 229, 73
+  xy: 475, 77
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_c_0_3.png
   rotate: false
-  xy: 494, 104
+  xy: 274, 20
   size: 13, 10
   orig: 13, 10
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_c_0_4.png
   rotate: false
-  xy: 212, 54
+  xy: 444, 57
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_c_0_5.png
   rotate: false
-  xy: 420, 73
+  xy: 406, 82
   size: 17, 31
   orig: 17, 31
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_c_0_6.png
   rotate: false
-  xy: 359, 88
+  xy: 239, 59
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_c_0_7.png
   rotate: false
-  xy: 464, 72
+  xy: 475, 64
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_c_0_8.png
   rotate: false
-  xy: 418, 61
+  xy: 474, 52
   size: 13, 10
   orig: 13, 10
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_d_0_0.png
+  rotate: false
+  xy: 238, 32
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_d_0_1.png
+  rotate: false
+  xy: 444, 75
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_d_0_10.png
+  rotate: false
+  xy: 257, 20
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_d_0_2.png
+  rotate: false
+  xy: 93, 2
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_d_0_3.png
+  rotate: false
+  xy: 260, 32
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_d_0_4.png
+  rotate: false
+  xy: 456, 71
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_d_0_5.png
+  rotate: false
+  xy: 350, 59
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_d_0_6.png
+  rotate: false
+  xy: 360, 75
+  size: 21, 33
+  orig: 21, 33
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_d_0_7.png
@@ -88,23 +151,37 @@ easter_r16_pot_easter_r16_pot_64_d_0_7.png
   orig: 30, 20
   offset: 0, 0
   index: -1
+easter_r16_pot_easter_r16_pot_64_d_0_8.png
+  rotate: false
+  xy: 383, 66
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_d_0_9.png
+  rotate: false
+  xy: 425, 56
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
 easter_r16_pot_easter_r16_pot_64_e_0_0.png
   rotate: false
-  xy: 509, 110
+  xy: 238, 35
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_e_0_1.png
   rotate: false
-  xy: 466, 96
+  xy: 212, 28
   size: 24, 8
   orig: 24, 8
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_e_0_2.png
   rotate: false
-  xy: 389, 64
+  xy: 212, 38
   size: 27, 10
   orig: 27, 10
   offset: 0, 0
@@ -118,49 +195,56 @@ easter_r16_pot_easter_r16_pot_64_e_0_3.png
   index: -1
 easter_r16_pot_easter_r16_pot_64_e_0_4.png
   rotate: false
-  xy: 389, 76
+  xy: 208, 68
   size: 29, 16
   orig: 29, 16
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_e_0_5.png
   rotate: false
-  xy: 389, 94
+  xy: 456, 85
   size: 29, 19
   orig: 29, 19
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_e_0_6.png
   rotate: false
-  xy: 328, 86
+  xy: 425, 82
   size: 29, 22
   orig: 29, 22
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_e_0_7.png
   rotate: false
-  xy: 209, 81
+  xy: 241, 81
   size: 29, 25
   orig: 29, 25
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_e_0_8.png
   rotate: false
-  xy: 299, 82
+  xy: 331, 82
   size: 27, 26
   orig: 27, 26
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_e_0_9.png
   rotate: false
-  xy: 240, 78
+  xy: 302, 80
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
+easter_r16_pot_easter_r16_pot_64_f_0_0.png
+  rotate: false
+  xy: 403, 74
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 easter_r16_pot_easter_r16_pot_64_f_0_1.png
   rotate: false
-  xy: 439, 75
+  xy: 487, 93
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
@@ -209,7 +293,7 @@ easter_r16_pot_easter_r16_pot_64_f_0_15.png
   index: -1
 easter_r16_pot_easter_r16_pot_64_f_0_2.png
   rotate: false
-  xy: 439, 88
+  xy: 212, 50
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
@@ -263,30 +347,163 @@ easter_r16_pot_easter_r16_pot_64_f_0_9.png
   orig: 34, 49
   offset: 0, 0
   index: -1
+easter_r16_pot_easter_r16_pot_64_g_0_0.png
+  rotate: false
+  xy: 380, 69
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_g_0_1.png
+  rotate: false
+  xy: 369, 60
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_g_0_10.png
+  rotate: false
+  xy: 494, 116
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_g_0_2.png
+  rotate: false
+  xy: 494, 107
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_g_0_3.png
+  rotate: false
+  xy: 279, 32
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_g_0_4.png
+  rotate: false
+  xy: 331, 68
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_g_0_5.png
+  rotate: false
+  xy: 406, 66
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_g_0_6.png
+  rotate: false
+  xy: 383, 80
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_g_0_7.png
+  rotate: false
+  xy: 209, 86
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_g_0_8.png
+  rotate: false
+  xy: 260, 43
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_g_0_9.png
+  rotate: false
+  xy: 238, 19
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_h_0_0.png
+  rotate: false
+  xy: 403, 77
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_h_0_1.png
+  rotate: false
+  xy: 394, 54
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_h_0_2.png
+  rotate: false
+  xy: 369, 67
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_h_0_3.png
+  rotate: false
+  xy: 289, 20
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_h_0_4.png
+  rotate: false
+  xy: 459, 57
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_h_0_5.png
+  rotate: false
+  xy: 193, 32
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
 easter_r16_pot_easter_r16_pot_64_h_0_6.png
   rotate: false
-  xy: 359, 66
+  xy: 269, 57
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
   index: -1
+easter_r16_pot_easter_r16_pot_64_h_0_7.png
+  rotate: false
+  xy: 490, 66
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+easter_r16_pot_easter_r16_pot_64_h_0_8.png
+  rotate: false
+  xy: 379, 54
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
 easter_r16_pot_easter_r16_pot_64_i_0_0.png
   rotate: false
-  xy: 509, 113
+  xy: 208, 65
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_i_0_1.png
   rotate: false
-  xy: 420, 108
+  xy: 350, 75
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_i_0_10.png
   rotate: false
-  xy: 494, 116
+  xy: 191, 65
   size: 15, 10
   orig: 15, 10
   offset: 0, 0
@@ -300,21 +517,21 @@ easter_r16_pot_easter_r16_pot_64_i_0_2.png
   index: -1
 easter_r16_pot_easter_r16_pot_64_i_0_3.png
   rotate: false
-  xy: 466, 85
+  xy: 241, 32
   size: 17, 9
   orig: 17, 9
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_i_0_4.png
   rotate: false
-  xy: 191, 63
+  xy: 280, 43
   size: 17, 12
   orig: 17, 12
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_i_0_5.png
   rotate: false
-  xy: 193, 47
+  xy: 241, 43
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
@@ -335,14 +552,14 @@ easter_r16_pot_easter_r16_pot_64_i_0_7.png
   index: -1
 easter_r16_pot_easter_r16_pot_64_i_0_8.png
   rotate: false
-  xy: 193, 33
+  xy: 487, 79
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 easter_r16_pot_easter_r16_pot_64_i_0_9.png
   rotate: false
-  xy: 210, 68
+  xy: 425, 69
   size: 17, 11
   orig: 17, 11
   offset: 0, 0
@@ -356,7 +573,7 @@ easter_r16_pot_easter_r16_pot_64_sd_0_0.png
   index: -1
 easter_r16_pot_easter_r16_pot_icon_a.png
   rotate: false
-  xy: 269, 79
+  xy: 272, 79
   size: 28, 29
   orig: 28, 29
   offset: 0, 0

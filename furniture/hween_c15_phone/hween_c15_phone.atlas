@@ -6,126 +6,168 @@ filter: Nearest,Nearest
 repeat: none
 hween_c15_phone_hween_c15_phone_64_a_2_0.png
   rotate: false
-  xy: 2, 4
+  xy: 2, 9
   size: 64, 105
   orig: 64, 105
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_b_2_0.png
   rotate: false
-  xy: 158, 66
+  xy: 110, 32
   size: 14, 46
   orig: 14, 46
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_b_2_1.png
   rotate: false
-  xy: 115, 79
+  xy: 115, 84
   size: 13, 46
   orig: 13, 46
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_b_2_2.png
   rotate: false
-  xy: 226, 151
+  xy: 226, 156
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_b_2_3.png
   rotate: false
-  xy: 130, 70
+  xy: 82, 36
   size: 26, 42
   orig: 26, 42
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_b_2_4.png
   rotate: false
-  xy: 68, 56
+  xy: 68, 61
   size: 12, 53
   orig: 12, 53
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_b_2_5.png
   rotate: false
-  xy: 68, 2
+  xy: 68, 7
   size: 12, 52
   orig: 12, 52
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_b_2_6.png
   rotate: false
-  xy: 107, 21
+  xy: 126, 13
   size: 12, 52
   orig: 12, 52
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_c_2_0.png
   rotate: false
-  xy: 226, 181
+  xy: 226, 186
   size: 26, 68
   orig: 26, 68
   offset: 0, 0
   index: -1
+hween_c15_phone_hween_c15_phone_64_c_2_1.png
+  rotate: false
+  xy: 70, 129
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c15_phone_hween_c15_phone_64_d_2_0.png
+  rotate: false
+  xy: 2, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c15_phone_hween_c15_phone_64_d_2_1.png
   rotate: false
-  xy: 82, 75
+  xy: 82, 80
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+hween_c15_phone_hween_c15_phone_64_d_2_2.png
+  rotate: false
+  xy: 130, 67
   size: 31, 50
   orig: 31, 50
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_d_2_3.png
   rotate: false
-  xy: 130, 114
+  xy: 130, 119
   size: 50, 31
   orig: 50, 31
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_e_2_0.png
   rotate: false
-  xy: 130, 147
+  xy: 130, 152
   size: 62, 102
   orig: 62, 102
   offset: 0, 0
   index: -1
+hween_c15_phone_hween_c15_phone_64_e_2_1.png
+  rotate: false
+  xy: 182, 149
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c15_phone_hween_c15_phone_64_f_2_0.png
   rotate: false
-  xy: 2, 111
+  xy: 2, 116
   size: 66, 138
   orig: 66, 138
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_g_2_0.png
   rotate: false
-  xy: 70, 124
+  xy: 194, 173
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_64_g_2_1.png
   rotate: false
-  xy: 70, 127
+  xy: 70, 132
   size: 58, 122
   orig: 58, 122
   offset: 0, 0
   index: -1
+hween_c15_phone_hween_c15_phone_64_h_2_0.png
+  rotate: false
+  xy: 115, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c15_phone_hween_c15_phone_64_h_2_1.png
   rotate: false
-  xy: 194, 171
+  xy: 194, 176
   size: 30, 78
   orig: 30, 78
   offset: 0, 0
   index: -1
+hween_c15_phone_hween_c15_phone_64_i_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c15_phone_hween_c15_phone_64_i_2_1.png
   rotate: false
-  xy: 82, 22
+  xy: 163, 66
   size: 23, 51
   orig: 23, 51
   offset: 0, 0
   index: -1
 hween_c15_phone_hween_c15_phone_icon_a.png
   rotate: false
-  xy: 182, 116
+  xy: 82, 5
   size: 15, 29
   orig: 15, 29
   offset: 0, 0

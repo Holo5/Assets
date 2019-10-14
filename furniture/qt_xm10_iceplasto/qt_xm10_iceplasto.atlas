@@ -32,6 +32,76 @@ qt_xm10_iceplasto_qt_xm10_iceplasto_64_b_2_0.png
   orig: 42, 35
   offset: 0, 0
   index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_0.png
+  rotate: false
+  xy: 202, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_1.png
+  rotate: false
+  xy: 125, 4
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_10.png
+  rotate: false
+  xy: 212, 14
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_11.png
+  rotate: false
+  xy: 182, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_2.png
+  rotate: false
+  xy: 20, 6
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_3.png
+  rotate: false
+  xy: 208, 5
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_4.png
+  rotate: false
+  xy: 225, 14
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_5.png
+  rotate: false
+  xy: 148, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_6.png
+  rotate: false
+  xy: 253, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_7.png
+  rotate: false
+  xy: 244, 41
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
 qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_8.png
   rotate: false
   xy: 97, 2
@@ -41,9 +111,23 @@ qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_8.png
   index: -1
 qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_0_9.png
   rotate: false
-  xy: 244, 55
+  xy: 2, 4
   size: 7, 7
   orig: 7, 7
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_0.png
+  rotate: false
+  xy: 253, 58
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_1.png
+  rotate: false
+  xy: 222, 2
+  size: 3, 3
+  orig: 3, 3
   offset: 0, 0
   index: -1
 qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_10.png
@@ -60,6 +144,104 @@ qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_11.png
   orig: 15, 15
   offset: 0, 0
   index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_2.png
+  rotate: false
+  xy: 118, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_3.png
+  rotate: false
+  xy: 11, 4
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_4.png
+  rotate: false
+  xy: 199, 14
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_5.png
+  rotate: false
+  xy: 114, 9
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_6.png
+  rotate: false
+  xy: 199, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_7.png
+  rotate: false
+  xy: 217, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_8.png
+  rotate: false
+  xy: 111, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_c_2_9.png
+  rotate: false
+  xy: 244, 55
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_0_0.png
+  rotate: false
+  xy: 205, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_0_1.png
+  rotate: false
+  xy: 27, 8
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_0_2.png
+  rotate: false
+  xy: 217, 7
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_0_3.png
+  rotate: false
+  xy: 244, 46
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_0_4.png
+  rotate: false
+  xy: 238, 14
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_0_5.png
+  rotate: false
+  xy: 165, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
 qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_2_0.png
   rotate: false
   xy: 253, 61
@@ -69,9 +251,37 @@ qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_2_0.png
   index: -1
 qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_2_1.png
   rotate: false
-  xy: 2, 8
+  xy: 131, 21
   size: 3, 3
   orig: 3, 3
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_2_2.png
+  rotate: false
+  xy: 104, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_2_3.png
+  rotate: false
+  xy: 199, 5
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_2_4.png
+  rotate: false
+  xy: 186, 19
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+qt_xm10_iceplasto_qt_xm10_iceplasto_64_d_2_5.png
+  rotate: false
+  xy: 131, 2
+  size: 15, 15
+  orig: 15, 15
   offset: 0, 0
   index: -1
 qt_xm10_iceplasto_qt_xm10_iceplasto_64_sd_0_0.png

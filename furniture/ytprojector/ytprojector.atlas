@@ -88,6 +88,13 @@ ytprojector_ytprojector_64_f_4_0.png
   orig: 84, 91
   offset: 0, 0
   index: -1
+ytprojector_ytprojector_64_sd_2_0.png
+  rotate: false
+  xy: 170, 91
+  size: 91, 41
+  orig: 91, 41
+  offset: 0, 0
+  index: -1
 ytprojector_ytprojector_64_sd_4_0.png
   rotate: false
   xy: 342, 184
@@ -100,12 +107,5 @@ ytprojector_ytprojector_icon_a.png
   xy: 435, 193
   size: 32, 32
   orig: 32, 32
-  offset: 0, 0
-  index: -1
-ytprojector_ytprojector_sd_2_0.png
-  rotate: false
-  xy: 170, 91
-  size: 91, 41
-  orig: 91, 41
   offset: 0, 0
   index: -1

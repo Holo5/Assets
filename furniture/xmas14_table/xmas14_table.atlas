@@ -6,168 +6,217 @@ filter: Nearest,Nearest
 repeat: none
 xmas14_table_xmas14_table_64_a_4_0.png
   rotate: false
-  xy: 94, 68
+  xy: 94, 73
   size: 70, 53
   orig: 70, 53
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_b_4_0.png
   rotate: false
-  xy: 2, 11
+  xy: 2, 16
   size: 65, 64
   orig: 65, 64
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_c_4_0.png
   rotate: false
-  xy: 308, 74
+  xy: 277, 83
   size: 28, 19
   orig: 28, 19
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_c_4_1.png
   rotate: false
-  xy: 488, 120
+  xy: 488, 125
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_d_4_0.png
   rotate: false
-  xy: 69, 7
+  xy: 69, 11
   size: 38, 22
   orig: 38, 22
   offset: 0, 0
   index: -1
+xmas14_table_xmas14_table_64_d_4_1.png
+  rotate: false
+  xy: 149, 70
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas14_table_xmas14_table_64_e_4_0.png
   rotate: false
-  xy: 109, 24
+  xy: 173, 2
   size: 29, 20
   orig: 29, 20
   offset: 0, 0
   index: -1
+xmas14_table_xmas14_table_64_e_4_1.png
+  rotate: false
+  xy: 141, 2
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
 xmas14_table_xmas14_table_64_e_4_2.png
   rotate: false
-  xy: 166, 88
+  xy: 166, 93
   size: 62, 33
   orig: 62, 33
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_e_4_3.png
   rotate: false
-  xy: 69, 58
+  xy: 69, 63
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_e_4_4.png
   rotate: false
-  xy: 277, 77
+  xy: 236, 56
   size: 29, 20
   orig: 29, 20
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_e_4_5.png
   rotate: false
-  xy: 109, 2
+  xy: 236, 78
   size: 29, 20
   orig: 29, 20
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_e_4_6.png
   rotate: false
-  xy: 236, 51
+  xy: 148, 24
   size: 29, 20
   orig: 29, 20
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_e_4_7.png
   rotate: false
-  xy: 338, 77
+  xy: 267, 65
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
   index: -1
+xmas14_table_xmas14_table_64_e_4_8.png
+  rotate: false
+  xy: 2, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas14_table_xmas14_table_64_f_4_0.png
   rotate: false
-  xy: 324, 95
+  xy: 324, 100
   size: 39, 26
   orig: 39, 26
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_f_4_1.png
   rotate: false
-  xy: 236, 73
+  xy: 109, 2
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_f_4_2.png
   rotate: false
-  xy: 69, 31
+  xy: 110, 46
   size: 37, 25
   orig: 37, 25
   offset: 0, 0
   index: -1
+xmas14_table_xmas14_table_64_f_4_3.png
+  rotate: false
+  xy: 365, 100
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
 xmas14_table_xmas14_table_64_f_4_4.png
   rotate: false
-  xy: 108, 46
+  xy: 110, 24
   size: 36, 20
   orig: 36, 20
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_f_4_5.png
   rotate: false
-  xy: 365, 95
+  xy: 406, 100
   size: 39, 26
   orig: 39, 26
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_f_4_6.png
   rotate: false
-  xy: 406, 95
+  xy: 447, 100
   size: 39, 26
   orig: 39, 26
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_f_4_7.png
   rotate: false
-  xy: 447, 95
+  xy: 166, 65
   size: 39, 26
   orig: 39, 26
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_64_f_4_8.png
   rotate: false
-  xy: 166, 60
+  xy: 69, 35
   size: 39, 26
   orig: 39, 26
   offset: 0, 0
   index: -1
+xmas14_table_xmas14_table_64_f_4_9.png
+  rotate: false
+  xy: 230, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas14_table_xmas14_table_64_g_4_0.png
   rotate: false
-  xy: 277, 99
+  xy: 277, 104
   size: 45, 22
   orig: 45, 22
   offset: 0, 0
   index: -1
+xmas14_table_xmas14_table_64_g_4_1.png
+  rotate: false
+  xy: 94, 70
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas14_table_xmas14_table_64_h_4_0.png
   rotate: false
-  xy: 230, 95
+  xy: 230, 100
   size: 45, 26
   orig: 45, 26
   offset: 0, 0
   index: -1
+xmas14_table_xmas14_table_64_h_4_1.png
+  rotate: false
+  xy: 233, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas14_table_xmas14_table_64_sd_4_0.png
   rotate: false
-  xy: 2, 77
+  xy: 2, 82
   size: 90, 44
   orig: 90, 44
   offset: 0, 0
   index: -1
 xmas14_table_xmas14_table_icon_a.png
   rotate: false
-  xy: 207, 64
+  xy: 207, 69
   size: 27, 22
   orig: 27, 22
   offset: 0, 0

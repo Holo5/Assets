@@ -1,159 +1,250 @@
 
 olympics_c16_sofa.png
-size: 256,256
+size: 2048,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 olympics_c16_sofa_olympics_c16_sofa_64_a_0_0.png
   rotate: false
-  xy: 168, 42
+  xy: 1288, 38
   size: 44, 18
   orig: 44, 18
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_a_0_1.png
   rotate: false
-  xy: 168, 22
+  xy: 1288, 18
   size: 44, 18
   orig: 44, 18
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_a_0_2.png
   rotate: false
-  xy: 165, 82
+  xy: 1242, 38
   size: 44, 18
   orig: 44, 18
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_a_0_3.png
   rotate: false
-  xy: 154, 62
+  xy: 1242, 18
   size: 44, 18
   orig: 44, 18
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_a_2_0.png
   rotate: false
-  xy: 88, 146
+  xy: 570, 4
   size: 60, 52
   orig: 60, 52
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_a_2_1.png
   rotate: false
-  xy: 150, 146
+  xy: 632, 4
   size: 60, 52
   orig: 60, 52
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_a_2_2.png
   rotate: false
-  xy: 2, 2
+  xy: 446, 4
   size: 60, 52
   orig: 60, 52
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_a_2_3.png
   rotate: false
-  xy: 64, 2
+  xy: 508, 4
   size: 60, 52
   orig: 60, 52
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_b_0_0.png
   rotate: false
-  xy: 126, 12
+  xy: 1200, 14
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_b_0_1.png
   rotate: false
-  xy: 165, 102
+  xy: 1116, 14
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_b_0_2.png
   rotate: false
-  xy: 112, 56
+  xy: 1158, 14
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_b_0_3.png
   rotate: false
-  xy: 70, 56
+  xy: 1074, 14
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_b_2_0.png
   rotate: false
-  xy: 2, 112
+  xy: 242, 2
   size: 66, 54
   orig: 66, 54
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_b_2_1.png
   rotate: false
-  xy: 2, 56
+  xy: 378, 2
   size: 66, 54
   orig: 66, 54
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_b_2_2.png
   rotate: false
-  xy: 156, 200
+  xy: 310, 2
   size: 66, 54
   orig: 66, 54
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_b_2_3.png
   rotate: false
-  xy: 88, 200
+  xy: 174, 2
   size: 66, 54
   orig: 66, 54
   offset: 0, 0
   index: -1
-olympics_c16_sofa_olympics_c16_sofa_64_c_0_1.png
+olympics_c16_sofa_olympics_c16_sofa_64_c_0_0.png
   rotate: false
-  xy: 70, 100
+  xy: 746, 12
   size: 50, 44
   orig: 50, 44
   offset: 0, 0
   index: -1
-olympics_c16_sofa_olympics_c16_sofa_64_c_2_1.png
+olympics_c16_sofa_olympics_c16_sofa_64_c_0_1.png
   rotate: false
-  xy: 70, 165
+  xy: 694, 12
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_c_0_2.png
+  rotate: false
+  xy: 850, 12
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_c_0_3.png
+  rotate: false
+  xy: 798, 12
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_c_2_0.png
+  rotate: false
+  xy: 694, 9
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-olympics_c16_sofa_olympics_c16_sofa_64_d_0_3.png
+olympics_c16_sofa_olympics_c16_sofa_64_c_2_1.png
   rotate: false
-  xy: 122, 101
+  xy: 2, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_c_2_2.png
+  rotate: false
+  xy: 5, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_c_2_3.png
+  rotate: false
+  xy: 694, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_d_0_0.png
+  rotate: false
+  xy: 945, 13
   size: 41, 43
   orig: 41, 43
   offset: 0, 0
   index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_d_0_1.png
+  rotate: false
+  xy: 1031, 13
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_d_0_2.png
+  rotate: false
+  xy: 988, 13
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_d_0_3.png
+  rotate: false
+  xy: 902, 13
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_d_2_0.png
+  rotate: false
+  xy: 1242, 15
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_d_2_1.png
+  rotate: false
+  xy: 1365, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_d_2_2.png
+  rotate: false
+  xy: 1334, 32
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+olympics_c16_sofa_olympics_c16_sofa_64_d_2_3.png
+  rotate: false
+  xy: 2, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_sd_0_0.png
   rotate: false
-  xy: 2, 212
+  xy: 2, 14
   size: 84, 42
   orig: 84, 42
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_64_sd_2_0.png
   rotate: false
-  xy: 2, 168
+  xy: 88, 14
   size: 84, 42
   orig: 84, 42
   offset: 0, 0
   index: -1
 olympics_c16_sofa_olympics_c16_sofa_icon_a.png
   rotate: false
-  xy: 224, 233
+  xy: 1334, 35
   size: 29, 21
   orig: 29, 21
   offset: 0, 0

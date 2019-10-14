@@ -67,6 +67,13 @@ summer_r17_fishingboat_summer_r17_fishingboat_64_f_0_0.png
   orig: 36, 32
   offset: 0, 0
   index: -1
+summer_r17_fishingboat_summer_r17_fishingboat_64_f_0_1.png
+  rotate: false
+  xy: 505, 42
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
 summer_r17_fishingboat_summer_r17_fishingboat_64_f_4_0.png
   rotate: false
   xy: 738, 83
@@ -195,7 +202,7 @@ summer_r17_fishingboat_summer_r17_fishingboat_64_j_4_1.png
   index: -1
 summer_r17_fishingboat_summer_r17_fishingboat_64_k_4_0.png
   rotate: false
-  xy: 533, 53
+  xy: 571, 53
   size: 15, 21
   orig: 15, 21
   offset: 0, 0
@@ -216,7 +223,7 @@ summer_r17_fishingboat_summer_r17_fishingboat_64_m_0_0.png
   index: -1
 summer_r17_fishingboat_summer_r17_fishingboat_icon_a.png
   rotate: false
-  xy: 505, 44
+  xy: 543, 44
   size: 26, 30
   orig: 26, 30
   offset: 0, 0

@@ -6,56 +6,77 @@ filter: Nearest,Nearest
 repeat: none
 steampunk_computer_steampunk_computer_64_a_2_0.png
   rotate: false
-  xy: 100, 2
+  xy: 100, 5
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 steampunk_computer_steampunk_computer_64_a_2_1.png
   rotate: false
-  xy: 149, 2
+  xy: 149, 5
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 steampunk_computer_steampunk_computer_64_a_2_2.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 5
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 steampunk_computer_steampunk_computer_64_a_2_3.png
   rotate: false
-  xy: 51, 2
+  xy: 51, 5
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
+steampunk_computer_steampunk_computer_64_a_6_0.png
+  rotate: false
+  xy: 248, 19
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
 steampunk_computer_steampunk_computer_64_a_6_1.png
   rotate: false
-  xy: 198, 16
+  xy: 198, 19
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+steampunk_computer_steampunk_computer_64_a_6_2.png
+  rotate: false
+  xy: 348, 19
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+steampunk_computer_steampunk_computer_64_a_6_3.png
+  rotate: false
+  xy: 298, 19
   size: 48, 40
   orig: 48, 40
   offset: 0, 0
   index: -1
 steampunk_computer_steampunk_computer_64_sd_2_0.png
   rotate: false
-  xy: 248, 28
+  xy: 398, 31
   size: 45, 28
   orig: 45, 28
   offset: 0, 0
   index: -1
 steampunk_computer_steampunk_computer_64_sd_6_0.png
   rotate: false
-  xy: 295, 32
+  xy: 445, 35
   size: 46, 24
   orig: 46, 24
   offset: 0, 0
   index: -1
 steampunk_computer_steampunk_computer_icon_a.png
   rotate: false
-  xy: 343, 29
+  xy: 398, 2
   size: 24, 27
   orig: 24, 27
   offset: 0, 0

@@ -27,15 +27,22 @@ petfood17_petfood17_64_a_2_2.png
   index: -1
 petfood17_petfood17_64_a_2_3.png
   rotate: false
-  xy: 97, 6
+  xy: 127, 6
   size: 30, 17
   orig: 30, 17
   offset: 0, 0
   index: -1
 petfood17_petfood17_64_a_2_4.png
   rotate: false
-  xy: 129, 10
+  xy: 159, 10
   size: 30, 13
   orig: 30, 13
+  offset: 0, 0
+  index: -1
+petfood17_petfood17_icon_a.png
+  rotate: false
+  xy: 97, 2
+  size: 28, 21
+  orig: 28, 21
   offset: 0, 0
   index: -1

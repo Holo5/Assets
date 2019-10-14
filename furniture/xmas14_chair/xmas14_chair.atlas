@@ -1,12 +1,26 @@
 
 xmas14_chair.png
-size: 256,64
+size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 xmas14_chair_xmas14_chair_64_a_0_0.png
   rotate: false
+  xy: 104, 2
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+xmas14_chair_xmas14_chair_64_a_2_0.png
+  rotate: false
   xy: 53, 2
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+xmas14_chair_xmas14_chair_64_a_4_0.png
+  rotate: false
+  xy: 155, 2
   size: 49, 40
   orig: 49, 40
   offset: 0, 0
@@ -18,23 +32,37 @@ xmas14_chair_xmas14_chair_64_a_6_0.png
   orig: 49, 40
   offset: 0, 0
   index: -1
+xmas14_chair_xmas14_chair_64_sd_0_0.png
+  rotate: false
+  xy: 248, 21
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+xmas14_chair_xmas14_chair_64_sd_2_0.png
+  rotate: false
+  xy: 332, 21
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
 xmas14_chair_xmas14_chair_64_sd_4_0.png
   rotate: false
-  xy: 104, 21
+  xy: 206, 21
   size: 40, 21
   orig: 40, 21
   offset: 0, 0
   index: -1
 xmas14_chair_xmas14_chair_64_sd_6_0.png
   rotate: false
-  xy: 146, 21
+  xy: 290, 21
   size: 40, 21
   orig: 40, 21
   offset: 0, 0
   index: -1
 xmas14_chair_xmas14_chair_icon_a.png
   rotate: false
-  xy: 188, 17
+  xy: 374, 17
   size: 30, 25
   orig: 30, 25
   offset: 0, 0

@@ -6,56 +6,63 @@ filter: Nearest,Nearest
 repeat: none
 val12_pillar1_val12_pillar1_64_a_0_0.png
   rotate: false
-  xy: 173, 19
+  xy: 173, 22
   size: 40, 157
   orig: 40, 157
   offset: 0, 0
   index: -1
+val12_pillar1_val12_pillar1_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 val12_pillar1_val12_pillar1_64_b_0_1.png
   rotate: false
-  xy: 215, 38
+  xy: 215, 41
   size: 50, 138
   orig: 50, 138
   offset: 0, 0
   index: -1
 val12_pillar1_val12_pillar1_64_c_0_0.png
   rotate: false
-  xy: 215, 35
+  xy: 215, 38
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 val12_pillar1_val12_pillar1_64_c_0_1.png
   rotate: false
-  xy: 117, 23
+  xy: 117, 26
   size: 54, 153
   orig: 54, 153
   offset: 0, 0
   index: -1
 val12_pillar1_val12_pillar1_64_c_0_2.png
   rotate: false
-  xy: 60, 22
+  xy: 60, 25
   size: 55, 154
   orig: 55, 154
   offset: 0, 0
   index: -1
 val12_pillar1_val12_pillar1_64_c_0_3.png
   rotate: false
-  xy: 2, 20
+  xy: 2, 23
   size: 56, 156
   orig: 56, 156
   offset: 0, 0
   index: -1
 val12_pillar1_val12_pillar1_64_sd_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 5
   size: 42, 16
   orig: 42, 16
   offset: 0, 0
   index: -1
 val12_pillar1_val12_pillar1_icon_a.png
   rotate: false
-  xy: 267, 147
+  xy: 267, 150
   size: 13, 29
   orig: 13, 29
   offset: 0, 0

@@ -39,6 +39,55 @@ virus_r16_crabtank_virus_r16_crabtank_64_c_0_1.png
   orig: 61, 35
   offset: 0, 0
   index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_c_0_2.png
+  rotate: false
+  xy: 414, 59
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_d_0_0.png
+  rotate: false
+  xy: 223, 29
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_d_0_1.png
+  rotate: false
+  xy: 189, 29
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_d_0_2.png
+  rotate: false
+  xy: 171, 29
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_d_0_3.png
+  rotate: false
+  xy: 447, 4
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_d_0_4.png
+  rotate: false
+  xy: 429, 2
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_d_0_5.png
+  rotate: false
+  xy: 846, 77
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_e_0_0.png
   rotate: false
   xy: 739, 98
@@ -51,6 +100,13 @@ virus_r16_crabtank_virus_r16_crabtank_64_e_0_1.png
   xy: 797, 98
   size: 56, 28
   orig: 56, 28
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_e_0_2.png
+  rotate: false
+  xy: 417, 59
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_f_0_0.png
@@ -95,9 +151,16 @@ virus_r16_crabtank_virus_r16_crabtank_64_i_0_1.png
   orig: 58, 27
   offset: 0, 0
   index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_i_0_2.png
+  rotate: false
+  xy: 411, 59
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_j_0_0.png
   rotate: false
-  xy: 70, 16
+  xy: 305, 64
   size: 40, 28
   orig: 40, 28
   offset: 0, 0
@@ -107,6 +170,69 @@ virus_r16_crabtank_virus_r16_crabtank_64_j_0_1.png
   xy: 898, 97
   size: 41, 29
   orig: 41, 29
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_j_0_10.png
+  rotate: false
+  xy: 429, 59
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_j_0_11.png
+  rotate: false
+  xy: 623, 68
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_j_0_12.png
+  rotate: false
+  xy: 700, 70
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_j_0_13.png
+  rotate: false
+  xy: 388, 62
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_j_0_14.png
+  rotate: false
+  xy: 557, 31
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_j_0_15.png
+  rotate: false
+  xy: 662, 70
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_j_0_16.png
+  rotate: false
+  xy: 78, 14
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_j_0_17.png
+  rotate: false
+  xy: 550, 61
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_j_0_18.png
+  rotate: false
+  xy: 40, 2
+  size: 36, 26
+  orig: 36, 26
   offset: 0, 0
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_j_0_19.png
@@ -132,28 +258,35 @@ virus_r16_crabtank_virus_r16_crabtank_64_j_0_3.png
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_j_0_4.png
   rotate: false
-  xy: 112, 16
+  xy: 479, 31
   size: 37, 28
   orig: 37, 28
   offset: 0, 0
   index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_j_0_5.png
+  rotate: false
+  xy: 510, 61
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_j_0_6.png
   rotate: false
-  xy: 305, 64
+  xy: 347, 64
   size: 39, 28
   orig: 39, 28
   offset: 0, 0
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_j_0_7.png
   rotate: false
-  xy: 346, 64
+  xy: 470, 61
   size: 38, 28
   orig: 38, 28
   offset: 0, 0
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_j_0_8.png
   rotate: false
-  xy: 386, 64
+  xy: 518, 31
   size: 37, 28
   orig: 37, 28
   offset: 0, 0
@@ -167,7 +300,7 @@ virus_r16_crabtank_virus_r16_crabtank_64_j_0_9.png
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_k_0_0.png
   rotate: false
-  xy: 376, 17
+  xy: 376, 15
   size: 33, 45
   orig: 33, 45
   offset: 0, 0
@@ -181,42 +314,63 @@ virus_r16_crabtank_virus_r16_crabtank_64_k_0_1.png
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_k_0_2.png
   rotate: false
-  xy: 425, 91
+  xy: 429, 91
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_l_0_0.png
   rotate: false
-  xy: 546, 70
+  xy: 155, 27
   size: 14, 19
   orig: 14, 19
   offset: 0, 0
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_l_0_1.png
   rotate: false
-  xy: 510, 70
+  xy: 119, 25
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_l_0_2.png
+  rotate: false
+  xy: 137, 27
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_l_0_3.png
   rotate: false
-  xy: 40, 12
+  xy: 823, 80
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_l_0_4.png
   rotate: false
-  xy: 528, 71
+  xy: 411, 2
   size: 16, 18
   orig: 16, 18
   offset: 0, 0
   index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_l_0_5.png
+  rotate: false
+  xy: 207, 29
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_m_0_0.png
+  rotate: false
+  xy: 738, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_m_0_1.png
   rotate: false
-  xy: 448, 57
+  xy: 589, 65
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -242,30 +396,37 @@ virus_r16_crabtank_virus_r16_crabtank_64_m_0_4.png
   orig: 32, 48
   offset: 0, 0
   index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_m_0_5.png
+  rotate: false
+  xy: 445, 22
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_m_0_6.png
   rotate: false
-  xy: 411, 27
+  xy: 411, 22
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_m_0_7.png
   rotate: false
-  xy: 425, 64
+  xy: 800, 71
   size: 21, 25
   orig: 21, 25
   offset: 0, 0
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_m_0_8.png
   rotate: false
-  xy: 151, 36
+  xy: 78, 2
   size: 15, 10
   orig: 15, 10
   offset: 0, 0
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_m_0_9.png
   rotate: false
-  xy: 63, 23
+  xy: 307, 2
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
@@ -284,6 +445,13 @@ virus_r16_crabtank_virus_r16_crabtank_64_n_0_1.png
   orig: 56, 28
   offset: 0, 0
   index: -1
+virus_r16_crabtank_virus_r16_crabtank_64_n_0_2.png
+  rotate: false
+  xy: 432, 91
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 virus_r16_crabtank_virus_r16_crabtank_64_o_0_0.png
   rotate: false
   xy: 2, 30
@@ -293,7 +461,7 @@ virus_r16_crabtank_virus_r16_crabtank_64_o_0_0.png
   index: -1
 virus_r16_crabtank_virus_r16_crabtank_icon_a.png
   rotate: false
-  xy: 482, 60
+  xy: 772, 67
   size: 26, 29
   orig: 26, 29
   offset: 0, 0

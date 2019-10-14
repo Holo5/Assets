@@ -1,61 +1,89 @@
 
 jungle_c16_tele.png
-size: 256,512
+size: 256,1024
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+jungle_c16_tele_jungle_c16_tele_64_a_4_0.png
+  rotate: false
+  xy: 74, 520
+  size: 70, 353
+  orig: 70, 353
+  offset: 0, 0
+  index: -1
 jungle_c16_tele_jungle_c16_tele_64_a_4_1.png
   rotate: false
-  xy: 146, 137
+  xy: 146, 520
   size: 70, 353
   orig: 70, 353
   offset: 0, 0
   index: -1
 jungle_c16_tele_jungle_c16_tele_64_a_4_2.png
   rotate: false
-  xy: 74, 137
+  xy: 74, 165
   size: 70, 353
   orig: 70, 353
   offset: 0, 0
   index: -1
 jungle_c16_tele_jungle_c16_tele_64_a_4_3.png
   rotate: false
-  xy: 2, 137
+  xy: 2, 520
+  size: 70, 353
+  orig: 70, 353
+  offset: 0, 0
+  index: -1
+jungle_c16_tele_jungle_c16_tele_64_a_4_4.png
+  rotate: false
+  xy: 2, 165
   size: 70, 353
   orig: 70, 353
   offset: 0, 0
   index: -1
 jungle_c16_tele_jungle_c16_tele_64_b_4_0.png
   rotate: false
-  xy: 110, 74
+  xy: 2, 2
   size: 52, 26
   orig: 52, 26
   offset: 0, 0
   index: -1
 jungle_c16_tele_jungle_c16_tele_64_b_4_1.png
   rotate: false
-  xy: 56, 6
+  xy: 146, 389
   size: 52, 129
   orig: 52, 129
   offset: 0, 0
   index: -1
 jungle_c16_tele_jungle_c16_tele_64_b_4_2.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 30
   size: 52, 133
   orig: 52, 133
   offset: 0, 0
   index: -1
+jungle_c16_tele_jungle_c16_tele_64_b_4_3.png
+  rotate: false
+  xy: 56, 102
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+jungle_c16_tele_jungle_c16_tele_64_b_4_4.png
+  rotate: false
+  xy: 146, 361
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
 jungle_c16_tele_jungle_c16_tele_64_sd_4_0.png
   rotate: false
-  xy: 110, 102
+  xy: 56, 130
   size: 66, 33
   orig: 66, 33
   offset: 0, 0
   index: -1
 jungle_c16_tele_jungle_c16_tele_icon_a.png
   rotate: false
-  xy: 218, 460
+  xy: 218, 843
   size: 13, 30
   orig: 13, 30
   offset: 0, 0

@@ -4,6 +4,13 @@ size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+easter_c18_lupin3_easter_c18_lupin3_64_a_0_0.png
+  rotate: false
+  xy: 113, 66
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
 easter_c18_lupin3_easter_c18_lupin3_64_a_0_1.png
   rotate: false
   xy: 182, 149
@@ -83,42 +90,49 @@ easter_c18_lupin3_easter_c18_lupin3_64_a_0_9.png
   index: -1
 easter_c18_lupin3_easter_c18_lupin3_64_b_0_0.png
   rotate: false
-  xy: 249, 220
+  xy: 182, 204
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 easter_c18_lupin3_easter_c18_lupin3_64_b_0_1.png
   rotate: false
-  xy: 49, 2
+  xy: 49, 4
   size: 25, 8
   orig: 25, 8
   offset: 0, 0
   index: -1
 easter_c18_lupin3_easter_c18_lupin3_64_b_0_10.png
   rotate: false
-  xy: 154, 14
+  xy: 210, 49
   size: 33, 37
   orig: 33, 37
   offset: 0, 0
   index: -1
+easter_c18_lupin3_easter_c18_lupin3_64_b_0_11.png
+  rotate: false
+  xy: 132, 155
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 easter_c18_lupin3_easter_c18_lupin3_64_b_0_2.png
   rotate: false
-  xy: 189, 12
+  xy: 154, 12
   size: 27, 16
   orig: 27, 16
   offset: 0, 0
   index: -1
 easter_c18_lupin3_easter_c18_lupin3_64_b_0_3.png
   rotate: false
-  xy: 143, 65
+  xy: 119, 4
   size: 29, 21
   orig: 29, 21
   offset: 0, 0
   index: -1
 easter_c18_lupin3_easter_c18_lupin3_64_b_0_4.png
   rotate: false
-  xy: 191, 88
+  xy: 119, 27
   size: 33, 37
   orig: 33, 37
   offset: 0, 0
@@ -139,14 +153,14 @@ easter_c18_lupin3_easter_c18_lupin3_64_b_0_6.png
   index: -1
 easter_c18_lupin3_easter_c18_lupin3_64_b_0_7.png
   rotate: false
-  xy: 119, 17
+  xy: 156, 88
   size: 33, 37
   orig: 33, 37
   offset: 0, 0
   index: -1
 easter_c18_lupin3_easter_c18_lupin3_64_b_0_8.png
   rotate: false
-  xy: 156, 88
+  xy: 191, 88
   size: 33, 37
   orig: 33, 37
   offset: 0, 0
@@ -158,16 +172,23 @@ easter_c18_lupin3_easter_c18_lupin3_64_b_0_9.png
   orig: 33, 37
   offset: 0, 0
   index: -1
+easter_c18_lupin3_easter_c18_lupin3_64_c_0_0.png
+  rotate: false
+  xy: 113, 89
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 easter_c18_lupin3_easter_c18_lupin3_64_c_0_1.png
   rotate: false
-  xy: 189, 30
+  xy: 154, 30
   size: 29, 21
   orig: 29, 21
   offset: 0, 0
   index: -1
 easter_c18_lupin3_easter_c18_lupin3_64_c_0_2.png
   rotate: false
-  xy: 174, 53
+  xy: 171, 53
   size: 37, 33
   orig: 37, 33
   offset: 0, 0
@@ -223,7 +244,7 @@ easter_c18_lupin3_easter_c18_lupin3_64_c_0_9.png
   index: -1
 easter_c18_lupin3_easter_c18_lupin3_icon_a.png
   rotate: false
-  xy: 113, 56
+  xy: 226, 95
   size: 28, 30
   orig: 28, 30
   offset: 0, 0

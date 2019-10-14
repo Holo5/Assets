@@ -62,21 +62,21 @@ val13_div_1_val13_div_1_64_b_0_0.png
   index: -1
 val13_div_1_val13_div_1_64_b_1_0.png
   rotate: false
-  xy: 954, 47
+  xy: 558, 24
   size: 18, 15
   orig: 18, 15
   offset: 0, 0
   index: -1
 val13_div_1_val13_div_1_64_b_2_0.png
   rotate: false
-  xy: 2, 5
+  xy: 518, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 val13_div_1_val13_div_1_64_b_3_0.png
   rotate: false
-  xy: 954, 30
+  xy: 558, 7
   size: 18, 15
   orig: 18, 15
   offset: 0, 0
@@ -90,21 +90,21 @@ val13_div_1_val13_div_1_64_b_4_0.png
   index: -1
 val13_div_1_val13_div_1_64_b_5_0.png
   rotate: false
-  xy: 934, 28
+  xy: 538, 5
   size: 18, 34
   orig: 18, 34
   offset: 0, 0
   index: -1
 val13_div_1_val13_div_1_64_b_6_0.png
   rotate: false
-  xy: 914, 28
+  xy: 518, 5
   size: 18, 34
   orig: 18, 34
   offset: 0, 0
   index: -1
 val13_div_1_val13_div_1_64_c_0_0.png
   rotate: false
-  xy: 732, 52
+  xy: 786, 52
   size: 52, 10
   orig: 52, 10
   offset: 0, 0
@@ -118,7 +118,7 @@ val13_div_1_val13_div_1_64_c_0_1.png
   index: -1
 val13_div_1_val13_div_1_64_c_1_0.png
   rotate: false
-  xy: 834, 49
+  xy: 942, 49
   size: 46, 13
   orig: 46, 13
   offset: 0, 0
@@ -130,9 +130,23 @@ val13_div_1_val13_div_1_64_c_1_1.png
   orig: 45, 15
   offset: 0, 0
   index: -1
+val13_div_1_val13_div_1_64_c_2_0.png
+  rotate: false
+  xy: 840, 52
+  size: 52, 10
+  orig: 52, 10
+  offset: 0, 0
+  index: -1
+val13_div_1_val13_div_1_64_c_2_1.png
+  rotate: false
+  xy: 732, 49
+  size: 52, 13
+  orig: 52, 13
+  offset: 0, 0
+  index: -1
 val13_div_1_val13_div_1_64_c_3_0.png
   rotate: false
-  xy: 786, 49
+  xy: 894, 49
   size: 46, 13
   orig: 46, 13
   offset: 0, 0
@@ -188,7 +202,7 @@ val13_div_1_val13_div_1_64_c_6_1.png
   index: -1
 val13_div_1_val13_div_1_icon_a.png
   rotate: false
-  xy: 882, 35
+  xy: 990, 35
   size: 30, 27
   orig: 30, 27
   offset: 0, 0

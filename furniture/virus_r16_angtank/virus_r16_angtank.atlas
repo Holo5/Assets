@@ -39,6 +39,13 @@ virus_r16_angtank_virus_r16_angtank_64_c_0_1.png
   orig: 61, 34
   offset: 0, 0
   index: -1
+virus_r16_angtank_virus_r16_angtank_64_c_0_2.png
+  rotate: false
+  xy: 1021, 50
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 virus_r16_angtank_virus_r16_angtank_64_d_0_0.png
   rotate: false
   xy: 136, 48
@@ -74,11 +81,25 @@ virus_r16_angtank_virus_r16_angtank_64_f_0_1.png
   orig: 58, 27
   offset: 0, 0
   index: -1
+virus_r16_angtank_virus_r16_angtank_64_f_0_2.png
+  rotate: false
+  xy: 1021, 53
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 virus_r16_angtank_virus_r16_angtank_64_g_0_0.png
   rotate: false
   xy: 2, 12
   size: 35, 16
   orig: 35, 16
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_g_0_1.png
+  rotate: false
+  xy: 1021, 62
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_h_0_0.png
@@ -88,23 +109,107 @@ virus_r16_angtank_virus_r16_angtank_64_h_0_0.png
   orig: 29, 20
   offset: 0, 0
   index: -1
+virus_r16_angtank_virus_r16_angtank_64_h_0_1.png
+  rotate: false
+  xy: 1021, 59
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_0.png
+  rotate: false
+  xy: 719, 66
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_1.png
+  rotate: false
+  xy: 924, 68
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_10.png
+  rotate: false
+  xy: 426, 18
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_11.png
+  rotate: false
+  xy: 171, 2
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_12.png
+  rotate: false
+  xy: 499, 55
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_13.png
+  rotate: false
+  xy: 865, 38
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_14.png
+  rotate: false
+  xy: 615, 66
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_15.png
+  rotate: false
+  xy: 822, 68
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_16.png
+  rotate: false
+  xy: 305, 65
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_17.png
+  rotate: false
+  xy: 910, 98
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_18.png
   rotate: false
-  xy: 305, 62
+  xy: 563, 67
   size: 50, 30
   orig: 50, 30
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_19.png
   rotate: false
-  xy: 341, 32
+  xy: 771, 68
   size: 49, 28
   orig: 49, 28
   offset: 0, 0
   index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_2.png
+  rotate: false
+  xy: 341, 6
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_20.png
   rotate: false
-  xy: 965, 99
+  xy: 70, 17
   size: 53, 27
   orig: 53, 27
   offset: 0, 0
@@ -118,77 +223,105 @@ virus_r16_angtank_virus_r16_angtank_64_i_0_21.png
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_22.png
   rotate: false
-  xy: 456, 62
+  xy: 818, 38
   size: 45, 28
   orig: 45, 28
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_23.png
   rotate: false
-  xy: 503, 55
+  xy: 456, 55
   size: 41, 35
   orig: 41, 35
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_24.png
   rotate: false
-  xy: 392, 14
+  xy: 396, 17
   size: 28, 46
   orig: 28, 46
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_25.png
   rotate: false
-  xy: 422, 14
+  xy: 201, 2
   size: 28, 46
   orig: 28, 46
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_26.png
   rotate: false
-  xy: 452, 25
+  xy: 912, 31
   size: 41, 35
   orig: 41, 35
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_27.png
   rotate: false
-  xy: 409, 62
+  xy: 975, 68
   size: 45, 28
   orig: 45, 28
   offset: 0, 0
   index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_3.png
+  rotate: false
+  xy: 341, 35
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_4.png
   rotate: false
-  xy: 357, 62
+  xy: 667, 66
   size: 50, 30
   orig: 50, 30
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_5.png
   rotate: false
-  xy: 341, 2
+  xy: 873, 68
   size: 49, 28
   orig: 49, 28
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_6.png
   rotate: false
-  xy: 70, 17
+  xy: 360, 65
   size: 53, 27
   orig: 53, 27
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_i_0_7.png
   rotate: false
-  xy: 910, 98
+  xy: 965, 98
   size: 53, 28
   orig: 53, 28
   offset: 0, 0
   index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_8.png
+  rotate: false
+  xy: 771, 38
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_i_0_9.png
+  rotate: false
+  xy: 955, 31
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
 virus_r16_angtank_virus_r16_angtank_64_j_0_0.png
   rotate: false
-  xy: 495, 21
+  xy: 524, 21
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+virus_r16_angtank_virus_r16_angtank_64_j_0_1.png
+  rotate: false
+  xy: 558, 33
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -202,7 +335,7 @@ virus_r16_angtank_virus_r16_angtank_64_j_0_2.png
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_j_0_3.png
   rotate: false
-  xy: 307, 7
+  xy: 307, 10
   size: 32, 53
   orig: 32, 53
   offset: 0, 0
@@ -214,30 +347,37 @@ virus_r16_angtank_virus_r16_angtank_64_j_0_4.png
   orig: 32, 48
   offset: 0, 0
   index: -1
+virus_r16_angtank_virus_r16_angtank_64_j_0_5.png
+  rotate: false
+  xy: 490, 18
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
 virus_r16_angtank_virus_r16_angtank_64_j_0_6.png
   rotate: false
-  xy: 546, 55
+  xy: 456, 18
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_j_0_7.png
   rotate: false
-  xy: 557, 28
+  xy: 998, 41
   size: 21, 25
   orig: 21, 25
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_j_0_8.png
   rotate: false
-  xy: 392, 2
+  xy: 415, 82
   size: 15, 10
   orig: 15, 10
   offset: 0, 0
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_j_0_9.png
   rotate: false
-  xy: 495, 55
+  xy: 125, 39
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
@@ -258,7 +398,7 @@ virus_r16_angtank_virus_r16_angtank_64_k_0_1.png
   index: -1
 virus_r16_angtank_virus_r16_angtank_64_k_0_2.png
   rotate: false
-  xy: 1020, 125
+  xy: 1021, 65
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -284,6 +424,13 @@ virus_r16_angtank_virus_r16_angtank_64_m_0_1.png
   orig: 56, 28
   offset: 0, 0
   index: -1
+virus_r16_angtank_virus_r16_angtank_64_m_0_2.png
+  rotate: false
+  xy: 1021, 56
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 virus_r16_angtank_virus_r16_angtank_64_n_0_0.png
   rotate: false
   xy: 2, 30
@@ -293,7 +440,7 @@ virus_r16_angtank_virus_r16_angtank_64_n_0_0.png
   index: -1
 virus_r16_angtank_virus_r16_angtank_icon_a.png
   rotate: false
-  xy: 529, 24
+  xy: 558, 2
   size: 26, 29
   orig: 26, 29
   offset: 0, 0

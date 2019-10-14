@@ -13,51 +13,58 @@ zengarden_c18_roof_zengarden_c18_roof_64_a_0_0.png
   index: -1
 zengarden_c18_roof_zengarden_c18_roof_64_a_2_0.png
   rotate: false
-  xy: 404, 3
+  xy: 584, 3
   size: 58, 46
   orig: 58, 46
   offset: 0, 0
   index: -1
 zengarden_c18_roof_zengarden_c18_roof_64_a_4_0.png
   rotate: false
-  xy: 464, 5
+  xy: 644, 5
   size: 55, 44
   orig: 55, 44
   offset: 0, 0
   index: -1
 zengarden_c18_roof_zengarden_c18_roof_64_a_6_0.png
   rotate: false
-  xy: 651, 25
+  xy: 831, 25
   size: 56, 24
   orig: 56, 24
   offset: 0, 0
   index: -1
 zengarden_c18_roof_zengarden_c18_roof_64_b_0_0.png
   rotate: false
-  xy: 586, 25
+  xy: 766, 25
   size: 63, 24
   orig: 63, 24
   offset: 0, 0
   index: -1
 zengarden_c18_roof_zengarden_c18_roof_64_b_2_0.png
   rotate: false
-  xy: 281, 2
+  xy: 461, 2
   size: 60, 47
   orig: 60, 47
   offset: 0, 0
   index: -1
 zengarden_c18_roof_zengarden_c18_roof_64_b_4_0.png
   rotate: false
-  xy: 343, 3
+  xy: 523, 3
   size: 59, 46
   orig: 59, 46
   offset: 0, 0
   index: -1
 zengarden_c18_roof_zengarden_c18_roof_64_b_6_0.png
   rotate: false
-  xy: 521, 24
+  xy: 701, 24
   size: 63, 25
   orig: 63, 25
+  offset: 0, 0
+  index: -1
+zengarden_c18_roof_zengarden_c18_roof_64_sd_0_0.png
+  rotate: false
+  xy: 371, 5
+  size: 88, 44
+  orig: 88, 44
   offset: 0, 0
   index: -1
 zengarden_c18_roof_zengarden_c18_roof_64_sd_2_0.png
@@ -69,6 +76,13 @@ zengarden_c18_roof_zengarden_c18_roof_64_sd_2_0.png
   index: -1
 zengarden_c18_roof_zengarden_c18_roof_64_sd_4_0.png
   rotate: false
+  xy: 281, 5
+  size: 88, 44
+  orig: 88, 44
+  offset: 0, 0
+  index: -1
+zengarden_c18_roof_zengarden_c18_roof_64_sd_6_0.png
+  rotate: false
   xy: 191, 5
   size: 88, 44
   orig: 88, 44
@@ -76,7 +90,7 @@ zengarden_c18_roof_zengarden_c18_roof_64_sd_4_0.png
   index: -1
 zengarden_c18_roof_zengarden_c18_roof_icon_a.png
   rotate: false
-  xy: 709, 28
+  xy: 889, 28
   size: 24, 21
   orig: 24, 21
   offset: 0, 0

@@ -6,9 +6,37 @@ filter: Nearest,Nearest
 repeat: none
 SF_alien_SF_alien_64_a_0_0.png
   rotate: false
-  xy: 136, 15
+  xy: 324, 15
   size: 43, 47
   orig: 43, 47
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_64_a_0_10.png
+  rotate: false
+  xy: 232, 14
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_64_a_0_11.png
+  rotate: false
+  xy: 138, 14
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_64_a_0_12.png
+  rotate: false
+  xy: 185, 14
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_64_a_0_13.png
+  rotate: false
+  xy: 91, 14
+  size: 45, 48
+  orig: 45, 48
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_a_0_14.png
@@ -20,84 +48,84 @@ SF_alien_SF_alien_64_a_0_14.png
   index: -1
 SF_alien_SF_alien_64_a_0_15.png
   rotate: false
-  xy: 91, 14
+  xy: 279, 14
   size: 43, 48
   orig: 43, 48
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_a_0_16.png
   rotate: false
-  xy: 181, 14
+  xy: 369, 14
   size: 41, 48
   orig: 41, 48
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_a_0_17.png
   rotate: false
-  xy: 390, 16
+  xy: 578, 16
   size: 41, 46
   orig: 41, 46
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_a_0_18.png
   rotate: false
-  xy: 433, 18
+  xy: 621, 18
   size: 41, 44
   orig: 41, 44
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_a_0_19.png
   rotate: false
-  xy: 573, 20
+  xy: 761, 20
   size: 41, 42
   orig: 41, 42
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_a_0_20.png
   rotate: false
-  xy: 616, 21
+  xy: 804, 21
   size: 41, 41
   orig: 41, 41
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_0.png
   rotate: false
-  xy: 652, 16
+  xy: 756, 20
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_1.png
   rotate: false
-  xy: 1099, 16
+  xy: 1287, 16
   size: 31, 46
   orig: 31, 46
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_10.png
   rotate: false
-  xy: 1438, 23
+  xy: 1626, 23
   size: 22, 39
   orig: 22, 39
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_11.png
   rotate: false
-  xy: 1226, 15
+  xy: 1414, 15
   size: 28, 47
   orig: 28, 47
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_12.png
   rotate: false
-  xy: 1164, 13
+  xy: 1352, 13
   size: 30, 49
   orig: 30, 49
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_13.png
   rotate: false
-  xy: 922, 12
+  xy: 1110, 12
   size: 34, 50
   orig: 34, 50
   offset: 0, 0
@@ -111,140 +139,140 @@ SF_alien_SF_alien_64_b_0_14.png
   index: -1
 SF_alien_SF_alien_64_b_0_15.png
   rotate: false
-  xy: 813, 9
+  xy: 1001, 9
   size: 35, 53
   orig: 35, 53
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_16.png
   rotate: false
-  xy: 308, 10
+  xy: 496, 10
   size: 38, 52
   orig: 38, 52
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_17.png
   rotate: false
-  xy: 738, 8
+  xy: 926, 8
   size: 36, 54
   orig: 36, 54
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_18.png
   rotate: false
-  xy: 348, 12
+  xy: 536, 12
   size: 40, 50
   orig: 40, 50
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_19.png
   rotate: false
-  xy: 1196, 14
+  xy: 1384, 14
   size: 28, 48
   orig: 28, 48
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_2.png
   rotate: false
-  xy: 958, 12
+  xy: 1146, 12
   size: 32, 50
   orig: 32, 50
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_20.png
   rotate: false
-  xy: 1132, 13
+  xy: 1320, 13
   size: 30, 49
   orig: 30, 49
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_21.png
   rotate: false
-  xy: 886, 10
+  xy: 1074, 10
   size: 34, 52
   orig: 34, 52
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_22.png
   rotate: false
-  xy: 224, 9
+  xy: 412, 9
   size: 40, 53
   orig: 40, 53
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_23.png
   rotate: false
-  xy: 776, 6
+  xy: 964, 6
   size: 35, 56
   orig: 35, 56
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_24.png
   rotate: false
-  xy: 850, 10
+  xy: 1038, 10
   size: 34, 52
   orig: 34, 52
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_25.png
   rotate: false
-  xy: 266, 10
+  xy: 454, 10
   size: 40, 52
   orig: 40, 52
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_26.png
   rotate: false
-  xy: 700, 9
+  xy: 888, 9
   size: 36, 53
   orig: 36, 53
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_3.png
   rotate: false
-  xy: 992, 15
+  xy: 1180, 15
   size: 35, 47
   orig: 35, 47
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_4.png
   rotate: false
-  xy: 1029, 15
+  xy: 1217, 15
   size: 33, 47
   orig: 33, 47
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_5.png
   rotate: false
-  xy: 659, 14
+  xy: 847, 14
   size: 39, 48
   orig: 39, 48
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_6.png
   rotate: false
-  xy: 1064, 16
+  xy: 1252, 16
   size: 33, 46
   orig: 33, 46
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_7.png
   rotate: false
-  xy: 1378, 19
+  xy: 1566, 19
   size: 30, 43
   orig: 30, 43
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_8.png
   rotate: false
-  xy: 1410, 18
+  xy: 1598, 18
   size: 26, 44
   orig: 26, 44
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_b_0_9.png
   rotate: false
-  xy: 1346, 21
+  xy: 1534, 21
   size: 30, 41
   orig: 30, 41
   offset: 0, 0
@@ -258,113 +286,176 @@ SF_alien_SF_alien_64_c_0_0.png
   index: -1
 SF_alien_SF_alien_64_c_0_1.png
   rotate: false
-  xy: 1491, 32
+  xy: 1708, 32
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
+SF_alien_SF_alien_64_c_0_10.png
+  rotate: false
+  xy: 1855, 42
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_64_c_0_11.png
+  rotate: false
+  xy: 724, 2
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_64_c_0_12.png
+  rotate: false
+  xy: 1798, 40
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_64_c_0_13.png
+  rotate: false
+  xy: 1769, 38
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_64_c_0_14.png
+  rotate: false
+  xy: 1676, 2
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_64_c_0_15.png
+  rotate: false
+  xy: 1679, 29
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_64_c_0_16.png
+  rotate: false
+  xy: 1939, 44
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_64_c_0_17.png
+  rotate: false
+  xy: 1884, 43
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
 SF_alien_SF_alien_64_c_0_18.png
   rotate: false
-  xy: 536, 3
+  xy: 1826, 42
   size: 27, 20
   orig: 27, 20
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_19.png
   rotate: false
-  xy: 504, 2
+  xy: 692, 2
   size: 30, 21
   orig: 30, 21
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_2.png
   rotate: false
-  xy: 1256, 2
+  xy: 1444, 2
   size: 38, 27
   orig: 38, 27
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_20.png
   rotate: false
-  xy: 476, 2
+  xy: 664, 2
   size: 26, 22
   orig: 26, 22
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_21.png
   rotate: false
-  xy: 1523, 38
+  xy: 1740, 38
   size: 27, 24
   orig: 27, 24
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_22.png
   rotate: false
-  xy: 1466, 2
+  xy: 1654, 2
   size: 20, 25
   orig: 20, 25
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_23.png
   rotate: false
-  xy: 1462, 29
+  xy: 1650, 29
   size: 27, 33
   orig: 27, 33
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_3.png
   rotate: false
-  xy: 1296, 2
+  xy: 1484, 2
   size: 33, 26
   orig: 33, 26
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_4.png
   rotate: false
-  xy: 1302, 30
+  xy: 1490, 30
   size: 42, 32
   orig: 42, 32
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_5.png
   rotate: false
-  xy: 1256, 31
+  xy: 1444, 31
   size: 44, 31
   orig: 44, 31
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_6.png
   rotate: false
-  xy: 476, 26
+  xy: 664, 26
   size: 49, 36
   orig: 49, 36
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_7.png
   rotate: false
-  xy: 527, 25
+  xy: 715, 25
   size: 44, 37
   orig: 44, 37
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_8.png
   rotate: false
-  xy: 1552, 44
+  xy: 1912, 44
   size: 25, 18
   orig: 25, 18
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_c_0_9.png
   rotate: false
-  xy: 1438, 2
+  xy: 1626, 2
   size: 26, 19
   orig: 26, 19
   offset: 0, 0
   index: -1
 SF_alien_SF_alien_64_sd_0_0.png
   rotate: false
-  xy: 616, 2
+  xy: 804, 2
   size: 34, 17
   orig: 34, 17
+  offset: 0, 0
+  index: -1
+SF_alien_SF_alien_icon_a.png
+  rotate: false
+  xy: 1966, 38
+  size: 23, 24
+  orig: 23, 24
   offset: 0, 0
   index: -1

@@ -4,6 +4,13 @@ size: 4096,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+vikings_house_vikings_house_64_a_4_0.png
+  rotate: false
+  xy: 2924, 91
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 vikings_house_vikings_house_64_a_4_1.png
   rotate: false
   xy: 585, 25
@@ -60,6 +67,13 @@ vikings_house_vikings_house_64_e_4_1.png
   orig: 53, 50
   offset: 0, 0
   index: -1
+vikings_house_vikings_house_64_f_4_0.png
+  rotate: false
+  xy: 2886, 88
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 vikings_house_vikings_house_64_f_4_1.png
   rotate: false
   xy: 450, 2
@@ -76,7 +90,7 @@ vikings_house_vikings_house_64_f_4_2.png
   index: -1
 vikings_house_vikings_house_64_g_4_1.png
   rotate: false
-  xy: 3489, 64
+  xy: 2754, 2
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
@@ -104,7 +118,7 @@ vikings_house_vikings_house_64_g_4_12.png
   index: -1
 vikings_house_vikings_house_64_g_4_2.png
   rotate: false
-  xy: 1984, 41
+  xy: 2754, 68
   size: 31, 76
   orig: 31, 76
   offset: 0, 0
@@ -118,16 +132,23 @@ vikings_house_vikings_house_64_g_4_3.png
   index: -1
 vikings_house_vikings_house_64_g_4_4.png
   rotate: false
-  xy: 3561, 142
+  xy: 2859, 35
   size: 35, 51
   orig: 35, 51
   offset: 0, 0
   index: -1
 vikings_house_vikings_house_64_g_4_5.png
   rotate: false
-  xy: 3524, 133
+  xy: 2921, 94
   size: 35, 60
   orig: 35, 60
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_6.png
+  rotate: false
+  xy: 2853, 88
+  size: 31, 66
+  orig: 31, 66
   offset: 0, 0
   index: -1
 vikings_house_vikings_house_64_g_4_7.png
@@ -149,6 +170,34 @@ vikings_house_vikings_house_64_g_4_9.png
   xy: 676, 72
   size: 202, 182
   orig: 202, 182
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_h_4_1.png
+  rotate: false
+  xy: 395, 5
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_h_4_2.png
+  rotate: false
+  xy: 368, 5
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_h_4_3.png
+  rotate: false
+  xy: 311, 7
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_h_4_4.png
+  rotate: false
+  xy: 4052, 2
+  size: 24, 41
+  orig: 24, 41
   offset: 0, 0
   index: -1
 vikings_house_vikings_house_64_h_4_5.png
@@ -181,7 +230,7 @@ vikings_house_vikings_house_64_h_4_8.png
   index: -1
 vikings_house_vikings_house_64_i_4_1.png
   rotate: false
-  xy: 1781, 14
+  xy: 1909, 26
   size: 62, 91
   orig: 62, 91
   offset: 0, 0
@@ -216,7 +265,7 @@ vikings_house_vikings_house_64_i_4_2.png
   index: -1
 vikings_house_vikings_house_64_i_4_3.png
   rotate: false
-  xy: 2619, 49
+  xy: 3554, 108
   size: 63, 85
   orig: 63, 85
   offset: 0, 0
@@ -237,7 +286,7 @@ vikings_house_vikings_house_64_i_4_5.png
   index: -1
 vikings_house_vikings_house_64_i_4_6.png
   rotate: false
-  xy: 1716, 10
+  xy: 1779, 10
   size: 63, 95
   orig: 63, 95
   offset: 0, 0
@@ -265,16 +314,23 @@ vikings_house_vikings_house_64_i_4_9.png
   index: -1
 vikings_house_vikings_house_64_j_4_0.png
   rotate: false
-  xy: 1080, 82
+  xy: 2921, 91
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 vikings_house_vikings_house_64_j_4_1.png
   rotate: false
-  xy: 3489, 130
+  xy: 2886, 91
   size: 33, 63
   orig: 33, 63
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_k_4_1.png
+  rotate: false
+  xy: 2788, 2
+  size: 32, 64
+  orig: 32, 64
   offset: 0, 0
   index: -1
 vikings_house_vikings_house_64_k_4_10.png
@@ -298,9 +354,37 @@ vikings_house_vikings_house_64_k_4_12.png
   orig: 43, 176
   offset: 0, 0
   index: -1
+vikings_house_vikings_house_64_k_4_2.png
+  rotate: false
+  xy: 2787, 68
+  size: 31, 76
+  orig: 31, 76
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_k_4_3.png
+  rotate: false
+  xy: 3436, 2
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_k_4_4.png
+  rotate: false
+  xy: 2896, 38
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_k_4_5.png
+  rotate: false
+  xy: 2822, 16
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
 vikings_house_vikings_house_64_k_4_6.png
   rotate: false
-  xy: 2017, 51
+  xy: 2820, 78
   size: 31, 66
   orig: 31, 66
   offset: 0, 0
@@ -328,14 +412,14 @@ vikings_house_vikings_house_64_k_4_9.png
   index: -1
 vikings_house_vikings_house_64_l_4_1.png
   rotate: false
-  xy: 311, 5
+  xy: 2037, 70
   size: 22, 47
   orig: 22, 47
   offset: 0, 0
   index: -1
 vikings_house_vikings_house_64_l_4_2.png
   rotate: false
-  xy: 3598, 146
+  xy: 341, 5
   size: 25, 47
   orig: 25, 47
   offset: 0, 0
@@ -356,30 +440,37 @@ vikings_house_vikings_house_64_l_4_4.png
   index: -1
 vikings_house_vikings_house_64_l_4_5.png
   rotate: false
-  xy: 1916, 31
+  xy: 3591, 20
   size: 31, 86
   orig: 31, 86
   offset: 0, 0
   index: -1
 vikings_house_vikings_house_64_l_4_6.png
   rotate: false
-  xy: 1882, 11
+  xy: 2720, 38
   size: 32, 106
   orig: 32, 106
   offset: 0, 0
   index: -1
 vikings_house_vikings_house_64_l_4_7.png
   rotate: false
-  xy: 1845, 9
+  xy: 3554, 10
   size: 35, 96
   orig: 35, 96
   offset: 0, 0
   index: -1
 vikings_house_vikings_house_64_l_4_8.png
   rotate: false
-  xy: 1949, 34
+  xy: 2685, 51
   size: 33, 83
   orig: 33, 83
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_1.png
+  rotate: false
+  xy: 1973, 26
+  size: 62, 91
+  orig: 62, 91
   offset: 0, 0
   index: -1
 vikings_house_vikings_house_64_m_4_10.png
@@ -401,6 +492,41 @@ vikings_house_vikings_house_64_m_4_12.png
   xy: 3723, 47
   size: 76, 207
   orig: 76, 207
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_2.png
+  rotate: false
+  xy: 1716, 2
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_3.png
+  rotate: false
+  xy: 3489, 18
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_4.png
+  rotate: false
+  xy: 2619, 54
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_5.png
+  rotate: false
+  xy: 3489, 105
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_6.png
+  rotate: false
+  xy: 1844, 10
+  size: 63, 95
+  orig: 63, 95
   offset: 0, 0
   index: -1
 vikings_house_vikings_house_64_m_4_7.png

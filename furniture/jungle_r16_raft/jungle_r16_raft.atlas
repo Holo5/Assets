@@ -1,54 +1,68 @@
 
 jungle_r16_raft.png
-size: 256,256
+size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 jungle_r16_raft_jungle_r16_raft_64_a_0_0.png
   rotate: false
-  xy: 65, 86
+  xy: 128, 117
   size: 81, 34
   orig: 81, 34
   offset: 0, 0
   index: -1
 jungle_r16_raft_jungle_r16_raft_64_a_0_1.png
   rotate: false
-  xy: 65, 122
+  xy: 2, 43
   size: 81, 34
   orig: 81, 34
   offset: 0, 0
   index: -1
 jungle_r16_raft_jungle_r16_raft_64_b_0_0.png
   rotate: false
-  xy: 65, 205
+  xy: 128, 200
   size: 137, 45
   orig: 137, 45
   offset: 0, 0
   index: -1
 jungle_r16_raft_jungle_r16_raft_64_b_0_1.png
   rotate: false
-  xy: 65, 158
+  xy: 128, 153
   size: 137, 45
   orig: 137, 45
   offset: 0, 0
   index: -1
 jungle_r16_raft_jungle_r16_raft_64_c_0_0.png
   rotate: false
-  xy: 2, 84
+  xy: 2, 79
   size: 61, 166
   orig: 61, 166
   offset: 0, 0
   index: -1
+jungle_r16_raft_jungle_r16_raft_64_c_0_1.png
+  rotate: false
+  xy: 65, 79
+  size: 61, 166
+  orig: 61, 166
+  offset: 0, 0
+  index: -1
+jungle_r16_raft_jungle_r16_raft_64_d_0_0.png
+  rotate: false
+  xy: 319, 159
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
 jungle_r16_raft_jungle_r16_raft_64_d_0_1.png
   rotate: false
-  xy: 204, 164
+  xy: 267, 159
   size: 50, 86
   orig: 50, 86
   offset: 0, 0
   index: -1
 jungle_r16_raft_jungle_r16_raft_64_e_0_0.png
   rotate: false
-  xy: 2, 43
+  xy: 371, 206
   size: 63, 39
   orig: 63, 39
   offset: 0, 0
@@ -60,23 +74,37 @@ jungle_r16_raft_jungle_r16_raft_64_e_0_1.png
   orig: 63, 39
   offset: 0, 0
   index: -1
-jungle_r16_raft_jungle_r16_raft_64_f_0_1.png
+jungle_r16_raft_jungle_r16_raft_64_f_0_0.png
   rotate: false
-  xy: 148, 98
+  xy: 371, 181
   size: 40, 23
   orig: 40, 23
   offset: 0, 0
   index: -1
+jungle_r16_raft_jungle_r16_raft_64_f_0_1.png
+  rotate: false
+  xy: 85, 54
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+jungle_r16_raft_jungle_r16_raft_64_g_0_0.png
+  rotate: false
+  xy: 211, 118
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
 jungle_r16_raft_jungle_r16_raft_64_g_0_1.png
   rotate: false
-  xy: 148, 123
+  xy: 128, 82
   size: 52, 33
   orig: 52, 33
   offset: 0, 0
   index: -1
 jungle_r16_raft_jungle_r16_raft_icon_a.png
   rotate: false
-  xy: 67, 54
+  xy: 436, 215
   size: 23, 30
   orig: 23, 30
   offset: 0, 0

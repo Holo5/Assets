@@ -18,6 +18,13 @@ badge_display4_badge_display4_64_b_2_0.png
   orig: 40, 40
   offset: 0, 0
   index: -1
+badge_display4_badge_display4_64_b_4_0.png
+  rotate: false
+  xy: 186, 85
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
 badge_display4_badge_display4_64_c_4_0.png
   rotate: false
   xy: 2, 44
@@ -34,7 +41,7 @@ badge_display4_badge_display4_64_d_4_0.png
   index: -1
 badge_display4_badge_display4_icon_a.png
   rotate: false
-  xy: 186, 95
+  xy: 186, 53
   size: 24, 30
   orig: 24, 30
   offset: 0, 0

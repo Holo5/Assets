@@ -18,6 +18,13 @@ hc_exe_wrkdesk_hc_exe_wrkdesk_64_a_6_0.png
   orig: 55, 82
   offset: 0, 0
   index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_b_2_0.png
+  rotate: false
+  xy: 331, 98
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_b_2_1.png
   rotate: false
   xy: 66, 2
@@ -53,79 +60,86 @@ hc_exe_wrkdesk_hc_exe_wrkdesk_64_c_6_0.png
   orig: 59, 94
   offset: 0, 0
   index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_0.png
+  rotate: false
+  xy: 2, 12
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_1.png
   rotate: false
-  xy: 311, 101
+  xy: 293, 59
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_10.png
   rotate: false
-  xy: 249, 69
+  xy: 331, 101
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_2.png
   rotate: false
-  xy: 329, 101
+  xy: 367, 101
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_3.png
   rotate: false
-  xy: 275, 101
+  xy: 275, 59
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_4.png
   rotate: false
-  xy: 293, 101
+  xy: 349, 101
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_5.png
   rotate: false
-  xy: 383, 101
+  xy: 403, 101
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_6.png
   rotate: false
-  xy: 401, 101
+  xy: 421, 101
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_7.png
   rotate: false
-  xy: 347, 101
+  xy: 311, 59
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_8.png
   rotate: false
-  xy: 365, 101
+  xy: 385, 101
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_9.png
   rotate: false
-  xy: 419, 101
+  xy: 439, 101
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_6_0.png
   rotate: false
-  xy: 2, 12
+  xy: 249, 51
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -137,9 +151,16 @@ hc_exe_wrkdesk_hc_exe_wrkdesk_64_sd_2_0.png
   orig: 80, 40
   offset: 0, 0
   index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_sd_6_0.png
+  rotate: false
+  xy: 249, 86
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
 hc_exe_wrkdesk_hc_exe_wrkdesk_icon_a.png
   rotate: false
-  xy: 249, 96
+  xy: 249, 54
   size: 24, 30
   orig: 24, 30
   offset: 0, 0

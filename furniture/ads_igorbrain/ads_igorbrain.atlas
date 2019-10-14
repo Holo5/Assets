@@ -4,6 +4,13 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+ads_igorbrain_ads_igorbrain_64_a_4_0.png
+  rotate: false
+  xy: 193, 57
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ads_igorbrain_ads_igorbrain_64_a_4_1.png
   rotate: false
   xy: 82, 46
@@ -21,6 +28,20 @@ ads_igorbrain_ads_igorbrain_64_b_4_0.png
 ads_igorbrain_ads_igorbrain_64_c_4_0.png
   rotate: false
   xy: 65, 25
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+ads_igorbrain_ads_igorbrain_64_c_4_1.png
+  rotate: false
+  xy: 91, 25
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+ads_igorbrain_ads_igorbrain_64_c_4_2.png
+  rotate: false
+  xy: 117, 25
   size: 24, 19
   orig: 24, 19
   offset: 0, 0
@@ -53,6 +74,13 @@ ads_igorbrain_ads_igorbrain_64_g_4_0.png
   orig: 25, 12
   offset: 0, 0
   index: -1
+ads_igorbrain_ads_igorbrain_64_h_4_0.png
+  rotate: false
+  xy: 143, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ads_igorbrain_ads_igorbrain_64_h_4_1.png
   rotate: false
   xy: 197, 65
@@ -72,6 +100,13 @@ ads_igorbrain_ads_igorbrain_64_h_4_3.png
   xy: 227, 87
   size: 7, 6
   orig: 7, 6
+  offset: 0, 0
+  index: -1
+ads_igorbrain_ads_igorbrain_64_i_4_0.png
+  rotate: false
+  xy: 65, 22
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 ads_igorbrain_ads_igorbrain_64_i_4_1.png

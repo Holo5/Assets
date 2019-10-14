@@ -11,9 +11,16 @@ santorini_c17_artefact4_santorini_c17_artefact4_64_a_0_0.png
   orig: 68, 49
   offset: 0, 0
   index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_a_0_1.png
+  rotate: false
+  xy: 49, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 santorini_c17_artefact4_santorini_c17_artefact4_64_b_0_0.png
   rotate: false
-  xy: 13, 2
+  xy: 46, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -102,6 +109,13 @@ santorini_c17_artefact4_santorini_c17_artefact4_64_b_0_2.png
   orig: 44, 32
   offset: 0, 0
   index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_b_0_20.png
+  rotate: false
+  xy: 52, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 santorini_c17_artefact4_santorini_c17_artefact4_64_b_0_3.png
   rotate: false
   xy: 318, 41
@@ -151,16 +165,107 @@ santorini_c17_artefact4_santorini_c17_artefact4_64_b_0_9.png
   orig: 84, 77
   offset: 0, 0
   index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_c_0_0.png
+  rotate: false
+  xy: 64, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_c_0_1.png
+  rotate: false
+  xy: 81, 25
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_c_0_2.png
+  rotate: false
+  xy: 64, 5
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_c_0_3.png
+  rotate: false
+  xy: 24, 3
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_d_0_0.png
+  rotate: false
+  xy: 61, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_d_0_1.png
+  rotate: false
+  xy: 73, 11
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_d_0_2.png
+  rotate: false
+  xy: 55, 5
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_d_0_3.png
+  rotate: false
+  xy: 13, 3
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_e_0_0.png
+  rotate: false
+  xy: 58, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_e_0_1.png
+  rotate: false
+  xy: 77, 16
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_e_0_2.png
+  rotate: false
+  xy: 72, 21
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_e_0_3.png
+  rotate: false
+  xy: 35, 3
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+santorini_c17_artefact4_santorini_c17_artefact4_64_f_0_0.png
+  rotate: false
+  xy: 55, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 santorini_c17_artefact4_santorini_c17_artefact4_64_f_0_1.png
   rotate: false
-  xy: 22, 9
+  xy: 72, 16
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 santorini_c17_artefact4_santorini_c17_artefact4_64_f_0_2.png
   rotate: false
-  xy: 13, 5
+  xy: 46, 5
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
@@ -181,7 +286,7 @@ santorini_c17_artefact4_santorini_c17_artefact4_64_sd_0_0.png
   index: -1
 santorini_c17_artefact4_santorini_c17_artefact4_icon_a.png
   rotate: false
-  xy: 72, 11
+  xy: 82, 6
   size: 30, 17
   orig: 30, 17
   offset: 0, 0

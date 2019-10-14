@@ -6,126 +6,161 @@ filter: Nearest,Nearest
 repeat: none
 hc_exe_table_hc_exe_table_64_a_2_0.png
   rotate: false
-  xy: 350, 95
+  xy: 401, 96
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+hc_exe_table_hc_exe_table_64_a_6_0.png
+  rotate: false
+  xy: 65, 27
   size: 57, 30
   orig: 57, 30
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_b_2_0.png
   rotate: false
-  xy: 65, 27
+  xy: 401, 65
   size: 57, 29
   orig: 57, 29
   offset: 0, 0
   index: -1
+hc_exe_table_hc_exe_table_64_b_6_0.png
+  rotate: false
+  xy: 401, 34
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+hc_exe_table_hc_exe_table_64_c_2_0.png
+  rotate: false
+  xy: 350, 62
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
 hc_exe_table_hc_exe_table_64_c_6_0.png
   rotate: false
-  xy: 299, 61
+  xy: 299, 62
   size: 49, 64
   orig: 49, 64
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_d_2_0.png
   rotate: false
-  xy: 126, 59
+  xy: 126, 60
   size: 58, 66
   orig: 58, 66
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_d_6_0.png
   rotate: false
-  xy: 66, 58
+  xy: 66, 59
   size: 58, 67
   orig: 58, 67
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_e_2_0.png
   rotate: false
-  xy: 2, 8
+  xy: 2, 9
   size: 61, 48
   orig: 61, 48
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_e_6_0.png
   rotate: false
-  xy: 2, 58
+  xy: 2, 59
   size: 62, 67
   orig: 62, 67
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_f_2_0.png
   rotate: false
-  xy: 186, 61
+  xy: 186, 62
   size: 55, 64
   orig: 55, 64
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_f_6_0.png
   rotate: false
-  xy: 243, 61
+  xy: 243, 62
   size: 54, 64
   orig: 54, 64
   offset: 0, 0
   index: -1
+hc_exe_table_hc_exe_table_64_g_2_0.png
+  rotate: false
+  xy: 507, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hc_exe_table_hc_exe_table_64_g_2_1.png
   rotate: false
-  xy: 350, 63
+  xy: 460, 96
   size: 45, 30
   orig: 45, 30
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_g_6_1.png
   rotate: false
-  xy: 397, 68
+  xy: 460, 69
   size: 45, 25
   orig: 45, 25
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_h_2_0.png
   rotate: false
-  xy: 397, 45
+  xy: 460, 14
   size: 40, 21
   orig: 40, 21
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_h_2_1.png
   rotate: false
-  xy: 65, 4
+  xy: 186, 39
   size: 41, 21
   orig: 41, 21
   offset: 0, 0
   index: -1
+hc_exe_table_hc_exe_table_64_h_6_0.png
+  rotate: false
+  xy: 272, 39
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
 hc_exe_table_hc_exe_table_64_h_6_1.png
   rotate: false
-  xy: 409, 95
+  xy: 460, 37
   size: 40, 30
   orig: 40, 30
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_i_2_0.png
   rotate: false
-  xy: 497, 124
+  xy: 2, 6
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_i_2_1.png
   rotate: false
-  xy: 451, 103
+  xy: 96, 3
   size: 44, 22
   orig: 44, 22
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_64_i_6_1.png
   rotate: false
-  xy: 451, 76
+  xy: 229, 35
   size: 41, 25
   orig: 41, 25
   offset: 0, 0
   index: -1
 hc_exe_table_hc_exe_table_icon_a.png
   rotate: false
-  xy: 108, 2
+  xy: 65, 2
   size: 29, 23
   orig: 29, 23
   offset: 0, 0

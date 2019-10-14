@@ -53,3 +53,10 @@ bc_alpha1_k_bc_alpha1_k_icon_a.png
   orig: 23, 27
   offset: 0, 0
   index: -1
+bc_alpha1_k_bc_alpha1_k_icon_b.png
+  rotate: false
+  xy: 211, 39
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1

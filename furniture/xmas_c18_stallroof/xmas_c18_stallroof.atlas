@@ -130,6 +130,13 @@ xmas_c18_stallroof_xmas_c18_stallroof_64_g_2_1.png
   orig: 40, 46
   offset: 0, 0
   index: -1
+xmas_c18_stallroof_xmas_c18_stallroof_64_g_4_0.png
+  rotate: false
+  xy: 639, 83
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c18_stallroof_xmas_c18_stallroof_64_g_4_1.png
   rotate: false
   xy: 815, 75
@@ -137,11 +144,25 @@ xmas_c18_stallroof_xmas_c18_stallroof_64_g_4_1.png
   orig: 40, 46
   offset: 0, 0
   index: -1
+xmas_c18_stallroof_xmas_c18_stallroof_64_h_2_0.png
+  rotate: false
+  xy: 250, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c18_stallroof_xmas_c18_stallroof_64_h_2_1.png
   rotate: false
   xy: 517, 86
   size: 65, 35
   orig: 65, 35
+  offset: 0, 0
+  index: -1
+xmas_c18_stallroof_xmas_c18_stallroof_64_h_4_0.png
+  rotate: false
+  xy: 651, 96
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c18_stallroof_xmas_c18_stallroof_64_h_4_1.png

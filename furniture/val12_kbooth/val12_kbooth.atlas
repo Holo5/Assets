@@ -46,6 +46,13 @@ val12_kbooth_val12_kbooth_64_d_2_1.png
   orig: 77, 136
   offset: 0, 0
   index: -1
+val12_kbooth_val12_kbooth_64_e_2_0.png
+  rotate: false
+  xy: 532, 113
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 val12_kbooth_val12_kbooth_64_e_2_1.png
   rotate: false
   xy: 390, 106
@@ -58,6 +65,13 @@ val12_kbooth_val12_kbooth_64_e_2_2.png
   xy: 461, 106
   size: 69, 133
   orig: 69, 133
+  offset: 0, 0
+  index: -1
+val12_kbooth_val12_kbooth_64_f_2_0.png
+  rotate: false
+  xy: 319, 103
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 val12_kbooth_val12_kbooth_64_f_2_1.png

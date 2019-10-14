@@ -62,9 +62,16 @@ hween_c16_bkcase_hween_c16_bkcase_64_d_0_2.png
   index: -1
 hween_c16_bkcase_hween_c16_bkcase_64_e_0_0.png
   rotate: false
-  xy: 120, 4
+  xy: 262, 155
   size: 20, 25
   orig: 20, 25
+  offset: 0, 0
+  index: -1
+hween_c16_bkcase_hween_c16_bkcase_64_e_0_1.png
+  rotate: false
+  xy: 410, 193
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c16_bkcase_hween_c16_bkcase_64_f_0_0.png
@@ -95,6 +102,13 @@ hween_c16_bkcase_hween_c16_bkcase_64_f_0_3.png
   orig: 26, 68
   offset: 0, 0
   index: -1
+hween_c16_bkcase_hween_c16_bkcase_64_f_0_4.png
+  rotate: false
+  xy: 357, 183
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c16_bkcase_hween_c16_bkcase_64_g_0_0.png
   rotate: false
   xy: 174, 124
@@ -123,11 +137,67 @@ hween_c16_bkcase_hween_c16_bkcase_64_g_0_3.png
   orig: 28, 70
   offset: 0, 0
   index: -1
+hween_c16_bkcase_hween_c16_bkcase_64_g_0_4.png
+  rotate: false
+  xy: 2, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c16_bkcase_hween_c16_bkcase_64_h_0_0.png
+  rotate: false
+  xy: 120, 3
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hween_c16_bkcase_hween_c16_bkcase_64_h_0_1.png
+  rotate: false
+  xy: 470, 197
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hween_c16_bkcase_hween_c16_bkcase_64_h_0_2.png
+  rotate: false
+  xy: 234, 154
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
 hween_c16_bkcase_hween_c16_bkcase_64_h_0_3.png
   rotate: false
   xy: 92, 2
   size: 26, 26
   orig: 26, 26
+  offset: 0, 0
+  index: -1
+hween_c16_bkcase_hween_c16_bkcase_64_h_0_4.png
+  rotate: false
+  xy: 496, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c16_bkcase_hween_c16_bkcase_64_i_0_0.png
+  rotate: false
+  xy: 440, 196
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+hween_c16_bkcase_hween_c16_bkcase_64_i_0_1.png
+  rotate: false
+  xy: 440, 226
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+hween_c16_bkcase_hween_c16_bkcase_64_i_0_2.png
+  rotate: false
+  xy: 410, 196
+  size: 28, 28
+  orig: 28, 28
   offset: 0, 0
   index: -1
 hween_c16_bkcase_hween_c16_bkcase_64_i_0_3.png
@@ -146,9 +216,16 @@ hween_c16_bkcase_hween_c16_bkcase_64_i_0_4.png
   index: -1
 hween_c16_bkcase_hween_c16_bkcase_64_j_0_0.png
   rotate: false
-  xy: 410, 195
+  xy: 470, 225
   size: 24, 29
   orig: 24, 29
+  offset: 0, 0
+  index: -1
+hween_c16_bkcase_hween_c16_bkcase_64_j_0_1.png
+  rotate: false
+  xy: 32, 23
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c16_bkcase_hween_c16_bkcase_64_sd_0_0.png
@@ -160,7 +237,7 @@ hween_c16_bkcase_hween_c16_bkcase_64_sd_0_0.png
   index: -1
 hween_c16_bkcase_hween_c16_bkcase_icon_a.png
   rotate: false
-  xy: 440, 224
+  xy: 234, 122
   size: 21, 30
   orig: 21, 30
   offset: 0, 0

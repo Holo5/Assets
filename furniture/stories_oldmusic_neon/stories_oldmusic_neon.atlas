@@ -18,6 +18,13 @@ stories_oldmusic_neon_stories_oldmusic_neon_64_a_4_0.png
   orig: 72, 183
   offset: 0, 0
   index: -1
+stories_oldmusic_neon_stories_oldmusic_neon_64_b_2_0.png
+  rotate: false
+  xy: 382, 194
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 stories_oldmusic_neon_stories_oldmusic_neon_64_b_2_1.png
   rotate: false
   xy: 2, 2
@@ -25,11 +32,25 @@ stories_oldmusic_neon_stories_oldmusic_neon_64_b_2_1.png
   orig: 66, 67
   offset: 0, 0
   index: -1
+stories_oldmusic_neon_stories_oldmusic_neon_64_b_4_0.png
+  rotate: false
+  xy: 425, 214
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 stories_oldmusic_neon_stories_oldmusic_neon_64_b_4_1.png
   rotate: false
   xy: 70, 2
   size: 66, 67
   orig: 66, 67
+  offset: 0, 0
+  index: -1
+stories_oldmusic_neon_stories_oldmusic_neon_64_c_2_0.png
+  rotate: false
+  xy: 296, 191
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 stories_oldmusic_neon_stories_oldmusic_neon_64_c_2_1.png
@@ -95,6 +116,13 @@ stories_oldmusic_neon_stories_oldmusic_neon_64_c_2_9.png
   orig: 35, 9
   offset: 0, 0
   index: -1
+stories_oldmusic_neon_stories_oldmusic_neon_64_c_4_0.png
+  rotate: false
+  xy: 138, 68
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 stories_oldmusic_neon_stories_oldmusic_neon_64_c_4_1.png
   rotate: false
   xy: 425, 217
@@ -158,6 +186,13 @@ stories_oldmusic_neon_stories_oldmusic_neon_64_c_4_9.png
   orig: 35, 9
   offset: 0, 0
   index: -1
+stories_oldmusic_neon_stories_oldmusic_neon_64_d_2_0.png
+  rotate: false
+  xy: 419, 208
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 stories_oldmusic_neon_stories_oldmusic_neon_64_d_2_1.png
   rotate: false
   xy: 150, 102
@@ -165,11 +200,25 @@ stories_oldmusic_neon_stories_oldmusic_neon_64_d_2_1.png
   orig: 74, 75
   offset: 0, 0
   index: -1
+stories_oldmusic_neon_stories_oldmusic_neon_64_d_4_0.png
+  rotate: false
+  xy: 222, 99
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 stories_oldmusic_neon_stories_oldmusic_neon_64_d_4_1.png
   rotate: false
   xy: 150, 179
   size: 74, 75
   orig: 74, 75
+  offset: 0, 0
+  index: -1
+stories_oldmusic_neon_stories_oldmusic_neon_64_e_2_0.png
+  rotate: false
+  xy: 382, 197
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 stories_oldmusic_neon_stories_oldmusic_neon_64_e_2_1.png
@@ -233,6 +282,13 @@ stories_oldmusic_neon_stories_oldmusic_neon_64_e_2_9.png
   xy: 296, 194
   size: 41, 15
   orig: 41, 15
+  offset: 0, 0
+  index: -1
+stories_oldmusic_neon_stories_oldmusic_neon_64_e_4_0.png
+  rotate: false
+  xy: 428, 214
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 stories_oldmusic_neon_stories_oldmusic_neon_64_e_4_1.png

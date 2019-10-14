@@ -6,35 +6,42 @@ filter: Nearest,Nearest
 repeat: none
 uni_rubik_uni_rubik_64_a_0_0.png
   rotate: false
-  xy: 344, 22
+  xy: 420, 22
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 uni_rubik_uni_rubik_64_a_0_1.png
   rotate: false
-  xy: 306, 22
+  xy: 382, 22
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 uni_rubik_uni_rubik_64_a_0_10.png
   rotate: false
-  xy: 230, 22
+  xy: 268, 22
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 uni_rubik_uni_rubik_64_a_0_11.png
   rotate: false
-  xy: 192, 22
+  xy: 230, 22
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+uni_rubik_uni_rubik_64_a_0_2.png
+  rotate: false
+  xy: 306, 22
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 uni_rubik_uni_rubik_64_a_0_3.png
   rotate: false
-  xy: 268, 22
+  xy: 344, 22
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
@@ -48,28 +55,35 @@ uni_rubik_uni_rubik_64_a_0_4.png
   index: -1
 uni_rubik_uni_rubik_64_a_0_5.png
   rotate: false
-  xy: 40, 22
+  xy: 78, 22
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 uni_rubik_uni_rubik_64_a_0_6.png
   rotate: false
-  xy: 78, 22
+  xy: 116, 22
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 uni_rubik_uni_rubik_64_a_0_7.png
   rotate: false
-  xy: 116, 22
+  xy: 154, 22
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+uni_rubik_uni_rubik_64_a_0_8.png
+  rotate: false
+  xy: 40, 22
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 uni_rubik_uni_rubik_64_a_0_9.png
   rotate: false
-  xy: 154, 22
+  xy: 192, 22
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
@@ -79,5 +93,12 @@ uni_rubik_uni_rubik_64_sd_0_0.png
   xy: 2, 2
   size: 36, 18
   orig: 36, 18
+  offset: 0, 0
+  index: -1
+uni_rubik_uni_rubik_icon_a.png
+  rotate: false
+  xy: 458, 41
+  size: 20, 21
+  orig: 20, 21
   offset: 0, 0
   index: -1

@@ -6,210 +6,238 @@ filter: Nearest,Nearest
 repeat: none
 SF_reactor_SF_reactor_64_a_0_0.png
   rotate: false
-  xy: 68, 139
+  xy: 68, 144
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
+SF_reactor_SF_reactor_64_a_0_99.png
+  rotate: false
+  xy: 70, 55
+  size: 26, 3
+  orig: 26, 3
+  offset: 0, 0
+  index: -1
 SF_reactor_SF_reactor_64_b_0_0.png
   rotate: false
-  xy: 168, 92
+  xy: 168, 97
   size: 48, 25
   orig: 48, 25
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_b_0_1.png
   rotate: false
-  xy: 36, 9
+  xy: 36, 14
   size: 48, 25
   orig: 48, 25
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_b_0_2.png
   rotate: false
-  xy: 168, 119
+  xy: 168, 124
   size: 48, 25
   orig: 48, 25
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_b_0_3.png
   rotate: false
-  xy: 102, 112
+  xy: 102, 117
   size: 48, 25
   orig: 48, 25
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_b_0_4.png
   rotate: false
-  xy: 102, 85
+  xy: 102, 90
   size: 48, 25
   orig: 48, 25
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_b_0_5.png
   rotate: false
-  xy: 170, 65
+  xy: 170, 70
   size: 48, 25
   orig: 48, 25
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_b_0_6.png
   rotate: false
-  xy: 170, 38
+  xy: 170, 43
   size: 48, 25
   orig: 48, 25
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_b_0_7.png
   rotate: false
-  xy: 70, 55
+  xy: 70, 60
   size: 48, 25
   orig: 48, 25
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_b_0_8.png
   rotate: false
-  xy: 120, 58
+  xy: 120, 63
   size: 48, 25
   orig: 48, 25
   offset: 0, 0
   index: -1
+SF_reactor_SF_reactor_64_b_0_99.png
+  rotate: false
+  xy: 440, 197
+  size: 26, 3
+  orig: 26, 3
+  offset: 0, 0
+  index: -1
 SF_reactor_SF_reactor_64_c_0_0.png
   rotate: false
-  xy: 2, 79
+  xy: 2, 84
   size: 64, 168
   orig: 64, 168
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_c_0_99.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 7
   size: 26, 3
   orig: 26, 3
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_0.png
   rotate: false
-  xy: 134, 139
+  xy: 134, 144
   size: 32, 37
   orig: 32, 37
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_1.png
   rotate: false
-  xy: 36, 36
+  xy: 36, 41
   size: 32, 41
   orig: 32, 41
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_10.png
   rotate: false
-  xy: 202, 179
+  xy: 202, 184
   size: 32, 68
   orig: 32, 68
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_11.png
   rotate: false
-  xy: 270, 183
+  xy: 270, 188
   size: 32, 64
   orig: 32, 64
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_12.png
   rotate: false
-  xy: 372, 184
+  xy: 372, 189
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_2.png
   rotate: false
-  xy: 474, 203
+  xy: 474, 208
   size: 32, 44
   orig: 32, 44
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_3.png
   rotate: false
-  xy: 440, 197
+  xy: 440, 202
   size: 32, 50
   orig: 32, 50
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_4.png
   rotate: false
-  xy: 68, 82
+  xy: 68, 87
   size: 32, 55
   orig: 32, 55
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_5.png
   rotate: false
-  xy: 406, 186
+  xy: 406, 191
   size: 32, 61
   orig: 32, 61
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_6.png
   rotate: false
-  xy: 236, 182
+  xy: 236, 187
   size: 32, 65
   orig: 32, 65
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_7.png
   rotate: false
-  xy: 168, 179
+  xy: 168, 184
   size: 32, 68
   orig: 32, 68
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_8.png
   rotate: false
-  xy: 2, 7
+  xy: 2, 12
   size: 32, 70
   orig: 32, 70
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_9.png
   rotate: false
-  xy: 134, 178
+  xy: 134, 183
   size: 32, 69
   orig: 32, 69
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_d_0_99.png
   rotate: false
-  xy: 102, 82
+  xy: 102, 87
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_e_0_0.png
   rotate: false
-  xy: 304, 184
+  xy: 304, 189
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
+SF_reactor_SF_reactor_64_e_0_99.png
+  rotate: false
+  xy: 474, 203
+  size: 26, 3
+  orig: 26, 3
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_f_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 3
+  orig: 26, 3
+  offset: 0, 0
+  index: -1
 SF_reactor_SF_reactor_64_f_0_1.png
   rotate: false
-  xy: 338, 184
+  xy: 338, 189
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_64_sd_0_0.png
   rotate: false
-  xy: 168, 146
+  xy: 168, 151
   size: 50, 31
   orig: 50, 31
   offset: 0, 0
   index: -1
 SF_reactor_SF_reactor_icon_a.png
   rotate: false
-  xy: 152, 105
+  xy: 152, 110
   size: 14, 32
   orig: 14, 32
   offset: 0, 0

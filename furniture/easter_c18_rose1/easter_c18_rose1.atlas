@@ -6,224 +6,245 @@ filter: Nearest,Nearest
 repeat: none
 easter_c18_rose1_easter_c18_rose1_64_a_0_0.png
   rotate: false
-  xy: 2, 4
+  xy: 2, 5
   size: 56, 20
   orig: 56, 20
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_a_0_1.png
   rotate: false
-  xy: 116, 100
+  xy: 116, 101
   size: 57, 15
   orig: 57, 15
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_a_0_10.png
   rotate: false
-  xy: 2, 201
+  xy: 2, 202
   size: 65, 48
   orig: 65, 48
   offset: 0, 0
   index: -1
+easter_c18_rose1_easter_c18_rose1_64_a_0_11.png
+  rotate: false
+  xy: 113, 79
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
 easter_c18_rose1_easter_c18_rose1_64_a_0_2.png
   rotate: false
-  xy: 136, 152
+  xy: 136, 153
   size: 59, 23
   orig: 59, 23
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_a_0_3.png
   rotate: false
-  xy: 136, 177
+  xy: 136, 178
   size: 61, 29
   orig: 61, 29
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_a_0_4.png
   rotate: false
-  xy: 2, 72
+  xy: 2, 73
   size: 65, 41
   orig: 65, 41
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_a_0_5.png
   rotate: false
-  xy: 136, 208
+  xy: 136, 209
   size: 65, 41
   orig: 65, 41
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_a_0_6.png
   rotate: false
-  xy: 69, 165
+  xy: 69, 166
   size: 65, 41
   orig: 65, 41
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_a_0_7.png
   rotate: false
-  xy: 2, 115
+  xy: 2, 116
   size: 65, 41
   orig: 65, 41
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_a_0_8.png
   rotate: false
-  xy: 69, 208
+  xy: 69, 209
   size: 65, 41
   orig: 65, 41
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_a_0_9.png
   rotate: false
-  xy: 2, 158
+  xy: 2, 159
   size: 65, 41
   orig: 65, 41
   offset: 0, 0
   index: -1
+easter_c18_rose1_easter_c18_rose1_64_b_0_0.png
+  rotate: false
+  xy: 165, 44
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 easter_c18_rose1_easter_c18_rose1_64_b_0_1.png
   rotate: false
-  xy: 175, 107
+  xy: 203, 127
   size: 25, 8
   orig: 25, 8
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_b_0_10.png
   rotate: false
-  xy: 168, 117
+  xy: 168, 118
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_b_0_11.png
   rotate: false
-  xy: 113, 111
+  xy: 113, 112
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_b_0_2.png
   rotate: false
-  xy: 153, 24
+  xy: 203, 137
   size: 27, 16
   orig: 27, 16
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_b_0_3.png
   rotate: false
-  xy: 153, 42
+  xy: 165, 2
   size: 29, 21
   orig: 29, 21
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_b_0_4.png
   rotate: false
-  xy: 118, 33
+  xy: 168, 25
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_b_0_5.png
   rotate: false
-  xy: 203, 84
+  xy: 130, 12
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_b_0_6.png
   rotate: false
-  xy: 194, 49
+  xy: 171, 60
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_b_0_7.png
   rotate: false
-  xy: 159, 65
+  xy: 60, 3
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_b_0_8.png
   rotate: false
-  xy: 203, 119
+  xy: 95, 7
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_b_0_9.png
   rotate: false
-  xy: 60, 2
+  xy: 87, 42
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
+easter_c18_rose1_easter_c18_rose1_64_c_0_0.png
+  rotate: false
+  xy: 168, 76
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 easter_c18_rose1_easter_c18_rose1_64_c_0_1.png
   rotate: false
-  xy: 87, 45
+  xy: 175, 95
   size: 29, 21
   orig: 29, 21
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_c_0_2.png
   rotate: false
-  xy: 48, 37
+  xy: 48, 38
   size: 37, 33
   orig: 37, 33
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_c_0_3.png
   rotate: false
-  xy: 69, 76
+  xy: 69, 77
   size: 42, 36
   orig: 42, 36
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_c_0_4.png
   rotate: false
-  xy: 2, 26
+  xy: 2, 27
   size: 44, 44
   orig: 44, 44
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_c_0_5.png
   rotate: false
-  xy: 69, 114
+  xy: 69, 115
   size: 45, 49
   orig: 45, 49
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_c_0_6.png
   rotate: false
-  xy: 116, 117
+  xy: 116, 118
   size: 50, 33
   orig: 50, 33
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_c_0_7.png
   rotate: false
-  xy: 203, 218
+  xy: 203, 219
   size: 51, 31
   orig: 51, 31
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_c_0_8.png
   rotate: false
-  xy: 113, 68
+  xy: 122, 47
   size: 44, 30
   orig: 44, 30
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_64_c_0_9.png
   rotate: false
-  xy: 203, 186
+  xy: 203, 187
   size: 44, 30
   orig: 44, 30
   offset: 0, 0
   index: -1
 easter_c18_rose1_easter_c18_rose1_icon_a.png
   rotate: false
-  xy: 199, 154
+  xy: 199, 155
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

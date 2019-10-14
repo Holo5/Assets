@@ -6,33 +6,40 @@ filter: Nearest,Nearest
 repeat: none
 room_cof15_chair_room_cof15_chair_64_a_0_0.png
   rotate: false
-  xy: 30, 81
+  xy: 30, 101
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 room_cof15_chair_room_cof15_chair_64_a_4_0.png
   rotate: false
-  xy: 2, 114
+  xy: 2, 134
   size: 41, 65
   orig: 41, 65
   offset: 0, 0
   index: -1
 room_cof15_chair_room_cof15_chair_64_b_0_0.png
   rotate: false
-  xy: 2, 52
+  xy: 2, 72
   size: 26, 60
   orig: 26, 60
   offset: 0, 0
   index: -1
 room_cof15_chair_room_cof15_chair_64_b_4_0.png
   rotate: false
-  xy: 45, 178
+  xy: 45, 198
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 room_cof15_chair_room_cof15_chair_64_sd_0_0.png
+  rotate: false
+  xy: 2, 22
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+room_cof15_chair_room_cof15_chair_64_sd_4_0.png
   rotate: false
   xy: 2, 2
   size: 36, 18
@@ -41,7 +48,7 @@ room_cof15_chair_room_cof15_chair_64_sd_0_0.png
   index: -1
 room_cof15_chair_room_cof15_chair_icon_a.png
   rotate: false
-  xy: 2, 22
+  xy: 2, 42
   size: 22, 28
   orig: 22, 28
   offset: 0, 0

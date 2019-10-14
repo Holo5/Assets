@@ -6,35 +6,56 @@ filter: Nearest,Nearest
 repeat: none
 hween10_pond_hween10_pond_64_a_2_0.png
   rotate: false
-  xy: 1242, 62
+  xy: 1770, 62
   size: 126, 64
   orig: 126, 64
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_a_6_0.png
   rotate: false
-  xy: 1114, 62
+  xy: 1642, 62
   size: 126, 64
   orig: 126, 64
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_b_2_0.png
   rotate: false
-  xy: 982, 65
+  xy: 1510, 65
+  size: 130, 61
+  orig: 130, 61
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_b_2_1.png
+  rotate: false
+  xy: 1378, 65
   size: 130, 61
   orig: 130, 61
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_b_2_10.png
   rotate: false
-  xy: 718, 64
+  xy: 1114, 64
   size: 130, 62
   orig: 130, 62
   offset: 0, 0
   index: -1
+hween10_pond_hween10_pond_64_b_2_11.png
+  rotate: false
+  xy: 454, 63
+  size: 130, 63
+  orig: 130, 63
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_b_2_12.png
+  rotate: false
+  xy: 718, 63
+  size: 130, 63
+  orig: 130, 63
+  offset: 0, 0
+  index: -1
 hween10_pond_hween10_pond_64_b_2_2.png
   rotate: false
-  xy: 586, 64
+  xy: 982, 64
   size: 130, 62
   orig: 130, 62
   offset: 0, 0
@@ -48,6 +69,13 @@ hween10_pond_hween10_pond_64_b_2_3.png
   index: -1
 hween10_pond_hween10_pond_64_b_2_4.png
   rotate: false
+  xy: 586, 63
+  size: 130, 63
+  orig: 130, 63
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_b_2_5.png
+  rotate: false
   xy: 322, 63
   size: 130, 63
   orig: 130, 63
@@ -55,35 +83,49 @@ hween10_pond_hween10_pond_64_b_2_4.png
   index: -1
 hween10_pond_hween10_pond_64_b_2_6.png
   rotate: false
-  xy: 454, 64
+  xy: 850, 64
   size: 130, 62
   orig: 130, 62
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_b_2_7.png
   rotate: false
-  xy: 850, 65
+  xy: 1246, 65
   size: 130, 61
   orig: 130, 61
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_b_2_8.png
   rotate: false
-  xy: 850, 2
+  xy: 1378, 2
   size: 130, 61
   orig: 130, 61
   offset: 0, 0
   index: -1
+hween10_pond_hween10_pond_64_b_2_9.png
+  rotate: false
+  xy: 1246, 2
+  size: 130, 61
+  orig: 130, 61
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_c_2_0.png
+  rotate: false
+  xy: 1510, 48
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween10_pond_hween10_pond_64_c_2_1.png
   rotate: false
-  xy: 982, 49
+  xy: 1923, 125
   size: 3, 1
   orig: 3, 1
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_c_2_10.png
   rotate: false
-  xy: 190, 49
+  xy: 46, 15
   size: 5, 1
   orig: 5, 1
   offset: 0, 0
@@ -97,35 +139,42 @@ hween10_pond_hween10_pond_64_c_2_11.png
   index: -1
 hween10_pond_hween10_pond_64_c_2_12.png
   rotate: false
-  xy: 205, 58
+  xy: 1525, 60
   size: 11, 3
   orig: 11, 3
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_c_2_13.png
   rotate: false
-  xy: 1370, 122
+  xy: 35, 18
   size: 13, 4
   orig: 13, 4
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_c_2_14.png
   rotate: false
-  xy: 1370, 115
+  xy: 35, 11
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
+hween10_pond_hween10_pond_64_c_2_15.png
+  rotate: false
+  xy: 1909, 116
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween10_pond_hween10_pond_64_c_2_2.png
   rotate: false
-  xy: 48, 21
+  xy: 35, 8
   size: 5, 1
   orig: 5, 1
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_c_2_20.png
   rotate: false
-  xy: 1370, 112
+  xy: 1916, 119
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -139,79 +188,191 @@ hween10_pond_hween10_pond_64_c_2_3.png
   index: -1
 hween10_pond_hween10_pond_64_c_2_4.png
   rotate: false
-  xy: 190, 52
+  xy: 1510, 54
   size: 11, 3
   orig: 11, 3
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_c_2_5.png
   rotate: false
-  xy: 982, 59
+  xy: 1898, 122
   size: 13, 4
   orig: 13, 4
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_c_2_6.png
   rotate: false
-  xy: 982, 52
+  xy: 1898, 115
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
+hween10_pond_hween10_pond_64_c_2_7.png
+  rotate: false
+  xy: 1898, 109
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_c_2_8.png
+  rotate: false
+  xy: 190, 45
+  size: 3, 1
+  orig: 3, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_c_2_9.png
+  rotate: false
+  xy: 60, 21
+  size: 3, 1
+  orig: 3, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_0.png
+  rotate: false
+  xy: 218, 57
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_1.png
+  rotate: false
+  xy: 201, 48
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
 hween10_pond_hween10_pond_64_d_2_10.png
   rotate: false
-  xy: 218, 60
+  xy: 214, 54
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_d_2_11.png
   rotate: false
-  xy: 993, 56
+  xy: 203, 51
   size: 2, 1
   orig: 2, 1
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_d_2_12.png
   rotate: false
-  xy: 35, 15
+  xy: 1909, 119
   size: 5, 1
   orig: 5, 1
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_d_2_13.png
   rotate: false
-  xy: 24, 3
+  xy: 203, 54
   size: 9, 1
   orig: 9, 1
   offset: 0, 0
   index: -1
-hween10_pond_hween10_pond_64_d_2_3.png
+hween10_pond_hween10_pond_64_d_2_14.png
   rotate: false
-  xy: 1385, 125
-  size: 9, 1
-  orig: 9, 1
-  offset: 0, 0
-  index: -1
-hween10_pond_hween10_pond_64_d_2_4.png
-  rotate: false
-  xy: 35, 18
+  xy: 190, 51
   size: 11, 4
   orig: 11, 4
   offset: 0, 0
   index: -1
-hween10_pond_hween10_pond_64_d_2_5.png
+hween10_pond_hween10_pond_64_d_2_15.png
   rotate: false
   xy: 190, 57
   size: 13, 4
   orig: 13, 4
   offset: 0, 0
   index: -1
-hween10_pond_hween10_pond_64_d_2_6.png
+hween10_pond_hween10_pond_64_d_2_16.png
   rotate: false
-  xy: 997, 59
+  xy: 1913, 122
   size: 8, 4
   orig: 8, 4
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_17.png
+  rotate: false
+  xy: 1510, 51
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_18.png
+  rotate: false
+  xy: 190, 48
+  size: 9, 1
+  orig: 9, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_19.png
+  rotate: false
+  xy: 1519, 51
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_2.png
+  rotate: false
+  xy: 1538, 62
+  size: 5, 1
+  orig: 5, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_20.png
+  rotate: false
+  xy: 1545, 62
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_3.png
+  rotate: false
+  xy: 218, 60
+  size: 9, 1
+  orig: 9, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_4.png
+  rotate: false
+  xy: 205, 57
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_5.png
+  rotate: false
+  xy: 1510, 59
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_6.png
+  rotate: false
+  xy: 50, 18
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_7.png
+  rotate: false
+  xy: 1898, 112
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_8.png
+  rotate: false
+  xy: 24, 3
+  size: 9, 1
+  orig: 9, 1
+  offset: 0, 0
+  index: -1
+hween10_pond_hween10_pond_64_d_2_9.png
+  rotate: false
+  xy: 229, 60
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween10_pond_hween10_pond_64_e_2_0.png

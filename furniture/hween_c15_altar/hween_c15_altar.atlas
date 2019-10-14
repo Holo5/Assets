@@ -25,6 +25,13 @@ hween_c15_altar_hween_c15_altar_64_a_0_2.png
   orig: 42, 35
   offset: 0, 0
   index: -1
+hween_c15_altar_hween_c15_altar_64_b_0_0.png
+  rotate: false
+  xy: 342, 104
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c15_altar_hween_c15_altar_64_b_0_1.png
   rotate: false
   xy: 291, 45
@@ -100,6 +107,13 @@ hween_c15_altar_hween_c15_altar_64_b_0_9.png
   xy: 89, 105
   size: 82, 149
   orig: 82, 149
+  offset: 0, 0
+  index: -1
+hween_c15_altar_hween_c15_altar_64_c_0_0.png
+  rotate: false
+  xy: 345, 104
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_altar_hween_c15_altar_64_c_0_1.png

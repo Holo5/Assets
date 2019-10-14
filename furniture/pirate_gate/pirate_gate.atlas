@@ -102,11 +102,25 @@ pirate_gate_pirate_gate_64_e_0_0.png
   orig: 37, 26
   offset: 0, 0
   index: -1
+pirate_gate_pirate_gate_64_e_0_1.png
+  rotate: false
+  xy: 560, 20
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
 pirate_gate_pirate_gate_64_e_2_0.png
   rotate: false
   xy: 187, 32
   size: 37, 26
   orig: 37, 26
+  offset: 0, 0
+  index: -1
+pirate_gate_pirate_gate_64_e_2_1.png
+  rotate: false
+  xy: 608, 20
+  size: 22, 38
+  orig: 22, 38
   offset: 0, 0
   index: -1
 pirate_gate_pirate_gate_64_e_4_0.png
@@ -132,14 +146,14 @@ pirate_gate_pirate_gate_64_e_6_0.png
   index: -1
 pirate_gate_pirate_gate_64_e_6_1.png
   rotate: false
-  xy: 560, 20
+  xy: 584, 20
   size: 22, 38
   orig: 22, 38
   offset: 0, 0
   index: -1
 pirate_gate_pirate_gate_icon_a.png
   rotate: false
-  xy: 584, 28
+  xy: 632, 28
   size: 26, 30
   orig: 26, 30
   offset: 0, 0

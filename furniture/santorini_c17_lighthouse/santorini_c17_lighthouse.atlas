@@ -69,133 +69,154 @@ santorini_c17_lighthouse_santorini_c17_lighthouse_64_i_0_1.png
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_1.png
   rotate: false
-  xy: 618, 396
+  xy: 921, 428
   size: 7, 63
   orig: 7, 63
   offset: 0, 0
   index: -1
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_10.png
+  rotate: false
+  xy: 864, 429
+  size: 13, 62
+  orig: 13, 62
+  offset: 0, 0
+  index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_11.png
   rotate: false
-  xy: 279, 28
+  xy: 879, 429
   size: 13, 62
   orig: 13, 62
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_12.png
   rotate: false
-  xy: 264, 28
+  xy: 849, 429
   size: 13, 62
   orig: 13, 62
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_13.png
   rotate: false
-  xy: 617, 59
+  xy: 756, 424
   size: 29, 67
   orig: 29, 67
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_14.png
   rotate: false
-  xy: 202, 8
+  xy: 787, 424
   size: 29, 67
   orig: 29, 67
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_15.png
   rotate: false
-  xy: 233, 8
+  xy: 818, 424
   size: 29, 67
   orig: 29, 67
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_16.png
   rotate: false
-  xy: 627, 331
+  xy: 948, 428
   size: 7, 63
   orig: 7, 63
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_17.png
   rotate: false
-  xy: 636, 428
+  xy: 966, 428
+  size: 7, 63
+  orig: 7, 63
+  offset: 0, 0
+  index: -1
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_18.png
+  rotate: false
+  xy: 957, 428
   size: 7, 63
   orig: 7, 63
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_19.png
   rotate: false
-  xy: 645, 428
+  xy: 975, 428
   size: 7, 63
   orig: 7, 63
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_2.png
   rotate: false
-  xy: 618, 331
+  xy: 930, 428
   size: 7, 63
   orig: 7, 63
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_20.png
   rotate: false
-  xy: 636, 363
+  xy: 984, 428
   size: 7, 63
   orig: 7, 63
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_21.png
   rotate: false
-  xy: 654, 428
+  xy: 993, 428
   size: 7, 63
   orig: 7, 63
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_3.png
   rotate: false
-  xy: 648, 63
+  xy: 894, 428
   size: 7, 63
   orig: 7, 63
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_4.png
   rotate: false
-  xy: 294, 27
+  xy: 903, 428
   size: 7, 63
   orig: 7, 63
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_5.png
   rotate: false
-  xy: 627, 396
+  xy: 939, 428
+  size: 7, 63
+  orig: 7, 63
+  offset: 0, 0
+  index: -1
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_6.png
+  rotate: false
+  xy: 912, 428
   size: 7, 63
   orig: 7, 63
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_7.png
   rotate: false
-  xy: 585, 59
+  xy: 724, 424
   size: 30, 67
   orig: 30, 67
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_8.png
   rotate: false
-  xy: 617, 128
+  xy: 692, 424
   size: 30, 67
   orig: 30, 67
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_j_0_9.png
   rotate: false
-  xy: 585, 128
+  xy: 660, 424
   size: 30, 67
   orig: 30, 67
   offset: 0, 0
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_1.png
   rotate: false
-  xy: 256, 92
+  xy: 456, 62
   size: 52, 119
   orig: 52, 119
   offset: 0, 0
@@ -209,7 +230,14 @@ santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_10.png
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_11.png
   rotate: false
-  xy: 564, 76
+  xy: 639, 372
+  size: 19, 119
+  orig: 19, 119
+  offset: 0, 0
+  index: -1
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_12.png
+  rotate: false
+  xy: 618, 372
   size: 19, 119
   orig: 19, 119
   offset: 0, 0
@@ -235,44 +263,51 @@ santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_15.png
   orig: 76, 119
   offset: 0, 0
   index: -1
-santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_17.png
-  rotate: false
-  xy: 533, 197
-  size: 52, 119
-  orig: 52, 119
-  offset: 0, 0
-  index: -1
-santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_18.png
-  rotate: false
-  xy: 510, 62
-  size: 52, 119
-  orig: 52, 119
-  offset: 0, 0
-  index: -1
-santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_19.png
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_16.png
   rotate: false
   xy: 564, 318
   size: 52, 119
   orig: 52, 119
   offset: 0, 0
   index: -1
-santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_2.png
-  rotate: false
-  xy: 456, 62
-  size: 52, 119
-  orig: 52, 119
-  offset: 0, 0
-  index: -1
-santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_20.png
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_17.png
   rotate: false
   xy: 587, 197
   size: 52, 119
   orig: 52, 119
   offset: 0, 0
   index: -1
-santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_3.png
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_18.png
+  rotate: false
+  xy: 533, 197
+  size: 52, 119
+  orig: 52, 119
+  offset: 0, 0
+  index: -1
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_19.png
+  rotate: false
+  xy: 564, 76
+  size: 52, 119
+  orig: 52, 119
+  offset: 0, 0
+  index: -1
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_2.png
   rotate: false
   xy: 479, 183
+  size: 52, 119
+  orig: 52, 119
+  offset: 0, 0
+  index: -1
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_20.png
+  rotate: false
+  xy: 618, 76
+  size: 52, 119
+  orig: 52, 119
+  offset: 0, 0
+  index: -1
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_3.png
+  rotate: false
+  xy: 510, 62
   size: 52, 119
   orig: 52, 119
   offset: 0, 0
@@ -287,6 +322,13 @@ santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_4.png
 santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_5.png
   rotate: false
   xy: 202, 77
+  size: 52, 119
+  orig: 52, 119
+  offset: 0, 0
+  index: -1
+santorini_c17_lighthouse_santorini_c17_lighthouse_64_k_0_6.png
+  rotate: false
+  xy: 256, 92
   size: 52, 119
   orig: 52, 119
   offset: 0, 0
@@ -328,7 +370,7 @@ santorini_c17_lighthouse_santorini_c17_lighthouse_64_sd_0_0.png
   index: -1
 santorini_c17_lighthouse_santorini_c17_lighthouse_icon_a.png
   rotate: false
-  xy: 615, 461
+  xy: 202, 45
   size: 17, 30
   orig: 17, 30
   offset: 0, 0

@@ -4,25 +4,39 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-coralking_c18_angelfish_coralking_c18_angelfish_64_a_0_1.png
+coralking_c18_angelfish_coralking_c18_angelfish_64_a_0_0.png
   rotate: false
   xy: 156, 36
   size: 29, 26
   orig: 29, 26
   offset: 0, 0
   index: -1
+coralking_c18_angelfish_coralking_c18_angelfish_64_a_0_1.png
+  rotate: false
+  xy: 187, 36
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
 coralking_c18_angelfish_coralking_c18_angelfish_64_a_0_10.png
   rotate: false
-  xy: 218, 38
+  xy: 126, 10
   size: 30, 24
   orig: 30, 24
   offset: 0, 0
   index: -1
 coralking_c18_angelfish_coralking_c18_angelfish_64_a_0_11.png
   rotate: false
-  xy: 64, 8
+  xy: 158, 10
   size: 30, 24
   orig: 30, 24
+  offset: 0, 0
+  index: -1
+coralking_c18_angelfish_coralking_c18_angelfish_64_a_0_2.png
+  rotate: false
+  xy: 218, 36
+  size: 29, 26
+  orig: 29, 26
   offset: 0, 0
   index: -1
 coralking_c18_angelfish_coralking_c18_angelfish_64_a_0_3.png
@@ -48,7 +62,14 @@ coralking_c18_angelfish_coralking_c18_angelfish_64_a_0_5.png
   index: -1
 coralking_c18_angelfish_coralking_c18_angelfish_64_a_0_6.png
   rotate: false
-  xy: 187, 36
+  xy: 95, 8
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+coralking_c18_angelfish_coralking_c18_angelfish_64_a_0_7.png
+  rotate: false
+  xy: 64, 6
   size: 29, 26
   orig: 29, 26
   offset: 0, 0
@@ -69,7 +90,7 @@ coralking_c18_angelfish_coralking_c18_angelfish_64_a_0_9.png
   index: -1
 coralking_c18_angelfish_coralking_c18_angelfish_64_sd_0_0.png
   rotate: false
-  xy: 96, 20
+  xy: 190, 20
   size: 29, 14
   orig: 29, 14
   offset: 0, 0

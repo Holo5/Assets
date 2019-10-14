@@ -46,9 +46,23 @@ xmas_ltd17_ted_xmas_ltd17_ted_64_b_4_1.png
   orig: 89, 108
   offset: 0, 0
   index: -1
+xmas_ltd17_ted_xmas_ltd17_ted_64_c_4_0.png
+  rotate: false
+  xy: 210, 2
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+xmas_ltd17_ted_xmas_ltd17_ted_64_c_4_1.png
+  rotate: false
+  xy: 788, 25
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_c_4_2.png
   rotate: false
-  xy: 210, 4
+  xy: 375, 15
   size: 24, 50
   orig: 24, 50
   offset: 0, 0
@@ -60,74 +74,109 @@ xmas_ltd17_ted_xmas_ltd17_ted_64_c_4_3.png
   orig: 24, 52
   offset: 0, 0
   index: -1
+xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_0.png
+  rotate: false
+  xy: 530, 23
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_1.png
+  rotate: false
+  xy: 444, 20
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_10.png
   rotate: false
-  xy: 968, 79
+  xy: 401, 20
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_11.png
+  rotate: false
+  xy: 236, 12
   size: 41, 47
   orig: 41, 47
   offset: 0, 0
   index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_12.png
   rotate: false
-  xy: 418, 20
+  xy: 659, 27
   size: 41, 47
   orig: 41, 47
   offset: 0, 0
   index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_13.png
   rotate: false
-  xy: 375, 18
+  xy: 616, 24
   size: 41, 47
   orig: 41, 47
   offset: 0, 0
   index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_14.png
   rotate: false
-  xy: 504, 20
+  xy: 745, 28
   size: 41, 47
   orig: 41, 47
   offset: 0, 0
   index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_15.png
   rotate: false
-  xy: 461, 20
+  xy: 702, 27
   size: 41, 47
   orig: 41, 47
   offset: 0, 0
   index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_16.png
   rotate: false
-  xy: 332, 18
+  xy: 573, 24
   size: 41, 47
   orig: 41, 47
   offset: 0, 0
   index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_17.png
   rotate: false
-  xy: 881, 80
+  xy: 924, 80
   size: 42, 46
   orig: 42, 46
   offset: 0, 0
   index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_18.png
   rotate: false
-  xy: 788, 82
+  xy: 831, 82
   size: 46, 44
   orig: 46, 44
   offset: 0, 0
   index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_19.png
   rotate: false
-  xy: 836, 80
+  xy: 879, 80
   size: 43, 46
   orig: 43, 46
   offset: 0, 0
   index: -1
-xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_20.png
+xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_2.png
   rotate: false
-  xy: 925, 79
+  xy: 332, 18
   size: 41, 47
   orig: 41, 47
+  offset: 0, 0
+  index: -1
+xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_20.png
+  rotate: false
+  xy: 968, 79
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_3.png
+  rotate: false
+  xy: 788, 77
+  size: 41, 49
+  orig: 41, 49
   offset: 0, 0
   index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_4.png
@@ -167,7 +216,7 @@ xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_8.png
   index: -1
 xmas_ltd17_ted_xmas_ltd17_ted_64_d_4_9.png
   rotate: false
-  xy: 236, 12
+  xy: 487, 20
   size: 41, 47
   orig: 41, 47
   offset: 0, 0

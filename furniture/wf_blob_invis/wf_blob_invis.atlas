@@ -20,7 +20,7 @@ wf_blob_invis_wf_blob_invis_64_b_2_0.png
   index: -1
 wf_blob_invis_wf_blob_invis_64_b_2_1.png
   rotate: false
-  xy: 126, 46
+  xy: 146, 46
   size: 18, 16
   orig: 18, 16
   offset: 0, 0
@@ -41,7 +41,7 @@ wf_blob_invis_wf_blob_invis_64_b_2_11.png
   index: -1
 wf_blob_invis_wf_blob_invis_64_b_2_12.png
   rotate: false
-  xy: 186, 50
+  xy: 206, 50
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
@@ -55,14 +55,14 @@ wf_blob_invis_wf_blob_invis_64_b_2_13.png
   index: -1
 wf_blob_invis_wf_blob_invis_64_b_2_2.png
   rotate: false
-  xy: 146, 47
+  xy: 166, 47
   size: 18, 15
   orig: 18, 15
   offset: 0, 0
   index: -1
 wf_blob_invis_wf_blob_invis_64_b_2_3.png
   rotate: false
-  xy: 166, 48
+  xy: 186, 48
   size: 18, 14
   orig: 18, 14
   offset: 0, 0
@@ -121,5 +121,12 @@ wf_blob_invis_wf_blob_invis_64_sd_2_0.png
   xy: 107, 31
   size: 14, 10
   orig: 14, 10
+  offset: 0, 0
+  index: -1
+wf_blob_invis_wf_blob_invis_icon_a.png
+  rotate: false
+  xy: 126, 45
+  size: 18, 17
+  orig: 18, 17
   offset: 0, 0
   index: -1

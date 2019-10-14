@@ -46,11 +46,25 @@ SF_table_SF_table_64_c_0_1.png
   orig: 64, 55
   offset: 0, 0
   index: -1
+SF_table_SF_table_64_d_0_0.png
+  rotate: false
+  xy: 131, 2
+  size: 12, 3
+  orig: 12, 3
+  offset: 0, 0
+  index: -1
 SF_table_SF_table_64_d_0_1.png
   rotate: false
   xy: 404, 87
   size: 55, 39
   orig: 55, 39
+  offset: 0, 0
+  index: -1
+SF_table_SF_table_64_e_0_0.png
+  rotate: false
+  xy: 145, 2
+  size: 12, 3
+  orig: 12, 3
   offset: 0, 0
   index: -1
 SF_table_SF_table_64_e_0_1.png

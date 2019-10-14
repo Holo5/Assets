@@ -6,21 +6,35 @@ filter: Nearest,Nearest
 repeat: none
 hween11_disflo_hween11_disflo_64_a_0_0.png
   rotate: false
-  xy: 286, 58
+  xy: 428, 58
   size: 132, 68
   orig: 132, 68
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_b_0_0.png
   rotate: false
-  xy: 420, 62
+  xy: 562, 62
   size: 126, 64
   orig: 126, 64
   offset: 0, 0
   index: -1
-hween11_disflo_hween11_disflo_64_c_0_2.png
+hween11_disflo_hween11_disflo_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween11_disflo_hween11_disflo_64_c_0_1.png
   rotate: false
   xy: 144, 46
+  size: 140, 80
+  orig: 140, 80
+  offset: 0, 0
+  index: -1
+hween11_disflo_hween11_disflo_64_c_0_2.png
+  rotate: false
+  xy: 286, 46
   size: 140, 80
   orig: 140, 80
   offset: 0, 0
@@ -32,107 +46,135 @@ hween11_disflo_hween11_disflo_64_c_0_3.png
   orig: 140, 80
   offset: 0, 0
   index: -1
+hween11_disflo_hween11_disflo_64_d_0_0.png
+  rotate: false
+  xy: 122, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween11_disflo_hween11_disflo_64_d_0_1.png
   rotate: false
-  xy: 784, 58
+  xy: 926, 58
   size: 116, 68
   orig: 116, 68
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_d_0_2.png
   rotate: false
-  xy: 666, 58
+  xy: 808, 58
   size: 116, 68
   orig: 116, 68
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_d_0_3.png
   rotate: false
-  xy: 548, 58
+  xy: 690, 58
   size: 116, 68
   orig: 116, 68
   offset: 0, 0
   index: -1
+hween11_disflo_hween11_disflo_64_e_0_0.png
+  rotate: false
+  xy: 1112, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween11_disflo_hween11_disflo_64_e_0_1.png
   rotate: false
-  xy: 1138, 58
+  xy: 1280, 58
   size: 116, 68
   orig: 116, 68
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_e_0_2.png
   rotate: false
-  xy: 902, 58
+  xy: 1044, 58
   size: 116, 68
   orig: 116, 68
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_e_0_3.png
   rotate: false
-  xy: 1020, 58
+  xy: 1162, 58
   size: 116, 68
   orig: 116, 68
   offset: 0, 0
   index: -1
+hween11_disflo_hween11_disflo_64_f_0_0.png
+  rotate: false
+  xy: 1398, 87
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween11_disflo_hween11_disflo_64_f_0_1.png
   rotate: false
-  xy: 568, 2
+  xy: 710, 2
   size: 92, 54
   orig: 92, 54
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_f_0_2.png
   rotate: false
-  xy: 662, 2
+  xy: 804, 2
   size: 92, 54
   orig: 92, 54
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_f_0_3.png
   rotate: false
-  xy: 756, 2
+  xy: 898, 2
   size: 92, 54
   orig: 92, 54
   offset: 0, 0
   index: -1
+hween11_disflo_hween11_disflo_64_g_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween11_disflo_hween11_disflo_64_g_0_1.png
   rotate: false
-  xy: 286, 2
+  xy: 428, 2
   size: 92, 54
   orig: 92, 54
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_g_0_2.png
   rotate: false
-  xy: 474, 2
+  xy: 616, 2
   size: 92, 54
   orig: 92, 54
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_g_0_3.png
   rotate: false
-  xy: 380, 2
+  xy: 522, 2
   size: 92, 54
   orig: 92, 54
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_h_0_0.png
   rotate: false
-  xy: 420, 59
+  xy: 562, 59
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_h_0_1.png
   rotate: false
-  xy: 850, 20
+  xy: 992, 20
   size: 58, 36
   orig: 58, 36
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_64_h_0_2.png
   rotate: false
-  xy: 1256, 90
+  xy: 1398, 90
   size: 58, 36
   orig: 58, 36
   offset: 0, 0
@@ -144,9 +186,16 @@ hween11_disflo_hween11_disflo_64_h_0_3.png
   orig: 58, 36
   offset: 0, 0
   index: -1
+hween11_disflo_hween11_disflo_64_i_0_0.png
+  rotate: false
+  xy: 1518, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween11_disflo_hween11_disflo_64_i_0_1.png
   rotate: false
-  xy: 910, 20
+  xy: 1052, 20
   size: 58, 36
   orig: 58, 36
   offset: 0, 0
@@ -160,14 +209,14 @@ hween11_disflo_hween11_disflo_64_i_0_2.png
   index: -1
 hween11_disflo_hween11_disflo_64_i_0_3.png
   rotate: false
-  xy: 1316, 90
+  xy: 1458, 90
   size: 58, 36
   orig: 58, 36
   offset: 0, 0
   index: -1
 hween11_disflo_hween11_disflo_icon_a.png
   rotate: false
-  xy: 850, 2
+  xy: 992, 2
   size: 29, 16
   orig: 29, 16
   offset: 0, 0

@@ -102,6 +102,13 @@ classic1_wall1_classic1_wall1_64_d_6_0.png
   orig: 32, 150
   offset: 0, 0
   index: -1
+classic1_wall1_classic1_wall1_64_e_0_0.png
+  rotate: false
+  xy: 846, 129
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 classic1_wall1_classic1_wall1_64_e_0_1.png
   rotate: false
   xy: 846, 132

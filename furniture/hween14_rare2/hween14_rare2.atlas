@@ -6,42 +6,49 @@ filter: Nearest,Nearest
 repeat: none
 hween14_rare2_hween14_rare2_64_a_4_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 19
+  size: 63, 105
+  orig: 63, 105
+  offset: 0, 0
+  index: -1
+hween14_rare2_hween14_rare2_64_a_4_1.png
+  rotate: false
+  xy: 67, 19
   size: 63, 105
   orig: 63, 105
   offset: 0, 0
   index: -1
 hween14_rare2_hween14_rare2_64_b_4_0.png
   rotate: false
-  xy: 128, 32
+  xy: 193, 49
   size: 59, 30
   orig: 59, 30
   offset: 0, 0
   index: -1
 hween14_rare2_hween14_rare2_64_b_4_1.png
   rotate: false
-  xy: 128, 64
+  xy: 193, 81
   size: 59, 43
   orig: 59, 43
   offset: 0, 0
   index: -1
 hween14_rare2_hween14_rare2_64_b_4_2.png
   rotate: false
-  xy: 67, 19
+  xy: 132, 36
   size: 59, 43
   orig: 59, 43
   offset: 0, 0
   index: -1
 hween14_rare2_hween14_rare2_64_b_4_3.png
   rotate: false
-  xy: 67, 64
+  xy: 132, 81
   size: 59, 43
   orig: 59, 43
   offset: 0, 0
   index: -1
 hween14_rare2_hween14_rare2_icon_a.png
   rotate: false
-  xy: 189, 75
+  xy: 132, 2
   size: 18, 32
   orig: 18, 32
   offset: 0, 0

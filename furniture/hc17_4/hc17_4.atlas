@@ -6,35 +6,42 @@ filter: Nearest,Nearest
 repeat: none
 hc17_4_hc17_4_64_a_2_0.png
   rotate: false
-  xy: 2, 152
+  xy: 2, 174
   size: 44, 79
   orig: 44, 79
   offset: 0, 0
   index: -1
 hc17_4_hc17_4_64_a_6_0.png
   rotate: false
-  xy: 2, 54
+  xy: 2, 76
   size: 39, 41
   orig: 39, 41
   offset: 0, 0
   index: -1
 hc17_4_hc17_4_64_b_2_0.png
   rotate: false
-  xy: 48, 184
+  xy: 48, 206
   size: 13, 47
   orig: 13, 47
   offset: 0, 0
   index: -1
 hc17_4_hc17_4_64_b_6_0.png
   rotate: false
-  xy: 2, 97
+  xy: 2, 119
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
-hc17_4_hc17_4_64_sd_6_0.png
+hc17_4_hc17_4_64_sd_2_0.png
   rotate: false
   xy: 2, 32
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+hc17_4_hc17_4_64_sd_6_0.png
+  rotate: false
+  xy: 2, 54
   size: 50, 20
   orig: 50, 20
   offset: 0, 0

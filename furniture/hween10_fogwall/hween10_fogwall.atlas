@@ -1,103 +1,124 @@
 
 hween10_fogwall.png
-size: 1024,256
+size: 512,512
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hween10_fogwall_hween10_fogwall_64_a_4_0.png
+  rotate: false
+  xy: 208, 2
+  size: 101, 163
+  orig: 101, 163
+  offset: 0, 0
+  index: -1
+hween10_fogwall_hween10_fogwall_64_a_4_1.png
+  rotate: false
+  xy: 311, 2
+  size: 101, 163
+  orig: 101, 163
+  offset: 0, 0
+  index: -1
 hween10_fogwall_hween10_fogwall_64_a_4_2.png
   rotate: false
-  xy: 2, 25
+  xy: 2, 2
+  size: 101, 163
+  orig: 101, 163
+  offset: 0, 0
+  index: -1
+hween10_fogwall_hween10_fogwall_64_a_4_3.png
+  rotate: false
+  xy: 105, 2
   size: 101, 163
   orig: 101, 163
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_b_4_0.png
   rotate: false
-  xy: 105, 48
+  xy: 2, 167
   size: 109, 140
   orig: 109, 140
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_b_4_1.png
   rotate: false
-  xy: 216, 48
+  xy: 113, 167
   size: 109, 140
   orig: 109, 140
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_b_4_2.png
   rotate: false
-  xy: 327, 48
+  xy: 224, 167
   size: 109, 140
   orig: 109, 140
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_b_4_3.png
   rotate: false
-  xy: 438, 48
+  xy: 335, 167
   size: 109, 140
   orig: 109, 140
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_c_4_0.png
   rotate: false
-  xy: 660, 2
+  xy: 133, 407
   size: 109, 88
   orig: 109, 88
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_c_4_1.png
   rotate: false
-  xy: 549, 2
+  xy: 22, 407
   size: 109, 88
   orig: 109, 88
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_c_4_2.png
   rotate: false
-  xy: 882, 2
+  xy: 355, 407
   size: 109, 88
   orig: 109, 88
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_c_4_3.png
   rotate: false
-  xy: 771, 2
+  xy: 244, 407
   size: 109, 88
   orig: 109, 88
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_d_4_0.png
   rotate: false
-  xy: 771, 92
+  xy: 224, 309
   size: 109, 96
   orig: 109, 96
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_d_4_1.png
   rotate: false
-  xy: 660, 92
+  xy: 113, 309
   size: 109, 96
   orig: 109, 96
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_d_4_2.png
   rotate: false
-  xy: 549, 92
+  xy: 2, 309
   size: 109, 96
   orig: 109, 96
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_64_d_4_3.png
   rotate: false
-  xy: 882, 92
+  xy: 335, 309
   size: 109, 96
   orig: 109, 96
   offset: 0, 0
   index: -1
 hween10_fogwall_hween10_fogwall_icon_a.png
   rotate: false
-  xy: 993, 156
+  xy: 2, 463
   size: 18, 32
   orig: 18, 32
   offset: 0, 0

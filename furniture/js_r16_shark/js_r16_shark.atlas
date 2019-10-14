@@ -1,19 +1,19 @@
 
 js_r16_shark.png
-size: 1024,256
+size: 2048,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 js_r16_shark_js_r16_shark_64_a_0_0.png
   rotate: false
-  xy: 779, 253
+  xy: 1142, 253
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 js_r16_shark_js_r16_shark_64_a_0_1.png
   rotate: false
-  xy: 737, 201
+  xy: 1100, 201
   size: 21, 30
   orig: 21, 30
   offset: 0, 0
@@ -39,6 +39,13 @@ js_r16_shark_js_r16_shark_64_b_0_1.png
   orig: 70, 237
   offset: 0, 0
   index: -1
+js_r16_shark_js_r16_shark_64_b_0_10.png
+  rotate: false
+  xy: 1031, 25
+  size: 67, 229
+  orig: 67, 229
+  offset: 0, 0
+  index: -1
 js_r16_shark_js_r16_shark_64_b_0_11.png
   rotate: false
   xy: 218, 31
@@ -48,14 +55,21 @@ js_r16_shark_js_r16_shark_64_b_0_11.png
   index: -1
 js_r16_shark_js_r16_shark_64_b_0_12.png
   rotate: false
-  xy: 668, 25
+  xy: 962, 25
   size: 67, 229
   orig: 67, 229
   offset: 0, 0
   index: -1
 js_r16_shark_js_r16_shark_64_b_0_13.png
   rotate: false
-  xy: 599, 26
+  xy: 824, 26
+  size: 67, 228
+  orig: 67, 228
+  offset: 0, 0
+  index: -1
+js_r16_shark_js_r16_shark_64_b_0_14.png
+  rotate: false
+  xy: 893, 26
   size: 67, 228
   orig: 67, 228
   offset: 0, 0
@@ -76,28 +90,49 @@ js_r16_shark_js_r16_shark_64_b_0_3.png
   index: -1
 js_r16_shark_js_r16_shark_64_b_0_4.png
   rotate: false
+  xy: 530, 33
+  size: 76, 221
+  orig: 76, 221
+  offset: 0, 0
+  index: -1
+js_r16_shark_js_r16_shark_64_b_0_5.png
+  rotate: false
   xy: 374, 33
   size: 76, 221
   orig: 76, 221
   offset: 0, 0
   index: -1
+js_r16_shark_js_r16_shark_64_b_0_6.png
+  rotate: false
+  xy: 755, 28
+  size: 67, 226
+  orig: 67, 226
+  offset: 0, 0
+  index: -1
 js_r16_shark_js_r16_shark_64_b_0_7.png
   rotate: false
-  xy: 452, 35
+  xy: 608, 35
   size: 76, 219
   orig: 76, 219
   offset: 0, 0
   index: -1
 js_r16_shark_js_r16_shark_64_b_0_8.png
   rotate: false
-  xy: 530, 28
+  xy: 686, 28
   size: 67, 226
   orig: 67, 226
   offset: 0, 0
   index: -1
+js_r16_shark_js_r16_shark_64_b_0_9.png
+  rotate: false
+  xy: 452, 33
+  size: 76, 221
+  orig: 76, 221
+  offset: 0, 0
+  index: -1
 js_r16_shark_js_r16_shark_64_sd_0_0.png
   rotate: false
-  xy: 737, 233
+  xy: 1100, 233
   size: 40, 21
   orig: 40, 21
   offset: 0, 0

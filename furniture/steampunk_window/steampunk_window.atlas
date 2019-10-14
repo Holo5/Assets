@@ -11,44 +11,58 @@ steampunk_window_steampunk_window_64_a_4_0.png
   orig: 100, 104
   offset: 0, 0
   index: -1
+steampunk_window_steampunk_window_64_b_4_0.png
+  rotate: false
+  xy: 5, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 steampunk_window_steampunk_window_64_b_4_1.png
   rotate: false
-  xy: 123, 32
+  xy: 178, 97
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_10.png
   rotate: false
-  xy: 104, 62
+  xy: 68, 5
   size: 19, 15
   orig: 19, 15
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_11.png
   rotate: false
-  xy: 158, 111
+  xy: 104, 28
   size: 19, 15
   orig: 19, 15
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_12.png
   rotate: false
-  xy: 104, 46
+  xy: 224, 112
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_13.png
   rotate: false
-  xy: 24, 6
+  xy: 180, 112
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_14.png
   rotate: false
-  xy: 104, 79
+  xy: 46, 5
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+steampunk_window_steampunk_window_64_b_4_15.png
+  rotate: false
+  xy: 136, 111
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
@@ -60,51 +74,79 @@ steampunk_window_steampunk_window_64_b_4_16.png
   orig: 20, 15
   offset: 0, 0
   index: -1
+steampunk_window_steampunk_window_64_b_4_17.png
+  rotate: false
+  xy: 104, 79
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+steampunk_window_steampunk_window_64_b_4_18.png
+  rotate: false
+  xy: 104, 62
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+steampunk_window_steampunk_window_64_b_4_19.png
+  rotate: false
+  xy: 24, 5
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
 steampunk_window_steampunk_window_64_b_4_2.png
   rotate: false
-  xy: 241, 100
+  xy: 155, 30
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
+steampunk_window_steampunk_window_64_b_4_20.png
+  rotate: false
+  xy: 158, 111
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
 steampunk_window_steampunk_window_64_b_4_21.png
   rotate: false
-  xy: 136, 111
+  xy: 104, 45
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_22.png
   rotate: false
-  xy: 179, 111
+  xy: 126, 63
   size: 18, 15
   orig: 18, 15
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_23.png
   rotate: false
-  xy: 199, 111
+  xy: 146, 62
   size: 17, 15
   orig: 17, 15
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_24.png
   rotate: false
-  xy: 178, 95
+  xy: 165, 63
   size: 16, 14
   orig: 16, 14
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_25.png
   rotate: false
-  xy: 68, 6
+  xy: 126, 47
   size: 18, 14
   orig: 18, 14
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_26.png
   rotate: false
-  xy: 46, 6
+  xy: 202, 112
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
@@ -132,56 +174,56 @@ steampunk_window_steampunk_window_64_b_4_29.png
   index: -1
 steampunk_window_steampunk_window_64_b_4_3.png
   rotate: false
-  xy: 229, 95
+  xy: 122, 12
   size: 10, 14
   orig: 10, 14
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_30.png
   rotate: false
-  xy: 147, 82
+  xy: 165, 49
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_31.png
   rotate: false
-  xy: 237, 115
+  xy: 165, 36
   size: 17, 11
   orig: 17, 11
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_32.png
   rotate: false
-  xy: 178, 82
+  xy: 126, 34
   size: 15, 11
   orig: 15, 11
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_33.png
   rotate: false
-  xy: 195, 83
+  xy: 143, 34
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_34.png
   rotate: false
-  xy: 207, 84
+  xy: 245, 103
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_35.png
   rotate: false
-  xy: 218, 86
+  xy: 104, 3
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_36.png
   rotate: false
-  xy: 104, 23
+  xy: 125, 28
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
@@ -195,42 +237,42 @@ steampunk_window_steampunk_window_64_b_4_37.png
   index: -1
 steampunk_window_steampunk_window_64_b_4_4.png
   rotate: false
-  xy: 167, 81
+  xy: 245, 113
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_5.png
   rotate: false
-  xy: 88, 5
+  xy: 166, 79
   size: 12, 15
   orig: 12, 15
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_6.png
   rotate: false
-  xy: 214, 94
+  xy: 89, 5
   size: 13, 15
   orig: 13, 15
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_7.png
   rotate: false
-  xy: 196, 94
+  xy: 104, 11
   size: 16, 15
   orig: 16, 15
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_8.png
   rotate: false
-  xy: 218, 111
+  xy: 146, 45
   size: 17, 15
   orig: 17, 15
   offset: 0, 0
   index: -1
 steampunk_window_steampunk_window_64_b_4_9.png
   rotate: false
-  xy: 104, 29
+  xy: 147, 79
   size: 17, 15
   orig: 17, 15
   offset: 0, 0

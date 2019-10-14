@@ -95,6 +95,13 @@ hs_circstage_hs_circstage_64_e_0_4.png
   orig: 64, 25
   offset: 0, 0
   index: -1
+hs_circstage_hs_circstage_64_f_0_0.png
+  rotate: false
+  xy: 106, 201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hs_circstage_hs_circstage_64_f_0_1.png
   rotate: false
   xy: 2, 2
@@ -102,11 +109,25 @@ hs_circstage_hs_circstage_64_f_0_1.png
   orig: 78, 32
   offset: 0, 0
   index: -1
+hs_circstage_hs_circstage_64_g_0_0.png
+  rotate: false
+  xy: 218, 231
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hs_circstage_hs_circstage_64_g_0_1.png
   rotate: false
   xy: 106, 204
   size: 110, 50
   orig: 110, 50
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_h_0_0.png
+  rotate: false
+  xy: 82, 33
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hs_circstage_hs_circstage_64_h_0_1.png

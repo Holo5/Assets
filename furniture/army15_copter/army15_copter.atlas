@@ -13,9 +13,16 @@ army15_copter_army15_copter_64_a_4_0.png
   index: -1
 army15_copter_army15_copter_64_b_4_0.png
   rotate: false
-  xy: 2740, 169
+  xy: 2853, 169
   size: 47, 78
   orig: 47, 78
+  offset: 0, 0
+  index: -1
+army15_copter_army15_copter_64_c_4_0.png
+  rotate: false
+  xy: 2685, 169
+  size: 111, 78
+  orig: 111, 78
   offset: 0, 0
   index: -1
 army15_copter_army15_copter_64_d_4_0.png
@@ -27,21 +34,21 @@ army15_copter_army15_copter_64_d_4_0.png
   index: -1
 army15_copter_army15_copter_64_e_4_0.png
   rotate: false
-  xy: 2685, 169
+  xy: 2798, 169
   size: 53, 78
   orig: 53, 78
   offset: 0, 0
   index: -1
 army15_copter_army15_copter_64_f_4_0.png
   rotate: false
-  xy: 2789, 108
+  xy: 2902, 108
   size: 45, 139
   orig: 45, 139
   offset: 0, 0
   index: -1
 army15_copter_army15_copter_64_f_4_1.png
   rotate: false
-  xy: 2893, 208
+  xy: 3006, 208
   size: 45, 39
   orig: 45, 39
   offset: 0, 0
@@ -132,7 +139,7 @@ army15_copter_army15_copter_64_k_4_0.png
   index: -1
 army15_copter_army15_copter_64_k_4_1.png
   rotate: false
-  xy: 2836, 183
+  xy: 2949, 183
   size: 55, 64
   orig: 55, 64
   offset: 0, 0
@@ -146,7 +153,7 @@ army15_copter_army15_copter_64_k_4_2.png
   index: -1
 army15_copter_army15_copter_64_k_4_3.png
   rotate: false
-  xy: 2836, 117
+  xy: 2949, 117
   size: 55, 64
   orig: 55, 64
   offset: 0, 0

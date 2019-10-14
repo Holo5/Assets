@@ -41,14 +41,28 @@ classic2_drinkmach2_classic2_drinkmach2_64_sd_0_0.png
   index: -1
 classic2_drinkmach2_classic2_drinkmach2_64_sd_2_0.png
   rotate: false
+  xy: 116, 2
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+classic2_drinkmach2_classic2_drinkmach2_64_sd_4_0.png
+  rotate: false
   xy: 59, 2
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+classic2_drinkmach2_classic2_drinkmach2_64_sd_6_0.png
+  rotate: false
+  xy: 173, 2
   size: 55, 29
   orig: 55, 29
   offset: 0, 0
   index: -1
 classic2_drinkmach2_classic2_drinkmach2_icon_a.png
   rotate: false
-  xy: 116, 3
+  xy: 230, 3
   size: 20, 28
   orig: 20, 28
   offset: 0, 0

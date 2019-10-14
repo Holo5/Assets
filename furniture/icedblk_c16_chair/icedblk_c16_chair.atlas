@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 icedblk_c16_chair_icedblk_c16_chair_64_a_0_0.png
   rotate: false
-  xy: 244, 23
+  xy: 297, 23
   size: 27, 39
   orig: 27, 39
   offset: 0, 0
   index: -1
 icedblk_c16_chair_icedblk_c16_chair_64_a_2_0.png
   rotate: false
-  xy: 204, 3
+  xy: 326, 31
   size: 26, 31
   orig: 26, 31
   offset: 0, 0
@@ -34,28 +34,28 @@ icedblk_c16_chair_icedblk_c16_chair_64_b_2_0.png
   index: -1
 icedblk_c16_chair_icedblk_c16_chair_64_c_0_0.png
   rotate: false
-  xy: 198, 36
+  xy: 251, 36
   size: 44, 26
   orig: 44, 26
   offset: 0, 0
   index: -1
 icedblk_c16_chair_icedblk_c16_chair_64_c_2_0.png
   rotate: false
-  xy: 152, 36
+  xy: 205, 36
   size: 44, 26
   orig: 44, 26
   offset: 0, 0
   index: -1
 icedblk_c16_chair_icedblk_c16_chair_64_d_0_0.png
   rotate: false
-  xy: 273, 39
+  xy: 354, 39
   size: 24, 23
   orig: 24, 23
   offset: 0, 0
   index: -1
 icedblk_c16_chair_icedblk_c16_chair_64_d_2_0.png
   rotate: false
-  xy: 299, 39
+  xy: 380, 39
   size: 24, 23
   orig: 24, 23
   offset: 0, 0
@@ -67,6 +67,13 @@ icedblk_c16_chair_icedblk_c16_chair_64_sd_0_0.png
   orig: 52, 29
   offset: 0, 0
   index: -1
+icedblk_c16_chair_icedblk_c16_chair_64_sd_2_0.png
+  rotate: false
+  xy: 151, 2
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
 icedblk_c16_chair_icedblk_c16_chair_64_sd_4_0.png
   rotate: false
   xy: 98, 2
@@ -76,21 +83,21 @@ icedblk_c16_chair_icedblk_c16_chair_64_sd_4_0.png
   index: -1
 icedblk_c16_chair_icedblk_c16_chair_64_sd_6_0.png
   rotate: false
-  xy: 151, 2
+  xy: 152, 33
   size: 51, 29
   orig: 51, 29
   offset: 0, 0
   index: -1
 icedblk_c16_chair_icedblk_c16_chair_icon_a.png
   rotate: false
-  xy: 350, 40
+  xy: 431, 40
   size: 23, 22
   orig: 23, 22
   offset: 0, 0
   index: -1
 icedblk_c16_chair_icedblk_c16_chair_icon_b.png
   rotate: false
-  xy: 325, 38
+  xy: 406, 38
   size: 23, 24
   orig: 23, 24
   offset: 0, 0

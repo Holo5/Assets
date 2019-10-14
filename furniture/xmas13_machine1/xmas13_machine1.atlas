@@ -6,168 +6,196 @@ filter: Nearest,Nearest
 repeat: none
 xmas13_machine1_xmas13_machine1_64_a_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 5
   size: 70, 116
   orig: 70, 116
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_a_0_1.png
   rotate: false
-  xy: 74, 19
+  xy: 74, 22
   size: 67, 99
   orig: 67, 99
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_b_0_0.png
   rotate: false
-  xy: 938, 85
+  xy: 977, 88
   size: 37, 33
   orig: 37, 33
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_b_0_1.png
   rotate: false
-  xy: 899, 84
+  xy: 938, 87
   size: 37, 34
   orig: 37, 34
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_b_0_2.png
   rotate: false
-  xy: 743, 80
+  xy: 782, 83
   size: 37, 38
   orig: 37, 38
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_b_0_3.png
   rotate: false
-  xy: 665, 76
+  xy: 665, 79
   size: 37, 42
   orig: 37, 42
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_b_0_4.png
   rotate: false
-  xy: 607, 43
+  xy: 607, 46
   size: 37, 44
   orig: 37, 44
   offset: 0, 0
   index: -1
+xmas13_machine1_xmas13_machine1_64_b_0_5.png
+  rotate: false
+  xy: 704, 79
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
 xmas13_machine1_xmas13_machine1_64_b_0_6.png
   rotate: false
-  xy: 704, 76
+  xy: 743, 79
   size: 37, 42
   orig: 37, 42
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_b_0_7.png
   rotate: false
-  xy: 782, 80
+  xy: 821, 83
   size: 37, 38
   orig: 37, 38
   offset: 0, 0
   index: -1
+xmas13_machine1_xmas13_machine1_64_c_0_0.png
+  rotate: false
+  xy: 782, 80
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas13_machine1_xmas13_machine1_64_c_0_1.png
   rotate: false
-  xy: 549, 44
+  xy: 549, 47
   size: 56, 74
   orig: 56, 74
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_c_0_2.png
   rotate: false
-  xy: 433, 44
+  xy: 433, 47
   size: 56, 74
   orig: 56, 74
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_c_0_3.png
   rotate: false
-  xy: 491, 44
+  xy: 491, 47
   size: 56, 74
   orig: 56, 74
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_c_0_4.png
   rotate: false
-  xy: 317, 44
+  xy: 317, 47
   size: 56, 74
   orig: 56, 74
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_c_0_5.png
   rotate: false
-  xy: 375, 44
+  xy: 375, 47
   size: 56, 74
   orig: 56, 74
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_c_0_6.png
   rotate: false
-  xy: 201, 44
+  xy: 201, 47
   size: 56, 74
   orig: 56, 74
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_c_0_7.png
   rotate: false
-  xy: 259, 44
+  xy: 259, 47
   size: 56, 74
   orig: 56, 74
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_c_0_8.png
   rotate: false
-  xy: 143, 44
+  xy: 143, 47
   size: 56, 74
   orig: 56, 74
   offset: 0, 0
   index: -1
+xmas13_machine1_xmas13_machine1_64_d_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas13_machine1_xmas13_machine1_64_d_0_1.png
   rotate: false
-  xy: 821, 82
+  xy: 860, 85
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_d_0_2.png
   rotate: false
-  xy: 860, 82
+  xy: 899, 85
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
+xmas13_machine1_xmas13_machine1_64_e_0_0.png
+  rotate: false
+  xy: 646, 89
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas13_machine1_xmas13_machine1_64_e_0_1.png
   rotate: false
-  xy: 977, 94
+  xy: 143, 21
   size: 36, 24
   orig: 36, 24
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_e_0_2.png
   rotate: false
-  xy: 143, 18
+  xy: 181, 21
   size: 36, 24
   orig: 36, 24
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_e_0_3.png
   rotate: false
-  xy: 181, 18
+  xy: 219, 21
   size: 36, 24
   orig: 36, 24
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_sd_0_0.png
   rotate: false
-  xy: 607, 89
+  xy: 607, 92
   size: 56, 29
   orig: 56, 29
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_icon_a.png
   rotate: false
-  xy: 219, 12
+  xy: 257, 15
   size: 22, 30
   orig: 22, 30
   offset: 0, 0

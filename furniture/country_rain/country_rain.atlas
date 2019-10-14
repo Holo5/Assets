@@ -1,355 +1,383 @@
 
 country_rain.png
-size: 2048,256
+size: 4096,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 country_rain_country_rain_64_a_0_0.png
   rotate: false
-  xy: 2, 61
+  xy: 2, 60
   size: 60, 29
   orig: 60, 29
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_0.png
   rotate: false
-  xy: 1962, 98
+  xy: 1962, 97
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_1.png
   rotate: false
-  xy: 396, 76
+  xy: 2, 2
   size: 32, 8
   orig: 32, 8
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_10.png
   rotate: false
-  xy: 2, 2
+  xy: 2068, 209
   size: 41, 22
   orig: 41, 22
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_11.png
   rotate: false
-  xy: 362, 71
+  xy: 2068, 162
   size: 32, 19
   orig: 32, 19
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_12.png
   rotate: false
-  xy: 2, 26
+  xy: 64, 78
   size: 54, 11
   orig: 54, 11
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_13.png
   rotate: false
-  xy: 396, 86
+  xy: 2124, 236
   size: 37, 4
   orig: 37, 4
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_14.png
   rotate: false
-  xy: 2015, 252
+  xy: 64, 60
   size: 15, 2
   orig: 15, 2
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_2.png
   rotate: false
-  xy: 112, 79
+  xy: 2124, 242
   size: 51, 11
   orig: 51, 11
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_3.png
   rotate: false
-  xy: 2, 39
+  xy: 2068, 233
   size: 54, 20
   orig: 54, 20
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_4.png
   rotate: false
-  xy: 274, 74
+  xy: 2, 12
   size: 46, 16
   orig: 46, 16
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_5.png
   rotate: false
-  xy: 112, 65
+  xy: 64, 64
   size: 50, 12
   orig: 50, 12
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_6.png
   rotate: false
-  xy: 221, 80
+  xy: 2177, 243
   size: 51, 10
   orig: 51, 10
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_7.png
   rotate: false
-  xy: 165, 82
+  xy: 120, 81
   size: 54, 8
   orig: 54, 8
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_8.png
   rotate: false
-  xy: 64, 62
+  xy: 2, 30
   size: 46, 28
   orig: 46, 28
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_b_0_9.png
   rotate: false
-  xy: 322, 66
+  xy: 2068, 183
   size: 38, 24
   orig: 38, 24
   offset: 0, 0
   index: -1
+country_rain_country_rain_64_c_0_0.png
+  rotate: false
+  xy: 2111, 230
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 country_rain_country_rain_64_c_0_1.png
   rotate: false
-  xy: 1856, 97
+  xy: 1856, 96
   size: 51, 157
   orig: 51, 157
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_c_0_10.png
   rotate: false
-  xy: 1803, 95
+  xy: 1803, 94
   size: 51, 159
   orig: 51, 159
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_c_0_2.png
   rotate: false
-  xy: 1750, 95
+  xy: 1750, 94
   size: 51, 159
   orig: 51, 159
   offset: 0, 0
   index: -1
+country_rain_country_rain_64_c_0_3.png
+  rotate: false
+  xy: 2015, 100
+  size: 51, 153
+  orig: 51, 153
+  offset: 0, 0
+  index: -1
 country_rain_country_rain_64_c_0_4.png
   rotate: false
-  xy: 1644, 92
+  xy: 1644, 91
   size: 51, 162
   orig: 51, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_c_0_5.png
   rotate: false
-  xy: 1697, 93
+  xy: 1697, 92
   size: 51, 161
   orig: 51, 161
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_c_0_6.png
   rotate: false
-  xy: 1909, 98
+  xy: 1909, 97
   size: 51, 156
   orig: 51, 156
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_c_0_7.png
   rotate: false
-  xy: 1591, 92
+  xy: 1591, 91
   size: 51, 162
   orig: 51, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_c_0_8.png
   rotate: false
-  xy: 1962, 101
+  xy: 1962, 100
   size: 51, 153
   orig: 51, 153
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_c_0_9.png
   rotate: false
-  xy: 1538, 92
+  xy: 1538, 91
   size: 51, 162
   orig: 51, 162
   offset: 0, 0
   index: -1
+country_rain_country_rain_64_d_0_0.png
+  rotate: false
+  xy: 116, 75
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 country_rain_country_rain_64_d_0_1.png
   rotate: false
-  xy: 1154, 97
+  xy: 1154, 96
   size: 62, 157
   orig: 62, 157
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_d_0_10.png
   rotate: false
-  xy: 1474, 99
+  xy: 1474, 98
   size: 62, 155
   orig: 62, 155
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_d_0_11.png
   rotate: false
-  xy: 578, 92
+  xy: 578, 91
   size: 62, 162
   orig: 62, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_d_0_12.png
   rotate: false
-  xy: 834, 93
+  xy: 834, 92
   size: 62, 161
   orig: 62, 161
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_d_0_2.png
   rotate: false
-  xy: 450, 92
+  xy: 450, 91
   size: 62, 162
   orig: 62, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_d_0_3.png
   rotate: false
-  xy: 962, 95
+  xy: 962, 94
   size: 62, 159
   orig: 62, 159
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_d_0_4.png
   rotate: false
-  xy: 1090, 96
+  xy: 1090, 95
   size: 62, 158
   orig: 62, 158
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_d_0_5.png
   rotate: false
-  xy: 322, 92
+  xy: 322, 91
   size: 62, 162
   orig: 62, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_d_0_6.png
   rotate: false
-  xy: 258, 92
+  xy: 258, 91
   size: 62, 162
   orig: 62, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_d_0_7.png
   rotate: false
-  xy: 1346, 98
+  xy: 1346, 97
   size: 62, 156
   orig: 62, 156
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_d_0_8.png
   rotate: false
-  xy: 386, 92
+  xy: 386, 91
   size: 62, 162
   orig: 62, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_d_0_9.png
   rotate: false
-  xy: 706, 93
+  xy: 706, 92
   size: 62, 161
   orig: 62, 161
   offset: 0, 0
   index: -1
+country_rain_country_rain_64_e_0_0.png
+  rotate: false
+  xy: 50, 57
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 country_rain_country_rain_64_e_0_1.png
   rotate: false
-  xy: 2, 92
+  xy: 2, 91
   size: 62, 162
   orig: 62, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_e_0_10.png
   rotate: false
-  xy: 514, 92
+  xy: 514, 91
   size: 62, 162
   orig: 62, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_e_0_11.png
   rotate: false
-  xy: 770, 93
+  xy: 770, 92
   size: 62, 161
   orig: 62, 161
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_e_0_12.png
   rotate: false
-  xy: 1218, 97
+  xy: 1218, 96
   size: 62, 157
   orig: 62, 157
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_e_0_2.png
   rotate: false
-  xy: 898, 95
+  xy: 898, 94
   size: 62, 159
   orig: 62, 159
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_e_0_3.png
   rotate: false
-  xy: 1026, 96
+  xy: 1026, 95
   size: 62, 158
   orig: 62, 158
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_e_0_4.png
   rotate: false
-  xy: 130, 92
+  xy: 130, 91
   size: 62, 162
   orig: 62, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_e_0_5.png
   rotate: false
-  xy: 66, 92
+  xy: 66, 91
   size: 62, 162
   orig: 62, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_e_0_6.png
   rotate: false
-  xy: 1282, 98
+  xy: 1282, 97
   size: 62, 156
   orig: 62, 156
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_e_0_7.png
   rotate: false
-  xy: 194, 92
+  xy: 194, 91
   size: 62, 162
   orig: 62, 162
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_e_0_8.png
   rotate: false
-  xy: 642, 93
+  xy: 642, 92
   size: 62, 161
   orig: 62, 161
   offset: 0, 0
   index: -1
 country_rain_country_rain_64_e_0_9.png
   rotate: false
-  xy: 1410, 99
+  xy: 1410, 98
   size: 62, 155
   orig: 62, 155
   offset: 0, 0
   index: -1
 country_rain_country_rain_icon_a.png
   rotate: false
-  xy: 45, 2
+  xy: 2068, 138
   size: 16, 22
   orig: 16, 22
   offset: 0, 0

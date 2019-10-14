@@ -6,56 +6,63 @@ filter: Nearest,Nearest
 repeat: none
 elegantp_c17_sofa_elegantp_c17_sofa_64_a_2_0.png
   rotate: false
-  xy: 151, 31
+  xy: 151, 38
   size: 70, 87
   orig: 70, 87
   offset: 0, 0
   index: -1
 elegantp_c17_sofa_elegantp_c17_sofa_64_a_6_0.png
   rotate: false
-  xy: 371, 46
+  xy: 223, 2
   size: 41, 72
   orig: 41, 72
   offset: 0, 0
   index: -1
 elegantp_c17_sofa_elegantp_c17_sofa_64_b_2_0.png
   rotate: false
-  xy: 79, 16
+  xy: 79, 23
   size: 70, 102
   orig: 70, 102
   offset: 0, 0
   index: -1
 elegantp_c17_sofa_elegantp_c17_sofa_64_b_6_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 9
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 elegantp_c17_sofa_elegantp_c17_sofa_64_c_2_0.png
   rotate: false
-  xy: 323, 59
+  xy: 423, 66
   size: 46, 59
   orig: 46, 59
   offset: 0, 0
   index: -1
 elegantp_c17_sofa_elegantp_c17_sofa_64_c_6_0.png
   rotate: false
-  xy: 2, 15
+  xy: 2, 22
   size: 75, 103
   orig: 75, 103
   offset: 0, 0
   index: -1
+elegantp_c17_sofa_elegantp_c17_sofa_64_sd_2_0.png
+  rotate: false
+  xy: 323, 76
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
 elegantp_c17_sofa_elegantp_c17_sofa_64_sd_6_0.png
   rotate: false
-  xy: 223, 69
+  xy: 223, 76
   size: 98, 49
   orig: 98, 49
   offset: 0, 0
   index: -1
 elegantp_c17_sofa_elegantp_c17_sofa_icon_a.png
   rotate: false
-  xy: 223, 37
+  xy: 471, 95
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

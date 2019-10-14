@@ -13,7 +13,7 @@ hween14_mirror_hween14_mirror_64_a_2_0.png
   index: -1
 hween14_mirror_hween14_mirror_64_b_2_0.png
   rotate: false
-  xy: 310, 12
+  xy: 350, 16
   size: 24, 58
   orig: 24, 58
   offset: 0, 0
@@ -25,9 +25,79 @@ hween14_mirror_hween14_mirror_64_b_2_1.png
   orig: 8, 52
   offset: 0, 0
   index: -1
+hween14_mirror_hween14_mirror_64_c_2_0.png
+  rotate: false
+  xy: 216, 5
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_c_2_1.png
+  rotate: false
+  xy: 488, 51
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_c_2_2.png
+  rotate: false
+  xy: 480, 49
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_c_2_3.png
+  rotate: false
+  xy: 18, 4
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_c_2_4.png
+  rotate: false
+  xy: 480, 58
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_c_2_5.png
+  rotate: false
+  xy: 488, 59
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_d_2_0.png
+  rotate: false
+  xy: 10, 4
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_d_2_1.png
+  rotate: false
+  xy: 2, 3
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_d_2_2.png
+  rotate: false
+  xy: 308, 9
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_d_2_3.png
+  rotate: false
+  xy: 314, 51
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
 hween14_mirror_hween14_mirror_64_d_2_4.png
   rotate: false
-  xy: 2, 4
+  xy: 109, 18
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
@@ -46,9 +116,51 @@ hween14_mirror_hween14_mirror_64_e_2_0.png
   orig: 45, 32
   offset: 0, 0
   index: -1
+hween14_mirror_hween14_mirror_64_f_2_0.png
+  rotate: false
+  xy: 253, 5
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_f_2_1.png
+  rotate: false
+  xy: 208, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_f_2_2.png
+  rotate: false
+  xy: 301, 3
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_f_2_3.png
+  rotate: false
+  xy: 504, 103
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_g_2_0.png
+  rotate: false
+  xy: 424, 49
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_h_2_0.png
+  rotate: false
+  xy: 216, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween14_mirror_hween14_mirror_64_h_2_1.png
   rotate: false
-  xy: 336, 17
+  xy: 376, 18
   size: 17, 57
   orig: 17, 57
   offset: 0, 0
@@ -104,7 +216,7 @@ hween14_mirror_hween14_mirror_64_h_2_8.png
   index: -1
 hween14_mirror_hween14_mirror_64_i_2_0.png
   rotate: false
-  xy: 182, 64
+  xy: 253, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -118,7 +230,7 @@ hween14_mirror_hween14_mirror_64_i_2_1.png
   index: -1
 hween14_mirror_hween14_mirror_64_j_2_0.png
   rotate: false
-  xy: 229, 22
+  xy: 229, 18
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
@@ -146,49 +258,84 @@ hween14_mirror_hween14_mirror_64_k_2_2.png
   index: -1
 hween14_mirror_hween14_mirror_64_k_2_3.png
   rotate: false
-  xy: 504, 103
+  xy: 314, 60
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 hween14_mirror_hween14_mirror_64_l_2_0.png
   rotate: false
-  xy: 355, 48
+  xy: 395, 49
   size: 27, 26
   orig: 27, 26
   offset: 0, 0
   index: -1
+hween14_mirror_hween14_mirror_64_m_2_0.png
+  rotate: false
+  xy: 426, 24
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
 hween14_mirror_hween14_mirror_64_n_2_0.png
   rotate: false
-  xy: 355, 30
+  xy: 453, 49
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
   index: -1
 hween14_mirror_hween14_mirror_64_n_2_1.png
   rotate: false
-  xy: 229, 6
+  xy: 457, 15
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
   index: -1
 hween14_mirror_hween14_mirror_64_n_2_2.png
   rotate: false
-  xy: 415, 60
+  xy: 400, 7
   size: 25, 15
   orig: 25, 15
   offset: 0, 0
   index: -1
 hween14_mirror_hween14_mirror_64_n_2_3.png
   rotate: false
-  xy: 355, 14
+  xy: 229, 2
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
   index: -1
+hween14_mirror_hween14_mirror_64_o_2_0.png
+  rotate: false
+  xy: 274, 49
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_o_2_1.png
+  rotate: false
+  xy: 261, 3
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_o_2_2.png
+  rotate: false
+  xy: 229, 50
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_p_2_0.png
+  rotate: false
+  xy: 454, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween14_mirror_hween14_mirror_64_p_2_1.png
   rotate: false
-  xy: 282, 12
+  xy: 322, 12
   size: 26, 58
   orig: 26, 58
   offset: 0, 0
@@ -230,9 +377,37 @@ hween14_mirror_hween14_mirror_64_p_2_6.png
   index: -1
 hween14_mirror_hween14_mirror_64_q_2_0.png
   rotate: false
-  xy: 384, 52
+  xy: 395, 24
   size: 29, 23
   orig: 29, 23
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_r_2_0.png
+  rotate: false
+  xy: 457, 31
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_r_2_1.png
+  rotate: false
+  xy: 481, 15
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_r_2_2.png
+  rotate: false
+  xy: 427, 7
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+hween14_mirror_hween14_mirror_64_r_2_3.png
+  rotate: false
+  xy: 376, 2
+  size: 22, 14
+  orig: 22, 14
   offset: 0, 0
   index: -1
 hween14_mirror_hween14_mirror_64_s_2_0.png
@@ -244,7 +419,7 @@ hween14_mirror_hween14_mirror_64_s_2_0.png
   index: -1
 hween14_mirror_hween14_mirror_64_s_2_1.png
   rotate: false
-  xy: 229, 54
+  xy: 261, 26
   size: 38, 21
   orig: 38, 21
   offset: 0, 0
@@ -258,7 +433,7 @@ hween14_mirror_hween14_mirror_64_s_2_2.png
   index: -1
 hween14_mirror_hween14_mirror_icon_a.png
   rotate: false
-  xy: 261, 22
+  xy: 301, 17
   size: 19, 30
   orig: 19, 30
   offset: 0, 0

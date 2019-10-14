@@ -62,14 +62,14 @@ hween_dragengage_hween_dragengage_64_d_0_0.png
   index: -1
 hween_dragengage_hween_dragengage_64_e_0_0.png
   rotate: false
-  xy: 991, 37
+  xy: 951, 9
   size: 22, 24
   orig: 22, 24
   offset: 0, 0
   index: -1
 hween_dragengage_hween_dragengage_64_f_0_0.png
   rotate: false
-  xy: 780, 32
+  xy: 813, 32
   size: 29, 41
   orig: 29, 41
   offset: 0, 0
@@ -81,11 +81,25 @@ hween_dragengage_hween_dragengage_64_g_0_0.png
   orig: 36, 57
   offset: 0, 0
   index: -1
+hween_dragengage_hween_dragengage_64_h_0_0.png
+  rotate: false
+  xy: 780, 32
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
 hween_dragengage_hween_dragengage_64_i_0_0.png
   rotate: false
   xy: 342, 73
   size: 77, 53
   orig: 77, 53
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_j_0_0.png
+  rotate: false
+  xy: 954, 35
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_dragengage_hween_dragengage_64_j_0_1.png
@@ -111,7 +125,7 @@ hween_dragengage_hween_dragengage_64_j_0_3.png
   index: -1
 hween_dragengage_hween_dragengage_64_j_0_4.png
   rotate: false
-  xy: 925, 15
+  xy: 842, 2
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
@@ -181,14 +195,14 @@ hween_dragengage_hween_dragengage_64_k_0_5.png
   index: -1
 hween_dragengage_hween_dragengage_64_l_0_0.png
   rotate: false
-  xy: 540, 7
+  xy: 951, 35
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween_dragengage_hween_dragengage_64_l_0_1.png
   rotate: false
-  xy: 850, 2
+  xy: 864, 2
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
@@ -202,7 +216,7 @@ hween_dragengage_hween_dragengage_64_l_0_2.png
   index: -1
 hween_dragengage_hween_dragengage_64_l_0_3.png
   rotate: false
-  xy: 991, 63
+  xy: 817, 2
   size: 23, 28
   orig: 23, 28
   offset: 0, 0
@@ -216,37 +230,44 @@ hween_dragengage_hween_dragengage_64_l_0_4.png
   index: -1
 hween_dragengage_hween_dragengage_64_l_0_5.png
   rotate: false
-  xy: 850, 8
+  xy: 864, 8
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 hween_dragengage_hween_dragengage_64_l_0_6.png
   rotate: false
-  xy: 817, 7
+  xy: 991, 25
   size: 31, 31
   orig: 31, 31
   offset: 0, 0
   index: -1
 hween_dragengage_hween_dragengage_64_l_0_7.png
   rotate: false
-  xy: 844, 40
+  xy: 877, 40
   size: 31, 33
   orig: 31, 33
   offset: 0, 0
   index: -1
 hween_dragengage_hween_dragengage_64_l_0_8.png
   rotate: false
-  xy: 877, 40
+  xy: 991, 58
   size: 31, 33
   orig: 31, 33
   offset: 0, 0
   index: -1
 hween_dragengage_hween_dragengage_64_l_0_9.png
   rotate: false
-  xy: 811, 40
+  xy: 844, 40
   size: 31, 33
   orig: 31, 33
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_0.png
+  rotate: false
+  xy: 960, 35
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_dragengage_hween_dragengage_64_m_0_1.png
@@ -328,7 +349,7 @@ hween_dragengage_hween_dragengage_64_m_0_9.png
   index: -1
 hween_dragengage_hween_dragengage_64_n_0_0.png
   rotate: false
-  xy: 78, 41
+  xy: 957, 35
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -398,7 +419,7 @@ hween_dragengage_hween_dragengage_64_sd_0_0.png
   index: -1
 hween_dragengage_hween_dragengage_icon_a.png
   rotate: false
-  xy: 882, 8
+  xy: 925, 6
   size: 24, 30
   orig: 24, 30
   offset: 0, 0

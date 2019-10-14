@@ -1,33 +1,152 @@
 
 xmas_c16_candles.png
-size: 64,64
+size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 xmas_c16_candles_xmas_c16_candles_64_a_0_0.png
   rotate: false
-  xy: 54, 40
+  xy: 190, 40
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_a_0_12.png
+  rotate: false
+  xy: 208, 40
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 xmas_c16_candles_xmas_c16_candles_64_a_0_4.png
   rotate: false
-  xy: 36, 31
+  xy: 172, 31
   size: 7, 31
   orig: 7, 31
   offset: 0, 0
   index: -1
 xmas_c16_candles_xmas_c16_candles_64_a_0_8.png
   rotate: false
-  xy: 38, 14
+  xy: 217, 47
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
+xmas_c16_candles_xmas_c16_candles_64_b_0_0.png
+  rotate: false
+  xy: 18, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_b_0_1.png
+  rotate: false
+  xy: 92, 20
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_b_0_2.png
+  rotate: false
+  xy: 137, 20
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_b_0_3.png
+  rotate: false
+  xy: 47, 19
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_b_0_4.png
+  rotate: false
+  xy: 26, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_b_0_5.png
+  rotate: false
+  xy: 101, 20
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_b_0_6.png
+  rotate: false
+  xy: 146, 20
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_b_0_7.png
+  rotate: false
+  xy: 56, 19
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_c_0_0.png
+  rotate: false
+  xy: 36, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_c_0_4.png
+  rotate: false
+  xy: 70, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 xmas_c16_candles_xmas_c16_candles_64_d_0_0.png
   rotate: false
-  xy: 37, 11
+  xy: 253, 61
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_d_0_1.png
+  rotate: false
+  xy: 199, 40
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_e_0_0.png
+  rotate: false
+  xy: 253, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_e_0_1.png
+  rotate: false
+  xy: 226, 47
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_f_0_0.png
+  rotate: false
+  xy: 253, 52
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_f_0_1.png
+  rotate: false
+  xy: 235, 47
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_g_0_0.png
+  rotate: false
+  xy: 253, 58
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -41,23 +160,100 @@ xmas_c16_candles_xmas_c16_candles_64_g_0_1.png
   index: -1
 xmas_c16_candles_xmas_c16_candles_64_g_0_2.png
   rotate: false
-  xy: 19, 4
+  xy: 74, 20
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
 xmas_c16_candles_xmas_c16_candles_64_g_0_3.png
   rotate: false
-  xy: 28, 4
+  xy: 119, 20
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
 xmas_c16_candles_xmas_c16_candles_64_g_0_4.png
   rotate: false
-  xy: 10, 3
+  xy: 244, 53
   size: 7, 9
   orig: 7, 9
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_h_0_0.png
+  rotate: false
+  xy: 38, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_h_0_1.png
+  rotate: false
+  xy: 10, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_h_0_2.png
+  rotate: false
+  xy: 83, 20
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_h_0_3.png
+  rotate: false
+  xy: 128, 20
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_h_0_4.png
+  rotate: false
+  xy: 38, 19
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_i_0_0.png
+  rotate: false
+  xy: 244, 50
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_i_0_1.png
+  rotate: false
+  xy: 34, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_i_0_2.png
+  rotate: false
+  xy: 110, 20
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_i_0_3.png
+  rotate: false
+  xy: 155, 20
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_i_0_4.png
+  rotate: false
+  xy: 65, 19
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_j_0_0.png
+  rotate: false
+  xy: 217, 44
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c16_candles_xmas_c16_candles_64_j_0_1.png
@@ -67,9 +263,37 @@ xmas_c16_candles_xmas_c16_candles_64_j_0_1.png
   orig: 32, 32
   offset: 0, 0
   index: -1
+xmas_c16_candles_xmas_c16_candles_64_k_0_0.png
+  rotate: false
+  xy: 164, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_k_0_1.png
+  rotate: false
+  xy: 138, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_l_0_0.png
+  rotate: false
+  xy: 200, 37
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c16_candles_xmas_c16_candles_64_l_0_1.png
+  rotate: false
+  xy: 104, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 xmas_c16_candles_xmas_c16_candles_64_m_0_0.png
   rotate: false
-  xy: 54, 34
+  xy: 190, 34
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
@@ -83,7 +307,7 @@ xmas_c16_candles_xmas_c16_candles_64_m_0_1.png
   index: -1
 xmas_c16_candles_xmas_c16_candles_icon_a.png
   rotate: false
-  xy: 45, 32
+  xy: 181, 32
   size: 7, 30
   orig: 7, 30
   offset: 0, 0

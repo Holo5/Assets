@@ -13,119 +13,119 @@ classic5_window_classic5_window_64_a_2_0.png
   index: -1
 classic5_window_classic5_window_64_b_2_0.png
   rotate: false
-  xy: 69, 25
+  xy: 871, 64
   size: 2, 9
   orig: 2, 9
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_1.png
   rotate: false
-  xy: 46, 2
+  xy: 865, 61
   size: 4, 12
   orig: 4, 12
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_10.png
   rotate: false
-  xy: 438, 31
+  xy: 1000, 92
   size: 22, 34
   orig: 22, 34
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_11.png
   rotate: false
-  xy: 987, 92
+  xy: 462, 31
   size: 24, 34
   orig: 24, 34
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_12.png
   rotate: false
-  xy: 959, 92
+  xy: 434, 31
   size: 26, 34
   orig: 26, 34
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_13.png
   rotate: false
-  xy: 929, 92
+  xy: 970, 92
   size: 28, 34
   orig: 28, 34
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_14.png
   rotate: false
-  xy: 753, 77
+  xy: 794, 77
   size: 30, 49
   orig: 30, 49
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_15.png
   rotate: false
-  xy: 688, 75
+  xy: 696, 75
   size: 32, 51
   orig: 32, 51
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_16.png
   rotate: false
-  xy: 370, 12
+  xy: 660, 74
   size: 34, 52
   orig: 34, 52
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_17.png
   rotate: false
-  xy: 582, 71
+  xy: 587, 71
   size: 36, 55
   orig: 36, 55
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_18.png
   rotate: false
-  xy: 503, 68
+  xy: 508, 68
   size: 38, 58
   orig: 38, 58
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_19.png
   rotate: false
-  xy: 377, 66
+  xy: 382, 66
   size: 40, 60
   orig: 40, 60
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_2.png
   rotate: false
-  xy: 646, 56
+  xy: 1016, 77
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_20.png
   rotate: false
-  xy: 288, 65
+  xy: 336, 2
   size: 42, 61
   orig: 42, 61
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_21.png
   rotate: false
-  xy: 287, 2
+  xy: 290, 2
   size: 44, 61
   orig: 44, 61
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_22.png
   rotate: false
-  xy: 240, 65
+  xy: 242, 65
   size: 46, 61
   orig: 46, 61
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_23.png
   rotate: false
-  xy: 190, 2
+  xy: 191, 2
   size: 48, 61
   orig: 48, 61
   offset: 0, 0
@@ -137,205 +137,212 @@ classic5_window_classic5_window_64_b_2_24.png
   orig: 50, 61
   offset: 0, 0
   index: -1
-classic5_window_classic5_window_64_b_2_26.png
+classic5_window_classic5_window_64_b_2_25.png
   rotate: false
   xy: 139, 2
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+classic5_window_classic5_window_64_b_2_26.png
+  rotate: false
+  xy: 191, 65
   size: 49, 61
   orig: 49, 61
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_27.png
   rotate: false
-  xy: 191, 65
+  xy: 241, 2
   size: 47, 61
   orig: 47, 61
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_28.png
   rotate: false
-  xy: 240, 2
+  xy: 290, 65
   size: 45, 61
   orig: 45, 61
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_29.png
   rotate: false
-  xy: 332, 66
+  xy: 337, 66
   size: 43, 60
   orig: 43, 60
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_3.png
   rotate: false
-  xy: 636, 56
+  xy: 90, 5
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_30.png
   rotate: false
-  xy: 419, 67
+  xy: 424, 67
   size: 41, 59
   orig: 41, 59
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_31.png
   rotate: false
-  xy: 462, 68
+  xy: 467, 68
   size: 39, 58
   orig: 39, 58
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_32.png
   rotate: false
-  xy: 543, 69
+  xy: 548, 69
   size: 37, 57
   orig: 37, 57
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_33.png
   rotate: false
-  xy: 333, 8
+  xy: 380, 8
   size: 35, 56
   orig: 35, 56
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_34.png
   rotate: false
-  xy: 620, 71
+  xy: 625, 71
   size: 33, 55
   orig: 33, 55
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_35.png
   rotate: false
-  xy: 655, 72
+  xy: 730, 72
   size: 31, 54
   orig: 31, 54
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_36.png
   rotate: false
-  xy: 722, 73
+  xy: 763, 73
   size: 29, 53
   orig: 29, 53
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_37.png
   rotate: false
-  xy: 785, 74
+  xy: 826, 74
   size: 27, 52
   orig: 27, 52
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_38.png
   rotate: false
-  xy: 814, 75
+  xy: 855, 75
   size: 25, 51
   orig: 25, 51
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_39.png
   rotate: false
-  xy: 841, 76
+  xy: 882, 76
   size: 23, 50
   orig: 23, 50
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_4.png
   rotate: false
-  xy: 588, 47
+  xy: 124, 16
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_40.png
   rotate: false
-  xy: 866, 77
+  xy: 907, 77
   size: 21, 49
   orig: 21, 49
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_41.png
   rotate: false
-  xy: 889, 78
+  xy: 930, 78
   size: 19, 48
   orig: 19, 48
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_42.png
   rotate: false
-  xy: 910, 79
+  xy: 951, 79
   size: 17, 47
   orig: 17, 47
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_43.png
   rotate: false
-  xy: 406, 18
+  xy: 417, 18
   size: 15, 46
   orig: 15, 46
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_44.png
   rotate: false
-  xy: 423, 20
+  xy: 510, 21
   size: 13, 45
   orig: 13, 45
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_45.png
   rotate: false
-  xy: 518, 22
+  xy: 525, 22
   size: 11, 44
   orig: 11, 44
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_46.png
   rotate: false
-  xy: 1013, 83
+  xy: 538, 23
   size: 9, 43
   orig: 9, 43
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_47.png
   rotate: false
-  xy: 531, 24
+  xy: 549, 25
   size: 7, 42
   orig: 7, 42
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_48.png
   rotate: false
-  xy: 540, 25
+  xy: 558, 26
   size: 5, 41
   orig: 5, 41
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_49.png
   rotate: false
-  xy: 547, 29
+  xy: 581, 29
   size: 3, 38
   orig: 3, 38
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_5.png
   rotate: false
-  xy: 574, 41
+  xy: 64, 8
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_6.png
   rotate: false
-  xy: 502, 38
+  xy: 565, 39
   size: 14, 28
   orig: 14, 28
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_b_2_7.png
   rotate: false
-  xy: 484, 36
+  xy: 46, 4
   size: 16, 30
   orig: 16, 30
   offset: 0, 0
@@ -349,86 +356,135 @@ classic5_window_classic5_window_64_b_2_8.png
   index: -1
 classic5_window_classic5_window_64_b_2_9.png
   rotate: false
-  xy: 462, 33
+  xy: 488, 33
   size: 20, 33
   orig: 20, 33
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_c_2_0.png
   rotate: false
-  xy: 52, 8
+  xy: 510, 13
   size: 2, 6
   orig: 2, 6
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_c_2_1.png
   rotate: false
-  xy: 438, 20
+  xy: 480, 20
   size: 6, 9
   orig: 6, 9
   offset: 0, 0
   index: -1
+classic5_window_classic5_window_64_c_2_10.png
+  rotate: false
+  xy: 525, 2
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+classic5_window_classic5_window_64_c_2_11.png
+  rotate: false
+  xy: 101, 20
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
 classic5_window_classic5_window_64_c_2_12.png
   rotate: false
-  xy: 46, 16
+  xy: 78, 20
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_c_2_13.png
   rotate: false
-  xy: 552, 49
+  xy: 488, 13
   size: 20, 18
   orig: 20, 18
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_c_2_14.png
   rotate: false
-  xy: 484, 17
+  xy: 837, 55
   size: 16, 17
   orig: 16, 17
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_c_2_15.png
   rotate: false
-  xy: 600, 54
+  xy: 548, 2
   size: 12, 15
   orig: 12, 15
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_c_2_16.png
   rotate: false
-  xy: 626, 56
+  xy: 855, 60
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_c_2_17.png
   rotate: false
-  xy: 929, 79
+  xy: 100, 7
   size: 4, 11
   orig: 4, 11
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_c_2_2.png
   rotate: false
-  xy: 614, 53
+  xy: 78, 2
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_c_2_3.png
   rotate: false
-  xy: 502, 18
+  xy: 565, 19
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_c_2_4.png
   rotate: false
-  xy: 552, 29
+  xy: 817, 54
   size: 18, 18
   orig: 18, 18
+  offset: 0, 0
+  index: -1
+classic5_window_classic5_window_64_c_2_5.png
+  rotate: false
+  xy: 434, 11
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+classic5_window_classic5_window_64_c_2_6.png
+  rotate: false
+  xy: 794, 57
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+classic5_window_classic5_window_64_c_2_7.png
+  rotate: false
+  xy: 457, 11
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+classic5_window_classic5_window_64_c_2_8.png
+  rotate: false
+  xy: 993, 72
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+classic5_window_classic5_window_64_c_2_9.png
+  rotate: false
+  xy: 970, 72
+  size: 21, 18
+  orig: 21, 18
   offset: 0, 0
   index: -1
 classic5_window_classic5_window_64_d_2_0.png

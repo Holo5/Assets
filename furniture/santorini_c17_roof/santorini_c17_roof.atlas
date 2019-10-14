@@ -4,37 +4,156 @@ size: 2048,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+santorini_c17_roof_santorini_c17_roof_64_a_0_0.png
+  rotate: false
+  xy: 672, 35
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_a_1_0.png
+  rotate: false
+  xy: 738, 35
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_a_2_0.png
+  rotate: false
+  xy: 1600, 58
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
 santorini_c17_roof_santorini_c17_roof_64_a_3_0.png
   rotate: false
-  xy: 1404, 109
+  xy: 606, 35
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_a_4_0.png
+  rotate: false
+  xy: 1666, 58
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_a_5_0.png
+  rotate: false
+  xy: 1732, 58
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_a_6_0.png
+  rotate: false
+  xy: 1798, 58
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_a_7_0.png
+  rotate: false
+  xy: 1864, 58
   size: 64, 17
   orig: 64, 17
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_b_0_0.png
   rotate: false
-  xy: 910, 5
+  xy: 1046, 5
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_0_1.png
+  rotate: false
+  xy: 138, 3
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_0_2.png
+  rotate: false
+  xy: 842, 2
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_1_0.png
+  rotate: false
+  xy: 1114, 5
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_1_1.png
+  rotate: false
+  xy: 1736, 77
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_1_2.png
+  rotate: false
+  xy: 1080, 5
   size: 32, 55
   orig: 32, 55
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_b_2_0.png
   rotate: false
-  xy: 1272, 77
+  xy: 1940, 77
   size: 66, 49
   orig: 66, 49
   offset: 0, 0
   index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_2_1.png
+  rotate: false
+  xy: 1804, 77
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_2_2.png
+  rotate: false
+  xy: 1012, 5
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
 santorini_c17_roof_santorini_c17_roof_64_b_3_0.png
   rotate: false
-  xy: 70, 3
+  xy: 1872, 77
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_3_1.png
+  rotate: false
+  xy: 206, 3
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_3_2.png
+  rotate: false
+  xy: 342, 3
   size: 66, 49
   orig: 66, 49
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_b_4_0.png
   rotate: false
-  xy: 1204, 77
+  xy: 274, 3
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_4_1.png
+  rotate: false
+  xy: 1600, 77
   size: 66, 49
   orig: 66, 49
   offset: 0, 0
@@ -46,23 +165,51 @@ santorini_c17_roof_santorini_c17_roof_64_b_4_2.png
   orig: 32, 55
   offset: 0, 0
   index: -1
-santorini_c17_roof_santorini_c17_roof_64_b_5_2.png
+santorini_c17_roof_santorini_c17_roof_64_b_5_0.png
   rotate: false
-  xy: 842, 2
+  xy: 910, 5
   size: 32, 55
   orig: 32, 55
   offset: 0, 0
   index: -1
-santorini_c17_roof_santorini_c17_roof_64_b_6_2.png
+santorini_c17_roof_santorini_c17_roof_64_b_5_1.png
+  rotate: false
+  xy: 70, 3
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_5_2.png
   rotate: false
   xy: 876, 5
   size: 32, 55
   orig: 32, 55
   offset: 0, 0
   index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_6_0.png
+  rotate: false
+  xy: 944, 5
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_6_1.png
+  rotate: false
+  xy: 1668, 77
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_6_2.png
+  rotate: false
+  xy: 978, 5
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
 santorini_c17_roof_santorini_c17_roof_64_b_7_0.png
   rotate: false
-  xy: 876, 2
+  xy: 1930, 74
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -74,11 +221,25 @@ santorini_c17_roof_santorini_c17_roof_64_b_7_1.png
   orig: 66, 49
   offset: 0, 0
   index: -1
+santorini_c17_roof_santorini_c17_roof_64_b_7_2.png
+  rotate: false
+  xy: 804, 51
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 santorini_c17_roof_santorini_c17_roof_64_c_0_0.png
   rotate: false
   xy: 339, 54
   size: 65, 72
   orig: 65, 72
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_c_0_1.png
+  rotate: false
+  xy: 940, 62
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_c_0_2.png
@@ -95,6 +256,13 @@ santorini_c17_roof_santorini_c17_roof_64_c_1_0.png
   orig: 65, 72
   offset: 0, 0
   index: -1
+santorini_c17_roof_santorini_c17_roof_64_c_1_1.png
+  rotate: false
+  xy: 1072, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 santorini_c17_roof_santorini_c17_roof_64_c_1_2.png
   rotate: false
   xy: 540, 54
@@ -104,14 +272,14 @@ santorini_c17_roof_santorini_c17_roof_64_c_1_2.png
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_c_2_0.png
   rotate: false
-  xy: 940, 62
+  xy: 1336, 62
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_c_2_1.png
   rotate: false
-  xy: 874, 62
+  xy: 1270, 62
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -125,21 +293,35 @@ santorini_c17_roof_santorini_c17_roof_64_c_2_2.png
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_c_3_0.png
   rotate: false
-  xy: 1138, 62
+  xy: 1534, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_c_3_1.png
+  rotate: false
+  xy: 1204, 62
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_c_3_2.png
   rotate: false
-  xy: 1072, 62
+  xy: 1468, 62
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_c_4_0.png
   rotate: false
-  xy: 1006, 62
+  xy: 1402, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_c_4_1.png
+  rotate: false
+  xy: 1138, 62
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -158,6 +340,13 @@ santorini_c17_roof_santorini_c17_roof_64_c_5_0.png
   orig: 65, 72
   offset: 0, 0
   index: -1
+santorini_c17_roof_santorini_c17_roof_64_c_5_1.png
+  rotate: false
+  xy: 874, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 santorini_c17_roof_santorini_c17_roof_64_c_5_2.png
   rotate: false
   xy: 138, 54
@@ -170,6 +359,13 @@ santorini_c17_roof_santorini_c17_roof_64_c_6_0.png
   xy: 406, 54
   size: 65, 72
   orig: 65, 72
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_c_6_1.png
+  rotate: false
+  xy: 1006, 62
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_c_6_2.png
@@ -202,105 +398,154 @@ santorini_c17_roof_santorini_c17_roof_64_c_7_2.png
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_0_2.png
   rotate: false
-  xy: 390, 28
+  xy: 1226, 8
   size: 34, 24
   orig: 34, 24
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_1_0.png
   rotate: false
-  xy: 984, 7
+  xy: 1188, 7
   size: 36, 25
   orig: 36, 25
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_1_2.png
   rotate: false
-  xy: 1024, 36
+  xy: 1268, 36
   size: 34, 24
   orig: 34, 24
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_2_0.png
   rotate: false
-  xy: 270, 26
+  xy: 2008, 100
   size: 38, 26
   orig: 38, 26
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_2_2.png
   rotate: false
-  xy: 944, 34
+  xy: 2008, 72
   size: 38, 26
   orig: 38, 26
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_3_0.png
   rotate: false
-  xy: 1340, 100
+  xy: 478, 26
   size: 62, 26
   orig: 62, 26
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_3_2.png
   rotate: false
-  xy: 206, 26
+  xy: 542, 26
   size: 62, 26
   orig: 62, 26
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_4_0.png
   rotate: false
-  xy: 310, 26
+  xy: 1148, 34
   size: 38, 26
   orig: 38, 26
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_4_2.png
   rotate: false
-  xy: 390, 2
+  xy: 1304, 36
   size: 34, 24
   orig: 34, 24
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_5_0.png
   rotate: false
-  xy: 984, 34
+  xy: 1148, 6
   size: 38, 26
   orig: 38, 26
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_5_2.png
   rotate: false
-  xy: 944, 6
+  xy: 1188, 34
   size: 38, 26
   orig: 38, 26
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_d_6_2.png
   rotate: false
-  xy: 350, 26
+  xy: 1228, 34
   size: 38, 26
   orig: 38, 26
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_e_0_0.png
   rotate: false
+  xy: 410, 16
+  size: 66, 1
+  orig: 66, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_e_1_0.png
+  rotate: false
   xy: 808, 59
+  size: 66, 1
+  orig: 66, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_e_2_0.png
+  rotate: false
+  xy: 1012, 2
+  size: 66, 1
+  orig: 66, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_e_3_0.png
+  rotate: false
+  xy: 944, 2
+  size: 66, 1
+  orig: 66, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_e_4_0.png
+  rotate: false
+  xy: 876, 2
+  size: 66, 1
+  orig: 66, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_e_5_0.png
+  rotate: false
+  xy: 478, 23
+  size: 66, 1
+  orig: 66, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_e_6_0.png
+  rotate: false
+  xy: 606, 32
+  size: 66, 1
+  orig: 66, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_roof_santorini_c17_roof_64_e_7_0.png
+  rotate: false
+  xy: 1080, 2
   size: 66, 1
   orig: 66, 1
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_64_sd_0_0.png
   rotate: false
-  xy: 138, 19
+  xy: 410, 19
   size: 66, 33
   orig: 66, 33
   offset: 0, 0
   index: -1
 santorini_c17_roof_santorini_c17_roof_icon_a.png
   rotate: false
-  xy: 426, 26
+  xy: 1340, 34
   size: 26, 26
   orig: 26, 26
   offset: 0, 0

@@ -13,16 +13,44 @@ winter15_freeze_winter15_freeze_64_a_4_0.png
   index: -1
 winter15_freeze_winter15_freeze_64_b_4_0.png
   rotate: false
-  xy: 5, 2
+  xy: 8, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
+winter15_freeze_winter15_freeze_64_b_4_1.png
+  rotate: false
+  xy: 123, 118
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+winter15_freeze_winter15_freeze_64_b_4_2.png
+  rotate: false
+  xy: 66, 17
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+winter15_freeze_winter15_freeze_64_b_4_3.png
+  rotate: false
+  xy: 66, 40
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
 winter15_freeze_winter15_freeze_64_b_4_4.png
   rotate: false
-  xy: 84, 115
+  xy: 84, 98
   size: 11, 11
   orig: 11, 11
+  offset: 0, 0
+  index: -1
+winter15_freeze_winter15_freeze_64_b_4_5.png
+  rotate: false
+  xy: 84, 111
+  size: 15, 15
+  orig: 15, 15
   offset: 0, 0
   index: -1
 winter15_freeze_winter15_freeze_64_c_4_0.png
@@ -34,23 +62,72 @@ winter15_freeze_winter15_freeze_64_c_4_0.png
   index: -1
 winter15_freeze_winter15_freeze_64_c_4_1.png
   rotate: false
-  xy: 97, 123
+  xy: 123, 123
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 winter15_freeze_winter15_freeze_64_c_4_2.png
   rotate: false
-  xy: 84, 108
+  xy: 66, 24
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 winter15_freeze_winter15_freeze_64_c_4_3.png
   rotate: false
-  xy: 66, 70
+  xy: 114, 119
   size: 7, 7
   orig: 7, 7
+  offset: 0, 0
+  index: -1
+winter15_freeze_winter15_freeze_64_c_4_4.png
+  rotate: false
+  xy: 66, 49
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+winter15_freeze_winter15_freeze_64_c_4_5.png
+  rotate: false
+  xy: 66, 62
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+winter15_freeze_winter15_freeze_64_d_4_0.png
+  rotate: false
+  xy: 5, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+winter15_freeze_winter15_freeze_64_d_4_1.png
+  rotate: false
+  xy: 66, 5
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+winter15_freeze_winter15_freeze_64_d_4_2.png
+  rotate: false
+  xy: 66, 10
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+winter15_freeze_winter15_freeze_64_d_4_3.png
+  rotate: false
+  xy: 66, 31
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+winter15_freeze_winter15_freeze_64_d_4_4.png
+  rotate: false
+  xy: 101, 115
+  size: 11, 11
+  orig: 11, 11
   offset: 0, 0
   index: -1
 winter15_freeze_winter15_freeze_64_d_4_5.png

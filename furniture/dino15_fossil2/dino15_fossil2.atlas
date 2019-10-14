@@ -62,7 +62,7 @@ dino15_fossil2_dino15_fossil2_64_a_0_7.png
   index: -1
 dino15_fossil2_dino15_fossil2_64_a_0_8.png
   rotate: false
-  xy: 1557, 56
+  xy: 1963, 56
   size: 43, 185
   orig: 43, 185
   offset: 0, 0
@@ -153,7 +153,7 @@ dino15_fossil2_dino15_fossil2_64_c_0_0.png
   index: -1
 dino15_fossil2_dino15_fossil2_64_c_0_1.png
   rotate: false
-  xy: 1151, 96
+  xy: 2008, 212
   size: 28, 29
   orig: 28, 29
   offset: 0, 0
@@ -165,16 +165,65 @@ dino15_fossil2_dino15_fossil2_64_c_0_2.png
   orig: 52, 47
   offset: 0, 0
   index: -1
+dino15_fossil2_dino15_fossil2_64_c_0_3.png
+  rotate: false
+  xy: 1676, 152
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+dino15_fossil2_dino15_fossil2_64_c_0_4.png
+  rotate: false
+  xy: 1487, 137
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+dino15_fossil2_dino15_fossil2_64_c_0_5.png
+  rotate: false
+  xy: 1268, 127
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+dino15_fossil2_dino15_fossil2_64_c_0_6.png
+  rotate: false
+  xy: 1863, 167
+  size: 98, 74
+  orig: 98, 74
+  offset: 0, 0
+  index: -1
+dino15_fossil2_dino15_fossil2_64_d_0_0.png
+  rotate: false
+  xy: 1385, 134
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+dino15_fossil2_dino15_fossil2_64_d_0_1.png
+  rotate: false
+  xy: 56, 20
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dino15_fossil2_dino15_fossil2_64_d_0_2.png
+  rotate: false
+  xy: 1151, 78
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
 dino15_fossil2_dino15_fossil2_64_d_0_3.png
   rotate: false
-  xy: 1370, 152
+  xy: 1589, 152
   size: 85, 89
   orig: 85, 89
   offset: 0, 0
   index: -1
 dino15_fossil2_dino15_fossil2_64_d_0_4.png
   rotate: false
-  xy: 1268, 137
+  xy: 1385, 137
   size: 100, 104
   orig: 100, 104
   offset: 0, 0
@@ -188,14 +237,14 @@ dino15_fossil2_dino15_fossil2_64_d_0_5.png
   index: -1
 dino15_fossil2_dino15_fossil2_64_d_0_6.png
   rotate: false
-  xy: 1457, 167
+  xy: 1763, 167
   size: 98, 74
   orig: 98, 74
   offset: 0, 0
   index: -1
 dino15_fossil2_dino15_fossil2_icon_a.png
   rotate: false
-  xy: 1602, 211
+  xy: 1205, 95
   size: 18, 30
   orig: 18, 30
   offset: 0, 0

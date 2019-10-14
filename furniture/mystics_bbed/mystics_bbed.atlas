@@ -6,154 +6,217 @@ filter: Nearest,Nearest
 repeat: none
 mystics_bbed_mystics_bbed_64_a_0_0.png
   rotate: false
-  xy: 981, 78
+  xy: 99, 4
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_b_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 6
   size: 95, 112
   orig: 95, 112
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_c_0_0.png
   rotate: false
-  xy: 483, 70
+  xy: 579, 74
   size: 64, 44
   orig: 64, 44
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_d_0_0.png
   rotate: false
-  xy: 549, 74
+  xy: 645, 78
   size: 58, 40
   orig: 58, 40
   offset: 0, 0
   index: -1
+mystics_bbed_mystics_bbed_64_e_0_0.png
+  rotate: false
+  xy: 645, 75
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 mystics_bbed_mystics_bbed_64_e_0_1.png
   rotate: false
-  xy: 715, 63
+  xy: 811, 67
   size: 48, 51
   orig: 48, 51
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_e_0_2.png
   rotate: false
-  xy: 663, 61
+  xy: 759, 65
   size: 50, 53
   orig: 50, 53
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_e_0_3.png
   rotate: false
-  xy: 609, 59
+  xy: 705, 63
   size: 52, 55
   orig: 52, 55
   offset: 0, 0
   index: -1
+mystics_bbed_mystics_bbed_64_f_0_0.png
+  rotate: false
+  xy: 2, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 mystics_bbed_mystics_bbed_64_f_0_1.png
   rotate: false
-  xy: 837, 55
+  xy: 933, 59
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+mystics_bbed_mystics_bbed_64_f_0_10.png
+  rotate: false
+  xy: 651, 17
   size: 34, 59
   orig: 34, 59
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_f_0_2.png
   rotate: false
-  xy: 765, 54
+  xy: 861, 58
   size: 34, 60
   orig: 34, 60
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_f_0_3.png
   rotate: false
-  xy: 909, 55
+  xy: 723, 2
   size: 34, 59
   orig: 34, 59
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_f_0_4.png
   rotate: false
-  xy: 873, 55
+  xy: 687, 2
   size: 34, 59
   orig: 34, 59
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_f_0_5.png
   rotate: false
-  xy: 945, 55
+  xy: 759, 4
   size: 34, 59
   orig: 34, 59
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_f_0_6.png
   rotate: false
-  xy: 801, 54
+  xy: 897, 58
   size: 34, 60
   orig: 34, 60
   offset: 0, 0
   index: -1
+mystics_bbed_mystics_bbed_64_f_0_7.png
+  rotate: false
+  xy: 579, 13
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+mystics_bbed_mystics_bbed_64_f_0_8.png
+  rotate: false
+  xy: 969, 59
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+mystics_bbed_mystics_bbed_64_f_0_9.png
+  rotate: false
+  xy: 615, 13
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+mystics_bbed_mystics_bbed_64_g_0_0.png
+  rotate: false
+  xy: 1005, 117
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mystics_bbed_mystics_bbed_64_g_0_1.png
+  rotate: false
+  xy: 291, 42
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
 mystics_bbed_mystics_bbed_64_g_0_10.png
   rotate: false
-  xy: 435, 38
+  xy: 531, 42
   size: 46, 76
   orig: 46, 76
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_g_0_2.png
   rotate: false
-  xy: 195, 38
+  xy: 195, 42
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+mystics_bbed_mystics_bbed_64_g_0_3.png
+  rotate: false
+  xy: 243, 42
   size: 46, 76
   orig: 46, 76
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_g_0_4.png
   rotate: false
-  xy: 339, 38
+  xy: 435, 42
   size: 46, 76
   orig: 46, 76
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_g_0_5.png
   rotate: false
-  xy: 387, 38
+  xy: 483, 42
   size: 46, 76
   orig: 46, 76
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_g_0_6.png
   rotate: false
-  xy: 243, 38
+  xy: 339, 42
   size: 46, 76
   orig: 46, 76
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_g_0_7.png
   rotate: false
-  xy: 291, 38
+  xy: 387, 42
   size: 46, 76
   orig: 46, 76
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_g_0_8.png
   rotate: false
-  xy: 147, 38
+  xy: 147, 42
   size: 46, 76
   orig: 46, 76
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_64_g_0_9.png
   rotate: false
-  xy: 99, 38
+  xy: 99, 42
   size: 46, 76
   orig: 46, 76
   offset: 0, 0
   index: -1
 mystics_bbed_mystics_bbed_icon_a.png
   rotate: false
-  xy: 99, 6
+  xy: 138, 10
   size: 29, 30
   orig: 29, 30
   offset: 0, 0

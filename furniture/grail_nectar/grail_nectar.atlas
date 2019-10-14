@@ -6,49 +6,91 @@ filter: Nearest,Nearest
 repeat: none
 grail_nectar_grail_nectar_64_a_2_0.png
   rotate: false
-  xy: 40, 13
+  xy: 59, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 grail_nectar_grail_nectar_64_a_2_1.png
   rotate: false
-  xy: 21, 13
+  xy: 40, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 grail_nectar_grail_nectar_64_a_2_2.png
   rotate: false
-  xy: 78, 13
+  xy: 97, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 grail_nectar_grail_nectar_64_a_2_3.png
   rotate: false
-  xy: 59, 13
+  xy: 78, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 grail_nectar_grail_nectar_64_a_2_4.png
   rotate: false
-  xy: 97, 13
+  xy: 116, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
+grail_nectar_grail_nectar_64_a_2_5.png
+  rotate: false
+  xy: 21, 13
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_0.png
+  rotate: false
+  xy: 217, 29
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_1.png
+  rotate: false
+  xy: 210, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_10.png
+  rotate: false
+  xy: 152, 15
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_11.png
+  rotate: false
+  xy: 52, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_12.png
+  rotate: false
+  xy: 205, 25
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
 grail_nectar_grail_nectar_64_b_2_13.png
   rotate: false
-  xy: 133, 15
+  xy: 186, 15
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 grail_nectar_grail_nectar_64_b_2_14.png
   rotate: false
-  xy: 26, 6
+  xy: 205, 18
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
@@ -62,21 +104,84 @@ grail_nectar_grail_nectar_64_b_2_15.png
   index: -1
 grail_nectar_grail_nectar_64_b_2_16.png
   rotate: false
-  xy: 116, 15
+  xy: 135, 15
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 grail_nectar_grail_nectar_64_b_2_17.png
   rotate: false
-  xy: 15, 2
+  xy: 41, 2
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
+grail_nectar_grail_nectar_64_b_2_18.png
+  rotate: false
+  xy: 74, 6
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_2.png
+  rotate: false
+  xy: 88, 6
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_3.png
+  rotate: false
+  xy: 28, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_4.png
+  rotate: false
+  xy: 169, 15
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_5.png
+  rotate: false
+  xy: 63, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_6.png
+  rotate: false
+  xy: 81, 6
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_7.png
+  rotate: false
+  xy: 74, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_8.png
+  rotate: false
+  xy: 212, 25
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+grail_nectar_grail_nectar_64_b_2_9.png
+  rotate: false
+  xy: 15, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
 grail_nectar_grail_nectar_64_sd_2_0.png
   rotate: false
-  xy: 133, 18
+  xy: 186, 18
   size: 17, 12
   orig: 17, 12
   offset: 0, 0

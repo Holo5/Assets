@@ -6,161 +6,357 @@ filter: Nearest,Nearest
 repeat: none
 hween14_hccoffin_hween14_hccoffin_64_a_0_0.png
   rotate: false
-  xy: 77, 5
+  xy: 77, 6
   size: 12, 17
   orig: 12, 17
   offset: 0, 0
   index: -1
+hween14_hccoffin_hween14_hccoffin_64_a_0_1.png
+  rotate: false
+  xy: 91, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_b_0_0.png
+  rotate: false
+  xy: 114, 12
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_b_0_1.png
+  rotate: false
+  xy: 322, 52
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_b_0_2.png
+  rotate: false
+  xy: 305, 37
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_b_0_3.png
+  rotate: false
+  xy: 314, 52
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_b_0_4.png
+  rotate: false
+  xy: 89, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_c_0_0.png
+  rotate: false
+  xy: 217, 3
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_c_0_1.png
+  rotate: false
+  xy: 100, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween14_hccoffin_hween14_hccoffin_64_d_0_0.png
   rotate: false
-  xy: 64, 24
+  xy: 64, 25
   size: 60, 37
   orig: 60, 37
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_d_0_1.png
   rotate: false
-  xy: 2, 24
+  xy: 2, 25
   size: 60, 37
   orig: 60, 37
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_e_0_0.png
   rotate: false
-  xy: 91, 9
+  xy: 91, 10
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
+hween14_hccoffin_hween14_hccoffin_64_e_0_1.png
+  rotate: false
+  xy: 92, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween14_hccoffin_hween14_hccoffin_64_f_0_0.png
   rotate: false
-  xy: 446, 22
+  xy: 446, 23
   size: 21, 39
   orig: 21, 39
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_f_0_1.png
   rotate: false
-  xy: 423, 22
+  xy: 423, 23
   size: 21, 39
   orig: 21, 39
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_g_0_0.png
   rotate: false
-  xy: 469, 9
+  xy: 271, 4
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
+hween14_hccoffin_hween14_hccoffin_64_g_0_1.png
+  rotate: false
+  xy: 86, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_h_0_0.png
+  rotate: false
+  xy: 298, 51
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_h_0_1.png
+  rotate: false
+  xy: 315, 14
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_h_0_2.png
+  rotate: false
+  xy: 307, 23
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_h_0_3.png
+  rotate: false
+  xy: 307, 11
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_h_0_4.png
+  rotate: false
+  xy: 94, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween14_hccoffin_hween14_hccoffin_64_i_0_0.png
   rotate: false
-  xy: 394, 35
+  xy: 130, 3
   size: 27, 26
   orig: 27, 26
   offset: 0, 0
   index: -1
+hween14_hccoffin_hween14_hccoffin_64_i_0_1.png
+  rotate: false
+  xy: 80, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween14_hccoffin_hween14_hccoffin_64_j_0_0.png
   rotate: false
-  xy: 174, 21
+  xy: 375, 22
   size: 46, 40
   orig: 46, 40
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_j_0_1.png
   rotate: false
-  xy: 126, 21
+  xy: 327, 10
   size: 46, 40
   orig: 46, 40
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_k_0_0.png
   rotate: false
-  xy: 326, 31
+  xy: 230, 32
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_k_0_1.png
   rotate: false
-  xy: 360, 31
+  xy: 264, 32
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_l_0_0.png
   rotate: false
-  xy: 31, 2
+  xy: 31, 3
   size: 21, 20
   orig: 21, 20
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_l_0_1.png
   rotate: false
-  xy: 54, 2
+  xy: 54, 3
   size: 21, 20
   orig: 21, 20
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_m_0_0.png
   rotate: false
-  xy: 494, 35
+  xy: 291, 4
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
+hween14_hccoffin_hween14_hccoffin_64_m_0_1.png
+  rotate: false
+  xy: 83, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_n_0_0.png
+  rotate: false
+  xy: 122, 12
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_n_0_1.png
+  rotate: false
+  xy: 315, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_n_0_2.png
+  rotate: false
+  xy: 312, 38
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_n_0_3.png
+  rotate: false
+  xy: 314, 26
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_n_0_4.png
+  rotate: false
+  xy: 98, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_o_0_0.png
+  rotate: false
+  xy: 188, 3
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_o_0_1.png
+  rotate: false
+  xy: 97, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween14_hccoffin_hween14_hccoffin_64_p_0_0.png
   rotate: false
-  xy: 222, 30
+  xy: 126, 31
   size: 50, 31
   orig: 50, 31
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_p_0_1.png
   rotate: false
-  xy: 274, 30
+  xy: 178, 31
   size: 50, 31
   orig: 50, 31
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_q_0_0.png
   rotate: false
-  xy: 469, 37
+  xy: 246, 6
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
+hween14_hccoffin_hween14_hccoffin_64_q_0_1.png
+  rotate: false
+  xy: 101, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween14_hccoffin_hween14_hccoffin_64_r_0_0.png
   rotate: false
-  xy: 113, 11
+  xy: 106, 12
   size: 6, 11
   orig: 6, 11
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_r_0_1.png
   rotate: false
-  xy: 230, 18
+  xy: 319, 40
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_r_0_2.png
   rotate: false
-  xy: 106, 10
+  xy: 298, 37
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 hween14_hccoffin_hween14_hccoffin_64_r_0_3.png
   rotate: false
-  xy: 222, 18
+  xy: 306, 52
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
+hween14_hccoffin_hween14_hccoffin_64_r_0_4.png
+  rotate: false
+  xy: 77, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_s_0_0.png
+  rotate: false
+  xy: 159, 3
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+hween14_hccoffin_hween14_hccoffin_64_s_0_1.png
+  rotate: false
+  xy: 95, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween14_hccoffin_hween14_hccoffin_icon_a.png
   rotate: false
-  xy: 2, 3
+  xy: 2, 4
   size: 27, 19
   orig: 27, 19
   offset: 0, 0

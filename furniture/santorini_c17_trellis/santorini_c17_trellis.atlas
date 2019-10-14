@@ -1,194 +1,467 @@
 
 santorini_c17_trellis.png
-size: 1024,256
+size: 2048,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 santorini_c17_trellis_santorini_c17_trellis_64_a_0_0.png
   rotate: false
-  xy: 903, 125
+  xy: 1094, 131
   size: 8, 119
   orig: 8, 119
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_a_0_1.png
   rotate: false
-  xy: 1001, 151
+  xy: 1748, 157
   size: 15, 93
   orig: 15, 93
   offset: 0, 0
   index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_0_2.png
+  rotate: false
+  xy: 1202, 206
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_0_3.png
+  rotate: false
+  xy: 1514, 162
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_1_0.png
+  rotate: false
+  xy: 1127, 154
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_1_1.png
+  rotate: false
+  xy: 1127, 157
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_1_2.png
+  rotate: false
+  xy: 80, 54
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_1_3.png
+  rotate: false
+  xy: 1514, 207
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_2_0.png
+  rotate: false
+  xy: 158, 94
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_2_1.png
+  rotate: false
+  xy: 161, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_2_2.png
+  rotate: false
+  xy: 2, 8
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_2_3.png
+  rotate: false
+  xy: 1436, 162
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_3_0.png
+  rotate: false
+  xy: 968, 102
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_3_1.png
+  rotate: false
+  xy: 999, 122
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_3_2.png
+  rotate: false
+  xy: 1124, 206
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_3_3.png
+  rotate: false
+  xy: 1436, 207
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_4_0.png
+  rotate: false
+  xy: 1097, 128
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_4_1.png
+  rotate: false
+  xy: 1030, 129
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_a_4_2.png
   rotate: false
-  xy: 2, 48
+  xy: 2, 54
   size: 76, 44
   orig: 76, 44
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_a_4_3.png
   rotate: false
-  xy: 80, 49
+  xy: 1358, 207
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_5_0.png
+  rotate: false
+  xy: 1124, 151
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_5_1.png
+  rotate: false
+  xy: 1765, 211
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_5_2.png
+  rotate: false
+  xy: 1202, 160
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_5_3.png
+  rotate: false
+  xy: 1670, 207
   size: 76, 43
   orig: 76, 43
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_a_6_0.png
   rotate: false
-  xy: 913, 126
+  xy: 1104, 132
   size: 8, 118
   orig: 8, 118
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_a_6_1.png
   rotate: false
-  xy: 866, 126
+  xy: 1047, 132
   size: 15, 118
   orig: 15, 118
   offset: 0, 0
   index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_6_2.png
+  rotate: false
+  xy: 1124, 160
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_6_3.png
+  rotate: false
+  xy: 1592, 207
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_7_0.png
+  rotate: false
+  xy: 1114, 132
+  size: 8, 118
+  orig: 8, 118
+  offset: 0, 0
+  index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_a_7_1.png
   rotate: false
-  xy: 846, 126
+  xy: 1027, 132
   size: 18, 118
   orig: 18, 118
   offset: 0, 0
   index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_7_2.png
+  rotate: false
+  xy: 80, 8
+  size: 76, 44
+  orig: 76, 44
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_a_7_3.png
+  rotate: false
+  xy: 1592, 162
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_0_0.png
   rotate: false
-  xy: 417, 95
+  xy: 500, 101
   size: 76, 149
   orig: 76, 149
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_0_1.png
   rotate: false
-  xy: 2, 94
+  xy: 2, 100
   size: 81, 150
   orig: 81, 150
   offset: 0, 0
   index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_b_1_0.png
+  rotate: false
+  xy: 734, 102
+  size: 76, 148
+  orig: 76, 148
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_b_1_1.png
+  rotate: false
+  xy: 251, 101
+  size: 81, 149
+  orig: 81, 149
+  offset: 0, 0
+  index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_2_0.png
   rotate: false
-  xy: 573, 96
+  xy: 656, 102
   size: 76, 148
   orig: 76, 148
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_2_1.png
   rotate: false
-  xy: 168, 95
+  xy: 168, 101
   size: 81, 149
   orig: 81, 149
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_3_0.png
   rotate: false
-  xy: 923, 155
+  xy: 1670, 162
   size: 76, 43
   orig: 76, 43
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_3_1.png
   rotate: false
-  xy: 2, 2
+  xy: 1280, 160
   size: 76, 44
   orig: 76, 44
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_4_0.png
   rotate: false
-  xy: 495, 95
+  xy: 578, 101
   size: 76, 149
   orig: 76, 149
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_4_1.png
   rotate: false
-  xy: 85, 94
+  xy: 85, 100
   size: 81, 150
   orig: 81, 150
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_5_0.png
   rotate: false
-  xy: 651, 96
+  xy: 812, 102
   size: 76, 148
   orig: 76, 148
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_5_1.png
   rotate: false
-  xy: 251, 95
+  xy: 334, 101
   size: 81, 149
   orig: 81, 149
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_6_0.png
   rotate: false
-  xy: 729, 96
+  xy: 890, 102
   size: 76, 148
   orig: 76, 148
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_6_1.png
   rotate: false
-  xy: 334, 95
+  xy: 417, 101
   size: 81, 149
   orig: 81, 149
   offset: 0, 0
   index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_b_7_0.png
+  rotate: false
+  xy: 1358, 162
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_b_7_1.png
   rotate: false
-  xy: 923, 200
+  xy: 1280, 206
   size: 76, 44
   orig: 76, 44
   offset: 0, 0
   index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_c_0_0.png
+  rotate: false
+  xy: 1833, 249
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_c_0_1.png
+  rotate: false
+  xy: 1765, 214
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_c_1_0.png
   rotate: false
-  xy: 807, 116
+  xy: 1027, 129
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_c_1_1.png
+  rotate: false
+  xy: 1094, 128
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_c_2_0.png
   rotate: false
-  xy: 893, 121
+  xy: 1084, 127
   size: 8, 123
   orig: 8, 123
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_c_2_1.png
   rotate: false
-  xy: 827, 121
+  xy: 1008, 127
   size: 17, 123
   orig: 17, 123
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_c_3_0.png
   rotate: false
-  xy: 883, 120
+  xy: 1064, 126
+  size: 8, 124
+  orig: 8, 124
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_c_3_1.png
+  rotate: false
+  xy: 988, 125
+  size: 18, 125
+  orig: 18, 125
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_c_4_0.png
+  rotate: false
+  xy: 1074, 126
   size: 8, 124
   orig: 8, 124
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_c_4_1.png
   rotate: false
-  xy: 807, 119
+  xy: 968, 125
   size: 18, 125
   orig: 18, 125
   offset: 0, 0
   index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_c_5_0.png
+  rotate: false
+  xy: 5, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_c_5_1.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_c_6_0.png
+  rotate: false
+  xy: 158, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_c_6_1.png
+  rotate: false
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_c_7_0.png
+  rotate: false
+  xy: 1124, 154
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_c17_trellis_santorini_c17_trellis_64_c_7_1.png
+  rotate: false
+  xy: 1124, 157
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 santorini_c17_trellis_santorini_c17_trellis_64_sd_0_0.png
   rotate: false
-  xy: 80, 14
+  xy: 1765, 217
   size: 66, 33
   orig: 66, 33
   offset: 0, 0
   index: -1
 santorini_c17_trellis_santorini_c17_trellis_icon_a.png
   rotate: false
-  xy: 923, 135
+  xy: 968, 105
   size: 29, 18
   orig: 29, 18
   offset: 0, 0

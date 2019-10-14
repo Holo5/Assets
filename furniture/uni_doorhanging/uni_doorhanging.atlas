@@ -1,131 +1,292 @@
 
 uni_doorhanging.png
-size: 512,128
+size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+uni_doorhanging_uni_doorhanging_64_a_0_0.png
+  rotate: false
+  xy: 107, 8
+  size: 33, 118
+  orig: 33, 118
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_a_0_1.png
+  rotate: false
+  xy: 37, 8
+  size: 33, 118
+  orig: 33, 118
+  offset: 0, 0
+  index: -1
 uni_doorhanging_uni_doorhanging_64_a_0_2.png
   rotate: false
-  xy: 161, 13
+  xy: 320, 16
+  size: 17, 110
+  orig: 17, 110
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_a_2_0.png
+  rotate: false
+  xy: 247, 8
+  size: 33, 118
+  orig: 33, 118
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_a_2_1.png
+  rotate: false
+  xy: 177, 8
+  size: 33, 118
+  orig: 33, 118
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_a_2_2.png
+  rotate: false
+  xy: 301, 16
   size: 17, 110
   orig: 17, 110
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_a_4_0.png
   rotate: false
-  xy: 37, 5
+  xy: 72, 8
   size: 33, 118
   orig: 33, 118
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_a_4_1.png
   rotate: false
-  xy: 2, 5
+  xy: 2, 8
   size: 33, 118
   orig: 33, 118
   offset: 0, 0
   index: -1
+uni_doorhanging_uni_doorhanging_64_a_4_2.png
+  rotate: false
+  xy: 339, 16
+  size: 17, 110
+  orig: 17, 110
+  offset: 0, 0
+  index: -1
 uni_doorhanging_uni_doorhanging_64_a_6_0.png
   rotate: false
-  xy: 107, 5
+  xy: 212, 8
   size: 33, 118
   orig: 33, 118
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_a_6_1.png
   rotate: false
-  xy: 72, 5
+  xy: 142, 8
   size: 33, 118
   orig: 33, 118
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_a_6_2.png
   rotate: false
-  xy: 142, 13
+  xy: 282, 16
   size: 17, 110
   orig: 17, 110
   offset: 0, 0
   index: -1
-uni_doorhanging_uni_doorhanging_64_b_4_0.png
+uni_doorhanging_uni_doorhanging_64_b_0_0.png
   rotate: false
-  xy: 192, 14
+  xy: 394, 17
   size: 10, 109
   orig: 10, 109
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_b_0_1.png
+  rotate: false
+  xy: 474, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_b_2_0.png
+  rotate: false
+  xy: 370, 17
+  size: 10, 109
+  orig: 10, 109
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_b_2_1.png
+  rotate: false
+  xy: 622, 70
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_b_4_0.png
+  rotate: false
+  xy: 382, 17
+  size: 10, 109
+  orig: 10, 109
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_b_4_1.png
+  rotate: false
+  xy: 282, 13
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_b_6_0.png
   rotate: false
-  xy: 180, 14
+  xy: 358, 17
   size: 10, 109
   orig: 10, 109
   offset: 0, 0
   index: -1
+uni_doorhanging_uni_doorhanging_64_b_6_1.png
+  rotate: false
+  xy: 514, 61
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_0_0.png
+  rotate: false
+  xy: 541, 64
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_0_1.png
+  rotate: false
+  xy: 433, 46
+  size: 25, 80
+  orig: 25, 80
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_0_2.png
+  rotate: false
+  xy: 642, 73
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_0_3.png
+  rotate: false
+  xy: 702, 87
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_2_0.png
+  rotate: false
+  xy: 595, 64
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_2_1.png
+  rotate: false
+  xy: 487, 46
+  size: 25, 80
+  orig: 25, 80
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_2_2.png
+  rotate: false
+  xy: 682, 73
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_2_3.png
+  rotate: false
+  xy: 406, 24
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 uni_doorhanging_uni_doorhanging_64_c_4_0.png
   rotate: false
-  xy: 258, 61
+  xy: 514, 64
   size: 25, 62
   orig: 25, 62
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_c_4_1.png
   rotate: false
-  xy: 204, 43
+  xy: 406, 46
   size: 25, 80
   orig: 25, 80
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_c_4_2.png
   rotate: false
-  xy: 312, 70
+  xy: 622, 73
   size: 18, 53
   orig: 18, 53
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_c_4_3.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 5
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_c_6_0.png
   rotate: false
-  xy: 285, 61
+  xy: 568, 64
   size: 25, 62
   orig: 25, 62
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_c_6_1.png
   rotate: false
-  xy: 231, 43
+  xy: 460, 46
   size: 25, 80
   orig: 25, 80
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_c_6_2.png
   rotate: false
-  xy: 332, 70
+  xy: 662, 73
   size: 18, 53
   orig: 18, 53
   offset: 0, 0
   index: -1
+uni_doorhanging_uni_doorhanging_64_c_6_3.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 uni_doorhanging_uni_doorhanging_64_sd_0_0.png
   rotate: false
-  xy: 352, 106
+  xy: 440, 27
   size: 32, 17
   orig: 32, 17
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_64_sd_2_0.png
   rotate: false
-  xy: 204, 24
+  xy: 406, 27
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_sd_4_0.png
+  rotate: false
+  xy: 702, 90
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_sd_6_0.png
+  rotate: false
+  xy: 702, 109
   size: 32, 17
   orig: 32, 17
   offset: 0, 0
   index: -1
 uni_doorhanging_uni_doorhanging_icon_a.png
   rotate: false
-  xy: 352, 74
+  xy: 736, 96
   size: 11, 30
   orig: 11, 30
   offset: 0, 0

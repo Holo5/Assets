@@ -18,6 +18,13 @@ sf_roof_sf_roof_64_b_0_0.png
   orig: 156, 79
   offset: 0, 0
   index: -1
+sf_roof_sf_roof_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 sf_roof_sf_roof_64_c_0_1.png
   rotate: false
   xy: 262, 349
@@ -27,7 +34,7 @@ sf_roof_sf_roof_64_c_0_1.png
   index: -1
 sf_roof_sf_roof_64_d_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 177, 59
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -37,6 +44,13 @@ sf_roof_sf_roof_64_d_0_1.png
   xy: 2, 62
   size: 210, 171
   orig: 210, 171
+  offset: 0, 0
+  index: -1
+sf_roof_sf_roof_64_e_0_0.png
+  rotate: false
+  xy: 420, 507
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 sf_roof_sf_roof_64_e_0_1.png

@@ -6,112 +6,147 @@ filter: Nearest,Nearest
 repeat: none
 hween_c15_evilcloud_hween_c15_evilcloud_64_a_0_0.png
   rotate: false
-  xy: 2, 199
+  xy: 2, 224
   size: 105, 272
   orig: 105, 272
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_a_0_1.png
   rotate: false
-  xy: 109, 199
+  xy: 109, 224
   size: 100, 272
   orig: 100, 272
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_a_0_2.png
   rotate: false
-  xy: 211, 199
+  xy: 211, 224
   size: 96, 272
   orig: 96, 272
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_a_0_3.png
   rotate: false
-  xy: 309, 200
+  xy: 309, 225
   size: 95, 271
   orig: 95, 271
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_a_0_4.png
   rotate: false
-  xy: 406, 200
+  xy: 406, 225
   size: 94, 271
   orig: 94, 271
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_a_0_5.png
   rotate: false
-  xy: 502, 202
+  xy: 502, 227
   size: 92, 269
   orig: 92, 269
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_a_0_6.png
   rotate: false
-  xy: 596, 204
+  xy: 596, 229
   size: 88, 267
   orig: 88, 267
   offset: 0, 0
   index: -1
+hween_c15_evilcloud_hween_c15_evilcloud_64_a_0_7.png
+  rotate: false
+  xy: 686, 341
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_b_0_0.png
   rotate: false
-  xy: 2, 86
+  xy: 2, 111
   size: 153, 111
   orig: 153, 111
   offset: 0, 0
   index: -1
+hween_c15_evilcloud_hween_c15_evilcloud_64_c_0_0.png
+  rotate: false
+  xy: 811, 456
+  size: 73, 40
+  orig: 73, 40
+  offset: 0, 0
+  index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_c_0_1.png
   rotate: false
-  xy: 2, 2
+  xy: 736, 414
   size: 73, 40
   orig: 73, 40
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_c_0_2.png
   rotate: false
-  xy: 736, 431
+  xy: 207, 182
   size: 73, 40
   orig: 73, 40
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_c_0_3.png
   rotate: false
-  xy: 157, 157
+  xy: 52, 69
   size: 73, 40
   orig: 73, 40
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_c_0_4.png
   rotate: false
-  xy: 2, 44
+  xy: 736, 456
   size: 73, 40
   orig: 73, 40
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_c_0_5.png
   rotate: false
-  xy: 77, 45
+  xy: 736, 373
   size: 72, 39
   orig: 72, 39
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_c_0_6.png
   rotate: false
-  xy: 157, 154
+  xy: 157, 144
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_64_d_0_0.png
   rotate: false
-  xy: 686, 396
+  xy: 686, 421
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+hween_c15_evilcloud_hween_c15_evilcloud_64_d_0_1.png
+  rotate: false
+  xy: 157, 147
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+hween_c15_evilcloud_hween_c15_evilcloud_64_d_0_2.png
+  rotate: false
+  xy: 2, 34
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+hween_c15_evilcloud_hween_c15_evilcloud_64_d_0_3.png
+  rotate: false
+  xy: 686, 344
   size: 48, 75
   orig: 48, 75
   offset: 0, 0
   index: -1
 hween_c15_evilcloud_hween_c15_evilcloud_icon_a.png
   rotate: false
-  xy: 686, 364
+  xy: 2, 2
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

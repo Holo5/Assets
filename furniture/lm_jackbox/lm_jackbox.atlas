@@ -1,26 +1,33 @@
 
 lm_jackbox.png
-size: 256,64
+size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-lm_jackbox_lm_jackbox_64_a_2_1.png
+lm_jackbox_lm_jackbox_64_a_2_0.png
   rotate: false
   xy: 203, 35
   size: 30, 27
   orig: 30, 27
   offset: 0, 0
   index: -1
+lm_jackbox_lm_jackbox_64_a_2_1.png
+  rotate: false
+  xy: 235, 35
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
 lm_jackbox_lm_jackbox_64_a_2_2.png
   rotate: false
-  xy: 171, 6
+  xy: 267, 35
   size: 30, 27
   orig: 30, 27
   offset: 0, 0
   index: -1
 lm_jackbox_lm_jackbox_64_a_2_3.png
   rotate: false
-  xy: 203, 6
+  xy: 299, 35
   size: 29, 27
   orig: 29, 27
   offset: 0, 0

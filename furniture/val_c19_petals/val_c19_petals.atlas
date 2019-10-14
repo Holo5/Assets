@@ -39,6 +39,41 @@ val_c19_petals_val_c19_petals_64_c_0_0.png
   orig: 58, 28
   offset: 0, 0
   index: -1
+val_c19_petals_val_c19_petals_64_d_0_0.png
+  rotate: false
+  xy: 87, 8
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_e_0_0.png
+  rotate: false
+  xy: 119, 9
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_e_0_1.png
+  rotate: false
+  xy: 242, 32
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_e_0_2.png
+  rotate: false
+  xy: 107, 9
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_f_0_0.png
+  rotate: false
+  xy: 201, 5
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
 val_c19_petals_val_c19_petals_64_g_0_0.png
   rotate: false
   xy: 111, 38
@@ -46,11 +81,81 @@ val_c19_petals_val_c19_petals_64_g_0_0.png
   orig: 47, 24
   offset: 0, 0
   index: -1
+val_c19_petals_val_c19_petals_64_h_0_0.png
+  rotate: false
+  xy: 113, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_h_0_1.png
+  rotate: false
+  xy: 95, 9
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_h_0_2.png
+  rotate: false
+  xy: 226, 17
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_i_0_0.png
+  rotate: false
+  xy: 125, 19
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_j_0_0.png
+  rotate: false
+  xy: 152, 30
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_k_0_0.png
+  rotate: false
+  xy: 242, 25
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_k_0_1.png
+  rotate: false
+  xy: 232, 10
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_k_0_2.png
+  rotate: false
+  xy: 220, 17
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_l_0_0.png
+  rotate: false
+  xy: 106, 16
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
 val_c19_petals_val_c19_petals_64_m_0_0.png
   rotate: false
   xy: 207, 24
   size: 33, 21
   orig: 33, 21
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_n_0_0.png
+  rotate: false
+  xy: 113, 9
+  size: 4, 5
+  orig: 4, 5
   offset: 0, 0
   index: -1
 val_c19_petals_val_c19_petals_64_n_0_1.png
@@ -62,7 +167,7 @@ val_c19_petals_val_c19_petals_64_n_0_1.png
   index: -1
 val_c19_petals_val_c19_petals_64_n_0_2.png
   rotate: false
-  xy: 250, 33
+  xy: 101, 2
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
@@ -81,6 +186,34 @@ val_c19_petals_val_c19_petals_64_p_0_0.png
   orig: 6, 6
   offset: 0, 0
   index: -1
+val_c19_petals_val_c19_petals_64_q_0_0.png
+  rotate: false
+  xy: 226, 10
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_q_0_1.png
+  rotate: false
+  xy: 125, 12
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_q_0_2.png
+  rotate: false
+  xy: 101, 9
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_r_0_0.png
+  rotate: false
+  xy: 144, 11
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
 val_c19_petals_val_c19_petals_64_s_0_0.png
   rotate: false
   xy: 2, 3
@@ -88,11 +221,67 @@ val_c19_petals_val_c19_petals_64_s_0_0.png
   orig: 52, 29
   offset: 0, 0
   index: -1
-val_c19_petals_val_c19_petals_64_t_0_1.png
+val_c19_petals_val_c19_petals_64_t_0_0.png
   rotate: false
-  xy: 87, 9
+  xy: 220, 10
   size: 4, 5
   orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_t_0_1.png
+  rotate: false
+  xy: 232, 17
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_t_0_2.png
+  rotate: false
+  xy: 250, 33
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_u_0_0.png
+  rotate: false
+  xy: 163, 11
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_v_0_0.png
+  rotate: false
+  xy: 144, 30
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_w_0_0.png
+  rotate: false
+  xy: 119, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_w_0_1.png
+  rotate: false
+  xy: 95, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_w_0_2.png
+  rotate: false
+  xy: 107, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+val_c19_petals_val_c19_petals_64_x_0_0.png
+  rotate: false
+  xy: 182, 11
+  size: 17, 17
+  orig: 17, 17
   offset: 0, 0
   index: -1
 val_c19_petals_val_c19_petals_icon_a.png

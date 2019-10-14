@@ -6,70 +6,84 @@ filter: Nearest,Nearest
 repeat: none
 jetset_vipscreen_jetset_vipscreen_64_a_0_0.png
   rotate: false
-  xy: 406, 3
+  xy: 482, 3
+  size: 34, 115
+  orig: 34, 115
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_a_0_1.png
+  rotate: false
+  xy: 518, 3
   size: 34, 115
   orig: 34, 115
   offset: 0, 0
   index: -1
 jetset_vipscreen_jetset_vipscreen_64_a_0_2.png
   rotate: false
-  xy: 514, 3
+  xy: 626, 3
   size: 34, 115
   orig: 34, 115
   offset: 0, 0
   index: -1
 jetset_vipscreen_jetset_vipscreen_64_a_0_3.png
   rotate: false
-  xy: 550, 3
+  xy: 662, 3
   size: 34, 115
   orig: 34, 115
   offset: 0, 0
   index: -1
 jetset_vipscreen_jetset_vipscreen_64_a_0_4.png
   rotate: false
-  xy: 442, 3
+  xy: 554, 3
   size: 34, 115
   orig: 34, 115
   offset: 0, 0
   index: -1
 jetset_vipscreen_jetset_vipscreen_64_a_0_5.png
   rotate: false
-  xy: 478, 3
+  xy: 590, 3
   size: 34, 115
   orig: 34, 115
   offset: 0, 0
   index: -1
+jetset_vipscreen_jetset_vipscreen_64_b_0_0.png
+  rotate: false
+  xy: 732, 2
+  size: 32, 116
+  orig: 32, 116
+  offset: 0, 0
+  index: -1
 jetset_vipscreen_jetset_vipscreen_64_b_0_1.png
   rotate: false
-  xy: 654, 2
+  xy: 800, 2
   size: 32, 116
   orig: 32, 116
   offset: 0, 0
   index: -1
 jetset_vipscreen_jetset_vipscreen_64_b_0_2.png
   rotate: false
-  xy: 620, 2
+  xy: 766, 2
   size: 32, 116
   orig: 32, 116
   offset: 0, 0
   index: -1
 jetset_vipscreen_jetset_vipscreen_64_b_0_3.png
   rotate: false
-  xy: 722, 2
+  xy: 868, 2
   size: 32, 116
   orig: 32, 116
   offset: 0, 0
   index: -1
 jetset_vipscreen_jetset_vipscreen_64_b_0_4.png
   rotate: false
-  xy: 688, 2
+  xy: 834, 2
   size: 32, 116
   orig: 32, 116
   offset: 0, 0
   index: -1
 jetset_vipscreen_jetset_vipscreen_64_b_0_5.png
   rotate: false
-  xy: 586, 2
+  xy: 698, 2
   size: 32, 116
   orig: 32, 116
   offset: 0, 0
@@ -90,23 +104,51 @@ jetset_vipscreen_jetset_vipscreen_64_c_0_1.png
   index: -1
 jetset_vipscreen_jetset_vipscreen_64_c_0_2.png
   rotate: false
-  xy: 368, 2
+  xy: 444, 2
   size: 36, 116
   orig: 36, 116
   offset: 0, 0
   index: -1
 jetset_vipscreen_jetset_vipscreen_64_c_0_3.png
   rotate: false
+  xy: 406, 2
+  size: 36, 116
+  orig: 36, 116
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_c_0_4.png
+  rotate: false
+  xy: 368, 2
+  size: 36, 116
+  orig: 36, 116
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_c_0_5.png
+  rotate: false
   xy: 330, 2
   size: 36, 116
   orig: 36, 116
   offset: 0, 0
   index: -1
+jetset_vipscreen_jetset_vipscreen_64_d_0_0.png
+  rotate: false
+  xy: 934, 117
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 jetset_vipscreen_jetset_vipscreen_64_d_0_1.png
   rotate: false
-  xy: 756, 66
+  xy: 902, 66
   size: 30, 52
   orig: 30, 52
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_g_0_0.png
+  rotate: false
+  xy: 902, 63
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 jetset_vipscreen_jetset_vipscreen_64_g_0_1.png

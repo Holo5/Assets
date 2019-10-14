@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 pirate_dvdr1_g_pirate_dvdr1_g_64_a_0_0.png
   rotate: false
-  xy: 556, 21
+  xy: 274, 11
   size: 50, 68
   orig: 50, 68
   offset: 0, 0
@@ -34,35 +34,35 @@ pirate_dvdr1_g_pirate_dvdr1_g_64_b_4_0.png
   index: -1
 pirate_dvdr1_g_pirate_dvdr1_g_64_c_0_0.png
   rotate: false
-  xy: 274, 26
+  xy: 656, 36
   size: 21, 53
   orig: 21, 53
   offset: 0, 0
   index: -1
 pirate_dvdr1_g_pirate_dvdr1_g_64_c_4_0.png
   rotate: false
-  xy: 608, 41
+  xy: 326, 26
   size: 21, 53
   orig: 21, 53
   offset: 0, 0
   index: -1
 pirate_dvdr1_g_pirate_dvdr1_g_64_d_0_0.png
   rotate: false
-  xy: 502, 91
+  xy: 602, 91
   size: 86, 35
   orig: 86, 35
   offset: 0, 0
   index: -1
 pirate_dvdr1_g_pirate_dvdr1_g_64_d_0_1.png
   rotate: false
-  xy: 314, 85
+  xy: 414, 85
   size: 98, 41
   orig: 98, 41
   offset: 0, 0
   index: -1
 pirate_dvdr1_g_pirate_dvdr1_g_64_d_4_0.png
   rotate: false
-  xy: 414, 91
+  xy: 514, 91
   size: 86, 35
   orig: 86, 35
   offset: 0, 0
@@ -72,6 +72,13 @@ pirate_dvdr1_g_pirate_dvdr1_g_64_d_4_1.png
   xy: 114, 74
   size: 98, 52
   orig: 98, 52
+  offset: 0, 0
+  index: -1
+pirate_dvdr1_g_pirate_dvdr1_g_64_e_0_0.png
+  rotate: false
+  xy: 314, 81
+  size: 98, 45
+  orig: 98, 45
   offset: 0, 0
   index: -1
 pirate_dvdr1_g_pirate_dvdr1_g_64_e_0_1.png
@@ -97,35 +104,35 @@ pirate_dvdr1_g_pirate_dvdr1_g_64_e_4_1.png
   index: -1
 pirate_dvdr1_g_pirate_dvdr1_g_64_f_0_0.png
   rotate: false
-  xy: 375, 2
+  xy: 475, 2
   size: 59, 81
   orig: 59, 81
   offset: 0, 0
   index: -1
 pirate_dvdr1_g_pirate_dvdr1_g_64_f_4_0.png
   rotate: false
-  xy: 497, 8
+  xy: 597, 8
   size: 57, 81
   orig: 57, 81
   offset: 0, 0
   index: -1
 pirate_dvdr1_g_pirate_dvdr1_g_64_g_0_0.png
   rotate: false
-  xy: 314, 2
+  xy: 414, 2
   size: 59, 81
   orig: 59, 81
   offset: 0, 0
   index: -1
 pirate_dvdr1_g_pirate_dvdr1_g_64_g_4_0.png
   rotate: false
-  xy: 436, 7
+  xy: 536, 7
   size: 59, 82
   orig: 59, 82
   offset: 0, 0
   index: -1
 pirate_dvdr1_g_pirate_dvdr1_g_icon_a.png
   rotate: false
-  xy: 590, 96
+  xy: 690, 96
   size: 26, 30
   orig: 26, 30
   offset: 0, 0

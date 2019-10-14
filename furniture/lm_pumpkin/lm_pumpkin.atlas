@@ -6,43 +6,50 @@ filter: Nearest,Nearest
 repeat: none
 lm_pumpkin_lm_pumpkin_64_a_2_0.png
   rotate: false
-  xy: 51, 2
+  xy: 51, 3
   size: 47, 51
   orig: 47, 51
   offset: 0, 0
   index: -1
 lm_pumpkin_lm_pumpkin_64_a_2_1.png
   rotate: false
-  xy: 100, 2
+  xy: 100, 3
   size: 47, 51
   orig: 47, 51
   offset: 0, 0
   index: -1
 lm_pumpkin_lm_pumpkin_64_a_2_2.png
   rotate: false
-  xy: 149, 2
+  xy: 149, 3
   size: 47, 51
   orig: 47, 51
   offset: 0, 0
   index: -1
 lm_pumpkin_lm_pumpkin_64_a_2_3.png
   rotate: false
-  xy: 198, 2
+  xy: 198, 3
   size: 47, 51
   orig: 47, 51
   offset: 0, 0
   index: -1
 lm_pumpkin_lm_pumpkin_64_a_2_4.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 3
   size: 47, 51
   orig: 47, 51
   offset: 0, 0
   index: -1
 lm_pumpkin_lm_pumpkin_64_sd_2_0.png
   rotate: false
-  xy: 247, 29
+  xy: 247, 30
   size: 42, 24
   orig: 42, 24
+  offset: 0, 0
+  index: -1
+lm_pumpkin_lm_pumpkin_icon_a.png
+  rotate: false
+  xy: 247, 2
+  size: 25, 26
+  orig: 25, 26
   offset: 0, 0
   index: -1

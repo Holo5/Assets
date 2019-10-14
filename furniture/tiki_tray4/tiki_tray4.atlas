@@ -13,8 +13,15 @@ tiki_tray4_tiki_tray4_64_a_0_0.png
   index: -1
 tiki_tray4_tiki_tray4_64_sd_0_0.png
   rotate: false
-  xy: 52, 42
+  xy: 79, 42
   size: 37, 10
   orig: 37, 10
+  offset: 0, 0
+  index: -1
+tiki_tray4_tiki_tray4_icon_a.png
+  rotate: false
+  xy: 52, 25
+  size: 25, 27
+  orig: 25, 27
   offset: 0, 0
   index: -1

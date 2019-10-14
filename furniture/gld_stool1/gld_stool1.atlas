@@ -46,10 +46,24 @@ gld_stool1_gld_stool1_64_sd_2_0.png
   orig: 30, 14
   offset: 0, 0
   index: -1
+gld_stool1_gld_stool1_icon_a.png
+  rotate: false
+  xy: 66, 13
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
 gld_stool1_gld_stool1_icon_b.png
   rotate: false
   xy: 36, 7
   size: 13, 9
   orig: 13, 9
+  offset: 0, 0
+  index: -1
+gld_stool1_gld_stool1_icon_c.png
+  rotate: false
+  xy: 98, 45
+  size: 15, 1
+  orig: 15, 1
   offset: 0, 0
   index: -1

@@ -6,70 +6,119 @@ filter: Nearest,Nearest
 repeat: none
 lt_jngl_wall_lt_jngl_wall_64_a_2_0.png
   rotate: false
-  xy: 748, 124
+  xy: 748, 127
   size: 86, 123
   orig: 86, 123
   offset: 0, 0
   index: -1
 lt_jngl_wall_lt_jngl_wall_64_a_4_0.png
   rotate: false
-  xy: 836, 124
+  xy: 836, 127
   size: 86, 123
   orig: 86, 123
   offset: 0, 0
   index: -1
 lt_jngl_wall_lt_jngl_wall_64_b_2_0.png
   rotate: false
-  xy: 274, 36
+  xy: 274, 39
   size: 134, 211
   orig: 134, 211
   offset: 0, 0
   index: -1
-lt_jngl_wall_lt_jngl_wall_64_b_4_0.png
-  rotate: false
-  xy: 138, 36
-  size: 134, 211
-  orig: 134, 211
-  offset: 0, 0
-  index: -1
-lt_jngl_wall_lt_jngl_wall_64_c_2_0.png
-  rotate: false
-  xy: 2, 36
-  size: 134, 211
-  orig: 134, 211
-  offset: 0, 0
-  index: -1
-lt_jngl_wall_lt_jngl_wall_64_c_4_0.png
-  rotate: false
-  xy: 410, 36
-  size: 134, 211
-  orig: 134, 211
-  offset: 0, 0
-  index: -1
-lt_jngl_wall_lt_jngl_wall_64_d_2_1.png
-  rotate: false
-  xy: 546, 132
-  size: 100, 115
-  orig: 100, 115
-  offset: 0, 0
-  index: -1
-lt_jngl_wall_lt_jngl_wall_64_d_4_1.png
-  rotate: false
-  xy: 648, 134
-  size: 98, 113
-  orig: 98, 113
-  offset: 0, 0
-  index: -1
-lt_jngl_wall_lt_jngl_wall_64_d_4_99.png
+lt_jngl_wall_lt_jngl_wall_64_b_2_99.png
   rotate: false
   xy: 546, 129
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-lt_jngl_wall_lt_jngl_wall_icon_a.png
+lt_jngl_wall_lt_jngl_wall_64_b_4_0.png
+  rotate: false
+  xy: 138, 39
+  size: 134, 211
+  orig: 134, 211
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_64_b_4_99.png
+  rotate: false
+  xy: 927, 249
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_64_c_2_0.png
+  rotate: false
+  xy: 2, 39
+  size: 134, 211
+  orig: 134, 211
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_64_c_2_99.png
+  rotate: false
+  xy: 25, 36
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_64_c_4_0.png
+  rotate: false
+  xy: 410, 39
+  size: 134, 211
+  orig: 134, 211
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_64_c_4_99.png
   rotate: false
   xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_64_d_2_1.png
+  rotate: false
+  xy: 546, 135
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_64_d_2_99.png
+  rotate: false
+  xy: 549, 132
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_64_d_4_1.png
+  rotate: false
+  xy: 648, 137
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_64_d_4_99.png
+  rotate: false
+  xy: 546, 132
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_64_e_2_99.png
+  rotate: false
+  xy: 924, 246
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_64_e_4_99.png
+  rotate: false
+  xy: 924, 249
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lt_jngl_wall_lt_jngl_wall_icon_a.png
+  rotate: false
+  xy: 2, 5
   size: 21, 32
   orig: 21, 32
   offset: 0, 0

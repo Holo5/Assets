@@ -18,6 +18,13 @@ hblooza_guitar4_hblooza_guitar4_64_a_2_0.png
   orig: 66, 214
   offset: 0, 0
   index: -1
+hblooza_guitar4_hblooza_guitar4_64_sd_0_0.png
+  rotate: false
+  xy: 138, 218
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
 hblooza_guitar4_hblooza_guitar4_64_sd_2_0.png
   rotate: false
   xy: 2, 2
@@ -27,7 +34,7 @@ hblooza_guitar4_hblooza_guitar4_64_sd_2_0.png
   index: -1
 hblooza_guitar4_hblooza_guitar4_icon_a.png
   rotate: false
-  xy: 138, 221
+  xy: 70, 5
   size: 16, 30
   orig: 16, 30
   offset: 0, 0

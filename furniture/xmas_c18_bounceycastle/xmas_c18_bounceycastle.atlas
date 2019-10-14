@@ -74,6 +74,20 @@ xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_c_2_1.png
   orig: 65, 45
   offset: 0, 0
   index: -1
+xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_c_6_0.png
+  rotate: false
+  xy: 83, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_c_6_1.png
+  rotate: false
+  xy: 86, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_d_2_0.png
   rotate: false
   xy: 307, 101
@@ -172,6 +186,20 @@ xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_g_2_1.png
   orig: 72, 76
   offset: 0, 0
   index: -1
+xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_g_6_0.png
+  rotate: false
+  xy: 95, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_g_6_1.png
+  rotate: false
+  xy: 92, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_h_2_0.png
   rotate: false
   xy: 406, 9
@@ -186,11 +214,25 @@ xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_h_2_1.png
   orig: 54, 52
   offset: 0, 0
   index: -1
+xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_h_6_0.png
+  rotate: false
+  xy: 89, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_h_6_1.png
   rotate: false
   xy: 80, 97
   size: 1, 1
   orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_i_2_0.png
+  rotate: false
+  xy: 461, 39
+  size: 42, 30
+  orig: 42, 30
   offset: 0, 0
   index: -1
 xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_i_2_1.png
@@ -300,7 +342,7 @@ xmas_c18_bounceycastle_xmas_c18_bounceycastle_64_l_6_1.png
   index: -1
 xmas_c18_bounceycastle_xmas_c18_bounceycastle_icon_a.png
   rotate: false
-  xy: 461, 40
+  xy: 461, 8
   size: 28, 29
   orig: 28, 29
   offset: 0, 0

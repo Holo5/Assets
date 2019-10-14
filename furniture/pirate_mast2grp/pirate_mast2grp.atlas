@@ -200,9 +200,16 @@ pirate_mast2grp_pirate_mast2grp_64_j_0_1.png
   orig: 24, 123
   offset: 0, 0
   index: -1
-pirate_mast2grp_pirate_mast2grp_64_j_4_1.png
+pirate_mast2grp_pirate_mast2grp_64_j_4_0.png
   rotate: false
   xy: 118, 38
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pirate_mast2grp_pirate_mast2grp_64_j_4_1.png
+  rotate: false
+  xy: 434, 79
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

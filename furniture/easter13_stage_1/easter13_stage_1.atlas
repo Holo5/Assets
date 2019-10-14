@@ -18,11 +18,25 @@ easter13_stage_1_easter13_stage_1_64_b_0_0.png
   orig: 69, 51
   offset: 0, 0
   index: -1
+easter13_stage_1_easter13_stage_1_64_c_0_0.png
+  rotate: false
+  xy: 123, 28
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 easter13_stage_1_easter13_stage_1_64_c_0_1.png
   rotate: false
   xy: 105, 13
   size: 16, 16
   orig: 16, 16
+  offset: 0, 0
+  index: -1
+easter13_stage_1_easter13_stage_1_64_d_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 easter13_stage_1_easter13_stage_1_64_d_0_1.png
@@ -32,11 +46,25 @@ easter13_stage_1_easter13_stage_1_64_d_0_1.png
   orig: 15, 16
   offset: 0, 0
   index: -1
+easter13_stage_1_easter13_stage_1_64_e_0_0.png
+  rotate: false
+  xy: 146, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 easter13_stage_1_easter13_stage_1_64_e_0_1.png
   rotate: false
   xy: 212, 44
   size: 17, 18
   orig: 17, 18
+  offset: 0, 0
+  index: -1
+easter13_stage_1_easter13_stage_1_64_f_0_0.png
+  rotate: false
+  xy: 105, 10
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 easter13_stage_1_easter13_stage_1_64_f_0_1.png

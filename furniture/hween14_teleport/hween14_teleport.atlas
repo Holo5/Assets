@@ -46,11 +46,25 @@ hween14_teleport_hween14_teleport_64_c_4_1.png
   orig: 26, 17
   offset: 0, 0
   index: -1
+hween14_teleport_hween14_teleport_64_d_4_0.png
+  rotate: false
+  xy: 306, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween14_teleport_hween14_teleport_64_d_4_1.png
   rotate: false
   xy: 709, 113
   size: 19, 7
   orig: 19, 7
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_0.png
+  rotate: false
+  xy: 230, 90
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween14_teleport_hween14_teleport_64_e_4_1.png
@@ -72,6 +86,20 @@ hween14_teleport_hween14_teleport_64_e_4_11.png
   xy: 938, 127
   size: 5, 14
   orig: 5, 14
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_12.png
+  rotate: false
+  xy: 529, 100
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_13.png
+  rotate: false
+  xy: 961, 195
+  size: 2, 2
+  orig: 2, 2
   offset: 0, 0
   index: -1
 hween14_teleport_hween14_teleport_64_e_4_14.png

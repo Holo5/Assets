@@ -60,6 +60,13 @@ lidowall3_lidowall3_64_d_2_0.png
   orig: 68, 288
   offset: 0, 0
   index: -1
+lidowall3_lidowall3_64_e_0_0.png
+  rotate: false
+  xy: 265, 52
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 lidowall3_lidowall3_64_e_0_1.png
   rotate: false
   xy: 2, 289
@@ -72,6 +79,13 @@ lidowall3_lidowall3_64_e_0_2.png
   xy: 2, 99
   size: 188, 188
   orig: 188, 188
+  offset: 0, 0
+  index: -1
+lidowall3_lidowall3_64_e_2_0.png
+  rotate: false
+  xy: 493, 503
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 lidowall3_lidowall3_64_e_2_1.png

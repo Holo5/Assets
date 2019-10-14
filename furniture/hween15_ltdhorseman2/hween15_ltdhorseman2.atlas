@@ -13,14 +13,28 @@ hween15_ltdhorseman2_hween15_ltdhorseman2_64_a_4_0.png
   index: -1
 hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_0.png
   rotate: false
-  xy: 459, 140
+  xy: 570, 140
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_1.png
+  rotate: false
+  xy: 145, 29
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_10.png
+  rotate: false
+  xy: 784, 140
   size: 105, 114
   orig: 105, 114
   offset: 0, 0
   index: -1
 hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_11.png
   rotate: false
-  xy: 885, 34
+  xy: 464, 29
   size: 97, 114
   orig: 97, 114
   offset: 0, 0
@@ -41,35 +55,56 @@ hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_13.png
   index: -1
 hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_14.png
   rotate: false
-  xy: 350, 145
+  xy: 461, 145
   size: 107, 109
   orig: 107, 109
   offset: 0, 0
   index: -1
 hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_15.png
   rotate: false
-  xy: 671, 144
+  xy: 250, 33
   size: 105, 110
   orig: 105, 110
+  offset: 0, 0
+  index: -1
+hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_2.png
+  rotate: false
+  xy: 779, 34
+  size: 107, 104
+  orig: 107, 104
+  offset: 0, 0
+  index: -1
+hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_3.png
+  rotate: false
+  xy: 350, 145
+  size: 109, 109
+  orig: 109, 109
   offset: 0, 0
   index: -1
 hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_4.png
   rotate: false
-  xy: 778, 144
+  xy: 357, 33
   size: 105, 110
   orig: 105, 110
   offset: 0, 0
   index: -1
+hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_5.png
+  rotate: false
+  xy: 677, 140
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
 hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_6.png
   rotate: false
-  xy: 566, 140
+  xy: 891, 140
   size: 103, 114
   orig: 103, 114
   offset: 0, 0
   index: -1
 hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_7.png
   rotate: false
-  xy: 885, 150
+  xy: 670, 34
   size: 107, 104
   orig: 107, 104
   offset: 0, 0
@@ -81,16 +116,23 @@ hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_8.png
   orig: 109, 109
   offset: 0, 0
   index: -1
+hween15_ltdhorseman2_hween15_ltdhorseman2_64_b_4_9.png
+  rotate: false
+  xy: 563, 28
+  size: 105, 110
+  orig: 105, 110
+  offset: 0, 0
+  index: -1
 hween15_ltdhorseman2_hween15_ltdhorseman2_64_sd_4_0.png
   rotate: false
-  xy: 141, 137
+  xy: 145, 9
   size: 34, 18
   orig: 34, 18
   offset: 0, 0
   index: -1
 hween15_ltdhorseman2_hween15_ltdhorseman2_icon_a.png
   rotate: false
-  xy: 113, 126
+  xy: 996, 225
   size: 26, 29
   orig: 26, 29
   offset: 0, 0

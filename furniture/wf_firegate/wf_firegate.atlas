@@ -1,208 +1,243 @@
 
 wf_firegate.png
-size: 512,256
+size: 2048,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 wf_firegate_wf_firegate_64_a_2_0.png
   rotate: false
-  xy: 290, 59
+  xy: 1027, 91
   size: 60, 35
   orig: 60, 35
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_a_2_1.png
   rotate: false
-  xy: 2, 10
+  xy: 965, 91
   size: 60, 35
   orig: 60, 35
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_a_2_2.png
   rotate: false
-  xy: 365, 49
+  xy: 1089, 91
   size: 60, 35
   orig: 60, 35
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_b_2_0.png
   rotate: false
-  xy: 468, 94
+  xy: 1295, 46
   size: 32, 80
   orig: 32, 80
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_b_2_1.png
   rotate: false
-  xy: 389, 86
+  xy: 1084, 2
   size: 37, 87
   orig: 37, 87
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_b_2_2.png
   rotate: false
-  xy: 428, 87
+  xy: 1005, 2
   size: 38, 87
   orig: 38, 87
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_b_2_3.png
   rotate: false
-  xy: 214, 69
+  xy: 1258, 36
   size: 35, 90
   orig: 35, 90
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_b_2_4.png
   rotate: false
-  xy: 105, 58
+  xy: 1189, 30
   size: 30, 96
   orig: 30, 96
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_b_2_5.png
   rotate: false
-  xy: 355, 90
+  xy: 1123, 9
   size: 32, 80
   orig: 32, 80
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_b_2_6.png
   rotate: false
-  xy: 251, 75
+  xy: 1045, 2
   size: 37, 87
   orig: 37, 87
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_b_2_7.png
   rotate: false
-  xy: 174, 72
+  xy: 965, 2
   size: 38, 87
   orig: 38, 87
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_b_2_8.png
   rotate: false
-  xy: 137, 64
+  xy: 1221, 36
   size: 35, 90
   orig: 35, 90
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_b_2_9.png
   rotate: false
-  xy: 73, 49
+  xy: 1157, 30
   size: 30, 96
   orig: 30, 96
   offset: 0, 0
   index: -1
+wf_firegate_wf_firegate_64_b_2_99.png
+  rotate: false
+  xy: 77, 25
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 wf_firegate_wf_firegate_64_c_2_0.png
   rotate: false
-  xy: 137, 2
+  xy: 697, 66
   size: 54, 60
   orig: 54, 60
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_1.png
   rotate: false
-  xy: 290, 96
+  xy: 566, 52
   size: 63, 74
   orig: 63, 74
   offset: 0, 0
   index: -1
+wf_firegate_wf_firegate_64_c_2_10.png
+  rotate: false
+  xy: 806, 73
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+wf_firegate_wf_firegate_64_c_2_11.png
+  rotate: false
+  xy: 912, 79
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+wf_firegate_wf_firegate_64_c_2_12.png
+  rotate: false
+  xy: 1329, 46
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
 wf_firegate_wf_firegate_64_c_2_13.png
   rotate: false
-  xy: 259, 4
+  xy: 753, 73
   size: 51, 53
   orig: 51, 53
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_14.png
   rotate: false
-  xy: 312, 10
+  xy: 859, 79
   size: 51, 47
   orig: 51, 47
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_15.png
   rotate: false
-  xy: 365, 8
+  xy: 1329, 87
   size: 48, 39
   orig: 48, 39
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_2.png
   rotate: false
-  xy: 360, 175
+  xy: 431, 47
   size: 65, 79
   orig: 65, 79
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_3.png
   rotate: false
-  xy: 427, 176
+  xy: 498, 48
   size: 66, 78
   orig: 66, 78
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_4.png
   rotate: false
-  xy: 147, 161
+  xy: 218, 33
   size: 70, 93
   orig: 70, 93
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_5.png
   rotate: false
-  xy: 77, 156
+  xy: 148, 28
   size: 68, 98
   orig: 68, 98
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_6.png
   rotate: false
-  xy: 2, 47
+  xy: 77, 28
   size: 69, 98
   orig: 69, 98
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_7.png
   rotate: false
-  xy: 219, 164
+  xy: 290, 36
   size: 68, 90
   orig: 68, 90
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_8.png
   rotate: false
-  xy: 289, 172
+  xy: 360, 44
   size: 69, 82
   orig: 69, 82
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_9.png
   rotate: false
-  xy: 193, 9
+  xy: 631, 68
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_c_2_99.png
   rotate: false
-  xy: 219, 161
+  xy: 2, 16
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 wf_firegate_wf_firegate_64_d_2_0.png
   rotate: false
-  xy: 2, 147
+  xy: 2, 19
   size: 73, 107
   orig: 73, 107
   offset: 0, 0
   index: -1
+wf_firegate_wf_firegate_64_d_2_99.png
+  rotate: false
+  xy: 631, 65
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 wf_firegate_wf_firegate_icon_a.png
   rotate: false
-  xy: 415, 17
+  xy: 1379, 96
   size: 21, 30
   orig: 21, 30
   offset: 0, 0

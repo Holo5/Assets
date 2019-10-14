@@ -1,12 +1,26 @@
 
 floor.png
-size: 64,32
+size: 128,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+floor_floor_64_a_2_0.png
+  rotate: false
+  xy: 34, 2
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
 floor_floor_64_a_4_0.png
   rotate: false
   xy: 2, 2
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+floor_floor_icon_a.png
+  rotate: false
+  xy: 66, 2
   size: 30, 23
   orig: 30, 23
   offset: 0, 0

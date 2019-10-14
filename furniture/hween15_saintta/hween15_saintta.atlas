@@ -1,257 +1,292 @@
 
 hween15_saintta.png
-size: 2048,128
+size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hween15_saintta_hween15_saintta_64_a_2_0.png
+  rotate: false
+  xy: 192, 2
+  size: 42, 81
+  orig: 42, 81
+  offset: 0, 0
+  index: -1
+hween15_saintta_hween15_saintta_64_a_2_1.png
+  rotate: false
+  xy: 936, 169
+  size: 43, 81
+  orig: 43, 81
+  offset: 0, 0
+  index: -1
 hween15_saintta_hween15_saintta_64_a_2_10.png
   rotate: false
-  xy: 185, 34
+  xy: 97, 169
   size: 84, 81
   orig: 84, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_11.png
   rotate: false
-  xy: 271, 34
+  xy: 2, 3
   size: 77, 81
   orig: 77, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_12.png
   rotate: false
-  xy: 97, 34
+  xy: 2, 86
   size: 86, 81
   orig: 86, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_13.png
   rotate: false
-  xy: 2, 34
+  xy: 2, 169
   size: 93, 81
   orig: 93, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_14.png
   rotate: false
-  xy: 350, 34
+  xy: 90, 86
   size: 76, 81
   orig: 76, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_15.png
   rotate: false
-  xy: 561, 34
+  xy: 81, 3
   size: 65, 81
   orig: 65, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_16.png
   rotate: false
-  xy: 758, 36
+  xy: 446, 171
   size: 63, 79
   orig: 63, 79
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_17.png
   rotate: false
-  xy: 495, 33
+  xy: 250, 168
   size: 64, 82
   orig: 64, 82
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_18.png
   rotate: false
-  xy: 428, 33
+  xy: 183, 168
   size: 65, 82
   orig: 65, 82
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_19.png
   rotate: false
-  xy: 628, 34
+  xy: 316, 169
   size: 63, 81
   orig: 63, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_2.png
   rotate: false
-  xy: 1644, 34
+  xy: 981, 169
   size: 41, 81
   orig: 41, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_20.png
   rotate: false
-  xy: 1468, 34
+  xy: 389, 86
   size: 42, 81
   orig: 42, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_21.png
   rotate: false
-  xy: 1424, 34
+  xy: 323, 2
   size: 42, 81
   orig: 42, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_22.png
   rotate: false
-  xy: 1380, 33
+  xy: 345, 85
   size: 42, 82
   orig: 42, 82
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_23.png
   rotate: false
-  xy: 1730, 34
+  xy: 367, 2
   size: 41, 81
   orig: 41, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_24.png
   rotate: false
-  xy: 1600, 34
+  xy: 477, 86
   size: 42, 81
   orig: 42, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_25.png
   rotate: false
-  xy: 1773, 34
+  xy: 454, 3
   size: 41, 81
   orig: 41, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_26.png
   rotate: false
-  xy: 1556, 34
+  xy: 433, 86
   size: 42, 81
   orig: 42, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_27.png
   rotate: false
-  xy: 1512, 34
+  xy: 410, 3
   size: 42, 81
   orig: 42, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_28.png
   rotate: false
-  xy: 1247, 34
+  xy: 213, 85
   size: 43, 81
   orig: 43, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_29.png
   rotate: false
-  xy: 1687, 34
+  xy: 302, 85
   size: 41, 81
   orig: 41, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_3.png
   rotate: false
-  xy: 1065, 34
+  xy: 753, 169
   size: 44, 81
   orig: 44, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_30.png
   rotate: false
-  xy: 1111, 34
+  xy: 845, 169
   size: 44, 81
   orig: 44, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_31.png
   rotate: false
-  xy: 1816, 36
+  xy: 521, 88
   size: 42, 79
   orig: 42, 79
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_32.png
   rotate: false
-  xy: 971, 35
+  xy: 659, 170
   size: 45, 80
   orig: 45, 80
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_33.png
   rotate: false
-  xy: 1018, 35
+  xy: 706, 170
   size: 45, 80
   orig: 45, 80
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_34.png
   rotate: false
-  xy: 1202, 34
+  xy: 168, 85
   size: 43, 81
   orig: 43, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_35.png
   rotate: false
-  xy: 1336, 34
+  xy: 236, 2
   size: 42, 81
   orig: 42, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_36.png
   rotate: false
-  xy: 923, 34
+  xy: 611, 169
   size: 46, 81
   orig: 46, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_37.png
   rotate: false
-  xy: 823, 34
+  xy: 511, 169
   size: 50, 81
   orig: 50, 81
   offset: 0, 0
   index: -1
+hween15_saintta_hween15_saintta_64_a_2_38.png
+  rotate: false
+  xy: 148, 2
+  size: 42, 81
+  orig: 42, 81
+  offset: 0, 0
+  index: -1
 hween15_saintta_hween15_saintta_64_a_2_4.png
   rotate: false
-  xy: 1292, 34
+  xy: 258, 85
   size: 42, 81
   orig: 42, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_5.png
   rotate: false
-  xy: 1157, 34
+  xy: 891, 169
   size: 43, 81
   orig: 43, 81
   offset: 0, 0
   index: -1
+hween15_saintta_hween15_saintta_64_a_2_6.png
+  rotate: false
+  xy: 280, 2
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+hween15_saintta_hween15_saintta_64_a_2_7.png
+  rotate: false
+  xy: 799, 169
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
 hween15_saintta_hween15_saintta_64_a_2_8.png
   rotate: false
-  xy: 875, 34
+  xy: 563, 169
   size: 46, 81
   orig: 46, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_a_2_9.png
   rotate: false
-  xy: 693, 34
+  xy: 381, 169
   size: 63, 81
   orig: 63, 81
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_64_sd_2_0.png
   rotate: false
-  xy: 1860, 98
+  xy: 597, 150
   size: 34, 17
   orig: 34, 17
   offset: 0, 0
   index: -1
 hween15_saintta_hween15_saintta_icon_a.png
   rotate: false
-  xy: 2, 2
+  xy: 565, 137
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

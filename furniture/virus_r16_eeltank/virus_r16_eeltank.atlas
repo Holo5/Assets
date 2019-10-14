@@ -39,6 +39,13 @@ virus_r16_eeltank_virus_r16_eeltank_64_c_0_1.png
   orig: 61, 40
   offset: 0, 0
   index: -1
+virus_r16_eeltank_virus_r16_eeltank_64_c_0_2.png
+  rotate: false
+  xy: 530, 83
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_d_0_0.png
   rotate: false
   xy: 530, 44
@@ -104,7 +111,7 @@ virus_r16_eeltank_virus_r16_eeltank_64_h_0_1.png
   index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_h_0_2.png
   rotate: false
-  xy: 384, 80
+  xy: 407, 83
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -228,6 +235,13 @@ virus_r16_eeltank_virus_r16_eeltank_64_j_0_0.png
   orig: 64, 49
   offset: 0, 0
   index: -1
+virus_r16_eeltank_virus_r16_eeltank_64_j_0_1.png
+  rotate: false
+  xy: 384, 77
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_j_0_2.png
   rotate: false
   xy: 606, 94
@@ -237,7 +251,7 @@ virus_r16_eeltank_virus_r16_eeltank_64_j_0_2.png
   index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_j_0_3.png
   rotate: false
-  xy: 407, 83
+  xy: 517, 44
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -249,11 +263,25 @@ virus_r16_eeltank_virus_r16_eeltank_64_j_0_4.png
   orig: 71, 30
   offset: 0, 0
   index: -1
+virus_r16_eeltank_virus_r16_eeltank_64_j_0_5.png
+  rotate: false
+  xy: 199, 71
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_j_0_6.png
   rotate: false
   xy: 202, 86
   size: 69, 40
   orig: 69, 40
+  offset: 0, 0
+  index: -1
+virus_r16_eeltank_virus_r16_eeltank_64_j_0_7.png
+  rotate: false
+  xy: 410, 83
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_k_0_0.png
@@ -265,14 +293,14 @@ virus_r16_eeltank_virus_r16_eeltank_64_k_0_0.png
   index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_k_0_1.png
   rotate: false
-  xy: 643, 25
+  xy: 929, 47
   size: 35, 21
   orig: 35, 21
   offset: 0, 0
   index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_k_0_2.png
   rotate: false
-  xy: 643, 3
+  xy: 643, 16
   size: 35, 20
   orig: 35, 20
   offset: 0, 0
@@ -314,7 +342,7 @@ virus_r16_eeltank_virus_r16_eeltank_64_k_0_7.png
   index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_k_0_8.png
   rotate: false
-  xy: 530, 83
+  xy: 530, 80
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -322,6 +350,13 @@ virus_r16_eeltank_virus_r16_eeltank_64_k_0_8.png
 virus_r16_eeltank_virus_r16_eeltank_64_l_0_0.png
   rotate: false
   xy: 968, 61
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+virus_r16_eeltank_virus_r16_eeltank_64_l_0_1.png
+  rotate: false
+  xy: 575, 10
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -347,16 +382,23 @@ virus_r16_eeltank_virus_r16_eeltank_64_l_0_4.png
   orig: 32, 48
   offset: 0, 0
   index: -1
+virus_r16_eeltank_virus_r16_eeltank_64_l_0_5.png
+  rotate: false
+  xy: 677, 56
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_l_0_6.png
   rotate: false
-  xy: 575, 7
+  xy: 643, 38
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_l_0_7.png
   rotate: false
-  xy: 643, 48
+  xy: 711, 66
   size: 21, 25
   orig: 21, 25
   offset: 0, 0
@@ -387,6 +429,13 @@ virus_r16_eeltank_virus_r16_eeltank_64_m_0_1.png
   xy: 517, 14
   size: 56, 28
   orig: 56, 28
+  offset: 0, 0
+  index: -1
+virus_r16_eeltank_virus_r16_eeltank_64_m_0_2.png
+  rotate: false
+  xy: 384, 80
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 virus_r16_eeltank_virus_r16_eeltank_64_n_0_0.png

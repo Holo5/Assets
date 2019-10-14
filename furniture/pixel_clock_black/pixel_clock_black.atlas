@@ -18,3 +18,10 @@ pixel_clock_black_pixel_clock_black_64_sd_2_0.png
   orig: 32, 27
   offset: 0, 0
   index: -1
+pixel_clock_black_pixel_clock_black_icon_a.png
+  rotate: false
+  xy: 76, 27
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1

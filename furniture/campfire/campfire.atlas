@@ -60,6 +60,13 @@ campfire_campfire_64_b_0_5.png
   orig: 39, 61
   offset: 0, 0
   index: -1
+campfire_campfire_64_c_0_0.png
+  rotate: false
+  xy: 149, 62
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 campfire_campfire_64_c_0_1.png
   rotate: false
   xy: 201, 63

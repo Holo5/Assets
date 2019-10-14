@@ -6,238 +6,301 @@ filter: Nearest,Nearest
 repeat: none
 ads_bigtv_missmix_ads_bigtv_missmix_64_a_2_0.png
   rotate: false
-  xy: 1182, 27
+  xy: 1912, 139
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ads_bigtv_missmix_ads_bigtv_missmix_64_a_2_1.png
+  rotate: false
+  xy: 1912, 17
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ads_bigtv_missmix_ads_bigtv_missmix_64_a_4_0.png
+  rotate: false
+  xy: 1890, 261
   size: 120, 120
   orig: 120, 120
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_a_4_1.png
   rotate: false
-  xy: 1060, 27
+  xy: 1890, 383
   size: 120, 120
   orig: 120, 120
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_2_0.png
   rotate: false
-  xy: 742, 149
+  xy: 742, 151
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_2_1.png
   rotate: false
-  xy: 918, 326
+  xy: 918, 328
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_2_2.png
   rotate: false
-  xy: 918, 149
+  xy: 918, 151
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_2_3.png
   rotate: false
-  xy: 1094, 326
+  xy: 1094, 328
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_2_4.png
   rotate: false
-  xy: 1094, 149
+  xy: 1094, 151
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_2_5.png
   rotate: false
-  xy: 742, 326
+  xy: 742, 328
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_4_0.png
   rotate: false
-  xy: 390, 326
+  xy: 390, 328
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_4_1.png
   rotate: false
-  xy: 214, 326
+  xy: 214, 328
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_4_2.png
   rotate: false
-  xy: 214, 149
+  xy: 214, 151
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_4_3.png
   rotate: false
-  xy: 566, 326
+  xy: 566, 328
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_4_4.png
   rotate: false
-  xy: 390, 149
+  xy: 390, 151
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_b_4_5.png
   rotate: false
-  xy: 566, 149
+  xy: 566, 151
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
+ads_bigtv_missmix_ads_bigtv_missmix_64_c_2_0.png
+  rotate: false
+  xy: 2, 51
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_2_1.png
   rotate: false
-  xy: 1439, 354
+  xy: 214, 2
   size: 140, 147
   orig: 140, 147
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_2_2.png
   rotate: false
-  xy: 1723, 356
+  xy: 1066, 4
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_2_3.png
   rotate: false
-  xy: 1723, 209
+  xy: 1207, 4
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_2_4.png
   rotate: false
-  xy: 919, 2
+  xy: 1771, 64
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_2_5.png
   rotate: false
-  xy: 778, 2
+  xy: 1749, 211
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_2_6.png
   rotate: false
-  xy: 637, 2
+  xy: 1749, 358
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
+ads_bigtv_missmix_ads_bigtv_missmix_64_c_4_0.png
+  rotate: false
+  xy: 2, 48
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_4_1.png
   rotate: false
-  xy: 1439, 205
+  xy: 356, 2
   size: 140, 147
   orig: 140, 147
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_4_2.png
   rotate: false
-  xy: 1864, 356
+  xy: 1348, 4
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_4_3.png
   rotate: false
-  xy: 1864, 209
+  xy: 1489, 4
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_4_4.png
   rotate: false
-  xy: 214, 2
+  xy: 1608, 358
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_4_5.png
   rotate: false
-  xy: 355, 2
+  xy: 1608, 211
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_c_4_6.png
   rotate: false
-  xy: 496, 2
+  xy: 1630, 64
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_d_2_0.png
   rotate: false
-  xy: 1581, 207
+  xy: 782, 3
+  size: 140, 146
+  orig: 140, 146
+  offset: 0, 0
+  index: -1
+ads_bigtv_missmix_ads_bigtv_missmix_64_d_2_1.png
+  rotate: false
+  xy: 924, 3
   size: 140, 146
   orig: 140, 146
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_d_4_0.png
   rotate: false
-  xy: 1581, 355
+  xy: 498, 3
   size: 140, 146
   orig: 140, 146
   offset: 0, 0
   index: -1
+ads_bigtv_missmix_ads_bigtv_missmix_64_d_4_1.png
+  rotate: false
+  xy: 640, 3
+  size: 140, 146
+  orig: 140, 146
+  offset: 0, 0
+  index: -1
+ads_bigtv_missmix_ads_bigtv_missmix_64_e_2_0.png
+  rotate: false
+  xy: 2, 54
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_e_2_1.png
   rotate: false
-  xy: 2, 81
+  xy: 2, 83
   size: 210, 209
   orig: 210, 209
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_e_4_0.png
   rotate: false
-  xy: 2005, 500
+  xy: 2, 57
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_e_4_1.png
   rotate: false
-  xy: 2, 292
+  xy: 2, 294
   size: 210, 209
   orig: 210, 209
   offset: 0, 0
   index: -1
+ads_bigtv_missmix_ads_bigtv_missmix_64_f_2_0.png
+  rotate: false
+  xy: 1270, 151
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_f_2_1.png
   rotate: false
-  xy: 1270, 326
+  xy: 1270, 328
   size: 167, 175
   orig: 167, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_64_f_4_0.png
   rotate: false
-  xy: 1270, 149
+  xy: 1439, 328
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+ads_bigtv_missmix_ads_bigtv_missmix_64_f_4_1.png
+  rotate: false
+  xy: 1439, 151
   size: 167, 175
   orig: 167, 175
   offset: 0, 0
   index: -1
 ads_bigtv_missmix_ads_bigtv_missmix_icon_a.png
   rotate: false
-  xy: 1439, 182
+  xy: 2, 60
   size: 26, 21
   orig: 26, 21
   offset: 0, 0

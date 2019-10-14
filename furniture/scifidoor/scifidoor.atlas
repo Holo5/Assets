@@ -158,11 +158,25 @@ scifidoor_scifidoor_64_c_4_0.png
   orig: 22, 64
   offset: 0, 0
   index: -1
+scifidoor_scifidoor_64_c_4_1.png
+  rotate: false
+  xy: 380, 75
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 scifidoor_scifidoor_64_d_4_0.png
   rotate: false
   xy: 298, 19
   size: 40, 22
   orig: 40, 22
+  offset: 0, 0
+  index: -1
+scifidoor_scifidoor_64_d_4_1.png
+  rotate: false
+  xy: 478, 125
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 scifidoor_scifidoor_64_e_4_0.png

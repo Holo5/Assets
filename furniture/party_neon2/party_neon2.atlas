@@ -1,103 +1,180 @@
 
 party_neon2.png
-size: 128,256
+size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 party_neon2_party_neon2_64_a_2_0.png
   rotate: false
-  xy: 62, 44
+  xy: 330, 17
   size: 58, 40
   orig: 58, 40
   offset: 0, 0
   index: -1
 party_neon2_party_neon2_64_a_4_0.png
   rotate: false
-  xy: 2, 48
+  xy: 270, 17
   size: 58, 40
   orig: 58, 40
   offset: 0, 0
   index: -1
 party_neon2_party_neon2_64_b_2_0.png
   rotate: false
-  xy: 62, 2
+  xy: 450, 17
   size: 58, 40
   orig: 58, 40
   offset: 0, 0
   index: -1
 party_neon2_party_neon2_64_b_4_0.png
   rotate: false
-  xy: 2, 6
+  xy: 390, 17
   size: 58, 40
   orig: 58, 40
   offset: 0, 0
   index: -1
+party_neon2_party_neon2_64_c_2_0.png
+  rotate: false
+  xy: 150, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+party_neon2_party_neon2_64_c_2_1.png
+  rotate: false
+  xy: 835, 37
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+party_neon2_party_neon2_64_c_2_2.png
+  rotate: false
+  xy: 815, 37
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
 party_neon2_party_neon2_64_c_2_3.png
   rotate: false
-  xy: 97, 128
+  xy: 795, 37
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
   index: -1
 party_neon2_party_neon2_64_c_2_4.png
   rotate: false
-  xy: 62, 86
+  xy: 210, 17
   size: 58, 40
   orig: 58, 40
   offset: 0, 0
   index: -1
+party_neon2_party_neon2_64_c_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+party_neon2_party_neon2_64_c_4_1.png
+  rotate: false
+  xy: 775, 37
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+party_neon2_party_neon2_64_c_4_2.png
+  rotate: false
+  xy: 755, 37
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
 party_neon2_party_neon2_64_c_4_3.png
   rotate: false
-  xy: 97, 150
+  xy: 735, 37
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
   index: -1
 party_neon2_party_neon2_64_c_4_4.png
   rotate: false
-  xy: 2, 90
+  xy: 150, 17
   size: 58, 40
   orig: 58, 40
   offset: 0, 0
   index: -1
+party_neon2_party_neon2_64_d_2_0.png
+  rotate: false
+  xy: 714, 33
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 party_neon2_party_neon2_64_d_2_1.png
   rotate: false
-  xy: 76, 172
+  xy: 612, 25
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+party_neon2_party_neon2_64_d_2_2.png
+  rotate: false
+  xy: 646, 25
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+party_neon2_party_neon2_64_d_2_3.png
+  rotate: false
+  xy: 680, 25
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 party_neon2_party_neon2_64_d_2_4.png
   rotate: false
-  xy: 2, 132
+  xy: 76, 5
   size: 72, 52
   orig: 72, 52
   offset: 0, 0
   index: -1
 party_neon2_party_neon2_64_d_4_0.png
   rotate: false
-  xy: 110, 237
+  xy: 510, 22
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
+party_neon2_party_neon2_64_d_4_1.png
+  rotate: false
+  xy: 578, 25
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+party_neon2_party_neon2_64_d_4_2.png
+  rotate: false
+  xy: 544, 25
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 party_neon2_party_neon2_64_d_4_3.png
   rotate: false
-  xy: 76, 206
+  xy: 510, 25
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 party_neon2_party_neon2_64_d_4_4.png
   rotate: false
-  xy: 2, 186
+  xy: 2, 5
   size: 72, 52
   orig: 72, 52
   offset: 0, 0
   index: -1
 party_neon2_party_neon2_icon_a.png
   rotate: false
-  xy: 76, 149
+  xy: 714, 36
   size: 19, 21
   orig: 19, 21
   offset: 0, 0

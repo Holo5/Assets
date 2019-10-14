@@ -200,6 +200,20 @@ xmas_c15_reindeer_xmas_c15_reindeer_64_a_2_9.png
   orig: 62, 120
   offset: 0, 0
   index: -1
+xmas_c15_reindeer_xmas_c15_reindeer_64_b_0_0.png
+  rotate: false
+  xy: 5, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c15_reindeer_xmas_c15_reindeer_64_b_0_1.png
+  rotate: false
+  xy: 456, 8
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
 xmas_c15_reindeer_xmas_c15_reindeer_64_b_0_2.png
   rotate: false
   xy: 456, 67
@@ -209,7 +223,7 @@ xmas_c15_reindeer_xmas_c15_reindeer_64_b_0_2.png
   index: -1
 xmas_c15_reindeer_xmas_c15_reindeer_64_b_0_3.png
   rotate: false
-  xy: 456, 9
+  xy: 504, 69
   size: 46, 56
   orig: 46, 56
   offset: 0, 0
@@ -230,28 +244,28 @@ xmas_c15_reindeer_xmas_c15_reindeer_64_b_2_0.png
   index: -1
 xmas_c15_reindeer_xmas_c15_reindeer_64_b_2_1.png
   rotate: false
-  xy: 1486, 211
+  xy: 552, 82
   size: 47, 43
   orig: 47, 43
   offset: 0, 0
   index: -1
 xmas_c15_reindeer_xmas_c15_reindeer_64_b_2_2.png
   rotate: false
-  xy: 504, 81
+  xy: 1486, 210
   size: 47, 44
   orig: 47, 44
   offset: 0, 0
   index: -1
 xmas_c15_reindeer_xmas_c15_reindeer_64_b_2_3.png
   rotate: false
-  xy: 504, 37
+  xy: 1535, 212
   size: 47, 42
   orig: 47, 42
   offset: 0, 0
   index: -1
 xmas_c15_reindeer_xmas_c15_reindeer_64_b_2_4.png
   rotate: false
-  xy: 553, 84
+  xy: 601, 84
   size: 47, 41
   orig: 47, 41
   offset: 0, 0
@@ -265,7 +279,7 @@ xmas_c15_reindeer_xmas_c15_reindeer_64_sd_0_0.png
   index: -1
 xmas_c15_reindeer_xmas_c15_reindeer_icon_a.png
   rotate: false
-  xy: 1535, 224
+  xy: 504, 37
   size: 26, 30
   orig: 26, 30
   offset: 0, 0

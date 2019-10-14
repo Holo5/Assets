@@ -20,6 +20,13 @@ hween13_tree_hween13_tree_64_b_0_0.png
   index: -1
 hween13_tree_hween13_tree_64_b_0_1.png
   rotate: false
+  xy: 184, 149
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+hween13_tree_hween13_tree_64_b_0_2.png
+  rotate: false
   xy: 2, 2
   size: 11, 10
   orig: 11, 10
@@ -27,9 +34,23 @@ hween13_tree_hween13_tree_64_b_0_1.png
   index: -1
 hween13_tree_hween13_tree_64_b_0_3.png
   rotate: false
-  xy: 184, 149
+  xy: 317, 244
   size: 11, 10
   orig: 11, 10
+  offset: 0, 0
+  index: -1
+hween13_tree_hween13_tree_64_b_0_4.png
+  rotate: false
+  xy: 156, 117
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+hween13_tree_hween13_tree_64_b_0_5.png
+  rotate: false
+  xy: 184, 139
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_c_0_0.png
@@ -48,14 +69,21 @@ hween13_tree_hween13_tree_64_c_0_1.png
   index: -1
 hween13_tree_hween13_tree_64_d_0_0.png
   rotate: false
-  xy: 187, 146
+  xy: 203, 158
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween13_tree_hween13_tree_64_d_0_1.png
+  rotate: false
+  xy: 299, 208
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_d_0_10.png
   rotate: false
-  xy: 171, 122
+  xy: 184, 142
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
@@ -67,37 +95,44 @@ hween13_tree_hween13_tree_64_d_0_11.png
   orig: 10, 3
   offset: 0, 0
   index: -1
+hween13_tree_hween13_tree_64_d_0_12.png
+  rotate: false
+  xy: 197, 149
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween13_tree_hween13_tree_64_d_0_2.png
   rotate: false
-  xy: 184, 131
+  xy: 314, 225
   size: 1, 2
   orig: 1, 2
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_d_0_3.png
   rotate: false
-  xy: 160, 115
+  xy: 176, 125
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_d_0_4.png
   rotate: false
-  xy: 15, 9
+  xy: 156, 97
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_d_0_5.png
   rotate: false
-  xy: 83, 35
+  xy: 94, 50
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_d_0_6.png
   rotate: false
-  xy: 310, 222
+  xy: 317, 237
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
@@ -111,91 +146,112 @@ hween13_tree_hween13_tree_64_d_0_7.png
   index: -1
 hween13_tree_hween13_tree_64_d_0_8.png
   rotate: false
-  xy: 156, 105
+  xy: 15, 2
   size: 2, 12
   orig: 2, 12
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_d_0_9.png
   rotate: false
-  xy: 329, 251
+  xy: 83, 40
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
+hween13_tree_hween13_tree_64_e_0_0.png
+  rotate: false
+  xy: 304, 216
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween13_tree_hween13_tree_64_e_0_1.png
+  rotate: false
+  xy: 77, 27
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
 hween13_tree_hween13_tree_64_e_0_10.png
   rotate: false
-  xy: 299, 218
+  xy: 83, 45
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_e_0_11.png
   rotate: false
-  xy: 317, 246
+  xy: 15, 16
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_e_0_12.png
   rotate: false
-  xy: 156, 119
+  xy: 299, 219
   size: 13, 8
   orig: 13, 8
   offset: 0, 0
   index: -1
+hween13_tree_hween13_tree_64_e_0_13.png
+  rotate: false
+  xy: 194, 146
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween13_tree_hween13_tree_64_e_0_2.png
   rotate: false
-  xy: 22, 21
+  xy: 162, 112
   size: 2, 3
   orig: 2, 3
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_e_0_3.png
   rotate: false
-  xy: 156, 100
+  xy: 22, 11
   size: 2, 3
   orig: 2, 3
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_e_0_4.png
   rotate: false
-  xy: 89, 50
+  xy: 27, 20
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_e_0_5.png
   rotate: false
-  xy: 317, 239
+  xy: 330, 249
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_e_0_6.png
   rotate: false
-  xy: 299, 210
+  xy: 299, 211
   size: 3, 6
   orig: 3, 6
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_e_0_7.png
   rotate: false
-  xy: 15, 14
+  xy: 169, 117
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_e_0_8.png
   rotate: false
-  xy: 184, 135
+  xy: 19, 2
   size: 1, 12
   orig: 1, 12
   offset: 0, 0
   index: -1
 hween13_tree_hween13_tree_64_e_0_9.png
   rotate: false
-  xy: 83, 41
+  xy: 156, 102
   size: 4, 13
   orig: 4, 13
   offset: 0, 0

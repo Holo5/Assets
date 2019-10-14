@@ -1,14 +1,28 @@
 
 coralking_c18_bubbleseat.png
-size: 1024,256
+size: 2048,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_a_0_0.png
   rotate: false
-  xy: 729, 121
+  xy: 943, 121
   size: 40, 25
   orig: 40, 25
+  offset: 0, 0
+  index: -1
+coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_b_0_0.png
+  rotate: false
+  xy: 1371, 154
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_b_0_1.png
+  rotate: false
+  xy: 985, 140
+  size: 6, 6
+  orig: 6, 6
   offset: 0, 0
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_b_0_2.png
@@ -20,42 +34,42 @@ coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_b_0_2.png
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_b_0_3.png
   rotate: false
-  xy: 922, 146
+  xy: 1401, 216
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_b_0_4.png
   rotate: false
-  xy: 771, 140
+  xy: 1350, 146
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_b_0_5.png
   rotate: false
-  xy: 994, 247
+  xy: 138, 64
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_b_0_6.png
   rotate: false
-  xy: 973, 216
+  xy: 1422, 247
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_b_0_7.png
   rotate: false
-  xy: 138, 64
+  xy: 1392, 177
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_c_0_0.png
   rotate: false
-  xy: 729, 118
+  xy: 943, 118
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -69,7 +83,7 @@ coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_c_0_1.png
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_c_0_2.png
   rotate: false
-  xy: 943, 157
+  xy: 1371, 157
   size: 19, 26
   orig: 19, 26
   offset: 0, 0
@@ -90,7 +104,21 @@ coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_c_0_4.png
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_c_0_5.png
   rotate: false
-  xy: 729, 148
+  xy: 943, 148
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_c_0_6.png
+  rotate: false
+  xy: 1050, 148
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_c_0_7.png
+  rotate: false
+  xy: 1157, 148
   size: 105, 105
   orig: 105, 105
   offset: 0, 0
@@ -109,6 +137,13 @@ coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_c_0_9.png
   orig: 165, 156
   offset: 0, 0
   index: -1
+coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_d_0_0.png
+  rotate: false
+  xy: 165, 93
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_d_0_1.png
   rotate: false
   xy: 336, 99
@@ -118,23 +153,37 @@ coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_d_0_1.png
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_d_0_2.png
   rotate: false
-  xy: 922, 154
+  xy: 1350, 154
   size: 19, 29
   orig: 19, 29
   offset: 0, 0
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_d_0_3.png
   rotate: false
-  xy: 922, 185
+  xy: 1350, 185
   size: 49, 68
   orig: 49, 68
   offset: 0, 0
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_d_0_4.png
   rotate: false
-  xy: 836, 139
+  xy: 1264, 139
   size: 84, 114
   orig: 84, 114
+  offset: 0, 0
+  index: -1
+coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_d_0_5.png
+  rotate: false
+  xy: 729, 116
+  size: 105, 137
+  orig: 105, 137
+  offset: 0, 0
+  index: -1
+coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_d_0_6.png
+  rotate: false
+  xy: 836, 116
+  size: 105, 137
+  orig: 105, 137
   offset: 0, 0
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_d_0_7.png
@@ -167,7 +216,7 @@ coralking_c18_bubbleseat_coralking_c18_bubbleseat_64_e_0_0.png
   index: -1
 coralking_c18_bubbleseat_coralking_c18_bubbleseat_icon_a.png
   rotate: false
-  xy: 973, 224
+  xy: 1401, 224
   size: 19, 29
   orig: 19, 29
   offset: 0, 0

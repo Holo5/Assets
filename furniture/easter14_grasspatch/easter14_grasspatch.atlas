@@ -46,6 +46,13 @@ easter14_grasspatch_easter14_grasspatch_64_d_0_0.png
   orig: 103, 60
   offset: 0, 0
   index: -1
+easter14_grasspatch_easter14_grasspatch_64_d_0_1.png
+  rotate: false
+  xy: 492, 57
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
 easter14_grasspatch_easter14_grasspatch_64_e_0_0.png
   rotate: false
   xy: 2, 12
@@ -53,11 +60,25 @@ easter14_grasspatch_easter14_grasspatch_64_e_0_0.png
   orig: 126, 36
   offset: 0, 0
   index: -1
+easter14_grasspatch_easter14_grasspatch_64_e_0_1.png
+  rotate: false
+  xy: 462, 25
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
 easter14_grasspatch_easter14_grasspatch_64_f_0_0.png
   rotate: false
   xy: 136, 2
   size: 56, 48
   orig: 56, 48
+  offset: 0, 0
+  index: -1
+easter14_grasspatch_easter14_grasspatch_64_f_0_1.png
+  rotate: false
+  xy: 194, 49
+  size: 2, 1
+  orig: 2, 1
   offset: 0, 0
   index: -1
 easter14_grasspatch_easter14_grasspatch_icon_a.png

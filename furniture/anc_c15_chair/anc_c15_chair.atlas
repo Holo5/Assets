@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 anc_c15_chair_anc_c15_chair_64_a_0_0.png
   rotate: false
-  xy: 70, 16
+  xy: 170, 60
   size: 28, 19
   orig: 28, 19
   offset: 0, 0
@@ -39,9 +39,16 @@ anc_c15_chair_anc_c15_chair_64_sd_0_0.png
   orig: 66, 33
   offset: 0, 0
   index: -1
+anc_c15_chair_anc_c15_chair_64_sd_2_0.png
+  rotate: false
+  xy: 170, 81
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
 anc_c15_chair_anc_c15_chair_icon_a.png
   rotate: false
-  xy: 170, 84
+  xy: 70, 5
   size: 23, 30
   orig: 23, 30
   offset: 0, 0
