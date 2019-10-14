@@ -1,224 +1,70 @@
 
 easter_c19_littlefairies.png
-size: 2048,64
+size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_0.png
   rotate: false
-  xy: 1298, 26
+  xy: 618, 26
   size: 26, 36
   orig: 26, 36
   offset: 0, 0
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_1.png
   rotate: false
-  xy: 1242, 26
+  xy: 590, 26
   size: 26, 36
   orig: 26, 36
   offset: 0, 0
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_10.png
   rotate: false
-  xy: 1122, 26
+  xy: 530, 26
   size: 28, 36
   orig: 28, 36
   offset: 0, 0
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_11.png
   rotate: false
-  xy: 1002, 26
+  xy: 470, 26
   size: 28, 36
   orig: 28, 36
   offset: 0, 0
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_12.png
   rotate: false
-  xy: 1062, 26
+  xy: 500, 26
   size: 28, 36
   orig: 28, 36
   offset: 0, 0
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_13.png
   rotate: false
-  xy: 1182, 26
+  xy: 560, 26
   size: 28, 36
   orig: 28, 36
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_14.png
-  rotate: false
-  xy: 1152, 26
-  size: 28, 36
-  orig: 28, 36
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_15.png
-  rotate: false
-  xy: 1032, 26
-  size: 28, 36
-  orig: 28, 36
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_2.png
-  rotate: false
-  xy: 1438, 26
-  size: 26, 36
-  orig: 26, 36
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_3.png
-  rotate: false
-  xy: 1382, 26
-  size: 26, 36
-  orig: 26, 36
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_4.png
-  rotate: false
-  xy: 1326, 26
-  size: 26, 36
-  orig: 26, 36
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_5.png
-  rotate: false
-  xy: 1270, 26
-  size: 26, 36
-  orig: 26, 36
   offset: 0, 0
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_6.png
   rotate: false
-  xy: 1410, 26
+  xy: 674, 26
   size: 26, 36
   orig: 26, 36
   offset: 0, 0
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_7.png
   rotate: false
-  xy: 1354, 26
+  xy: 646, 26
   size: 26, 36
   orig: 26, 36
   offset: 0, 0
   index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_8.png
-  rotate: false
-  xy: 1092, 26
-  size: 28, 36
-  orig: 28, 36
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_a_4_9.png
-  rotate: false
-  xy: 1212, 26
-  size: 28, 36
-  orig: 28, 36
-  offset: 0, 0
-  index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_0.png
   rotate: false
-  xy: 706, 16
+  xy: 433, 16
   size: 35, 46
   orig: 35, 46
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_1.png
-  rotate: false
-  xy: 817, 16
-  size: 35, 46
-  orig: 35, 46
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_10.png
-  rotate: false
-  xy: 320, 15
-  size: 37, 47
-  orig: 37, 47
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_11.png
-  rotate: false
-  xy: 359, 15
-  size: 37, 47
-  orig: 37, 47
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_12.png
-  rotate: false
-  xy: 398, 15
-  size: 37, 47
-  orig: 37, 47
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_13.png
-  rotate: false
-  xy: 437, 15
-  size: 37, 47
-  orig: 37, 47
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_14.png
-  rotate: false
-  xy: 476, 15
-  size: 37, 47
-  orig: 37, 47
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_15.png
-  rotate: false
-  xy: 515, 15
-  size: 37, 47
-  orig: 37, 47
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_2.png
-  rotate: false
-  xy: 854, 16
-  size: 35, 46
-  orig: 35, 46
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_3.png
-  rotate: false
-  xy: 743, 16
-  size: 35, 46
-  orig: 35, 46
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_4.png
-  rotate: false
-  xy: 780, 16
-  size: 35, 46
-  orig: 35, 46
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_5.png
-  rotate: false
-  xy: 928, 16
-  size: 35, 46
-  orig: 35, 46
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_6.png
-  rotate: false
-  xy: 965, 16
-  size: 35, 46
-  orig: 35, 46
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_7.png
-  rotate: false
-  xy: 891, 16
-  size: 35, 46
-  orig: 35, 46
-  offset: 0, 0
-  index: -1
-easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_8.png
-  rotate: false
-  xy: 281, 15
-  size: 37, 47
-  orig: 37, 47
   offset: 0, 0
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_b_4_9.png
@@ -237,7 +83,7 @@ easter_c19_littlefairies_easter_c19_littlefairies_64_c_4_0.png
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_c_4_1.png
   rotate: false
-  xy: 668, 15
+  xy: 395, 15
   size: 36, 47
   orig: 36, 47
   offset: 0, 0
@@ -258,7 +104,7 @@ easter_c19_littlefairies_easter_c19_littlefairies_64_c_4_3.png
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_c_4_4.png
   rotate: false
-  xy: 554, 14
+  xy: 281, 14
   size: 36, 48
   orig: 36, 48
   offset: 0, 0
@@ -272,7 +118,7 @@ easter_c19_littlefairies_easter_c19_littlefairies_64_c_4_5.png
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_c_4_6.png
   rotate: false
-  xy: 630, 15
+  xy: 357, 15
   size: 36, 47
   orig: 36, 47
   offset: 0, 0
@@ -293,7 +139,7 @@ easter_c19_littlefairies_easter_c19_littlefairies_64_c_4_8.png
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_64_c_4_9.png
   rotate: false
-  xy: 592, 14
+  xy: 319, 14
   size: 36, 48
   orig: 36, 48
   offset: 0, 0
@@ -307,7 +153,7 @@ easter_c19_littlefairies_easter_c19_littlefairies_64_sd_4_0.png
   index: -1
 easter_c19_littlefairies_easter_c19_littlefairies_icon_a.png
   rotate: false
-  xy: 1466, 30
+  xy: 702, 30
   size: 28, 32
   orig: 28, 32
   offset: 0, 0

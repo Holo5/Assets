@@ -4,6 +4,13 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+cubie_shelf_0_p_cubie_shelf_0_p_32_a_0_0.png
+  rotate: false
+  xy: 58, 29
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
 cubie_shelf_0_p_cubie_shelf_0_p_64_a_0_0.png
   rotate: false
   xy: 2, 5
@@ -30,12 +37,5 @@ cubie_shelf_0_p_cubie_shelf_0_p_64_b_0_2.png
   xy: 58, 8
   size: 21, 19
   orig: 21, 19
-  offset: 0, 0
-  index: -1
-cubie_shelf_0_p_cubie_shelf_0_p_icon_a.png
-  rotate: false
-  xy: 58, 29
-  size: 26, 22
-  orig: 26, 22
   offset: 0, 0
   index: -1

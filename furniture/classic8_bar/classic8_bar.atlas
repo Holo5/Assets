@@ -27,7 +27,7 @@ classic8_bar_classic8_bar_64_c_0_0.png
   index: -1
 classic8_bar_classic8_bar_64_d_0_0.png
   rotate: false
-  xy: 2, 31
+  xy: 261, 125
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -35,20 +35,6 @@ classic8_bar_classic8_bar_64_d_0_0.png
 classic8_bar_classic8_bar_64_d_0_1.png
   rotate: false
   xy: 198, 50
-  size: 29, 15
-  orig: 29, 15
-  offset: 0, 0
-  index: -1
-classic8_bar_classic8_bar_64_e_0_0.png
-  rotate: false
-  xy: 34, 58
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-classic8_bar_classic8_bar_64_e_0_1.png
-  rotate: false
-  xy: 261, 111
   size: 29, 15
   orig: 29, 15
   offset: 0, 0

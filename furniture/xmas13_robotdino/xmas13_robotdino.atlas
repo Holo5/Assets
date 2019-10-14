@@ -1,33 +1,33 @@
 
 xmas13_robotdino.png
-size: 2048,128
+size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 xmas13_robotdino_xmas13_robotdino_64_a_0_0.png
   rotate: false
-  xy: 1388, 88
+  xy: 464, 88
   size: 43, 25
   orig: 43, 25
   offset: 0, 0
   index: -1
 xmas13_robotdino_xmas13_robotdino_64_b_0_0.png
   rotate: false
-  xy: 926, 41
+  xy: 332, 41
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 xmas13_robotdino_xmas13_robotdino_64_b_0_1.png
   rotate: false
-  xy: 1190, 41
+  xy: 398, 41
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 xmas13_robotdino_xmas13_robotdino_64_b_0_10.png
   rotate: false
-  xy: 134, 41
+  xy: 68, 41
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
@@ -39,121 +39,23 @@ xmas13_robotdino_xmas13_robotdino_64_b_0_11.png
   orig: 64, 72
   offset: 0, 0
   index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_12.png
-  rotate: false
-  xy: 200, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
 xmas13_robotdino_xmas13_robotdino_64_b_0_13.png
   rotate: false
-  xy: 332, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_14.png
-  rotate: false
-  xy: 266, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_15.png
-  rotate: false
-  xy: 68, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_16.png
-  rotate: false
-  xy: 464, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_17.png
-  rotate: false
-  xy: 794, 41
+  xy: 134, 41
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 xmas13_robotdino_xmas13_robotdino_64_b_0_18.png
   rotate: false
-  xy: 398, 41
+  xy: 200, 41
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 xmas13_robotdino_xmas13_robotdino_64_b_0_19.png
   rotate: false
-  xy: 728, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_2.png
-  rotate: false
-  xy: 992, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_20.png
-  rotate: false
-  xy: 530, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_3.png
-  rotate: false
-  xy: 1256, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_4.png
-  rotate: false
-  xy: 1058, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_5.png
-  rotate: false
-  xy: 1322, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_6.png
-  rotate: false
-  xy: 1124, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_7.png
-  rotate: false
-  xy: 596, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_8.png
-  rotate: false
-  xy: 860, 41
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-xmas13_robotdino_xmas13_robotdino_64_b_0_9.png
-  rotate: false
-  xy: 662, 41
+  xy: 266, 41
   size: 64, 72
   orig: 64, 72
   offset: 0, 0

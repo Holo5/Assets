@@ -74,13 +74,6 @@ patch_cloud_patch_cloud_64_e_4_0.png
   orig: 59, 34
   offset: 0, 0
   index: -1
-patch_cloud_patch_cloud_64_f_0_0.png
-  rotate: false
-  xy: 2542, 35
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 patch_cloud_patch_cloud_64_f_0_1.png
   rotate: false
   xy: 1960, 47
@@ -109,13 +102,6 @@ patch_cloud_patch_cloud_64_f_0_4.png
   orig: 107, 67
   offset: 0, 0
   index: -1
-patch_cloud_patch_cloud_64_g_0_0.png
-  rotate: false
-  xy: 1508, 42
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 patch_cloud_patch_cloud_64_g_0_1.png
   rotate: false
   xy: 1088, 25
@@ -142,13 +128,6 @@ patch_cloud_patch_cloud_64_g_0_4.png
   xy: 946, 25
   size: 140, 89
   orig: 140, 89
-  offset: 0, 0
-  index: -1
-patch_cloud_patch_cloud_64_h_0_0.png
-  rotate: false
-  xy: 2623, 69
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 patch_cloud_patch_cloud_64_h_0_1.png

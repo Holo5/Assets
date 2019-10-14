@@ -4,7 +4,21 @@ size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-LT_throne_LT_throne_64_a_0_0.png
+LT_throne_LT_throne_32_c_0_0.png
+  rotate: false
+  xy: 298, 185
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+LT_throne_LT_throne_32_c_0_0.png
+  rotate: false
+  xy: 370, 189
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+LT_throne_LT_throne_32_c_0_0.png
   rotate: false
   xy: 74, 119
   size: 1, 1
@@ -30,13 +44,6 @@ LT_throne_LT_throne_64_b_4_0.png
   xy: 120, 42
   size: 35, 51
   orig: 35, 51
-  offset: 0, 0
-  index: -1
-LT_throne_LT_throne_64_c_0_0.png
-  rotate: false
-  xy: 370, 189
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 LT_throne_LT_throne_64_c_0_1.png
@@ -93,13 +100,6 @@ LT_throne_LT_throne_64_c_0_8.png
   xy: 248, 87
   size: 43, 33
   orig: 43, 33
-  offset: 0, 0
-  index: -1
-LT_throne_LT_throne_64_d_0_0.png
-  rotate: false
-  xy: 298, 185
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 LT_throne_LT_throne_64_d_0_1.png

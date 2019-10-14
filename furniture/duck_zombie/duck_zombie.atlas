@@ -4,16 +4,9 @@ size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-duck_zombie_duck_zombie_64_a_4_0.png
-  rotate: false
-  xy: 157, 12
-  size: 23, 24
-  orig: 23, 24
-  offset: 0, 0
-  index: -1
 duck_zombie_duck_zombie_64_a_4_1.png
   rotate: false
-  xy: 272, 38
+  xy: 157, 12
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
@@ -48,21 +41,21 @@ duck_zombie_duck_zombie_64_a_4_13.png
   index: -1
 duck_zombie_duck_zombie_64_a_4_14.png
   rotate: false
-  xy: 182, 12
+  xy: 272, 38
   size: 21, 24
   orig: 21, 24
   offset: 0, 0
   index: -1
 duck_zombie_duck_zombie_64_a_4_15.png
   rotate: false
-  xy: 297, 38
+  xy: 182, 12
   size: 21, 24
   orig: 21, 24
   offset: 0, 0
   index: -1
 duck_zombie_duck_zombie_64_a_4_16.png
   rotate: false
-  xy: 205, 12
+  xy: 295, 38
   size: 21, 24
   orig: 21, 24
   offset: 0, 0

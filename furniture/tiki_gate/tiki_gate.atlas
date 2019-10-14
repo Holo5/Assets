@@ -13,14 +13,14 @@ tiki_gate_tiki_gate_64_a_0_0.png
   index: -1
 tiki_gate_tiki_gate_64_a_0_1.png
   rotate: false
-  xy: 120, 4
+  xy: 130, 66
   size: 62, 60
   orig: 62, 60
   offset: 0, 0
   index: -1
 tiki_gate_tiki_gate_64_a_2_0.png
   rotate: false
-  xy: 184, 2
+  xy: 194, 65
   size: 57, 61
   orig: 57, 61
   offset: 0, 0
@@ -34,7 +34,7 @@ tiki_gate_tiki_gate_64_a_2_1.png
   index: -1
 tiki_gate_tiki_gate_64_a_4_0.png
   rotate: false
-  xy: 194, 65
+  xy: 120, 3
   size: 57, 61
   orig: 57, 61
   offset: 0, 0
@@ -53,30 +53,16 @@ tiki_gate_tiki_gate_64_a_6_0.png
   orig: 57, 62
   offset: 0, 0
   index: -1
-tiki_gate_tiki_gate_64_a_6_1.png
-  rotate: false
-  xy: 130, 66
-  size: 62, 60
-  orig: 62, 60
-  offset: 0, 0
-  index: -1
 tiki_gate_tiki_gate_64_b_0_0.png
   rotate: false
-  xy: 446, 105
+  xy: 365, 105
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
   index: -1
-tiki_gate_tiki_gate_64_b_0_1.png
-  rotate: false
-  xy: 334, 83
-  size: 25, 43
-  orig: 25, 43
-  offset: 0, 0
-  index: -1
 tiki_gate_tiki_gate_64_b_2_0.png
   rotate: false
-  xy: 392, 105
+  xy: 338, 105
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
@@ -88,28 +74,7 @@ tiki_gate_tiki_gate_64_b_2_1.png
   orig: 25, 43
   offset: 0, 0
   index: -1
-tiki_gate_tiki_gate_64_b_4_0.png
-  rotate: false
-  xy: 473, 105
-  size: 25, 21
-  orig: 25, 21
-  offset: 0, 0
-  index: -1
 tiki_gate_tiki_gate_64_b_4_1.png
-  rotate: false
-  xy: 307, 83
-  size: 25, 43
-  orig: 25, 43
-  offset: 0, 0
-  index: -1
-tiki_gate_tiki_gate_64_b_6_0.png
-  rotate: false
-  xy: 419, 105
-  size: 25, 21
-  orig: 25, 21
-  offset: 0, 0
-  index: -1
-tiki_gate_tiki_gate_64_b_6_1.png
   rotate: false
   xy: 280, 83
   size: 25, 43
@@ -118,7 +83,7 @@ tiki_gate_tiki_gate_64_b_6_1.png
   index: -1
 tiki_gate_tiki_gate_icon_a.png
   rotate: false
-  xy: 361, 96
+  xy: 307, 96
   size: 29, 30
   orig: 29, 30
   offset: 0, 0

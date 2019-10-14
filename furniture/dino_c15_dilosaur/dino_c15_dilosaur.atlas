@@ -4,62 +4,6 @@ size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-dino_c15_dilosaur_dino_c15_dilosaur_64_a_0_0.png
-  rotate: false
-  xy: 755, 41
-  size: 28, 21
-  orig: 28, 21
-  offset: 0, 0
-  index: -1
-dino_c15_dilosaur_dino_c15_dilosaur_64_a_0_1.png
-  rotate: false
-  xy: 704, 20
-  size: 31, 15
-  orig: 31, 15
-  offset: 0, 0
-  index: -1
-dino_c15_dilosaur_dino_c15_dilosaur_64_a_0_2.png
-  rotate: false
-  xy: 702, 2
-  size: 29, 16
-  orig: 29, 16
-  offset: 0, 0
-  index: -1
-dino_c15_dilosaur_dino_c15_dilosaur_64_a_0_3.png
-  rotate: false
-  xy: 814, 41
-  size: 27, 21
-  orig: 27, 21
-  offset: 0, 0
-  index: -1
-dino_c15_dilosaur_dino_c15_dilosaur_64_a_0_4.png
-  rotate: false
-  xy: 698, 37
-  size: 25, 25
-  orig: 25, 25
-  offset: 0, 0
-  index: -1
-dino_c15_dilosaur_dino_c15_dilosaur_64_a_0_5.png
-  rotate: false
-  xy: 920, 35
-  size: 19, 27
-  orig: 19, 27
-  offset: 0, 0
-  index: -1
-dino_c15_dilosaur_dino_c15_dilosaur_64_a_0_6.png
-  rotate: false
-  xy: 353, 2
-  size: 21, 26
-  orig: 21, 26
-  offset: 0, 0
-  index: -1
-dino_c15_dilosaur_dino_c15_dilosaur_64_a_0_7.png
-  rotate: false
-  xy: 871, 40
-  size: 26, 22
-  orig: 26, 22
-  offset: 0, 0
-  index: -1
 dino_c15_dilosaur_dino_c15_dilosaur_64_b_0_0.png
   rotate: false
   xy: 2, 10
@@ -69,28 +13,28 @@ dino_c15_dilosaur_dino_c15_dilosaur_64_b_0_0.png
   index: -1
 dino_c15_dilosaur_dino_c15_dilosaur_64_c_0_0.png
   rotate: false
-  xy: 725, 41
+  xy: 698, 41
   size: 28, 21
   orig: 28, 21
   offset: 0, 0
   index: -1
 dino_c15_dilosaur_dino_c15_dilosaur_64_c_0_1.png
   rotate: false
-  xy: 671, 20
+  xy: 785, 47
   size: 31, 15
   orig: 31, 15
   offset: 0, 0
   index: -1
 dino_c15_dilosaur_dino_c15_dilosaur_64_c_0_2.png
   rotate: false
-  xy: 671, 2
+  xy: 818, 46
   size: 29, 16
   orig: 29, 16
   offset: 0, 0
   index: -1
 dino_c15_dilosaur_dino_c15_dilosaur_64_c_0_3.png
   rotate: false
-  xy: 785, 41
+  xy: 728, 41
   size: 27, 21
   orig: 27, 21
   offset: 0, 0
@@ -104,7 +48,7 @@ dino_c15_dilosaur_dino_c15_dilosaur_64_c_0_4.png
   index: -1
 dino_c15_dilosaur_dino_c15_dilosaur_64_c_0_5.png
   rotate: false
-  xy: 899, 35
+  xy: 353, 10
   size: 19, 27
   orig: 19, 27
   offset: 0, 0
@@ -118,7 +62,7 @@ dino_c15_dilosaur_dino_c15_dilosaur_64_c_0_6.png
   index: -1
 dino_c15_dilosaur_dino_c15_dilosaur_64_c_0_7.png
   rotate: false
-  xy: 843, 40
+  xy: 757, 40
   size: 26, 22
   orig: 26, 22
   offset: 0, 0

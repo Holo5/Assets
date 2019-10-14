@@ -1,52 +1,38 @@
 
 pirate_sandtrap.png
-size: 1024,64
+size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 pirate_sandtrap_pirate_sandtrap_64_a_0_0.png
   rotate: false
-  xy: 406, 24
+  xy: 270, 24
   size: 64, 35
   orig: 64, 35
   offset: 0, 0
   index: -1
 pirate_sandtrap_pirate_sandtrap_64_a_0_1.png
   rotate: false
-  xy: 472, 24
+  xy: 336, 24
   size: 64, 35
   orig: 64, 35
   offset: 0, 0
   index: -1
 pirate_sandtrap_pirate_sandtrap_64_a_2_0.png
   rotate: false
-  xy: 274, 24
+  xy: 138, 24
   size: 64, 35
   orig: 64, 35
   offset: 0, 0
   index: -1
 pirate_sandtrap_pirate_sandtrap_64_a_2_1.png
   rotate: false
-  xy: 340, 24
+  xy: 204, 24
   size: 64, 35
   orig: 64, 35
   offset: 0, 0
   index: -1
 pirate_sandtrap_pirate_sandtrap_64_b_0_0.png
-  rotate: false
-  xy: 138, 22
-  size: 66, 37
-  orig: 66, 37
-  offset: 0, 0
-  index: -1
-pirate_sandtrap_pirate_sandtrap_64_b_0_1.png
-  rotate: false
-  xy: 206, 22
-  size: 66, 37
-  orig: 66, 37
-  offset: 0, 0
-  index: -1
-pirate_sandtrap_pirate_sandtrap_64_b_2_0.png
   rotate: false
   xy: 70, 22
   size: 66, 37

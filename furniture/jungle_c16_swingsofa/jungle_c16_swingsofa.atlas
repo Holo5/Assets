@@ -1,6 +1,6 @@
 
 jungle_c16_swingsofa.png
-size: 512,256
+size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -11,114 +11,58 @@ jungle_c16_swingsofa_jungle_c16_swingsofa_64_a_0_0.png
   orig: 43, 174
   offset: 0, 0
   index: -1
-jungle_c16_swingsofa_jungle_c16_swingsofa_64_a_2_0.png
-  rotate: false
-  xy: 137, 67
-  size: 43, 174
-  orig: 43, 174
-  offset: 0, 0
-  index: -1
-jungle_c16_swingsofa_jungle_c16_swingsofa_64_a_4_0.png
+jungle_c16_swingsofa_jungle_c16_swingsofa_64_a_6_0.png
   rotate: false
   xy: 47, 67
   size: 43, 174
   orig: 43, 174
   offset: 0, 0
   index: -1
-jungle_c16_swingsofa_jungle_c16_swingsofa_64_a_6_0.png
-  rotate: false
-  xy: 92, 67
-  size: 43, 174
-  orig: 43, 174
-  offset: 0, 0
-  index: -1
-jungle_c16_swingsofa_jungle_c16_swingsofa_64_b_0_0.png
-  rotate: false
-  xy: 396, 124
-  size: 69, 63
-  orig: 69, 63
-  offset: 0, 0
-  index: -1
 jungle_c16_swingsofa_jungle_c16_swingsofa_64_b_2_0.png
   rotate: false
-  xy: 298, 70
+  xy: 150, 70
   size: 69, 63
   orig: 69, 63
   offset: 0, 0
   index: -1
 jungle_c16_swingsofa_jungle_c16_swingsofa_64_b_4_0.png
   rotate: false
-  xy: 100, 2
+  xy: 2, 2
   size: 69, 63
   orig: 69, 63
-  offset: 0, 0
-  index: -1
-jungle_c16_swingsofa_jungle_c16_swingsofa_64_b_6_0.png
-  rotate: false
-  xy: 369, 59
-  size: 69, 63
-  orig: 69, 63
-  offset: 0, 0
-  index: -1
-jungle_c16_swingsofa_jungle_c16_swingsofa_64_c_0_0.png
-  rotate: false
-  xy: 211, 90
-  size: 27, 151
-  orig: 27, 151
   offset: 0, 0
   index: -1
 jungle_c16_swingsofa_jungle_c16_swingsofa_64_c_2_0.png
   rotate: false
-  xy: 240, 90
+  xy: 121, 90
   size: 27, 151
   orig: 27, 151
   offset: 0, 0
   index: -1
 jungle_c16_swingsofa_jungle_c16_swingsofa_64_c_4_0.png
   rotate: false
-  xy: 182, 90
+  xy: 92, 90
   size: 27, 151
   orig: 27, 151
-  offset: 0, 0
-  index: -1
-jungle_c16_swingsofa_jungle_c16_swingsofa_64_c_6_0.png
-  rotate: false
-  xy: 269, 90
-  size: 27, 151
-  orig: 27, 151
-  offset: 0, 0
-  index: -1
-jungle_c16_swingsofa_jungle_c16_swingsofa_64_sd_0_0.png
-  rotate: false
-  xy: 396, 189
-  size: 96, 52
-  orig: 96, 52
   offset: 0, 0
   index: -1
 jungle_c16_swingsofa_jungle_c16_swingsofa_64_sd_2_0.png
   rotate: false
-  xy: 2, 13
+  xy: 150, 189
   size: 96, 52
   orig: 96, 52
   offset: 0, 0
   index: -1
 jungle_c16_swingsofa_jungle_c16_swingsofa_64_sd_4_0.png
   rotate: false
-  xy: 298, 135
-  size: 96, 52
-  orig: 96, 52
-  offset: 0, 0
-  index: -1
-jungle_c16_swingsofa_jungle_c16_swingsofa_64_sd_6_0.png
-  rotate: false
-  xy: 298, 189
+  xy: 150, 135
   size: 96, 52
   orig: 96, 52
   offset: 0, 0
   index: -1
 jungle_c16_swingsofa_jungle_c16_swingsofa_icon_a.png
   rotate: false
-  xy: 467, 157
+  xy: 221, 103
   size: 25, 30
   orig: 25, 30
   offset: 0, 0

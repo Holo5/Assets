@@ -53,13 +53,6 @@ horse_track_fence_cor_horse_track_fence_cor_64_a_3_0.png
   orig: 38, 59
   offset: 0, 0
   index: -1
-horse_track_fence_cor_horse_track_fence_cor_64_a_3_1.png
-  rotate: false
-  xy: 432, 87
-  size: 38, 39
-  orig: 38, 39
-  offset: 0, 0
-  index: -1
 horse_track_fence_cor_horse_track_fence_cor_64_a_4_0.png
   rotate: false
   xy: 251, 60
@@ -79,13 +72,6 @@ horse_track_fence_cor_horse_track_fence_cor_64_a_5_0.png
   xy: 46, 55
   size: 42, 71
   orig: 42, 71
-  offset: 0, 0
-  index: -1
-horse_track_fence_cor_horse_track_fence_cor_64_a_5_1.png
-  rotate: false
-  xy: 348, 87
-  size: 42, 39
-  orig: 42, 39
   offset: 0, 0
   index: -1
 horse_track_fence_cor_horse_track_fence_cor_64_a_6_0.png
@@ -111,70 +97,49 @@ horse_track_fence_cor_horse_track_fence_cor_64_a_7_0.png
   index: -1
 horse_track_fence_cor_horse_track_fence_cor_64_a_7_1.png
   rotate: false
-  xy: 392, 87
+  xy: 348, 87
   size: 38, 39
   orig: 38, 39
   offset: 0, 0
   index: -1
 horse_track_fence_cor_horse_track_fence_cor_64_b_0_0.png
   rotate: false
-  xy: 70, 2
+  xy: 70, 4
   size: 5, 49
   orig: 5, 49
   offset: 0, 0
   index: -1
-horse_track_fence_cor_horse_track_fence_cor_64_b_1_0.png
-  rotate: false
-  xy: 350, 53
-  size: 44, 32
-  orig: 44, 32
-  offset: 0, 0
-  index: -1
 horse_track_fence_cor_horse_track_fence_cor_64_b_2_0.png
   rotate: false
-  xy: 90, 12
+  xy: 497, 73
   size: 5, 53
   orig: 5, 53
   offset: 0, 0
   index: -1
 horse_track_fence_cor_horse_track_fence_cor_64_b_3_0.png
   rotate: false
-  xy: 396, 55
+  xy: 434, 96
   size: 40, 30
   orig: 40, 30
   offset: 0, 0
   index: -1
-horse_track_fence_cor_horse_track_fence_cor_64_b_4_0.png
-  rotate: false
-  xy: 77, 2
-  size: 5, 49
-  orig: 5, 49
-  offset: 0, 0
-  index: -1
 horse_track_fence_cor_horse_track_fence_cor_64_b_5_0.png
   rotate: false
-  xy: 304, 53
+  xy: 388, 94
   size: 44, 32
   orig: 44, 32
   offset: 0, 0
   index: -1
 horse_track_fence_cor_horse_track_fence_cor_64_b_6_0.png
   rotate: false
-  xy: 84, 2
+  xy: 77, 4
   size: 4, 49
   orig: 4, 49
   offset: 0, 0
   index: -1
-horse_track_fence_cor_horse_track_fence_cor_64_b_7_0.png
-  rotate: false
-  xy: 438, 55
-  size: 40, 30
-  orig: 40, 30
-  offset: 0, 0
-  index: -1
 horse_track_fence_cor_horse_track_fence_cor_icon_a.png
   rotate: false
-  xy: 472, 100
+  xy: 476, 100
   size: 19, 26
   orig: 19, 26
   offset: 0, 0

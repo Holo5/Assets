@@ -4,6 +4,76 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+es_bench_es_bench_32_f_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_32_f_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_32_f_0_0.png
+  rotate: false
+  xy: 266, 79
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_32_f_0_0.png
+  rotate: false
+  xy: 151, 57
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_32_f_0_0.png
+  rotate: false
+  xy: 390, 86
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_32_f_0_0.png
+  rotate: false
+  xy: 63, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_32_f_0_0.png
+  rotate: false
+  xy: 101, 33
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_32_f_0_0.png
+  rotate: false
+  xy: 415, 104
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_32_f_0_0.png
+  rotate: false
+  xy: 473, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+es_bench_es_bench_32_f_0_0.png
+  rotate: false
+  xy: 211, 62
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 es_bench_es_bench_64_a_0_0.png
   rotate: false
   xy: 121, 55
@@ -18,25 +88,11 @@ es_bench_es_bench_64_a_4_0.png
   orig: 58, 66
   offset: 0, 0
   index: -1
-es_bench_es_bench_64_b_0_0.png
-  rotate: false
-  xy: 151, 57
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 es_bench_es_bench_64_b_0_1.png
   rotate: false
   xy: 211, 65
   size: 13, 9
   orig: 13, 9
-  offset: 0, 0
-  index: -1
-es_bench_es_bench_64_b_4_0.png
-  rotate: false
-  xy: 415, 104
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 es_bench_es_bench_64_b_4_1.png
@@ -53,39 +109,11 @@ es_bench_es_bench_64_c_0_0.png
   orig: 38, 42
   offset: 0, 0
   index: -1
-es_bench_es_bench_64_c_4_0.png
-  rotate: false
-  xy: 2, 5
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-es_bench_es_bench_64_d_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 es_bench_es_bench_64_d_0_1.png
   rotate: false
   xy: 63, 14
   size: 36, 20
   orig: 36, 20
-  offset: 0, 0
-  index: -1
-es_bench_es_bench_64_d_4_0.png
-  rotate: false
-  xy: 63, 11
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-es_bench_es_bench_64_d_4_1.png
-  rotate: false
-  xy: 390, 86
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 es_bench_es_bench_64_e_0_0.png
@@ -102,25 +130,11 @@ es_bench_es_bench_64_e_4_0.png
   orig: 59, 74
   offset: 0, 0
   index: -1
-es_bench_es_bench_64_f_0_0.png
-  rotate: false
-  xy: 101, 33
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 es_bench_es_bench_64_f_0_1.png
   rotate: false
   xy: 121, 45
   size: 12, 8
   orig: 12, 8
-  offset: 0, 0
-  index: -1
-es_bench_es_bench_64_f_4_0.png
-  rotate: false
-  xy: 266, 79
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 es_bench_es_bench_64_f_4_1.png
@@ -144,25 +158,11 @@ es_bench_es_bench_64_g_4_0.png
   orig: 30, 43
   offset: 0, 0
   index: -1
-es_bench_es_bench_64_h_0_0.png
-  rotate: false
-  xy: 211, 62
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 es_bench_es_bench_64_h_0_1.png
   rotate: false
   xy: 266, 82
   size: 50, 44
   orig: 50, 44
-  offset: 0, 0
-  index: -1
-es_bench_es_bench_64_h_4_0.png
-  rotate: false
-  xy: 473, 125
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 es_bench_es_bench_64_h_4_1.png

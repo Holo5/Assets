@@ -4,18 +4,18 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+scifirocket_scifirocket_32_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 scifirocket_scifirocket_64_a_0_0.png
   rotate: false
   xy: 114, 99
   size: 28, 26
   orig: 28, 26
-  offset: 0, 0
-  index: -1
-scifirocket_scifirocket_64_b_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 scifirocket_scifirocket_64_b_0_1.png
@@ -49,20 +49,6 @@ scifirocket_scifirocket_64_e_0_1.png
 scifirocket_scifirocket_64_e_0_10.png
   rotate: false
   xy: 144, 94
-  size: 22, 15
-  orig: 22, 15
-  offset: 0, 0
-  index: -1
-scifirocket_scifirocket_64_e_0_11.png
-  rotate: false
-  xy: 136, 77
-  size: 22, 15
-  orig: 22, 15
-  offset: 0, 0
-  index: -1
-scifirocket_scifirocket_64_e_0_12.png
-  rotate: false
-  xy: 136, 60
   size: 22, 15
   orig: 22, 15
   offset: 0, 0
@@ -104,28 +90,14 @@ scifirocket_scifirocket_64_e_0_17.png
   index: -1
 scifirocket_scifirocket_64_e_0_18.png
   rotate: false
-  xy: 38, 6
+  xy: 72, 38
   size: 19, 8
   orig: 19, 8
   offset: 0, 0
   index: -1
-scifirocket_scifirocket_64_e_0_19.png
-  rotate: false
-  xy: 160, 70
-  size: 8, 6
-  orig: 8, 6
-  offset: 0, 0
-  index: -1
 scifirocket_scifirocket_64_e_0_2.png
   rotate: false
-  xy: 160, 86
-  size: 8, 6
-  orig: 8, 6
-  offset: 0, 0
-  index: -1
-scifirocket_scifirocket_64_e_0_3.png
-  rotate: false
-  xy: 160, 78
+  xy: 38, 21
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
@@ -137,37 +109,9 @@ scifirocket_scifirocket_64_e_0_4.png
   orig: 11, 8
   offset: 0, 0
   index: -1
-scifirocket_scifirocket_64_e_0_5.png
-  rotate: false
-  xy: 64, 25
-  size: 11, 8
-  orig: 11, 8
-  offset: 0, 0
-  index: -1
-scifirocket_scifirocket_64_e_0_6.png
-  rotate: false
-  xy: 77, 25
-  size: 11, 8
-  orig: 11, 8
-  offset: 0, 0
-  index: -1
 scifirocket_scifirocket_64_e_0_7.png
   rotate: false
   xy: 54, 35
-  size: 16, 11
-  orig: 16, 11
-  offset: 0, 0
-  index: -1
-scifirocket_scifirocket_64_e_0_8.png
-  rotate: false
-  xy: 72, 35
-  size: 16, 11
-  orig: 16, 11
-  offset: 0, 0
-  index: -1
-scifirocket_scifirocket_64_e_0_9.png
-  rotate: false
-  xy: 38, 16
   size: 16, 11
   orig: 16, 11
   offset: 0, 0

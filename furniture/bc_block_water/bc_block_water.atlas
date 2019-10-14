@@ -4,6 +4,20 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+bc_block_water_bc_block_water_32_c_0_1.png
+  rotate: false
+  xy: 140, 105
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bc_block_water_bc_block_water_32_d_0_0.png
+  rotate: false
+  xy: 46, 42
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
 bc_block_water_bc_block_water_64_a_0_0.png
   rotate: false
   xy: 2, 48
@@ -20,23 +34,16 @@ bc_block_water_bc_block_water_64_b_0_0.png
   index: -1
 bc_block_water_bc_block_water_64_c_0_0.png
   rotate: false
-  xy: 88, 46
+  xy: 156, 110
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 bc_block_water_bc_block_water_64_c_0_1.png
   rotate: false
-  xy: 140, 105
+  xy: 186, 116
   size: 2, 1
   orig: 2, 1
-  offset: 0, 0
-  index: -1
-bc_block_water_bc_block_water_64_c_0_10.png
-  rotate: false
-  xy: 46, 42
-  size: 3, 1
-  orig: 3, 1
   offset: 0, 0
   index: -1
 bc_block_water_bc_block_water_64_c_0_11.png
@@ -128,20 +135,6 @@ bc_block_water_bc_block_water_64_c_0_8.png
   xy: 54, 45
   size: 16, 1
   orig: 16, 1
-  offset: 0, 0
-  index: -1
-bc_block_water_bc_block_water_64_c_0_9.png
-  rotate: false
-  xy: 156, 110
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-bc_block_water_bc_block_water_64_d_0_0.png
-  rotate: false
-  xy: 186, 116
-  size: 2, 1
-  orig: 2, 1
   offset: 0, 0
   index: -1
 bc_block_water_bc_block_water_icon_a.png

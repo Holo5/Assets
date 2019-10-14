@@ -4,6 +4,27 @@ size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+xmas13_machine1_xmas13_machine1_32_e_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas13_machine1_xmas13_machine1_32_e_0_0.png
+  rotate: false
+  xy: 646, 89
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas13_machine1_xmas13_machine1_32_e_0_0.png
+  rotate: false
+  xy: 743, 80
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas13_machine1_xmas13_machine1_64_a_0_0.png
   rotate: false
   xy: 2, 5
@@ -20,21 +41,21 @@ xmas13_machine1_xmas13_machine1_64_a_0_1.png
   index: -1
 xmas13_machine1_xmas13_machine1_64_b_0_0.png
   rotate: false
-  xy: 977, 88
+  xy: 938, 88
   size: 37, 33
   orig: 37, 33
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_b_0_1.png
   rotate: false
-  xy: 938, 87
+  xy: 899, 87
   size: 37, 34
   orig: 37, 34
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_b_0_2.png
   rotate: false
-  xy: 782, 83
+  xy: 743, 83
   size: 37, 38
   orig: 37, 38
   offset: 0, 0
@@ -53,32 +74,18 @@ xmas13_machine1_xmas13_machine1_64_b_0_4.png
   orig: 37, 44
   offset: 0, 0
   index: -1
-xmas13_machine1_xmas13_machine1_64_b_0_5.png
+xmas13_machine1_xmas13_machine1_64_b_0_6.png
   rotate: false
   xy: 704, 79
   size: 37, 42
   orig: 37, 42
   offset: 0, 0
   index: -1
-xmas13_machine1_xmas13_machine1_64_b_0_6.png
-  rotate: false
-  xy: 743, 79
-  size: 37, 42
-  orig: 37, 42
-  offset: 0, 0
-  index: -1
 xmas13_machine1_xmas13_machine1_64_b_0_7.png
   rotate: false
-  xy: 821, 83
+  xy: 782, 83
   size: 37, 38
   orig: 37, 38
-  offset: 0, 0
-  index: -1
-xmas13_machine1_xmas13_machine1_64_c_0_0.png
-  rotate: false
-  xy: 782, 80
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_c_0_1.png
@@ -137,51 +144,37 @@ xmas13_machine1_xmas13_machine1_64_c_0_8.png
   orig: 56, 74
   offset: 0, 0
   index: -1
-xmas13_machine1_xmas13_machine1_64_d_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas13_machine1_xmas13_machine1_64_d_0_1.png
   rotate: false
-  xy: 860, 85
+  xy: 821, 85
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_d_0_2.png
   rotate: false
-  xy: 899, 85
+  xy: 860, 85
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
-xmas13_machine1_xmas13_machine1_64_e_0_0.png
-  rotate: false
-  xy: 646, 89
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas13_machine1_xmas13_machine1_64_e_0_1.png
   rotate: false
-  xy: 143, 21
+  xy: 977, 97
   size: 36, 24
   orig: 36, 24
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_e_0_2.png
   rotate: false
-  xy: 181, 21
+  xy: 143, 21
   size: 36, 24
   orig: 36, 24
   offset: 0, 0
   index: -1
 xmas13_machine1_xmas13_machine1_64_e_0_3.png
   rotate: false
-  xy: 219, 21
+  xy: 181, 21
   size: 36, 24
   orig: 36, 24
   offset: 0, 0
@@ -195,7 +188,7 @@ xmas13_machine1_xmas13_machine1_64_sd_0_0.png
   index: -1
 xmas13_machine1_xmas13_machine1_icon_a.png
   rotate: false
-  xy: 257, 15
+  xy: 219, 15
   size: 22, 30
   orig: 22, 30
   offset: 0, 0

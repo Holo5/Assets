@@ -1,355 +1,327 @@
 
 present_wrap.png
-size: 512,1024
+size: 1024,512
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+present_wrap_present_wrap_32_e_0_10.png
+  rotate: false
+  xy: 779, 47
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_wrap_present_wrap_32_e_0_11.png
+  rotate: false
+  xy: 884, 82
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_wrap_present_wrap_32_e_0_12.png
+  rotate: false
+  xy: 33, 33
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
 present_wrap_present_wrap_64_a_0_0.png
   rotate: false
-  xy: 413, 294
+  xy: 822, 99
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_a_0_1.png
   rotate: false
-  xy: 413, 215
+  xy: 904, 99
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_a_0_2.png
   rotate: false
-  xy: 166, 78
-  size: 80, 77
-  orig: 80, 77
-  offset: 0, 0
-  index: -1
-present_wrap_present_wrap_64_a_0_3.png
-  rotate: false
-  xy: 413, 136
+  xy: 412, 2
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_a_0_4.png
   rotate: false
-  xy: 331, 136
-  size: 80, 77
-  orig: 80, 77
-  offset: 0, 0
-  index: -1
-present_wrap_present_wrap_64_a_0_5.png
-  rotate: false
-  xy: 331, 215
+  xy: 330, 2
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_a_0_6.png
   rotate: false
-  xy: 413, 373
+  xy: 740, 81
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_b_0_0.png
   rotate: false
-  xy: 2, 78
-  size: 80, 77
-  orig: 80, 77
-  offset: 0, 0
-  index: -1
-present_wrap_present_wrap_64_b_0_1.png
-  rotate: false
-  xy: 167, 412
+  xy: 2, 50
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_b_0_2.png
   rotate: false
-  xy: 84, 78
+  xy: 819, 415
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_b_0_3.png
   rotate: false
-  xy: 249, 412
+  xy: 819, 336
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_b_0_4.png
   rotate: false
-  xy: 167, 333
+  xy: 84, 50
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_b_0_5.png
   rotate: false
-  xy: 249, 333
+  xy: 166, 50
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_b_0_6.png
   rotate: false
-  xy: 167, 254
+  xy: 901, 415
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_b_0_7.png
   rotate: false
-  xy: 167, 175
+  xy: 819, 257
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_b_0_8.png
   rotate: false
-  xy: 73, 4
+  xy: 647, 7
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_b_0_9.png
   rotate: false
-  xy: 139, 5
+  xy: 713, 8
   size: 64, 71
   orig: 64, 71
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_0.png
   rotate: false
-  xy: 331, 294
+  xy: 658, 81
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_1.png
   rotate: false
-  xy: 331, 373
+  xy: 576, 81
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_10.png
   rotate: false
-  xy: 248, 96
+  xy: 494, 2
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_11.png
   rotate: false
-  xy: 2, 7
+  xy: 576, 10
   size: 69, 69
   orig: 69, 69
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_2.png
   rotate: false
-  xy: 414, 452
+  xy: 494, 81
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_3.png
   rotate: false
-  xy: 332, 452
+  xy: 412, 81
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_4.png
   rotate: false
-  xy: 414, 531
+  xy: 330, 81
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_5.png
   rotate: false
-  xy: 414, 610
+  xy: 248, 50
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_6.png
   rotate: false
-  xy: 332, 531
+  xy: 901, 178
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_7.png
   rotate: false
-  xy: 332, 610
+  xy: 901, 257
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_8.png
   rotate: false
-  xy: 249, 175
+  xy: 819, 178
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_9.png
   rotate: false
-  xy: 249, 254
+  xy: 901, 336
   size: 80, 77
   orig: 80, 77
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_d_0_1.png
   rotate: false
-  xy: 2, 157
+  xy: 654, 327
   size: 163, 165
   orig: 163, 165
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_d_0_2.png
   rotate: false
-  xy: 167, 491
+  xy: 654, 160
   size: 163, 165
   orig: 163, 165
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_d_0_3.png
   rotate: false
-  xy: 2, 491
+  xy: 324, 327
   size: 163, 165
   orig: 163, 165
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_d_0_4.png
   rotate: false
-  xy: 324, 856
+  xy: 324, 160
   size: 163, 165
   orig: 163, 165
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_d_0_5.png
   rotate: false
-  xy: 2, 324
+  xy: 489, 327
   size: 163, 165
   orig: 163, 165
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_d_0_6.png
   rotate: false
-  xy: 324, 689
+  xy: 489, 160
   size: 163, 165
   orig: 163, 165
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_e_0_0.png
   rotate: false
-  xy: 329, 686
+  xy: 819, 175
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_e_0_1.png
   rotate: false
-  xy: 2, 2
+  xy: 576, 5
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
-present_wrap_present_wrap_64_e_0_10.png
-  rotate: false
-  xy: 330, 119
-  size: 29, 15
-  orig: 29, 15
-  offset: 0, 0
-  index: -1
-present_wrap_present_wrap_64_e_0_11.png
-  rotate: false
-  xy: 330, 102
-  size: 29, 15
-  orig: 29, 15
-  offset: 0, 0
-  index: -1
-present_wrap_present_wrap_64_e_0_12.png
-  rotate: false
-  xy: 205, 10
-  size: 29, 15
-  orig: 29, 15
-  offset: 0, 0
-  index: -1
 present_wrap_present_wrap_64_e_0_2.png
   rotate: false
-  xy: 324, 681
+  xy: 324, 152
   size: 3, 6
   orig: 3, 6
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_e_0_3.png
   rotate: false
-  xy: 205, 61
+  xy: 822, 82
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_e_0_4.png
   rotate: false
-  xy: 248, 79
+  xy: 983, 477
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_e_0_5.png
   rotate: false
-  xy: 167, 158
+  xy: 2, 33
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_e_0_6.png
   rotate: false
-  xy: 205, 44
+  xy: 779, 64
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_e_0_7.png
   rotate: false
-  xy: 279, 79
+  xy: 853, 82
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_e_0_8.png
   rotate: false
-  xy: 198, 158
+  xy: 983, 460
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_e_0_9.png
   rotate: false
-  xy: 205, 27
+  xy: 2, 16
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
   index: -1
-present_wrap_present_wrap_64_f_0_0.png
-  rotate: false
-  xy: 329, 683
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 present_wrap_present_wrap_64_f_0_1.png
   rotate: false
-  xy: 2, 658
+  xy: 2, 129
   size: 320, 363
   orig: 320, 363
   offset: 0, 0

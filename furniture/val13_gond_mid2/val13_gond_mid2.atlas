@@ -4,6 +4,13 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+val13_gond_mid2_val13_gond_mid2_32_c_4_0.png
+  rotate: false
+  xy: 82, 38
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 val13_gond_mid2_val13_gond_mid2_64_a_0_0.png
   rotate: false
   xy: 366, 56
@@ -37,13 +44,6 @@ val13_gond_mid2_val13_gond_mid2_64_c_0_0.png
   xy: 150, 2
   size: 32, 52
   orig: 32, 52
-  offset: 0, 0
-  index: -1
-val13_gond_mid2_val13_gond_mid2_64_c_4_0.png
-  rotate: false
-  xy: 82, 38
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val13_gond_mid2_val13_gond_mid2_64_d_0_0.png

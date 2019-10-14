@@ -214,13 +214,6 @@ bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_9.png
   orig: 73, 33
   offset: 0, 0
   index: -1
-bb_apparatus_rc1_bb_apparatus_rc1_64_c_0_0.png
-  rotate: false
-  xy: 11, 3
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bb_apparatus_rc1_bb_apparatus_rc1_64_c_0_1.png
   rotate: false
   xy: 1209, 220
@@ -247,13 +240,6 @@ bb_apparatus_rc1_bb_apparatus_rc1_64_c_0_4.png
   xy: 1498, 367
   size: 196, 143
   orig: 196, 143
-  offset: 0, 0
-  index: -1
-bb_apparatus_rc1_bb_apparatus_rc1_64_d_0_0.png
-  rotate: false
-  xy: 20, 3
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 bb_apparatus_rc1_bb_apparatus_rc1_64_d_0_1.png
@@ -284,13 +270,6 @@ bb_apparatus_rc1_bb_apparatus_rc1_64_d_0_4.png
   orig: 127, 184
   offset: 0, 0
   index: -1
-bb_apparatus_rc1_bb_apparatus_rc1_64_e_0_0.png
-  rotate: false
-  xy: 5, 3
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bb_apparatus_rc1_bb_apparatus_rc1_64_e_0_1.png
   rotate: false
   xy: 992, 2
@@ -317,13 +296,6 @@ bb_apparatus_rc1_bb_apparatus_rc1_64_e_0_4.png
   xy: 1189, 19
   size: 195, 145
   orig: 195, 145
-  offset: 0, 0
-  index: -1
-bb_apparatus_rc1_bb_apparatus_rc1_64_f_0_0.png
-  rotate: false
-  xy: 8, 3
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 bb_apparatus_rc1_bb_apparatus_rc1_64_f_0_1.png
@@ -354,13 +326,6 @@ bb_apparatus_rc1_bb_apparatus_rc1_64_f_0_4.png
   orig: 208, 251
   offset: 0, 0
   index: -1
-bb_apparatus_rc1_bb_apparatus_rc1_64_g_0_0.png
-  rotate: false
-  xy: 17, 3
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bb_apparatus_rc1_bb_apparatus_rc1_64_g_0_1.png
   rotate: false
   xy: 1795, 238
@@ -387,13 +352,6 @@ bb_apparatus_rc1_bb_apparatus_rc1_64_g_0_4.png
   xy: 1576, 50
   size: 188, 135
   orig: 188, 135
-  offset: 0, 0
-  index: -1
-bb_apparatus_rc1_bb_apparatus_rc1_64_h_0_0.png
-  rotate: false
-  xy: 23, 3
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 bb_apparatus_rc1_bb_apparatus_rc1_64_h_0_1.png
@@ -457,13 +415,6 @@ bb_apparatus_rc1_bb_apparatus_rc1_64_i_0_4.png
   xy: 612, 2
   size: 188, 136
   orig: 188, 136
-  offset: 0, 0
-  index: -1
-bb_apparatus_rc1_bb_apparatus_rc1_64_j_0_0.png
-  rotate: false
-  xy: 14, 3
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 bb_apparatus_rc1_bb_apparatus_rc1_64_j_0_1.png

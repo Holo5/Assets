@@ -6,112 +6,112 @@ filter: Nearest,Nearest
 repeat: none
 icedblk_c16_couch_icedblk_c16_couch_64_a_0_0.png
   rotate: false
-  xy: 654, 19
+  xy: 488, 19
   size: 31, 43
   orig: 31, 43
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_a_2_0.png
   rotate: false
-  xy: 687, 26
+  xy: 521, 26
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_b_0_0.png
   rotate: false
-  xy: 334, 19
+  xy: 168, 19
   size: 50, 43
   orig: 50, 43
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_b_2_0.png
   rotate: false
-  xy: 386, 19
+  xy: 220, 19
   size: 50, 43
   orig: 50, 43
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_c_0_0.png
   rotate: false
-  xy: 721, 31
+  xy: 555, 31
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_c_2_0.png
   rotate: false
-  xy: 788, 34
+  xy: 622, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_d_0_0.png
   rotate: false
-  xy: 494, 31
+  xy: 328, 31
   size: 54, 31
   orig: 54, 31
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_d_2_0.png
   rotate: false
-  xy: 438, 31
+  xy: 272, 31
   size: 54, 31
   orig: 54, 31
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_e_0_0.png
   rotate: false
-  xy: 469, 2
+  xy: 303, 2
   size: 29, 27
   orig: 29, 27
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_e_2_0.png
   rotate: false
-  xy: 755, 34
+  xy: 589, 34
   size: 31, 28
   orig: 31, 28
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_f_0_0.png
   rotate: false
-  xy: 438, 2
+  xy: 272, 2
   size: 29, 27
   orig: 29, 27
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_f_2_0.png
   rotate: false
-  xy: 849, 36
+  xy: 683, 36
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_g_0_0.png
   rotate: false
-  xy: 550, 2
+  xy: 384, 2
   size: 51, 29
   orig: 51, 29
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_g_2_0.png
   rotate: false
-  xy: 603, 2
+  xy: 437, 2
   size: 49, 29
   orig: 49, 29
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_h_0_0.png
   rotate: false
-  xy: 603, 33
+  xy: 437, 33
   size: 49, 29
   orig: 49, 29
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_64_h_2_0.png
   rotate: false
-  xy: 550, 33
+  xy: 384, 33
   size: 51, 29
   orig: 51, 29
   offset: 0, 0
@@ -123,37 +123,23 @@ icedblk_c16_couch_icedblk_c16_couch_64_sd_0_0.png
   orig: 81, 41
   offset: 0, 0
   index: -1
-icedblk_c16_couch_icedblk_c16_couch_64_sd_2_0.png
-  rotate: false
-  xy: 251, 21
-  size: 81, 41
-  orig: 81, 41
-  offset: 0, 0
-  index: -1
-icedblk_c16_couch_icedblk_c16_couch_64_sd_4_0.png
+icedblk_c16_couch_icedblk_c16_couch_64_sd_6_0.png
   rotate: false
   xy: 85, 21
   size: 81, 41
   orig: 81, 41
   offset: 0, 0
   index: -1
-icedblk_c16_couch_icedblk_c16_couch_64_sd_6_0.png
-  rotate: false
-  xy: 168, 21
-  size: 81, 41
-  orig: 81, 41
-  offset: 0, 0
-  index: -1
 icedblk_c16_couch_icedblk_c16_couch_icon_a.png
   rotate: false
-  xy: 500, 5
+  xy: 334, 5
   size: 30, 24
   orig: 30, 24
   offset: 0, 0
   index: -1
 icedblk_c16_couch_icedblk_c16_couch_icon_b.png
   rotate: false
-  xy: 817, 38
+  xy: 651, 38
   size: 30, 24
   orig: 30, 24
   offset: 0, 0

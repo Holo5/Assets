@@ -1,6 +1,6 @@
 
 jungle_c16_watertile.png
-size: 2048,128
+size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -27,399 +27,42 @@ jungle_c16_watertile_jungle_c16_watertile_64_a_2_0.png
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_b_0_0.png
   rotate: false
-  xy: 1040, 47
+  xy: 95, 23
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_1.png
-  rotate: false
-  xy: 720, 2
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_b_0_10.png
   rotate: false
-  xy: 1152, 59
+  xy: 950, 81
   size: 28, 15
   orig: 28, 15
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_b_0_11.png
   rotate: false
-  xy: 1334, 75
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_12.png
-  rotate: false
-  xy: 1182, 59
+  xy: 566, 36
   size: 28, 15
   orig: 28, 15
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_b_0_13.png
   rotate: false
-  xy: 1620, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_14.png
-  rotate: false
-  xy: 634, 19
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_15.png
-  rotate: false
-  xy: 426, 2
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_16.png
-  rotate: false
-  xy: 1190, 102
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_17.png
-  rotate: false
-  xy: 1286, 102
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_18.png
-  rotate: false
-  xy: 614, 36
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_19.png
-  rotate: false
-  xy: 998, 76
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_2.png
-  rotate: false
-  xy: 1890, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_20.png
-  rotate: false
-  xy: 1046, 102
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_21.png
-  rotate: false
-  xy: 662, 36
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_22.png
-  rotate: false
-  xy: 902, 36
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_23.png
-  rotate: false
-  xy: 806, 36
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_24.png
-  rotate: false
-  xy: 474, 2
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_3.png
-  rotate: false
-  xy: 1560, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_4.png
-  rotate: false
-  xy: 1122, 59
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_5.png
-  rotate: false
-  xy: 1590, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_6.png
-  rotate: false
-  xy: 1950, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_7.png
-  rotate: false
-  xy: 724, 19
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_8.png
-  rotate: false
-  xy: 750, 2
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_0_9.png
-  rotate: false
-  xy: 1920, 111
+  xy: 950, 64
   size: 28, 15
   orig: 28, 15
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_b_1_0.png
   rotate: false
-  xy: 1042, 53
+  xy: 79, 18
   size: 1, 1
   orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_1.png
-  rotate: false
-  xy: 2010, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_10.png
-  rotate: false
-  xy: 1470, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_11.png
-  rotate: false
-  xy: 156, 9
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_12.png
-  rotate: false
-  xy: 1332, 58
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_13.png
-  rotate: false
-  xy: 1770, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_14.png
-  rotate: false
-  xy: 660, 2
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_15.png
-  rotate: false
-  xy: 950, 102
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_16.png
-  rotate: false
-  xy: 1238, 102
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_17.png
-  rotate: false
-  xy: 1286, 76
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_18.png
-  rotate: false
-  xy: 1094, 76
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_19.png
-  rotate: false
-  xy: 710, 36
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_2.png
-  rotate: false
-  xy: 1680, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_20.png
-  rotate: false
-  xy: 1142, 102
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_21.png
-  rotate: false
-  xy: 758, 36
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_22.png
-  rotate: false
-  xy: 1334, 102
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_23.png
-  rotate: false
-  xy: 854, 36
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_24.png
-  rotate: false
-  xy: 566, 36
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_3.png
-  rotate: false
-  xy: 1272, 59
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_4.png
-  rotate: false
-  xy: 126, 9
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_5.png
-  rotate: false
-  xy: 1302, 59
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_6.png
-  rotate: false
-  xy: 1710, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_7.png
-  rotate: false
-  xy: 604, 19
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_8.png
-  rotate: false
-  xy: 630, 2
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_1_9.png
-  rotate: false
-  xy: 1740, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_0.png
-  rotate: false
-  xy: 1041, 50
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_1.png
-  rotate: false
-  xy: 694, 19
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_10.png
-  rotate: false
-  xy: 1242, 59
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_11.png
-  rotate: false
-  xy: 96, 9
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_12.png
-  rotate: false
-  xy: 1212, 59
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_13.png
-  rotate: false
-  xy: 1650, 111
-  size: 28, 15
-  orig: 28, 15
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_b_2_14.png
   rotate: false
-  xy: 1980, 111
+  xy: 49, 9
   size: 28, 15
   orig: 28, 15
   offset: 0, 0
@@ -433,877 +76,198 @@ jungle_c16_watertile_jungle_c16_watertile_64_b_2_15.png
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_b_2_16.png
   rotate: false
-  xy: 1142, 76
+  xy: 474, 2
   size: 46, 24
   orig: 46, 24
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_b_2_17.png
   rotate: false
-  xy: 1238, 76
+  xy: 522, 2
   size: 46, 24
   orig: 46, 24
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_b_2_18.png
   rotate: false
-  xy: 950, 76
+  xy: 426, 2
   size: 46, 24
   orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_19.png
-  rotate: false
-  xy: 998, 102
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_2.png
-  rotate: false
-  xy: 1860, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_20.png
-  rotate: false
-  xy: 1046, 76
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_21.png
-  rotate: false
-  xy: 1094, 102
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_22.png
-  rotate: false
-  xy: 950, 50
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_23.png
-  rotate: false
-  xy: 1190, 76
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_24.png
-  rotate: false
-  xy: 522, 2
-  size: 46, 24
-  orig: 46, 24
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_3.png
-  rotate: false
-  xy: 1530, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_4.png
-  rotate: false
-  xy: 1092, 59
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_5.png
-  rotate: false
-  xy: 1500, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_6.png
-  rotate: false
-  xy: 1830, 111
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_7.png
-  rotate: false
-  xy: 690, 2
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_8.png
-  rotate: false
-  xy: 664, 19
-  size: 28, 15
-  orig: 28, 15
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_b_2_9.png
-  rotate: false
-  xy: 1800, 111
-  size: 28, 15
-  orig: 28, 15
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_c_0_0.png
   rotate: false
-  xy: 627, 13
+  xy: 582, 30
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_c_0_1.png
   rotate: false
-  xy: 186, 23
+  xy: 570, 25
   size: 2, 1
   orig: 2, 1
   offset: 0, 0
   index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_0_10.png
-  rotate: false
-  xy: 1042, 59
-  size: 3, 1
-  orig: 3, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_0_11.png
-  rotate: false
-  xy: 935, 33
-  size: 3, 1
-  orig: 3, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_0_12.png
-  rotate: false
-  xy: 917, 33
-  size: 7, 1
-  orig: 7, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_0_13.png
-  rotate: false
-  xy: 860, 32
-  size: 12, 2
-  orig: 12, 2
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_0_14.png
-  rotate: false
-  xy: 808, 28
-  size: 14, 3
-  orig: 14, 3
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_0_15.png
-  rotate: false
-  xy: 774, 21
-  size: 16, 4
-  orig: 16, 4
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_0_16.png
-  rotate: false
-  xy: 997, 43
-  size: 18, 5
-  orig: 18, 5
-  offset: 0, 0
-  index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_c_0_2.png
   rotate: false
-  xy: 2040, 125
+  xy: 1016, 119
   size: 6, 1
   orig: 6, 1
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_c_0_3.png
   rotate: false
-  xy: 814, 33
+  xy: 1000, 119
   size: 14, 1
   orig: 14, 1
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_c_0_4.png
   rotate: false
-  xy: 1420, 114
+  xy: 1000, 122
   size: 22, 1
   orig: 22, 1
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_c_0_5.png
   rotate: false
-  xy: 2, 2
+  xy: 610, 59
   size: 24, 1
   orig: 24, 1
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_c_0_6.png
   rotate: false
-  xy: 1381, 99
+  xy: 1000, 125
   size: 22, 1
   orig: 22, 1
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_c_0_7.png
   rotate: false
-  xy: 602, 9
+  xy: 566, 33
   size: 18, 1
   orig: 18, 1
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_c_0_8.png
   rotate: false
-  xy: 778, 33
+  xy: 982, 114
   size: 16, 1
   orig: 16, 1
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_c_0_9.png
   rotate: false
-  xy: 1450, 111
+  xy: 982, 111
   size: 1, 1
   orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_0.png
-  rotate: false
-  xy: 1417, 106
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_1.png
-  rotate: false
-  xy: 1405, 96
-  size: 2, 1
-  orig: 2, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_10.png
-  rotate: false
-  xy: 1036, 50
-  size: 3, 1
-  orig: 3, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_11.png
-  rotate: false
-  xy: 1035, 47
-  size: 3, 1
-  orig: 3, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_12.png
-  rotate: false
-  xy: 1441, 111
-  size: 7, 1
-  orig: 7, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_13.png
-  rotate: false
-  xy: 824, 29
-  size: 12, 2
-  orig: 12, 2
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_14.png
-  rotate: false
-  xy: 1364, 77
-  size: 14, 3
-  orig: 14, 3
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_15.png
-  rotate: false
-  xy: 67, 11
-  size: 16, 4
-  orig: 16, 4
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_16.png
-  rotate: false
-  xy: 754, 19
-  size: 18, 5
-  orig: 18, 5
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_2.png
-  rotate: false
-  xy: 2040, 122
-  size: 6, 1
-  orig: 6, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_3.png
-  rotate: false
-  xy: 830, 33
-  size: 14, 1
-  orig: 14, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_4.png
-  rotate: false
-  xy: 1381, 96
-  size: 22, 1
-  orig: 22, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_5.png
-  rotate: false
-  xy: 950, 37
-  size: 24, 1
-  orig: 24, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_6.png
-  rotate: false
-  xy: 1432, 117
-  size: 22, 1
-  orig: 22, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_7.png
-  rotate: false
-  xy: 1022, 53
-  size: 18, 1
-  orig: 18, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_8.png
-  rotate: false
-  xy: 796, 33
-  size: 16, 1
-  orig: 16, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_1_9.png
-  rotate: false
-  xy: 838, 27
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_0.png
-  rotate: false
-  xy: 2045, 119
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_1.png
-  rotate: false
-  xy: 190, 24
-  size: 2, 1
-  orig: 2, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_10.png
-  rotate: false
-  xy: 838, 30
-  size: 3, 1
-  orig: 3, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_11.png
-  rotate: false
-  xy: 1396, 87
-  size: 3, 1
-  orig: 3, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_12.png
-  rotate: false
-  xy: 1441, 108
-  size: 7, 1
-  orig: 7, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_13.png
-  rotate: false
-  xy: 824, 25
-  size: 12, 2
-  orig: 12, 2
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_14.png
-  rotate: false
-  xy: 1380, 85
-  size: 14, 3
-  orig: 14, 3
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_15.png
-  rotate: false
-  xy: 774, 27
-  size: 16, 4
-  orig: 16, 4
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_16.png
-  rotate: false
-  xy: 602, 12
-  size: 18, 5
-  orig: 18, 5
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_2.png
-  rotate: false
-  xy: 622, 16
-  size: 6, 1
-  orig: 6, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_3.png
-  rotate: false
-  xy: 1380, 77
-  size: 14, 1
-  orig: 14, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_4.png
-  rotate: false
-  xy: 754, 33
-  size: 22, 1
-  orig: 22, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_5.png
-  rotate: false
-  xy: 28, 2
-  size: 24, 1
-  orig: 24, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_6.png
-  rotate: false
-  xy: 998, 53
-  size: 22, 1
-  orig: 22, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_7.png
-  rotate: false
-  xy: 998, 50
-  size: 18, 1
-  orig: 18, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_8.png
-  rotate: false
-  xy: 1018, 50
-  size: 16, 1
-  orig: 16, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_c_2_9.png
-  rotate: false
-  xy: 1450, 108
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_0.png
-  rotate: false
-  xy: 843, 30
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_1.png
-  rotate: false
-  xy: 622, 10
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_10.png
-  rotate: false
-  xy: 998, 65
-  size: 48, 9
-  orig: 48, 9
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_11.png
-  rotate: false
-  xy: 1396, 84
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_12.png
-  rotate: false
-  xy: 622, 13
-  size: 3, 1
-  orig: 3, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_13.png
-  rotate: false
-  xy: 2040, 119
-  size: 3, 1
-  orig: 3, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_14.png
-  rotate: false
-  xy: 908, 33
-  size: 7, 1
-  orig: 7, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_15.png
-  rotate: false
-  xy: 846, 32
-  size: 12, 2
-  orig: 12, 2
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_16.png
-  rotate: false
-  xy: 1380, 80
-  size: 14, 3
-  orig: 14, 3
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_17.png
-  rotate: false
-  xy: 1017, 44
-  size: 16, 4
-  orig: 16, 4
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_18.png
-  rotate: false
-  xy: 997, 36
-  size: 18, 5
-  orig: 18, 5
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_2.png
-  rotate: false
-  xy: 1048, 64
-  size: 4, 1
-  orig: 4, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_3.png
-  rotate: false
-  xy: 888, 32
-  size: 8, 2
-  orig: 8, 2
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_4.png
-  rotate: false
-  xy: 792, 28
-  size: 14, 3
-  orig: 14, 3
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_5.png
-  rotate: false
-  xy: 1381, 90
-  size: 19, 4
-  orig: 19, 4
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_6.png
-  rotate: false
-  xy: 600, 2
-  size: 28, 5
-  orig: 28, 5
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_7.png
-  rotate: false
-  xy: 1382, 109
-  size: 36, 6
-  orig: 36, 6
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_8.png
-  rotate: false
-  xy: 998, 56
-  size: 42, 7
-  orig: 42, 7
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_0_9.png
-  rotate: false
-  xy: 1334, 92
-  size: 45, 8
-  orig: 45, 8
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_1_0.png
-  rotate: false
-  xy: 1453, 114
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_1_1.png
-  rotate: false
-  xy: 1035, 44
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_1_10.png
-  rotate: false
-  xy: 1382, 117
-  size: 48, 9
-  orig: 48, 9
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_1_11.png
-  rotate: false
-  xy: 940, 33
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_1_12.png
-  rotate: false
-  xy: 1054, 64
-  size: 3, 1
-  orig: 3, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_1_13.png
-  rotate: false
-  xy: 1042, 56
-  size: 3, 1
-  orig: 3, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_1_14.png
-  rotate: false
-  xy: 926, 33
-  size: 7, 1
-  orig: 7, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_1_15.png
-  rotate: false
-  xy: 874, 32
-  size: 12, 2
-  orig: 12, 2
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_1_16.png
-  rotate: false
-  xy: 808, 23
-  size: 14, 3
-  orig: 14, 3
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_1_17.png
-  rotate: false
-  xy: 1017, 38
-  size: 16, 4
-  orig: 16, 4
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_1_18.png
-  rotate: false
-  xy: 54, 2
-  size: 18, 5
-  orig: 18, 5
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_1_2.png
   rotate: false
-  xy: 1042, 62
+  xy: 636, 59
   size: 4, 1
   orig: 4, 1
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_1_3.png
   rotate: false
-  xy: 85, 13
+  xy: 610, 55
   size: 8, 2
   orig: 8, 2
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_1_4.png
   rotate: false
-  xy: 1364, 87
+  xy: 566, 28
   size: 14, 3
   orig: 14, 3
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_1_5.png
   rotate: false
-  xy: 1420, 108
+  xy: 2, 2
   size: 19, 4
   orig: 19, 4
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_1_6.png
   rotate: false
-  xy: 570, 2
+  xy: 41, 2
   size: 28, 5
   orig: 28, 5
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_1_7.png
   rotate: false
-  xy: 566, 28
+  xy: 2, 8
   size: 36, 6
   orig: 36, 6
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_1_8.png
   rotate: false
-  xy: 52, 17
+  xy: 566, 53
   size: 42, 7
   orig: 42, 7
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_1_9.png
   rotate: false
-  xy: 950, 40
+  xy: 2, 16
   size: 45, 8
   orig: 45, 8
   offset: 0, 0
   index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_0.png
-  rotate: false
-  xy: 1402, 93
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_1.png
-  rotate: false
-  xy: 2040, 116
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_2_10.png
   rotate: false
-  xy: 2, 15
+  xy: 950, 117
   size: 48, 9
   orig: 48, 9
   offset: 0, 0
   index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_11.png
-  rotate: false
-  xy: 1412, 103
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_12.png
-  rotate: false
-  xy: 1412, 106
-  size: 3, 1
-  orig: 3, 1
-  offset: 0, 0
-  index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_2_13.png
   rotate: false
-  xy: 49, 6
+  xy: 586, 33
   size: 3, 1
   orig: 3, 1
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_2_14.png
   rotate: false
-  xy: 1444, 114
+  xy: 40, 13
   size: 7, 1
   orig: 7, 1
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_2_15.png
   rotate: false
-  xy: 1456, 116
+  xy: 596, 49
   size: 12, 2
   orig: 12, 2
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_2_16.png
   rotate: false
-  xy: 792, 23
+  xy: 79, 21
   size: 14, 3
   orig: 14, 3
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_2_17.png
   rotate: false
-  xy: 49, 9
+  xy: 23, 2
   size: 16, 4
   orig: 16, 4
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_d_2_18.png
   rotate: false
-  xy: 754, 26
+  xy: 71, 2
   size: 18, 5
   orig: 18, 5
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_2.png
-  rotate: false
-  xy: 1405, 99
-  size: 4, 1
-  orig: 4, 1
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_3.png
-  rotate: false
-  xy: 898, 32
-  size: 8, 2
-  orig: 8, 2
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_4.png
-  rotate: false
-  xy: 1364, 82
-  size: 14, 3
-  orig: 14, 3
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_5.png
-  rotate: false
-  xy: 976, 34
-  size: 19, 4
-  orig: 19, 4
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_6.png
-  rotate: false
-  xy: 1382, 102
-  size: 28, 5
-  orig: 28, 5
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_7.png
-  rotate: false
-  xy: 1432, 120
-  size: 36, 6
-  orig: 36, 6
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_8.png
-  rotate: false
-  xy: 1048, 67
-  size: 42, 7
-  orig: 42, 7
-  offset: 0, 0
-  index: -1
-jungle_c16_watertile_jungle_c16_watertile_64_d_2_9.png
-  rotate: false
-  xy: 2, 5
-  size: 45, 8
-  orig: 45, 8
   offset: 0, 0
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_64_e_0_0.png
@@ -1329,7 +293,7 @@ jungle_c16_watertile_jungle_c16_watertile_64_e_2_0.png
   index: -1
 jungle_c16_watertile_jungle_c16_watertile_icon_a.png
   rotate: false
-  xy: 570, 9
+  xy: 950, 98
   size: 30, 17
   orig: 30, 17
   offset: 0, 0

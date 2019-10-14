@@ -4,6 +4,13 @@ size: 1024,1024
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+fireworks_07_fireworks_07_32_d_0_0.png
+  rotate: false
+  xy: 389, 338
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 fireworks_07_fireworks_07_64_a_0_0.png
   rotate: false
   xy: 793, 891
@@ -289,13 +296,6 @@ fireworks_07_fireworks_07_64_c_0_9.png
   xy: 317, 201
   size: 69, 67
   orig: 69, 67
-  offset: 0, 0
-  index: -1
-fireworks_07_fireworks_07_64_d_0_0.png
-  rotate: false
-  xy: 389, 338
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 fireworks_07_fireworks_07_64_d_0_1.png

@@ -62,7 +62,7 @@ room_noob_hanglight_room_noob_hanglight_64_b_0_1.png
   index: -1
 room_noob_hanglight_room_noob_hanglight_64_b_0_2.png
   rotate: false
-  xy: 804, 65
+  xy: 720, 65
   size: 72, 42
   orig: 72, 42
   offset: 0, 0
@@ -74,23 +74,9 @@ room_noob_hanglight_room_noob_hanglight_64_b_0_3.png
   orig: 1, 1
   offset: 0, 0
   index: -1
-room_noob_hanglight_room_noob_hanglight_64_b_0_4.png
-  rotate: false
-  xy: 878, 65
-  size: 72, 42
-  orig: 72, 42
-  offset: 0, 0
-  index: -1
-room_noob_hanglight_room_noob_hanglight_64_b_0_5.png
-  rotate: false
-  xy: 720, 35
-  size: 82, 72
-  orig: 82, 72
-  offset: 0, 0
-  index: -1
 room_noob_hanglight_room_noob_hanglight_icon_a.png
   rotate: false
-  xy: 952, 77
+  xy: 794, 77
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

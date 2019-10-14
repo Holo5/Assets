@@ -4,6 +4,13 @@ size: 2048,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+pirate_mast2grp_pirate_mast2grp_32_j_4_0.png
+  rotate: false
+  xy: 118, 38
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 pirate_mast2grp_pirate_mast2grp_64_a_0_0.png
   rotate: false
   xy: 118, 41
@@ -198,13 +205,6 @@ pirate_mast2grp_pirate_mast2grp_64_j_0_1.png
   xy: 1304, 114
   size: 24, 123
   orig: 24, 123
-  offset: 0, 0
-  index: -1
-pirate_mast2grp_pirate_mast2grp_64_j_4_0.png
-  rotate: false
-  xy: 118, 38
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 pirate_mast2grp_pirate_mast2grp_64_j_4_1.png

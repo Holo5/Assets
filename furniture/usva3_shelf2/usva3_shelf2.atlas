@@ -60,13 +60,6 @@ usva3_shelf2_usva3_shelf2_64_b_4_1.png
   orig: 66, 58
   offset: 0, 0
   index: -1
-usva3_shelf2_usva3_shelf2_64_sd_0_0.png
-  rotate: false
-  xy: 538, 22
-  size: 66, 18
-  orig: 66, 18
-  offset: 0, 0
-  index: -1
 usva3_shelf2_usva3_shelf2_64_sd_4_0.png
   rotate: false
   xy: 538, 42
@@ -76,7 +69,7 @@ usva3_shelf2_usva3_shelf2_64_sd_4_0.png
   index: -1
 usva3_shelf2_usva3_shelf2_icon_a.png
   rotate: false
-  xy: 606, 33
+  xy: 538, 13
   size: 30, 27
   orig: 30, 27
   offset: 0, 0

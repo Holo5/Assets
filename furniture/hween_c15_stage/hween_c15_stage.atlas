@@ -1,173 +1,61 @@
 
 hween_c15_stage.png
-size: 256,256
+size: 128,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hween_c15_stage_hween_c15_stage_64_a_0_0.png
-  rotate: false
-  xy: 54, 90
-  size: 48, 53
-  orig: 48, 53
-  offset: 0, 0
-  index: -1
 hween_c15_stage_hween_c15_stage_64_a_2_0.png
   rotate: false
-  xy: 54, 145
+  xy: 54, 201
   size: 48, 53
   orig: 48, 53
   offset: 0, 0
   index: -1
 hween_c15_stage_hween_c15_stage_64_a_4_0.png
   rotate: false
-  xy: 2, 33
+  xy: 2, 89
   size: 48, 53
   orig: 48, 53
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_a_6_0.png
-  rotate: false
-  xy: 106, 201
-  size: 48, 53
-  orig: 48, 53
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_b_0_0.png
-  rotate: false
-  xy: 252, 130
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_b_0_1.png
-  rotate: false
-  xy: 52, 12
-  size: 47, 30
-  orig: 47, 30
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_b_2_0.png
-  rotate: false
-  xy: 200, 158
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_stage_hween_c15_stage_64_b_2_1.png
   rotate: false
-  xy: 207, 212
+  xy: 54, 111
   size: 47, 42
   orig: 47, 42
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_b_4_0.png
-  rotate: false
-  xy: 5, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_stage_hween_c15_stage_64_b_4_1.png
   rotate: false
-  xy: 207, 136
+  xy: 53, 79
   size: 47, 30
   orig: 47, 30
   offset: 0, 0
   index: -1
-hween_c15_stage_hween_c15_stage_64_b_6_0.png
-  rotate: false
-  xy: 105, 65
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_b_6_1.png
-  rotate: false
-  xy: 207, 168
-  size: 47, 42
-  orig: 47, 42
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_c_0_0.png
-  rotate: false
-  xy: 203, 161
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_c_0_1.png
-  rotate: false
-  xy: 202, 99
-  size: 23, 35
-  orig: 23, 35
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_c_0_2.png
-  rotate: false
-  xy: 177, 49
-  size: 23, 35
-  orig: 23, 35
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_c_2_0.png
-  rotate: false
-  xy: 200, 161
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween_c15_stage_hween_c15_stage_64_c_2_1.png
   rotate: false
-  xy: 202, 25
+  xy: 78, 42
   size: 23, 35
   orig: 23, 35
   offset: 0, 0
   index: -1
 hween_c15_stage_hween_c15_stage_64_c_2_2.png
   rotate: false
-  xy: 202, 62
+  xy: 53, 42
   size: 23, 35
   orig: 23, 35
   offset: 0, 0
   index: -1
-hween_c15_stage_hween_c15_stage_64_c_4_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween_c15_stage_hween_c15_stage_64_c_4_1.png
   rotate: false
-  xy: 177, 86
+  xy: 103, 118
   size: 23, 35
   orig: 23, 35
   offset: 0, 0
   index: -1
 hween_c15_stage_hween_c15_stage_64_c_4_2.png
   rotate: false
-  xy: 227, 99
-  size: 23, 35
-  orig: 23, 35
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_c_6_0.png
-  rotate: false
-  xy: 105, 68
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_c_6_1.png
-  rotate: false
-  xy: 227, 25
-  size: 23, 35
-  orig: 23, 35
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_c_6_2.png
-  rotate: false
-  xy: 227, 62
+  xy: 103, 81
   size: 23, 35
   orig: 23, 35
   offset: 0, 0
@@ -181,168 +69,63 @@ hween_c15_stage_hween_c15_stage_64_d_0_0.png
   index: -1
 hween_c15_stage_hween_c15_stage_64_d_2_0.png
   rotate: false
-  xy: 54, 200
-  size: 50, 54
-  orig: 50, 54
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_d_4_0.png
-  rotate: false
   xy: 2, 144
   size: 50, 54
   orig: 50, 54
   offset: 0, 0
   index: -1
-hween_c15_stage_hween_c15_stage_64_d_6_0.png
-  rotate: false
-  xy: 2, 88
-  size: 50, 54
-  orig: 50, 54
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_e_0_0.png
-  rotate: false
-  xy: 33, 27
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_e_0_1.png
-  rotate: false
-  xy: 104, 154
-  size: 49, 44
-  orig: 49, 44
-  offset: 0, 0
-  index: -1
 hween_c15_stage_hween_c15_stage_64_e_2_0.png
   rotate: false
-  xy: 33, 30
+  xy: 104, 211
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_stage_hween_c15_stage_64_e_2_1.png
   rotate: false
-  xy: 156, 210
+  xy: 54, 155
   size: 49, 44
   orig: 49, 44
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_e_4_0.png
-  rotate: false
-  xy: 252, 133
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_stage_hween_c15_stage_64_e_4_1.png
   rotate: false
-  xy: 54, 44
+  xy: 2, 43
   size: 49, 44
   orig: 49, 44
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_e_6_0.png
-  rotate: false
-  xy: 33, 24
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_e_6_1.png
-  rotate: false
-  xy: 156, 164
-  size: 49, 44
-  orig: 49, 44
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_f_0_0.png
-  rotate: false
-  xy: 108, 68
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_f_0_1.png
-  rotate: false
-  xy: 104, 112
-  size: 22, 40
-  orig: 22, 40
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_f_0_2.png
-  rotate: false
-  xy: 152, 112
-  size: 22, 40
-  orig: 22, 40
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_f_2_0.png
-  rotate: false
-  xy: 5, 5
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_stage_hween_c15_stage_64_f_2_1.png
   rotate: false
-  xy: 129, 71
+  xy: 26, 2
   size: 22, 39
   orig: 22, 39
   offset: 0, 0
   index: -1
 hween_c15_stage_hween_c15_stage_64_f_2_2.png
   rotate: false
-  xy: 176, 123
+  xy: 2, 2
   size: 22, 39
   orig: 22, 39
   offset: 0, 0
   index: -1
-hween_c15_stage_hween_c15_stage_64_f_4_0.png
-  rotate: false
-  xy: 36, 30
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween_c15_stage_hween_c15_stage_64_f_4_1.png
   rotate: false
-  xy: 101, 2
+  xy: 104, 214
   size: 22, 40
   orig: 22, 40
   offset: 0, 0
   index: -1
 hween_c15_stage_hween_c15_stage_64_f_4_2.png
   rotate: false
-  xy: 128, 112
+  xy: 103, 39
   size: 22, 40
   orig: 22, 40
   offset: 0, 0
   index: -1
-hween_c15_stage_hween_c15_stage_64_f_6_0.png
-  rotate: false
-  xy: 2, 5
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_f_6_1.png
-  rotate: false
-  xy: 153, 71
-  size: 22, 39
-  orig: 22, 39
-  offset: 0, 0
-  index: -1
-hween_c15_stage_hween_c15_stage_64_f_6_2.png
-  rotate: false
-  xy: 105, 71
-  size: 22, 39
-  orig: 22, 39
-  offset: 0, 0
-  index: -1
 hween_c15_stage_hween_c15_stage_icon_a.png
   rotate: false
-  xy: 2, 8
+  xy: 50, 17
   size: 29, 23
   orig: 29, 23
   offset: 0, 0

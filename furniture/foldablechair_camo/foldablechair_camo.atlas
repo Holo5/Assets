@@ -4,6 +4,13 @@ size: 64,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+foldablechair_camo_foldablechair_camo_32_b_2_0.png
+  rotate: false
+  xy: 54, 224
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 foldablechair_camo_foldablechair_camo_64_a_2_0.png
   rotate: false
   xy: 2, 159
@@ -16,13 +23,6 @@ foldablechair_camo_foldablechair_camo_64_a_6_0.png
   xy: 2, 105
   size: 48, 52
   orig: 48, 52
-  offset: 0, 0
-  index: -1
-foldablechair_camo_foldablechair_camo_64_b_2_0.png
-  rotate: false
-  xy: 54, 224
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 foldablechair_camo_foldablechair_camo_64_b_6_0.png

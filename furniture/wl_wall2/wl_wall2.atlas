@@ -60,13 +60,6 @@ wl_wall2_wl_wall2_64_d_2_0.png
   orig: 32, 150
   offset: 0, 0
   index: -1
-wl_wall2_wl_wall2_64_e_0_0.png
-  rotate: false
-  xy: 536, 82
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 wl_wall2_wl_wall2_64_e_0_1.png
   rotate: false
   xy: 570, 85
@@ -74,25 +67,11 @@ wl_wall2_wl_wall2_64_e_0_1.png
   orig: 32, 117
   offset: 0, 0
   index: -1
-wl_wall2_wl_wall2_64_e_2_0.png
-  rotate: false
-  xy: 472, 77
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 wl_wall2_wl_wall2_64_e_2_1.png
   rotate: false
   xy: 536, 85
   size: 32, 117
   orig: 32, 117
-  offset: 0, 0
-  index: -1
-wl_wall2_wl_wall2_64_f_0_0.png
-  rotate: false
-  xy: 604, 201
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 wl_wall2_wl_wall2_64_f_0_1.png

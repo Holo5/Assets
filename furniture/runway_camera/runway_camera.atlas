@@ -4,6 +4,20 @@ size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+runway_camera_runway_camera_32_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+runway_camera_runway_camera_32_c_0_0.png
+  rotate: false
+  xy: 5, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 runway_camera_runway_camera_64_a_0_0.png
   rotate: false
   xy: 61, 8
@@ -123,13 +137,6 @@ runway_camera_runway_camera_64_b_6_3.png
   orig: 35, 28
   offset: 0, 0
   index: -1
-runway_camera_runway_camera_64_c_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 runway_camera_runway_camera_64_c_0_1.png
   rotate: false
   xy: 750, 45
@@ -184,13 +191,6 @@ runway_camera_runway_camera_64_c_0_8.png
   xy: 113, 8
   size: 7, 8
   orig: 7, 8
-  offset: 0, 0
-  index: -1
-runway_camera_runway_camera_64_d_0_0.png
-  rotate: false
-  xy: 5, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 runway_camera_runway_camera_64_d_0_1.png

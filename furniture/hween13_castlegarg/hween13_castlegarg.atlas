@@ -4,6 +4,48 @@ size: 64,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hween13_castlegarg_hween13_castlegarg_32_b_4_0.png
+  rotate: false
+  xy: 47, 244
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween13_castlegarg_hween13_castlegarg_32_b_4_0.png
+  rotate: false
+  xy: 42, 111
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween13_castlegarg_hween13_castlegarg_32_b_4_0.png
+  rotate: false
+  xy: 26, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween13_castlegarg_hween13_castlegarg_32_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween13_castlegarg_hween13_castlegarg_32_b_4_0.png
+  rotate: false
+  xy: 47, 241
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween13_castlegarg_hween13_castlegarg_32_b_4_0.png
+  rotate: false
+  xy: 50, 244
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween13_castlegarg_hween13_castlegarg_64_a_4_0.png
   rotate: false
   xy: 2, 181
@@ -16,13 +58,6 @@ hween13_castlegarg_hween13_castlegarg_64_a_6_0.png
   xy: 2, 114
   size: 41, 65
   orig: 41, 65
-  offset: 0, 0
-  index: -1
-hween13_castlegarg_hween13_castlegarg_64_b_4_0.png
-  rotate: false
-  xy: 50, 244
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween13_castlegarg_hween13_castlegarg_64_b_4_1.png
@@ -51,41 +86,6 @@ hween13_castlegarg_hween13_castlegarg_64_b_4_4.png
   xy: 2, 5
   size: 20, 12
   orig: 20, 12
-  offset: 0, 0
-  index: -1
-hween13_castlegarg_hween13_castlegarg_64_b_6_0.png
-  rotate: false
-  xy: 26, 90
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween13_castlegarg_hween13_castlegarg_64_b_6_1.png
-  rotate: false
-  xy: 47, 241
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween13_castlegarg_hween13_castlegarg_64_b_6_2.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween13_castlegarg_hween13_castlegarg_64_b_6_3.png
-  rotate: false
-  xy: 42, 111
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween13_castlegarg_hween13_castlegarg_64_b_6_4.png
-  rotate: false
-  xy: 47, 244
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween13_castlegarg_hween13_castlegarg_64_sd_0_0.png

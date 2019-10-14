@@ -6,224 +6,133 @@ filter: Nearest,Nearest
 repeat: none
 hween_c15_sdwater_hween_c15_sdwater_64_a_0_0.png
   rotate: false
-  xy: 190, 62
+  xy: 190, 57
   size: 126, 64
   orig: 126, 64
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_b_0_0.png
   rotate: false
-  xy: 665, 63
+  xy: 665, 58
   size: 104, 63
   orig: 104, 63
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_b_0_1.png
   rotate: false
-  xy: 442, 62
+  xy: 442, 57
   size: 114, 64
   orig: 114, 64
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_b_0_2.png
   rotate: false
-  xy: 318, 62
+  xy: 318, 57
   size: 122, 64
   orig: 122, 64
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_b_0_3.png
   rotate: false
-  xy: 558, 62
+  xy: 558, 57
   size: 105, 64
   orig: 105, 64
   offset: 0, 0
   index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_c_2_0.png
-  rotate: false
-  xy: 818, 103
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_c_2_1.png
   rotate: false
-  xy: 334, 37
+  xy: 265, 32
   size: 20, 23
   orig: 20, 23
   offset: 0, 0
   index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_c_2_2.png
-  rotate: false
-  xy: 262, 40
-  size: 26, 20
-  orig: 26, 20
-  offset: 0, 0
-  index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_c_2_3.png
-  rotate: false
-  xy: 56, 10
-  size: 19, 14
-  orig: 19, 14
-  offset: 0, 0
-  index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_d_2_0.png
   rotate: false
-  xy: 793, 92
+  xy: 190, 21
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_d_2_1.png
   rotate: false
-  xy: 290, 37
+  xy: 793, 76
   size: 20, 23
   orig: 20, 23
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_d_2_2.png
   rotate: false
-  xy: 818, 106
+  xy: 215, 35
   size: 26, 20
   orig: 26, 20
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_d_2_3.png
   rotate: false
-  xy: 896, 112
+  xy: 821, 107
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_d_2_4.png
   rotate: false
-  xy: 874, 109
+  xy: 34, 2
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_d_2_5.png
   rotate: false
-  xy: 190, 2
+  xy: 771, 64
   size: 20, 25
   orig: 20, 25
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_d_2_6.png
   rotate: false
-  xy: 771, 63
-  size: 20, 30
-  orig: 20, 30
-  offset: 0, 0
-  index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_d_2_7.png
-  rotate: false
-  xy: 215, 29
-  size: 23, 31
-  orig: 23, 31
-  offset: 0, 0
-  index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_e_2_0.png
-  rotate: false
-  xy: 796, 93
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_e_2_1.png
-  rotate: false
-  xy: 34, 7
-  size: 20, 17
-  orig: 20, 17
-  offset: 0, 0
-  index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_e_2_2.png
-  rotate: false
-  xy: 234, 2
-  size: 20, 25
-  orig: 20, 25
-  offset: 0, 0
-  index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_e_2_3.png
-  rotate: false
-  xy: 240, 30
-  size: 20, 30
-  orig: 20, 30
-  offset: 0, 0
-  index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_e_2_4.png
-  rotate: false
-  xy: 771, 95
-  size: 23, 31
-  orig: 23, 31
-  offset: 0, 0
-  index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_e_2_5.png
-  rotate: false
-  xy: 356, 43
-  size: 20, 17
-  orig: 20, 17
-  offset: 0, 0
-  index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_e_2_6.png
-  rotate: false
-  xy: 212, 2
-  size: 20, 25
-  orig: 20, 25
-  offset: 0, 0
-  index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_e_2_7.png
-  rotate: false
-  xy: 796, 96
+  xy: 771, 91
   size: 20, 30
   orig: 20, 30
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_e_2_8.png
   rotate: false
-  xy: 190, 29
+  xy: 190, 24
   size: 23, 31
   orig: 23, 31
   offset: 0, 0
   index: -1
-hween_c15_sdwater_hween_c15_sdwater_64_f_2_0.png
-  rotate: false
-  xy: 2, 4
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_f_2_1.png
   rotate: false
-  xy: 312, 37
+  xy: 243, 32
   size: 20, 23
   orig: 20, 23
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_f_2_2.png
   rotate: false
-  xy: 846, 106
+  xy: 793, 101
   size: 26, 20
   orig: 26, 20
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_f_2_3.png
   rotate: false
-  xy: 378, 46
+  xy: 287, 41
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_64_g_2_0.png
   rotate: false
-  xy: 2, 26
+  xy: 2, 21
   size: 186, 100
   orig: 186, 100
   offset: 0, 0
   index: -1
 hween_c15_sdwater_hween_c15_sdwater_icon_a.png
   rotate: false
-  xy: 2, 7
+  xy: 2, 2
   size: 30, 17
   orig: 30, 17
   offset: 0, 0

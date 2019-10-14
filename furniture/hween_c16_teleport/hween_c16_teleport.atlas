@@ -18,13 +18,6 @@ hween_c16_teleport_hween_c16_teleport_64_a_4_1.png
   orig: 26, 102
   offset: 0, 0
   index: -1
-hween_c16_teleport_hween_c16_teleport_64_b_4_0.png
-  rotate: false
-  xy: 648, 218
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween_c16_teleport_hween_c16_teleport_64_b_4_1.png
   rotate: false
   xy: 2, 5
@@ -67,25 +60,11 @@ hween_c16_teleport_hween_c16_teleport_64_b_4_6.png
   orig: 86, 248
   offset: 0, 0
   index: -1
-hween_c16_teleport_hween_c16_teleport_64_c_4_0.png
-  rotate: false
-  xy: 620, 148
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween_c16_teleport_hween_c16_teleport_64_c_4_1.png
   rotate: false
   xy: 530, 5
   size: 72, 248
   orig: 72, 248
-  offset: 0, 0
-  index: -1
-hween_c16_teleport_hween_c16_teleport_64_d_4_0.png
-  rotate: false
-  xy: 604, 130
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c16_teleport_hween_c16_teleport_64_d_4_1.png

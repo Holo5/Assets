@@ -116,16 +116,9 @@ lc_tubes_corners_lc_tubes_corners_64_b_2_1.png
   orig: 12, 12
   offset: 0, 0
   index: -1
-lc_tubes_corners_lc_tubes_corners_64_b_2_2.png
-  rotate: false
-  xy: 414, 23
-  size: 8, 9
-  orig: 8, 9
-  offset: 0, 0
-  index: -1
 lc_tubes_corners_lc_tubes_corners_64_b_2_3.png
   rotate: false
-  xy: 444, 21
+  xy: 424, 22
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
@@ -230,7 +223,7 @@ lc_tubes_corners_lc_tubes_corners_64_b_4_7.png
   index: -1
 lc_tubes_corners_lc_tubes_corners_64_b_4_8.png
   rotate: false
-  xy: 434, 19
+  xy: 414, 20
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
@@ -300,7 +293,7 @@ lc_tubes_corners_lc_tubes_corners_64_b_6_7.png
   index: -1
 lc_tubes_corners_lc_tubes_corners_64_b_6_8.png
   rotate: false
-  xy: 424, 20
+  xy: 312, 3
   size: 8, 12
   orig: 8, 12
   offset: 0, 0

@@ -4,6 +4,13 @@ size: 4096,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+totem_head_totem_head_32_b_2_0.png
+  rotate: false
+  xy: 2108, 24
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 totem_head_totem_head_64_a_2_0.png
   rotate: false
   xy: 2310, 18
@@ -44,13 +51,6 @@ totem_head_totem_head_64_a_2_5.png
   xy: 2108, 27
   size: 80, 86
   orig: 80, 86
-  offset: 0, 0
-  index: -1
-totem_head_totem_head_64_b_2_0.png
-  rotate: false
-  xy: 2108, 24
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 totem_head_totem_head_64_b_2_1.png

@@ -18,13 +18,6 @@ val12_hopper2_val12_hopper2_64_a_2_1.png
   orig: 68, 106
   offset: 0, 0
   index: -1
-val12_hopper2_val12_hopper2_64_b_2_0.png
-  rotate: false
-  xy: 197, 130
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val12_hopper2_val12_hopper2_64_b_2_1.png
   rotate: false
   xy: 433, 166
@@ -81,16 +74,9 @@ val12_hopper2_val12_hopper2_64_b_2_8.png
   orig: 35, 90
   offset: 0, 0
   index: -1
-val12_hopper2_val12_hopper2_64_c_2_0.png
-  rotate: false
-  xy: 171, 120
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val12_hopper2_val12_hopper2_64_c_2_1.png
   rotate: false
-  xy: 430, 140
+  xy: 24, 2
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
@@ -107,13 +93,6 @@ val12_hopper2_val12_hopper2_64_c_2_11.png
   xy: 430, 150
   size: 31, 14
   orig: 31, 14
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_c_2_12.png
-  rotate: false
-  xy: 81, 20
-  size: 7, 6
-  orig: 7, 6
   offset: 0, 0
   index: -1
 val12_hopper2_val12_hopper2_64_c_2_13.png
@@ -167,58 +146,9 @@ val12_hopper2_val12_hopper2_64_c_2_19.png
   index: -1
 val12_hopper2_val12_hopper2_64_c_2_2.png
   rotate: false
-  xy: 168, 123
+  xy: 13, 2
   size: 9, 8
   orig: 9, 8
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_c_2_20.png
-  rotate: false
-  xy: 430, 119
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_c_2_21.png
-  rotate: false
-  xy: 97, 21
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_c_2_3.png
-  rotate: false
-  xy: 35, 2
-  size: 9, 8
-  orig: 9, 8
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_c_2_4.png
-  rotate: false
-  xy: 46, 2
-  size: 9, 8
-  orig: 9, 8
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_c_2_5.png
-  rotate: false
-  xy: 57, 2
-  size: 9, 8
-  orig: 9, 8
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_c_2_6.png
-  rotate: false
-  xy: 447, 142
-  size: 7, 6
-  orig: 7, 6
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_c_2_7.png
-  rotate: false
-  xy: 81, 12
-  size: 7, 6
-  orig: 7, 6
   offset: 0, 0
   index: -1
 val12_hopper2_val12_hopper2_64_c_2_8.png
@@ -237,30 +167,9 @@ val12_hopper2_val12_hopper2_64_c_2_9.png
   index: -1
 val12_hopper2_val12_hopper2_64_d_2_0.png
   rotate: false
-  xy: 168, 120
+  xy: 168, 130
   size: 1, 1
   orig: 1, 1
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_1.png
-  rotate: false
-  xy: 72, 12
-  size: 7, 6
-  orig: 7, 6
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_10.png
-  rotate: false
-  xy: 463, 163
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_11.png
-  rotate: false
-  xy: 24, 2
-  size: 9, 8
-  orig: 9, 8
   offset: 0, 0
   index: -1
 val12_hopper2_val12_hopper2_64_d_2_12.png
@@ -270,130 +179,18 @@ val12_hopper2_val12_hopper2_64_d_2_12.png
   orig: 9, 8
   offset: 0, 0
   index: -1
-val12_hopper2_val12_hopper2_64_d_2_13.png
-  rotate: false
-  xy: 13, 2
-  size: 9, 8
-  orig: 9, 8
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_14.png
-  rotate: false
-  xy: 499, 246
-  size: 9, 8
-  orig: 9, 8
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_15.png
-  rotate: false
-  xy: 68, 2
-  size: 9, 8
-  orig: 9, 8
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_16.png
-  rotate: false
-  xy: 188, 125
-  size: 7, 6
-  orig: 7, 6
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_17.png
-  rotate: false
-  xy: 499, 230
-  size: 7, 6
-  orig: 7, 6
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_18.png
-  rotate: false
-  xy: 79, 4
-  size: 7, 6
-  orig: 7, 6
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_19.png
-  rotate: false
-  xy: 499, 216
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
 val12_hopper2_val12_hopper2_64_d_2_2.png
   rotate: false
-  xy: 72, 20
-  size: 7, 6
-  orig: 7, 6
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_20.png
-  rotate: false
-  xy: 90, 14
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_21.png
-  rotate: false
-  xy: 430, 126
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_3.png
-  rotate: false
-  xy: 179, 125
-  size: 7, 6
-  orig: 7, 6
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_4.png
-  rotate: false
-  xy: 499, 238
-  size: 7, 6
-  orig: 7, 6
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_5.png
-  rotate: false
-  xy: 438, 142
+  xy: 499, 248
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 val12_hopper2_val12_hopper2_64_d_2_6.png
   rotate: false
-  xy: 430, 133
+  xy: 72, 21
   size: 5, 5
   orig: 5, 5
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_7.png
-  rotate: false
-  xy: 499, 223
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_8.png
-  rotate: false
-  xy: 90, 21
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_d_2_9.png
-  rotate: false
-  xy: 456, 143
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
-val12_hopper2_val12_hopper2_64_e_2_0.png
-  rotate: false
-  xy: 197, 127
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val12_hopper2_val12_hopper2_64_e_2_1.png

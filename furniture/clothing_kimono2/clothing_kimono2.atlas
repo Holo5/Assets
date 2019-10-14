@@ -11,30 +11,23 @@ clothing_kimono2_clothing_kimono2_64_a_0_0.png
   orig: 37, 104
   offset: 0, 0
   index: -1
-clothing_kimono2_clothing_kimono2_64_a_0_1.png
+clothing_kimono2_clothing_kimono2_64_a_0_2.png
   rotate: false
   xy: 41, 22
   size: 37, 104
   orig: 37, 104
   offset: 0, 0
   index: -1
-clothing_kimono2_clothing_kimono2_64_a_0_2.png
+clothing_kimono2_clothing_kimono2_64_a_0_3.png
   rotate: false
   xy: 80, 22
   size: 37, 104
   orig: 37, 104
   offset: 0, 0
   index: -1
-clothing_kimono2_clothing_kimono2_64_a_0_3.png
-  rotate: false
-  xy: 119, 22
-  size: 37, 104
-  orig: 37, 104
-  offset: 0, 0
-  index: -1
 clothing_kimono2_clothing_kimono2_64_a_0_4.png
   rotate: false
-  xy: 158, 22
+  xy: 119, 22
   size: 37, 104
   orig: 37, 104
   offset: 0, 0
@@ -55,7 +48,7 @@ clothing_kimono2_clothing_kimono2_64_sd_0_0.png
   index: -1
 clothing_kimono2_clothing_kimono2_icon_a.png
   rotate: false
-  xy: 197, 98
+  xy: 158, 98
   size: 27, 28
   orig: 27, 28
   offset: 0, 0

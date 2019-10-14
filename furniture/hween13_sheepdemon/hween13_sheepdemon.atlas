@@ -1,61 +1,96 @@
 
 hween13_sheepdemon.png
-size: 1024,256
+size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hween13_sheepdemon_hween13_sheepdemon_32_f_0_1.png
+  rotate: false
+  xy: 42, 54
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween13_sheepdemon_hween13_sheepdemon_32_f_0_1.png
+  rotate: false
+  xy: 23, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween13_sheepdemon_hween13_sheepdemon_32_f_0_1.png
+  rotate: false
+  xy: 293, 87
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween13_sheepdemon_hween13_sheepdemon_32_f_0_1.png
+  rotate: false
+  xy: 482, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween13_sheepdemon_hween13_sheepdemon_32_f_0_1.png
+  rotate: false
+  xy: 461, 131
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_a_0_0.png
   rotate: false
-  xy: 453, 14
+  xy: 332, 15
   size: 37, 33
   orig: 37, 33
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_a_0_1.png
   rotate: false
-  xy: 805, 118
+  xy: 422, 118
   size: 37, 33
   orig: 37, 33
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_a_0_2.png
   rotate: false
-  xy: 493, 86
+  xy: 253, 19
   size: 38, 33
   orig: 38, 33
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_a_0_3.png
   rotate: false
-  xy: 766, 118
+  xy: 293, 15
   size: 37, 33
   orig: 37, 33
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_a_0_4.png
   rotate: false
-  xy: 573, 86
+  xy: 308, 86
   size: 37, 33
   orig: 37, 33
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_a_0_5.png
   rotate: false
-  xy: 453, 49
+  xy: 293, 50
   size: 37, 34
   orig: 37, 34
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_a_0_6.png
   rotate: false
-  xy: 844, 118
+  xy: 332, 50
   size: 37, 34
   orig: 37, 34
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_a_0_7.png
   rotate: false
-  xy: 453, 85
+  xy: 253, 54
   size: 38, 34
   orig: 38, 34
   offset: 0, 0
@@ -69,163 +104,65 @@ hween13_sheepdemon_hween13_sheepdemon_64_a_0_8.png
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_a_0_9.png
   rotate: false
-  xy: 533, 86
+  xy: 382, 118
   size: 38, 33
   orig: 38, 33
   offset: 0, 0
   index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_b_0_0.png
-  rotate: false
-  xy: 957, 138
-  size: 17, 15
-  orig: 17, 15
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_b_0_1.png
-  rotate: false
-  xy: 919, 138
-  size: 17, 15
-  orig: 17, 15
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_b_0_2.png
-  rotate: false
-  xy: 938, 138
-  size: 17, 15
-  orig: 17, 15
-  offset: 0, 0
-  index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_b_0_3.png
   rotate: false
-  xy: 23, 4
+  xy: 103, 2
   size: 17, 15
   orig: 17, 15
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_b_0_4.png
-  rotate: false
-  xy: 1011, 253
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_c_0_0.png
   rotate: false
-  xy: 711, 122
+  xy: 253, 90
   size: 53, 29
   orig: 53, 29
   offset: 0, 0
   index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_c_0_1.png
-  rotate: false
-  xy: 42, 54
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_d_0_0.png
   rotate: false
-  xy: 911, 155
+  xy: 53, 18
   size: 48, 99
   orig: 48, 99
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_d_0_1.png
   rotate: false
-  xy: 711, 153
+  xy: 382, 153
   size: 48, 101
   orig: 48, 101
   offset: 0, 0
   index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_d_0_10.png
-  rotate: false
-  xy: 403, 19
-  size: 48, 98
-  orig: 48, 98
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_d_0_11.png
-  rotate: false
-  xy: 303, 21
-  size: 48, 96
-  orig: 48, 96
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_d_0_12.png
-  rotate: false
-  xy: 253, 21
-  size: 48, 96
-  orig: 48, 96
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_d_0_13.png
-  rotate: false
-  xy: 103, 21
-  size: 48, 96
-  orig: 48, 96
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_d_0_14.png
-  rotate: false
-  xy: 612, 115
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_d_0_2.png
   rotate: false
-  xy: 811, 154
+  xy: 432, 154
   size: 48, 100
   orig: 48, 100
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_d_0_3.png
   rotate: false
-  xy: 353, 19
+  xy: 103, 19
   size: 48, 98
   orig: 48, 98
   offset: 0, 0
   index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_d_0_4.png
+hween13_sheepdemon_hween13_sheepdemon_64_d_0_5.png
   rotate: false
   xy: 203, 21
   size: 48, 96
   orig: 48, 96
   offset: 0, 0
   index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_d_0_5.png
+hween13_sheepdemon_hween13_sheepdemon_64_d_0_6.png
   rotate: false
   xy: 153, 21
   size: 48, 96
   orig: 48, 96
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_d_0_6.png
-  rotate: false
-  xy: 53, 21
-  size: 48, 96
-  orig: 48, 96
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_d_0_7.png
-  rotate: false
-  xy: 961, 155
-  size: 48, 99
-  orig: 48, 99
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_d_0_8.png
-  rotate: false
-  xy: 761, 153
-  size: 48, 101
-  orig: 48, 101
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_d_0_9.png
-  rotate: false
-  xy: 861, 154
-  size: 48, 100
-  orig: 48, 100
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_e_0_0.png
@@ -237,100 +174,44 @@ hween13_sheepdemon_hween13_sheepdemon_64_e_0_0.png
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_e_0_1.png
   rotate: false
-  xy: 147, 119
+  xy: 100, 119
   size: 45, 135
   orig: 45, 135
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_e_0_10.png
-  rotate: false
-  xy: 570, 121
-  size: 45, 133
-  orig: 45, 133
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_e_0_11.png
-  rotate: false
-  xy: 476, 121
-  size: 45, 133
-  orig: 45, 133
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_e_0_12.png
-  rotate: false
-  xy: 288, 119
-  size: 45, 135
-  orig: 45, 135
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_e_0_13.png
-  rotate: false
-  xy: 382, 119
-  size: 45, 135
-  orig: 45, 135
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_e_0_14.png
-  rotate: false
-  xy: 612, 118
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_e_0_2.png
   rotate: false
-  xy: 617, 122
+  xy: 335, 122
   size: 45, 132
   orig: 45, 132
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_e_0_3.png
   rotate: false
-  xy: 523, 121
+  xy: 288, 121
   size: 45, 133
   orig: 45, 133
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_e_0_4.png
   rotate: false
-  xy: 429, 121
+  xy: 241, 121
   size: 45, 133
   orig: 45, 133
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_e_0_5.png
   rotate: false
-  xy: 241, 119
+  xy: 147, 119
   size: 45, 135
   orig: 45, 135
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_e_0_6.png
   rotate: false
-  xy: 335, 119
-  size: 45, 135
-  orig: 45, 135
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_e_0_7.png
-  rotate: false
-  xy: 100, 119
-  size: 45, 135
-  orig: 45, 135
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_e_0_8.png
-  rotate: false
   xy: 194, 119
   size: 45, 135
   orig: 45, 135
-  offset: 0, 0
-  index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_e_0_9.png
-  rotate: false
-  xy: 664, 122
-  size: 45, 132
-  orig: 45, 132
   offset: 0, 0
   index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_f_0_0.png
@@ -340,16 +221,9 @@ hween13_sheepdemon_hween13_sheepdemon_64_f_0_0.png
   orig: 49, 197
   offset: 0, 0
   index: -1
-hween13_sheepdemon_hween13_sheepdemon_64_f_0_1.png
-  rotate: false
-  xy: 883, 131
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween13_sheepdemon_hween13_sheepdemon_64_sd_0_0.png
   rotate: false
-  xy: 883, 134
+  xy: 461, 134
   size: 34, 18
   orig: 34, 18
   offset: 0, 0

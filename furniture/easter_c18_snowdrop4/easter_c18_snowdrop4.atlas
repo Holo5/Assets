@@ -1,250 +1,201 @@
 
 easter_c18_snowdrop4.png
-size: 2048,64
+size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_0.png
   rotate: false
-  xy: 927, 32
+  xy: 2, 28
   size: 55, 30
   orig: 55, 30
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_1.png
   rotate: false
-  xy: 2, 4
+  xy: 136, 144
   size: 51, 20
   orig: 51, 20
   offset: 0, 0
   index: -1
-easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_10.png
-  rotate: false
-  xy: 723, 23
-  size: 54, 39
-  orig: 54, 39
-  offset: 0, 0
-  index: -1
-easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_11.png
-  rotate: false
-  xy: 984, 32
-  size: 55, 30
-  orig: 55, 30
-  offset: 0, 0
-  index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_2.png
   rotate: false
-  xy: 927, 2
+  xy: 141, 114
   size: 53, 28
   orig: 53, 28
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_3.png
   rotate: false
-  xy: 779, 28
+  xy: 81, 144
   size: 53, 34
   orig: 53, 34
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_4.png
   rotate: false
-  xy: 1249, 25
+  xy: 208, 171
   size: 46, 37
   orig: 46, 37
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_5.png
   rotate: false
-  xy: 1297, 25
+  xy: 208, 132
   size: 46, 37
   orig: 46, 37
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_6.png
   rotate: false
-  xy: 1201, 25
+  xy: 160, 166
   size: 46, 37
   orig: 46, 37
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_7.png
   rotate: false
-  xy: 555, 23
-  size: 54, 39
-  orig: 54, 39
-  offset: 0, 0
-  index: -1
-easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_8.png
-  rotate: false
-  xy: 611, 23
+  xy: 2, 101
   size: 54, 39
   orig: 54, 39
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_a_0_9.png
   rotate: false
-  xy: 667, 23
+  xy: 2, 60
   size: 54, 39
   orig: 54, 39
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_0.png
   rotate: false
-  xy: 834, 10
+  xy: 253, 253
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_1.png
   rotate: false
-  xy: 982, 14
+  xy: 59, 18
   size: 51, 16
   orig: 51, 16
   offset: 0, 0
   index: -1
-easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_10.png
-  rotate: false
-  xy: 160, 26
-  size: 77, 36
-  orig: 77, 36
-  offset: 0, 0
-  index: -1
-easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_11.png
-  rotate: false
-  xy: 881, 15
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_2.png
   rotate: false
-  xy: 779, 2
+  xy: 2, 2
   size: 53, 24
   orig: 53, 24
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_3.png
   rotate: false
-  xy: 1041, 33
+  xy: 112, 14
   size: 53, 29
   orig: 53, 29
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_4.png
   rotate: false
-  xy: 2, 26
+  xy: 2, 218
   size: 77, 36
   orig: 77, 36
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_5.png
   rotate: false
-  xy: 239, 26
+  xy: 81, 218
   size: 77, 36
   orig: 77, 36
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_6.png
   rotate: false
-  xy: 318, 26
+  xy: 2, 142
   size: 77, 36
   orig: 77, 36
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_7.png
   rotate: false
-  xy: 397, 26
-  size: 77, 36
-  orig: 77, 36
-  offset: 0, 0
-  index: -1
-easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_8.png
-  rotate: false
-  xy: 476, 26
+  xy: 81, 180
   size: 77, 36
   orig: 77, 36
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_b_0_9.png
   rotate: false
-  xy: 81, 26
+  xy: 2, 180
   size: 77, 36
   orig: 77, 36
   offset: 0, 0
   index: -1
-easter_c18_snowdrop4_easter_c18_snowdrop4_64_c_0_0.png
-  rotate: false
-  xy: 55, 23
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_c_0_1.png
   rotate: false
-  xy: 1552, 41
+  xy: 158, 59
   size: 29, 21
   orig: 29, 21
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_c_0_2.png
   rotate: false
-  xy: 1481, 29
+  xy: 102, 109
   size: 37, 33
   orig: 37, 33
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_c_0_3.png
   rotate: false
-  xy: 1345, 26
+  xy: 58, 104
   size: 42, 36
   orig: 42, 36
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_c_0_4.png
   rotate: false
-  xy: 881, 18
+  xy: 207, 210
   size: 44, 44
   orig: 44, 44
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_c_0_5.png
   rotate: false
-  xy: 834, 13
+  xy: 160, 205
   size: 45, 49
   orig: 45, 49
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_c_0_6.png
   rotate: false
-  xy: 1149, 29
+  xy: 58, 69
   size: 50, 33
   orig: 50, 33
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_c_0_7.png
   rotate: false
-  xy: 1096, 31
+  xy: 59, 36
   size: 51, 31
   orig: 51, 31
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_c_0_8.png
   rotate: false
-  xy: 1435, 32
+  xy: 112, 45
   size: 44, 30
   orig: 44, 30
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_64_c_0_9.png
   rotate: false
-  xy: 1389, 32
+  xy: 110, 77
   size: 44, 30
   orig: 44, 30
   offset: 0, 0
   index: -1
 easter_c18_snowdrop4_easter_c18_snowdrop4_icon_a.png
   rotate: false
-  xy: 1520, 32
+  xy: 156, 82
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

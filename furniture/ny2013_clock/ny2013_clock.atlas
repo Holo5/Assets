@@ -18,13 +18,6 @@ ny2013_clock_ny2013_clock_64_a_6_0.png
   orig: 56, 137
   offset: 0, 0
   index: -1
-ny2013_clock_ny2013_clock_64_sd_2_0.png
-  rotate: false
-  xy: 2, 2
-  size: 60, 30
-  orig: 60, 30
-  offset: 0, 0
-  index: -1
 ny2013_clock_ny2013_clock_64_sd_6_0.png
   rotate: false
   xy: 2, 34
@@ -34,7 +27,7 @@ ny2013_clock_ny2013_clock_64_sd_6_0.png
   index: -1
 ny2013_clock_ny2013_clock_icon_a.png
   rotate: false
-  xy: 64, 34
+  xy: 2, 2
   size: 25, 30
   orig: 25, 30
   offset: 0, 0

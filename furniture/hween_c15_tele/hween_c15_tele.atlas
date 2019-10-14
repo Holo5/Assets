@@ -1,82 +1,47 @@
 
 hween_c15_tele.png
-size: 4096,256
+size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hween_c15_tele_hween_c15_tele_64_a_0_0.png
-  rotate: false
-  xy: 1094, 75
-  size: 66, 36
-  orig: 66, 36
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_a_2_0.png
-  rotate: false
-  xy: 214, 12
-  size: 66, 36
-  orig: 66, 36
-  offset: 0, 0
-  index: -1
 hween_c15_tele_hween_c15_tele_64_a_4_0.png
   rotate: false
-  xy: 1026, 75
-  size: 66, 36
-  orig: 66, 36
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_a_6_0.png
-  rotate: false
-  xy: 3210, 218
+  xy: 855, 218
   size: 66, 36
   orig: 66, 36
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_b_0_0.png
   rotate: false
-  xy: 1678, 112
+  xy: 241, 110
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_b_0_1.png
   rotate: false
-  xy: 606, 46
-  size: 69, 56
-  orig: 69, 56
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_0_10.png
-  rotate: false
-  xy: 2615, 169
-  size: 79, 85
-  orig: 79, 85
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_0_11.png
-  rotate: false
-  xy: 3000, 198
+  xy: 153, 46
   size: 69, 56
   orig: 69, 56
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_b_0_2.png
   rotate: false
-  xy: 2262, 144
+  xy: 567, 144
   size: 66, 110
   orig: 66, 110
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_b_0_3.png
   rotate: false
-  xy: 1678, 115
+  xy: 421, 115
   size: 66, 139
   orig: 66, 139
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_b_0_4.png
   rotate: false
-  xy: 318, 44
+  xy: 81, 44
   size: 70, 210
   orig: 70, 210
   offset: 0, 0
@@ -90,308 +55,70 @@ hween_c15_tele_hween_c15_tele_64_b_0_5.png
   index: -1
 hween_c15_tele_hween_c15_tele_64_b_0_6.png
   rotate: false
-  xy: 606, 104
+  xy: 153, 104
   size: 86, 150
   orig: 86, 150
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_b_0_7.png
   rotate: false
-  xy: 958, 113
+  xy: 241, 113
   size: 90, 141
   orig: 90, 141
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_b_0_8.png
   rotate: false
-  xy: 1326, 109
+  xy: 333, 109
   size: 86, 145
   orig: 86, 145
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_b_0_9.png
   rotate: false
-  xy: 1950, 137
+  xy: 489, 137
   size: 76, 117
   orig: 76, 117
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_0.png
-  rotate: false
-  xy: 2534, 166
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_1.png
-  rotate: false
-  xy: 2929, 198
-  size: 69, 56
-  orig: 69, 56
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_10.png
-  rotate: false
-  xy: 2696, 169
-  size: 79, 85
-  orig: 79, 85
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_11.png
-  rotate: false
-  xy: 819, 46
-  size: 69, 56
-  orig: 69, 56
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_2.png
-  rotate: false
-  xy: 2466, 144
-  size: 66, 110
-  orig: 66, 110
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_3.png
-  rotate: false
-  xy: 1882, 115
-  size: 66, 139
-  orig: 66, 139
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_4.png
-  rotate: false
-  xy: 534, 44
-  size: 70, 210
-  orig: 70, 210
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_5.png
-  rotate: false
-  xy: 239, 50
-  size: 77, 204
-  orig: 77, 204
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_6.png
-  rotate: false
-  xy: 870, 104
-  size: 86, 150
-  orig: 86, 150
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_7.png
-  rotate: false
-  xy: 1234, 113
-  size: 90, 141
-  orig: 90, 141
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_8.png
-  rotate: false
-  xy: 1590, 109
-  size: 86, 145
-  orig: 86, 145
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_2_9.png
-  rotate: false
-  xy: 2184, 137
-  size: 76, 117
-  orig: 76, 117
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_0.png
-  rotate: false
-  xy: 1950, 134
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_1.png
-  rotate: false
-  xy: 2858, 198
-  size: 69, 56
-  orig: 69, 56
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_10.png
-  rotate: false
-  xy: 2777, 169
-  size: 79, 85
-  orig: 79, 85
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_11.png
-  rotate: false
-  xy: 3071, 198
-  size: 69, 56
-  orig: 69, 56
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_2.png
-  rotate: false
-  xy: 2330, 144
-  size: 66, 110
-  orig: 66, 110
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_3.png
-  rotate: false
-  xy: 1746, 115
-  size: 66, 139
-  orig: 66, 139
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_4.png
-  rotate: false
-  xy: 390, 44
-  size: 70, 210
-  orig: 70, 210
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_5.png
-  rotate: false
-  xy: 81, 50
-  size: 77, 204
-  orig: 77, 204
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_6.png
-  rotate: false
-  xy: 694, 104
-  size: 86, 150
-  orig: 86, 150
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_7.png
-  rotate: false
-  xy: 1142, 113
-  size: 90, 141
-  orig: 90, 141
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_8.png
-  rotate: false
-  xy: 1502, 109
-  size: 86, 145
-  orig: 86, 145
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_4_9.png
-  rotate: false
-  xy: 2106, 137
-  size: 76, 117
-  orig: 76, 117
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_6_0.png
-  rotate: false
-  xy: 2262, 141
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_6_1.png
-  rotate: false
-  xy: 677, 46
-  size: 69, 56
-  orig: 69, 56
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_b_6_10.png
   rotate: false
-  xy: 2534, 169
+  xy: 635, 169
   size: 79, 85
   orig: 79, 85
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_b_6_11.png
   rotate: false
-  xy: 748, 46
+  xy: 716, 198
   size: 69, 56
   orig: 69, 56
   offset: 0, 0
   index: -1
-hween_c15_tele_hween_c15_tele_64_b_6_2.png
-  rotate: false
-  xy: 2398, 144
-  size: 66, 110
-  orig: 66, 110
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_6_3.png
-  rotate: false
-  xy: 1814, 115
-  size: 66, 139
-  orig: 66, 139
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_6_4.png
-  rotate: false
-  xy: 462, 44
-  size: 70, 210
-  orig: 70, 210
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_6_5.png
-  rotate: false
-  xy: 160, 50
-  size: 77, 204
-  orig: 77, 204
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_6_6.png
-  rotate: false
-  xy: 782, 104
-  size: 86, 150
-  orig: 86, 150
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_6_7.png
-  rotate: false
-  xy: 1050, 113
-  size: 90, 141
-  orig: 90, 141
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_6_8.png
-  rotate: false
-  xy: 1414, 109
-  size: 86, 145
-  orig: 86, 145
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_b_6_9.png
-  rotate: false
-  xy: 2028, 137
-  size: 76, 117
-  orig: 76, 117
-  offset: 0, 0
-  index: -1
 hween_c15_tele_hween_c15_tele_64_c_0_0.png
   rotate: false
-  xy: 3278, 210
+  xy: 38, 4
   size: 40, 44
   orig: 40, 44
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_c_0_1.png
   rotate: false
-  xy: 3446, 210
+  xy: 923, 210
   size: 39, 44
   orig: 39, 44
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_c_0_2.png
   rotate: false
-  xy: 3746, 214
+  xy: 80, 2
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_64_c_0_3.png
   rotate: false
-  xy: 3610, 210
+  xy: 964, 210
   size: 32, 44
   orig: 32, 44
   offset: 0, 0
@@ -403,142 +130,16 @@ hween_c15_tele_hween_c15_tele_64_c_0_4.png
   orig: 34, 46
   offset: 0, 0
   index: -1
-hween_c15_tele_hween_c15_tele_64_c_2_0.png
-  rotate: false
-  xy: 3320, 210
-  size: 40, 44
-  orig: 40, 44
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_2_1.png
-  rotate: false
-  xy: 3487, 210
-  size: 39, 44
-  orig: 39, 44
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_2_2.png
-  rotate: false
-  xy: 3784, 214
-  size: 36, 40
-  orig: 36, 40
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_2_3.png
-  rotate: false
-  xy: 3644, 210
-  size: 32, 44
-  orig: 32, 44
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_2_4.png
-  rotate: false
-  xy: 38, 2
-  size: 34, 46
-  orig: 34, 46
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_4_0.png
-  rotate: false
-  xy: 3362, 210
-  size: 40, 44
-  orig: 40, 44
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_4_1.png
-  rotate: false
-  xy: 3528, 210
-  size: 39, 44
-  orig: 39, 44
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_4_2.png
-  rotate: false
-  xy: 3822, 214
-  size: 36, 40
-  orig: 36, 40
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_4_3.png
-  rotate: false
-  xy: 3678, 210
-  size: 32, 44
-  orig: 32, 44
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_4_4.png
-  rotate: false
-  xy: 74, 2
-  size: 34, 46
-  orig: 34, 46
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_6_0.png
-  rotate: false
-  xy: 3404, 210
-  size: 40, 44
-  orig: 40, 44
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_6_1.png
-  rotate: false
-  xy: 3569, 210
-  size: 39, 44
-  orig: 39, 44
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_6_2.png
-  rotate: false
-  xy: 3860, 214
-  size: 36, 40
-  orig: 36, 40
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_6_3.png
-  rotate: false
-  xy: 3712, 210
-  size: 32, 44
-  orig: 32, 44
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_c_6_4.png
-  rotate: false
-  xy: 110, 2
-  size: 34, 46
-  orig: 34, 46
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_sd_0_0.png
-  rotate: false
-  xy: 3142, 218
-  size: 66, 36
-  orig: 66, 36
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_sd_2_0.png
-  rotate: false
-  xy: 958, 75
-  size: 66, 36
-  orig: 66, 36
-  offset: 0, 0
-  index: -1
 hween_c15_tele_hween_c15_tele_64_sd_4_0.png
   rotate: false
-  xy: 890, 66
-  size: 66, 36
-  orig: 66, 36
-  offset: 0, 0
-  index: -1
-hween_c15_tele_hween_c15_tele_64_sd_6_0.png
-  rotate: false
-  xy: 146, 12
+  xy: 787, 218
   size: 66, 36
   orig: 66, 36
   offset: 0, 0
   index: -1
 hween_c15_tele_hween_c15_tele_icon_a.png
   rotate: false
-  xy: 282, 18
+  xy: 118, 12
   size: 26, 30
   orig: 26, 30
   offset: 0, 0

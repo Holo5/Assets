@@ -4,16 +4,9 @@ size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-easter_c18_tulip3_easter_c18_tulip3_64_a_0_0.png
-  rotate: false
-  xy: 127, 81
-  size: 56, 18
-  orig: 56, 18
-  offset: 0, 0
-  index: -1
 easter_c18_tulip3_easter_c18_tulip3_64_a_0_1.png
   rotate: false
-  xy: 48, 55
+  xy: 48, 47
   size: 54, 14
   orig: 54, 14
   offset: 0, 0
@@ -34,7 +27,7 @@ easter_c18_tulip3_easter_c18_tulip3_64_a_0_11.png
   index: -1
 easter_c18_tulip3_easter_c18_tulip3_64_a_0_2.png
   rotate: false
-  xy: 48, 71
+  xy: 127, 77
   size: 56, 22
   orig: 56, 22
   offset: 0, 0
@@ -104,49 +97,42 @@ easter_c18_tulip3_easter_c18_tulip3_64_b_0_1.png
   index: -1
 easter_c18_tulip3_easter_c18_tulip3_64_b_0_10.png
   rotate: false
-  xy: 180, 5
+  xy: 175, 37
   size: 41, 30
   orig: 41, 30
   offset: 0, 0
   index: -1
-easter_c18_tulip3_easter_c18_tulip3_64_b_0_11.png
-  rotate: false
-  xy: 121, 130
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 easter_c18_tulip3_easter_c18_tulip3_64_b_0_2.png
   rotate: false
-  xy: 46, 4
+  xy: 218, 206
   size: 27, 17
   orig: 27, 17
   offset: 0, 0
   index: -1
 easter_c18_tulip3_easter_c18_tulip3_64_b_0_3.png
   rotate: false
-  xy: 106, 57
+  xy: 94, 71
   size: 29, 22
   orig: 29, 22
   offset: 0, 0
   index: -1
 easter_c18_tulip3_easter_c18_tulip3_64_b_0_4.png
   rotate: false
-  xy: 180, 37
+  xy: 132, 13
   size: 41, 30
   orig: 41, 30
   offset: 0, 0
   index: -1
 easter_c18_tulip3_easter_c18_tulip3_64_b_0_5.png
   rotate: false
-  xy: 94, 23
+  xy: 46, 15
   size: 41, 30
   orig: 41, 30
   offset: 0, 0
   index: -1
 easter_c18_tulip3_easter_c18_tulip3_64_b_0_6.png
   rotate: false
-  xy: 137, 49
+  xy: 89, 15
   size: 41, 30
   orig: 41, 30
   offset: 0, 0
@@ -167,21 +153,14 @@ easter_c18_tulip3_easter_c18_tulip3_64_b_0_8.png
   index: -1
 easter_c18_tulip3_easter_c18_tulip3_64_b_0_9.png
   rotate: false
-  xy: 137, 17
+  xy: 132, 45
   size: 41, 30
   orig: 41, 30
   offset: 0, 0
   index: -1
-easter_c18_tulip3_easter_c18_tulip3_64_c_0_0.png
-  rotate: false
-  xy: 124, 130
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 easter_c18_tulip3_easter_c18_tulip3_64_c_0_1.png
   rotate: false
-  xy: 218, 202
+  xy: 175, 14
   size: 29, 21
   orig: 29, 21
   offset: 0, 0
@@ -230,7 +209,7 @@ easter_c18_tulip3_easter_c18_tulip3_64_c_0_7.png
   index: -1
 easter_c18_tulip3_easter_c18_tulip3_64_c_0_8.png
   rotate: false
-  xy: 48, 23
+  xy: 48, 63
   size: 44, 30
   orig: 44, 30
   offset: 0, 0

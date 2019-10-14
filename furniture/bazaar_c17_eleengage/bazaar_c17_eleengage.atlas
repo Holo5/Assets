@@ -1,355 +1,208 @@
 
 bazaar_c17_eleengage.png
-size: 2048,256
+size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_a_4_0.png
   rotate: false
-  xy: 2, 5
-  size: 75, 32
-  orig: 75, 32
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_a_4_1.png
-  rotate: false
-  xy: 1296, 141
-  size: 75, 32
-  orig: 75, 32
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_a_4_10.png
-  rotate: false
-  xy: 1414, 99
-  size: 75, 32
-  orig: 75, 32
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_a_4_2.png
-  rotate: false
-  xy: 1491, 132
-  size: 75, 32
-  orig: 75, 32
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_a_4_3.png
-  rotate: false
-  xy: 356, 101
-  size: 75, 32
-  orig: 75, 32
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_a_4_5.png
-  rotate: false
-  xy: 1414, 133
-  size: 75, 32
-  orig: 75, 32
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_a_4_6.png
-  rotate: false
-  xy: 1931, 4
-  size: 75, 32
-  orig: 75, 32
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_a_4_7.png
-  rotate: false
-  xy: 1296, 107
-  size: 75, 32
-  orig: 75, 32
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_a_4_8.png
-  rotate: false
-  xy: 109, 99
-  size: 75, 32
-  orig: 75, 32
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_a_4_9.png
-  rotate: false
-  xy: 1854, 4
+  xy: 382, 38
   size: 75, 32
   orig: 75, 32
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_b_4_0.png
   rotate: false
-  xy: 1179, 134
-  size: 115, 103
-  orig: 115, 103
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_b_4_1.png
-  rotate: false
-  xy: 711, 134
+  xy: 2, 5
   size: 115, 103
   orig: 115, 103
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_b_4_10.png
   rotate: false
-  xy: 235, 131
+  xy: 235, 140
   size: 119, 106
   orig: 119, 106
   offset: 0, 0
   index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_b_4_2.png
-  rotate: false
-  xy: 594, 134
-  size: 115, 103
-  orig: 115, 103
-  offset: 0, 0
-  index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_b_4_3.png
   rotate: false
-  xy: 477, 134
+  xy: 477, 143
   size: 115, 103
   orig: 115, 103
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_b_4_5.png
   rotate: false
-  xy: 1062, 134
+  xy: 828, 143
   size: 115, 103
   orig: 115, 103
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_b_4_6.png
   rotate: false
-  xy: 945, 134
+  xy: 711, 143
   size: 115, 103
   orig: 115, 103
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_b_4_7.png
   rotate: false
-  xy: 828, 134
+  xy: 594, 143
   size: 115, 103
   orig: 115, 103
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_b_4_8.png
   rotate: false
-  xy: 356, 135
+  xy: 356, 144
   size: 119, 102
   orig: 119, 102
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_b_4_9.png
   rotate: false
-  xy: 109, 133
+  xy: 109, 142
   size: 124, 104
   orig: 124, 104
   offset: 0, 0
   index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_c_4_0.png
-  rotate: false
-  xy: 1952, 135
-  size: 45, 102
-  orig: 45, 102
-  offset: 0, 0
-  index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_c_4_1.png
   rotate: false
-  xy: 1807, 29
+  xy: 876, 40
   size: 45, 101
   orig: 45, 101
   offset: 0, 0
   index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_c_4_10.png
-  rotate: false
-  xy: 1760, 28
-  size: 45, 102
-  orig: 45, 102
-  offset: 0, 0
-  index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_c_4_2.png
   rotate: false
-  xy: 1713, 134
+  xy: 237, 35
   size: 49, 103
   orig: 49, 103
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_c_4_3.png
   rotate: false
-  xy: 1764, 132
+  xy: 288, 33
   size: 45, 105
   orig: 45, 105
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_c_4_5.png
   rotate: false
-  xy: 1811, 135
-  size: 45, 102
-  orig: 45, 102
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_c_4_6.png
-  rotate: false
-  xy: 1858, 135
-  size: 45, 102
-  orig: 45, 102
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_c_4_7.png
-  rotate: false
-  xy: 1905, 135
-  size: 45, 102
-  orig: 45, 102
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_c_4_8.png
-  rotate: false
-  xy: 1713, 30
-  size: 45, 102
-  orig: 45, 102
-  offset: 0, 0
-  index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_c_4_9.png
-  rotate: false
-  xy: 1999, 135
+  xy: 335, 36
   size: 45, 102
   orig: 45, 102
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_d_4_0.png
   rotate: false
-  xy: 1648, 74
+  xy: 945, 83
   size: 63, 163
   orig: 63, 163
   offset: 0, 0
   index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_d_4_1.png
-  rotate: false
-  xy: 1820, 132
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_e_4_0.png
   rotate: false
-  xy: 1491, 82
+  xy: 459, 20
   size: 56, 48
   orig: 56, 48
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_e_4_1.png
   rotate: false
-  xy: 1811, 132
+  xy: 2, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_f_4_0.png
   rotate: false
-  xy: 2, 39
+  xy: 119, 80
   size: 96, 60
   orig: 96, 60
   offset: 0, 0
   index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_f_4_1.png
-  rotate: false
-  xy: 1823, 132
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_g_4_0.png
   rotate: false
-  xy: 1958, 38
+  xy: 720, 46
   size: 50, 95
   orig: 50, 95
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_g_4_1.png
   rotate: false
-  xy: 1906, 38
+  xy: 668, 46
   size: 50, 95
   orig: 50, 95
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_g_4_2.png
   rotate: false
-  xy: 152, 2
+  xy: 824, 46
   size: 50, 95
   orig: 50, 95
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_g_4_3.png
   rotate: false
-  xy: 100, 2
+  xy: 772, 46
   size: 50, 95
   orig: 50, 95
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_g_4_4.png
   rotate: false
-  xy: 1854, 38
+  xy: 616, 46
   size: 50, 95
   orig: 50, 95
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_h_4_0.png
   rotate: false
-  xy: 1494, 166
+  xy: 462, 70
   size: 76, 71
   orig: 76, 71
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_h_4_1.png
   rotate: false
-  xy: 1572, 167
+  xy: 540, 71
   size: 74, 70
   orig: 74, 70
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_h_4_2.png
   rotate: false
-  xy: 1414, 167
+  xy: 382, 72
   size: 78, 70
   orig: 78, 70
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_i_4_0.png
   rotate: false
-  xy: 1373, 130
+  xy: 517, 25
   size: 39, 43
   orig: 39, 43
   offset: 0, 0
   index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_i_4_1.png
-  rotate: false
-  xy: 1814, 132
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_j_4_0.png
   rotate: false
-  xy: 2, 101
+  xy: 2, 110
   size: 105, 136
   orig: 105, 136
   offset: 0, 0
   index: -1
-bazaar_c17_eleengage_bazaar_c17_eleengage_64_j_4_1.png
-  rotate: false
-  xy: 1817, 132
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_64_sd_4_0.png
   rotate: false
-  xy: 1296, 175
+  xy: 119, 16
   size: 116, 62
   orig: 116, 62
   offset: 0, 0
   index: -1
 bazaar_c17_eleengage_bazaar_c17_eleengage_icon_a.png
   rotate: false
-  xy: 2010, 105
+  xy: 558, 41
   size: 26, 28
   orig: 26, 28
   offset: 0, 0

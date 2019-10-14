@@ -1,348 +1,215 @@
 
 ads_mtv_bigtv2.png
-size: 4096,512
+size: 2048,512
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_a_2_0.png
-  rotate: false
-  xy: 3292, 208
-  size: 120, 120
-  orig: 120, 120
-  offset: 0, 0
-  index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_a_2_1.png
   rotate: false
-  xy: 3292, 330
+  xy: 620, 28
   size: 120, 120
   orig: 120, 120
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_a_4_0.png
   rotate: false
-  xy: 3170, 330
-  size: 120, 120
-  orig: 120, 120
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_a_4_1.png
-  rotate: false
-  xy: 3170, 208
+  xy: 498, 28
   size: 120, 120
   orig: 120, 120
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_2_0.png
   rotate: false
-  xy: 918, 98
+  xy: 918, 150
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_2_1.png
   rotate: false
-  xy: 1094, 275
+  xy: 1094, 327
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_2_2.png
   rotate: false
-  xy: 1094, 98
+  xy: 1094, 150
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_2_3.png
   rotate: false
-  xy: 742, 275
+  xy: 742, 327
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_2_4.png
   rotate: false
-  xy: 742, 98
+  xy: 742, 150
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_2_5.png
   rotate: false
-  xy: 918, 275
+  xy: 918, 327
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_4_0.png
   rotate: false
-  xy: 214, 275
+  xy: 214, 327
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_4_1.png
   rotate: false
-  xy: 214, 98
+  xy: 214, 150
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_4_2.png
   rotate: false
-  xy: 390, 275
+  xy: 390, 327
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_4_3.png
   rotate: false
-  xy: 390, 98
+  xy: 390, 150
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_4_4.png
   rotate: false
-  xy: 566, 275
+  xy: 566, 327
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_b_4_5.png
   rotate: false
-  xy: 566, 98
+  xy: 566, 150
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_2_0.png
-  rotate: false
-  xy: 3170, 205
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_2_1.png
   rotate: false
-  xy: 1608, 303
+  xy: 1439, 355
   size: 140, 147
   orig: 140, 147
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_2_2.png
   rotate: false
-  xy: 1750, 154
+  xy: 1581, 355
   size: 140, 147
   orig: 140, 147
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_2_3.png
   rotate: false
-  xy: 1892, 154
-  size: 140, 147
-  orig: 140, 147
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_2_4.png
-  rotate: false
-  xy: 2034, 303
-  size: 140, 147
-  orig: 140, 147
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_2_5.png
-  rotate: false
-  xy: 2034, 154
-  size: 140, 147
-  orig: 140, 147
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_2_6.png
-  rotate: false
-  xy: 2176, 303
-  size: 140, 147
-  orig: 140, 147
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_2_7.png
-  rotate: false
-  xy: 1892, 303
+  xy: 1581, 206
   size: 140, 147
   orig: 140, 147
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_2_8.png
   rotate: false
-  xy: 2176, 154
+  xy: 1723, 355
   size: 140, 147
   orig: 140, 147
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_2_9.png
-  rotate: false
-  xy: 2318, 303
-  size: 140, 147
-  orig: 140, 147
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_4_0.png
-  rotate: false
-  xy: 3414, 449
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_4_1.png
   rotate: false
-  xy: 2318, 154
+  xy: 1723, 206
   size: 140, 147
   orig: 140, 147
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_4_2.png
   rotate: false
-  xy: 2744, 303
+  xy: 1865, 206
   size: 140, 147
   orig: 140, 147
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_4_3.png
   rotate: false
-  xy: 2460, 303
-  size: 140, 147
-  orig: 140, 147
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_4_4.png
-  rotate: false
-  xy: 2602, 303
-  size: 140, 147
-  orig: 140, 147
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_4_5.png
-  rotate: false
-  xy: 2460, 154
-  size: 140, 147
-  orig: 140, 147
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_4_6.png
-  rotate: false
-  xy: 2602, 154
-  size: 140, 147
-  orig: 140, 147
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_4_7.png
-  rotate: false
-  xy: 2744, 154
+  xy: 1865, 355
   size: 140, 147
   orig: 140, 147
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_4_8.png
   rotate: false
-  xy: 1608, 154
-  size: 140, 147
-  orig: 140, 147
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_c_4_9.png
-  rotate: false
-  xy: 1750, 303
+  xy: 1439, 206
   size: 140, 147
   orig: 140, 147
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_d_2_0.png
   rotate: false
-  xy: 3028, 304
-  size: 140, 146
-  orig: 140, 146
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_d_2_1.png
-  rotate: false
-  xy: 3028, 156
-  size: 140, 146
-  orig: 140, 146
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_d_4_0.png
-  rotate: false
-  xy: 2886, 156
+  xy: 356, 2
   size: 140, 146
   orig: 140, 146
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_d_4_1.png
   rotate: false
-  xy: 2886, 304
+  xy: 214, 2
   size: 140, 146
   orig: 140, 146
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_e_2_0.png
   rotate: false
-  xy: 214, 95
+  xy: 2007, 501
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_e_2_1.png
   rotate: false
-  xy: 2, 241
+  xy: 2, 293
   size: 210, 209
   orig: 210, 209
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_e_4_0.png
-  rotate: false
-  xy: 1608, 151
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_e_4_1.png
   rotate: false
-  xy: 2, 30
+  xy: 2, 82
   size: 210, 209
   orig: 210, 209
   offset: 0, 0
   index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_f_2_0.png
-  rotate: false
-  xy: 1439, 98
-  size: 167, 175
-  orig: 167, 175
-  offset: 0, 0
-  index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_f_2_1.png
   rotate: false
-  xy: 1439, 275
+  xy: 1270, 150
   size: 167, 175
   orig: 167, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_64_f_4_0.png
   rotate: false
-  xy: 1270, 275
-  size: 167, 175
-  orig: 167, 175
-  offset: 0, 0
-  index: -1
-ads_mtv_bigtv2_ads_mtv_bigtv2_64_f_4_1.png
-  rotate: false
-  xy: 1270, 98
+  xy: 1270, 327
   size: 167, 175
   orig: 167, 175
   offset: 0, 0
   index: -1
 ads_mtv_bigtv2_ads_mtv_bigtv2_icon_a.png
   rotate: false
-  xy: 2, 2
+  xy: 1439, 178
   size: 28, 26
   orig: 28, 26
   offset: 0, 0

@@ -18,13 +18,6 @@ fx_explosion_fx_explosion_64_a_0_1.png
   orig: 26, 21
   offset: 0, 0
   index: -1
-fx_explosion_fx_explosion_64_b_0_0.png
-  rotate: false
-  xy: 1335, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 fx_explosion_fx_explosion_64_b_0_1.png
   rotate: false
   xy: 822, 99
@@ -63,13 +56,6 @@ fx_explosion_fx_explosion_64_b_0_5.png
 fx_explosion_fx_explosion_64_b_0_6.png
   rotate: false
   xy: 1332, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-fx_explosion_fx_explosion_64_c_0_0.png
-  rotate: false
-  xy: 1341, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -125,7 +111,7 @@ fx_explosion_fx_explosion_64_c_0_15.png
   index: -1
 fx_explosion_fx_explosion_64_c_0_16.png
   rotate: false
-  xy: 1338, 2
+  xy: 1335, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

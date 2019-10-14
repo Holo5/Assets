@@ -4,6 +4,13 @@ size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+boutique_sofa1_boutique_sofa1_32_a_6_0.png
+  rotate: false
+  xy: 342, 22
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
 boutique_sofa1_boutique_sofa1_64_a_0_0.png
   rotate: false
   xy: 49, 9
@@ -58,12 +65,5 @@ boutique_sofa1_boutique_sofa1_64_sd_6_0.png
   xy: 266, 15
   size: 36, 31
   orig: 36, 31
-  offset: 0, 0
-  index: -1
-boutique_sofa1_boutique_sofa1_icon_a.png
-  rotate: false
-  xy: 342, 22
-  size: 20, 24
-  orig: 20, 24
   offset: 0, 0
   index: -1

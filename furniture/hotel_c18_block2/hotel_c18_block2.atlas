@@ -62,7 +62,7 @@ hotel_c18_block2_hotel_c18_block2_64_d_4_0.png
   index: -1
 hotel_c18_block2_hotel_c18_block2_64_e_2_0.png
   rotate: false
-  xy: 72, 463
+  xy: 242, 1008
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -95,13 +95,6 @@ hotel_c18_block2_hotel_c18_block2_64_e_2_4.png
   orig: 30, 231
   offset: 0, 0
   index: -1
-hotel_c18_block2_hotel_c18_block2_64_e_4_0.png
-  rotate: false
-  xy: 242, 1008
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hotel_c18_block2_hotel_c18_block2_64_e_4_1.png
   rotate: false
   xy: 2, 39
@@ -128,13 +121,6 @@ hotel_c18_block2_hotel_c18_block2_64_e_4_4.png
   xy: 216, 511
   size: 30, 233
   orig: 30, 233
-  offset: 0, 0
-  index: -1
-hotel_c18_block2_hotel_c18_block2_64_f_2_0.png
-  rotate: false
-  xy: 180, 480
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hotel_c18_block2_hotel_c18_block2_64_f_2_1.png

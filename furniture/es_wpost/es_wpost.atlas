@@ -4,6 +4,13 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+es_wpost_es_wpost_32_a_0_0.png
+  rotate: false
+  xy: 109, 33
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
 es_wpost_es_wpost_64_a_0_0.png
   rotate: false
   xy: 2, 2
@@ -30,12 +37,5 @@ es_wpost_es_wpost_64_sd_0_0.png
   xy: 71, 49
   size: 36, 13
   orig: 36, 13
-  offset: 0, 0
-  index: -1
-es_wpost_es_wpost_icon_a.png
-  rotate: false
-  xy: 109, 33
-  size: 17, 29
-  orig: 17, 29
   offset: 0, 0
   index: -1

@@ -4,6 +4,13 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+boutique_cashreg_boutique_cashreg_32_a_2_0.png
+  rotate: false
+  xy: 189, 25
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
 boutique_cashreg_boutique_cashreg_64_a_0_0.png
   rotate: false
   xy: 145, 15
@@ -30,12 +37,5 @@ boutique_cashreg_boutique_cashreg_64_a_2_1.png
   xy: 2, 2
   size: 49, 44
   orig: 49, 44
-  offset: 0, 0
-  index: -1
-boutique_cashreg_boutique_cashreg_icon_a.png
-  rotate: false
-  xy: 189, 25
-  size: 21, 21
-  orig: 21, 21
   offset: 0, 0
   index: -1

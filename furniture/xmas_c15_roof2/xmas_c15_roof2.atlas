@@ -1,19 +1,19 @@
 
 xmas_c15_roof2.png
-size: 2048,128
+size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 xmas_c15_roof2_xmas_c15_roof2_64_a_0_0.png
   rotate: false
-  xy: 1087, 66
+  xy: 871, 66
   size: 36, 60
   orig: 36, 60
   offset: 0, 0
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_a_0_1.png
   rotate: false
-  xy: 1125, 66
+  xy: 909, 66
   size: 36, 60
   orig: 36, 60
   offset: 0, 0
@@ -27,7 +27,7 @@ xmas_c15_roof2_xmas_c15_roof2_64_a_0_2.png
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_a_0_3.png
   rotate: false
-  xy: 1163, 69
+  xy: 947, 69
   size: 36, 57
   orig: 36, 57
   offset: 0, 0
@@ -48,75 +48,54 @@ xmas_c15_roof2_xmas_c15_roof2_64_a_0_5.png
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_b_0_0.png
   rotate: false
-  xy: 566, 22
+  xy: 350, 22
   size: 67, 104
   orig: 67, 104
   offset: 0, 0
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_b_0_1.png
   rotate: false
-  xy: 635, 22
+  xy: 419, 22
   size: 67, 104
   orig: 67, 104
   offset: 0, 0
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_b_0_2.png
   rotate: false
-  xy: 704, 22
+  xy: 488, 22
   size: 67, 104
   orig: 67, 104
   offset: 0, 0
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_b_0_3.png
   rotate: false
-  xy: 773, 22
+  xy: 557, 22
   size: 67, 104
   orig: 67, 104
   offset: 0, 0
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_b_0_4.png
   rotate: false
-  xy: 842, 22
+  xy: 626, 22
   size: 67, 104
   orig: 67, 104
   offset: 0, 0
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_b_0_5.png
   rotate: false
-  xy: 911, 22
+  xy: 695, 22
   size: 67, 104
   orig: 67, 104
   offset: 0, 0
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_c_0_0.png
   rotate: false
-  xy: 422, 36
-  size: 70, 90
-  orig: 70, 90
-  offset: 0, 0
-  index: -1
-xmas_c15_roof2_xmas_c15_roof2_64_c_0_1.png
-  rotate: false
   xy: 278, 36
   size: 70, 90
   orig: 70, 90
   offset: 0, 0
   index: -1
-xmas_c15_roof2_xmas_c15_roof2_64_c_0_2.png
-  rotate: false
-  xy: 494, 36
-  size: 70, 90
-  orig: 70, 90
-  offset: 0, 0
-  index: -1
-xmas_c15_roof2_xmas_c15_roof2_64_c_0_3.png
-  rotate: false
-  xy: 350, 36
-  size: 70, 90
-  orig: 70, 90
-  offset: 0, 0
-  index: -1
-xmas_c15_roof2_xmas_c15_roof2_64_c_0_4.png
+xmas_c15_roof2_xmas_c15_roof2_64_c_0_1.png
   rotate: false
   xy: 206, 36
   size: 70, 90
@@ -132,7 +111,7 @@ xmas_c15_roof2_xmas_c15_roof2_64_c_0_5.png
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_d_0_0.png
   rotate: false
-  xy: 1046, 62
+  xy: 830, 62
   size: 39, 64
   orig: 39, 64
   offset: 0, 0
@@ -146,44 +125,23 @@ xmas_c15_roof2_xmas_c15_roof2_64_d_0_1.png
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_e_0_0.png
   rotate: false
-  xy: 1247, 82
+  xy: 985, 82
   size: 37, 44
   orig: 37, 44
   offset: 0, 0
   index: -1
-xmas_c15_roof2_xmas_c15_roof2_64_e_0_1.png
-  rotate: false
-  xy: 1046, 59
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_f_0_0.png
   rotate: false
-  xy: 1201, 82
+  xy: 830, 16
   size: 44, 44
   orig: 44, 44
   offset: 0, 0
   index: -1
-xmas_c15_roof2_xmas_c15_roof2_64_f_0_1.png
-  rotate: false
-  xy: 1163, 66
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_g_0_0.png
   rotate: false
-  xy: 980, 46
+  xy: 764, 46
   size: 64, 80
   orig: 64, 80
-  offset: 0, 0
-  index: -1
-xmas_c15_roof2_xmas_c15_roof2_64_g_0_1.png
-  rotate: false
-  xy: 1087, 63
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_64_sd_0_0.png
@@ -195,7 +153,7 @@ xmas_c15_roof2_xmas_c15_roof2_64_sd_0_0.png
   index: -1
 xmas_c15_roof2_xmas_c15_roof2_icon_a.png
   rotate: false
-  xy: 980, 24
+  xy: 764, 24
   size: 30, 20
   orig: 30, 20
   offset: 0, 0

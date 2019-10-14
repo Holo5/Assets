@@ -1,12 +1,12 @@
 
 xmas_r16_throne.png
-size: 512,128
+size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 xmas_r16_throne_xmas_r16_throne_64_a_0_0.png
   rotate: false
-  xy: 210, 83
+  xy: 158, 21
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
@@ -34,21 +34,14 @@ xmas_r16_throne_xmas_r16_throne_64_b_4_0.png
   index: -1
 xmas_r16_throne_xmas_r16_throne_64_sd_0_0.png
   rotate: false
-  xy: 210, 93
-  size: 66, 33
-  orig: 66, 33
-  offset: 0, 0
-  index: -1
-xmas_r16_throne_xmas_r16_throne_64_sd_4_0.png
-  rotate: false
-  xy: 278, 93
+  xy: 158, 31
   size: 66, 33
   orig: 66, 33
   offset: 0, 0
   index: -1
 xmas_r16_throne_xmas_r16_throne_icon_a.png
   rotate: false
-  xy: 158, 34
+  xy: 210, 96
   size: 21, 30
   orig: 21, 30
   offset: 0, 0

@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 modern_c17_pug_modern_c17_pug_64_a_0_0.png
   rotate: false
-  xy: 117, 57
+  xy: 117, 130
   size: 37, 41
   orig: 37, 41
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_1.png
   rotate: false
-  xy: 117, 173
+  xy: 114, 173
   size: 39, 41
   orig: 39, 41
   offset: 0, 0
@@ -27,7 +27,7 @@ modern_c17_pug_modern_c17_pug_64_a_0_10.png
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_11.png
   rotate: false
-  xy: 40, 78
+  xy: 2, 5
   size: 37, 43
   orig: 37, 43
   offset: 0, 0
@@ -41,28 +41,21 @@ modern_c17_pug_modern_c17_pug_64_a_0_12.png
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_13.png
   rotate: false
-  xy: 117, 130
+  xy: 77, 128
   size: 38, 41
   orig: 38, 41
   offset: 0, 0
   index: -1
-modern_c17_pug_modern_c17_pug_64_a_0_14.png
-  rotate: false
-  xy: 2, 5
-  size: 36, 43
-  orig: 36, 43
-  offset: 0, 0
-  index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_15.png
   rotate: false
-  xy: 77, 170
+  xy: 41, 33
   size: 38, 43
   orig: 38, 43
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_16.png
   rotate: false
-  xy: 40, 33
+  xy: 40, 78
   size: 38, 43
   orig: 38, 43
   offset: 0, 0
@@ -83,49 +76,49 @@ modern_c17_pug_modern_c17_pug_64_a_0_18.png
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_19.png
   rotate: false
-  xy: 117, 100
+  xy: 166, 62
   size: 43, 28
   orig: 43, 28
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_2.png
   rotate: false
-  xy: 79, 81
+  xy: 77, 171
   size: 35, 42
   orig: 35, 42
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_20.png
   rotate: false
-  xy: 194, 99
+  xy: 211, 181
   size: 43, 28
   orig: 43, 28
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_21.png
   rotate: false
-  xy: 129, 8
+  xy: 211, 151
   size: 43, 28
   orig: 43, 28
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_22.png
   rotate: false
-  xy: 85, 6
+  xy: 122, 59
   size: 42, 29
   orig: 42, 29
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_23.png
   rotate: false
-  xy: 40, 2
+  xy: 41, 2
   size: 43, 29
   orig: 43, 29
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_24.png
   rotate: false
-  xy: 158, 134
+  xy: 120, 90
   size: 40, 38
   orig: 40, 38
   offset: 0, 0
@@ -139,35 +132,35 @@ modern_c17_pug_modern_c17_pug_64_a_0_25.png
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_26.png
   rotate: false
-  xy: 156, 57
+  xy: 80, 86
   size: 38, 40
   orig: 38, 40
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_27.png
   rotate: false
-  xy: 158, 174
+  xy: 155, 174
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_28.png
   rotate: false
-  xy: 196, 59
+  xy: 81, 46
   size: 39, 38
   orig: 39, 38
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_29.png
   rotate: false
-  xy: 200, 171
+  xy: 162, 92
   size: 41, 38
   orig: 41, 38
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_64_a_0_3.png
   rotate: false
-  xy: 200, 129
+  xy: 156, 132
   size: 39, 40
   orig: 39, 40
   offset: 0, 0
@@ -214,30 +207,16 @@ modern_c17_pug_modern_c17_pug_64_a_0_7.png
   orig: 32, 51
   offset: 0, 0
   index: -1
-modern_c17_pug_modern_c17_pug_64_a_0_8.png
-  rotate: false
-  xy: 80, 37
-  size: 35, 42
-  orig: 35, 42
-  offset: 0, 0
-  index: -1
-modern_c17_pug_modern_c17_pug_64_a_0_9.png
-  rotate: false
-  xy: 77, 125
-  size: 38, 43
-  orig: 38, 43
-  offset: 0, 0
-  index: -1
 modern_c17_pug_modern_c17_pug_64_sd_0_0.png
   rotate: false
-  xy: 117, 38
+  xy: 122, 40
   size: 34, 17
   orig: 34, 17
   offset: 0, 0
   index: -1
 modern_c17_pug_modern_c17_pug_icon_a.png
   rotate: false
-  xy: 162, 105
+  xy: 86, 17
   size: 30, 27
   orig: 30, 27
   offset: 0, 0

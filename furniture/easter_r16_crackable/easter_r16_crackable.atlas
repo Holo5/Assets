@@ -4,34 +4,6 @@ size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-easter_r16_crackable_easter_r16_crackable_64_a_2_0.png
-  rotate: false
-  xy: 760, 79
-  size: 62, 122
-  orig: 62, 122
-  offset: 0, 0
-  index: -1
-easter_r16_crackable_easter_r16_crackable_64_a_2_1.png
-  rotate: false
-  xy: 696, 79
-  size: 62, 122
-  orig: 62, 122
-  offset: 0, 0
-  index: -1
-easter_r16_crackable_easter_r16_crackable_64_a_2_2.png
-  rotate: false
-  xy: 632, 79
-  size: 62, 122
-  orig: 62, 122
-  offset: 0, 0
-  index: -1
-easter_r16_crackable_easter_r16_crackable_64_a_2_3.png
-  rotate: false
-  xy: 568, 79
-  size: 62, 122
-  orig: 62, 122
-  offset: 0, 0
-  index: -1
 easter_r16_crackable_easter_r16_crackable_64_a_2_4.png
   rotate: false
   xy: 504, 79
@@ -76,7 +48,7 @@ easter_r16_crackable_easter_r16_crackable_64_sd_2_0.png
   index: -1
 easter_r16_crackable_easter_r16_crackable_icon_a.png
   rotate: false
-  xy: 824, 172
+  xy: 568, 172
   size: 18, 29
   orig: 18, 29
   offset: 0, 0

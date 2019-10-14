@@ -4,27 +4,6 @@ size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-bazaar_c17_building_bazaar_c17_building_64_a_2_0.png
-  rotate: false
-  xy: 838, 90
-  size: 1, 127
-  orig: 1, 127
-  offset: 0, 0
-  index: -1
-bazaar_c17_building_bazaar_c17_building_64_a_4_0.png
-  rotate: false
-  xy: 841, 90
-  size: 1, 127
-  orig: 1, 127
-  offset: 0, 0
-  index: -1
-bazaar_c17_building_bazaar_c17_building_64_b_2_0.png
-  rotate: false
-  xy: 844, 90
-  size: 1, 127
-  orig: 1, 127
-  offset: 0, 0
-  index: -1
 bazaar_c17_building_bazaar_c17_building_64_b_4_0.png
   rotate: false
   xy: 835, 90
@@ -34,49 +13,42 @@ bazaar_c17_building_bazaar_c17_building_64_b_4_0.png
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_c_2_0.png
   rotate: false
-  xy: 236, 59
+  xy: 102, 22
   size: 32, 16
   orig: 32, 16
   offset: 0, 0
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_c_4_0.png
   rotate: false
-  xy: 102, 42
+  xy: 102, 40
   size: 32, 16
   orig: 32, 16
   offset: 0, 0
   index: -1
-bazaar_c17_building_bazaar_c17_building_64_d_2_0.png
-  rotate: false
-  xy: 168, 58
-  size: 66, 17
-  orig: 66, 17
-  offset: 0, 0
-  index: -1
 bazaar_c17_building_bazaar_c17_building_64_d_4_0.png
   rotate: false
-  xy: 168, 77
+  xy: 905, 169
   size: 66, 17
   orig: 66, 17
   offset: 0, 0
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_e_2_0.png
   rotate: false
-  xy: 236, 77
+  xy: 966, 237
   size: 34, 17
   orig: 34, 17
   offset: 0, 0
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_e_4_0.png
   rotate: false
-  xy: 870, 137
+  xy: 861, 137
   size: 34, 17
   orig: 34, 17
   offset: 0, 0
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_f_2_0.png
   rotate: false
-  xy: 102, 60
+  xy: 905, 188
   size: 64, 32
   orig: 64, 32
   offset: 0, 0
@@ -116,13 +88,6 @@ bazaar_c17_building_bazaar_c17_building_64_h_4_0.png
   orig: 76, 160
   offset: 0, 0
   index: -1
-bazaar_c17_building_bazaar_c17_building_64_i_2_0.png
-  rotate: false
-  xy: 906, 219
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bazaar_c17_building_bazaar_c17_building_64_i_2_1.png
   rotate: false
   xy: 339, 110
@@ -151,20 +116,6 @@ bazaar_c17_building_bazaar_c17_building_64_i_2_4.png
   orig: 22, 86
   offset: 0, 0
   index: -1
-bazaar_c17_building_bazaar_c17_building_64_i_2_5.png
-  rotate: false
-  xy: 936, 159
-  size: 20, 61
-  orig: 20, 61
-  offset: 0, 0
-  index: -1
-bazaar_c17_building_bazaar_c17_building_64_i_4_0.png
-  rotate: false
-  xy: 909, 219
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bazaar_c17_building_bazaar_c17_building_64_i_4_1.png
   rotate: false
   xy: 732, 102
@@ -188,23 +139,9 @@ bazaar_c17_building_bazaar_c17_building_64_i_4_3.png
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_i_4_4.png
   rotate: false
-  xy: 847, 131
+  xy: 838, 131
   size: 21, 86
   orig: 21, 86
-  offset: 0, 0
-  index: -1
-bazaar_c17_building_bazaar_c17_building_64_i_4_5.png
-  rotate: false
-  xy: 892, 156
-  size: 20, 61
-  orig: 20, 61
-  offset: 0, 0
-  index: -1
-bazaar_c17_building_bazaar_c17_building_64_j_2_0.png
-  rotate: false
-  xy: 900, 219
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_j_2_1.png
@@ -237,7 +174,7 @@ bazaar_c17_building_bazaar_c17_building_64_j_2_4.png
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_j_2_5.png
   rotate: false
-  xy: 914, 159
+  xy: 883, 156
   size: 20, 61
   orig: 20, 61
   offset: 0, 0
@@ -279,16 +216,9 @@ bazaar_c17_building_bazaar_c17_building_64_j_4_4.png
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_j_4_5.png
   rotate: false
-  xy: 870, 156
+  xy: 861, 156
   size: 20, 61
   orig: 20, 61
-  offset: 0, 0
-  index: -1
-bazaar_c17_building_bazaar_c17_building_64_k_2_0.png
-  rotate: false
-  xy: 20, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_k_2_1.png
@@ -298,25 +228,11 @@ bazaar_c17_building_bazaar_c17_building_64_k_2_1.png
   orig: 30, 30
   offset: 0, 0
   index: -1
-bazaar_c17_building_bazaar_c17_building_64_k_4_0.png
-  rotate: false
-  xy: 14, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bazaar_c17_building_bazaar_c17_building_64_k_4_1.png
   rotate: false
-  xy: 966, 220
+  xy: 102, 58
   size: 39, 34
   orig: 39, 34
-  offset: 0, 0
-  index: -1
-bazaar_c17_building_bazaar_c17_building_64_l_2_0.png
-  rotate: false
-  xy: 17, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_l_2_1.png
@@ -326,25 +242,11 @@ bazaar_c17_building_bazaar_c17_building_64_l_2_1.png
   orig: 66, 36
   offset: 0, 0
   index: -1
-bazaar_c17_building_bazaar_c17_building_64_l_4_0.png
-  rotate: false
-  xy: 11, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bazaar_c17_building_bazaar_c17_building_64_l_4_1.png
   rotate: false
   xy: 833, 219
   size: 65, 35
   orig: 65, 35
-  offset: 0, 0
-  index: -1
-bazaar_c17_building_bazaar_c17_building_64_m_2_0.png
-  rotate: false
-  xy: 5, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_m_2_1.png
@@ -361,13 +263,6 @@ bazaar_c17_building_bazaar_c17_building_64_m_2_2.png
   orig: 53, 57
   offset: 0, 0
   index: -1
-bazaar_c17_building_bazaar_c17_building_64_m_4_0.png
-  rotate: false
-  xy: 23, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bazaar_c17_building_bazaar_c17_building_64_m_4_1.png
   rotate: false
   xy: 723, 197
@@ -382,13 +277,6 @@ bazaar_c17_building_bazaar_c17_building_64_m_4_2.png
   orig: 53, 57
   offset: 0, 0
   index: -1
-bazaar_c17_building_bazaar_c17_building_64_n_2_0.png
-  rotate: false
-  xy: 903, 219
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bazaar_c17_building_bazaar_c17_building_64_n_2_1.png
   rotate: false
   xy: 373, 201
@@ -401,13 +289,6 @@ bazaar_c17_building_bazaar_c17_building_64_n_2_2.png
   xy: 433, 201
   size: 58, 53
   orig: 58, 53
-  offset: 0, 0
-  index: -1
-bazaar_c17_building_bazaar_c17_building_64_n_4_0.png
-  rotate: false
-  xy: 8, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 bazaar_c17_building_bazaar_c17_building_64_n_4_1.png
@@ -440,7 +321,7 @@ bazaar_c17_building_bazaar_c17_building_64_sd_4_0.png
   index: -1
 bazaar_c17_building_bazaar_c17_building_icon_a.png
   rotate: false
-  xy: 847, 101
+  xy: 838, 101
   size: 18, 28
   orig: 18, 28
   offset: 0, 0

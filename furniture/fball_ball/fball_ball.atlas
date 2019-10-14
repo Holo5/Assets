@@ -6,42 +6,42 @@ filter: Nearest,Nearest
 repeat: none
 fball_ball_fball_ball_64_a_1_1.png
   rotate: false
-  xy: 226, 2
+  xy: 198, 2
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
 fball_ball_fball_ball_64_a_1_2.png
   rotate: false
-  xy: 254, 2
+  xy: 226, 2
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
 fball_ball_fball_ball_64_a_1_3.png
   rotate: false
-  xy: 198, 2
+  xy: 170, 2
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
 fball_ball_fball_ball_64_a_2_1.png
   rotate: false
-  xy: 170, 2
+  xy: 142, 2
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
 fball_ball_fball_ball_64_a_2_2.png
   rotate: false
-  xy: 114, 2
+  xy: 86, 2
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
 fball_ball_fball_ball_64_a_2_3.png
   rotate: false
-  xy: 142, 2
+  xy: 114, 2
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
@@ -62,22 +62,15 @@ fball_ball_fball_ball_64_a_3_2.png
   index: -1
 fball_ball_fball_ball_64_a_3_3.png
   rotate: false
-  xy: 86, 2
+  xy: 58, 2
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
 fball_ball_fball_ball_64_sd_0_0.png
   rotate: false
-  xy: 282, 17
+  xy: 254, 17
   size: 23, 11
   orig: 23, 11
-  offset: 0, 0
-  index: -1
-fball_ball_fball_ball_icon_a.png
-  rotate: false
-  xy: 58, 2
-  size: 26, 26
-  orig: 26, 26
   offset: 0, 0
   index: -1

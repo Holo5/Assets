@@ -1,40 +1,26 @@
 
 hween_c18_labcurtains.png
-size: 128,256
+size: 64,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hween_c18_labcurtains_hween_c18_labcurtains_64_a_0_0.png
-  rotate: false
-  xy: 42, 51
-  size: 38, 150
-  orig: 38, 150
-  offset: 0, 0
-  index: -1
 hween_c18_labcurtains_hween_c18_labcurtains_64_b_0_1.png
   rotate: false
-  xy: 2, 51
+  xy: 2, 23
   size: 38, 150
   orig: 38, 150
-  offset: 0, 0
-  index: -1
-hween_c18_labcurtains_hween_c18_labcurtains_64_c_0_0.png
-  rotate: false
-  xy: 82, 182
-  size: 36, 19
-  orig: 36, 19
   offset: 0, 0
   index: -1
 hween_c18_labcurtains_hween_c18_labcurtains_64_d_0_1.png
   rotate: false
-  xy: 2, 30
+  xy: 2, 2
   size: 36, 19
   orig: 36, 19
   offset: 0, 0
   index: -1
 hween_c18_labcurtains_hween_c18_labcurtains_icon_a.png
   rotate: false
-  xy: 2, 2
+  xy: 42, 147
   size: 8, 26
   orig: 8, 26
   offset: 0, 0

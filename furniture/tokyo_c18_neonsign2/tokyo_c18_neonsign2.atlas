@@ -1,6 +1,6 @@
 
 tokyo_c18_neonsign2.png
-size: 2048,128
+size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -11,23 +11,9 @@ tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_a_0_0.png
   orig: 73, 87
   offset: 0, 0
   index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_a_0_1.png
-  rotate: false
-  xy: 77, 37
-  size: 73, 87
-  orig: 73, 87
-  offset: 0, 0
-  index: -1
 tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_b_0_0.png
   rotate: false
-  xy: 664, 29
-  size: 62, 95
-  orig: 62, 95
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_b_0_1.png
-  rotate: false
-  xy: 984, 29
+  xy: 205, 29
   size: 62, 95
   orig: 62, 95
   offset: 0, 0
@@ -39,123 +25,25 @@ tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_b_0_2.png
   orig: 2, 1
   offset: 0, 0
   index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_c_0_0.png
-  rotate: false
-  xy: 856, 29
-  size: 62, 95
-  orig: 62, 95
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_c_0_1.png
-  rotate: false
-  xy: 536, 29
-  size: 62, 95
-  orig: 62, 95
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_c_0_2.png
-  rotate: false
-  xy: 280, 29
-  size: 62, 95
-  orig: 62, 95
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_c_0_3.png
-  rotate: false
-  xy: 1172, 31
-  size: 60, 93
-  orig: 60, 93
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_c_0_4.png
-  rotate: false
-  xy: 920, 29
-  size: 62, 95
-  orig: 62, 95
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_c_0_5.png
-  rotate: false
-  xy: 600, 29
-  size: 62, 95
-  orig: 62, 95
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_c_0_6.png
-  rotate: false
-  xy: 344, 29
-  size: 62, 95
-  orig: 62, 95
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_c_0_7.png
-  rotate: false
-  xy: 1234, 31
-  size: 60, 93
-  orig: 60, 93
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_c_0_8.png
-  rotate: false
-  xy: 1296, 103
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_d_0_0.png
-  rotate: false
-  xy: 792, 29
-  size: 62, 95
-  orig: 62, 95
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_d_0_1.png
-  rotate: false
-  xy: 472, 29
-  size: 62, 95
-  orig: 62, 95
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_d_0_2.png
-  rotate: false
-  xy: 216, 29
-  size: 62, 95
-  orig: 62, 95
-  offset: 0, 0
-  index: -1
 tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_d_0_3.png
   rotate: false
-  xy: 1048, 31
+  xy: 269, 31
   size: 60, 93
   orig: 60, 93
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_d_0_4.png
-  rotate: false
-  xy: 728, 29
-  size: 62, 95
-  orig: 62, 95
   offset: 0, 0
   index: -1
 tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_d_0_5.png
   rotate: false
-  xy: 408, 29
+  xy: 141, 29
   size: 62, 95
   orig: 62, 95
   offset: 0, 0
   index: -1
 tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_d_0_6.png
   rotate: false
-  xy: 152, 29
+  xy: 77, 29
   size: 62, 95
   orig: 62, 95
-  offset: 0, 0
-  index: -1
-tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_d_0_7.png
-  rotate: false
-  xy: 1110, 31
-  size: 60, 93
-  orig: 60, 93
   offset: 0, 0
   index: -1
 tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_d_0_8.png
@@ -167,7 +55,7 @@ tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_d_0_8.png
   index: -1
 tokyo_c18_neonsign2_tokyo_c18_neonsign2_64_sd_0_0.png
   rotate: false
-  xy: 1296, 106
+  xy: 331, 106
   size: 36, 18
   orig: 36, 18
   offset: 0, 0

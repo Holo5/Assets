@@ -1,61 +1,47 @@
 
 tiki_sand.png
-size: 512,256
+size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 tiki_sand_tiki_sand_64_a_0_0.png
   rotate: false
-  xy: 133, 165
-  size: 129, 70
-  orig: 129, 70
-  offset: 0, 0
-  index: -1
-tiki_sand_tiki_sand_64_a_2_0.png
-  rotate: false
-  xy: 2, 93
-  size: 129, 70
-  orig: 129, 70
-  offset: 0, 0
-  index: -1
-tiki_sand_tiki_sand_64_a_4_0.png
-  rotate: false
-  xy: 2, 21
+  xy: 133, 21
   size: 129, 70
   orig: 129, 70
   offset: 0, 0
   index: -1
 tiki_sand_tiki_sand_64_a_6_0.png
   rotate: false
-  xy: 2, 165
+  xy: 2, 21
   size: 129, 70
   orig: 129, 70
   offset: 0, 0
   index: -1
 tiki_sand_tiki_sand_64_b_0_0.png
   rotate: false
-  xy: 133, 95
+  xy: 264, 23
   size: 127, 68
   orig: 127, 68
   offset: 0, 0
   index: -1
 tiki_sand_tiki_sand_64_b_2_0.png
   rotate: false
-  xy: 264, 167
+  xy: 393, 23
   size: 127, 68
   orig: 127, 68
   offset: 0, 0
   index: -1
 tiki_sand_tiki_sand_64_b_4_0.png
   rotate: false
-  xy: 133, 25
+  xy: 522, 23
   size: 127, 68
   orig: 127, 68
   offset: 0, 0
   index: -1
 tiki_sand_tiki_sand_64_b_6_0.png
   rotate: false
-  xy: 264, 97
+  xy: 651, 23
   size: 127, 68
   orig: 127, 68
   offset: 0, 0

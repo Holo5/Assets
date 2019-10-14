@@ -4,6 +4,27 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+wildwest_clothesline_wildwest_clothesline_32_e_4_6.png
+  rotate: false
+  xy: 144, 86
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_32_e_4_6.png
+  rotate: false
+  xy: 185, 114
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_32_e_4_6.png
+  rotate: false
+  xy: 198, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 wildwest_clothesline_wildwest_clothesline_64_a_4_0.png
   rotate: false
   xy: 2, 19
@@ -25,16 +46,9 @@ wildwest_clothesline_wildwest_clothesline_64_c_4_0.png
   orig: 45, 24
   offset: 0, 0
   index: -1
-wildwest_clothesline_wildwest_clothesline_64_c_4_1.png
-  rotate: false
-  xy: 7, 7
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 wildwest_clothesline_wildwest_clothesline_64_d_4_0.png
   rotate: false
-  xy: 131, 76
+  xy: 84, 52
   size: 6, 2
   orig: 6, 2
   offset: 0, 0
@@ -44,20 +58,6 @@ wildwest_clothesline_wildwest_clothesline_64_d_4_1.png
   xy: 154, 90
   size: 6, 5
   orig: 6, 5
-  offset: 0, 0
-  index: -1
-wildwest_clothesline_wildwest_clothesline_64_d_4_2.png
-  rotate: false
-  xy: 18, 11
-  size: 3, 6
-  orig: 3, 6
-  offset: 0, 0
-  index: -1
-wildwest_clothesline_wildwest_clothesline_64_d_4_3.png
-  rotate: false
-  xy: 101, 57
-  size: 4, 4
-  orig: 4, 4
   offset: 0, 0
   index: -1
 wildwest_clothesline_wildwest_clothesline_64_d_4_4.png
@@ -74,23 +74,16 @@ wildwest_clothesline_wildwest_clothesline_64_d_4_5.png
   orig: 15, 5
   offset: 0, 0
   index: -1
-wildwest_clothesline_wildwest_clothesline_64_d_4_6.png
-  rotate: false
-  xy: 162, 94
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 wildwest_clothesline_wildwest_clothesline_64_e_4_0.png
   rotate: false
-  xy: 185, 113
+  xy: 131, 76
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
   index: -1
 wildwest_clothesline_wildwest_clothesline_64_e_4_1.png
   rotate: false
-  xy: 144, 83
+  xy: 101, 57
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
@@ -104,7 +97,7 @@ wildwest_clothesline_wildwest_clothesline_64_e_4_2.png
   index: -1
 wildwest_clothesline_wildwest_clothesline_64_e_4_3.png
   rotate: false
-  xy: 84, 50
+  xy: 18, 13
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
@@ -121,13 +114,6 @@ wildwest_clothesline_wildwest_clothesline_64_e_4_5.png
   xy: 2, 10
   size: 14, 7
   orig: 14, 7
-  offset: 0, 0
-  index: -1
-wildwest_clothesline_wildwest_clothesline_64_e_4_6.png
-  rotate: false
-  xy: 198, 123
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 wildwest_clothesline_wildwest_clothesline_64_sd_4_0.png

@@ -6,42 +6,35 @@ filter: Nearest,Nearest
 repeat: none
 boutique_clothingpile_boutique_clothingpile_64_a_0_0.png
   rotate: false
-  xy: 258, 4
+  xy: 226, 4
   size: 30, 21
   orig: 30, 21
   offset: 0, 0
   index: -1
 boutique_clothingpile_boutique_clothingpile_64_a_0_1.png
   rotate: false
-  xy: 290, 4
+  xy: 258, 4
   size: 30, 21
   orig: 30, 21
   offset: 0, 0
   index: -1
 boutique_clothingpile_boutique_clothingpile_64_a_0_2.png
   rotate: false
-  xy: 226, 4
+  xy: 194, 4
   size: 30, 21
   orig: 30, 21
   offset: 0, 0
   index: -1
 boutique_clothingpile_boutique_clothingpile_64_a_0_3.png
   rotate: false
-  xy: 162, 2
-  size: 30, 23
-  orig: 30, 23
-  offset: 0, 0
-  index: -1
-boutique_clothingpile_boutique_clothingpile_64_a_0_4.png
-  rotate: false
-  xy: 66, 2
+  xy: 130, 2
   size: 30, 23
   orig: 30, 23
   offset: 0, 0
   index: -1
 boutique_clothingpile_boutique_clothingpile_64_a_0_5.png
   rotate: false
-  xy: 194, 2
+  xy: 162, 2
   size: 30, 23
   orig: 30, 23
   offset: 0, 0
@@ -55,14 +48,14 @@ boutique_clothingpile_boutique_clothingpile_64_a_0_6.png
   index: -1
 boutique_clothingpile_boutique_clothingpile_64_a_0_7.png
   rotate: false
-  xy: 98, 2
+  xy: 66, 2
   size: 30, 23
   orig: 30, 23
   offset: 0, 0
   index: -1
 boutique_clothingpile_boutique_clothingpile_64_a_0_8.png
   rotate: false
-  xy: 130, 2
+  xy: 98, 2
   size: 30, 23
   orig: 30, 23
   offset: 0, 0

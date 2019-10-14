@@ -4,6 +4,13 @@ size: 128,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+room_noob_sofa_room_noob_sofa_32_d_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 room_noob_sofa_room_noob_sofa_64_a_0_0.png
   rotate: false
   xy: 63, 96
@@ -51,13 +58,6 @@ room_noob_sofa_room_noob_sofa_64_d_0_0.png
   xy: 98, 131
   size: 22, 38
   orig: 22, 38
-  offset: 0, 0
-  index: -1
-room_noob_sofa_room_noob_sofa_64_d_4_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 room_noob_sofa_room_noob_sofa_icon_a.png

@@ -13,7 +13,7 @@ paris15_giftsnails_paris15_giftsnails_64_a_0_0.png
   index: -1
 paris15_giftsnails_paris15_giftsnails_64_b_0_0.png
   rotate: false
-  xy: 106, 43
+  xy: 105, 43
   size: 17, 13
   orig: 17, 13
   offset: 0, 0
@@ -27,14 +27,14 @@ paris15_giftsnails_paris15_giftsnails_64_b_0_1.png
   index: -1
 paris15_giftsnails_paris15_giftsnails_64_b_0_2.png
   rotate: false
-  xy: 52, 20
+  xy: 79, 39
   size: 24, 17
   orig: 24, 17
   offset: 0, 0
   index: -1
 paris15_giftsnails_paris15_giftsnails_64_b_0_3.png
   rotate: false
-  xy: 78, 20
+  xy: 52, 20
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
@@ -42,13 +42,6 @@ paris15_giftsnails_paris15_giftsnails_64_b_0_3.png
 paris15_giftsnails_paris15_giftsnails_64_b_0_4.png
   rotate: false
   xy: 2, 2
-  size: 25, 17
-  orig: 25, 17
-  offset: 0, 0
-  index: -1
-paris15_giftsnails_paris15_giftsnails_icon_a.png
-  rotate: false
-  xy: 79, 39
   size: 25, 17
   orig: 25, 17
   offset: 0, 0

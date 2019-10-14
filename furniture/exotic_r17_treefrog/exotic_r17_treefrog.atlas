@@ -1,439 +1,243 @@
 
 exotic_r17_treefrog.png
-size: 512,256
+size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 exotic_r17_treefrog_exotic_r17_treefrog_64_a_0_0.png
   rotate: false
-  xy: 241, 217
+  xy: 132, 96
   size: 66, 33
   orig: 66, 33
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_a_0_1.png
   rotate: false
-  xy: 194, 149
+  xy: 70, 97
   size: 41, 19
   orig: 41, 19
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_b_0_0.png
   rotate: false
-  xy: 2, 108
+  xy: 2, 109
   size: 66, 142
   orig: 66, 142
   offset: 0, 0
   index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_c_0_0.png
-  rotate: false
-  xy: 241, 162
-  size: 18, 53
-  orig: 18, 53
-  offset: 0, 0
-  index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_c_0_1.png
   rotate: false
-  xy: 49, 53
+  xy: 194, 198
   size: 18, 53
   orig: 18, 53
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_0.png
-  rotate: false
-  xy: 199, 108
-  size: 30, 20
-  orig: 30, 20
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_1.png
   rotate: false
-  xy: 94, 47
+  xy: 81, 31
   size: 30, 20
   orig: 30, 20
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_10.png
-  rotate: false
-  xy: 130, 86
-  size: 30, 20
-  orig: 30, 20
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_11.png
-  rotate: false
-  xy: 261, 167
-  size: 35, 23
-  orig: 35, 23
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_12.png
-  rotate: false
-  xy: 309, 228
-  size: 39, 22
-  orig: 39, 22
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_13.png
-  rotate: false
-  xy: 132, 108
-  size: 33, 20
-  orig: 33, 20
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_14.png
-  rotate: false
-  xy: 427, 229
-  size: 34, 21
-  orig: 34, 21
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_15.png
-  rotate: false
-  xy: 97, 69
-  size: 30, 20
-  orig: 30, 20
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_16.png
-  rotate: false
-  xy: 298, 161
-  size: 30, 20
-  orig: 30, 20
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_17.png
-  rotate: false
-  xy: 298, 183
-  size: 30, 21
-  orig: 30, 21
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_2.png
   rotate: false
-  xy: 261, 192
+  xy: 214, 228
   size: 35, 23
   orig: 35, 23
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_3.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 3
   size: 39, 22
   orig: 39, 22
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_4.png
   rotate: false
-  xy: 463, 230
+  xy: 49, 56
   size: 33, 20
   orig: 33, 20
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_5.png
   rotate: false
-  xy: 391, 229
+  xy: 214, 205
   size: 34, 21
   orig: 34, 21
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_6.png
   rotate: false
-  xy: 70, 95
+  xy: 84, 53
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_7.png
   rotate: false
-  xy: 309, 206
+  xy: 90, 75
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_8.png
   rotate: false
-  xy: 43, 3
+  xy: 194, 148
   size: 30, 21
   orig: 30, 21
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_d_0_9.png
   rotate: false
-  xy: 167, 108
+  xy: 49, 34
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_e_0_0.png
-  rotate: false
-  xy: 194, 130
-  size: 39, 17
-  orig: 39, 17
-  offset: 0, 0
-  index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_e_0_1.png
   rotate: false
-  xy: 350, 233
+  xy: 49, 78
   size: 39, 17
   orig: 39, 17
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_f_0_0.png
   rotate: false
-  xy: 69, 53
+  xy: 194, 132
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_f_0_1.png
   rotate: false
-  xy: 378, 213
+  xy: 49, 18
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_f_0_2.png
   rotate: false
-  xy: 428, 213
-  size: 23, 14
-  orig: 23, 14
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_f_0_3.png
-  rotate: false
-  xy: 75, 6
-  size: 23, 14
-  orig: 23, 14
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_f_0_4.png
-  rotate: false
-  xy: 403, 213
-  size: 23, 14
-  orig: 23, 14
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_f_0_5.png
-  rotate: false
-  xy: 386, 197
+  xy: 43, 2
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_g_0_0.png
   rotate: false
-  xy: 2, 26
-  size: 45, 80
-  orig: 45, 80
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_g_0_1.png
-  rotate: false
-  xy: 194, 170
+  xy: 2, 27
   size: 45, 80
   orig: 45, 80
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_0.png
   rotate: false
-  xy: 154, 31
+  xy: 200, 81
   size: 26, 23
   orig: 26, 23
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_1.png
   rotate: false
-  xy: 330, 155
+  xy: 122, 71
   size: 26, 23
   orig: 26, 23
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_10.png
-  rotate: false
-  xy: 373, 129
-  size: 26, 24
-  orig: 26, 24
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_11.png
-  rotate: false
-  xy: 238, 30
-  size: 26, 24
-  orig: 26, 24
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_12.png
-  rotate: false
-  xy: 358, 181
-  size: 26, 24
-  orig: 26, 24
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_13.png
-  rotate: false
-  xy: 182, 31
-  size: 26, 23
-  orig: 26, 23
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_14.png
-  rotate: false
-  xy: 81, 22
-  size: 26, 23
-  orig: 26, 23
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_15.png
-  rotate: false
-  xy: 330, 180
-  size: 26, 24
-  orig: 26, 24
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_16.png
-  rotate: false
-  xy: 345, 129
-  size: 26, 24
-  orig: 26, 24
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_17.png
-  rotate: false
-  xy: 289, 135
-  size: 26, 24
-  orig: 26, 24
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_18.png
-  rotate: false
-  xy: 157, 56
-  size: 26, 24
-  orig: 26, 24
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_19.png
-  rotate: false
-  xy: 218, 82
-  size: 26, 24
-  orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_2.png
   rotate: false
-  xy: 210, 30
-  size: 26, 24
-  orig: 26, 24
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_20.png
-  rotate: false
-  xy: 102, 91
-  size: 26, 24
-  orig: 26, 24
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_21.png
-  rotate: false
-  xy: 190, 82
-  size: 26, 24
-  orig: 26, 24
-  offset: 0, 0
-  index: -1
-exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_22.png
-  rotate: false
-  xy: 126, 34
+  xy: 228, 75
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_23.png
   rotate: false
-  xy: 358, 155
+  xy: 113, 19
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_24.png
   rotate: false
-  xy: 241, 56
+  xy: 141, 18
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_25.png
   rotate: false
-  xy: 350, 207
+  xy: 144, 44
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_3.png
   rotate: false
-  xy: 317, 129
+  xy: 116, 45
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_4.png
   rotate: false
-  xy: 261, 141
+  xy: 150, 70
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_5.png
   rotate: false
-  xy: 129, 60
+  xy: 200, 106
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_6.png
   rotate: false
-  xy: 185, 56
+  xy: 228, 127
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_7.png
   rotate: false
-  xy: 69, 69
+  xy: 226, 179
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_8.png
   rotate: false
-  xy: 162, 82
+  xy: 226, 153
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_h_0_9.png
   rotate: false
-  xy: 213, 56
+  xy: 228, 101
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_i_0_0.png
   rotate: false
-  xy: 70, 117
+  xy: 70, 118
   size: 60, 133
   orig: 60, 133
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_64_j_0_0.png
   rotate: false
-  xy: 132, 130
+  xy: 132, 131
   size: 60, 120
   orig: 60, 120
   offset: 0, 0
   index: -1
 exotic_r17_treefrog_exotic_r17_treefrog_icon_a.png
   rotate: false
-  xy: 49, 26
+  xy: 194, 171
   size: 30, 25
   orig: 30, 25
   offset: 0, 0

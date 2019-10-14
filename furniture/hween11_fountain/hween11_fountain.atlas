@@ -4,6 +4,13 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hween11_fountain_hween11_fountain_32_b_d_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween11_fountain_hween11_fountain_64_a_0_0.png
   rotate: false
   xy: 2, 5
@@ -23,13 +30,6 @@ hween11_fountain_hween11_fountain_64_c_0_0.png
   xy: 108, 91
   size: 69, 26
   orig: 69, 26
-  offset: 0, 0
-  index: -1
-hween11_fountain_hween11_fountain_64_d_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween11_fountain_hween11_fountain_64_d_0_1.png

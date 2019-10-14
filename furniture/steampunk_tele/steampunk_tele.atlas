@@ -4,6 +4,13 @@ size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+steampunk_tele_steampunk_tele_32_g_4_17.png
+  rotate: false
+  xy: 105, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 steampunk_tele_steampunk_tele_64_a_4_0.png
   rotate: false
   xy: 2, 2
@@ -16,13 +23,6 @@ steampunk_tele_steampunk_tele_64_b_4_0.png
   xy: 91, 41
   size: 64, 25
   orig: 64, 25
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_c_4_0.png
-  rotate: false
-  xy: 137, 13
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_c_4_1.png
@@ -60,13 +60,6 @@ steampunk_tele_steampunk_tele_64_c_4_5.png
   orig: 51, 142
   offset: 0, 0
   index: -1
-steampunk_tele_steampunk_tele_64_d_4_0.png
-  rotate: false
-  xy: 135, 38
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 steampunk_tele_steampunk_tele_64_d_4_1.png
   rotate: false
   xy: 2, 28
@@ -102,13 +95,6 @@ steampunk_tele_steampunk_tele_64_d_4_5.png
   orig: 164, 116
   offset: 0, 0
   index: -1
-steampunk_tele_steampunk_tele_64_e_4_0.png
-  rotate: false
-  xy: 135, 35
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 steampunk_tele_steampunk_tele_64_e_4_1.png
   rotate: false
   xy: 464, 63
@@ -130,16 +116,9 @@ steampunk_tele_steampunk_tele_64_e_4_3.png
   orig: 108, 197
   offset: 0, 0
   index: -1
-steampunk_tele_steampunk_tele_64_f_4_0.png
-  rotate: false
-  xy: 139, 10
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 steampunk_tele_steampunk_tele_64_f_4_1.png
   rotate: false
-  xy: 140, 18
+  xy: 127, 18
   size: 13, 21
   orig: 13, 21
   offset: 0, 0
@@ -153,7 +132,7 @@ steampunk_tele_steampunk_tele_64_f_4_2.png
   index: -1
 steampunk_tele_steampunk_tele_64_f_4_3.png
   rotate: false
-  xy: 155, 8
+  xy: 142, 8
   size: 29, 31
   orig: 29, 31
   offset: 0, 0
@@ -174,21 +153,14 @@ steampunk_tele_steampunk_tele_64_f_4_5.png
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_0.png
   rotate: false
-  xy: 137, 16
+  xy: 115, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-steampunk_tele_steampunk_tele_64_g_4_1.png
-  rotate: false
-  xy: 127, 34
-  size: 2, 5
-  orig: 2, 5
-  offset: 0, 0
-  index: -1
 steampunk_tele_steampunk_tele_64_g_4_10.png
   rotate: false
-  xy: 101, 22
+  xy: 106, 34
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
@@ -202,28 +174,28 @@ steampunk_tele_steampunk_tele_64_g_4_11.png
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_12.png
   rotate: false
-  xy: 119, 34
+  xy: 113, 17
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_13.png
   rotate: false
-  xy: 130, 8
+  xy: 124, 3
   size: 1, 3
   orig: 1, 3
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_14.png
   rotate: false
-  xy: 122, 2
+  xy: 112, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_15.png
   rotate: false
-  xy: 123, 34
+  xy: 112, 5
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
@@ -237,7 +209,7 @@ steampunk_tele_steampunk_tele_64_g_4_16.png
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_17.png
   rotate: false
-  xy: 95, 9
+  xy: 95, 14
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
@@ -251,35 +223,14 @@ steampunk_tele_steampunk_tele_64_g_4_18.png
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_19.png
   rotate: false
-  xy: 118, 4
+  xy: 116, 5
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
-steampunk_tele_steampunk_tele_64_g_4_2.png
-  rotate: false
-  xy: 100, 33
-  size: 4, 6
-  orig: 4, 6
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_20.png
-  rotate: false
-  xy: 133, 8
-  size: 1, 3
-  orig: 1, 3
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_21.png
-  rotate: false
-  xy: 125, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 steampunk_tele_steampunk_tele_64_g_4_22.png
   rotate: false
-  xy: 117, 17
+  xy: 115, 25
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
@@ -293,63 +244,42 @@ steampunk_tele_steampunk_tele_64_g_4_23.png
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_24.png
   rotate: false
-  xy: 107, 22
+  xy: 107, 29
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_25.png
   rotate: false
-  xy: 113, 27
+  xy: 118, 35
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_26.png
   rotate: false
-  xy: 127, 18
+  xy: 123, 13
   size: 2, 3
   orig: 2, 3
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_27.png
   rotate: false
-  xy: 112, 33
+  xy: 101, 14
   size: 2, 1
   orig: 2, 1
   offset: 0, 0
   index: -1
-steampunk_tele_steampunk_tele_64_g_4_28.png
-  rotate: false
-  xy: 116, 33
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_29.png
-  rotate: false
-  xy: 128, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_3.png
-  rotate: false
-  xy: 99, 2
-  size: 4, 5
-  orig: 4, 5
-  offset: 0, 0
-  index: -1
 steampunk_tele_steampunk_tele_64_g_4_30.png
   rotate: false
-  xy: 108, 10
+  xy: 112, 35
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_31.png
   rotate: false
-  xy: 112, 4
+  xy: 101, 17
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
@@ -363,58 +293,44 @@ steampunk_tele_steampunk_tele_64_g_4_32.png
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_33.png
   rotate: false
-  xy: 101, 10
+  xy: 95, 8
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_34.png
   rotate: false
-  xy: 129, 27
+  xy: 121, 18
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_35.png
   rotate: false
-  xy: 125, 23
+  xy: 123, 35
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_36.png
   rotate: false
-  xy: 136, 8
+  xy: 127, 3
   size: 1, 3
   orig: 1, 3
   offset: 0, 0
   index: -1
-steampunk_tele_steampunk_tele_64_g_4_37.png
-  rotate: false
-  xy: 131, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 steampunk_tele_steampunk_tele_64_g_4_38.png
   rotate: false
-  xy: 107, 27
+  xy: 102, 8
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_39.png
   rotate: false
-  xy: 111, 16
+  xy: 107, 17
   size: 4, 4
   orig: 4, 4
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_4.png
-  rotate: false
-  xy: 95, 16
-  size: 7, 3
-  orig: 7, 3
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_40.png
@@ -426,49 +342,28 @@ steampunk_tele_steampunk_tele_64_g_4_40.png
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_41.png
   rotate: false
-  xy: 104, 16
+  xy: 99, 2
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_42.png
   rotate: false
-  xy: 131, 34
+  xy: 120, 5
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_43.png
   rotate: false
-  xy: 126, 5
+  xy: 119, 12
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
-steampunk_tele_steampunk_tele_64_g_4_44.png
-  rotate: false
-  xy: 133, 29
-  size: 1, 3
-  orig: 1, 3
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_45.png
-  rotate: false
-  xy: 133, 5
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_46.png
-  rotate: false
-  xy: 120, 23
-  size: 3, 3
-  orig: 3, 3
-  offset: 0, 0
-  index: -1
 steampunk_tele_steampunk_tele_64_g_4_47.png
   rotate: false
-  xy: 114, 11
+  xy: 108, 24
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
@@ -482,49 +377,21 @@ steampunk_tele_steampunk_tele_64_g_4_48.png
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_49.png
   rotate: false
-  xy: 114, 22
+  xy: 106, 3
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
-steampunk_tele_steampunk_tele_64_g_4_5.png
-  rotate: false
-  xy: 122, 5
-  size: 2, 5
-  orig: 2, 5
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_50.png
-  rotate: false
-  xy: 130, 13
-  size: 2, 3
-  orig: 2, 3
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_51.png
-  rotate: false
-  xy: 133, 24
-  size: 1, 3
-  orig: 1, 3
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_52.png
-  rotate: false
-  xy: 136, 5
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 steampunk_tele_steampunk_tele_64_g_4_53.png
   rotate: false
-  xy: 121, 12
+  xy: 120, 25
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_54.png
   rotate: false
-  xy: 112, 36
+  xy: 114, 30
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
@@ -538,49 +405,28 @@ steampunk_tele_steampunk_tele_64_g_4_55.png
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_56.png
   rotate: false
-  xy: 118, 28
+  xy: 108, 12
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_57.png
   rotate: false
-  xy: 131, 18
+  xy: 124, 8
   size: 2, 3
   orig: 2, 3
   offset: 0, 0
   index: -1
-steampunk_tele_steampunk_tele_64_g_4_58.png
-  rotate: false
-  xy: 135, 19
-  size: 1, 3
-  orig: 1, 3
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_59.png
-  rotate: false
-  xy: 134, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_6.png
-  rotate: false
-  xy: 134, 13
-  size: 1, 3
-  orig: 1, 3
-  offset: 0, 0
-  index: -1
 steampunk_tele_steampunk_tele_64_g_4_60.png
   rotate: false
-  xy: 124, 29
+  xy: 114, 12
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_61.png
   rotate: false
-  xy: 105, 4
+  xy: 101, 23
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
@@ -601,42 +447,28 @@ steampunk_tele_steampunk_tele_64_g_4_63.png
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_64.png
   rotate: false
-  xy: 122, 18
+  xy: 121, 30
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_65.png
   rotate: false
-  xy: 129, 23
+  xy: 108, 8
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
-steampunk_tele_steampunk_tele_64_g_4_66.png
-  rotate: false
-  xy: 137, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-steampunk_tele_steampunk_tele_64_g_4_7.png
-  rotate: false
-  xy: 130, 5
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 steampunk_tele_steampunk_tele_64_g_4_8.png
   rotate: false
-  xy: 126, 11
+  xy: 117, 18
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
 steampunk_tele_steampunk_tele_64_g_4_9.png
   rotate: false
-  xy: 106, 33
+  xy: 100, 33
   size: 4, 6
   orig: 4, 6
   offset: 0, 0

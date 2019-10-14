@@ -1,89 +1,82 @@
 
 pet_ufo_toy.png
-size: 1024,32
+size: 512,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-pet_ufo_toy_pet_ufo_toy_64_a_4_0.png
+pet_ufo_toy_pet_ufo_toy_64_a_4_1.png
   rotate: false
   xy: 86, 7
   size: 19, 23
   orig: 19, 23
   offset: 0, 0
   index: -1
-pet_ufo_toy_pet_ufo_toy_64_a_4_1.png
-  rotate: false
-  xy: 149, 7
-  size: 19, 23
-  orig: 19, 23
-  offset: 0, 0
-  index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_10.png
   rotate: false
-  xy: 191, 7
+  xy: 128, 7
   size: 19, 23
   orig: 19, 23
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_11.png
   rotate: false
-  xy: 275, 7
+  xy: 212, 7
   size: 19, 23
   orig: 19, 23
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_12.png
   rotate: false
-  xy: 254, 7
+  xy: 191, 7
   size: 19, 23
   orig: 19, 23
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_13.png
   rotate: false
-  xy: 317, 7
+  xy: 254, 7
   size: 19, 23
   orig: 19, 23
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_14.png
   rotate: false
-  xy: 296, 7
+  xy: 233, 7
   size: 19, 23
   orig: 19, 23
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_15.png
   rotate: false
-  xy: 338, 7
+  xy: 275, 7
   size: 19, 23
   orig: 19, 23
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_16.png
   rotate: false
-  xy: 359, 9
+  xy: 296, 9
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_17.png
   rotate: false
-  xy: 397, 10
+  xy: 334, 10
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_18.png
   rotate: false
-  xy: 378, 9
+  xy: 315, 9
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_19.png
   rotate: false
-  xy: 416, 12
+  xy: 353, 12
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
@@ -102,35 +95,21 @@ pet_ufo_toy_pet_ufo_toy_64_a_4_3.png
   orig: 19, 23
   offset: 0, 0
   index: -1
-pet_ufo_toy_pet_ufo_toy_64_a_4_4.png
+pet_ufo_toy_pet_ufo_toy_64_a_4_5.png
   rotate: false
   xy: 65, 7
   size: 19, 23
   orig: 19, 23
   offset: 0, 0
   index: -1
-pet_ufo_toy_pet_ufo_toy_64_a_4_5.png
-  rotate: false
-  xy: 128, 7
-  size: 19, 23
-  orig: 19, 23
-  offset: 0, 0
-  index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_6.png
   rotate: false
-  xy: 212, 7
+  xy: 149, 7
   size: 19, 23
   orig: 19, 23
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_7.png
-  rotate: false
-  xy: 170, 7
-  size: 19, 23
-  orig: 19, 23
-  offset: 0, 0
-  index: -1
-pet_ufo_toy_pet_ufo_toy_64_a_4_8.png
   rotate: false
   xy: 107, 7
   size: 19, 23
@@ -139,112 +118,35 @@ pet_ufo_toy_pet_ufo_toy_64_a_4_8.png
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_a_4_9.png
   rotate: false
-  xy: 233, 7
+  xy: 170, 7
   size: 19, 23
   orig: 19, 23
   offset: 0, 0
   index: -1
-pet_ufo_toy_pet_ufo_toy_64_b_4_0.png
-  rotate: false
-  xy: 677, 20
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-pet_ufo_toy_pet_ufo_toy_64_b_4_1.png
-  rotate: false
-  xy: 655, 20
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
 pet_ufo_toy_pet_ufo_toy_64_b_4_10.png
   rotate: false
-  xy: 435, 14
+  xy: 372, 14
   size: 14, 4
   orig: 14, 4
   offset: 0, 0
   index: -1
-pet_ufo_toy_pet_ufo_toy_64_b_4_11.png
-  rotate: false
-  xy: 479, 20
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
 pet_ufo_toy_pet_ufo_toy_64_b_4_12.png
   rotate: false
-  xy: 435, 20
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-pet_ufo_toy_pet_ufo_toy_64_b_4_13.png
-  rotate: false
-  xy: 457, 20
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-pet_ufo_toy_pet_ufo_toy_64_b_4_14.png
-  rotate: false
-  xy: 501, 20
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-pet_ufo_toy_pet_ufo_toy_64_b_4_2.png
-  rotate: false
-  xy: 633, 20
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-pet_ufo_toy_pet_ufo_toy_64_b_4_3.png
-  rotate: false
-  xy: 611, 20
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-pet_ufo_toy_pet_ufo_toy_64_b_4_4.png
-  rotate: false
-  xy: 589, 20
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-pet_ufo_toy_pet_ufo_toy_64_b_4_5.png
-  rotate: false
-  xy: 545, 20
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-pet_ufo_toy_pet_ufo_toy_64_b_4_6.png
-  rotate: false
-  xy: 567, 20
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-pet_ufo_toy_pet_ufo_toy_64_b_4_7.png
-  rotate: false
-  xy: 523, 20
+  xy: 372, 20
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_b_4_8.png
   rotate: false
-  xy: 416, 2
+  xy: 353, 2
   size: 18, 8
   orig: 18, 8
   offset: 0, 0
   index: -1
 pet_ufo_toy_pet_ufo_toy_64_b_4_9.png
   rotate: false
-  xy: 397, 2
+  xy: 334, 2
   size: 16, 6
   orig: 16, 6
   offset: 0, 0

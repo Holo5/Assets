@@ -1,19 +1,12 @@
 
 external_image_wallitem.png
-size: 64,256
+size: 64,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-external_image_wallitem_external_image_wallitem_64_c_2_0.png
-  rotate: false
-  xy: 2, 20
-  size: 50, 101
-  orig: 50, 101
-  offset: 0, 0
-  index: -1
 external_image_wallitem_external_image_wallitem_64_c_4_0.png
   rotate: false
-  xy: 2, 123
+  xy: 2, 20
   size: 50, 101
   orig: 50, 101
   offset: 0, 0

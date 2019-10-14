@@ -39,23 +39,16 @@ scifi_ltd17_mech_scifi_ltd17_mech_64_a_4_4.png
   orig: 44, 53
   offset: 0, 0
   index: -1
-scifi_ltd17_mech_scifi_ltd17_mech_64_b_4_0.png
-  rotate: false
-  xy: 11, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 scifi_ltd17_mech_scifi_ltd17_mech_64_b_4_1.png
   rotate: false
-  xy: 70, 18
+  xy: 356, 38
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 scifi_ltd17_mech_scifi_ltd17_mech_64_b_4_2.png
   rotate: false
-  xy: 420, 58
+  xy: 55, 13
   size: 20, 13
   orig: 20, 13
   offset: 0, 0
@@ -65,34 +58,6 @@ scifi_ltd17_mech_scifi_ltd17_mech_64_b_4_3.png
   xy: 2, 5
   size: 32, 21
   orig: 32, 21
-  offset: 0, 0
-  index: -1
-scifi_ltd17_mech_scifi_ltd17_mech_64_c_4_0.png
-  rotate: false
-  xy: 5, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-scifi_ltd17_mech_scifi_ltd17_mech_64_c_4_1.png
-  rotate: false
-  xy: 377, 11
-  size: 22, 20
-  orig: 22, 20
-  offset: 0, 0
-  index: -1
-scifi_ltd17_mech_scifi_ltd17_mech_64_c_4_2.png
-  rotate: false
-  xy: 344, 6
-  size: 31, 25
-  orig: 31, 25
-  offset: 0, 0
-  index: -1
-scifi_ltd17_mech_scifi_ltd17_mech_64_c_4_3.png
-  rotate: false
-  xy: 356, 33
-  size: 43, 32
-  orig: 43, 32
   offset: 0, 0
   index: -1
 scifi_ltd17_mech_scifi_ltd17_mech_64_d_4_0.png
@@ -123,23 +88,16 @@ scifi_ltd17_mech_scifi_ltd17_mech_64_g_4_0.png
   orig: 81, 98
   offset: 0, 0
   index: -1
-scifi_ltd17_mech_scifi_ltd17_mech_64_h_4_0.png
-  rotate: false
-  xy: 8, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 scifi_ltd17_mech_scifi_ltd17_mech_64_h_4_1.png
   rotate: false
-  xy: 401, 35
+  xy: 36, 9
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 scifi_ltd17_mech_scifi_ltd17_mech_64_h_4_2.png
   rotate: false
-  xy: 401, 54
+  xy: 356, 48
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
@@ -177,34 +135,6 @@ scifi_ltd17_mech_scifi_ltd17_mech_64_i_4_4.png
   xy: 194, 68
   size: 45, 58
   orig: 45, 58
-  offset: 0, 0
-  index: -1
-scifi_ltd17_mech_scifi_ltd17_mech_64_j_4_0.png
-  rotate: false
-  xy: 14, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-scifi_ltd17_mech_scifi_ltd17_mech_64_j_4_1.png
-  rotate: false
-  xy: 401, 25
-  size: 12, 8
-  orig: 12, 8
-  offset: 0, 0
-  index: -1
-scifi_ltd17_mech_scifi_ltd17_mech_64_j_4_2.png
-  rotate: false
-  xy: 420, 43
-  size: 20, 13
-  orig: 20, 13
-  offset: 0, 0
-  index: -1
-scifi_ltd17_mech_scifi_ltd17_mech_64_j_4_3.png
-  rotate: false
-  xy: 36, 5
-  size: 32, 21
-  orig: 32, 21
   offset: 0, 0
   index: -1
 scifi_ltd17_mech_scifi_ltd17_mech_64_k_4_0.png

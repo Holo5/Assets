@@ -4,6 +4,13 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+bc_metalcrate_bc_metalcrate_32_c_0_0.png
+  rotate: false
+  xy: 140, 97
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
 bc_metalcrate_bc_metalcrate_64_a_0_0.png
   rotate: false
   xy: 2, 29
@@ -16,13 +23,6 @@ bc_metalcrate_bc_metalcrate_64_b_0_0.png
   xy: 72, 30
   size: 66, 68
   orig: 66, 68
-  offset: 0, 0
-  index: -1
-bc_metalcrate_bc_metalcrate_64_c_0_0.png
-  rotate: false
-  xy: 140, 97
-  size: 2, 1
-  orig: 2, 1
   offset: 0, 0
   index: -1
 bc_metalcrate_bc_metalcrate_icon_a.png

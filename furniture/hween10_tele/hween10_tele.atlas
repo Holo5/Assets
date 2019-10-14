@@ -4,16 +4,16 @@ size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hween10_tele_hween10_tele_64_a_0_0.png
+hween10_tele_hween10_tele_32_a_0_1.png
   rotate: false
-  xy: 406, 185
+  xy: 333, 77
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-hween10_tele_hween10_tele_64_a_0_1.png
+hween10_tele_hween10_tele_32_a_0_1.png
   rotate: false
-  xy: 333, 77
+  xy: 406, 185
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

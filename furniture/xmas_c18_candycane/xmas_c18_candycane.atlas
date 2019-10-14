@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 xmas_c18_candycane_xmas_c18_candycane_64_a_0_0.png
   rotate: false
-  xy: 83, 26
+  xy: 65, 26
   size: 16, 30
   orig: 16, 30
   offset: 0, 0
@@ -30,12 +30,5 @@ xmas_c18_candycane_xmas_c18_candycane_64_b_0_1.png
   xy: 2, 5
   size: 43, 51
   orig: 43, 51
-  offset: 0, 0
-  index: -1
-xmas_c18_candycane_xmas_c18_candycane_icon_a.png
-  rotate: false
-  xy: 65, 26
-  size: 16, 30
-  orig: 16, 30
   offset: 0, 0
   index: -1

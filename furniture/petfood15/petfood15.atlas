@@ -4,6 +4,13 @@ size: 256,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+petfood15_petfood15_32_a_2_0.png
+  rotate: false
+  xy: 163, 14
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
 petfood15_petfood15_64_a_2_0.png
   rotate: false
   xy: 2, 2
@@ -37,12 +44,5 @@ petfood15_petfood15_64_a_2_4.png
   xy: 134, 11
   size: 27, 18
   orig: 27, 18
-  offset: 0, 0
-  index: -1
-petfood15_petfood15_icon_a.png
-  rotate: false
-  xy: 163, 14
-  size: 18, 15
-  orig: 18, 15
   offset: 0, 0
   index: -1

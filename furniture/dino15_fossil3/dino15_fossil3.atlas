@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 dino15_fossil3_dino15_fossil3_64_a_0_0.png
   rotate: false
-  xy: 786, 42
+  xy: 726, 118
   size: 59, 136
   orig: 59, 136
   offset: 0, 0
   index: -1
 dino15_fossil3_dino15_fossil3_64_a_0_1.png
   rotate: false
-  xy: 725, 42
+  xy: 665, 118
   size: 59, 136
   orig: 59, 136
   offset: 0, 0
   index: -1
 dino15_fossil3_dino15_fossil3_64_a_0_2.png
   rotate: false
-  xy: 664, 42
+  xy: 604, 118
   size: 59, 136
   orig: 59, 136
   offset: 0, 0
   index: -1
 dino15_fossil3_dino15_fossil3_64_a_0_3.png
   rotate: false
-  xy: 203, 2
+  xy: 543, 118
   size: 59, 136
   orig: 59, 136
   offset: 0, 0
@@ -76,35 +76,35 @@ dino15_fossil3_dino15_fossil3_64_a_0_9.png
   index: -1
 dino15_fossil3_dino15_fossil3_64_b_0_0.png
   rotate: false
-  xy: 536, 20
+  xy: 409, 111
   size: 66, 143
   orig: 66, 143
   offset: 0, 0
   index: -1
 dino15_fossil3_dino15_fossil3_64_b_0_1.png
   rotate: false
-  xy: 400, 5
+  xy: 273, 20
   size: 66, 143
   orig: 66, 143
   offset: 0, 0
   index: -1
 dino15_fossil3_dino15_fossil3_64_b_0_2.png
   rotate: false
-  xy: 468, 20
+  xy: 341, 35
   size: 66, 143
   orig: 66, 143
   offset: 0, 0
   index: -1
 dino15_fossil3_dino15_fossil3_64_b_0_3.png
   rotate: false
-  xy: 264, 5
+  xy: 137, 5
   size: 66, 143
   orig: 66, 143
   offset: 0, 0
   index: -1
 dino15_fossil3_dino15_fossil3_64_b_0_4.png
   rotate: false
-  xy: 332, 5
+  xy: 205, 5
   size: 66, 143
   orig: 66, 143
   offset: 0, 0
@@ -125,7 +125,7 @@ dino15_fossil3_dino15_fossil3_64_b_0_6.png
   index: -1
 dino15_fossil3_dino15_fossil3_64_b_0_7.png
   rotate: false
-  xy: 137, 2
+  xy: 477, 118
   size: 64, 136
   orig: 64, 136
   offset: 0, 0
@@ -139,42 +139,14 @@ dino15_fossil3_dino15_fossil3_64_b_0_8.png
   index: -1
 dino15_fossil3_dino15_fossil3_64_b_0_9.png
   rotate: false
-  xy: 604, 25
+  xy: 787, 116
   size: 58, 138
   orig: 58, 138
   offset: 0, 0
   index: -1
-dino15_fossil3_dino15_fossil3_64_c_0_0.png
-  rotate: false
-  xy: 844, 253
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-dino15_fossil3_dino15_fossil3_64_c_0_1.png
-  rotate: false
-  xy: 1186, 176
-  size: 28, 29
-  orig: 28, 29
-  offset: 0, 0
-  index: -1
-dino15_fossil3_dino15_fossil3_64_c_0_2.png
-  rotate: false
-  xy: 1186, 207
-  size: 52, 47
-  orig: 52, 47
-  offset: 0, 0
-  index: -1
-dino15_fossil3_dino15_fossil3_64_c_0_3.png
-  rotate: false
-  xy: 527, 165
-  size: 85, 89
-  orig: 85, 89
-  offset: 0, 0
-  index: -1
 dino15_fossil3_dino15_fossil3_64_c_0_4.png
   rotate: false
-  xy: 236, 150
+  xy: 119, 150
   size: 100, 104
   orig: 100, 104
   offset: 0, 0
@@ -188,63 +160,42 @@ dino15_fossil3_dino15_fossil3_64_c_0_5.png
   index: -1
 dino15_fossil3_dino15_fossil3_64_c_0_6.png
   rotate: false
-  xy: 614, 180
+  xy: 308, 180
   size: 98, 74
   orig: 98, 74
   offset: 0, 0
   index: -1
 dino15_fossil3_dino15_fossil3_64_d_0_0.png
   rotate: false
-  xy: 264, 2
+  xy: 137, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 dino15_fossil3_dino15_fossil3_64_d_0_1.png
   rotate: false
-  xy: 814, 225
+  xy: 1186, 225
   size: 28, 29
   orig: 28, 29
   offset: 0, 0
   index: -1
 dino15_fossil3_dino15_fossil3_64_d_0_2.png
   rotate: false
-  xy: 847, 70
+  xy: 409, 62
   size: 52, 47
   orig: 52, 47
   offset: 0, 0
   index: -1
 dino15_fossil3_dino15_fossil3_64_d_0_3.png
   rotate: false
-  xy: 440, 165
+  xy: 221, 165
   size: 85, 89
   orig: 85, 89
   offset: 0, 0
   index: -1
-dino15_fossil3_dino15_fossil3_64_d_0_4.png
-  rotate: false
-  xy: 338, 150
-  size: 100, 104
-  orig: 100, 104
-  offset: 0, 0
-  index: -1
-dino15_fossil3_dino15_fossil3_64_d_0_5.png
-  rotate: false
-  xy: 119, 140
-  size: 115, 114
-  orig: 115, 114
-  offset: 0, 0
-  index: -1
-dino15_fossil3_dino15_fossil3_64_d_0_6.png
-  rotate: false
-  xy: 714, 180
-  size: 98, 74
-  orig: 98, 74
-  offset: 0, 0
-  index: -1
 dino15_fossil3_dino15_fossil3_icon_a.png
   rotate: false
-  xy: 1240, 224
+  xy: 1186, 193
   size: 18, 30
   orig: 18, 30
   offset: 0, 0

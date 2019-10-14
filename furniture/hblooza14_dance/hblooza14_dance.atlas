@@ -20,7 +20,7 @@ hblooza14_dance_hblooza14_dance_64_b_4_0.png
   index: -1
 hblooza14_dance_hblooza14_dance_64_c_4_0.png
   rotate: false
-  xy: 352, 94
+  xy: 155, 64
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
@@ -28,20 +28,6 @@ hblooza14_dance_hblooza14_dance_64_c_4_0.png
 hblooza14_dance_hblooza14_dance_64_c_4_1.png
   rotate: false
   xy: 491, 235
-  size: 19, 19
-  orig: 19, 19
-  offset: 0, 0
-  index: -1
-hblooza14_dance_hblooza14_dance_64_c_4_2.png
-  rotate: false
-  xy: 369, 96
-  size: 15, 15
-  orig: 15, 15
-  offset: 0, 0
-  index: -1
-hblooza14_dance_hblooza14_dance_64_c_4_3.png
-  rotate: false
-  xy: 491, 214
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
@@ -62,63 +48,63 @@ hblooza14_dance_hblooza14_dance_64_c_4_5.png
   index: -1
 hblooza14_dance_hblooza14_dance_64_c_4_6.png
   rotate: false
-  xy: 321, 111
+  xy: 321, 113
   size: 44, 21
   orig: 44, 21
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_c_4_7.png
   rotate: false
-  xy: 83, 125
+  xy: 427, 175
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_d_4_0.png
   rotate: false
-  xy: 192, 80
+  xy: 492, 161
   size: 8, 40
   orig: 8, 40
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_d_4_1.png
   rotate: false
-  xy: 282, 73
+  xy: 447, 106
   size: 8, 40
   orig: 8, 40
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_d_4_2.png
   rotate: false
-  xy: 272, 76
+  xy: 437, 106
   size: 8, 40
   orig: 8, 40
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_d_4_3.png
   rotate: false
-  xy: 85, 6
+  xy: 192, 80
   size: 8, 40
   orig: 8, 40
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_d_4_4.png
   rotate: false
-  xy: 75, 6
+  xy: 502, 161
   size: 8, 40
   orig: 8, 40
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_d_4_5.png
   rotate: false
-  xy: 302, 73
+  xy: 502, 119
   size: 8, 40
   orig: 8, 40
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_d_4_6.png
   rotate: false
-  xy: 292, 73
+  xy: 492, 119
   size: 8, 40
   orig: 8, 40
   offset: 0, 0
@@ -158,13 +144,6 @@ hblooza14_dance_hblooza14_dance_64_e_4_12.png
   orig: 34, 47
   offset: 0, 0
   index: -1
-hblooza14_dance_hblooza14_dance_64_e_4_13.png
-  rotate: false
-  xy: 226, 72
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hblooza14_dance_hblooza14_dance_64_e_4_2.png
   rotate: false
   xy: 205, 210
@@ -195,7 +174,7 @@ hblooza14_dance_hblooza14_dance_64_e_4_5.png
   index: -1
 hblooza14_dance_hblooza14_dance_64_e_4_6.png
   rotate: false
-  xy: 383, 174
+  xy: 356, 174
   size: 34, 33
   orig: 34, 33
   offset: 0, 0
@@ -228,65 +207,58 @@ hblooza14_dance_hblooza14_dance_64_f_4_0.png
   orig: 33, 20
   offset: 0, 0
   index: -1
-hblooza14_dance_hblooza14_dance_64_f_4_1.png
-  rotate: false
-  xy: 156, 125
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_0.png
   rotate: false
-  xy: 413, 128
+  xy: 492, 107
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_1.png
   rotate: false
-  xy: 261, 54
+  xy: 172, 63
   size: 7, 16
   orig: 7, 16
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_10.png
   rotate: false
-  xy: 335, 86
+  xy: 74, 55
   size: 15, 23
   orig: 15, 23
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_11.png
   rotate: false
-  xy: 413, 118
+  xy: 83, 45
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_12.png
   rotate: false
-  xy: 95, 7
+  xy: 137, 67
   size: 16, 15
   orig: 16, 15
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_13.png
   rotate: false
-  xy: 191, 53
+  xy: 457, 129
   size: 33, 20
   orig: 33, 20
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_14.png
   rotate: false
-  xy: 226, 50
+  xy: 457, 107
   size: 33, 20
   orig: 33, 20
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_15.png
   rotate: false
-  xy: 419, 177
+  xy: 321, 136
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
@@ -298,13 +270,6 @@ hblooza14_dance_hblooza14_dance_64_g_4_16.png
   orig: 24, 46
   offset: 0, 0
   index: -1
-hblooza14_dance_hblooza14_dance_64_g_4_17.png
-  rotate: false
-  xy: 321, 168
-  size: 25, 38
-  orig: 25, 38
-  offset: 0, 0
-  index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_18.png
   rotate: false
   xy: 194, 166
@@ -314,7 +279,7 @@ hblooza14_dance_hblooza14_dance_64_g_4_18.png
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_19.png
   rotate: false
-  xy: 321, 134
+  xy: 392, 175
   size: 33, 32
   orig: 33, 32
   offset: 0, 0
@@ -328,7 +293,7 @@ hblooza14_dance_hblooza14_dance_64_g_4_2.png
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_20.png
   rotate: false
-  xy: 348, 172
+  xy: 321, 171
   size: 33, 35
   orig: 33, 35
   offset: 0, 0
@@ -370,30 +335,23 @@ hblooza14_dance_hblooza14_dance_64_g_4_25.png
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_26.png
   rotate: false
-  xy: 94, 52
+  xy: 457, 181
   size: 33, 30
   orig: 33, 30
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_27.png
   rotate: false
-  xy: 237, 72
+  xy: 402, 111
   size: 33, 28
   orig: 33, 28
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_28.png
   rotate: false
-  xy: 312, 75
+  xy: 74, 44
   size: 7, 9
   orig: 7, 9
-  offset: 0, 0
-  index: -1
-hblooza14_dance_hblooza14_dance_64_g_4_29.png
-  rotate: false
-  xy: 156, 122
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_3.png
@@ -405,14 +363,14 @@ hblooza14_dance_hblooza14_dance_64_g_4_3.png
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_4.png
   rotate: false
-  xy: 237, 102
+  xy: 232, 102
   size: 25, 20
   orig: 25, 20
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_5.png
   rotate: false
-  xy: 129, 54
+  xy: 430, 148
   size: 25, 28
   orig: 25, 28
   offset: 0, 0
@@ -433,63 +391,56 @@ hblooza14_dance_hblooza14_dance_64_g_4_7.png
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_8.png
   rotate: false
-  xy: 156, 52
+  xy: 367, 111
   size: 33, 27
   orig: 33, 27
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_g_4_9.png
   rotate: false
-  xy: 202, 94
+  xy: 457, 151
   size: 33, 28
   orig: 33, 28
   offset: 0, 0
   index: -1
-hblooza14_dance_hblooza14_dance_64_h_4_0.png
-  rotate: false
-  xy: 419, 174
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hblooza14_dance_hblooza14_dance_64_h_4_1.png
   rotate: false
-  xy: 321, 76
+  xy: 501, 109
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_h_4_2.png
   rotate: false
-  xy: 390, 115
+  xy: 91, 59
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_h_4_3.png
   rotate: false
-  xy: 113, 14
+  xy: 181, 71
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_h_4_4.png
   rotate: false
-  xy: 367, 113
+  xy: 237, 77
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_h_4_5.png
   rotate: false
-  xy: 331, 76
+  xy: 137, 57
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_h_4_6.png
   rotate: false
-  xy: 312, 86
+  xy: 114, 59
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
@@ -503,35 +454,35 @@ hblooza14_dance_hblooza14_dance_64_i_4_0.png
   index: -1
 hblooza14_dance_hblooza14_dance_64_i_4_1.png
   rotate: false
-  xy: 423, 143
+  xy: 393, 141
   size: 35, 32
   orig: 35, 32
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_i_4_2.png
   rotate: false
-  xy: 386, 140
+  xy: 356, 140
   size: 35, 32
   orig: 35, 32
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_i_4_3.png
   rotate: false
-  xy: 125, 37
+  xy: 259, 109
   size: 1, 13
   orig: 1, 13
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_j_4_0.png
   rotate: false
-  xy: 95, 24
+  xy: 202, 96
   size: 28, 26
   orig: 28, 26
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_64_j_4_1.png
   rotate: false
-  xy: 356, 138
+  xy: 427, 178
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
@@ -552,14 +503,14 @@ hblooza14_dance_hblooza14_dance_64_j_4_3.png
   index: -1
 hblooza14_dance_hblooza14_dance_64_sd_4_0.png
   rotate: false
-  xy: 202, 75
+  xy: 202, 77
   size: 33, 17
   orig: 33, 17
   offset: 0, 0
   index: -1
 hblooza14_dance_hblooza14_dance_icon_a.png
   rotate: false
-  xy: 74, 48
+  xy: 492, 203
   size: 18, 30
   orig: 18, 30
   offset: 0, 0

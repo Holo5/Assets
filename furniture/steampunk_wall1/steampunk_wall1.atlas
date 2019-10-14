@@ -4,6 +4,13 @@ size: 256,1024
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+steampunk_wall1_steampunk_wall1_32_d_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 steampunk_wall1_steampunk_wall1_64_a_4_0.png
   rotate: false
   xy: 2, 755
@@ -177,13 +184,6 @@ steampunk_wall1_steampunk_wall1_64_c_4_5.png
   xy: 217, 827
   size: 37, 45
   orig: 37, 45
-  offset: 0, 0
-  index: -1
-steampunk_wall1_steampunk_wall1_64_d_4_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 steampunk_wall1_steampunk_wall1_64_d_4_1.png

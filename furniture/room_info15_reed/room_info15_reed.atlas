@@ -11,13 +11,6 @@ room_info15_reed_room_info15_reed_64_a_0_0.png
   orig: 11, 35
   offset: 0, 0
   index: -1
-room_info15_reed_room_info15_reed_64_a_0_1.png
-  rotate: false
-  xy: 17, 133
-  size: 13, 35
-  orig: 13, 35
-  offset: 0, 0
-  index: -1
 room_info15_reed_room_info15_reed_64_a_0_2.png
   rotate: false
   xy: 2, 133
@@ -69,14 +62,14 @@ room_info15_reed_room_info15_reed_64_a_0_8.png
   index: -1
 room_info15_reed_room_info15_reed_64_a_0_9.png
   rotate: false
-  xy: 15, 74
+  xy: 15, 106
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 room_info15_reed_room_info15_reed_icon_a.png
   rotate: false
-  xy: 15, 101
+  xy: 17, 138
   size: 13, 30
   orig: 13, 30
   offset: 0, 0

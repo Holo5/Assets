@@ -4,149 +4,79 @@ size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_a_0_0.png
-  rotate: false
-  xy: 458, 2
-  size: 46, 74
-  orig: 46, 74
-  offset: 0, 0
-  index: -1
-olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_a_0_1.png
-  rotate: false
-  xy: 370, 93
-  size: 46, 142
-  orig: 46, 142
-  offset: 0, 0
-  index: -1
-olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_a_2_0.png
-  rotate: false
-  xy: 418, 78
-  size: 46, 74
-  orig: 46, 74
-  offset: 0, 0
-  index: -1
-olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_a_2_1.png
-  rotate: false
-  xy: 274, 93
-  size: 46, 142
-  orig: 46, 142
-  offset: 0, 0
-  index: -1
 olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_a_4_0.png
   rotate: false
-  xy: 410, 2
+  xy: 210, 77
   size: 46, 74
   orig: 46, 74
   offset: 0, 0
   index: -1
 olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_a_4_1.png
   rotate: false
-  xy: 322, 93
+  xy: 162, 92
   size: 46, 142
   orig: 46, 142
   offset: 0, 0
   index: -1
 olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_a_6_0.png
   rotate: false
-  xy: 170, 10
+  xy: 58, 9
   size: 46, 74
   orig: 46, 74
   offset: 0, 0
   index: -1
 olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_a_6_1.png
   rotate: false
-  xy: 226, 93
+  xy: 114, 92
   size: 46, 142
   orig: 46, 142
   offset: 0, 0
   index: -1
-olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_b_0_0.png
-  rotate: false
-  xy: 114, 3
-  size: 54, 81
-  orig: 54, 81
-  offset: 0, 0
-  index: -1
-olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_b_0_1.png
-  rotate: false
-  xy: 58, 86
-  size: 54, 149
-  orig: 54, 149
-  offset: 0, 0
-  index: -1
 olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_b_2_0.png
   rotate: false
-  xy: 2, 3
+  xy: 2, 2
   size: 54, 81
   orig: 54, 81
   offset: 0, 0
   index: -1
 olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_b_2_1.png
   rotate: false
-  xy: 114, 86
+  xy: 58, 85
   size: 54, 149
   orig: 54, 149
   offset: 0, 0
   index: -1
 olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_b_4_0.png
   rotate: false
-  xy: 58, 3
+  xy: 210, 153
   size: 54, 81
   orig: 54, 81
   offset: 0, 0
   index: -1
 olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_b_4_1.png
   rotate: false
-  xy: 2, 86
+  xy: 2, 85
   size: 54, 149
   orig: 54, 149
-  offset: 0, 0
-  index: -1
-olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_b_6_0.png
-  rotate: false
-  xy: 418, 154
-  size: 54, 81
-  orig: 54, 81
-  offset: 0, 0
-  index: -1
-olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_b_6_1.png
-  rotate: false
-  xy: 170, 86
-  size: 54, 149
-  orig: 54, 149
-  offset: 0, 0
-  index: -1
-olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_sd_0_0.png
-  rotate: false
-  xy: 318, 50
-  size: 90, 41
-  orig: 90, 41
-  offset: 0, 0
-  index: -1
-olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_sd_2_0.png
-  rotate: false
-  xy: 310, 7
-  size: 90, 41
-  orig: 90, 41
   offset: 0, 0
   index: -1
 olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_sd_4_0.png
   rotate: false
-  xy: 226, 50
+  xy: 266, 193
   size: 90, 41
   orig: 90, 41
   offset: 0, 0
   index: -1
 olympics_c16_plantdvdr_olympics_c16_plantdvdr_64_sd_6_0.png
   rotate: false
-  xy: 218, 7
+  xy: 358, 193
   size: 90, 41
   orig: 90, 41
   offset: 0, 0
   index: -1
 olympics_c16_plantdvdr_olympics_c16_plantdvdr_icon_a.png
   rotate: false
-  xy: 474, 206
+  xy: 266, 162
   size: 30, 29
   orig: 30, 29
   offset: 0, 0

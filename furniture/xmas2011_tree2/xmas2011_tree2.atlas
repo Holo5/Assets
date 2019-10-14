@@ -4,6 +4,13 @@ size: 64,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+xmas2011_tree2_xmas2011_tree2_32_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
 xmas2011_tree2_xmas2011_tree2_64_a_0_0.png
   rotate: false
   xy: 2, 30
@@ -23,12 +30,5 @@ xmas2011_tree2_xmas2011_tree2_64_a_0_2.png
   xy: 2, 125
   size: 50, 110
   orig: 50, 110
-  offset: 0, 0
-  index: -1
-xmas2011_tree2_xmas2011_tree2_icon_a.png
-  rotate: false
-  xy: 2, 2
-  size: 27, 26
-  orig: 27, 26
   offset: 0, 0
   index: -1

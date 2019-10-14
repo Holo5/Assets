@@ -1,6 +1,6 @@
 
 cland_c15_goofloor.png
-size: 1024,128
+size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -20,21 +20,14 @@ cland_c15_goofloor_cland_c15_goofloor_64_b_0_0.png
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_0.png
   rotate: false
-  xy: 533, 104
+  xy: 446, 98
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_1.png
-  rotate: false
-  xy: 436, 58
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_10.png
   rotate: false
-  xy: 946, 88
+  xy: 400, 2
   size: 28, 16
   orig: 28, 16
   offset: 0, 0
@@ -46,51 +39,44 @@ cland_c15_goofloor_cland_c15_goofloor_64_c_0_11.png
   orig: 26, 14
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_12.png
-  rotate: false
-  xy: 410, 58
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_13.png
   rotate: false
-  xy: 560, 98
+  xy: 473, 56
   size: 11, 7
   orig: 11, 7
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_14.png
   rotate: false
-  xy: 693, 79
+  xy: 148, 6
   size: 17, 9
   orig: 17, 9
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_15.png
   rotate: false
-  xy: 98, 4
+  xy: 26, 4
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_16.png
   rotate: false
-  xy: 792, 59
+  xy: 207, 2
   size: 24, 14
   orig: 24, 14
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_17.png
   rotate: false
-  xy: 400, 65
+  xy: 465, 65
   size: 24, 16
   orig: 24, 16
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_18.png
   rotate: false
-  xy: 641, 90
+  xy: 335, 9
   size: 31, 36
   orig: 31, 36
   offset: 0, 0
@@ -102,219 +88,51 @@ cland_c15_goofloor_cland_c15_goofloor_64_c_0_19.png
   orig: 40, 25
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_2.png
-  rotate: false
-  xy: 1011, 77
-  size: 11, 7
-  orig: 11, 7
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_20.png
-  rotate: false
-  xy: 26, 4
-  size: 22, 11
-  orig: 22, 11
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_21.png
-  rotate: false
-  xy: 500, 92
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_22.png
-  rotate: false
-  xy: 426, 69
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_23.png
-  rotate: false
-  xy: 164, 8
-  size: 11, 7
-  orig: 11, 7
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_24.png
-  rotate: false
-  xy: 693, 68
-  size: 17, 9
-  orig: 17, 9
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_25.png
-  rotate: false
-  xy: 617, 76
-  size: 17, 12
-  orig: 17, 12
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_26.png
-  rotate: false
-  xy: 437, 85
-  size: 17, 14
-  orig: 17, 14
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_27.png
   rotate: false
-  xy: 369, 27
+  xy: 423, 70
   size: 21, 29
   orig: 21, 29
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_28.png
   rotate: false
-  xy: 914, 84
+  xy: 449, 83
   size: 30, 19
   orig: 30, 19
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_29.png
   rotate: false
-  xy: 540, 77
+  xy: 90, 3
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_3.png
-  rotate: false
-  xy: 655, 65
-  size: 17, 9
-  orig: 17, 9
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_30.png
   rotate: false
-  xy: 674, 77
+  xy: 129, 4
   size: 17, 11
   orig: 17, 11
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_31.png
   rotate: false
-  xy: 976, 83
+  xy: 456, 41
   size: 15, 10
   orig: 15, 10
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_4.png
-  rotate: false
-  xy: 456, 91
-  size: 20, 11
-  orig: 20, 11
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_5.png
-  rotate: false
-  xy: 870, 52
-  size: 24, 14
-  orig: 24, 14
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_6.png
-  rotate: false
-  xy: 882, 84
-  size: 30, 19
-  orig: 30, 19
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_7.png
-  rotate: false
-  xy: 914, 105
-  size: 30, 21
-  orig: 30, 21
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_c_0_8.png
-  rotate: false
-  xy: 607, 90
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_c_0_9.png
   rotate: false
-  xy: 491, 104
+  xy: 449, 104
   size: 40, 22
   orig: 40, 22
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_0.png
-  rotate: false
-  xy: 449, 101
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_1.png
-  rotate: false
-  xy: 446, 65
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_10.png
-  rotate: false
-  xy: 407, 83
-  size: 28, 16
-  orig: 28, 16
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_11.png
-  rotate: false
-  xy: 263, 3
-  size: 26, 14
-  orig: 26, 14
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_12.png
-  rotate: false
-  xy: 1012, 96
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_13.png
-  rotate: false
-  xy: 998, 77
-  size: 11, 7
-  orig: 11, 7
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_14.png
-  rotate: false
-  xy: 636, 65
-  size: 17, 9
-  orig: 17, 9
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_15.png
-  rotate: false
-  xy: 896, 55
-  size: 20, 11
-  orig: 20, 11
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_16.png
-  rotate: false
-  xy: 844, 53
-  size: 24, 14
-  orig: 24, 14
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_17.png
-  rotate: false
-  xy: 818, 69
-  size: 24, 16
-  orig: 24, 16
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_d_0_18.png
   rotate: false
-  xy: 674, 90
+  xy: 368, 20
   size: 31, 36
   orig: 31, 36
   offset: 0, 0
@@ -326,235 +144,39 @@ cland_c15_goofloor_cland_c15_goofloor_64_d_0_19.png
   orig: 40, 30
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_2.png
-  rotate: false
-  xy: 985, 74
-  size: 11, 7
-  orig: 11, 7
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_20.png
-  rotate: false
-  xy: 74, 4
-  size: 22, 11
-  orig: 22, 11
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_21.png
-  rotate: false
-  xy: 478, 80
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_22.png
-  rotate: false
-  xy: 446, 58
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_23.png
-  rotate: false
-  xy: 998, 68
-  size: 11, 7
-  orig: 11, 7
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_24.png
-  rotate: false
-  xy: 693, 57
-  size: 17, 9
-  orig: 17, 9
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_25.png
-  rotate: false
-  xy: 655, 76
-  size: 17, 12
-  orig: 17, 12
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_26.png
-  rotate: false
-  xy: 579, 74
-  size: 17, 14
-  orig: 17, 14
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_d_0_27.png
   rotate: false
-  xy: 795, 93
+  xy: 400, 61
   size: 21, 33
   orig: 21, 33
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_d_0_28.png
   rotate: false
-  xy: 946, 106
+  xy: 430, 4
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_29.png
-  rotate: false
-  xy: 520, 77
-  size: 18, 12
-  orig: 18, 12
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_3.png
-  rotate: false
-  xy: 598, 65
-  size: 17, 9
-  orig: 17, 9
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_30.png
-  rotate: false
-  xy: 522, 91
-  size: 17, 11
-  orig: 17, 11
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_31.png
-  rotate: false
-  xy: 978, 95
-  size: 15, 10
-  orig: 15, 10
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_4.png
-  rotate: false
-  xy: 770, 69
-  size: 20, 11
-  orig: 20, 11
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_5.png
-  rotate: false
-  xy: 896, 68
-  size: 24, 14
-  orig: 24, 14
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_6.png
-  rotate: false
-  xy: 337, 26
-  size: 30, 19
-  orig: 30, 19
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_7.png
-  rotate: false
-  xy: 882, 105
-  size: 30, 21
-  orig: 30, 21
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_8.png
-  rotate: false
-  xy: 573, 90
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_d_0_9.png
-  rotate: false
-  xy: 221, 18
-  size: 40, 22
-  orig: 40, 22
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_0.png
   rotate: false
-  xy: 366, 55
+  xy: 332, 44
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_1.png
   rotate: false
-  xy: 400, 58
+  xy: 481, 97
   size: 8, 5
   orig: 8, 5
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_10.png
-  rotate: false
-  xy: 337, 8
-  size: 28, 16
-  orig: 28, 16
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_11.png
-  rotate: false
-  xy: 235, 2
-  size: 26, 14
-  orig: 26, 14
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_12.png
-  rotate: false
-  xy: 1012, 103
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_13.png
-  rotate: false
-  xy: 1006, 86
-  size: 11, 7
-  orig: 11, 7
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_14.png
-  rotate: false
-  xy: 617, 65
-  size: 17, 9
-  orig: 17, 9
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_15.png
-  rotate: false
-  xy: 922, 71
-  size: 20, 11
-  orig: 20, 11
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_16.png
-  rotate: false
-  xy: 946, 72
-  size: 24, 14
-  orig: 24, 14
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_17.png
-  rotate: false
-  xy: 844, 69
-  size: 24, 16
-  orig: 24, 16
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_18.png
-  rotate: false
-  xy: 707, 90
-  size: 31, 36
-  orig: 31, 36
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_19.png
   rotate: false
-  xy: 263, 19
+  xy: 221, 19
   size: 40, 21
   orig: 40, 21
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_2.png
-  rotate: false
-  xy: 1010, 119
-  size: 11, 7
-  orig: 11, 7
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_20.png
@@ -566,112 +188,84 @@ cland_c15_goofloor_cland_c15_goofloor_64_e_0_20.png
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_21.png
   rotate: false
-  xy: 478, 92
+  xy: 48, 5
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_22.png
-  rotate: false
-  xy: 426, 76
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_23.png
-  rotate: false
-  xy: 560, 89
-  size: 11, 7
-  orig: 11, 7
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_24.png
   rotate: false
-  xy: 674, 66
+  xy: 491, 101
   size: 17, 9
   orig: 17, 9
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_25.png
   rotate: false
-  xy: 598, 76
+  xy: 110, 3
   size: 17, 12
   orig: 17, 12
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_26.png
   rotate: false
-  xy: 291, 3
+  xy: 491, 112
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_27.png
   rotate: false
-  xy: 772, 95
+  xy: 401, 28
   size: 21, 31
   orig: 21, 31
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_28.png
   rotate: false
-  xy: 818, 87
+  xy: 368, 2
   size: 30, 16
   orig: 30, 16
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_29.png
   rotate: false
-  xy: 500, 78
+  xy: 70, 3
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_3.png
-  rotate: false
-  xy: 712, 79
-  size: 17, 9
-  orig: 17, 9
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_30.png
   rotate: false
-  xy: 437, 72
+  xy: 446, 70
   size: 17, 11
   orig: 17, 11
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_31.png
   rotate: false
-  xy: 712, 56
+  xy: 456, 53
   size: 15, 10
   orig: 15, 10
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_e_0_4.png
-  rotate: false
-  xy: 120, 4
-  size: 20, 11
-  orig: 20, 11
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_5.png
   rotate: false
-  xy: 310, 5
+  xy: 233, 3
   size: 24, 14
   orig: 24, 14
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_6.png
   rotate: false
-  xy: 978, 107
+  xy: 424, 26
   size: 30, 19
   orig: 30, 19
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_e_0_7.png
   rotate: false
-  xy: 818, 105
+  xy: 424, 47
   size: 30, 21
   orig: 30, 21
   offset: 0, 0
@@ -690,76 +284,6 @@ cland_c15_goofloor_cland_c15_goofloor_64_e_0_9.png
   orig: 40, 22
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_0.png
-  rotate: false
-  xy: 870, 84
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_1.png
-  rotate: false
-  xy: 1011, 70
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_10.png
-  rotate: false
-  xy: 740, 78
-  size: 28, 16
-  orig: 28, 16
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_11.png
-  rotate: false
-  xy: 207, 2
-  size: 26, 14
-  orig: 26, 14
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_12.png
-  rotate: false
-  xy: 426, 62
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_13.png
-  rotate: false
-  xy: 993, 86
-  size: 11, 7
-  orig: 11, 7
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_14.png
-  rotate: false
-  xy: 896, 44
-  size: 17, 9
-  orig: 17, 9
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_15.png
-  rotate: false
-  xy: 770, 82
-  size: 20, 11
-  orig: 20, 11
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_16.png
-  rotate: false
-  xy: 818, 53
-  size: 24, 14
-  orig: 24, 14
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_17.png
-  rotate: false
-  xy: 792, 75
-  size: 24, 16
-  orig: 24, 16
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_f_0_18.png
   rotate: false
   xy: 332, 86
@@ -769,135 +293,9 @@ cland_c15_goofloor_cland_c15_goofloor_64_f_0_18.png
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_f_0_19.png
   rotate: false
-  xy: 533, 107
+  xy: 263, 21
   size: 38, 19
   orig: 38, 19
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_2.png
-  rotate: false
-  xy: 1010, 110
-  size: 11, 7
-  orig: 11, 7
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_20.png
-  rotate: false
-  xy: 50, 4
-  size: 22, 11
-  orig: 22, 11
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_21.png
-  rotate: false
-  xy: 456, 79
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_22.png
-  rotate: false
-  xy: 436, 65
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_23.png
-  rotate: false
-  xy: 972, 74
-  size: 11, 7
-  orig: 11, 7
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_24.png
-  rotate: false
-  xy: 712, 68
-  size: 17, 9
-  orig: 17, 9
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_25.png
-  rotate: false
-  xy: 636, 76
-  size: 17, 12
-  orig: 17, 12
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_26.png
-  rotate: false
-  xy: 541, 91
-  size: 17, 14
-  orig: 17, 14
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_27.png
-  rotate: false
-  xy: 392, 27
-  size: 21, 29
-  orig: 21, 29
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_28.png
-  rotate: false
-  xy: 850, 87
-  size: 30, 16
-  orig: 30, 16
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_29.png
-  rotate: false
-  xy: 456, 65
-  size: 18, 12
-  orig: 18, 12
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_3.png
-  rotate: false
-  xy: 922, 60
-  size: 17, 9
-  orig: 17, 9
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_30.png
-  rotate: false
-  xy: 560, 76
-  size: 17, 11
-  orig: 17, 11
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_31.png
-  rotate: false
-  xy: 995, 95
-  size: 15, 10
-  orig: 15, 10
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_4.png
-  rotate: false
-  xy: 142, 4
-  size: 20, 11
-  orig: 20, 11
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_5.png
-  rotate: false
-  xy: 870, 68
-  size: 24, 14
-  orig: 24, 14
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_6.png
-  rotate: false
-  xy: 305, 21
-  size: 30, 19
-  orig: 30, 19
-  offset: 0, 0
-  index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_7.png
-  rotate: false
-  xy: 850, 105
-  size: 30, 21
-  orig: 30, 21
   offset: 0, 0
   index: -1
 cland_c15_goofloor_cland_c15_goofloor_64_f_0_8.png
@@ -907,16 +305,9 @@ cland_c15_goofloor_cland_c15_goofloor_64_f_0_8.png
   orig: 32, 36
   offset: 0, 0
   index: -1
-cland_c15_goofloor_cland_c15_goofloor_64_f_0_9.png
-  rotate: false
-  xy: 449, 104
-  size: 40, 22
-  orig: 40, 22
-  offset: 0, 0
-  index: -1
 cland_c15_goofloor_cland_c15_goofloor_icon_a.png
   rotate: false
-  xy: 740, 96
+  xy: 303, 10
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

@@ -13,28 +13,21 @@ vip_hopper_vip_hopper_64_a_2_0.png
   index: -1
 vip_hopper_vip_hopper_64_b_2_0.png
   rotate: false
-  xy: 212, 33
+  xy: 116, 34
   size: 46, 85
   orig: 46, 85
   offset: 0, 0
   index: -1
 vip_hopper_vip_hopper_64_b_2_1.png
   rotate: false
-  xy: 438, 78
+  xy: 342, 77
   size: 42, 81
   orig: 42, 81
   offset: 0, 0
   index: -1
-vip_hopper_vip_hopper_64_b_2_10.png
-  rotate: false
-  xy: 116, 34
-  size: 46, 85
-  orig: 46, 85
-  offset: 0, 0
-  index: -1
 vip_hopper_vip_hopper_64_b_2_2.png
   rotate: false
-  xy: 526, 80
+  xy: 430, 80
   size: 34, 79
   orig: 34, 79
   offset: 0, 0
@@ -55,7 +48,7 @@ vip_hopper_vip_hopper_64_b_2_4.png
   index: -1
 vip_hopper_vip_hopper_64_b_2_5.png
   rotate: false
-  xy: 562, 99
+  xy: 466, 99
   size: 3, 60
   orig: 3, 60
   offset: 0, 0
@@ -69,7 +62,7 @@ vip_hopper_vip_hopper_64_b_2_6.png
   index: -1
 vip_hopper_vip_hopper_64_b_2_7.png
   rotate: false
-  xy: 164, 33
+  xy: 953, 169
   size: 46, 85
   orig: 46, 85
   offset: 0, 0
@@ -81,23 +74,16 @@ vip_hopper_vip_hopper_64_b_2_8.png
   orig: 46, 85
   offset: 0, 0
   index: -1
-vip_hopper_vip_hopper_64_b_2_9.png
-  rotate: false
-  xy: 953, 169
-  size: 46, 85
-  orig: 46, 85
-  offset: 0, 0
-  index: -1
 vip_hopper_vip_hopper_64_c_2_0.png
   rotate: false
-  xy: 304, 35
+  xy: 298, 35
   size: 42, 89
   orig: 42, 89
   offset: 0, 0
   index: -1
 vip_hopper_vip_hopper_64_c_2_1.png
   rotate: false
-  xy: 260, 29
+  xy: 254, 29
   size: 42, 89
   orig: 42, 89
   offset: 0, 0
@@ -146,7 +132,7 @@ vip_hopper_vip_hopper_64_c_2_15.png
   index: -1
 vip_hopper_vip_hopper_64_c_2_16.png
   rotate: false
-  xy: 393, 71
+  xy: 164, 31
   size: 43, 87
   orig: 43, 87
   offset: 0, 0
@@ -160,14 +146,14 @@ vip_hopper_vip_hopper_64_c_2_17.png
   index: -1
 vip_hopper_vip_hopper_64_c_2_18.png
   rotate: false
-  xy: 348, 70
+  xy: 209, 30
   size: 43, 88
   orig: 43, 88
   offset: 0, 0
   index: -1
 vip_hopper_vip_hopper_64_c_2_19.png
   rotate: false
-  xy: 482, 78
+  xy: 386, 77
   size: 42, 81
   orig: 42, 81
   offset: 0, 0

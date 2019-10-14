@@ -4,6 +4,20 @@ size: 128,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+val13_light_val13_light_32_d_0_2.png
+  rotate: false
+  xy: 102, 142
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val13_light_val13_light_32_d_0_2.png
+  rotate: false
+  xy: 33, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 val13_light_val13_light_64_a_0_0.png
   rotate: false
   xy: 2, 44
@@ -46,13 +60,6 @@ val13_light_val13_light_64_c_0_1.png
   orig: 10, 8
   offset: 0, 0
   index: -1
-val13_light_val13_light_64_c_0_2.png
-  rotate: false
-  xy: 33, 81
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val13_light_val13_light_64_d_0_0.png
   rotate: false
   xy: 81, 123
@@ -65,13 +72,6 @@ val13_light_val13_light_64_d_0_1.png
   xy: 19, 34
   size: 9, 8
   orig: 9, 8
-  offset: 0, 0
-  index: -1
-val13_light_val13_light_64_d_0_2.png
-  rotate: false
-  xy: 102, 142
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val13_light_val13_light_64_sd_0_0.png

@@ -20,14 +20,14 @@ waasa_desk_waasa_desk_64_a_2_0.png
   index: -1
 waasa_desk_waasa_desk_64_a_4_0.png
   rotate: false
-  xy: 353, 16
+  xy: 418, 62
   size: 63, 64
   orig: 63, 64
   offset: 0, 0
   index: -1
 waasa_desk_waasa_desk_64_a_6_0.png
   rotate: false
-  xy: 440, 62
+  xy: 353, 62
   size: 63, 64
   orig: 63, 64
   offset: 0, 0
@@ -62,7 +62,7 @@ waasa_desk_waasa_desk_64_b_6_0.png
   index: -1
 waasa_desk_waasa_desk_64_sd_0_0.png
   rotate: false
-  xy: 353, 82
+  xy: 266, 82
   size: 85, 44
   orig: 85, 44
   offset: 0, 0
@@ -70,20 +70,6 @@ waasa_desk_waasa_desk_64_sd_0_0.png
 waasa_desk_waasa_desk_64_sd_2_0.png
   rotate: false
   xy: 132, 12
-  size: 85, 44
-  orig: 85, 44
-  offset: 0, 0
-  index: -1
-waasa_desk_waasa_desk_64_sd_4_0.png
-  rotate: false
-  xy: 266, 36
-  size: 85, 44
-  orig: 85, 44
-  offset: 0, 0
-  index: -1
-waasa_desk_waasa_desk_64_sd_6_0.png
-  rotate: false
-  xy: 266, 82
   size: 85, 44
   orig: 85, 44
   offset: 0, 0

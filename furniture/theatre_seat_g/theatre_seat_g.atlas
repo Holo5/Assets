@@ -4,6 +4,13 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+theatre_seat_g_theatre_seat_g_32_c_4_0.png
+  rotate: false
+  xy: 136, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 theatre_seat_g_theatre_seat_g_64_a_0_0.png
   rotate: false
   xy: 261, 117
@@ -93,13 +100,6 @@ theatre_seat_g_theatre_seat_g_64_c_0_0.png
   xy: 69, 49
   size: 65, 77
   orig: 65, 77
-  offset: 0, 0
-  index: -1
-theatre_seat_g_theatre_seat_g_64_c_4_0.png
-  rotate: false
-  xy: 136, 49
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 theatre_seat_g_theatre_seat_g_64_sd_4_0.png

@@ -1,19 +1,12 @@
 
 classic8_curtains.png
-size: 128,256
+size: 64,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 classic8_curtains_classic8_curtains_64_a_2_0.png
   rotate: false
   xy: 2, 33
-  size: 41, 148
-  orig: 41, 148
-  offset: 0, 0
-  index: -1
-classic8_curtains_classic8_curtains_64_a_6_0.png
-  rotate: false
-  xy: 45, 33
   size: 41, 148
   orig: 41, 148
   offset: 0, 0

@@ -4,13 +4,6 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-army_c15_contable2_army_c15_contable2_64_a_0_0.png
-  rotate: false
-  xy: 70, 24
-  size: 66, 33
-  orig: 66, 33
-  offset: 0, 0
-  index: -1
 army_c15_contable2_army_c15_contable2_64_a_0_1.png
   rotate: false
   xy: 2, 24
@@ -20,21 +13,21 @@ army_c15_contable2_army_c15_contable2_64_a_0_1.png
   index: -1
 army_c15_contable2_army_c15_contable2_64_a_2_0.png
   rotate: false
-  xy: 391, 93
+  xy: 372, 93
   size: 47, 33
   orig: 47, 33
   offset: 0, 0
   index: -1
 army_c15_contable2_army_c15_contable2_64_a_4_0.png
   rotate: false
-  xy: 323, 102
+  xy: 70, 33
   size: 66, 24
   orig: 66, 24
   offset: 0, 0
   index: -1
 army_c15_contable2_army_c15_contable2_64_a_6_0.png
   rotate: false
-  xy: 323, 67
+  xy: 323, 93
   size: 47, 33
   orig: 47, 33
   offset: 0, 0
@@ -90,7 +83,7 @@ army_c15_contable2_army_c15_contable2_64_b_6_1.png
   index: -1
 army_c15_contable2_army_c15_contable2_icon_a.png
   rotate: false
-  xy: 440, 103
+  xy: 323, 68
   size: 28, 23
   orig: 28, 23
   offset: 0, 0

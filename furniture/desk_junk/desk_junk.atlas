@@ -1,40 +1,19 @@
 
 desk_junk.png
-size: 512,32
+size: 256,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-desk_junk_desk_junk_64_a_0_0.png
-  rotate: false
-  xy: 417, 8
-  size: 31, 21
-  orig: 31, 21
-  offset: 0, 0
-  index: -1
-desk_junk_desk_junk_64_a_0_1.png
-  rotate: false
-  xy: 282, 7
-  size: 34, 22
-  orig: 34, 22
-  offset: 0, 0
-  index: -1
-desk_junk_desk_junk_64_a_0_2.png
-  rotate: false
-  xy: 131, 2
-  size: 41, 27
-  orig: 41, 27
-  offset: 0, 0
-  index: -1
 desk_junk_desk_junk_64_a_2_0.png
   rotate: false
-  xy: 318, 8
+  xy: 81, 8
   size: 31, 21
   orig: 31, 21
   offset: 0, 0
   index: -1
 desk_junk_desk_junk_64_a_2_1.png
   rotate: false
-  xy: 174, 7
+  xy: 45, 7
   size: 34, 22
   orig: 34, 22
   offset: 0, 0
@@ -46,51 +25,9 @@ desk_junk_desk_junk_64_a_2_2.png
   orig: 41, 27
   offset: 0, 0
   index: -1
-desk_junk_desk_junk_64_a_4_0.png
-  rotate: false
-  xy: 384, 8
-  size: 31, 21
-  orig: 31, 21
-  offset: 0, 0
-  index: -1
-desk_junk_desk_junk_64_a_4_1.png
-  rotate: false
-  xy: 246, 7
-  size: 34, 22
-  orig: 34, 22
-  offset: 0, 0
-  index: -1
-desk_junk_desk_junk_64_a_4_2.png
-  rotate: false
-  xy: 88, 2
-  size: 41, 27
-  orig: 41, 27
-  offset: 0, 0
-  index: -1
-desk_junk_desk_junk_64_a_6_0.png
-  rotate: false
-  xy: 351, 8
-  size: 31, 21
-  orig: 31, 21
-  offset: 0, 0
-  index: -1
-desk_junk_desk_junk_64_a_6_1.png
-  rotate: false
-  xy: 210, 7
-  size: 34, 22
-  orig: 34, 22
-  offset: 0, 0
-  index: -1
-desk_junk_desk_junk_64_a_6_2.png
-  rotate: false
-  xy: 45, 2
-  size: 41, 27
-  orig: 41, 27
-  offset: 0, 0
-  index: -1
 desk_junk_desk_junk_icon_a.png
   rotate: false
-  xy: 450, 9
+  xy: 114, 9
   size: 29, 20
   orig: 29, 20
   offset: 0, 0

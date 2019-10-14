@@ -4,6 +4,13 @@ size: 512,512
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+steampunk_zep_steampunk_zep_32_e_4_0.png
+  rotate: false
+  xy: 438, 364
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 steampunk_zep_steampunk_zep_64_a_4_0.png
   rotate: false
   xy: 2, 43
@@ -44,13 +51,6 @@ steampunk_zep_steampunk_zep_64_d_4_2.png
   xy: 80, 23
   size: 73, 47
   orig: 73, 47
-  offset: 0, 0
-  index: -1
-steampunk_zep_steampunk_zep_64_e_4_0.png
-  rotate: false
-  xy: 438, 364
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 steampunk_zep_steampunk_zep_64_e_4_1.png

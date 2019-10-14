@@ -53,13 +53,6 @@ xmas_c15_stall_xmas_c15_stall_64_f_4_0.png
   orig: 91, 131
   offset: 0, 0
   index: -1
-xmas_c15_stall_xmas_c15_stall_64_f_4_1.png
-  rotate: false
-  xy: 157, 37
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas_c15_stall_xmas_c15_stall_64_g_4_0.png
   rotate: false
   xy: 233, 42
@@ -81,25 +74,11 @@ xmas_c15_stall_xmas_c15_stall_64_i_4_0.png
   orig: 59, 66
   offset: 0, 0
   index: -1
-xmas_c15_stall_xmas_c15_stall_64_i_4_1.png
-  rotate: false
-  xy: 280, 122
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas_c15_stall_xmas_c15_stall_64_j_4_0.png
   rotate: false
   xy: 472, 209
   size: 34, 30
   orig: 34, 30
-  offset: 0, 0
-  index: -1
-xmas_c15_stall_xmas_c15_stall_64_j_4_1.png
-  rotate: false
-  xy: 382, 201
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c15_stall_xmas_c15_stall_64_k_4_0.png
@@ -109,13 +88,6 @@ xmas_c15_stall_xmas_c15_stall_64_k_4_0.png
   orig: 80, 133
   offset: 0, 0
   index: -1
-xmas_c15_stall_xmas_c15_stall_64_k_4_1.png
-  rotate: false
-  xy: 2, 5
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas_c15_stall_xmas_c15_stall_64_l_4_0.png
   rotate: false
   xy: 113, 10
@@ -123,25 +95,11 @@ xmas_c15_stall_xmas_c15_stall_64_l_4_0.png
   orig: 42, 28
   offset: 0, 0
   index: -1
-xmas_c15_stall_xmas_c15_stall_64_l_4_1.png
-  rotate: false
-  xy: 113, 7
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas_c15_stall_xmas_c15_stall_64_m_4_0.png
   rotate: false
   xy: 382, 204
   size: 88, 35
   orig: 88, 35
-  offset: 0, 0
-  index: -1
-xmas_c15_stall_xmas_c15_stall_64_m_4_1.png
-  rotate: false
-  xy: 105, 105
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c15_stall_xmas_c15_stall_64_sd_4_0.png

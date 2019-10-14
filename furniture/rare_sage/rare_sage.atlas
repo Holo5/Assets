@@ -4,6 +4,20 @@ size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+rare_sage_rare_sage_32_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rare_sage_rare_sage_32_b_0_0.png
+  rotate: false
+  xy: 642, 122
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 rare_sage_rare_sage_64_a_0_0.png
   rotate: false
   xy: 130, 113
@@ -74,13 +88,6 @@ rare_sage_rare_sage_64_a_6_4.png
   orig: 62, 140
   offset: 0, 0
   index: -1
-rare_sage_rare_sage_64_b_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 rare_sage_rare_sage_64_b_0_1.png
   rotate: false
   xy: 642, 220
@@ -88,37 +95,9 @@ rare_sage_rare_sage_64_b_0_1.png
   orig: 62, 33
   offset: 0, 0
   index: -1
-rare_sage_rare_sage_64_b_0_10.png
-  rotate: false
-  xy: 909, 223
-  size: 5, 10
-  orig: 5, 10
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_b_0_11.png
-  rotate: false
-  xy: 130, 69
-  size: 5, 10
-  orig: 5, 10
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_b_0_12.png
-  rotate: false
-  xy: 182, 101
-  size: 5, 10
-  orig: 5, 10
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_b_0_13.png
-  rotate: false
-  xy: 694, 132
-  size: 5, 10
-  orig: 5, 10
-  offset: 0, 0
-  index: -1
 rare_sage_rare_sage_64_b_0_14.png
   rotate: false
-  xy: 137, 83
+  xy: 147, 103
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
@@ -188,35 +167,14 @@ rare_sage_rare_sage_64_b_0_4.png
   index: -1
 rare_sage_rare_sage_64_b_0_5.png
   rotate: false
-  xy: 642, 115
+  xy: 130, 84
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 rare_sage_rare_sage_64_b_0_6.png
   rotate: false
-  xy: 130, 81
-  size: 5, 10
-  orig: 5, 10
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_b_0_7.png
-  rotate: false
-  xy: 926, 243
-  size: 5, 10
-  orig: 5, 10
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_b_0_8.png
-  rotate: false
-  xy: 89, 46
-  size: 5, 10
-  orig: 5, 10
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_b_0_9.png
-  rotate: false
-  xy: 123, 66
+  xy: 89, 66
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
@@ -263,20 +221,6 @@ rare_sage_rare_sage_64_b_6_20.png
   orig: 29, 36
   offset: 0, 0
   index: -1
-rare_sage_rare_sage_64_c_0_0.png
-  rotate: false
-  xy: 96, 55
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_c_0_1.png
-  rotate: false
-  xy: 676, 125
-  size: 16, 17
-  orig: 16, 17
-  offset: 0, 0
-  index: -1
 rare_sage_rare_sage_64_c_0_10.png
   rotate: false
   xy: 130, 93
@@ -286,65 +230,16 @@ rare_sage_rare_sage_64_c_0_10.png
   index: -1
 rare_sage_rare_sage_64_c_0_11.png
   rotate: false
-  xy: 892, 219
+  xy: 892, 239
   size: 15, 14
   orig: 15, 14
   offset: 0, 0
   index: -1
 rare_sage_rare_sage_64_c_0_2.png
   rotate: false
-  xy: 164, 94
+  xy: 642, 125
   size: 16, 17
   orig: 16, 17
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_c_0_3.png
-  rotate: false
-  xy: 106, 58
-  size: 15, 18
-  orig: 15, 18
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_c_0_4.png
-  rotate: false
-  xy: 909, 235
-  size: 15, 18
-  orig: 15, 18
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_c_0_5.png
-  rotate: false
-  xy: 659, 124
-  size: 15, 18
-  orig: 15, 18
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_c_0_6.png
-  rotate: false
-  xy: 147, 93
-  size: 15, 18
-  orig: 15, 18
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_c_0_7.png
-  rotate: false
-  xy: 89, 58
-  size: 15, 18
-  orig: 15, 18
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_c_0_8.png
-  rotate: false
-  xy: 892, 235
-  size: 15, 18
-  orig: 15, 18
-  offset: 0, 0
-  index: -1
-rare_sage_rare_sage_64_c_0_9.png
-  rotate: false
-  xy: 642, 124
-  size: 15, 18
-  orig: 15, 18
   offset: 0, 0
   index: -1
 rare_sage_rare_sage_icon_a.png

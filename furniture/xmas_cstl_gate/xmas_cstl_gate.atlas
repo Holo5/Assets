@@ -4,6 +4,27 @@ size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+xmas_cstl_gate_xmas_cstl_gate_32_c_0_0.png
+  rotate: false
+  xy: 2, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_cstl_gate_xmas_cstl_gate_32_c_0_0.png
+  rotate: false
+  xy: 156, 175
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_cstl_gate_xmas_cstl_gate_32_c_0_0.png
+  rotate: false
+  xy: 248, 233
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_cstl_gate_xmas_cstl_gate_64_a_0_0.png
   rotate: false
   xy: 52, 2
@@ -18,25 +39,11 @@ xmas_cstl_gate_xmas_cstl_gate_64_b_0_0.png
   orig: 66, 131
   offset: 0, 0
   index: -1
-xmas_cstl_gate_xmas_cstl_gate_64_c_0_0.png
-  rotate: false
-  xy: 156, 175
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas_cstl_gate_xmas_cstl_gate_64_c_0_1.png
   rotate: false
   xy: 2, 14
   size: 48, 87
   orig: 48, 87
-  offset: 0, 0
-  index: -1
-xmas_cstl_gate_xmas_cstl_gate_64_d_0_0.png
-  rotate: false
-  xy: 248, 233
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_cstl_gate_xmas_cstl_gate_64_d_0_1.png
@@ -65,13 +72,6 @@ xmas_cstl_gate_xmas_cstl_gate_64_f_0_0.png
   xy: 225, 150
   size: 21, 84
   orig: 21, 84
-  offset: 0, 0
-  index: -1
-xmas_cstl_gate_xmas_cstl_gate_64_f_0_1.png
-  rotate: false
-  xy: 2, 11
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_cstl_gate_xmas_cstl_gate_64_sd_0_0.png

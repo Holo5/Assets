@@ -1,105 +1,14 @@
 
 hween_c15_road.png
-size: 2048,128
+size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hween_c15_road_hween_c15_road_64_a_0_0.png
-  rotate: false
-  xy: 404, 22
-  size: 132, 35
-  orig: 132, 35
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_a_1_0.png
-  rotate: false
-  xy: 1326, 91
-  size: 132, 35
-  orig: 132, 35
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_a_2_0.png
-  rotate: false
-  xy: 1058, 91
-  size: 132, 35
-  orig: 132, 35
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_a_3_0.png
-  rotate: false
-  xy: 136, 22
-  size: 132, 35
-  orig: 132, 35
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_a_4_0.png
-  rotate: false
-  xy: 270, 22
-  size: 132, 35
-  orig: 132, 35
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_a_5_0.png
-  rotate: false
-  xy: 1460, 91
-  size: 132, 35
-  orig: 132, 35
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_a_6_0.png
-  rotate: false
-  xy: 1192, 91
-  size: 132, 35
-  orig: 132, 35
-  offset: 0, 0
-  index: -1
 hween_c15_road_hween_c15_road_64_a_7_0.png
   rotate: false
-  xy: 2, 22
+  xy: 134, 91
   size: 132, 35
   orig: 132, 35
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_b_0_0.png
-  rotate: false
-  xy: 266, 59
-  size: 130, 67
-  orig: 130, 67
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_b_1_0.png
-  rotate: false
-  xy: 662, 59
-  size: 130, 67
-  orig: 130, 67
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_b_2_0.png
-  rotate: false
-  xy: 530, 59
-  size: 130, 67
-  orig: 130, 67
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_b_3_0.png
-  rotate: false
-  xy: 794, 59
-  size: 130, 67
-  orig: 130, 67
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_b_4_0.png
-  rotate: false
-  xy: 398, 59
-  size: 130, 67
-  orig: 130, 67
-  offset: 0, 0
-  index: -1
-hween_c15_road_hween_c15_road_64_b_5_0.png
-  rotate: false
-  xy: 134, 59
-  size: 130, 67
-  orig: 130, 67
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_b_6_0.png
@@ -109,100 +18,93 @@ hween_c15_road_hween_c15_road_64_b_6_0.png
   orig: 130, 67
   offset: 0, 0
   index: -1
-hween_c15_road_hween_c15_road_64_b_7_0.png
-  rotate: false
-  xy: 926, 59
-  size: 130, 67
-  orig: 130, 67
-  offset: 0, 0
-  index: -1
 hween_c15_road_hween_c15_road_64_c_0_0.png
   rotate: false
-  xy: 1089, 88
+  xy: 36, 2
   size: 2, 1
   orig: 2, 1
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_c_0_1.png
   rotate: false
-  xy: 736, 21
+  xy: 134, 53
   size: 72, 36
   orig: 72, 36
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_c_1_1.png
   rotate: false
-  xy: 1718, 65
+  xy: 208, 28
   size: 67, 61
   orig: 67, 61
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_c_1_2.png
   rotate: false
-  xy: 1058, 60
+  xy: 296, 79
   size: 17, 11
   orig: 17, 11
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_c_2_1.png
   rotate: false
-  xy: 662, 21
+  xy: 392, 90
   size: 72, 36
   orig: 72, 36
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_c_2_2.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 4
   size: 32, 17
   orig: 32, 17
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_c_3_1.png
   rotate: false
-  xy: 1594, 92
+  xy: 268, 92
   size: 122, 34
   orig: 122, 34
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_c_3_2.png
   rotate: false
-  xy: 810, 29
+  xy: 67, 12
   size: 22, 9
   orig: 22, 9
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_c_4_2.png
   rotate: false
-  xy: 810, 40
+  xy: 466, 109
   size: 32, 17
   orig: 32, 17
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_c_5_2.png
   rotate: false
-  xy: 844, 46
+  xy: 277, 79
   size: 17, 11
   orig: 17, 11
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_c_7_1.png
   rotate: false
-  xy: 538, 23
+  xy: 2, 23
   size: 122, 34
   orig: 122, 34
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_64_c_7_2.png
   rotate: false
-  xy: 1787, 117
+  xy: 466, 98
   size: 22, 9
   orig: 22, 9
   offset: 0, 0
   index: -1
 hween_c15_road_hween_c15_road_icon_a.png
   rotate: false
-  xy: 1058, 73
+  xy: 36, 5
   size: 29, 16
   orig: 29, 16
   offset: 0, 0

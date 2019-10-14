@@ -18,13 +18,6 @@ steampunk_timemach_steampunk_timemach_64_a_2_1.png
   orig: 69, 82
   offset: 0, 0
   index: -1
-steampunk_timemach_steampunk_timemach_64_b_2_0.png
-  rotate: false
-  xy: 1833, 177
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 steampunk_timemach_steampunk_timemach_64_b_2_1.png
   rotate: false
   xy: 1208, 166
@@ -44,13 +37,6 @@ steampunk_timemach_steampunk_timemach_64_b_2_3.png
   xy: 1750, 164
   size: 81, 89
   orig: 81, 89
-  offset: 0, 0
-  index: -1
-steampunk_timemach_steampunk_timemach_64_c_2_0.png
-  rotate: false
-  xy: 1387, 171
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 steampunk_timemach_steampunk_timemach_64_c_2_1.png
@@ -137,25 +123,11 @@ steampunk_timemach_steampunk_timemach_64_g_2_1.png
   orig: 27, 27
   offset: 0, 0
   index: -1
-steampunk_timemach_steampunk_timemach_64_g_2_2.png
-  rotate: false
-  xy: 1257, 105
-  size: 27, 27
-  orig: 27, 27
-  offset: 0, 0
-  index: -1
 steampunk_timemach_steampunk_timemach_64_g_2_3.png
   rotate: false
   xy: 1257, 134
   size: 33, 30
   orig: 33, 30
-  offset: 0, 0
-  index: -1
-steampunk_timemach_steampunk_timemach_64_h_2_0.png
-  rotate: false
-  xy: 1481, 179
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 steampunk_timemach_steampunk_timemach_64_h_2_1.png

@@ -4,6 +4,13 @@ size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+steampunk_arch_steampunk_arch_32_e_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 steampunk_arch_steampunk_arch_64_a_0_0.png
   rotate: false
   xy: 2, 5
@@ -30,13 +37,6 @@ steampunk_arch_steampunk_arch_64_d_0_0.png
   xy: 2, 101
   size: 55, 144
   orig: 55, 144
-  offset: 0, 0
-  index: -1
-steampunk_arch_steampunk_arch_64_e_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 steampunk_arch_steampunk_arch_64_e_0_1.png

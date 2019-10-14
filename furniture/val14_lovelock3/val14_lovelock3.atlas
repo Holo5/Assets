@@ -4,6 +4,27 @@ size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+val14_lovelock3_val14_lovelock3_32_d_2_0.png
+  rotate: false
+  xy: 65, 151
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val14_lovelock3_val14_lovelock3_32_d_2_0.png
+  rotate: false
+  xy: 65, 148
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val14_lovelock3_val14_lovelock3_32_d_2_0.png
+  rotate: false
+  xy: 65, 145
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 val14_lovelock3_val14_lovelock3_64_a_2_0.png
   rotate: false
   xy: 2, 140
@@ -109,13 +130,6 @@ val14_lovelock3_val14_lovelock3_64_c_2_5.png
   orig: 11, 12
   offset: 0, 0
   index: -1
-val14_lovelock3_val14_lovelock3_64_c_2_6.png
-  rotate: false
-  xy: 65, 151
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val14_lovelock3_val14_lovelock3_64_d_2_0.png
   rotate: false
   xy: 68, 13
@@ -214,13 +228,6 @@ val14_lovelock3_val14_lovelock3_64_e_2_8.png
   orig: 3, 4
   offset: 0, 0
   index: -1
-val14_lovelock3_val14_lovelock3_64_f_2_0.png
-  rotate: false
-  xy: 65, 145
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val14_lovelock3_val14_lovelock3_64_f_2_1.png
   rotate: false
   xy: 191, 163
@@ -268,13 +275,6 @@ val14_lovelock3_val14_lovelock3_64_f_2_7.png
   xy: 69, 35
   size: 53, 33
   orig: 53, 33
-  offset: 0, 0
-  index: -1
-val14_lovelock3_val14_lovelock3_64_g_2_0.png
-  rotate: false
-  xy: 65, 148
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val14_lovelock3_val14_lovelock3_64_g_2_1.png

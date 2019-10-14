@@ -4,6 +4,20 @@ size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+xmas12_window_xmas12_window_32_b_2_0.png
+  rotate: false
+  xy: 382, 80
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_32_b_2_0.png
+  rotate: false
+  xy: 469, 86
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas12_window_xmas12_window_64_a_2_0.png
   rotate: false
   xy: 90, 14
@@ -23,13 +37,6 @@ xmas12_window_xmas12_window_64_a_2_2.png
   xy: 178, 14
   size: 86, 230
   orig: 86, 230
-  offset: 0, 0
-  index: -1
-xmas12_window_xmas12_window_64_b_2_0.png
-  rotate: false
-  xy: 469, 86
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas12_window_xmas12_window_64_b_2_1.png
@@ -121,13 +128,6 @@ xmas12_window_xmas12_window_64_b_2_9.png
   xy: 295, 75
   size: 27, 169
   orig: 27, 169
-  offset: 0, 0
-  index: -1
-xmas12_window_xmas12_window_64_c_2_0.png
-  rotate: false
-  xy: 382, 80
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas12_window_xmas12_window_64_c_2_1.png

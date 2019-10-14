@@ -179,27 +179,6 @@ coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_0.png
   orig: 19, 14
   offset: 0, 0
   index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_1.png
-  rotate: false
-  xy: 1835, 31
-  size: 19, 14
-  orig: 19, 14
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_10.png
-  rotate: false
-  xy: 1902, 48
-  size: 19, 14
-  orig: 19, 14
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_11.png
-  rotate: false
-  xy: 1376, 31
-  size: 17, 14
-  orig: 17, 14
-  offset: 0, 0
-  index: -1
 coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_12.png
   rotate: false
   xy: 1520, 44
@@ -216,91 +195,14 @@ coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_13.png
   index: -1
 coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_14.png
   rotate: false
-  xy: 2028, 47
+  xy: 1965, 47
   size: 18, 15
   orig: 18, 15
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_15.png
-  rotate: false
-  xy: 1923, 48
-  size: 19, 14
-  orig: 19, 14
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_16.png
-  rotate: false
-  xy: 1965, 48
-  size: 19, 14
-  orig: 19, 14
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_17.png
-  rotate: false
-  xy: 1944, 48
-  size: 19, 14
-  orig: 19, 14
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_18.png
-  rotate: false
-  xy: 1357, 28
-  size: 17, 14
-  orig: 17, 14
   offset: 0, 0
   index: -1
 coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_19.png
   rotate: false
-  xy: 1333, 11
-  size: 17, 14
-  orig: 17, 14
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_2.png
-  rotate: false
-  xy: 1856, 31
-  size: 19, 14
-  orig: 19, 14
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_20.png
-  rotate: false
-  xy: 1395, 31
-  size: 17, 14
-  orig: 17, 14
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_21.png
-  rotate: false
-  xy: 1313, 10
-  size: 18, 15
-  orig: 18, 15
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_22.png
-  rotate: false
-  xy: 1337, 27
-  size: 18, 15
-  orig: 18, 15
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_23.png
-  rotate: false
-  xy: 1317, 27
-  size: 18, 15
-  orig: 18, 15
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_3.png
-  rotate: false
-  xy: 96, 5
-  size: 17, 14
-  orig: 17, 14
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_4.png
-  rotate: false
-  xy: 115, 5
+  xy: 1985, 48
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
@@ -310,34 +212,6 @@ coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_5.png
   xy: 1422, 46
   size: 48, 16
   orig: 48, 16
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_6.png
-  rotate: false
-  xy: 187, 20
-  size: 18, 15
-  orig: 18, 15
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_7.png
-  rotate: false
-  xy: 167, 20
-  size: 18, 15
-  orig: 18, 15
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_8.png
-  rotate: false
-  xy: 2007, 48
-  size: 19, 14
-  orig: 19, 14
-  offset: 0, 0
-  index: -1
-coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_9.png
-  rotate: false
-  xy: 1986, 48
-  size: 19, 14
-  orig: 19, 14
   offset: 0, 0
   index: -1
 coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_0.png
@@ -370,14 +244,14 @@ coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_11.png
   index: -1
 coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_12.png
   rotate: false
-  xy: 125, 21
+  xy: 1923, 48
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
   index: -1
 coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_13.png
   rotate: false
-  xy: 146, 21
+  xy: 1944, 48
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
@@ -475,7 +349,7 @@ coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_4.png
   index: -1
 coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_5.png
   rotate: false
-  xy: 104, 21
+  xy: 1902, 48
   size: 19, 14
   orig: 19, 14
   offset: 0, 0

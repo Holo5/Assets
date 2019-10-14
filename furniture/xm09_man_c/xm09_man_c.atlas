@@ -4,6 +4,13 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+xm09_man_c_xm09_man_c_32_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
 xm09_man_c_xm09_man_c_64_a_2_0.png
   rotate: false
   xy: 222, 35
@@ -58,12 +65,5 @@ xm09_man_c_xm09_man_c_64_a_2_7.png
   xy: 157, 23
   size: 31, 39
   orig: 31, 39
-  offset: 0, 0
-  index: -1
-xm09_man_c_xm09_man_c_icon_a.png
-  rotate: false
-  xy: 2, 2
-  size: 15, 14
-  orig: 15, 14
   offset: 0, 0
   index: -1

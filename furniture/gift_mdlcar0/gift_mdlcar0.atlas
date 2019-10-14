@@ -4,6 +4,13 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+gift_mdlcar0_gift_mdlcar0_32_a_0_0.png
+  rotate: false
+  xy: 87, 41
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
 gift_mdlcar0_gift_mdlcar0_64_a_0_0.png
   rotate: false
   xy: 2, 25
@@ -30,12 +37,5 @@ gift_mdlcar0_gift_mdlcar0_64_sd_0_0.png
   xy: 2, 5
   size: 49, 18
   orig: 49, 18
-  offset: 0, 0
-  index: -1
-gift_mdlcar0_gift_mdlcar0_icon_a.png
-  rotate: false
-  xy: 87, 41
-  size: 28, 19
-  orig: 28, 19
   offset: 0, 0
   index: -1

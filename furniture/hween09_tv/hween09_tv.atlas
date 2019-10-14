@@ -4,6 +4,13 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hween09_tv_hween09_tv_32_c_0_99.png
+  rotate: false
+  xy: 504, 118
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
 hween09_tv_hween09_tv_64_a_0_0.png
   rotate: false
   xy: 61, 17
@@ -27,7 +34,7 @@ hween09_tv_hween09_tv_64_c_0_0.png
   index: -1
 hween09_tv_hween09_tv_64_c_0_1.png
   rotate: false
-  xy: 401, 53
+  xy: 392, 53
   size: 7, 28
   orig: 7, 28
   offset: 0, 0
@@ -102,13 +109,6 @@ hween09_tv_hween09_tv_64_c_0_19.png
   orig: 7, 28
   offset: 0, 0
   index: -1
-hween09_tv_hween09_tv_64_c_0_2.png
-  rotate: false
-  xy: 392, 53
-  size: 7, 28
-  orig: 7, 28
-  offset: 0, 0
-  index: -1
 hween09_tv_hween09_tv_64_c_0_20.png
   rotate: false
   xy: 230, 53
@@ -118,7 +118,7 @@ hween09_tv_hween09_tv_64_c_0_20.png
   index: -1
 hween09_tv_hween09_tv_64_c_0_3.png
   rotate: false
-  xy: 410, 53
+  xy: 401, 53
   size: 7, 28
   orig: 7, 28
   offset: 0, 0
@@ -163,13 +163,6 @@ hween09_tv_hween09_tv_64_c_0_9.png
   xy: 374, 53
   size: 7, 28
   orig: 7, 28
-  offset: 0, 0
-  index: -1
-hween09_tv_hween09_tv_64_c_0_99.png
-  rotate: false
-  xy: 504, 118
-  size: 2, 1
-  orig: 2, 1
   offset: 0, 0
   index: -1
 hween09_tv_hween09_tv_64_d_0_0.png

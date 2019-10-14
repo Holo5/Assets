@@ -4,6 +4,13 @@ size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+easter14_eggstar_easter14_eggstar_32_a_4_0.png
+  rotate: false
+  xy: 994, 99
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
 easter14_eggstar_easter14_eggstar_64_a_4_0.png
   rotate: false
   xy: 874, 70
@@ -205,12 +212,5 @@ easter14_eggstar_easter14_eggstar_64_sd_4_0.png
   xy: 2, 33
   size: 36, 16
   orig: 36, 16
-  offset: 0, 0
-  index: -1
-easter14_eggstar_easter14_eggstar_icon_a.png
-  rotate: false
-  xy: 994, 99
-  size: 17, 27
-  orig: 17, 27
   offset: 0, 0
   index: -1

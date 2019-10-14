@@ -4,6 +4,13 @@ size: 64,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+horse_hairdye_07_horse_hairdye_07_32_b_0_0.png
+  rotate: false
+  xy: 50, 33
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
 horse_hairdye_07_horse_hairdye_07_64_a_0_0.png
   rotate: false
   xy: 28, 31
@@ -23,12 +30,5 @@ horse_hairdye_07_horse_hairdye_07_icon_a.png
   xy: 2, 2
   size: 8, 11
   orig: 8, 11
-  offset: 0, 0
-  index: -1
-horse_hairdye_07_horse_hairdye_07_icon_b.png
-  rotate: false
-  xy: 50, 33
-  size: 12, 21
-  orig: 12, 21
   offset: 0, 0
   index: -1

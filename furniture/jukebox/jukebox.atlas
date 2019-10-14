@@ -4,6 +4,13 @@ size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+jukebox_jukebox_32_b_4_0.png
+  rotate: false
+  xy: 789, 35
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 jukebox_jukebox_64_a_4_0.png
   rotate: false
   xy: 600, 30
@@ -51,13 +58,6 @@ jukebox_jukebox_64_a_4_6.png
   xy: 474, 30
   size: 61, 96
   orig: 61, 96
-  offset: 0, 0
-  index: -1
-jukebox_jukebox_64_b_4_0.png
-  rotate: false
-  xy: 789, 35
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 jukebox_jukebox_64_b_4_1.png

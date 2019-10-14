@@ -60,25 +60,11 @@ sf_pod_dark_sf_pod_dark_64_d_0_1.png
   orig: 40, 44
   offset: 0, 0
   index: -1
-sf_pod_dark_sf_pod_dark_64_e_0_0.png
-  rotate: false
-  xy: 506, 125
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 sf_pod_dark_sf_pod_dark_64_e_0_1.png
   rotate: false
   xy: 446, 80
   size: 58, 46
   orig: 58, 46
-  offset: 0, 0
-  index: -1
-sf_pod_dark_sf_pod_dark_64_f_0_0.png
-  rotate: false
-  xy: 509, 125
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 sf_pod_dark_sf_pod_dark_64_f_0_1.png
@@ -104,7 +90,7 @@ sf_pod_dark_sf_pod_dark_64_g_0_1.png
   index: -1
 sf_pod_dark_sf_pod_dark_64_h_0_0.png
   rotate: false
-  xy: 2, 19
+  xy: 506, 125
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

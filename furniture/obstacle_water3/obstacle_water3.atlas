@@ -4,6 +4,13 @@ size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+obstacle_water3_obstacle_water3_32_g_4_0.png
+  rotate: false
+  xy: 249, 210
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 obstacle_water3_obstacle_water3_64_a_4_0.png
   rotate: false
   xy: 2, 97
@@ -100,13 +107,6 @@ obstacle_water3_obstacle_water3_64_f_4_4.png
   xy: 2, 3
   size: 42, 39
   orig: 42, 39
-  offset: 0, 0
-  index: -1
-obstacle_water3_obstacle_water3_64_g_4_0.png
-  rotate: false
-  xy: 249, 210
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 obstacle_water3_obstacle_water3_64_g_4_1.png

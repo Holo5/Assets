@@ -18,13 +18,6 @@ hc_arab_teamk_hc_arab_teamk_64_a_4_1.png
   orig: 58, 116
   offset: 0, 0
   index: -1
-hc_arab_teamk_hc_arab_teamk_64_sd_4_0.png
-  rotate: false
-  xy: 122, 74
-  size: 42, 21
-  orig: 42, 21
-  offset: 0, 0
-  index: -1
 hc_arab_teamk_hc_arab_teamk_64_sd_4_1.png
   rotate: false
   xy: 122, 97
@@ -34,7 +27,7 @@ hc_arab_teamk_hc_arab_teamk_64_sd_4_1.png
   index: -1
 hc_arab_teamk_hc_arab_teamk_icon_a.png
   rotate: false
-  xy: 166, 90
+  xy: 122, 67
   size: 27, 28
   orig: 27, 28
   offset: 0, 0

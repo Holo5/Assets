@@ -6,91 +6,70 @@ filter: Nearest,Nearest
 repeat: none
 africa_c15_chair_africa_c15_chair_64_a_0_0.png
   rotate: false
-  xy: 100, 84
+  xy: 100, 72
   size: 47, 40
   orig: 47, 40
   offset: 0, 0
   index: -1
 africa_c15_chair_africa_c15_chair_64_a_2_0.png
   rotate: false
-  xy: 51, 59
+  xy: 51, 47
   size: 47, 65
   orig: 47, 65
   offset: 0, 0
   index: -1
 africa_c15_chair_africa_c15_chair_64_a_4_0.png
   rotate: false
-  xy: 2, 59
+  xy: 2, 47
   size: 47, 65
   orig: 47, 65
   offset: 0, 0
   index: -1
 africa_c15_chair_africa_c15_chair_64_a_6_0.png
   rotate: false
-  xy: 2, 17
+  xy: 2, 5
   size: 47, 40
   orig: 47, 40
   offset: 0, 0
   index: -1
 africa_c15_chair_africa_c15_chair_64_b_0_0.png
   rotate: false
-  xy: 224, 84
+  xy: 178, 72
   size: 27, 40
   orig: 27, 40
   offset: 0, 0
   index: -1
-africa_c15_chair_africa_c15_chair_64_b_2_0.png
-  rotate: false
-  xy: 253, 120
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 africa_c15_chair_africa_c15_chair_64_b_4_0.png
   rotate: false
-  xy: 253, 123
+  xy: 2, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 africa_c15_chair_africa_c15_chair_64_b_6_0.png
   rotate: false
-  xy: 195, 84
+  xy: 149, 72
   size: 27, 40
   orig: 27, 40
   offset: 0, 0
   index: -1
 africa_c15_chair_africa_c15_chair_64_sd_0_0.png
   rotate: false
-  xy: 149, 101
-  size: 44, 23
-  orig: 44, 23
-  offset: 0, 0
-  index: -1
-africa_c15_chair_africa_c15_chair_64_sd_2_0.png
-  rotate: false
-  xy: 100, 59
-  size: 44, 23
-  orig: 44, 23
-  offset: 0, 0
-  index: -1
-africa_c15_chair_africa_c15_chair_64_sd_4_0.png
-  rotate: false
-  xy: 97, 34
+  xy: 100, 47
   size: 44, 23
   orig: 44, 23
   offset: 0, 0
   index: -1
 africa_c15_chair_africa_c15_chair_64_sd_6_0.png
   rotate: false
-  xy: 51, 34
+  xy: 51, 22
   size: 44, 23
   orig: 44, 23
   offset: 0, 0
   index: -1
 africa_c15_chair_africa_c15_chair_icon_a.png
   rotate: false
-  xy: 51, 2
+  xy: 207, 82
   size: 25, 30
   orig: 25, 30
   offset: 0, 0

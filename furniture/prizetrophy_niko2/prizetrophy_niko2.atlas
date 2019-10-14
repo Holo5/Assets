@@ -4,6 +4,34 @@ size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+prizetrophy_niko2_prizetrophy_niko2_32_e_0_0.png
+  rotate: false
+  xy: 988, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+prizetrophy_niko2_prizetrophy_niko2_32_e_0_0.png
+  rotate: false
+  xy: 124, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+prizetrophy_niko2_prizetrophy_niko2_32_e_0_0.png
+  rotate: false
+  xy: 621, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+prizetrophy_niko2_prizetrophy_niko2_32_e_0_6.png
+  rotate: false
+  xy: 985, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 prizetrophy_niko2_prizetrophy_niko2_64_a_0_0.png
   rotate: false
   xy: 565, 18
@@ -172,13 +200,6 @@ prizetrophy_niko2_prizetrophy_niko2_64_d_0_6.png
   orig: 23, 14
   offset: 0, 0
   index: -1
-prizetrophy_niko2_prizetrophy_niko2_64_e_0_0.png
-  rotate: false
-  xy: 621, 18
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 prizetrophy_niko2_prizetrophy_niko2_64_e_0_1.png
   rotate: false
   xy: 799, 2
@@ -221,13 +242,6 @@ prizetrophy_niko2_prizetrophy_niko2_64_e_0_6.png
   orig: 26, 12
   offset: 0, 0
   index: -1
-prizetrophy_niko2_prizetrophy_niko2_64_f_0_0.png
-  rotate: false
-  xy: 124, 9
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 prizetrophy_niko2_prizetrophy_niko2_64_f_0_1.png
   rotate: false
   xy: 812, 2
@@ -254,20 +268,6 @@ prizetrophy_niko2_prizetrophy_niko2_64_f_0_4.png
   xy: 909, 41
   size: 42, 21
   orig: 42, 21
-  offset: 0, 0
-  index: -1
-prizetrophy_niko2_prizetrophy_niko2_64_f_0_5.png
-  rotate: false
-  xy: 985, 43
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-prizetrophy_niko2_prizetrophy_niko2_64_g_0_0.png
-  rotate: false
-  xy: 988, 43
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 prizetrophy_niko2_prizetrophy_niko2_64_g_0_1.png

@@ -1,54 +1,40 @@
 
 jungle_c16_tallgrass.png
-size: 1024,128
+size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 jungle_c16_tallgrass_jungle_c16_tallgrass_64_a_0_0.png
   rotate: false
-  xy: 739, 83
+  xy: 304, 3
   size: 43, 43
   orig: 43, 43
   offset: 0, 0
   index: -1
 jungle_c16_tallgrass_jungle_c16_tallgrass_64_a_0_1.png
   rotate: false
-  xy: 641, 79
+  xy: 452, 79
   size: 50, 47
   orig: 50, 47
   offset: 0, 0
   index: -1
-jungle_c16_tallgrass_jungle_c16_tallgrass_64_a_0_2.png
-  rotate: false
-  xy: 784, 83
-  size: 43, 43
-  orig: 43, 43
-  offset: 0, 0
-  index: -1
 jungle_c16_tallgrass_jungle_c16_tallgrass_64_a_0_3.png
   rotate: false
-  xy: 829, 83
-  size: 43, 43
-  orig: 43, 43
-  offset: 0, 0
-  index: -1
-jungle_c16_tallgrass_jungle_c16_tallgrass_64_a_0_4.png
-  rotate: false
-  xy: 874, 83
+  xy: 349, 7
   size: 43, 43
   orig: 43, 43
   offset: 0, 0
   index: -1
 jungle_c16_tallgrass_jungle_c16_tallgrass_64_a_0_5.png
   rotate: false
-  xy: 693, 83
+  xy: 452, 34
   size: 44, 43
   orig: 44, 43
   offset: 0, 0
   index: -1
 jungle_c16_tallgrass_jungle_c16_tallgrass_64_b_0_0.png
   rotate: false
-  xy: 578, 90
+  xy: 389, 52
   size: 61, 36
   orig: 61, 36
   offset: 0, 0
@@ -69,14 +55,14 @@ jungle_c16_tallgrass_jungle_c16_tallgrass_64_b_0_2.png
   index: -1
 jungle_c16_tallgrass_jungle_c16_tallgrass_64_b_0_3.png
   rotate: false
-  xy: 452, 90
+  xy: 254, 48
   size: 61, 36
   orig: 61, 36
   offset: 0, 0
   index: -1
 jungle_c16_tallgrass_jungle_c16_tallgrass_64_b_0_4.png
   rotate: false
-  xy: 515, 90
+  xy: 241, 10
   size: 61, 36
   orig: 61, 36
   offset: 0, 0
@@ -132,7 +118,7 @@ jungle_c16_tallgrass_jungle_c16_tallgrass_64_c_0_5.png
   index: -1
 jungle_c16_tallgrass_jungle_c16_tallgrass_icon_a.png
   rotate: false
-  xy: 919, 98
+  xy: 394, 22
   size: 30, 28
   orig: 30, 28
   offset: 0, 0

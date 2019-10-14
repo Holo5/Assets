@@ -6,105 +6,63 @@ filter: Nearest,Nearest
 repeat: none
 classic8_disco_classic8_disco_64_a_0_0.png
   rotate: false
-  xy: 2, 133
+  xy: 2, 120
   size: 40, 90
   orig: 40, 90
   offset: 0, 0
   index: -1
 classic8_disco_classic8_disco_64_b_0_0.png
   rotate: false
-  xy: 2, 67
+  xy: 2, 54
   size: 31, 31
   orig: 31, 31
   offset: 0, 0
   index: -1
 classic8_disco_classic8_disco_64_b_0_1.png
   rotate: false
-  xy: 2, 100
+  xy: 2, 87
   size: 31, 31
   orig: 31, 31
   offset: 0, 0
   index: -1
 classic8_disco_classic8_disco_64_c_0_0.png
   rotate: false
-  xy: 44, 211
+  xy: 2, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 classic8_disco_classic8_disco_64_c_0_1.png
   rotate: false
-  xy: 2, 2
+  xy: 35, 115
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 classic8_disco_classic8_disco_64_c_0_2.png
   rotate: false
-  xy: 55, 216
+  xy: 55, 203
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 classic8_disco_classic8_disco_64_c_0_3.png
   rotate: false
-  xy: 44, 214
-  size: 9, 9
-  orig: 9, 9
-  offset: 0, 0
-  index: -1
-classic8_disco_classic8_disco_64_c_0_4.png
-  rotate: false
-  xy: 24, 51
-  size: 3, 3
-  orig: 3, 3
-  offset: 0, 0
-  index: -1
-classic8_disco_classic8_disco_64_c_0_5.png
-  rotate: false
-  xy: 35, 124
-  size: 7, 7
-  orig: 7, 7
-  offset: 0, 0
-  index: -1
-classic8_disco_classic8_disco_64_c_0_6.png
-  rotate: false
-  xy: 24, 56
-  size: 9, 9
-  orig: 9, 9
-  offset: 0, 0
-  index: -1
-classic8_disco_classic8_disco_64_c_0_7.png
-  rotate: false
-  xy: 13, 13
-  size: 3, 3
-  orig: 3, 3
-  offset: 0, 0
-  index: -1
-classic8_disco_classic8_disco_64_c_0_8.png
-  rotate: false
-  xy: 55, 207
-  size: 7, 7
-  orig: 7, 7
-  offset: 0, 0
-  index: -1
-classic8_disco_classic8_disco_64_c_0_9.png
-  rotate: false
-  xy: 2, 7
+  xy: 44, 201
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
 classic8_disco_classic8_disco_64_sd_0_0.png
   rotate: false
-  xy: 2, 18
+  xy: 2, 5
   size: 34, 17
   orig: 34, 17
   offset: 0, 0
   index: -1
 classic8_disco_classic8_disco_icon_a.png
   rotate: false
-  xy: 2, 37
+  xy: 2, 24
   size: 20, 28
   orig: 20, 28
   offset: 0, 0

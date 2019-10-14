@@ -25,16 +25,9 @@ merger_chest_merger_chest_64_b_2_0.png
   orig: 1, 1
   offset: 0, 0
   index: -1
-merger_chest_merger_chest_64_b_2_1.png
-  rotate: false
-  xy: 246, 99
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
 merger_chest_merger_chest_64_b_2_10.png
   rotate: false
-  xy: 246, 71
+  xy: 246, 106
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
@@ -51,20 +44,6 @@ merger_chest_merger_chest_64_b_2_12.png
   xy: 34, 23
   size: 6, 6
   orig: 6, 6
-  offset: 0, 0
-  index: -1
-merger_chest_merger_chest_64_b_2_2.png
-  rotate: false
-  xy: 246, 106
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-merger_chest_merger_chest_64_b_2_3.png
-  rotate: false
-  xy: 246, 113
-  size: 8, 5
-  orig: 8, 5
   offset: 0, 0
   index: -1
 merger_chest_merger_chest_64_b_2_4.png
@@ -88,23 +67,9 @@ merger_chest_merger_chest_64_b_2_6.png
   orig: 6, 5
   offset: 0, 0
   index: -1
-merger_chest_merger_chest_64_b_2_7.png
-  rotate: false
-  xy: 246, 78
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-merger_chest_merger_chest_64_b_2_8.png
-  rotate: false
-  xy: 246, 85
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
 merger_chest_merger_chest_64_b_2_9.png
   rotate: false
-  xy: 246, 92
+  xy: 246, 113
   size: 8, 5
   orig: 8, 5
   offset: 0, 0

@@ -4,6 +4,13 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+pcnc_tilegrass_pcnc_tilegrass_32_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 pcnc_tilegrass_pcnc_tilegrass_64_a_0_0.png
   rotate: false
   xy: 2, 26
@@ -18,32 +25,11 @@ pcnc_tilegrass_pcnc_tilegrass_64_a_0_1.png
   orig: 33, 33
   offset: 0, 0
   index: -1
-pcnc_tilegrass_pcnc_tilegrass_64_b_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-pcnc_tilegrass_pcnc_tilegrass_64_b_0_1.png
-  rotate: false
-  xy: 105, 19
-  size: 38, 19
-  orig: 38, 19
-  offset: 0, 0
-  index: -1
 pcnc_tilegrass_pcnc_tilegrass_64_b_0_10.png
   rotate: false
-  xy: 105, 12
+  xy: 210, 54
   size: 10, 5
   orig: 10, 5
-  offset: 0, 0
-  index: -1
-pcnc_tilegrass_pcnc_tilegrass_64_b_0_2.png
-  rotate: false
-  xy: 145, 19
-  size: 38, 19
-  orig: 38, 19
   offset: 0, 0
   index: -1
 pcnc_tilegrass_pcnc_tilegrass_64_b_0_3.png
@@ -55,7 +41,7 @@ pcnc_tilegrass_pcnc_tilegrass_64_b_0_3.png
   index: -1
 pcnc_tilegrass_pcnc_tilegrass_64_b_0_4.png
   rotate: false
-  xy: 178, 40
+  xy: 105, 19
   size: 38, 19
   orig: 38, 19
   offset: 0, 0
@@ -76,28 +62,28 @@ pcnc_tilegrass_pcnc_tilegrass_64_b_0_6.png
   index: -1
 pcnc_tilegrass_pcnc_tilegrass_64_b_0_7.png
   rotate: false
-  xy: 105, 5
+  xy: 154, 33
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 pcnc_tilegrass_pcnc_tilegrass_64_b_0_8.png
   rotate: false
-  xy: 185, 5
+  xy: 145, 5
   size: 7, 33
   orig: 7, 33
   offset: 0, 0
   index: -1
 pcnc_tilegrass_pcnc_tilegrass_64_b_0_9.png
   rotate: false
-  xy: 194, 33
+  xy: 105, 12
   size: 10, 5
   orig: 10, 5
   offset: 0, 0
   index: -1
 pcnc_tilegrass_pcnc_tilegrass_icon_a.png
   rotate: false
-  xy: 218, 42
+  xy: 178, 42
   size: 30, 17
   orig: 30, 17
   offset: 0, 0

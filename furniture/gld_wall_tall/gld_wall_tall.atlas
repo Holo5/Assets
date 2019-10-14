@@ -1,47 +1,33 @@
 
 gld_wall_tall.png
-size: 4096,256
+size: 2048,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 gld_wall_tall_gld_wall_tall_64_a_0_0.png
-  rotate: false
-  xy: 90, 118
-  size: 42, 136
-  orig: 42, 136
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_a_1_0.png
-  rotate: false
-  xy: 4074, 119
-  size: 10, 135
-  orig: 10, 135
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_a_2_0.png
   rotate: false
   xy: 46, 118
   size: 42, 136
   orig: 42, 136
   offset: 0, 0
   index: -1
+gld_wall_tall_gld_wall_tall_64_a_1_0.png
+  rotate: false
+  xy: 1854, 119
+  size: 10, 135
+  orig: 10, 135
+  offset: 0, 0
+  index: -1
 gld_wall_tall_gld_wall_tall_64_a_3_0.png
   rotate: false
-  xy: 2238, 134
+  xy: 764, 134
   size: 42, 120
   orig: 42, 120
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_a_4_0.png
-  rotate: false
-  xy: 134, 118
-  size: 42, 136
-  orig: 42, 136
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_a_5_0.png
   rotate: false
-  xy: 4062, 119
+  xy: 1842, 119
   size: 10, 135
   orig: 10, 135
   offset: 0, 0
@@ -55,273 +41,77 @@ gld_wall_tall_gld_wall_tall_64_a_6_0.png
   index: -1
 gld_wall_tall_gld_wall_tall_64_a_7_0.png
   rotate: false
-  xy: 2194, 134
+  xy: 720, 134
   size: 42, 120
   orig: 42, 120
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_b_0_0.png
-  rotate: false
-  xy: 3137, 130
-  size: 31, 124
-  orig: 31, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_0_1.png
-  rotate: false
-  xy: 1480, 129
-  size: 40, 125
-  orig: 40, 125
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_b_0_10.png
   rotate: false
-  xy: 726, 28
+  xy: 1926, 207
   size: 40, 47
   orig: 40, 47
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_b_0_2.png
-  rotate: false
-  xy: 242, 4
-  size: 23, 120
-  orig: 23, 120
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_0_3.png
-  rotate: false
-  xy: 1816, 130
-  size: 40, 124
-  orig: 40, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_0_4.png
-  rotate: false
-  xy: 514, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_0_5.png
-  rotate: false
-  xy: 3755, 154
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_0_6.png
-  rotate: false
-  xy: 2408, 134
-  size: 40, 120
-  orig: 40, 120
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_0_7.png
-  rotate: false
-  xy: 388, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_0_8.png
-  rotate: false
-  xy: 1102, 128
-  size: 40, 126
-  orig: 40, 126
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_0_9.png
-  rotate: false
-  xy: 262, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_1_0.png
-  rotate: false
-  xy: 756, 11
-  size: 8, 15
-  orig: 8, 15
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_1_1.png
-  rotate: false
-  xy: 402, 2
-  size: 8, 122
-  orig: 8, 122
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_b_1_10.png
   rotate: false
-  xy: 1004, 93
+  xy: 391, 95
   size: 1, 31
   orig: 1, 31
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_b_1_2.png
-  rotate: false
-  xy: 3904, 158
-  size: 8, 10
-  orig: 8, 10
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_1_3.png
-  rotate: false
-  xy: 656, 7
-  size: 8, 117
-  orig: 8, 117
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_1_4.png
-  rotate: false
-  xy: 3658, 28
-  size: 8, 127
-  orig: 8, 127
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_1_5.png
-  rotate: false
-  xy: 488, 3
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_b_1_6.png
   rotate: false
-  xy: 696, 12
+  xy: 314, 12
   size: 8, 112
   orig: 8, 112
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_1_7.png
   rotate: false
-  xy: 3668, 28
+  xy: 1886, 127
   size: 8, 127
   orig: 8, 127
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_b_1_8.png
-  rotate: false
-  xy: 636, 3
-  size: 8, 121
-  orig: 8, 121
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_1_9.png
-  rotate: false
-  xy: 3718, 29
-  size: 8, 126
-  orig: 8, 126
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_2_0.png
-  rotate: false
-  xy: 3236, 130
-  size: 31, 124
-  orig: 31, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_2_1.png
-  rotate: false
-  xy: 1606, 129
-  size: 40, 125
-  orig: 40, 125
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_2_10.png
-  rotate: false
-  xy: 726, 77
-  size: 40, 47
-  orig: 40, 47
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_2_2.png
-  rotate: false
-  xy: 342, 4
-  size: 23, 120
-  orig: 23, 120
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_2_3.png
-  rotate: false
-  xy: 1984, 130
-  size: 40, 124
-  orig: 40, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_2_4.png
-  rotate: false
-  xy: 850, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_2_5.png
-  rotate: false
-  xy: 856, 67
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_2_6.png
-  rotate: false
-  xy: 2324, 134
-  size: 40, 120
-  orig: 40, 120
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_b_2_7.png
   rotate: false
-  xy: 934, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_2_8.png
-  rotate: false
-  xy: 1270, 128
-  size: 40, 126
-  orig: 40, 126
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_2_9.png
-  rotate: false
-  xy: 682, 126
+  xy: 300, 126
   size: 40, 128
   orig: 40, 128
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_3_0.png
   rotate: false
-  xy: 3366, 141
+  xy: 1410, 141
   size: 30, 113
   orig: 30, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_3_1.png
   rotate: false
-  xy: 3302, 141
+  xy: 1378, 141
   size: 30, 113
   orig: 30, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_3_10.png
   rotate: false
-  xy: 768, 39
+  xy: 1926, 169
   size: 40, 36
   orig: 40, 36
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_3_2.png
   rotate: false
-  xy: 454, 11
+  xy: 178, 11
   size: 20, 113
   orig: 20, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_3_3.png
   rotate: false
-  xy: 170, 3
+  xy: 86, 3
   size: 20, 113
   orig: 20, 113
   offset: 0, 0
@@ -335,14 +125,14 @@ gld_wall_tall_gld_wall_tall_64_b_3_4.png
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_3_5.png
   rotate: false
-  xy: 686, 8
+  xy: 1378, 137
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_3_6.png
   rotate: false
-  xy: 2450, 141
+  xy: 892, 141
   size: 40, 113
   orig: 40, 113
   offset: 0, 0
@@ -356,1071 +146,560 @@ gld_wall_tall_gld_wall_tall_64_b_3_7.png
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_3_8.png
   rotate: false
-  xy: 128, 3
+  xy: 976, 141
   size: 40, 113
   orig: 40, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_3_9.png
   rotate: false
-  xy: 86, 3
+  xy: 934, 141
   size: 40, 113
   orig: 40, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_4_0.png
   rotate: false
-  xy: 1354, 129
+  xy: 426, 129
   size: 40, 125
   orig: 40, 125
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_4_1.png
   rotate: false
-  xy: 3038, 130
+  xy: 1312, 130
   size: 31, 124
   orig: 31, 124
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_b_4_10.png
-  rotate: false
-  xy: 768, 77
-  size: 40, 47
-  orig: 40, 47
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_b_4_2.png
   rotate: false
-  xy: 1732, 130
+  xy: 552, 130
   size: 40, 124
   orig: 40, 124
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_4_3.png
   rotate: false
-  xy: 192, 4
+  xy: 108, 4
   size: 23, 120
   orig: 23, 120
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_4_4.png
   rotate: false
-  xy: 430, 126
+  xy: 174, 126
   size: 40, 128
   orig: 40, 128
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_4_5.png
   rotate: false
-  xy: 3735, 137
+  xy: 1674, 166
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_4_6.png
   rotate: false
-  xy: 1690, 130
+  xy: 510, 130
   size: 40, 124
   orig: 40, 124
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_4_7.png
   rotate: false
-  xy: 346, 126
+  xy: 132, 126
   size: 40, 128
   orig: 40, 128
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_4_8.png
   rotate: false
-  xy: 1018, 128
+  xy: 342, 128
   size: 40, 126
   orig: 40, 126
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_4_9.png
   rotate: false
-  xy: 178, 126
+  xy: 90, 126
   size: 40, 128
   orig: 40, 128
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_b_5_0.png
-  rotate: false
-  xy: 422, 2
-  size: 8, 122
-  orig: 8, 122
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_5_1.png
-  rotate: false
-  xy: 746, 11
-  size: 8, 15
-  orig: 8, 15
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_5_10.png
-  rotate: false
-  xy: 1007, 93
-  size: 1, 31
-  orig: 1, 31
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_5_2.png
-  rotate: false
-  xy: 596, 7
-  size: 8, 117
-  orig: 8, 117
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_5_3.png
-  rotate: false
-  xy: 858, 93
-  size: 8, 10
-  orig: 8, 10
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_5_4.png
-  rotate: false
-  xy: 3638, 28
-  size: 8, 127
-  orig: 8, 127
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_5_5.png
-  rotate: false
-  xy: 3728, 126
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_b_5_6.png
   rotate: false
-  xy: 676, 7
+  xy: 294, 7
   size: 8, 117
   orig: 8, 117
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_5_7.png
   rotate: false
-  xy: 3678, 28
+  xy: 1896, 127
   size: 8, 127
   orig: 8, 127
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_b_5_8.png
-  rotate: false
-  xy: 616, 3
-  size: 8, 121
-  orig: 8, 121
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_5_9.png
-  rotate: false
-  xy: 3698, 29
-  size: 8, 126
-  orig: 8, 126
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_6_0.png
-  rotate: false
-  xy: 1648, 129
-  size: 40, 125
-  orig: 40, 125
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_6_1.png
-  rotate: false
-  xy: 3269, 130
-  size: 31, 124
-  orig: 31, 124
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_b_6_10.png
   rotate: false
-  xy: 4020, 125
+  xy: 1800, 125
   size: 40, 47
   orig: 40, 47
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_b_6_2.png
-  rotate: false
-  xy: 2026, 130
-  size: 40, 124
-  orig: 40, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_6_3.png
-  rotate: false
-  xy: 367, 4
-  size: 23, 120
-  orig: 23, 120
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_6_4.png
-  rotate: false
-  xy: 892, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_6_5.png
-  rotate: false
-  xy: 1010, 94
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_6_6.png
-  rotate: false
-  xy: 2110, 130
-  size: 40, 124
-  orig: 40, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_6_7.png
-  rotate: false
-  xy: 976, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_6_8.png
-  rotate: false
-  xy: 1312, 128
-  size: 40, 126
-  orig: 40, 126
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_b_6_9.png
-  rotate: false
-  xy: 724, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_b_7_0.png
   rotate: false
-  xy: 3430, 141
+  xy: 1442, 141
   size: 30, 113
   orig: 30, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_7_1.png
   rotate: false
-  xy: 3494, 141
+  xy: 1474, 141
   size: 30, 113
   orig: 30, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_7_10.png
   rotate: false
-  xy: 816, 92
+  xy: 1968, 222
   size: 40, 32
   orig: 40, 32
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_7_2.png
   rotate: false
-  xy: 498, 11
+  xy: 200, 11
   size: 20, 113
   orig: 20, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_7_3.png
   rotate: false
-  xy: 542, 11
+  xy: 222, 11
   size: 20, 113
   orig: 20, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_7_4.png
   rotate: false
-  xy: 2912, 141
+  xy: 1228, 141
   size: 40, 113
   orig: 40, 113
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_b_7_5.png
-  rotate: false
-  xy: 3914, 166
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_b_7_6.png
   rotate: false
-  xy: 2828, 141
+  xy: 1144, 141
   size: 40, 113
   orig: 40, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_7_7.png
   rotate: false
-  xy: 2870, 141
+  xy: 1186, 141
   size: 40, 113
   orig: 40, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_7_8.png
   rotate: false
-  xy: 2660, 141
+  xy: 1060, 141
   size: 40, 113
   orig: 40, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_b_7_9.png
   rotate: false
-  xy: 2744, 141
+  xy: 1102, 141
   size: 40, 113
   orig: 40, 113
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_0_0.png
-  rotate: false
-  xy: 1396, 129
-  size: 40, 125
-  orig: 40, 125
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_0_1.png
-  rotate: false
-  xy: 3071, 130
-  size: 31, 124
-  orig: 31, 124
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_0_10.png
   rotate: false
-  xy: 3558, 157
+  xy: 1506, 157
   size: 40, 97
   orig: 40, 97
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_0_2.png
-  rotate: false
-  xy: 1858, 130
-  size: 40, 124
-  orig: 40, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_0_3.png
-  rotate: false
-  xy: 267, 4
-  size: 23, 120
-  orig: 23, 120
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_0_4.png
-  rotate: false
-  xy: 3312, 137
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_0_5.png
-  rotate: false
-  xy: 556, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_0_6.png
   rotate: false
-  xy: 2152, 130
+  xy: 678, 130
   size: 40, 124
   orig: 40, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_0_7.png
-  rotate: false
-  xy: 3852, 158
-  size: 40, 96
-  orig: 40, 96
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_0_8.png
-  rotate: false
-  xy: 304, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_0_9.png
-  rotate: false
-  xy: 1144, 128
-  size: 40, 126
-  orig: 40, 126
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_1_0.png
   rotate: false
-  xy: 392, 2
+  xy: 158, 2
   size: 8, 122
   orig: 8, 122
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_1_1.png
   rotate: false
-  xy: 3735, 141
+  xy: 2024, 239
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_1_10.png
   rotate: false
-  xy: 706, 28
+  xy: 324, 28
   size: 8, 96
   orig: 8, 96
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_1_2.png
   rotate: false
-  xy: 646, 7
+  xy: 274, 7
   size: 8, 117
   orig: 8, 117
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_1_3.png
   rotate: false
-  xy: 3745, 146
+  xy: 1506, 145
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_1_4.png
-  rotate: false
-  xy: 868, 101
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_1_5.png
   rotate: false
-  xy: 3648, 28
+  xy: 1876, 127
   size: 8, 127
   orig: 8, 127
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_1_6.png
   rotate: false
-  xy: 666, 7
+  xy: 284, 7
   size: 8, 117
   orig: 8, 117
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_1_7.png
-  rotate: false
-  xy: 813, 44
-  size: 1, 80
-  orig: 1, 80
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_1_8.png
   rotate: false
-  xy: 3708, 29
+  xy: 1916, 128
   size: 8, 126
   orig: 8, 126
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_1_9.png
   rotate: false
-  xy: 626, 3
+  xy: 264, 3
   size: 8, 121
   orig: 8, 121
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_2_0.png
-  rotate: false
-  xy: 1564, 129
-  size: 40, 125
-  orig: 40, 125
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_2_1.png
-  rotate: false
-  xy: 3203, 130
-  size: 31, 124
-  orig: 31, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_2_10.png
-  rotate: false
-  xy: 3684, 157
-  size: 40, 97
-  orig: 40, 97
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_2_2.png
-  rotate: false
-  xy: 1942, 130
-  size: 40, 124
-  orig: 40, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_2_3.png
-  rotate: false
-  xy: 317, 4
-  size: 23, 120
-  orig: 23, 120
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_2_4.png
-  rotate: false
-  xy: 810, 40
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_2_5.png
-  rotate: false
-  xy: 808, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_2_6.png
   rotate: false
-  xy: 2068, 130
+  xy: 636, 130
   size: 40, 124
   orig: 40, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_2_7.png
-  rotate: false
-  xy: 3768, 158
-  size: 40, 96
-  orig: 40, 96
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_2_8.png
-  rotate: false
-  xy: 640, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_2_9.png
-  rotate: false
-  xy: 1228, 128
-  size: 40, 126
-  orig: 40, 126
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_3_0.png
-  rotate: false
-  xy: 3334, 141
-  size: 30, 113
-  orig: 30, 113
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_3_1.png
-  rotate: false
-  xy: 3398, 141
-  size: 30, 113
-  orig: 30, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_3_10.png
   rotate: false
-  xy: 3936, 173
+  xy: 1716, 173
   size: 40, 81
   orig: 40, 81
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_3_2.png
-  rotate: false
-  xy: 432, 11
-  size: 20, 113
-  orig: 20, 113
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_3_3.png
-  rotate: false
-  xy: 476, 11
-  size: 20, 113
-  orig: 20, 113
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_3_4.png
-  rotate: false
-  xy: 816, 48
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_3_5.png
-  rotate: false
-  xy: 2492, 141
-  size: 40, 113
-  orig: 40, 113
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_3_6.png
   rotate: false
-  xy: 2618, 141
+  xy: 1018, 141
   size: 40, 113
   orig: 40, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_3_7.png
   rotate: false
-  xy: 3894, 170
+  xy: 1674, 170
   size: 40, 84
   orig: 40, 84
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_3_8.png
-  rotate: false
-  xy: 2534, 141
-  size: 40, 113
-  orig: 40, 113
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_3_9.png
-  rotate: false
-  xy: 2576, 141
-  size: 40, 113
-  orig: 40, 113
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_4_0.png
-  rotate: false
-  xy: 3104, 130
-  size: 31, 124
-  orig: 31, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_4_1.png
-  rotate: false
-  xy: 1438, 129
-  size: 40, 125
-  orig: 40, 125
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_4_10.png
-  rotate: false
-  xy: 3600, 157
-  size: 40, 97
-  orig: 40, 97
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_4_2.png
-  rotate: false
-  xy: 217, 4
-  size: 23, 120
-  orig: 23, 120
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_4_3.png
-  rotate: false
-  xy: 1774, 130
-  size: 40, 124
-  orig: 40, 124
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_4_4.png
-  rotate: false
-  xy: 3745, 142
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_4_5.png
-  rotate: false
-  xy: 472, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_4_6.png
   rotate: false
-  xy: 2366, 134
+  xy: 850, 134
   size: 40, 120
   orig: 40, 120
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_4_7.png
   rotate: false
-  xy: 3810, 158
+  xy: 1632, 158
   size: 40, 96
   orig: 40, 96
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_4_8.png
-  rotate: false
-  xy: 220, 126
-  size: 40, 128
-  orig: 40, 128
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_4_9.png
-  rotate: false
-  xy: 1060, 128
-  size: 40, 126
-  orig: 40, 126
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_5_0.png
   rotate: false
-  xy: 4086, 110
+  xy: 1926, 133
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_5_1.png
   rotate: false
-  xy: 412, 2
+  xy: 168, 2
   size: 8, 122
   orig: 8, 122
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_5_10.png
   rotate: false
-  xy: 716, 28
+  xy: 334, 28
   size: 8, 96
   orig: 8, 96
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_5_2.png
   rotate: false
-  xy: 3894, 158
+  xy: 324, 16
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_5_3.png
   rotate: false
-  xy: 586, 7
+  xy: 244, 7
   size: 8, 117
   orig: 8, 117
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_5_4.png
-  rotate: false
-  xy: 2490, 137
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_5_5.png
   rotate: false
-  xy: 4086, 127
+  xy: 1866, 127
   size: 8, 127
   orig: 8, 127
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_5_6.png
   rotate: false
-  xy: 686, 12
+  xy: 304, 12
   size: 8, 112
   orig: 8, 112
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_5_7.png
   rotate: false
-  xy: 810, 44
+  xy: 344, 46
   size: 1, 80
   orig: 1, 80
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_5_8.png
   rotate: false
-  xy: 3688, 29
+  xy: 1906, 128
   size: 8, 126
   orig: 8, 126
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_5_9.png
   rotate: false
-  xy: 606, 3
+  xy: 254, 3
   size: 8, 121
   orig: 8, 121
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_6_0.png
   rotate: false
-  xy: 3170, 130
+  xy: 1345, 130
   size: 31, 124
   orig: 31, 124
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_6_1.png
   rotate: false
-  xy: 1522, 129
+  xy: 468, 129
   size: 40, 125
   orig: 40, 125
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_6_10.png
   rotate: false
-  xy: 3642, 157
+  xy: 1548, 157
   size: 40, 97
   orig: 40, 97
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_6_2.png
   rotate: false
-  xy: 292, 4
+  xy: 133, 4
   size: 23, 120
   orig: 23, 120
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_6_3.png
   rotate: false
-  xy: 1900, 130
+  xy: 594, 130
   size: 40, 124
   orig: 40, 124
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_6_4.png
-  rotate: false
-  xy: 690, 8
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_6_5.png
   rotate: false
-  xy: 766, 126
+  xy: 258, 126
   size: 40, 128
   orig: 40, 128
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_6_6.png
   rotate: false
-  xy: 2282, 134
+  xy: 808, 134
   size: 40, 120
   orig: 40, 120
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_6_7.png
   rotate: false
-  xy: 3726, 158
+  xy: 1590, 158
   size: 40, 96
   orig: 40, 96
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_6_8.png
   rotate: false
-  xy: 598, 126
+  xy: 216, 126
   size: 40, 128
   orig: 40, 128
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_6_9.png
   rotate: false
-  xy: 1186, 128
+  xy: 384, 128
   size: 40, 126
   orig: 40, 126
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_7_0.png
-  rotate: false
-  xy: 3526, 141
-  size: 30, 113
-  orig: 30, 113
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_7_1.png
-  rotate: false
-  xy: 3462, 141
-  size: 30, 113
-  orig: 30, 113
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_7_10.png
   rotate: false
-  xy: 3978, 173
+  xy: 1758, 173
   size: 40, 81
   orig: 40, 81
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_7_2.png
-  rotate: false
-  xy: 564, 11
-  size: 20, 113
-  orig: 20, 113
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_7_3.png
-  rotate: false
-  xy: 520, 11
-  size: 20, 113
-  orig: 20, 113
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_7_4.png
-  rotate: false
-  xy: 488, 7
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_7_5.png
-  rotate: false
-  xy: 2954, 141
-  size: 40, 113
-  orig: 40, 113
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_c_7_6.png
   rotate: false
-  xy: 2996, 141
+  xy: 1270, 141
   size: 40, 113
   orig: 40, 113
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_c_7_7.png
   rotate: false
-  xy: 4020, 174
+  xy: 1800, 174
   size: 40, 80
   orig: 40, 80
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_c_7_8.png
-  rotate: false
-  xy: 2786, 141
-  size: 40, 113
-  orig: 40, 113
-  offset: 0, 0
-  index: -1
-gld_wall_tall_gld_wall_tall_64_c_7_9.png
-  rotate: false
-  xy: 2702, 141
-  size: 40, 113
-  orig: 40, 113
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_d_0_0.png
   rotate: false
-  xy: 816, 52
+  xy: 1926, 150
   size: 38, 17
   orig: 38, 17
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_d_1_0.png
   rotate: false
-  xy: 3302, 134
+  xy: 234, 4
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_d_2_0.png
   rotate: false
-  xy: 3558, 138
+  xy: 1968, 203
   size: 38, 17
   orig: 38, 17
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_d_3_0.png
   rotate: false
-  xy: 2450, 135
+  xy: 892, 135
   size: 38, 4
   orig: 38, 4
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_d_4_0.png
-  rotate: false
-  xy: 706, 9
-  size: 38, 17
-  orig: 38, 17
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_d_5_0.png
   rotate: false
-  xy: 768, 32
+  xy: 1866, 120
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_d_6_0.png
-  rotate: false
-  xy: 3598, 138
-  size: 38, 17
-  orig: 38, 17
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_d_7_0.png
   rotate: false
-  xy: 2194, 131
+  xy: 720, 131
   size: 38, 1
   orig: 38, 1
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_sd_0_0.png
   rotate: false
-  xy: 858, 105
+  xy: 347, 107
   size: 42, 19
   orig: 42, 19
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_sd_1_0.png
   rotate: false
-  xy: 476, 3
+  xy: 222, 3
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_sd_2_0.png
-  rotate: false
-  xy: 816, 71
-  size: 42, 19
-  orig: 42, 19
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_sd_3_0.png
   rotate: false
-  xy: 432, 2
+  xy: 178, 2
   size: 42, 7
   orig: 42, 7
   offset: 0, 0
   index: -1
-gld_wall_tall_gld_wall_tall_64_sd_4_0.png
-  rotate: false
-  xy: 902, 105
-  size: 42, 19
-  orig: 42, 19
-  offset: 0, 0
-  index: -1
 gld_wall_tall_gld_wall_tall_64_sd_5_0.png
   rotate: false
-  xy: 178, 118
+  xy: 90, 118
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_sd_6_0.png
   rotate: false
-  xy: 946, 105
+  xy: 347, 86
   size: 42, 19
   orig: 42, 19
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_64_sd_7_0.png
   rotate: false
-  xy: 646, 2
+  xy: 274, 2
   size: 42, 3
   orig: 42, 3
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_icon_a.png
   rotate: false
-  xy: 3728, 130
+  xy: 1968, 175
   size: 5, 26
   orig: 5, 26
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_icon_b.png
   rotate: false
-  xy: 990, 94
+  xy: 2010, 224
   size: 12, 30
   orig: 12, 30
   offset: 0, 0
   index: -1
 gld_wall_tall_gld_wall_tall_icon_c.png
   rotate: false
-  xy: 1010, 98
+  xy: 347, 58
   size: 5, 26
   orig: 5, 26
   offset: 0, 0

@@ -41,70 +41,21 @@ val15_sakura_val15_sakura_64_e_4_0.png
   index: -1
 val15_sakura_val15_sakura_64_e_4_1.png
   rotate: false
-  xy: 236, 160
+  xy: 435, 249
   size: 6, 4
   orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_e_4_10.png
-  rotate: false
-  xy: 244, 160
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_e_4_11.png
-  rotate: false
-  xy: 162, 79
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_e_4_12.png
-  rotate: false
-  xy: 162, 14
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_e_4_13.png
-  rotate: false
-  xy: 443, 214
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_e_4_2.png
-  rotate: false
-  xy: 154, 49
-  size: 82, 28
-  orig: 82, 28
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_e_4_3.png
-  rotate: false
-  xy: 154, 20
-  size: 81, 27
-  orig: 81, 27
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_e_4_4.png
-  rotate: false
-  xy: 346, 197
-  size: 87, 27
-  orig: 87, 27
   offset: 0, 0
   index: -1
 val15_sakura_val15_sakura_64_e_4_5.png
   rotate: false
-  xy: 346, 139
+  xy: 346, 168
   size: 86, 27
   orig: 86, 27
   offset: 0, 0
   index: -1
 val15_sakura_val15_sakura_64_e_4_6.png
   rotate: false
-  xy: 346, 109
+  xy: 346, 138
   size: 82, 28
   orig: 82, 28
   offset: 0, 0
@@ -125,191 +76,30 @@ val15_sakura_val15_sakura_64_e_4_8.png
   index: -1
 val15_sakura_val15_sakura_64_e_4_9.png
   rotate: false
-  xy: 346, 168
+  xy: 346, 197
   size: 86, 27
   orig: 86, 27
   offset: 0, 0
   index: -1
-val15_sakura_val15_sakura_64_f_4_0.png
-  rotate: false
-  xy: 430, 136
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_f_4_1.png
-  rotate: false
-  xy: 154, 14
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_f_4_10.png
-  rotate: false
-  xy: 252, 161
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_f_4_11.png
-  rotate: false
-  xy: 162, 89
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
 val15_sakura_val15_sakura_64_f_4_12.png
   rotate: false
-  xy: 170, 15
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_f_4_2.png
-  rotate: false
-  xy: 236, 149
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_f_4_3.png
-  rotate: false
-  xy: 246, 73
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_f_4_4.png
-  rotate: false
-  xy: 468, 250
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_f_4_5.png
-  rotate: false
-  xy: 238, 73
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_f_4_6.png
-  rotate: false
-  xy: 460, 244
+  xy: 261, 161
   size: 6, 3
   orig: 6, 3
   offset: 0, 0
   index: -1
 val15_sakura_val15_sakura_64_f_4_7.png
   rotate: false
-  xy: 238, 67
+  xy: 154, 89
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 val15_sakura_val15_sakura_64_f_4_8.png
   rotate: false
-  xy: 443, 219
+  xy: 236, 130
   size: 6, 3
   orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_f_4_9.png
-  rotate: false
-  xy: 154, 89
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_0.png
-  rotate: false
-  xy: 154, 5
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_1.png
-  rotate: false
-  xy: 236, 154
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_10.png
-  rotate: false
-  xy: 162, 84
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_11.png
-  rotate: false
-  xy: 154, 8
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_12.png
-  rotate: false
-  xy: 435, 207
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_2.png
-  rotate: false
-  xy: 162, 9
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_3.png
-  rotate: false
-  xy: 435, 212
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_4.png
-  rotate: false
-  xy: 244, 155
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_5.png
-  rotate: false
-  xy: 435, 218
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_6.png
-  rotate: false
-  xy: 238, 62
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_7.png
-  rotate: false
-  xy: 154, 83
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_8.png
-  rotate: false
-  xy: 246, 68
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-val15_sakura_val15_sakura_64_g_4_9.png
-  rotate: false
-  xy: 460, 249
-  size: 6, 4
-  orig: 6, 4
   offset: 0, 0
   index: -1
 val15_sakura_val15_sakura_64_sd_4_0.png
@@ -321,7 +111,7 @@ val15_sakura_val15_sakura_64_sd_4_0.png
   index: -1
 val15_sakura_val15_sakura_icon_a.png
   rotate: false
-  xy: 435, 224
+  xy: 236, 135
   size: 23, 29
   orig: 23, 29
   offset: 0, 0

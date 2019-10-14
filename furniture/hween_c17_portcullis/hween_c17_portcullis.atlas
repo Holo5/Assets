@@ -11,41 +11,6 @@ hween_c17_portcullis_hween_c17_portcullis_64_a_0_0.png
   orig: 49, 108
   offset: 0, 0
   index: -1
-hween_c17_portcullis_hween_c17_portcullis_64_b_0_0.png
-  rotate: false
-  xy: 177, 31
-  size: 15, 24
-  orig: 15, 24
-  offset: 0, 0
-  index: -1
-hween_c17_portcullis_hween_c17_portcullis_64_b_0_1.png
-  rotate: false
-  xy: 160, 30
-  size: 15, 30
-  orig: 15, 30
-  offset: 0, 0
-  index: -1
-hween_c17_portcullis_hween_c17_portcullis_64_b_0_2.png
-  rotate: false
-  xy: 200, 152
-  size: 15, 36
-  orig: 15, 36
-  offset: 0, 0
-  index: -1
-hween_c17_portcullis_hween_c17_portcullis_64_b_0_3.png
-  rotate: false
-  xy: 143, 75
-  size: 15, 42
-  orig: 15, 42
-  offset: 0, 0
-  index: -1
-hween_c17_portcullis_hween_c17_portcullis_64_b_0_4.png
-  rotate: false
-  xy: 166, 124
-  size: 15, 48
-  orig: 15, 48
-  offset: 0, 0
-  index: -1
 hween_c17_portcullis_hween_c17_portcullis_64_c_0_0.png
   rotate: false
   xy: 73, 160
@@ -90,14 +55,14 @@ hween_c17_portcullis_hween_c17_portcullis_64_c_0_5.png
   index: -1
 hween_c17_portcullis_hween_c17_portcullis_64_c_0_6.png
   rotate: false
-  xy: 160, 62
+  xy: 190, 160
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hween_c17_portcullis_hween_c17_portcullis_64_c_0_7.png
   rotate: false
-  xy: 217, 158
+  xy: 219, 158
   size: 25, 20
   orig: 25, 20
   offset: 0, 0
@@ -139,21 +104,21 @@ hween_c17_portcullis_hween_c17_portcullis_64_d_0_4.png
   index: -1
 hween_c17_portcullis_hween_c17_portcullis_64_d_0_5.png
   rotate: false
-  xy: 125, 74
+  xy: 166, 129
   size: 16, 43
   orig: 16, 43
   offset: 0, 0
   index: -1
 hween_c17_portcullis_hween_c17_portcullis_64_d_0_6.png
   rotate: false
-  xy: 189, 57
+  xy: 211, 123
   size: 16, 33
   orig: 16, 33
   offset: 0, 0
   index: -1
 hween_c17_portcullis_hween_c17_portcullis_64_d_0_7.png
   rotate: false
-  xy: 125, 47
+  xy: 125, 48
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
@@ -181,28 +146,28 @@ hween_c17_portcullis_hween_c17_portcullis_64_g_0_0.png
   index: -1
 hween_c17_portcullis_hween_c17_portcullis_64_g_0_1.png
   rotate: false
-  xy: 183, 130
+  xy: 125, 75
   size: 15, 42
   orig: 15, 42
   offset: 0, 0
   index: -1
 hween_c17_portcullis_hween_c17_portcullis_64_g_0_2.png
   rotate: false
-  xy: 187, 92
+  xy: 142, 81
   size: 15, 36
   orig: 15, 36
   offset: 0, 0
   index: -1
 hween_c17_portcullis_hween_c17_portcullis_64_g_0_3.png
   rotate: false
-  xy: 143, 43
+  xy: 229, 126
   size: 15, 30
   orig: 15, 30
   offset: 0, 0
   index: -1
 hween_c17_portcullis_hween_c17_portcullis_64_g_0_4.png
   rotate: false
-  xy: 89, 19
+  xy: 143, 55
   size: 15, 24
   orig: 15, 24
   offset: 0, 0
@@ -216,7 +181,7 @@ hween_c17_portcullis_hween_c17_portcullis_64_sd_0_0.png
   index: -1
 hween_c17_portcullis_hween_c17_portcullis_icon_a.png
   rotate: false
-  xy: 160, 92
+  xy: 184, 128
   size: 25, 30
   orig: 25, 30
   offset: 0, 0

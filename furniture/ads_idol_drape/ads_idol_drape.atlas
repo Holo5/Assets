@@ -4,6 +4,13 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+ads_idol_drape_ads_idol_drape_32_c_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
 ads_idol_drape_ads_idol_drape_64_a_0_0.png
   rotate: false
   xy: 259, 28
@@ -30,13 +37,6 @@ ads_idol_drape_ads_idol_drape_64_c_0_0.png
   xy: 167, 10
   size: 32, 100
   orig: 32, 100
-  offset: 0, 0
-  index: -1
-ads_idol_drape_ads_idol_drape_64_c_0_1.png
-  rotate: false
-  xy: 2, 2
-  size: 2, 1
-  orig: 2, 1
   offset: 0, 0
   index: -1
 ads_idol_drape_ads_idol_drape_64_d_0_0.png

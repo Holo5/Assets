@@ -4,6 +4,13 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+xmas13_toyhorse_xmas13_toyhorse_32_a_0_2.png
+  rotate: false
+  xy: 177, 8
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
 xmas13_toyhorse_xmas13_toyhorse_64_a_0_0.png
   rotate: false
   xy: 2, 2
@@ -30,12 +37,5 @@ xmas13_toyhorse_xmas13_toyhorse_64_sd_0_0.png
   xy: 177, 37
   size: 42, 21
   orig: 42, 21
-  offset: 0, 0
-  index: -1
-xmas13_toyhorse_xmas13_toyhorse_icon_a.png
-  rotate: false
-  xy: 177, 8
-  size: 28, 27
-  orig: 28, 27
   offset: 0, 0
   index: -1

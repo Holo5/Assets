@@ -1,145 +1,131 @@
 
 bling_pool.png
-size: 1024,256
+size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+bling_pool_bling_pool_32_i_0_0.png
+  rotate: false
+  xy: 186, 52
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 bling_pool_bling_pool_64_a_0_0.png
   rotate: false
-  xy: 596, 155
+  xy: 217, 80
   size: 154, 84
   orig: 154, 84
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_a_4_0.png
   rotate: false
-  xy: 432, 151
+  xy: 217, 166
   size: 162, 88
   orig: 162, 88
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_b_0_0.png
   rotate: false
-  xy: 2, 5
+  xy: 381, 191
   size: 122, 63
   orig: 122, 63
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_b_4_0.png
   rotate: false
-  xy: 432, 88
+  xy: 2, 22
   size: 122, 61
   orig: 122, 61
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_c_0_0.png
   rotate: false
-  xy: 180, 5
+  xy: 373, 92
   size: 46, 31
   orig: 46, 31
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_c_4_0.png
   rotate: false
-  xy: 596, 152
+  xy: 207, 82
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_d_0_0.png
   rotate: false
-  xy: 282, 42
+  xy: 421, 99
   size: 43, 26
   orig: 43, 26
   offset: 0, 0
   index: -1
-bling_pool_bling_pool_64_d_4_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bling_pool_bling_pool_64_e_0_0.png
   rotate: false
-  xy: 752, 211
+  xy: 126, 55
   size: 79, 28
   orig: 79, 28
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_e_4_0.png
   rotate: false
-  xy: 126, 6
+  xy: 435, 159
   size: 52, 30
   orig: 52, 30
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_f_0_0.png
   rotate: false
-  xy: 752, 179
+  xy: 381, 159
   size: 52, 30
   orig: 52, 30
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_f_4_0.png
   rotate: false
-  xy: 186, 38
+  xy: 421, 127
   size: 46, 30
   orig: 46, 30
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_g_0_0.png
   rotate: false
-  xy: 126, 38
+  xy: 126, 23
   size: 58, 30
   orig: 58, 30
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_g_4_0.png
   rotate: false
-  xy: 234, 36
+  xy: 373, 125
   size: 46, 32
   orig: 46, 32
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_h_0_0.png
   rotate: false
-  xy: 833, 221
+  xy: 2, 2
   size: 56, 18
   orig: 56, 18
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_64_h_4_0.png
   rotate: false
-  xy: 327, 44
+  xy: 469, 133
   size: 41, 24
   orig: 41, 24
   offset: 0, 0
   index: -1
-bling_pool_bling_pool_64_i_0_0.png
-  rotate: false
-  xy: 432, 85
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-bling_pool_bling_pool_64_i_0_1.png
-  rotate: false
-  xy: 217, 70
-  size: 213, 169
-  orig: 213, 169
-  offset: 0, 0
-  index: -1
 bling_pool_bling_pool_64_i_4_1.png
   rotate: false
-  xy: 2, 70
+  xy: 2, 85
   size: 213, 169
   orig: 213, 169
   offset: 0, 0
   index: -1
 bling_pool_bling_pool_icon_a.png
   rotate: false
-  xy: 556, 131
+  xy: 60, 2
   size: 30, 18
   orig: 30, 18
   offset: 0, 0

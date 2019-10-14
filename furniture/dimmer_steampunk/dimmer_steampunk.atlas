@@ -4,6 +4,13 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+dimmer_steampunk_dimmer_steampunk_32_b_2_0.png
+  rotate: false
+  xy: 69, 29
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 dimmer_steampunk_dimmer_steampunk_64_a_2_0.png
   rotate: false
   xy: 36, 23
@@ -16,13 +23,6 @@ dimmer_steampunk_dimmer_steampunk_64_a_2_1.png
   xy: 2, 23
   size: 32, 39
   orig: 32, 39
-  offset: 0, 0
-  index: -1
-dimmer_steampunk_dimmer_steampunk_64_b_2_0.png
-  rotate: false
-  xy: 69, 29
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 dimmer_steampunk_dimmer_steampunk_64_b_2_1.png

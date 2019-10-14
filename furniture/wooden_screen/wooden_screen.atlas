@@ -20,7 +20,7 @@ wooden_screen_wooden_screen_64_b_0_0.png
   index: -1
 wooden_screen_wooden_screen_64_c_0_0.png
   rotate: false
-  xy: 224, 101
+  xy: 198, 101
   size: 23, 25
   orig: 23, 25
   offset: 0, 0
@@ -30,13 +30,6 @@ wooden_screen_wooden_screen_64_d_0_0.png
   xy: 113, 56
   size: 23, 23
   orig: 23, 23
-  offset: 0, 0
-  index: -1
-wooden_screen_wooden_screen_64_e_0_0.png
-  rotate: false
-  xy: 198, 37
-  size: 24, 89
-  orig: 24, 89
   offset: 0, 0
   index: -1
 wooden_screen_wooden_screen_64_f_0_0.png

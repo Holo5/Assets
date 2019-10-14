@@ -6,114 +6,107 @@ filter: Nearest,Nearest
 repeat: none
 coralking_c18_seabg_coralking_c18_seabg_64_a_2_0.png
   rotate: false
-  xy: 1051, 63
+  xy: 985, 63
   size: 64, 181
   orig: 64, 181
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_a_2_1.png
   rotate: false
-  xy: 985, 63
+  xy: 919, 63
   size: 64, 181
   orig: 64, 181
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_a_2_2.png
   rotate: false
-  xy: 919, 63
+  xy: 853, 63
   size: 64, 181
   orig: 64, 181
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_0.png
   rotate: false
-  xy: 1381, 136
+  xy: 1315, 136
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_1.png
   rotate: false
-  xy: 1183, 136
+  xy: 1117, 136
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_10.png
   rotate: false
-  xy: 1843, 136
+  xy: 1777, 136
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_11.png
   rotate: false
-  xy: 1777, 136
+  xy: 1711, 136
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_2.png
   rotate: false
-  xy: 1117, 136
+  xy: 1051, 136
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_3.png
   rotate: false
-  xy: 1315, 136
+  xy: 1249, 136
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_4.png
   rotate: false
-  xy: 1249, 136
+  xy: 1183, 136
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_5.png
   rotate: false
-  xy: 1579, 136
+  xy: 1513, 136
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_6.png
   rotate: false
-  xy: 1513, 136
+  xy: 1447, 136
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_7.png
   rotate: false
-  xy: 1711, 136
+  xy: 1645, 136
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_8.png
   rotate: false
-  xy: 1645, 136
+  xy: 1579, 136
   size: 64, 108
   orig: 64, 108
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_b_2_9.png
   rotate: false
-  xy: 1447, 136
+  xy: 1381, 136
   size: 64, 108
   orig: 64, 108
-  offset: 0, 0
-  index: -1
-coralking_c18_seabg_coralking_c18_seabg_64_c_2_0.png
-  rotate: false
-  xy: 298, 52
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_c_2_1.png
@@ -137,23 +130,9 @@ coralking_c18_seabg_coralking_c18_seabg_64_c_2_3.png
   orig: 72, 189
   offset: 0, 0
   index: -1
-coralking_c18_seabg_coralking_c18_seabg_64_d_2_0.png
-  rotate: false
-  xy: 919, 60
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-coralking_c18_seabg_coralking_c18_seabg_64_d_2_1.png
-  rotate: false
-  xy: 586, 55
-  size: 64, 189
-  orig: 64, 189
-  offset: 0, 0
-  index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_d_2_2.png
   rotate: false
-  xy: 652, 55
+  xy: 586, 55
   size: 64, 189
   orig: 64, 189
   offset: 0, 0
@@ -186,39 +165,25 @@ coralking_c18_seabg_coralking_c18_seabg_64_e_2_2.png
   orig: 69, 208
   offset: 0, 0
   index: -1
-coralking_c18_seabg_coralking_c18_seabg_64_f_2_0.png
-  rotate: false
-  xy: 1117, 133
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_f_2_1.png
   rotate: false
-  xy: 785, 58
+  xy: 719, 58
   size: 65, 186
   orig: 65, 186
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_f_2_2.png
   rotate: false
-  xy: 852, 58
+  xy: 786, 58
   size: 65, 186
   orig: 65, 186
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_f_2_3.png
   rotate: false
-  xy: 718, 58
+  xy: 652, 58
   size: 65, 186
   orig: 65, 186
-  offset: 0, 0
-  index: -1
-coralking_c18_seabg_coralking_c18_seabg_64_g_2_0.png
-  rotate: false
-  xy: 718, 55
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 coralking_c18_seabg_coralking_c18_seabg_64_g_2_1.png

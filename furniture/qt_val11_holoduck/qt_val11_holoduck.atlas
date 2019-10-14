@@ -4,6 +4,20 @@ size: 64,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+qt_val11_holoduck_qt_val11_holoduck_32_b_0_0.png
+  rotate: false
+  xy: 26, 50
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+qt_val11_holoduck_qt_val11_holoduck_32_b_0_0.png
+  rotate: false
+  xy: 38, 186
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 qt_val11_holoduck_qt_val11_holoduck_64_a_0_0.png
   rotate: false
   xy: 2, 103
@@ -16,13 +30,6 @@ qt_val11_holoduck_qt_val11_holoduck_64_a_0_1.png
   xy: 2, 137
   size: 40, 32
   orig: 40, 32
-  offset: 0, 0
-  index: -1
-qt_val11_holoduck_qt_val11_holoduck_64_b_0_0.png
-  rotate: false
-  xy: 26, 50
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 qt_val11_holoduck_qt_val11_holoduck_64_b_0_1.png
@@ -79,13 +86,6 @@ qt_val11_holoduck_qt_val11_holoduck_64_b_0_8.png
   xy: 44, 163
   size: 18, 24
   orig: 18, 24
-  offset: 0, 0
-  index: -1
-qt_val11_holoduck_qt_val11_holoduck_64_c_0_0.png
-  rotate: false
-  xy: 38, 186
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 qt_val11_holoduck_qt_val11_holoduck_64_c_0_1.png

@@ -4,6 +4,13 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+uni_floppy_uni_floppy_32_a_4_0.png
+  rotate: false
+  xy: 230, 28
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
 uni_floppy_uni_floppy_64_a_2_0.png
   rotate: false
   xy: 154, 2
@@ -44,12 +51,5 @@ uni_floppy_uni_floppy_64_a_4_2.png
   xy: 78, 2
   size: 36, 54
   orig: 36, 54
-  offset: 0, 0
-  index: -1
-uni_floppy_uni_floppy_icon_a.png
-  rotate: false
-  xy: 230, 28
-  size: 19, 28
-  orig: 19, 28
   offset: 0, 0
   index: -1

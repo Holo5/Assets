@@ -4,6 +4,13 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+vikings_spike_vikings_spike_32_c_4_14.png
+  rotate: false
+  xy: 248, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 vikings_spike_vikings_spike_64_a_4_0.png
   rotate: false
   xy: 2, 34
@@ -72,13 +79,6 @@ vikings_spike_vikings_spike_64_c_4_13.png
   xy: 179, 29
   size: 26, 15
   orig: 26, 15
-  offset: 0, 0
-  index: -1
-vikings_spike_vikings_spike_64_c_4_14.png
-  rotate: false
-  xy: 248, 125
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 vikings_spike_vikings_spike_64_c_4_2.png

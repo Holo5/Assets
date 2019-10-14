@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 icedblk_c16_sofachair_icedblk_c16_sofachair_64_a_2_0.png
   rotate: false
-  xy: 183, 113
+  xy: 115, 74
   size: 20, 13
   orig: 20, 13
   offset: 0, 0
   index: -1
 icedblk_c16_sofachair_icedblk_c16_sofachair_64_a_6_0.png
   rotate: false
-  xy: 138, 92
+  xy: 70, 53
   size: 43, 34
   orig: 43, 34
   offset: 0, 0
@@ -34,14 +34,14 @@ icedblk_c16_sofachair_icedblk_c16_sofachair_64_b_6_0.png
   index: -1
 icedblk_c16_sofachair_icedblk_c16_sofachair_64_c_2_0.png
   rotate: false
-  xy: 113, 34
+  xy: 181, 112
   size: 1, 14
   orig: 1, 14
   offset: 0, 0
   index: -1
 icedblk_c16_sofachair_icedblk_c16_sofachair_64_c_6_0.png
   rotate: false
-  xy: 70, 18
+  xy: 138, 96
   size: 41, 30
   orig: 41, 30
   offset: 0, 0
@@ -49,13 +49,6 @@ icedblk_c16_sofachair_icedblk_c16_sofachair_64_c_6_0.png
 icedblk_c16_sofachair_icedblk_c16_sofachair_64_sd_0_0.png
   rotate: false
   xy: 70, 89
-  size: 66, 37
-  orig: 66, 37
-  offset: 0, 0
-  index: -1
-icedblk_c16_sofachair_icedblk_c16_sofachair_64_sd_2_0.png
-  rotate: false
-  xy: 70, 50
   size: 66, 37
   orig: 66, 37
   offset: 0, 0
@@ -69,7 +62,7 @@ icedblk_c16_sofachair_icedblk_c16_sofachair_icon_a.png
   index: -1
 icedblk_c16_sofachair_icedblk_c16_sofachair_icon_b.png
   rotate: false
-  xy: 138, 60
+  xy: 70, 21
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

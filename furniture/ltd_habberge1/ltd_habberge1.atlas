@@ -4,6 +4,20 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+ltd_habberge1_ltd_habberge1_32_c_0_0.png
+  rotate: false
+  xy: 163, 75
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ltd_habberge1_ltd_habberge1_32_c_0_0.png
+  rotate: false
+  xy: 101, 32
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ltd_habberge1_ltd_habberge1_64_a_0_0.png
   rotate: false
   xy: 59, 46
@@ -18,91 +32,14 @@ ltd_habberge1_ltd_habberge1_64_a_0_1.png
   orig: 55, 107
   offset: 0, 0
   index: -1
-ltd_habberge1_ltd_habberge1_64_b_0_0.png
-  rotate: false
-  xy: 48, 3
-  size: 3, 3
-  orig: 3, 3
-  offset: 0, 0
-  index: -1
-ltd_habberge1_ltd_habberge1_64_b_0_1.png
-  rotate: false
-  xy: 190, 63
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
-ltd_habberge1_ltd_habberge1_64_b_0_10.png
-  rotate: false
-  xy: 70, 11
-  size: 9, 9
-  orig: 9, 9
-  offset: 0, 0
-  index: -1
-ltd_habberge1_ltd_habberge1_64_b_0_11.png
-  rotate: false
-  xy: 190, 70
-  size: 9, 9
-  orig: 9, 9
-  offset: 0, 0
-  index: -1
-ltd_habberge1_ltd_habberge1_64_b_0_12.png
-  rotate: false
-  xy: 59, 11
-  size: 9, 9
-  orig: 9, 9
-  offset: 0, 0
-  index: -1
-ltd_habberge1_ltd_habberge1_64_b_0_13.png
-  rotate: false
-  xy: 190, 81
-  size: 9, 9
-  orig: 9, 9
-  offset: 0, 0
-  index: -1
-ltd_habberge1_ltd_habberge1_64_b_0_14.png
-  rotate: false
-  xy: 201, 78
-  size: 3, 3
-  orig: 3, 3
-  offset: 0, 0
-  index: -1
-ltd_habberge1_ltd_habberge1_64_b_0_15.png
-  rotate: false
-  xy: 81, 15
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
-ltd_habberge1_ltd_habberge1_64_b_0_16.png
-  rotate: false
-  xy: 77, 2
-  size: 7, 7
-  orig: 7, 7
-  offset: 0, 0
-  index: -1
 ltd_habberge1_ltd_habberge1_64_b_0_17.png
   rotate: false
-  xy: 127, 52
+  xy: 116, 52
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 ltd_habberge1_ltd_habberge1_64_b_0_18.png
-  rotate: false
-  xy: 201, 83
-  size: 7, 7
-  orig: 7, 7
-  offset: 0, 0
-  index: -1
-ltd_habberge1_ltd_habberge1_64_b_0_19.png
-  rotate: false
-  xy: 116, 47
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-ltd_habberge1_ltd_habberge1_64_b_0_2.png
   rotate: false
   xy: 68, 2
   size: 7, 7
@@ -111,14 +48,14 @@ ltd_habberge1_ltd_habberge1_64_b_0_2.png
   index: -1
 ltd_habberge1_ltd_habberge1_64_b_0_3.png
   rotate: false
-  xy: 116, 50
+  xy: 101, 35
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
 ltd_habberge1_ltd_habberge1_64_b_0_4.png
   rotate: false
-  xy: 101, 24
+  xy: 190, 99
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
@@ -132,7 +69,7 @@ ltd_habberge1_ltd_habberge1_64_b_0_5.png
   index: -1
 ltd_habberge1_ltd_habberge1_64_b_0_6.png
   rotate: false
-  xy: 101, 35
+  xy: 59, 11
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
@@ -179,13 +116,6 @@ ltd_habberge1_ltd_habberge1_64_c_0_2.png
   orig: 46, 16
   offset: 0, 0
   index: -1
-ltd_habberge1_ltd_habberge1_64_c_0_3.png
-  rotate: false
-  xy: 163, 92
-  size: 45, 16
-  orig: 45, 16
-  offset: 0, 0
-  index: -1
 ltd_habberge1_ltd_habberge1_64_c_0_4.png
   rotate: false
   xy: 116, 74
@@ -214,13 +144,6 @@ ltd_habberge1_ltd_habberge1_64_c_0_7.png
   orig: 35, 10
   offset: 0, 0
   index: -1
-ltd_habberge1_ltd_habberge1_64_c_0_8.png
-  rotate: false
-  xy: 112, 43
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 ltd_habberge1_ltd_habberge1_64_sd_0_0.png
   rotate: false
   xy: 59, 22
@@ -230,7 +153,7 @@ ltd_habberge1_ltd_habberge1_64_sd_0_0.png
   index: -1
 ltd_habberge1_ltd_habberge1_icon_a.png
   rotate: false
-  xy: 163, 60
+  xy: 163, 78
   size: 25, 30
   orig: 25, 30
   offset: 0, 0

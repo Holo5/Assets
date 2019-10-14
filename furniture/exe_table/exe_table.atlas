@@ -4,6 +4,13 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+exe_table_exe_table_32_g_2_0.png
+  rotate: false
+  xy: 498, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 exe_table_exe_table_64_a_2_0.png
   rotate: false
   xy: 350, 96
@@ -67,13 +74,6 @@ exe_table_exe_table_64_f_6_0.png
   orig: 54, 64
   offset: 0, 0
   index: -1
-exe_table_exe_table_64_g_2_0.png
-  rotate: false
-  xy: 498, 125
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 exe_table_exe_table_64_g_2_1.png
   rotate: false
   xy: 350, 64
@@ -86,13 +86,6 @@ exe_table_exe_table_64_g_6_1.png
   xy: 409, 101
   size: 45, 25
   orig: 45, 25
-  offset: 0, 0
-  index: -1
-exe_table_exe_table_64_h_2_0.png
-  rotate: false
-  xy: 451, 73
-  size: 40, 21
-  orig: 40, 21
   offset: 0, 0
   index: -1
 exe_table_exe_table_64_h_2_1.png
@@ -125,21 +118,21 @@ exe_table_exe_table_64_i_2_0.png
   index: -1
 exe_table_exe_table_64_i_2_1.png
   rotate: false
-  xy: 186, 42
+  xy: 451, 76
   size: 39, 18
   orig: 39, 18
   offset: 0, 0
   index: -1
 exe_table_exe_table_64_i_6_1.png
   rotate: false
-  xy: 227, 40
+  xy: 186, 40
   size: 38, 20
   orig: 38, 20
   offset: 0, 0
   index: -1
 exe_table_exe_table_icon_a.png
   rotate: false
-  xy: 267, 37
+  xy: 226, 37
   size: 29, 23
   orig: 29, 23
   offset: 0, 0

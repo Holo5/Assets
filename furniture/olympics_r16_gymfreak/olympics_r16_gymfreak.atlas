@@ -67,16 +67,9 @@ olympics_r16_gymfreak_olympics_r16_gymfreak_64_b_0_0.png
   orig: 1, 1
   offset: 0, 0
   index: -1
-olympics_r16_gymfreak_olympics_r16_gymfreak_64_b_0_1.png
-  rotate: false
-  xy: 14, 7
-  size: 10, 8
-  orig: 10, 8
-  offset: 0, 0
-  index: -1
 olympics_r16_gymfreak_olympics_r16_gymfreak_64_b_0_2.png
   rotate: false
-  xy: 586, 87
+  xy: 405, 12
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
@@ -90,51 +83,9 @@ olympics_r16_gymfreak_olympics_r16_gymfreak_64_b_0_3.png
   index: -1
 olympics_r16_gymfreak_olympics_r16_gymfreak_64_b_0_4.png
   rotate: false
-  xy: 607, 118
+  xy: 405, 2
   size: 10, 8
   orig: 10, 8
-  offset: 0, 0
-  index: -1
-olympics_r16_gymfreak_olympics_r16_gymfreak_64_b_4_0.png
-  rotate: false
-  xy: 5, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-olympics_r16_gymfreak_olympics_r16_gymfreak_64_b_4_1.png
-  rotate: false
-  xy: 598, 95
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-olympics_r16_gymfreak_olympics_r16_gymfreak_64_b_4_2.png
-  rotate: false
-  xy: 586, 84
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-olympics_r16_gymfreak_olympics_r16_gymfreak_64_b_4_3.png
-  rotate: false
-  xy: 11, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-olympics_r16_gymfreak_olympics_r16_gymfreak_64_b_4_4.png
-  rotate: false
-  xy: 8, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-olympics_r16_gymfreak_olympics_r16_gymfreak_64_sd_0_0.png
-  rotate: false
-  xy: 405, 2
-  size: 36, 19
-  orig: 36, 19
   offset: 0, 0
   index: -1
 olympics_r16_gymfreak_olympics_r16_gymfreak_64_sd_4_0.png

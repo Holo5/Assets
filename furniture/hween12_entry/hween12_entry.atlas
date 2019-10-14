@@ -4,6 +4,27 @@ size: 2048,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hween12_entry_hween12_entry_32_c_0_0.png
+  rotate: false
+  xy: 555, 52
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_32_c_0_0.png
+  rotate: false
+  xy: 1304, 165
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_32_c_0_0.png
+  rotate: false
+  xy: 1304, 162
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween12_entry_hween12_entry_64_a_0_0.png
   rotate: false
   xy: 499, 50
@@ -11,74 +32,53 @@ hween12_entry_hween12_entry_64_a_0_0.png
   orig: 54, 204
   offset: 0, 0
   index: -1
-hween12_entry_hween12_entry_64_b_0_0.png
-  rotate: false
-  xy: 555, 52
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween12_entry_hween12_entry_64_b_0_1.png
-  rotate: false
-  xy: 1179, 101
-  size: 46, 153
-  orig: 46, 153
-  offset: 0, 0
-  index: -1
-hween12_entry_hween12_entry_64_b_0_2.png
   rotate: false
   xy: 1131, 101
   size: 46, 153
   orig: 46, 153
   offset: 0, 0
   index: -1
-hween12_entry_hween12_entry_64_b_0_3.png
-  rotate: false
-  xy: 1275, 101
-  size: 46, 153
-  orig: 46, 153
-  offset: 0, 0
-  index: -1
-hween12_entry_hween12_entry_64_b_0_4.png
-  rotate: false
-  xy: 1227, 101
-  size: 46, 153
-  orig: 46, 153
-  offset: 0, 0
-  index: -1
-hween12_entry_hween12_entry_64_b_0_5.png
-  rotate: false
-  xy: 1035, 101
-  size: 46, 153
-  orig: 46, 153
-  offset: 0, 0
-  index: -1
-hween12_entry_hween12_entry_64_b_0_6.png
+hween12_entry_hween12_entry_64_b_0_2.png
   rotate: false
   xy: 1083, 101
   size: 46, 153
   orig: 46, 153
   offset: 0, 0
   index: -1
-hween12_entry_hween12_entry_64_b_0_7.png
+hween12_entry_hween12_entry_64_b_0_3.png
+  rotate: false
+  xy: 1227, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_b_0_4.png
+  rotate: false
+  xy: 1179, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_b_0_5.png
   rotate: false
   xy: 987, 101
   size: 46, 153
   orig: 46, 153
   offset: 0, 0
   index: -1
-hween12_entry_hween12_entry_64_b_0_8.png
+hween12_entry_hween12_entry_64_b_0_6.png
   rotate: false
-  xy: 699, 101
+  xy: 1035, 101
   size: 46, 153
   orig: 46, 153
   offset: 0, 0
   index: -1
-hween12_entry_hween12_entry_64_c_0_0.png
+hween12_entry_hween12_entry_64_b_0_7.png
   rotate: false
-  xy: 156, 53
-  size: 1, 1
-  orig: 1, 1
+  xy: 939, 101
+  size: 46, 153
+  orig: 46, 153
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_c_0_1.png
@@ -111,35 +111,35 @@ hween12_entry_hween12_entry_64_e_0_0.png
   index: -1
 hween12_entry_hween12_entry_64_e_0_1.png
   rotate: false
-  xy: 939, 101
+  xy: 891, 101
   size: 46, 153
   orig: 46, 153
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_e_0_2.png
   rotate: false
-  xy: 747, 101
+  xy: 699, 101
   size: 46, 153
   orig: 46, 153
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_e_0_3.png
   rotate: false
-  xy: 795, 101
+  xy: 747, 101
   size: 46, 153
   orig: 46, 153
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_e_0_4.png
   rotate: false
-  xy: 843, 101
+  xy: 795, 101
   size: 46, 153
   orig: 46, 153
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_e_0_5.png
   rotate: false
-  xy: 891, 101
+  xy: 843, 101
   size: 46, 153
   orig: 46, 153
   offset: 0, 0
@@ -165,13 +165,6 @@ hween12_entry_hween12_entry_64_e_0_8.png
   orig: 46, 153
   offset: 0, 0
   index: -1
-hween12_entry_hween12_entry_64_f_0_0.png
-  rotate: false
-  xy: 1352, 165
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween12_entry_hween12_entry_64_f_0_1.png
   rotate: false
   xy: 226, 80
@@ -186,13 +179,6 @@ hween12_entry_hween12_entry_64_f_0_2.png
   orig: 113, 174
   offset: 0, 0
   index: -1
-hween12_entry_hween12_entry_64_g_0_0.png
-  rotate: false
-  xy: 1352, 162
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween12_entry_hween12_entry_64_g_0_1.png
   rotate: false
   xy: 118, 22
@@ -202,21 +188,21 @@ hween12_entry_hween12_entry_64_g_0_1.png
   index: -1
 hween12_entry_hween12_entry_64_g_0_10.png
   rotate: false
-  xy: 1568, 229
+  xy: 1493, 229
   size: 20, 25
   orig: 20, 25
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_g_0_11.png
   rotate: false
-  xy: 1390, 179
+  xy: 1342, 179
   size: 25, 30
   orig: 25, 30
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_g_0_12.png
   rotate: false
-  xy: 1419, 218
+  xy: 1371, 218
   size: 30, 36
   orig: 30, 36
   offset: 0, 0
@@ -230,14 +216,14 @@ hween12_entry_hween12_entry_64_g_0_13.png
   index: -1
 hween12_entry_hween12_entry_64_g_0_14.png
   rotate: false
-  xy: 1364, 212
+  xy: 1316, 212
   size: 26, 42
   orig: 26, 42
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_g_0_15.png
   rotate: false
-  xy: 1363, 165
+  xy: 1315, 165
   size: 25, 45
   orig: 25, 45
   offset: 0, 0
@@ -279,7 +265,7 @@ hween12_entry_hween12_entry_64_g_0_2.png
   index: -1
 hween12_entry_hween12_entry_64_g_0_20.png
   rotate: false
-  xy: 1323, 104
+  xy: 1275, 104
   size: 22, 12
   orig: 22, 12
   offset: 0, 0
@@ -291,30 +277,23 @@ hween12_entry_hween12_entry_64_g_0_21.png
   orig: 15, 10
   offset: 0, 0
   index: -1
-hween12_entry_hween12_entry_64_g_0_22.png
-  rotate: false
-  xy: 1612, 229
-  size: 20, 25
-  orig: 20, 25
-  offset: 0, 0
-  index: -1
 hween12_entry_hween12_entry_64_g_0_23.png
   rotate: false
-  xy: 1541, 225
+  xy: 1466, 225
   size: 25, 29
   orig: 25, 29
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_g_0_24.png
   rotate: false
-  xy: 1323, 168
+  xy: 1275, 168
   size: 38, 42
   orig: 38, 42
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_g_0_25.png
   rotate: false
-  xy: 1323, 212
+  xy: 1275, 212
   size: 39, 42
   orig: 39, 42
   offset: 0, 0
@@ -326,37 +305,30 @@ hween12_entry_hween12_entry_64_g_0_26.png
   orig: 38, 42
   offset: 0, 0
   index: -1
-hween12_entry_hween12_entry_64_g_0_27.png
-  rotate: false
-  xy: 1514, 224
-  size: 25, 30
-  orig: 25, 30
-  offset: 0, 0
-  index: -1
 hween12_entry_hween12_entry_64_g_0_28.png
   rotate: false
-  xy: 1590, 229
+  xy: 1515, 229
   size: 20, 25
   orig: 20, 25
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_g_0_3.png
   rotate: false
-  xy: 1323, 118
+  xy: 1275, 118
   size: 27, 48
   orig: 27, 48
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_g_0_4.png
   rotate: false
-  xy: 1392, 211
+  xy: 1344, 211
   size: 25, 43
   orig: 25, 43
   offset: 0, 0
   index: -1
 hween12_entry_hween12_entry_64_g_0_5.png
   rotate: false
-  xy: 1451, 218
+  xy: 1403, 218
   size: 30, 36
   orig: 30, 36
   offset: 0, 0
@@ -398,7 +370,7 @@ hween12_entry_hween12_entry_64_sd_0_0.png
   index: -1
 hween12_entry_hween12_entry_icon_a.png
   rotate: false
-  xy: 1483, 226
+  xy: 1435, 226
   size: 29, 28
   orig: 29, 28
   offset: 0, 0

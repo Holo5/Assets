@@ -67,13 +67,6 @@ bc_hemisphere_bc_hemisphere_64_c_0_0.png
   orig: 12, 9
   offset: 0, 0
   index: -1
-bc_hemisphere_bc_hemisphere_64_c_0_1.png
-  rotate: false
-  xy: 370, 45
-  size: 12, 9
-  orig: 12, 9
-  offset: 0, 0
-  index: -1
 bc_hemisphere_bc_hemisphere_64_c_0_2.png
   rotate: false
   xy: 2, 2
@@ -81,16 +74,9 @@ bc_hemisphere_bc_hemisphere_64_c_0_2.png
   orig: 38, 10
   offset: 0, 0
   index: -1
-bc_hemisphere_bc_hemisphere_64_c_0_3.png
-  rotate: false
-  xy: 330, 44
-  size: 38, 10
-  orig: 38, 10
-  offset: 0, 0
-  index: -1
 bc_hemisphere_bc_hemisphere_icon_a.png
   rotate: false
-  xy: 330, 23
+  xy: 330, 35
   size: 24, 19
   orig: 24, 19
   offset: 0, 0

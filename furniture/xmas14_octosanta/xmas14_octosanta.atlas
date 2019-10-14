@@ -1,411 +1,306 @@
 
 xmas14_octosanta.png
-size: 4096,256
+size: 4096,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 xmas14_octosanta_xmas14_octosanta_64_a_0_0.png
   rotate: false
-  xy: 816, 39
+  xy: 953, 17
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_1.png
   rotate: false
-  xy: 1491, 43
+  xy: 1763, 19
   size: 133, 101
   orig: 133, 101
   offset: 0, 0
   index: -1
-xmas14_octosanta_xmas14_octosanta_64_a_0_10.png
-  rotate: false
-  xy: 681, 144
-  size: 133, 103
-  orig: 133, 103
-  offset: 0, 0
-  index: -1
-xmas14_octosanta_xmas14_octosanta_64_a_0_11.png
-  rotate: false
-  xy: 275, 39
-  size: 134, 103
-  orig: 134, 103
-  offset: 0, 0
-  index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_12.png
   rotate: false
-  xy: 2, 39
+  xy: 139, 17
   size: 135, 103
   orig: 135, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_13.png
   rotate: false
-  xy: 275, 144
+  xy: 412, 17
   size: 134, 103
   orig: 134, 103
   offset: 0, 0
   index: -1
-xmas14_octosanta_xmas14_octosanta_64_a_0_14.png
-  rotate: false
-  xy: 546, 39
-  size: 133, 103
-  orig: 133, 103
-  offset: 0, 0
-  index: -1
-xmas14_octosanta_xmas14_octosanta_64_a_0_15.png
-  rotate: false
-  xy: 2813, 144
-  size: 129, 103
-  orig: 129, 103
-  offset: 0, 0
-  index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_16.png
   rotate: false
-  xy: 3328, 144
+  xy: 3477, 17
   size: 126, 103
   orig: 126, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_17.png
   rotate: false
-  xy: 2682, 144
+  xy: 2962, 17
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
-xmas14_octosanta_xmas14_octosanta_64_a_0_18.png
-  rotate: false
-  xy: 411, 39
-  size: 133, 103
-  orig: 133, 103
-  offset: 0, 0
-  index: -1
-xmas14_octosanta_xmas14_octosanta_64_a_0_19.png
-  rotate: false
-  xy: 546, 144
-  size: 133, 103
-  orig: 133, 103
-  offset: 0, 0
-  index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_2.png
   rotate: false
-  xy: 1761, 147
+  xy: 2168, 20
   size: 133, 100
   orig: 133, 100
   offset: 0, 0
   index: -1
-xmas14_octosanta_xmas14_octosanta_64_a_0_20.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_3.png
   rotate: false
-  xy: 1491, 146
+  xy: 1628, 19
   size: 133, 101
   orig: 133, 101
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_4.png
   rotate: false
-  xy: 816, 144
+  xy: 818, 17
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_5.png
   rotate: false
-  xy: 681, 39
+  xy: 683, 17
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_6.png
   rotate: false
-  xy: 411, 144
+  xy: 548, 17
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_7.png
   rotate: false
-  xy: 1896, 144
+  xy: 2438, 17
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_a_0_8.png
   rotate: false
-  xy: 2944, 144
+  xy: 3093, 17
   size: 126, 103
   orig: 126, 103
   offset: 0, 0
   index: -1
-xmas14_octosanta_xmas14_octosanta_64_a_0_9.png
-  rotate: false
-  xy: 2027, 144
-  size: 129, 103
-  orig: 129, 103
-  offset: 0, 0
-  index: -1
 xmas14_octosanta_xmas14_octosanta_64_b_0_0.png
   rotate: false
-  xy: 3499, 215
+  xy: 3809, 54
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_b_0_1.png
   rotate: false
-  xy: 3456, 215
+  xy: 3723, 54
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_b_0_2.png
   rotate: false
-  xy: 2014, 110
+  xy: 3766, 88
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_b_0_3.png
   rotate: false
-  xy: 45, 5
+  xy: 3766, 54
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_b_0_4.png
   rotate: false
-  xy: 3456, 181
+  xy: 3809, 88
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_b_0_5.png
   rotate: false
-  xy: 2, 5
+  xy: 3723, 88
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_0.png
   rotate: false
-  xy: 1356, 39
+  xy: 1493, 17
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_1.png
   rotate: false
-  xy: 1626, 146
+  xy: 1898, 19
   size: 133, 101
   orig: 133, 101
   offset: 0, 0
   index: -1
-xmas14_octosanta_xmas14_octosanta_64_c_0_10.png
-  rotate: false
-  xy: 1086, 144
-  size: 133, 103
-  orig: 133, 103
-  offset: 0, 0
-  index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_11.png
   rotate: false
-  xy: 139, 144
+  xy: 276, 17
   size: 134, 103
   orig: 134, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_12.png
   rotate: false
-  xy: 2, 144
+  xy: 2, 17
   size: 135, 103
   orig: 135, 103
   offset: 0, 0
   index: -1
-xmas14_octosanta_xmas14_octosanta_64_c_0_13.png
-  rotate: false
-  xy: 139, 39
-  size: 134, 103
-  orig: 134, 103
-  offset: 0, 0
-  index: -1
-xmas14_octosanta_xmas14_octosanta_64_c_0_14.png
-  rotate: false
-  xy: 1086, 39
-  size: 133, 103
-  orig: 133, 103
-  offset: 0, 0
-  index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_15.png
   rotate: false
-  xy: 2158, 144
+  xy: 2569, 17
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_16.png
   rotate: false
-  xy: 3072, 144
+  xy: 3221, 17
   size: 126, 103
   orig: 126, 103
   offset: 0, 0
   index: -1
-xmas14_octosanta_xmas14_octosanta_64_c_0_17.png
-  rotate: false
-  xy: 2289, 144
-  size: 129, 103
-  orig: 129, 103
-  offset: 0, 0
-  index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_18.png
   rotate: false
-  xy: 951, 144
-  size: 133, 103
-  orig: 133, 103
-  offset: 0, 0
-  index: -1
-xmas14_octosanta_xmas14_octosanta_64_c_0_19.png
-  rotate: false
-  xy: 951, 39
+  xy: 1088, 17
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_2.png
   rotate: false
-  xy: 1761, 45
+  xy: 2303, 20
   size: 133, 100
   orig: 133, 100
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_20.png
   rotate: false
-  xy: 1491, 40
+  xy: 3605, 33
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_3.png
   rotate: false
-  xy: 1626, 43
+  xy: 2033, 19
   size: 133, 101
   orig: 133, 101
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_4.png
   rotate: false
-  xy: 1221, 39
+  xy: 1223, 17
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_5.png
   rotate: false
-  xy: 1356, 144
-  size: 133, 103
-  orig: 133, 103
-  offset: 0, 0
-  index: -1
-xmas14_octosanta_xmas14_octosanta_64_c_0_6.png
-  rotate: false
-  xy: 1221, 144
+  xy: 1358, 17
   size: 133, 103
   orig: 133, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_7.png
   rotate: false
-  xy: 2420, 144
+  xy: 2700, 17
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_8.png
   rotate: false
-  xy: 3200, 144
+  xy: 3349, 17
   size: 126, 103
   orig: 126, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_c_0_9.png
   rotate: false
-  xy: 2551, 144
+  xy: 2831, 17
   size: 129, 103
   orig: 129, 103
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_d_0_0.png
   rotate: false
-  xy: 3456, 147
+  xy: 3895, 54
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_d_0_1.png
   rotate: false
-  xy: 3542, 215
+  xy: 3938, 54
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_d_0_2.png
   rotate: false
-  xy: 3499, 181
+  xy: 3938, 88
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_d_0_3.png
   rotate: false
-  xy: 2057, 110
+  xy: 3852, 54
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_d_0_4.png
   rotate: false
-  xy: 2014, 76
+  xy: 3852, 88
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_d_0_5.png
   rotate: false
-  xy: 88, 5
+  xy: 3895, 88
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_64_e_0_0.png
   rotate: false
-  xy: 2014, 61
+  xy: 2, 2
   size: 29, 13
   orig: 29, 13
   offset: 0, 0
   index: -1
-xmas14_octosanta_xmas14_octosanta_64_e_0_3.png
-  rotate: false
-  xy: 1896, 55
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas14_octosanta_xmas14_octosanta_64_sd_0_0.png
   rotate: false
-  xy: 1896, 58
+  xy: 3605, 36
   size: 116, 84
   orig: 116, 84
   offset: 0, 0
   index: -1
 xmas14_octosanta_xmas14_octosanta_icon_a.png
   rotate: false
-  xy: 2057, 78
+  xy: 3981, 90
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

@@ -46,13 +46,6 @@ xmas_c17_candyshop_xmas_c17_candyshop_64_c_0_1.png
   orig: 60, 66
   offset: 0, 0
   index: -1
-xmas_c17_candyshop_xmas_c17_candyshop_64_c_2_0.png
-  rotate: false
-  xy: 286, 95
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas_c17_candyshop_xmas_c17_candyshop_64_c_2_1.png
   rotate: false
   xy: 424, 119
@@ -60,25 +53,11 @@ xmas_c17_candyshop_xmas_c17_candyshop_64_c_2_1.png
   orig: 60, 66
   offset: 0, 0
   index: -1
-xmas_c17_candyshop_xmas_c17_candyshop_64_d_0_0.png
-  rotate: false
-  xy: 292, 95
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas_c17_candyshop_xmas_c17_candyshop_64_d_0_1.png
   rotate: false
   xy: 352, 98
   size: 70, 155
   orig: 70, 155
-  offset: 0, 0
-  index: -1
-xmas_c17_candyshop_xmas_c17_candyshop_64_d_2_0.png
-  rotate: false
-  xy: 283, 95
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c17_candyshop_xmas_c17_candyshop_64_d_2_1.png
@@ -95,25 +74,11 @@ xmas_c17_candyshop_xmas_c17_candyshop_64_e_0_0.png
   orig: 91, 91
   offset: 0, 0
   index: -1
-xmas_c17_candyshop_xmas_c17_candyshop_64_e_0_1.png
-  rotate: false
-  xy: 289, 95
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas_c17_candyshop_xmas_c17_candyshop_64_e_2_0.png
   rotate: false
   xy: 229, 2
   size: 91, 91
   orig: 91, 91
-  offset: 0, 0
-  index: -1
-xmas_c17_candyshop_xmas_c17_candyshop_64_e_2_1.png
-  rotate: false
-  xy: 295, 95
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c17_candyshop_xmas_c17_candyshop_64_sd_0_0.png

@@ -1,47 +1,47 @@
 
 jp_ceiling_lamp.png
-size: 1024,256
+size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 jp_ceiling_lamp_jp_ceiling_lamp_64_a_0_0.png
   rotate: false
-  xy: 295, 86
+  xy: 208, 86
   size: 40, 167
   orig: 40, 167
   offset: 0, 0
   index: -1
 jp_ceiling_lamp_jp_ceiling_lamp_64_a_0_1.png
   rotate: false
-  xy: 337, 86
+  xy: 250, 86
   size: 40, 167
   orig: 40, 167
   offset: 0, 0
   index: -1
 jp_ceiling_lamp_jp_ceiling_lamp_64_a_0_2.png
   rotate: false
-  xy: 379, 86
+  xy: 292, 86
   size: 40, 167
   orig: 40, 167
   offset: 0, 0
   index: -1
 jp_ceiling_lamp_jp_ceiling_lamp_64_a_0_3.png
   rotate: false
-  xy: 421, 86
+  xy: 334, 86
   size: 40, 167
   orig: 40, 167
   offset: 0, 0
   index: -1
 jp_ceiling_lamp_jp_ceiling_lamp_64_a_0_4.png
   rotate: false
-  xy: 463, 86
+  xy: 376, 86
   size: 40, 167
   orig: 40, 167
   offset: 0, 0
   index: -1
 jp_ceiling_lamp_jp_ceiling_lamp_64_a_0_5.png
   rotate: false
-  xy: 505, 86
+  xy: 418, 86
   size: 40, 167
   orig: 40, 167
   offset: 0, 0
@@ -51,13 +51,6 @@ jp_ceiling_lamp_jp_ceiling_lamp_64_b_0_0.png
   xy: 105, 32
   size: 1, 1
   orig: 1, 1
-  offset: 0, 0
-  index: -1
-jp_ceiling_lamp_jp_ceiling_lamp_64_b_0_1.png
-  rotate: false
-  xy: 208, 153
-  size: 85, 100
-  orig: 85, 100
   offset: 0, 0
   index: -1
 jp_ceiling_lamp_jp_ceiling_lamp_64_b_0_2.png
@@ -97,7 +90,7 @@ jp_ceiling_lamp_jp_ceiling_lamp_64_sd_0_0.png
   index: -1
 jp_ceiling_lamp_jp_ceiling_lamp_icon_a.png
   rotate: false
-  xy: 547, 223
+  xy: 460, 223
   size: 15, 30
   orig: 15, 30
   offset: 0, 0

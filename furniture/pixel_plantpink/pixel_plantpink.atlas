@@ -4,6 +4,13 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+pixel_plantpink_pixel_plantpink_32_a_0_0.png
+  rotate: false
+  xy: 46, 27
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
 pixel_plantpink_pixel_plantpink_64_a_0_0.png
   rotate: false
   xy: 2, 2
@@ -16,12 +23,5 @@ pixel_plantpink_pixel_plantpink_64_sd_0_0.png
   xy: 69, 42
   size: 24, 13
   orig: 24, 13
-  offset: 0, 0
-  index: -1
-pixel_plantpink_pixel_plantpink_icon_a.png
-  rotate: false
-  xy: 46, 27
-  size: 21, 28
-  orig: 21, 28
   offset: 0, 0
   index: -1

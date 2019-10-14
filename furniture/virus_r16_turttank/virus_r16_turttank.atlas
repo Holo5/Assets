@@ -41,7 +41,7 @@ virus_r16_turttank_virus_r16_turttank_64_d_0_1.png
   index: -1
 virus_r16_turttank_virus_r16_turttank_64_d_0_2.png
   rotate: false
-  xy: 1021, 125
+  xy: 401, 95
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -67,13 +67,6 @@ virus_r16_turttank_virus_r16_turttank_64_f_0_1.png
   orig: 58, 27
   offset: 0, 0
   index: -1
-virus_r16_turttank_virus_r16_turttank_64_f_0_2.png
-  rotate: false
-  xy: 1021, 122
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 virus_r16_turttank_virus_r16_turttank_64_g_0_0.png
   rotate: false
   xy: 786, 94
@@ -88,20 +81,6 @@ virus_r16_turttank_virus_r16_turttank_64_h_0_0.png
   orig: 49, 44
   offset: 0, 0
   index: -1
-virus_r16_turttank_virus_r16_turttank_64_i_0_0.png
-  rotate: false
-  xy: 229, 2
-  size: 37, 23
-  orig: 37, 23
-  offset: 0, 0
-  index: -1
-virus_r16_turttank_virus_r16_turttank_64_i_0_1.png
-  rotate: false
-  xy: 338, 70
-  size: 37, 20
-  orig: 37, 20
-  offset: 0, 0
-  index: -1
 virus_r16_turttank_virus_r16_turttank_64_i_0_10.png
   rotate: false
   xy: 862, 101
@@ -111,49 +90,21 @@ virus_r16_turttank_virus_r16_turttank_64_i_0_10.png
   index: -1
 virus_r16_turttank_virus_r16_turttank_64_i_0_11.png
   rotate: false
-  xy: 268, 2
+  xy: 229, 2
   size: 31, 23
   orig: 31, 23
   offset: 0, 0
   index: -1
 virus_r16_turttank_virus_r16_turttank_64_i_0_12.png
   rotate: false
-  xy: 590, 71
+  xy: 786, 39
   size: 31, 25
   orig: 31, 25
   offset: 0, 0
   index: -1
-virus_r16_turttank_virus_r16_turttank_64_i_0_13.png
-  rotate: false
-  xy: 977, 101
-  size: 35, 25
-  orig: 35, 25
-  offset: 0, 0
-  index: -1
-virus_r16_turttank_virus_r16_turttank_64_i_0_14.png
-  rotate: false
-  xy: 825, 69
-  size: 35, 25
-  orig: 35, 25
-  offset: 0, 0
-  index: -1
-virus_r16_turttank_virus_r16_turttank_64_i_0_15.png
-  rotate: false
-  xy: 516, 71
-  size: 35, 25
-  orig: 35, 25
-  offset: 0, 0
-  index: -1
-virus_r16_turttank_virus_r16_turttank_64_i_0_16.png
-  rotate: false
-  xy: 553, 71
-  size: 35, 25
-  orig: 35, 25
-  offset: 0, 0
-  index: -1
 virus_r16_turttank_virus_r16_turttank_64_i_0_17.png
   rotate: false
-  xy: 940, 101
+  xy: 901, 101
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
@@ -167,28 +118,21 @@ virus_r16_turttank_virus_r16_turttank_64_i_0_18.png
   index: -1
 virus_r16_turttank_virus_r16_turttank_64_i_0_19.png
   rotate: false
-  xy: 405, 70
+  xy: 938, 100
   size: 35, 26
   orig: 35, 26
   offset: 0, 0
   index: -1
-virus_r16_turttank_virus_r16_turttank_64_i_0_2.png
-  rotate: false
-  xy: 282, 27
-  size: 37, 20
-  orig: 37, 20
-  offset: 0, 0
-  index: -1
 virus_r16_turttank_virus_r16_turttank_64_i_0_20.png
   rotate: false
-  xy: 442, 70
+  xy: 975, 100
   size: 35, 26
   orig: 35, 26
   offset: 0, 0
   index: -1
 virus_r16_turttank_virus_r16_turttank_64_i_0_21.png
   rotate: false
-  xy: 479, 70
+  xy: 786, 66
   size: 35, 26
   orig: 35, 26
   offset: 0, 0
@@ -200,23 +144,9 @@ virus_r16_turttank_virus_r16_turttank_64_i_0_22.png
   orig: 35, 30
   offset: 0, 0
   index: -1
-virus_r16_turttank_virus_r16_turttank_64_i_0_3.png
-  rotate: false
-  xy: 243, 27
-  size: 37, 20
-  orig: 37, 20
-  offset: 0, 0
-  index: -1
-virus_r16_turttank_virus_r16_turttank_64_i_0_4.png
-  rotate: false
-  xy: 321, 26
-  size: 37, 20
-  orig: 37, 20
-  offset: 0, 0
-  index: -1
 virus_r16_turttank_virus_r16_turttank_64_i_0_5.png
   rotate: false
-  xy: 333, 48
+  xy: 282, 27
   size: 37, 20
   orig: 37, 20
   offset: 0, 0
@@ -230,7 +160,7 @@ virus_r16_turttank_virus_r16_turttank_64_i_0_6.png
   index: -1
 virus_r16_turttank_virus_r16_turttank_64_i_0_7.png
   rotate: false
-  xy: 786, 72
+  xy: 243, 27
   size: 37, 20
   orig: 37, 20
   offset: 0, 0
@@ -242,23 +172,9 @@ virus_r16_turttank_virus_r16_turttank_64_i_0_8.png
   orig: 37, 23
   offset: 0, 0
   index: -1
-virus_r16_turttank_virus_r16_turttank_64_i_0_9.png
-  rotate: false
-  xy: 901, 101
-  size: 37, 25
-  orig: 37, 25
-  offset: 0, 0
-  index: -1
-virus_r16_turttank_virus_r16_turttank_64_j_0_0.png
-  rotate: false
-  xy: 964, 67
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
 virus_r16_turttank_virus_r16_turttank_64_j_0_1.png
   rotate: false
-  xy: 930, 67
+  xy: 718, 42
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
@@ -284,16 +200,9 @@ virus_r16_turttank_virus_r16_turttank_64_j_0_4.png
   orig: 32, 48
   offset: 0, 0
   index: -1
-virus_r16_turttank_virus_r16_turttank_64_j_0_5.png
-  rotate: false
-  xy: 896, 64
-  size: 32, 35
-  orig: 32, 35
-  offset: 0, 0
-  index: -1
 virus_r16_turttank_virus_r16_turttank_64_j_0_6.png
   rotate: false
-  xy: 862, 64
+  xy: 752, 41
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
@@ -307,14 +216,14 @@ virus_r16_turttank_virus_r16_turttank_64_j_0_7.png
   index: -1
 virus_r16_turttank_virus_r16_turttank_64_j_0_8.png
   rotate: false
-  xy: 301, 15
+  xy: 262, 15
   size: 15, 10
   orig: 15, 10
   offset: 0, 0
   index: -1
 virus_r16_turttank_virus_r16_turttank_64_j_0_9.png
   rotate: false
-  xy: 1014, 121
+  xy: 338, 85
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
@@ -363,7 +272,7 @@ virus_r16_turttank_virus_r16_turttank_64_n_0_0.png
   index: -1
 virus_r16_turttank_virus_r16_turttank_icon_a.png
   rotate: false
-  xy: 377, 61
+  xy: 333, 54
   size: 26, 29
   orig: 26, 29
   offset: 0, 0

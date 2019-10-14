@@ -4,6 +4,13 @@ size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+tv_luxus_tv_luxus_32_d_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 tv_luxus_tv_luxus_64_a_0_0.png
   rotate: false
   xy: 160, 13
@@ -23,13 +30,6 @@ tv_luxus_tv_luxus_64_c_0_0.png
   xy: 203, 29
   size: 33, 77
   orig: 33, 77
-  offset: 0, 0
-  index: -1
-tv_luxus_tv_luxus_64_d_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 tv_luxus_tv_luxus_64_d_0_1.png

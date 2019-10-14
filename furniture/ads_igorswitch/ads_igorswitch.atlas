@@ -4,6 +4,48 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 17, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 20, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 23, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 26, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 29, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 32, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 ads_igorswitch_ads_igorswitch_64_a_0_0.png
   rotate: false
   xy: 2, 62
@@ -18,25 +60,11 @@ ads_igorswitch_ads_igorswitch_64_a_4_0.png
   orig: 52, 59
   offset: 0, 0
   index: -1
-ads_igorswitch_ads_igorswitch_64_b_0_0.png
-  rotate: false
-  xy: 17, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 ads_igorswitch_ads_igorswitch_64_b_0_1.png
   rotate: false
   xy: 48, 33
   size: 27, 27
   orig: 27, 27
-  offset: 0, 0
-  index: -1
-ads_igorswitch_ads_igorswitch_64_b_4_0.png
-  rotate: false
-  xy: 26, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 ads_igorswitch_ads_igorswitch_64_b_4_1.png
@@ -72,13 +100,6 @@ ads_igorswitch_ads_igorswitch_64_c_4_1.png
   xy: 495, 117
   size: 13, 9
   orig: 13, 9
-  offset: 0, 0
-  index: -1
-ads_igorswitch_ads_igorswitch_64_d_0_0.png
-  rotate: false
-  xy: 32, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 ads_igorswitch_ads_igorswitch_64_d_0_1.png
@@ -137,20 +158,6 @@ ads_igorswitch_ads_igorswitch_64_d_0_8.png
   orig: 52, 14
   offset: 0, 0
   index: -1
-ads_igorswitch_ads_igorswitch_64_d_0_9.png
-  rotate: false
-  xy: 29, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-ads_igorswitch_ads_igorswitch_64_d_4_0.png
-  rotate: false
-  xy: 23, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 ads_igorswitch_ads_igorswitch_64_d_4_1.png
   rotate: false
   xy: 77, 23
@@ -205,13 +212,6 @@ ads_igorswitch_ads_igorswitch_64_d_4_8.png
   xy: 2, 16
   size: 44, 44
   orig: 44, 44
-  offset: 0, 0
-  index: -1
-ads_igorswitch_ads_igorswitch_64_d_4_9.png
-  rotate: false
-  xy: 20, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 ads_igorswitch_ads_igorswitch_64_sd_0_0.png

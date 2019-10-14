@@ -4,6 +4,13 @@ size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+bathroom_shampoo_bathroom_shampoo_32_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
 bathroom_shampoo_bathroom_shampoo_64_a_0_0.png
   rotate: false
   xy: 329, 25
@@ -65,12 +72,5 @@ bathroom_shampoo_bathroom_shampoo_64_a_0_8.png
   xy: 2, 25
   size: 49, 37
   orig: 49, 37
-  offset: 0, 0
-  index: -1
-bathroom_shampoo_bathroom_shampoo_icon_a.png
-  rotate: false
-  xy: 2, 2
-  size: 17, 19
-  orig: 17, 19
   offset: 0, 0
   index: -1

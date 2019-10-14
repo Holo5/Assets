@@ -4,6 +4,13 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+theatre_chair_theatre_chair_32_a_0_0.png
+  rotate: false
+  xy: 58, 4
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
 theatre_chair_theatre_chair_64_a_0_0.png
   rotate: false
   xy: 2, 2
@@ -23,12 +30,5 @@ theatre_chair_theatre_chair_64_sd_0_0.png
   xy: 58, 36
   size: 52, 26
   orig: 52, 26
-  offset: 0, 0
-  index: -1
-theatre_chair_theatre_chair_icon_a.png
-  rotate: false
-  xy: 58, 4
-  size: 28, 30
-  orig: 28, 30
   offset: 0, 0
   index: -1

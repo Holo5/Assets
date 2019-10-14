@@ -4,13 +4,6 @@ size: 64,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-xmas14_elf6_xmas14_elf6_64_a_0_0.png
-  rotate: false
-  xy: 38, 135
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas14_elf6_xmas14_elf6_64_a_0_1.png
   rotate: false
   xy: 15, 48
@@ -72,13 +65,6 @@ xmas14_elf6_xmas14_elf6_64_d_0_1.png
   xy: 2, 9
   size: 9, 21
   orig: 9, 21
-  offset: 0, 0
-  index: -1
-xmas14_elf6_xmas14_elf6_64_e_0_0.png
-  rotate: false
-  xy: 34, 106
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas14_elf6_xmas14_elf6_64_e_0_1.png

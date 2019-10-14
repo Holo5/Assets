@@ -6,77 +6,56 @@ filter: Nearest,Nearest
 repeat: none
 mall_c17_winclo_mall_c17_winclo_64_a_2_0.png
   rotate: false
-  xy: 2, 35
+  xy: 2, 32
   size: 120, 146
   orig: 120, 146
   offset: 0, 0
   index: -1
 mall_c17_winclo_mall_c17_winclo_64_a_4_0.png
   rotate: false
-  xy: 246, 35
+  xy: 246, 32
   size: 120, 146
   orig: 120, 146
   offset: 0, 0
   index: -1
 mall_c17_winclo_mall_c17_winclo_64_b_2_0.png
   rotate: false
-  xy: 602, 51
+  xy: 602, 48
   size: 110, 130
   orig: 110, 130
-  offset: 0, 0
-  index: -1
-mall_c17_winclo_mall_c17_winclo_64_b_2_1.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 mall_c17_winclo_mall_c17_winclo_64_b_4_0.png
   rotate: false
-  xy: 490, 51
+  xy: 490, 48
   size: 110, 130
   orig: 110, 130
   offset: 0, 0
   index: -1
-mall_c17_winclo_mall_c17_winclo_64_b_4_1.png
-  rotate: false
-  xy: 33, 32
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 mall_c17_winclo_mall_c17_winclo_64_c_2_0.png
   rotate: false
-  xy: 124, 35
+  xy: 124, 32
   size: 120, 146
   orig: 120, 146
   offset: 0, 0
   index: -1
 mall_c17_winclo_mall_c17_winclo_64_c_2_1.png
   rotate: false
-  xy: 490, 48
+  xy: 490, 45
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 mall_c17_winclo_mall_c17_winclo_64_c_4_0.png
   rotate: false
-  xy: 368, 35
+  xy: 368, 32
   size: 120, 146
   orig: 120, 146
   offset: 0, 0
   index: -1
-mall_c17_winclo_mall_c17_winclo_64_c_4_1.png
-  rotate: false
-  xy: 714, 180
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 mall_c17_winclo_mall_c17_winclo_icon_a.png
   rotate: false
-  xy: 2, 5
+  xy: 2, 2
   size: 29, 28
   orig: 29, 28
   offset: 0, 0

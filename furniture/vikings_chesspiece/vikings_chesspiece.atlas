@@ -6,35 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 vikings_chesspiece_vikings_chesspiece_64_a_2_0.png
   rotate: false
-  xy: 79, 64
+  xy: 79, 32
   size: 75, 128
   orig: 75, 128
   offset: 0, 0
   index: -1
 vikings_chesspiece_vikings_chesspiece_64_a_4_0.png
   rotate: false
-  xy: 2, 64
+  xy: 2, 32
   size: 75, 128
   orig: 75, 128
   offset: 0, 0
   index: -1
 vikings_chesspiece_vikings_chesspiece_64_sd_2_0.png
   rotate: false
-  xy: 2, 34
-  size: 56, 28
-  orig: 56, 28
-  offset: 0, 0
-  index: -1
-vikings_chesspiece_vikings_chesspiece_64_sd_4_0.png
-  rotate: false
-  xy: 156, 164
+  xy: 2, 2
   size: 56, 28
   orig: 56, 28
   offset: 0, 0
   index: -1
 vikings_chesspiece_vikings_chesspiece_icon_a.png
   rotate: false
-  xy: 2, 2
+  xy: 156, 130
   size: 19, 30
   orig: 19, 30
   offset: 0, 0

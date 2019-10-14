@@ -4,6 +4,20 @@ size: 64,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+horse_dye_13_horse_dye_13_32_a_0_0.png
+  rotate: false
+  xy: 29, 8
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+horse_dye_13_horse_dye_13_32_b_0_0.png
+  rotate: false
+  xy: 45, 2
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
 horse_dye_13_horse_dye_13_64_a_0_0.png
   rotate: false
   xy: 29, 26
@@ -16,19 +30,5 @@ horse_dye_13_horse_dye_13_64_b_0_0.png
   xy: 2, 14
   size: 25, 43
   orig: 25, 43
-  offset: 0, 0
-  index: -1
-horse_dye_13_horse_dye_13_icon_a.png
-  rotate: false
-  xy: 29, 8
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-horse_dye_13_horse_dye_13_icon_b.png
-  rotate: false
-  xy: 45, 2
-  size: 12, 22
-  orig: 12, 22
   offset: 0, 0
   index: -1

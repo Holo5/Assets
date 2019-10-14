@@ -4,6 +4,20 @@ size: 256,512
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+trophy_display_trophy_display_32_h_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+trophy_display_trophy_display_32_h_2_0.png
+  rotate: false
+  xy: 134, 71
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 trophy_display_trophy_display_64_a_2_0.png
   rotate: false
   xy: 133, 325
@@ -46,25 +60,11 @@ trophy_display_trophy_display_64_f_2_0.png
   orig: 44, 110
   offset: 0, 0
   index: -1
-trophy_display_trophy_display_64_g_2_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 trophy_display_trophy_display_64_g_2_1.png
   rotate: false
   xy: 70, 71
   size: 62, 146
   orig: 62, 146
-  offset: 0, 0
-  index: -1
-trophy_display_trophy_display_64_h_2_0.png
-  rotate: false
-  xy: 134, 71
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 trophy_display_trophy_display_64_h_2_1.png

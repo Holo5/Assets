@@ -4,6 +4,13 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+wf_pressureplate_wf_pressureplate_32_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 wf_pressureplate_wf_pressureplate_64_a_0_0.png
   rotate: false
   xy: 120, 20
@@ -16,13 +23,6 @@ wf_pressureplate_wf_pressureplate_64_a_0_1.png
   xy: 58, 20
   size: 60, 35
   orig: 60, 35
-  offset: 0, 0
-  index: -1
-wf_pressureplate_wf_pressureplate_64_b_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 wf_pressureplate_wf_pressureplate_64_b_0_1.png

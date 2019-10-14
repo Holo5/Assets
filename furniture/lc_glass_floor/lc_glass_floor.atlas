@@ -4,6 +4,27 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+lc_glass_floor_lc_glass_floor_32_b_0_16.png
+  rotate: false
+  xy: 279, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lc_glass_floor_lc_glass_floor_32_b_0_16.png
+  rotate: false
+  xy: 282, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lc_glass_floor_lc_glass_floor_32_b_0_16.png
+  rotate: false
+  xy: 340, 101
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 lc_glass_floor_lc_glass_floor_64_a_0_0.png
   rotate: false
   xy: 2, 43
@@ -13,49 +34,42 @@ lc_glass_floor_lc_glass_floor_64_a_0_0.png
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_0.png
   rotate: false
-  xy: 116, 16
+  xy: 112, 2
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_1.png
   rotate: false
-  xy: 476, 46
+  xy: 496, 111
   size: 7, 3
   orig: 7, 3
   offset: 0, 0
   index: -1
-lc_glass_floor_lc_glass_floor_64_b_0_10.png
-  rotate: false
-  xy: 151, 2
-  size: 22, 12
-  orig: 22, 12
-  offset: 0, 0
-  index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_11.png
   rotate: false
-  xy: 81, 2
+  xy: 34, 2
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_12.png
   rotate: false
-  xy: 53, 3
+  xy: 164, 38
   size: 26, 12
   orig: 26, 12
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_13.png
   rotate: false
-  xy: 285, 72
+  xy: 285, 86
   size: 28, 12
   orig: 28, 12
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_14.png
   rotate: false
-  xy: 357, 114
+  xy: 71, 29
   size: 30, 12
   orig: 30, 12
   offset: 0, 0
@@ -69,19 +83,12 @@ lc_glass_floor_lc_glass_floor_64_b_0_15.png
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_16.png
   rotate: false
-  xy: 71, 29
+  xy: 35, 29
   size: 34, 12
   orig: 34, 12
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_17.png
-  rotate: false
-  xy: 321, 114
-  size: 34, 12
-  orig: 34, 12
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_b_0_18.png
   rotate: false
   xy: 285, 114
   size: 34, 12
@@ -97,399 +104,259 @@ lc_glass_floor_lc_glass_floor_64_b_0_19.png
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_2.png
   rotate: false
-  xy: 379, 6
+  xy: 240, 24
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
   index: -1
-lc_glass_floor_lc_glass_floor_64_b_0_20.png
-  rotate: false
-  xy: 35, 29
-  size: 34, 12
-  orig: 34, 12
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_b_0_21.png
+lc_glass_floor_lc_glass_floor_64_b_0_23.png
   rotate: false
   xy: 200, 52
   size: 34, 12
   orig: 34, 12
   offset: 0, 0
   index: -1
-lc_glass_floor_lc_glass_floor_64_b_0_22.png
-  rotate: false
-  xy: 285, 100
-  size: 34, 12
-  orig: 34, 12
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_b_0_23.png
-  rotate: false
-  xy: 236, 52
-  size: 34, 12
-  orig: 34, 12
-  offset: 0, 0
-  index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_24.png
   rotate: false
-  xy: 285, 86
+  xy: 285, 100
   size: 32, 12
   orig: 32, 12
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_25.png
   rotate: false
-  xy: 321, 101
+  xy: 321, 115
   size: 32, 11
   orig: 32, 11
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_26.png
   rotate: false
-  xy: 107, 30
+  xy: 236, 53
   size: 30, 11
   orig: 30, 11
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_27.png
   rotate: false
-  xy: 482, 115
+  xy: 285, 73
   size: 28, 11
   orig: 28, 11
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_28.png
   rotate: false
-  xy: 389, 103
-  size: 26, 11
-  orig: 26, 11
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_b_0_29.png
-  rotate: false
-  xy: 417, 103
+  xy: 192, 39
   size: 26, 11
   orig: 26, 11
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_3.png
   rotate: false
-  xy: 359, 5
+  xy: 189, 14
   size: 18, 10
   orig: 18, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_30.png
   rotate: false
-  xy: 445, 103
+  xy: 35, 16
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_31.png
   rotate: false
-  xy: 250, 3
-  size: 25, 11
-  orig: 25, 11
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_b_0_32.png
-  rotate: false
-  xy: 321, 88
-  size: 25, 11
-  orig: 25, 11
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_b_0_33.png
-  rotate: false
-  xy: 355, 89
-  size: 25, 11
-  orig: 25, 11
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_b_0_34.png
-  rotate: false
-  xy: 319, 75
+  xy: 62, 16
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_35.png
   rotate: false
-  xy: 315, 62
+  xy: 113, 18
   size: 24, 11
   orig: 24, 11
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_36.png
   rotate: false
-  xy: 139, 19
+  xy: 164, 14
   size: 23, 10
   orig: 23, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_37.png
   rotate: false
-  xy: 311, 4
+  xy: 216, 23
   size: 22, 9
   orig: 22, 9
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_38.png
   rotate: false
-  xy: 399, 92
+  xy: 321, 104
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_39.png
   rotate: false
-  xy: 420, 74
+  xy: 381, 105
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_4.png
   rotate: false
-  xy: 245, 16
+  xy: 159, 2
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_40.png
   rotate: false
-  xy: 277, 50
+  xy: 451, 106
   size: 14, 8
   orig: 14, 8
   offset: 0, 0
   index: -1
-lc_glass_floor_lc_glass_floor_64_b_0_41.png
-  rotate: false
-  xy: 151, 16
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_5.png
   rotate: false
-  xy: 315, 26
+  xy: 207, 2
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_6.png
   rotate: false
-  xy: 315, 38
+  xy: 183, 2
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_7.png
   rotate: false
-  xy: 226, 3
+  xy: 192, 26
   size: 22, 11
   orig: 22, 11
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_8.png
   rotate: false
-  xy: 92, 16
+  xy: 89, 16
   size: 22, 11
   orig: 22, 11
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_b_0_9.png
   rotate: false
-  xy: 107, 2
+  xy: 60, 2
   size: 22, 12
   orig: 22, 12
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_0.png
   rotate: false
-  xy: 257, 28
+  xy: 501, 122
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_1.png
   rotate: false
-  xy: 500, 94
+  xy: 101, 2
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_10.png
-  rotate: false
-  xy: 164, 28
-  size: 29, 10
-  orig: 29, 10
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_11.png
-  rotate: false
-  xy: 195, 40
-  size: 29, 10
-  orig: 29, 10
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_12.png
-  rotate: false
-  xy: 226, 40
-  size: 29, 10
-  orig: 29, 10
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_13.png
-  rotate: false
-  xy: 451, 116
-  size: 29, 10
-  orig: 29, 10
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_14.png
-  rotate: false
-  xy: 164, 40
-  size: 29, 10
-  orig: 29, 10
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_15.png
-  rotate: false
-  xy: 420, 116
-  size: 29, 10
-  orig: 29, 10
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_16.png
-  rotate: false
-  xy: 389, 116
-  size: 29, 10
-  orig: 29, 10
-  offset: 0, 0
-  index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_17.png
   rotate: false
-  xy: 285, 60
+  xy: 134, 31
   size: 28, 10
   orig: 28, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_18.png
   rotate: false
-  xy: 35, 17
+  xy: 417, 116
   size: 27, 10
   orig: 27, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_19.png
   rotate: false
-  xy: 64, 17
+  xy: 446, 116
   size: 26, 10
   orig: 26, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_2.png
   rotate: false
-  xy: 399, 82
+  xy: 319, 94
   size: 19, 8
   orig: 19, 8
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_20.png
   rotate: false
-  xy: 315, 50
+  xy: 113, 6
   size: 24, 10
   orig: 24, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_21.png
   rotate: false
-  xy: 139, 31
+  xy: 139, 19
   size: 23, 10
   orig: 23, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_22.png
   rotate: false
-  xy: 315, 15
+  xy: 279, 38
   size: 22, 9
   orig: 22, 9
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_23.png
   rotate: false
-  xy: 116, 20
+  xy: 260, 24
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_24.png
-  rotate: false
-  xy: 399, 15
-  size: 13, 5
-  orig: 13, 5
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_25.png
-  rotate: false
-  xy: 399, 8
-  size: 13, 5
-  orig: 13, 5
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_26.png
-  rotate: false
-  xy: 452, 42
-  size: 13, 5
-  orig: 13, 5
-  offset: 0, 0
-  index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_27.png
   rotate: false
-  xy: 381, 82
-  size: 13, 5
-  orig: 13, 5
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_28.png
-  rotate: false
-  xy: 399, 22
-  size: 13, 5
-  orig: 13, 5
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_29.png
-  rotate: false
-  xy: 399, 29
+  xy: 381, 98
   size: 13, 5
   orig: 13, 5
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_3.png
   rotate: false
-  xy: 218, 16
+  xy: 164, 26
   size: 25, 10
   orig: 25, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_30.png
   rotate: false
-  xy: 452, 35
+  xy: 315, 69
   size: 12, 5
   orig: 12, 5
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_31.png
   rotate: false
-  xy: 499, 108
+  xy: 312, 62
   size: 11, 5
   orig: 11, 5
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_32.png
   rotate: false
-  xy: 500, 101
+  xy: 101, 9
   size: 10, 5
   orig: 10, 5
   offset: 0, 0
@@ -503,77 +370,70 @@ lc_glass_floor_lc_glass_floor_64_c_0_33.png
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_34.png
   rotate: false
-  xy: 467, 42
+  xy: 312, 55
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_35.png
   rotate: false
-  xy: 411, 40
+  xy: 209, 15
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_36.png
   rotate: false
-  xy: 289, 29
+  xy: 209, 21
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
-lc_glass_floor_lc_glass_floor_64_c_0_37.png
-  rotate: false
-  xy: 293, 57
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_4.png
   rotate: false
-  xy: 164, 16
+  xy: 285, 61
   size: 25, 10
   orig: 25, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_5.png
   rotate: false
-  xy: 472, 103
+  xy: 474, 116
   size: 25, 10
   orig: 25, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_6.png
   rotate: false
-  xy: 191, 16
+  xy: 285, 49
   size: 25, 10
   orig: 25, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_7.png
   rotate: false
-  xy: 226, 28
+  xy: 386, 116
   size: 29, 10
   orig: 29, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_8.png
   rotate: false
-  xy: 195, 28
+  xy: 103, 31
   size: 29, 10
   orig: 29, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_c_0_9.png
   rotate: false
-  xy: 355, 102
+  xy: 355, 116
   size: 29, 10
   orig: 29, 10
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_0.png
   rotate: false
-  xy: 399, 2
+  xy: 501, 116
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
@@ -585,254 +445,86 @@ lc_glass_floor_lc_glass_floor_64_d_0_1.png
   orig: 9, 6
   offset: 0, 0
   index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_10.png
-  rotate: false
-  xy: 481, 85
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_11.png
-  rotate: false
-  xy: 341, 57
-  size: 18, 16
-  orig: 18, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_12.png
-  rotate: false
-  xy: 459, 67
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_13.png
-  rotate: false
-  xy: 339, 21
-  size: 18, 16
-  orig: 18, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_14.png
-  rotate: false
-  xy: 440, 67
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_15.png
-  rotate: false
-  xy: 341, 39
-  size: 18, 16
-  orig: 18, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_16.png
-  rotate: false
-  xy: 296, 24
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_17.png
-  rotate: false
-  xy: 269, 16
-  size: 18, 16
-  orig: 18, 16
-  offset: 0, 0
-  index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_18.png
   rotate: false
-  xy: 296, 42
+  xy: 260, 34
   size: 17, 16
   orig: 17, 16
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_19.png
   rotate: false
-  xy: 257, 34
+  xy: 220, 34
   size: 18, 16
   orig: 18, 16
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_2.png
   rotate: false
-  xy: 438, 39
+  xy: 303, 39
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_20.png
-  rotate: false
-  xy: 400, 46
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_21.png
-  rotate: false
-  xy: 361, 53
-  size: 18, 16
-  orig: 18, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_22.png
-  rotate: false
-  xy: 381, 46
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_23.png
-  rotate: false
-  xy: 359, 17
-  size: 18, 16
-  orig: 18, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_24.png
-  rotate: false
-  xy: 419, 38
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_25.png
-  rotate: false
-  xy: 361, 35
-  size: 18, 16
-  orig: 18, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_26.png
-  rotate: false
-  xy: 419, 56
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_27.png
-  rotate: false
-  xy: 421, 85
-  size: 18, 16
-  orig: 18, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_28.png
-  rotate: false
-  xy: 438, 49
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_29.png
-  rotate: false
-  xy: 379, 17
-  size: 18, 16
-  orig: 18, 16
-  offset: 0, 0
-  index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_3.png
   rotate: false
-  xy: 381, 35
+  xy: 435, 105
   size: 14, 9
   orig: 14, 9
   offset: 0, 0
   index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_30.png
-  rotate: false
-  xy: 478, 67
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_31.png
-  rotate: false
-  xy: 339, 3
-  size: 18, 16
-  orig: 18, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_32.png
-  rotate: false
-  xy: 381, 64
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_33.png
-  rotate: false
-  xy: 361, 71
-  size: 18, 16
-  orig: 18, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_34.png
-  rotate: false
-  xy: 400, 64
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_35.png
   rotate: false
-  xy: 461, 85
+  xy: 240, 35
   size: 18, 16
   orig: 18, 16
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_36.png
   rotate: false
-  xy: 476, 51
+  xy: 343, 99
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_37.png
   rotate: false
-  xy: 277, 34
+  xy: 283, 22
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_38.png
   rotate: false
-  xy: 175, 2
-  size: 15, 12
-  orig: 15, 12
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_39.png
-  rotate: false
-  xy: 192, 2
+  xy: 268, 52
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_4.png
   rotate: false
-  xy: 294, 2
+  xy: 418, 103
   size: 15, 11
   orig: 15, 11
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_40.png
   rotate: false
-  xy: 277, 2
+  xy: 401, 103
   size: 15, 11
   orig: 15, 11
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_41.png
   rotate: false
-  xy: 346, 77
+  xy: 467, 105
   size: 13, 9
   orig: 13, 9
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_42.png
   rotate: false
-  xy: 397, 36
+  xy: 482, 106
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
@@ -846,51 +538,37 @@ lc_glass_floor_lc_glass_floor_64_d_0_43.png
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_44.png
   rotate: false
-  xy: 272, 60
+  xy: 312, 49
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_45.png
-  rotate: false
-  xy: 282, 63
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_5.png
   rotate: false
-  xy: 209, 2
+  xy: 84, 2
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_6.png
   rotate: false
-  xy: 34, 2
+  xy: 362, 101
   size: 17, 13
   orig: 17, 13
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_7.png
   rotate: false
-  xy: 131, 2
+  xy: 139, 2
   size: 18, 15
   orig: 18, 15
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_d_0_8.png
   rotate: false
-  xy: 457, 49
+  xy: 315, 76
   size: 17, 16
   orig: 17, 16
-  offset: 0, 0
-  index: -1
-lc_glass_floor_lc_glass_floor_64_d_0_9.png
-  rotate: false
-  xy: 441, 85
-  size: 18, 16
-  orig: 18, 16
   offset: 0, 0
   index: -1
 lc_glass_floor_lc_glass_floor_64_e_0_0.png

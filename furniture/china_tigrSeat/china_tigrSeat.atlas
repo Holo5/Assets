@@ -4,6 +4,34 @@ size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+china_tigrSeat_china_tigrSeat_32_b_6_0.png
+  rotate: false
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+china_tigrSeat_china_tigrSeat_32_b_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+china_tigrSeat_china_tigrSeat_32_b_6_0.png
+  rotate: false
+  xy: 66, 23
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+china_tigrSeat_china_tigrSeat_32_b_6_0.png
+  rotate: false
+  xy: 516, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 china_tigrSeat_china_tigrSeat_64_a_2_0.png
   rotate: false
   xy: 282, 14
@@ -18,25 +46,11 @@ china_tigrSeat_china_tigrSeat_64_a_6_0.png
   orig: 62, 48
   offset: 0, 0
   index: -1
-china_tigrSeat_china_tigrSeat_64_b_2_0.png
-  rotate: false
-  xy: 66, 23
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 china_tigrSeat_china_tigrSeat_64_b_2_1.png
   rotate: false
   xy: 579, 20
   size: 51, 42
   orig: 51, 42
-  offset: 0, 0
-  index: -1
-china_tigrSeat_china_tigrSeat_64_b_6_0.png
-  rotate: false
-  xy: 2, 5
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 china_tigrSeat_china_tigrSeat_64_b_6_1.png
@@ -60,25 +74,11 @@ china_tigrSeat_china_tigrSeat_64_c_6_0.png
   orig: 55, 52
   offset: 0, 0
   index: -1
-china_tigrSeat_china_tigrSeat_64_d_2_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 china_tigrSeat_china_tigrSeat_64_d_2_1.png
   rotate: false
   xy: 343, 11
   size: 59, 51
   orig: 59, 51
-  offset: 0, 0
-  index: -1
-china_tigrSeat_china_tigrSeat_64_d_6_0.png
-  rotate: false
-  xy: 516, 18
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 china_tigrSeat_china_tigrSeat_64_d_6_1.png

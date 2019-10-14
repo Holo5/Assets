@@ -13,7 +13,7 @@ uni_dumbells_uni_dumbells_64_a_0_0.png
   index: -1
 uni_dumbells_uni_dumbells_64_a_0_1.png
   rotate: false
-  xy: 208, 31
+  xy: 174, 31
   size: 32, 27
   orig: 32, 27
   offset: 0, 0
@@ -25,25 +25,11 @@ uni_dumbells_uni_dumbells_64_a_2_0.png
   orig: 32, 45
   offset: 0, 0
   index: -1
-uni_dumbells_uni_dumbells_64_a_2_1.png
-  rotate: false
-  xy: 174, 31
-  size: 32, 27
-  orig: 32, 27
-  offset: 0, 0
-  index: -1
 uni_dumbells_uni_dumbells_64_a_4_0.png
   rotate: false
   xy: 2, 2
   size: 68, 27
   orig: 68, 27
-  offset: 0, 0
-  index: -1
-uni_dumbells_uni_dumbells_64_a_4_1.png
-  rotate: false
-  xy: 140, 2
-  size: 32, 27
-  orig: 32, 27
   offset: 0, 0
   index: -1
 uni_dumbells_uni_dumbells_64_a_6_0.png
@@ -62,7 +48,7 @@ uni_dumbells_uni_dumbells_64_a_6_1.png
   index: -1
 uni_dumbells_uni_dumbells_icon_a.png
   rotate: false
-  xy: 174, 6
+  xy: 208, 35
   size: 26, 23
   orig: 26, 23
   offset: 0, 0

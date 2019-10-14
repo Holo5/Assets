@@ -6,26 +6,19 @@ filter: Nearest,Nearest
 repeat: none
 valentines_lovelock7_valentines_lovelock7_64_a_2_0.png
   rotate: false
-  xy: 2, 70
+  xy: 2, 51
   size: 45, 81
   orig: 45, 81
   offset: 0, 0
   index: -1
 valentines_lovelock7_valentines_lovelock7_64_a_2_1.png
   rotate: false
-  xy: 2, 153
+  xy: 2, 134
   size: 45, 81
   orig: 45, 81
   offset: 0, 0
   index: -1
 valentines_lovelock7_valentines_lovelock7_64_sd_2_0.png
-  rotate: false
-  xy: 2, 51
-  size: 32, 17
-  orig: 32, 17
-  offset: 0, 0
-  index: -1
-valentines_lovelock7_valentines_lovelock7_64_sd_2_1.png
   rotate: false
   xy: 2, 32
   size: 32, 17

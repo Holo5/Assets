@@ -46,13 +46,6 @@ jp_c15_dresser_jp_c15_dresser_64_d_4_0.png
   orig: 39, 30
   offset: 0, 0
   index: -1
-jp_c15_dresser_jp_c15_dresser_64_d_4_1.png
-  rotate: false
-  xy: 292, 52
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 jp_c15_dresser_jp_c15_dresser_64_e_4_0.png
   rotate: false
   xy: 184, 24
@@ -67,32 +60,11 @@ jp_c15_dresser_jp_c15_dresser_64_e_4_1.png
   orig: 36, 66
   offset: 0, 0
   index: -1
-jp_c15_dresser_jp_c15_dresser_64_e_4_2.png
-  rotate: false
-  xy: 122, 19
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 jp_c15_dresser_jp_c15_dresser_64_f_4_0.png
   rotate: false
   xy: 222, 48
   size: 37, 65
   orig: 37, 65
-  offset: 0, 0
-  index: -1
-jp_c15_dresser_jp_c15_dresser_64_f_4_1.png
-  rotate: false
-  xy: 333, 92
-  size: 20, 21
-  orig: 20, 21
-  offset: 0, 0
-  index: -1
-jp_c15_dresser_jp_c15_dresser_64_f_4_2.png
-  rotate: false
-  xy: 261, 48
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 jp_c15_dresser_jp_c15_dresser_icon_a.png

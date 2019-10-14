@@ -4,6 +4,13 @@ size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+fball_grp_cote_fball_grp_cote_32_k_0_0.png
+  rotate: false
+  xy: 506, 249
+  size: 1, 5
+  orig: 1, 5
+  offset: 0, 0
+  index: -1
 fball_grp_cote_fball_grp_cote_64_a_0_0.png
   rotate: false
   xy: 339, 99
@@ -102,13 +109,6 @@ fball_grp_cote_fball_grp_cote_64_g_2_0.png
   orig: 36, 39
   offset: 0, 0
   index: -1
-fball_grp_cote_fball_grp_cote_64_h_0_0.png
-  rotate: false
-  xy: 506, 249
-  size: 1, 5
-  orig: 1, 5
-  offset: 0, 0
-  index: -1
 fball_grp_cote_fball_grp_cote_64_h_2_0.png
   rotate: false
   xy: 322, 96
@@ -128,13 +128,6 @@ fball_grp_cote_fball_grp_cote_64_i_0_1.png
   xy: 266, 125
   size: 61, 129
   orig: 61, 129
-  offset: 0, 0
-  index: -1
-fball_grp_cote_fball_grp_cote_64_i_2_0.png
-  rotate: false
-  xy: 23, 2
-  size: 5, 3
-  orig: 5, 3
   offset: 0, 0
   index: -1
 fball_grp_cote_fball_grp_cote_64_i_2_1.png
@@ -158,13 +151,6 @@ fball_grp_cote_fball_grp_cote_64_j_0_1.png
   orig: 60, 131
   offset: 0, 0
   index: -1
-fball_grp_cote_fball_grp_cote_64_j_2_0.png
-  rotate: false
-  xy: 16, 2
-  size: 5, 3
-  orig: 5, 3
-  offset: 0, 0
-  index: -1
 fball_grp_cote_fball_grp_cote_64_j_2_1.png
   rotate: false
   xy: 164, 30
@@ -172,25 +158,11 @@ fball_grp_cote_fball_grp_cote_64_j_2_1.png
   orig: 46, 91
   offset: 0, 0
   index: -1
-fball_grp_cote_fball_grp_cote_64_k_0_0.png
-  rotate: false
-  xy: 9, 2
-  size: 5, 3
-  orig: 5, 3
-  offset: 0, 0
-  index: -1
 fball_grp_cote_fball_grp_cote_64_k_0_1.png
   rotate: false
   xy: 72, 121
   size: 68, 133
   orig: 68, 133
-  offset: 0, 0
-  index: -1
-fball_grp_cote_fball_grp_cote_64_k_2_0.png
-  rotate: false
-  xy: 212, 33
-  size: 5, 3
-  orig: 5, 3
   offset: 0, 0
   index: -1
 fball_grp_cote_fball_grp_cote_64_k_2_1.png

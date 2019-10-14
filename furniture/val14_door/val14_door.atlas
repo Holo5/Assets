@@ -74,13 +74,6 @@ val14_door_val14_door_64_b_0_8.png
   orig: 4, 85
   offset: 0, 0
   index: -1
-val14_door_val14_door_64_b_0_9.png
-  rotate: false
-  xy: 424, 117
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val14_door_val14_door_64_b_4_0.png
   rotate: false
   xy: 83, 18
@@ -135,13 +128,6 @@ val14_door_val14_door_64_b_4_7.png
   xy: 381, 32
   size: 3, 86
   orig: 3, 86
-  offset: 0, 0
-  index: -1
-val14_door_val14_door_64_b_4_8.png
-  rotate: false
-  xy: 48, 15
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val14_door_val14_door_64_b_4_9.png

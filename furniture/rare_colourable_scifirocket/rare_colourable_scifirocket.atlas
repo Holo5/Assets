@@ -41,7 +41,7 @@ rare_colourable_scifirocket_rare_colourable_scifirocket_64_d_0_0.png
   index: -1
 rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_1.png
   rotate: false
-  xy: 216, 96
+  xy: 120, 51
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
@@ -49,20 +49,6 @@ rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_1.png
 rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_10.png
   rotate: false
   xy: 144, 95
-  size: 22, 15
-  orig: 22, 15
-  offset: 0, 0
-  index: -1
-rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_11.png
-  rotate: false
-  xy: 192, 95
-  size: 22, 15
-  orig: 22, 15
-  offset: 0, 0
-  index: -1
-rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_12.png
-  rotate: false
-  xy: 168, 95
   size: 22, 15
   orig: 22, 15
   offset: 0, 0
@@ -104,70 +90,28 @@ rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_17.png
   index: -1
 rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_18.png
   rotate: false
-  xy: 56, 38
+  xy: 202, 102
   size: 19, 8
   orig: 19, 8
   offset: 0, 0
   index: -1
 rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_19.png
   rotate: false
-  xy: 56, 20
+  xy: 38, 39
   size: 8, 6
   orig: 8, 6
-  offset: 0, 0
-  index: -1
-rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_2.png
-  rotate: false
-  xy: 69, 30
-  size: 8, 6
-  orig: 8, 6
-  offset: 0, 0
-  index: -1
-rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_3.png
-  rotate: false
-  xy: 56, 12
-  size: 8, 6
-  orig: 8, 6
-  offset: 0, 0
-  index: -1
-rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_4.png
-  rotate: false
-  xy: 77, 38
-  size: 11, 8
-  orig: 11, 8
-  offset: 0, 0
-  index: -1
-rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_5.png
-  rotate: false
-  xy: 56, 28
-  size: 11, 8
-  orig: 11, 8
   offset: 0, 0
   index: -1
 rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_6.png
   rotate: false
-  xy: 216, 102
+  xy: 120, 57
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_7.png
   rotate: false
-  xy: 38, 34
-  size: 16, 11
-  orig: 16, 11
-  offset: 0, 0
-  index: -1
-rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_8.png
-  rotate: false
-  xy: 38, 8
-  size: 16, 11
-  orig: 16, 11
-  offset: 0, 0
-  index: -1
-rare_colourable_scifirocket_rare_colourable_scifirocket_64_e_0_9.png
-  rotate: false
-  xy: 38, 21
+  xy: 184, 99
   size: 16, 11
   orig: 16, 11
   offset: 0, 0
@@ -188,7 +132,7 @@ rare_colourable_scifirocket_rare_colourable_scifirocket_icon_a.png
   index: -1
 rare_colourable_scifirocket_rare_colourable_scifirocket_icon_b.png
   rotate: false
-  xy: 120, 49
+  xy: 168, 94
   size: 14, 16
   orig: 14, 16
   offset: 0, 0

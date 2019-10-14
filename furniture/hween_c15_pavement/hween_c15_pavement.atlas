@@ -1,124 +1,68 @@
 
 hween_c15_pavement.png
-size: 2048,128
+size: 1024,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 hween_c15_pavement_hween_c15_pavement_64_a_0_0.png
   rotate: false
-  xy: 2, 8
+  xy: 2, 5
   size: 130, 37
   orig: 130, 37
   offset: 0, 0
   index: -1
 hween_c15_pavement_hween_c15_pavement_64_b_0_0.png
   rotate: false
-  xy: 926, 47
+  xy: 398, 44
   size: 130, 69
   orig: 130, 69
   offset: 0, 0
   index: -1
 hween_c15_pavement_hween_c15_pavement_64_b_1_0.png
   rotate: false
-  xy: 134, 47
+  xy: 134, 44
   size: 130, 69
   orig: 130, 69
   offset: 0, 0
   index: -1
 hween_c15_pavement_hween_c15_pavement_64_b_2_0.png
   rotate: false
-  xy: 1190, 47
+  xy: 662, 44
   size: 130, 69
   orig: 130, 69
   offset: 0, 0
   index: -1
 hween_c15_pavement_hween_c15_pavement_64_b_3_0.png
   rotate: false
-  xy: 1058, 47
+  xy: 530, 44
   size: 130, 69
   orig: 130, 69
   offset: 0, 0
   index: -1
 hween_c15_pavement_hween_c15_pavement_64_b_7_0.png
   rotate: false
-  xy: 2, 47
+  xy: 2, 44
   size: 130, 69
   orig: 130, 69
-  offset: 0, 0
-  index: -1
-hween_c15_pavement_hween_c15_pavement_64_c_0_0.png
-  rotate: false
-  xy: 1322, 95
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_pavement_hween_c15_pavement_64_c_0_1.png
-  rotate: false
-  xy: 530, 47
-  size: 130, 69
-  orig: 130, 69
-  offset: 0, 0
-  index: -1
-hween_c15_pavement_hween_c15_pavement_64_c_1_0.png
-  rotate: false
-  xy: 134, 44
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c15_pavement_hween_c15_pavement_64_c_1_1.png
   rotate: false
-  xy: 266, 47
-  size: 130, 69
-  orig: 130, 69
-  offset: 0, 0
-  index: -1
-hween_c15_pavement_hween_c15_pavement_64_c_2_0.png
-  rotate: false
-  xy: 1354, 115
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_pavement_hween_c15_pavement_64_c_2_1.png
-  rotate: false
-  xy: 662, 47
+  xy: 266, 44
   size: 130, 69
   orig: 130, 69
   offset: 0, 0
   index: -1
 hween_c15_pavement_hween_c15_pavement_64_c_3_0.png
   rotate: false
-  xy: 2, 5
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-hween_c15_pavement_hween_c15_pavement_64_c_3_1.png
-  rotate: false
-  xy: 398, 47
-  size: 130, 69
-  orig: 130, 69
-  offset: 0, 0
-  index: -1
-hween_c15_pavement_hween_c15_pavement_64_c_7_0.png
-  rotate: false
   xy: 2, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-hween_c15_pavement_hween_c15_pavement_64_c_7_1.png
-  rotate: false
-  xy: 794, 47
-  size: 130, 69
-  orig: 130, 69
-  offset: 0, 0
-  index: -1
 hween_c15_pavement_hween_c15_pavement_icon_a.png
   rotate: false
-  xy: 1322, 98
+  xy: 794, 95
   size: 30, 18
   orig: 30, 18
   offset: 0, 0

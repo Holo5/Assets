@@ -1,257 +1,96 @@
 
 lc_crab1.png
-size: 512,128
+size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 lc_crab1_lc_crab1_64_a_0_0.png
   rotate: false
-  xy: 2, 50
+  xy: 2, 53
   size: 105, 72
   orig: 105, 72
   offset: 0, 0
   index: -1
 lc_crab1_lc_crab1_64_b_0_0.png
   rotate: false
-  xy: 109, 57
+  xy: 109, 60
   size: 65, 65
   orig: 65, 65
   offset: 0, 0
   index: -1
-lc_crab1_lc_crab1_64_c_0_0.png
-  rotate: false
-  xy: 389, 94
-  size: 40, 28
-  orig: 40, 28
-  offset: 0, 0
-  index: -1
 lc_crab1_lc_crab1_64_c_0_1.png
   rotate: false
-  xy: 2, 19
+  xy: 2, 22
   size: 41, 29
   orig: 41, 29
   offset: 0, 0
   index: -1
-lc_crab1_lc_crab1_64_c_0_10.png
-  rotate: false
-  xy: 261, 62
-  size: 39, 30
-  orig: 39, 30
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_11.png
-  rotate: false
-  xy: 302, 34
-  size: 37, 28
-  orig: 37, 28
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_12.png
-  rotate: false
-  xy: 373, 6
-  size: 36, 26
-  orig: 36, 26
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_13.png
-  rotate: false
-  xy: 217, 29
-  size: 39, 30
-  orig: 39, 30
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_14.png
-  rotate: false
-  xy: 341, 34
-  size: 37, 28
-  orig: 37, 28
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_15.png
-  rotate: false
-  xy: 297, 6
-  size: 36, 26
-  orig: 36, 26
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_16.png
-  rotate: false
-  xy: 128, 25
-  size: 39, 30
-  orig: 39, 30
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_17.png
-  rotate: false
-  xy: 258, 2
-  size: 37, 28
-  orig: 37, 28
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_18.png
-  rotate: false
-  xy: 335, 6
-  size: 36, 26
-  orig: 36, 26
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_19.png
-  rotate: false
-  xy: 87, 18
-  size: 39, 30
-  orig: 39, 30
-  offset: 0, 0
-  index: -1
 lc_crab1_lc_crab1_64_c_0_2.png
   rotate: false
-  xy: 261, 94
+  xy: 129, 30
   size: 41, 28
   orig: 41, 28
   offset: 0, 0
   index: -1
-lc_crab1_lc_crab1_64_c_0_20.png
-  rotate: false
-  xy: 258, 32
-  size: 37, 28
-  orig: 37, 28
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_21.png
-  rotate: false
-  xy: 457, 36
-  size: 36, 26
-  orig: 36, 26
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_22.png
-  rotate: false
-  xy: 217, 61
-  size: 39, 30
-  orig: 39, 30
-  offset: 0, 0
-  index: -1
 lc_crab1_lc_crab1_64_c_0_23.png
   rotate: false
-  xy: 460, 64
+  xy: 217, 67
   size: 37, 28
   orig: 37, 28
   offset: 0, 0
   index: -1
 lc_crab1_lc_crab1_64_c_0_24.png
   rotate: false
-  xy: 419, 36
+  xy: 129, 2
   size: 36, 26
   orig: 36, 26
   offset: 0, 0
   index: -1
 lc_crab1_lc_crab1_64_c_0_25.png
   rotate: false
-  xy: 176, 61
+  xy: 176, 95
   size: 39, 30
   orig: 39, 30
   offset: 0, 0
   index: -1
 lc_crab1_lc_crab1_64_c_0_26.png
   rotate: false
-  xy: 382, 64
+  xy: 217, 97
   size: 37, 28
   orig: 37, 28
   offset: 0, 0
   index: -1
 lc_crab1_lc_crab1_64_c_0_27.png
   rotate: false
-  xy: 472, 94
+  xy: 176, 35
   size: 38, 28
   orig: 38, 28
   offset: 0, 0
   index: -1
 lc_crab1_lc_crab1_64_c_0_28.png
   rotate: false
-  xy: 431, 94
+  xy: 176, 65
   size: 39, 28
   orig: 39, 28
   offset: 0, 0
   index: -1
 lc_crab1_lc_crab1_64_c_0_29.png
   rotate: false
-  xy: 347, 94
+  xy: 87, 23
   size: 40, 28
   orig: 40, 28
   offset: 0, 0
   index: -1
 lc_crab1_lc_crab1_64_c_0_3.png
   rotate: false
-  xy: 45, 19
+  xy: 45, 22
   size: 40, 29
   orig: 40, 29
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_30.png
-  rotate: false
-  xy: 176, 93
-  size: 41, 29
-  orig: 41, 29
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_31.png
-  rotate: false
-  xy: 304, 94
-  size: 41, 28
-  orig: 41, 28
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_32.png
-  rotate: false
-  xy: 219, 93
-  size: 40, 29
-  orig: 40, 29
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_4.png
-  rotate: false
-  xy: 421, 64
-  size: 37, 28
-  orig: 37, 28
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_5.png
-  rotate: false
-  xy: 342, 64
-  size: 38, 28
-  orig: 38, 28
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_6.png
-  rotate: false
-  xy: 176, 31
-  size: 39, 28
-  orig: 39, 28
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_7.png
-  rotate: false
-  xy: 302, 64
-  size: 38, 28
-  orig: 38, 28
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_8.png
-  rotate: false
-  xy: 380, 34
-  size: 37, 28
-  orig: 37, 28
-  offset: 0, 0
-  index: -1
-lc_crab1_lc_crab1_64_c_0_9.png
-  rotate: false
-  xy: 419, 8
-  size: 36, 26
-  orig: 36, 26
   offset: 0, 0
   index: -1
 lc_crab1_lc_crab1_icon_a.png
   rotate: false
-  xy: 457, 8
+  xy: 217, 39
   size: 30, 26
   orig: 30, 26
   offset: 0, 0

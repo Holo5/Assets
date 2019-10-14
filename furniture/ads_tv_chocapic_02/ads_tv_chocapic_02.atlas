@@ -1,320 +1,257 @@
 
 ads_tv_chocapic_02.png
-size: 4096,512
+size: 2048,512
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_a_2_0.png
   rotate: false
-  xy: 2880, 325
-  size: 120, 120
-  orig: 120, 120
-  offset: 0, 0
-  index: -1
-ads_tv_chocapic_02_ads_tv_chocapic_02_64_a_2_1.png
-  rotate: false
-  xy: 2880, 203
+  xy: 1342, 27
   size: 120, 120
   orig: 120, 120
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_a_4_0.png
   rotate: false
-  xy: 3002, 325
-  size: 120, 120
-  orig: 120, 120
-  offset: 0, 0
-  index: -1
-ads_tv_chocapic_02_ads_tv_chocapic_02_64_a_4_1.png
-  rotate: false
-  xy: 3002, 203
+  xy: 1464, 83
   size: 120, 120
   orig: 120, 120
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_2_0.png
   rotate: false
-  xy: 918, 93
+  xy: 918, 149
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_2_1.png
   rotate: false
-  xy: 1094, 93
+  xy: 1094, 149
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_2_2.png
   rotate: false
-  xy: 1094, 270
+  xy: 1094, 326
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_2_3.png
   rotate: false
-  xy: 742, 93
+  xy: 742, 149
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_2_4.png
   rotate: false
-  xy: 742, 270
+  xy: 742, 326
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_2_5.png
   rotate: false
-  xy: 918, 270
+  xy: 918, 326
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_4_0.png
   rotate: false
-  xy: 214, 270
+  xy: 214, 326
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_4_1.png
   rotate: false
-  xy: 214, 93
+  xy: 214, 149
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_4_2.png
   rotate: false
-  xy: 390, 270
+  xy: 390, 326
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_4_3.png
   rotate: false
-  xy: 390, 93
+  xy: 390, 149
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_4_4.png
   rotate: false
-  xy: 566, 270
+  xy: 566, 326
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_b_4_5.png
   rotate: false
-  xy: 566, 93
+  xy: 566, 149
   size: 174, 175
   orig: 174, 175
   offset: 0, 0
   index: -1
-ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_2_0.png
-  rotate: false
-  xy: 3124, 444
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_2_1.png
   rotate: false
-  xy: 1608, 149
+  xy: 1439, 205
   size: 140, 147
   orig: 140, 147
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_2_2.png
   rotate: false
-  xy: 2457, 300
+  xy: 496, 2
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_2_3.png
   rotate: false
-  xy: 2457, 153
+  xy: 637, 2
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_2_4.png
   rotate: false
-  xy: 2598, 300
+  xy: 778, 2
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_2_5.png
   rotate: false
-  xy: 2598, 153
+  xy: 919, 2
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_2_6.png
   rotate: false
-  xy: 2739, 300
+  xy: 1060, 2
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_2_7.png
   rotate: false
-  xy: 2739, 153
+  xy: 1201, 2
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
-ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_4_0.png
-  rotate: false
-  xy: 1608, 146
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_4_1.png
   rotate: false
-  xy: 1608, 298
+  xy: 1439, 354
   size: 140, 147
   orig: 140, 147
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_4_2.png
   rotate: false
-  xy: 2316, 300
+  xy: 214, 2
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_4_3.png
   rotate: false
-  xy: 2316, 153
+  xy: 355, 2
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_4_4.png
   rotate: false
-  xy: 2034, 300
+  xy: 1723, 356
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_4_5.png
   rotate: false
-  xy: 2034, 153
+  xy: 1723, 209
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_4_6.png
   rotate: false
-  xy: 2175, 300
+  xy: 1864, 356
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_c_4_7.png
   rotate: false
-  xy: 2175, 153
+  xy: 1864, 209
   size: 139, 145
   orig: 139, 145
   offset: 0, 0
   index: -1
-ads_tv_chocapic_02_ads_tv_chocapic_02_64_d_2_0.png
-  rotate: false
-  xy: 1750, 151
-  size: 140, 146
-  orig: 140, 146
-  offset: 0, 0
-  index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_d_2_1.png
   rotate: false
-  xy: 1750, 299
-  size: 140, 146
-  orig: 140, 146
-  offset: 0, 0
-  index: -1
-ads_tv_chocapic_02_ads_tv_chocapic_02_64_d_4_0.png
-  rotate: false
-  xy: 1892, 151
+  xy: 1581, 355
   size: 140, 146
   orig: 140, 146
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_d_4_1.png
   rotate: false
-  xy: 1892, 299
+  xy: 1581, 207
   size: 140, 146
   orig: 140, 146
   offset: 0, 0
   index: -1
-ads_tv_chocapic_02_ads_tv_chocapic_02_64_e_2_0.png
-  rotate: false
-  xy: 2880, 200
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_e_2_1.png
   rotate: false
-  xy: 2, 25
+  xy: 2, 81
   size: 210, 209
   orig: 210, 209
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_e_4_0.png
   rotate: false
-  xy: 214, 90
+  xy: 2, 78
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_e_4_1.png
   rotate: false
-  xy: 2, 236
+  xy: 2, 292
   size: 210, 209
   orig: 210, 209
   offset: 0, 0
   index: -1
-ads_tv_chocapic_02_ads_tv_chocapic_02_64_f_2_0.png
-  rotate: false
-  xy: 1270, 93
-  size: 167, 175
-  orig: 167, 175
-  offset: 0, 0
-  index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_f_2_1.png
   rotate: false
-  xy: 1270, 270
-  size: 167, 175
-  orig: 167, 175
-  offset: 0, 0
-  index: -1
-ads_tv_chocapic_02_ads_tv_chocapic_02_64_f_4_0.png
-  rotate: false
-  xy: 1439, 93
+  xy: 1270, 326
   size: 167, 175
   orig: 167, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_64_f_4_1.png
   rotate: false
-  xy: 1439, 270
+  xy: 1270, 149
   size: 167, 175
   orig: 167, 175
   offset: 0, 0
   index: -1
 ads_tv_chocapic_02_ads_tv_chocapic_02_icon_a.png
   rotate: false
-  xy: 2, 2
+  xy: 2005, 480
   size: 26, 21
   orig: 26, 21
   offset: 0, 0

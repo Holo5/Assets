@@ -4,6 +4,62 @@ size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+cine_teleport3_cine_teleport3_32_c_2_0.png
+  rotate: false
+  xy: 249, 239
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cine_teleport3_cine_teleport3_32_f_4_0.png
+  rotate: false
+  xy: 249, 242
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cine_teleport3_cine_teleport3_32_f_4_0.png
+  rotate: false
+  xy: 58, 82
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cine_teleport3_cine_teleport3_32_f_4_0.png
+  rotate: false
+  xy: 35, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cine_teleport3_cine_teleport3_32_f_4_0.png
+  rotate: false
+  xy: 199, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cine_teleport3_cine_teleport3_32_f_4_0.png
+  rotate: false
+  xy: 194, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cine_teleport3_cine_teleport3_32_f_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cine_teleport3_cine_teleport3_32_f_4_0.png
+  rotate: false
+  xy: 109, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 cine_teleport3_cine_teleport3_64_a_4_0.png
   rotate: false
   xy: 2, 85
@@ -25,25 +81,11 @@ cine_teleport3_cine_teleport3_64_b_4_0.png
   orig: 33, 100
   offset: 0, 0
   index: -1
-cine_teleport3_cine_teleport3_64_b_4_1.png
-  rotate: false
-  xy: 249, 242
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 cine_teleport3_cine_teleport3_64_b_6_0.png
   rotate: false
   xy: 2, 53
   size: 54, 30
   orig: 54, 30
-  offset: 0, 0
-  index: -1
-cine_teleport3_cine_teleport3_64_c_4_0.png
-  rotate: false
-  xy: 249, 239
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 cine_teleport3_cine_teleport3_64_c_4_1.png
@@ -53,13 +95,6 @@ cine_teleport3_cine_teleport3_64_c_4_1.png
   orig: 40, 104
   offset: 0, 0
   index: -1
-cine_teleport3_cine_teleport3_64_c_6_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 cine_teleport3_cine_teleport3_64_c_6_1.png
   rotate: false
   xy: 109, 9
@@ -67,25 +102,11 @@ cine_teleport3_cine_teleport3_64_c_6_1.png
   orig: 33, 101
   offset: 0, 0
   index: -1
-cine_teleport3_cine_teleport3_64_d_4_0.png
-  rotate: false
-  xy: 109, 6
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 cine_teleport3_cine_teleport3_64_d_4_1.png
   rotate: false
   xy: 133, 112
   size: 64, 131
   orig: 64, 131
-  offset: 0, 0
-  index: -1
-cine_teleport3_cine_teleport3_64_d_6_0.png
-  rotate: false
-  xy: 194, 49
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 cine_teleport3_cine_teleport3_64_d_6_1.png
@@ -123,32 +144,11 @@ cine_teleport3_cine_teleport3_64_f_2_1.png
   orig: 19, 29
   offset: 0, 0
   index: -1
-cine_teleport3_cine_teleport3_64_f_4_0.png
-  rotate: false
-  xy: 58, 82
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 cine_teleport3_cine_teleport3_64_f_4_1.png
   rotate: false
   xy: 179, 52
   size: 17, 27
   orig: 17, 27
-  offset: 0, 0
-  index: -1
-cine_teleport3_cine_teleport3_64_f_6_0.png
-  rotate: false
-  xy: 199, 123
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-cine_teleport3_cine_teleport3_64_f_6_1.png
-  rotate: false
-  xy: 35, 18
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 cine_teleport3_cine_teleport3_icon_a.png

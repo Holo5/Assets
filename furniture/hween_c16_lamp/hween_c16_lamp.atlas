@@ -53,25 +53,11 @@ hween_c16_lamp_hween_c16_lamp_64_d_0_0.png
   orig: 49, 25
   offset: 0, 0
   index: -1
-hween_c16_lamp_hween_c16_lamp_64_d_0_1.png
-  rotate: false
-  xy: 5, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hween_c16_lamp_hween_c16_lamp_64_e_0_0.png
   rotate: false
   xy: 2, 15
   size: 59, 51
   orig: 59, 51
-  offset: 0, 0
-  index: -1
-hween_c16_lamp_hween_c16_lamp_64_e_0_1.png
-  rotate: false
-  xy: 107, 66
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween_c16_lamp_hween_c16_lamp_icon_a.png

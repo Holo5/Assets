@@ -1,6 +1,6 @@
 
 jungle_c16_ctrick.png
-size: 512,64
+size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
@@ -11,37 +11,9 @@ jungle_c16_ctrick_jungle_c16_ctrick_64_a_0_0.png
   orig: 55, 54
   offset: 0, 0
   index: -1
-jungle_c16_ctrick_jungle_c16_ctrick_64_a_0_1.png
-  rotate: false
-  xy: 59, 2
-  size: 55, 54
-  orig: 55, 54
-  offset: 0, 0
-  index: -1
-jungle_c16_ctrick_jungle_c16_ctrick_64_a_0_2.png
-  rotate: false
-  xy: 173, 2
-  size: 55, 54
-  orig: 55, 54
-  offset: 0, 0
-  index: -1
-jungle_c16_ctrick_jungle_c16_ctrick_64_a_0_3.png
-  rotate: false
-  xy: 116, 2
-  size: 55, 54
-  orig: 55, 54
-  offset: 0, 0
-  index: -1
-jungle_c16_ctrick_jungle_c16_ctrick_64_a_0_4.png
-  rotate: false
-  xy: 230, 2
-  size: 55, 54
-  orig: 55, 54
-  offset: 0, 0
-  index: -1
 jungle_c16_ctrick_jungle_c16_ctrick_icon_a.png
   rotate: false
-  xy: 287, 27
+  xy: 59, 27
   size: 22, 29
   orig: 22, 29
   offset: 0, 0

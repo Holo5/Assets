@@ -81,20 +81,6 @@ america_r17_armadillo_america_r17_armadillo_64_b_4_17.png
   orig: 34, 30
   offset: 0, 0
   index: -1
-america_r17_armadillo_america_r17_armadillo_64_b_4_18.png
-  rotate: false
-  xy: 96, 26
-  size: 34, 30
-  orig: 34, 30
-  offset: 0, 0
-  index: -1
-america_r17_armadillo_america_r17_armadillo_64_b_4_19.png
-  rotate: false
-  xy: 142, 62
-  size: 34, 30
-  orig: 34, 30
-  offset: 0, 0
-  index: -1
 america_r17_armadillo_america_r17_armadillo_64_b_4_2.png
   rotate: false
   xy: 183, 215
@@ -167,7 +153,7 @@ america_r17_armadillo_america_r17_armadillo_64_sd_4_0.png
   index: -1
 america_r17_armadillo_america_r17_armadillo_icon_a.png
   rotate: false
-  xy: 96, 3
+  xy: 142, 71
   size: 30, 21
   orig: 30, 21
   offset: 0, 0

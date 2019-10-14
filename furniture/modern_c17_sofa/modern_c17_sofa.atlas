@@ -6,65 +6,51 @@ filter: Nearest,Nearest
 repeat: none
 modern_c17_sofa_modern_c17_sofa_64_a_2_0.png
   rotate: false
-  xy: 198, 18
+  xy: 112, 49
   size: 72, 77
   orig: 72, 77
   offset: 0, 0
   index: -1
 modern_c17_sofa_modern_c17_sofa_64_a_6_0.png
   rotate: false
-  xy: 163, 97
+  xy: 107, 18
   size: 52, 29
   orig: 52, 29
   offset: 0, 0
   index: -1
 modern_c17_sofa_modern_c17_sofa_64_b_2_0.png
   rotate: false
-  xy: 330, 56
+  xy: 186, 56
   size: 64, 70
   orig: 64, 70
   offset: 0, 0
   index: -1
 modern_c17_sofa_modern_c17_sofa_64_b_6_0.png
   rotate: false
-  xy: 154, 13
+  xy: 410, 69
   size: 42, 57
   orig: 42, 57
   offset: 0, 0
   index: -1
 modern_c17_sofa_modern_c17_sofa_64_c_2_0.png
   rotate: false
-  xy: 112, 72
+  xy: 359, 72
   size: 49, 54
   orig: 49, 54
   offset: 0, 0
   index: -1
 modern_c17_sofa_modern_c17_sofa_64_c_6_0.png
   rotate: false
-  xy: 248, 110
+  xy: 161, 12
   size: 32, 16
   orig: 32, 16
   offset: 0, 0
   index: -1
 modern_c17_sofa_modern_c17_sofa_64_d_2_0.png
   rotate: false
-  xy: 396, 49
+  xy: 310, 49
   size: 47, 77
   orig: 47, 77
-  offset: 0, 0
-  index: -1
-modern_c17_sofa_modern_c17_sofa_64_d_2_1.png
-  rotate: false
-  xy: 5, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-modern_c17_sofa_modern_c17_sofa_64_d_6_0.png
-  rotate: false
-  xy: 78, 5
-  size: 74, 64
-  orig: 74, 64
   offset: 0, 0
   index: -1
 modern_c17_sofa_modern_c17_sofa_64_d_6_1.png
@@ -76,28 +62,21 @@ modern_c17_sofa_modern_c17_sofa_64_d_6_1.png
   index: -1
 modern_c17_sofa_modern_c17_sofa_64_e_2_0.png
   rotate: false
-  xy: 272, 25
+  xy: 252, 43
   size: 56, 83
   orig: 56, 83
   offset: 0, 0
   index: -1
 modern_c17_sofa_modern_c17_sofa_64_e_6_0.png
   rotate: false
-  xy: 163, 78
+  xy: 161, 30
   size: 33, 17
   orig: 33, 17
   offset: 0, 0
   index: -1
-modern_c17_sofa_modern_c17_sofa_64_e_6_1.png
-  rotate: false
-  xy: 8, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 modern_c17_sofa_modern_c17_sofa_64_f_6_0.png
   rotate: false
-  xy: 198, 2
+  xy: 107, 2
   size: 18, 14
   orig: 18, 14
   offset: 0, 0
@@ -111,30 +90,16 @@ modern_c17_sofa_modern_c17_sofa_64_f_6_1.png
   index: -1
 modern_c17_sofa_modern_c17_sofa_64_g_6_0.png
   rotate: false
-  xy: 481, 62
+  xy: 78, 5
   size: 27, 64
   orig: 27, 64
   offset: 0, 0
   index: -1
-modern_c17_sofa_modern_c17_sofa_64_g_6_1.png
-  rotate: false
-  xy: 11, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 modern_c17_sofa_modern_c17_sofa_64_h_6_0.png
   rotate: false
-  xy: 445, 64
+  xy: 454, 64
   size: 34, 62
   orig: 34, 62
-  offset: 0, 0
-  index: -1
-modern_c17_sofa_modern_c17_sofa_64_h_6_1.png
-  rotate: false
-  xy: 14, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 modern_c17_sofa_modern_c17_sofa_64_sd_2_0.png
@@ -146,7 +111,7 @@ modern_c17_sofa_modern_c17_sofa_64_sd_2_0.png
   index: -1
 modern_c17_sofa_modern_c17_sofa_icon_a.png
   rotate: false
-  xy: 217, 99
+  xy: 359, 43
   size: 29, 27
   orig: 29, 27
   offset: 0, 0

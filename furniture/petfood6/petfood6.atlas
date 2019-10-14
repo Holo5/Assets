@@ -13,7 +13,7 @@ petfood6_petfood6_64_a_2_0.png
   index: -1
 petfood6_petfood6_64_a_2_1.png
   rotate: false
-  xy: 263, 9
+  xy: 232, 9
   size: 29, 21
   orig: 29, 21
   offset: 0, 0
@@ -72,12 +72,5 @@ petfood6_petfood6_64_b_2_4.png
   xy: 73, 15
   size: 31, 15
   orig: 31, 15
-  offset: 0, 0
-  index: -1
-petfood6_petfood6_icon_a.png
-  rotate: false
-  xy: 232, 9
-  size: 29, 21
-  orig: 29, 21
   offset: 0, 0
   index: -1

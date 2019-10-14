@@ -1,26 +1,26 @@
 
 js_chandelier.png
-size: 1024,512
+size: 512,512
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 js_chandelier_js_chandelier_64_a_0_0.png
   rotate: false
-  xy: 522, 37
+  xy: 416, 37
   size: 73, 323
   orig: 73, 323
   offset: 0, 0
   index: -1
 js_chandelier_js_chandelier_64_a_0_1.png
   rotate: false
-  xy: 423, 37
+  xy: 317, 37
   size: 97, 323
   orig: 97, 323
   offset: 0, 0
   index: -1
 js_chandelier_js_chandelier_64_a_0_2.png
   rotate: false
-  xy: 320, 37
+  xy: 214, 37
   size: 101, 323
   orig: 101, 323
   offset: 0, 0
@@ -28,13 +28,6 @@ js_chandelier_js_chandelier_64_a_0_2.png
 js_chandelier_js_chandelier_64_a_0_3.png
   rotate: false
   xy: 2, 37
-  size: 104, 323
-  orig: 104, 323
-  offset: 0, 0
-  index: -1
-js_chandelier_js_chandelier_64_a_0_4.png
-  rotate: false
-  xy: 214, 37
   size: 104, 323
   orig: 104, 323
   offset: 0, 0

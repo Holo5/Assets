@@ -6,63 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 xmas12_fireplace_xmas12_fireplace_64_a_2_0.png
   rotate: false
-  xy: 1576, 68
-  size: 20, 151
-  orig: 20, 151
-  offset: 0, 0
-  index: -1
-xmas12_fireplace_xmas12_fireplace_64_a_2_1.png
-  rotate: false
-  xy: 1554, 68
-  size: 20, 151
-  orig: 20, 151
-  offset: 0, 0
-  index: -1
-xmas12_fireplace_xmas12_fireplace_64_a_2_2.png
-  rotate: false
-  xy: 1532, 68
-  size: 20, 151
-  orig: 20, 151
-  offset: 0, 0
-  index: -1
-xmas12_fireplace_xmas12_fireplace_64_a_2_3.png
-  rotate: false
-  xy: 1510, 68
-  size: 20, 151
-  orig: 20, 151
-  offset: 0, 0
-  index: -1
-xmas12_fireplace_xmas12_fireplace_64_a_2_4.png
-  rotate: false
-  xy: 1488, 68
-  size: 20, 151
-  orig: 20, 151
-  offset: 0, 0
-  index: -1
-xmas12_fireplace_xmas12_fireplace_64_a_2_5.png
-  rotate: false
-  xy: 1466, 68
+  xy: 1356, 68
   size: 20, 151
   orig: 20, 151
   offset: 0, 0
   index: -1
 xmas12_fireplace_xmas12_fireplace_64_a_2_6.png
   rotate: false
-  xy: 1444, 68
+  xy: 1334, 68
   size: 20, 151
   orig: 20, 151
   offset: 0, 0
   index: -1
 xmas12_fireplace_xmas12_fireplace_64_a_4_0.png
   rotate: false
-  xy: 1422, 68
-  size: 20, 151
-  orig: 20, 151
-  offset: 0, 0
-  index: -1
-xmas12_fireplace_xmas12_fireplace_64_a_4_1.png
-  rotate: false
-  xy: 1400, 68
+  xy: 1312, 68
   size: 20, 151
   orig: 20, 151
   offset: 0, 0
@@ -70,34 +28,6 @@ xmas12_fireplace_xmas12_fireplace_64_a_4_1.png
 xmas12_fireplace_xmas12_fireplace_64_a_4_2.png
   rotate: false
   xy: 1290, 68
-  size: 20, 151
-  orig: 20, 151
-  offset: 0, 0
-  index: -1
-xmas12_fireplace_xmas12_fireplace_64_a_4_3.png
-  rotate: false
-  xy: 1312, 68
-  size: 20, 151
-  orig: 20, 151
-  offset: 0, 0
-  index: -1
-xmas12_fireplace_xmas12_fireplace_64_a_4_4.png
-  rotate: false
-  xy: 1334, 68
-  size: 20, 151
-  orig: 20, 151
-  offset: 0, 0
-  index: -1
-xmas12_fireplace_xmas12_fireplace_64_a_4_5.png
-  rotate: false
-  xy: 1356, 68
-  size: 20, 151
-  orig: 20, 151
-  offset: 0, 0
-  index: -1
-xmas12_fireplace_xmas12_fireplace_64_a_4_6.png
-  rotate: false
-  xy: 1378, 68
   size: 20, 151
   orig: 20, 151
   offset: 0, 0

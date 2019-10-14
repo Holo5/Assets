@@ -4,6 +4,13 @@ size: 64,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+easy_bowl2_easy_bowl2_32_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
 easy_bowl2_easy_bowl2_64_a_0_0.png
   rotate: false
   xy: 2, 27
@@ -16,12 +23,5 @@ easy_bowl2_easy_bowl2_64_sd_0_0.png
   xy: 36, 44
   size: 25, 16
   orig: 25, 16
-  offset: 0, 0
-  index: -1
-easy_bowl2_easy_bowl2_icon_a.png
-  rotate: false
-  xy: 2, 2
-  size: 22, 23
-  orig: 22, 23
   offset: 0, 0
   index: -1

@@ -1,98 +1,70 @@
 
 penguin_punk.png
-size: 512,128
+size: 128,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 penguin_punk_penguin_punk_64_a_4_0.png
   rotate: false
-  xy: 295, 20
+  xy: 43, 87
   size: 32, 65
   orig: 32, 65
   offset: 0, 0
   index: -1
 penguin_punk_penguin_punk_64_a_4_1.png
   rotate: false
-  xy: 261, 20
+  xy: 2, 20
   size: 32, 65
   orig: 32, 65
   offset: 0, 0
   index: -1
 penguin_punk_penguin_punk_64_a_4_10.png
   rotate: false
-  xy: 86, 20
-  size: 33, 65
-  orig: 33, 65
-  offset: 0, 0
-  index: -1
-penguin_punk_penguin_punk_64_a_4_11.png
-  rotate: false
-  xy: 156, 20
-  size: 33, 65
-  orig: 33, 65
-  offset: 0, 0
-  index: -1
-penguin_punk_penguin_punk_64_a_4_12.png
-  rotate: false
-  xy: 121, 20
+  xy: 45, 154
   size: 33, 65
   orig: 33, 65
   offset: 0, 0
   index: -1
 penguin_punk_penguin_punk_64_a_4_2.png
   rotate: false
-  xy: 397, 22
+  xy: 77, 89
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
-penguin_punk_penguin_punk_64_a_4_3.png
-  rotate: false
-  xy: 191, 20
-  size: 33, 65
-  orig: 33, 65
-  offset: 0, 0
-  index: -1
 penguin_punk_penguin_punk_64_a_4_4.png
   rotate: false
-  xy: 329, 20
+  xy: 80, 154
   size: 32, 65
   orig: 32, 65
   offset: 0, 0
   index: -1
 penguin_punk_penguin_punk_64_a_4_5.png
   rotate: false
-  xy: 363, 22
+  xy: 36, 22
   size: 32, 63
   orig: 32, 63
   offset: 0, 0
   index: -1
 penguin_punk_penguin_punk_64_a_4_6.png
   rotate: false
-  xy: 2, 20
+  xy: 2, 154
   size: 41, 65
   orig: 41, 65
   offset: 0, 0
   index: -1
 penguin_punk_penguin_punk_64_a_4_7.png
   rotate: false
-  xy: 45, 20
+  xy: 2, 87
   size: 39, 65
   orig: 39, 65
   offset: 0, 0
   index: -1
 penguin_punk_penguin_punk_64_a_4_8.png
   rotate: false
-  xy: 431, 24
+  xy: 70, 24
   size: 32, 61
   orig: 32, 61
-  offset: 0, 0
-  index: -1
-penguin_punk_penguin_punk_64_a_4_9.png
-  rotate: false
-  xy: 226, 20
-  size: 33, 65
-  orig: 33, 65
   offset: 0, 0
   index: -1
 penguin_punk_penguin_punk_64_sd_4_0.png
@@ -104,7 +76,7 @@ penguin_punk_penguin_punk_64_sd_4_0.png
   index: -1
 penguin_punk_penguin_punk_icon_a.png
   rotate: false
-  xy: 465, 55
+  xy: 111, 122
   size: 15, 30
   orig: 15, 30
   offset: 0, 0

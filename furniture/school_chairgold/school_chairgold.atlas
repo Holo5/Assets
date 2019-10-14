@@ -4,6 +4,13 @@ size: 64,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+school_chairgold_school_chairgold_32_b_2_0.png
+  rotate: false
+  xy: 49, 246
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 school_chairgold_school_chairgold_64_a_0_0.png
   rotate: false
   xy: 2, 125
@@ -23,13 +30,6 @@ school_chairgold_school_chairgold_64_b_0_0.png
   xy: 2, 82
   size: 26, 41
   orig: 26, 41
-  offset: 0, 0
-  index: -1
-school_chairgold_school_chairgold_64_b_2_0.png
-  rotate: false
-  xy: 49, 246
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 school_chairgold_school_chairgold_64_sd_0_0.png

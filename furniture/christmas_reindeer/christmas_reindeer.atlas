@@ -4,6 +4,13 @@ size: 128,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+christmas_reindeer_christmas_reindeer_32_e_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 christmas_reindeer_christmas_reindeer_64_a_2_0.png
   rotate: false
   xy: 2, 31
@@ -30,13 +37,6 @@ christmas_reindeer_christmas_reindeer_64_d_2_0.png
   xy: 59, 124
   size: 59, 130
   orig: 59, 130
-  offset: 0, 0
-  index: -1
-christmas_reindeer_christmas_reindeer_64_e_2_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 christmas_reindeer_christmas_reindeer_64_e_2_1.png

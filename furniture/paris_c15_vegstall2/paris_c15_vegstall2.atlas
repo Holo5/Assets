@@ -32,13 +32,6 @@ paris_c15_vegstall2_paris_c15_vegstall2_64_a_4_1.png
   orig: 66, 80
   offset: 0, 0
   index: -1
-paris_c15_vegstall2_paris_c15_vegstall2_64_sd_2_0.png
-  rotate: false
-  xy: 274, 84
-  size: 66, 33
-  orig: 66, 33
-  offset: 0, 0
-  index: -1
 paris_c15_vegstall2_paris_c15_vegstall2_64_sd_4_0.png
   rotate: false
   xy: 2, 2
@@ -48,7 +41,7 @@ paris_c15_vegstall2_paris_c15_vegstall2_64_sd_4_0.png
   index: -1
 paris_c15_vegstall2_paris_c15_vegstall2_icon_a.png
   rotate: false
-  xy: 70, 6
+  xy: 274, 88
   size: 26, 29
   orig: 26, 29
   offset: 0, 0

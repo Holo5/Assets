@@ -6,49 +6,49 @@ filter: Nearest,Nearest
 repeat: none
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_a_0_0.png
   rotate: false
-  xy: 483, 16
+  xy: 379, 16
   size: 12, 39
   orig: 12, 39
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_a_2_0.png
   rotate: false
-  xy: 436, 9
+  xy: 332, 9
   size: 34, 50
   orig: 34, 50
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_a_4_0.png
   rotate: false
-  xy: 400, 9
+  xy: 296, 9
   size: 34, 50
   orig: 34, 50
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_a_6_0.png
   rotate: false
-  xy: 497, 16
+  xy: 393, 16
   size: 12, 39
   orig: 12, 39
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_b_0_0.png
   rotate: false
-  xy: 569, 62
+  xy: 465, 62
   size: 26, 13
   orig: 26, 13
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_b_2_0.png
   rotate: false
-  xy: 418, 61
+  xy: 314, 61
   size: 65, 65
   orig: 65, 65
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_b_4_0.png
   rotate: false
-  xy: 350, 61
+  xy: 246, 61
   size: 66, 65
   orig: 66, 65
   offset: 0, 0
@@ -62,149 +62,142 @@ xmas_c18_stagestairs_xmas_c18_stagestairs_64_b_6_0.png
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_c_0_0.png
   rotate: false
-  xy: 625, 77
+  xy: 521, 77
   size: 54, 49
   orig: 54, 49
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_c_2_0.png
   rotate: false
-  xy: 280, 59
+  xy: 176, 59
   size: 68, 67
   orig: 68, 67
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_c_4_0.png
   rotate: false
-  xy: 210, 59
+  xy: 106, 59
   size: 68, 67
   orig: 68, 67
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_c_6_0.png
   rotate: false
-  xy: 569, 77
+  xy: 465, 77
   size: 54, 49
   orig: 54, 49
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_d_0_0.png
   rotate: false
-  xy: 522, 25
+  xy: 418, 25
   size: 11, 30
   orig: 11, 30
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_d_2_0.png
   rotate: false
-  xy: 511, 10
+  xy: 407, 10
   size: 9, 45
   orig: 9, 45
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_d_4_0.png
   rotate: false
-  xy: 472, 14
+  xy: 368, 14
   size: 9, 45
   orig: 9, 45
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_d_6_0.png
   rotate: false
-  xy: 535, 25
+  xy: 431, 25
   size: 11, 30
   orig: 11, 30
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_e_0_0.png
   rotate: false
-  xy: 724, 88
+  xy: 620, 88
   size: 41, 38
   orig: 41, 38
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_e_2_0.png
   rotate: false
-  xy: 485, 57
+  xy: 381, 57
   size: 40, 69
   orig: 40, 69
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_e_4_0.png
   rotate: false
-  xy: 527, 57
+  xy: 423, 57
   size: 40, 69
   orig: 40, 69
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_e_6_0.png
   rotate: false
-  xy: 681, 88
+  xy: 577, 88
   size: 41, 38
   orig: 41, 38
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_f_0_0.png
   rotate: false
-  xy: 353, 5
+  xy: 249, 5
   size: 45, 54
   orig: 45, 54
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_f_6_0.png
   rotate: false
-  xy: 306, 3
+  xy: 202, 3
   size: 45, 54
   orig: 45, 54
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_g_0_0.png
   rotate: false
-  xy: 210, 2
+  xy: 106, 2
   size: 46, 55
   orig: 46, 55
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_g_6_0.png
   rotate: false
-  xy: 258, 2
+  xy: 154, 2
   size: 46, 55
   orig: 46, 55
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_h_0_0.png
   rotate: false
-  xy: 833, 92
+  xy: 729, 92
   size: 30, 34
   orig: 30, 34
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_h_2_0.png
   rotate: false
-  xy: 800, 83
+  xy: 696, 83
   size: 31, 43
   orig: 31, 43
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_h_4_0.png
   rotate: false
-  xy: 767, 83
+  xy: 663, 83
   size: 31, 43
   orig: 31, 43
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_h_6_0.png
   rotate: false
-  xy: 865, 92
+  xy: 761, 92
   size: 30, 34
   orig: 30, 34
-  offset: 0, 0
-  index: -1
-xmas_c18_stagestairs_xmas_c18_stagestairs_64_sd_0_0.png
-  rotate: false
-  xy: 106, 22
-  size: 102, 51
-  orig: 102, 51
   offset: 0, 0
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_sd_2_0.png
@@ -216,13 +209,6 @@ xmas_c18_stagestairs_xmas_c18_stagestairs_64_sd_2_0.png
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_64_sd_4_0.png
   rotate: false
-  xy: 106, 75
-  size: 102, 51
-  orig: 102, 51
-  offset: 0, 0
-  index: -1
-xmas_c18_stagestairs_xmas_c18_stagestairs_64_sd_6_0.png
-  rotate: false
   xy: 2, 22
   size: 102, 51
   orig: 102, 51
@@ -230,7 +216,7 @@ xmas_c18_stagestairs_xmas_c18_stagestairs_64_sd_6_0.png
   index: -1
 xmas_c18_stagestairs_xmas_c18_stagestairs_icon_a.png
   rotate: false
-  xy: 897, 102
+  xy: 793, 102
   size: 29, 24
   orig: 29, 24
   offset: 0, 0

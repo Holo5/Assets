@@ -4,6 +4,13 @@ size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hween09_wall1_hween09_wall1_32_c_2_0.png
+  rotate: false
+  xy: 210, 25
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween09_wall1_hween09_wall1_64_a_2_0.png
   rotate: false
   xy: 148, 2
@@ -58,13 +65,6 @@ hween09_wall1_hween09_wall1_64_c_2_3.png
   xy: 277, 142
   size: 65, 112
   orig: 65, 112
-  offset: 0, 0
-  index: -1
-hween09_wall1_hween09_wall1_64_c_4_0.png
-  rotate: false
-  xy: 210, 25
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween09_wall1_hween09_wall1_64_c_4_1.png

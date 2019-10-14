@@ -4,6 +4,13 @@ size: 64,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+sb_rail_sb_rail_32_a_0_0.png
+  rotate: false
+  xy: 40, 37
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
 sb_rail_sb_rail_64_a_0_0.png
   rotate: false
   xy: 2, 22
@@ -16,12 +23,5 @@ sb_rail_sb_rail_64_sd_0_0.png
   xy: 2, 2
   size: 34, 18
   orig: 34, 18
-  offset: 0, 0
-  index: -1
-sb_rail_sb_rail_icon_a.png
-  rotate: false
-  xy: 40, 37
-  size: 19, 17
-  orig: 19, 17
   offset: 0, 0
   index: -1

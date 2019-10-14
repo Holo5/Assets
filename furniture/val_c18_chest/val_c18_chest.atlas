@@ -25,25 +25,11 @@ val_c18_chest_val_c18_chest_64_b_0_0.png
   orig: 46, 48
   offset: 0, 0
   index: -1
-val_c18_chest_val_c18_chest_64_b_0_1.png
-  rotate: false
-  xy: 508, 125
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val_c18_chest_val_c18_chest_64_b_2_0.png
   rotate: false
   xy: 278, 27
   size: 46, 48
   orig: 46, 48
-  offset: 0, 0
-  index: -1
-val_c18_chest_val_c18_chest_64_b_2_1.png
-  rotate: false
-  xy: 23, 27
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val_c18_chest_val_c18_chest_64_c_0_0.png
@@ -93,13 +79,6 @@ val_c18_chest_val_c18_chest_64_e_2_0.png
   xy: 374, 52
   size: 22, 23
   orig: 22, 23
-  offset: 0, 0
-  index: -1
-val_c18_chest_val_c18_chest_64_e_2_1.png
-  rotate: false
-  xy: 26, 27
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val_c18_chest_val_c18_chest_64_f_0_0.png

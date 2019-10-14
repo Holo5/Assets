@@ -4,6 +4,27 @@ size: 256,1024
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+val13_build_1_val13_build_1_32_i_0_0.png
+  rotate: false
+  xy: 253, 609
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val13_build_1_val13_build_1_32_i_0_0.png
+  rotate: false
+  xy: 253, 606
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val13_build_1_val13_build_1_32_i_0_0.png
+  rotate: false
+  xy: 253, 603
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 val13_build_1_val13_build_1_64_a_0_0.png
   rotate: false
   xy: 2, 2
@@ -60,13 +81,6 @@ val13_build_1_val13_build_1_64_h_0_0.png
   orig: 59, 53
   offset: 0, 0
   index: -1
-val13_build_1_val13_build_1_64_i_0_0.png
-  rotate: false
-  xy: 253, 609
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val13_build_1_val13_build_1_64_i_0_1.png
   rotate: false
   xy: 200, 985
@@ -74,25 +88,11 @@ val13_build_1_val13_build_1_64_i_0_1.png
   orig: 33, 27
   offset: 0, 0
   index: -1
-val13_build_1_val13_build_1_64_j_0_0.png
-  rotate: false
-  xy: 253, 603
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val13_build_1_val13_build_1_64_j_0_1.png
   rotate: false
   xy: 124, 529
   size: 32, 26
   orig: 32, 26
-  offset: 0, 0
-  index: -1
-val13_build_1_val13_build_1_64_k_0_0.png
-  rotate: false
-  xy: 253, 606
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val13_build_1_val13_build_1_64_k_0_1.png

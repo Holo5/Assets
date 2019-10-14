@@ -4,6 +4,27 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hc_dsk_hc_dsk_32_e_0_0.png
+  rotate: false
+  xy: 245, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hc_dsk_hc_dsk_32_e_0_0.png
+  rotate: false
+  xy: 178, 78
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hc_dsk_hc_dsk_32_e_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hc_dsk_hc_dsk_64_a_0_0.png
   rotate: false
   xy: 129, 5
@@ -18,13 +39,6 @@ hc_dsk_hc_dsk_64_b_0_0.png
   orig: 61, 82
   offset: 0, 0
   index: -1
-hc_dsk_hc_dsk_64_c_0_0.png
-  rotate: false
-  xy: 178, 78
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hc_dsk_hc_dsk_64_c_0_1.png
   rotate: false
   xy: 195, 66
@@ -32,25 +46,11 @@ hc_dsk_hc_dsk_64_c_0_1.png
   orig: 48, 60
   offset: 0, 0
   index: -1
-hc_dsk_hc_dsk_64_d_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hc_dsk_hc_dsk_64_d_0_1.png
   rotate: false
   xy: 129, 81
   size: 64, 45
   orig: 64, 45
-  offset: 0, 0
-  index: -1
-hc_dsk_hc_dsk_64_e_0_0.png
-  rotate: false
-  xy: 245, 125
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hc_dsk_hc_dsk_64_e_0_1.png

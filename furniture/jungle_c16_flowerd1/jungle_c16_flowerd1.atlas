@@ -4,16 +4,9 @@ size: 2048,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-jungle_c16_flowerd1_jungle_c16_flowerd1_64_a_0_0.png
-  rotate: false
-  xy: 721, 39
-  size: 56, 23
-  orig: 56, 23
-  offset: 0, 0
-  index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_a_0_1.png
   rotate: false
-  xy: 779, 45
+  xy: 1304, 45
   size: 55, 17
   orig: 55, 17
   offset: 0, 0
@@ -88,23 +81,16 @@ jungle_c16_flowerd1_jungle_c16_flowerd1_64_a_0_9.png
   orig: 75, 43
   offset: 0, 0
   index: -1
-jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_0.png
-  rotate: false
-  xy: 79, 16
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_1.png
   rotate: false
-  xy: 779, 31
+  xy: 1459, 50
   size: 27, 12
   orig: 27, 12
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_10.png
   rotate: false
-  xy: 929, 25
+  xy: 867, 25
   size: 41, 37
   orig: 41, 37
   offset: 0, 0
@@ -118,70 +104,63 @@ jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_11.png
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_2.png
   rotate: false
-  xy: 748, 17
+  xy: 1428, 42
   size: 29, 20
   orig: 29, 20
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_3.png
   rotate: false
-  xy: 1398, 37
+  xy: 1361, 37
   size: 33, 25
   orig: 33, 25
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_4.png
   rotate: false
-  xy: 1188, 25
+  xy: 1126, 25
   size: 41, 37
   orig: 41, 37
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_5.png
   rotate: false
-  xy: 1145, 25
+  xy: 1083, 25
   size: 41, 37
   orig: 41, 37
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_6.png
   rotate: false
-  xy: 1102, 25
+  xy: 1040, 25
   size: 41, 37
   orig: 41, 37
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_7.png
   rotate: false
-  xy: 1059, 25
+  xy: 997, 25
   size: 41, 37
   orig: 41, 37
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_8.png
   rotate: false
-  xy: 1016, 25
+  xy: 954, 25
   size: 41, 37
   orig: 41, 37
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_b_0_9.png
   rotate: false
-  xy: 1231, 25
+  xy: 1169, 25
   size: 41, 37
   orig: 41, 37
   offset: 0, 0
   index: -1
-jungle_c16_flowerd1_jungle_c16_flowerd1_64_c_0_0.png
-  rotate: false
-  xy: 541, 29
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_c_0_10.png
   rotate: false
-  xy: 929, 2
+  xy: 867, 2
   size: 29, 21
   orig: 29, 21
   offset: 0, 0
@@ -195,21 +174,21 @@ jungle_c16_flowerd1_jungle_c16_flowerd1_64_c_0_11.png
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_c_0_12.png
   rotate: false
-  xy: 972, 26
+  xy: 910, 26
   size: 42, 36
   orig: 42, 36
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_c_0_13.png
   rotate: false
-  xy: 883, 18
+  xy: 821, 18
   size: 44, 44
   orig: 44, 44
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_c_0_14.png
   rotate: false
-  xy: 836, 13
+  xy: 774, 13
   size: 45, 49
   orig: 45, 49
   offset: 0, 0
@@ -223,28 +202,28 @@ jungle_c16_flowerd1_jungle_c16_flowerd1_64_c_0_15.png
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_c_0_16.png
   rotate: false
-  xy: 695, 6
+  xy: 721, 31
   size: 51, 31
   orig: 51, 31
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_c_0_17.png
   rotate: false
-  xy: 1274, 32
+  xy: 1212, 32
   size: 44, 30
   orig: 44, 30
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_64_c_0_18.png
   rotate: false
-  xy: 1320, 32
+  xy: 1258, 32
   size: 44, 30
   orig: 44, 30
   offset: 0, 0
   index: -1
 jungle_c16_flowerd1_jungle_c16_flowerd1_icon_a.png
   rotate: false
-  xy: 1366, 32
+  xy: 1396, 32
   size: 30, 30
   orig: 30, 30
   offset: 0, 0

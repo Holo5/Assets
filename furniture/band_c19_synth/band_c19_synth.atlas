@@ -6,182 +6,168 @@ filter: Nearest,Nearest
 repeat: none
 band_c19_synth_band_c19_synth_64_a_4_0.png
   rotate: false
-  xy: 2, 4
+  xy: 2, 2
   size: 51, 57
   orig: 51, 57
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_b_4_0.png
   rotate: false
-  xy: 2, 63
+  xy: 2, 61
   size: 48, 63
   orig: 48, 63
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_c_4_0.png
   rotate: false
-  xy: 52, 65
+  xy: 52, 63
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_c_4_1.png
   rotate: false
-  xy: 55, 48
-  size: 28, 18
-  orig: 28, 18
-  offset: 0, 0
-  index: -1
-band_c19_synth_band_c19_synth_64_c_4_10.png
-  rotate: false
-  xy: 55, 28
+  xy: 55, 46
   size: 28, 18
   orig: 28, 18
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_c_4_2.png
   rotate: false
-  xy: 85, 49
+  xy: 55, 7
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_c_4_3.png
   rotate: false
-  xy: 217, 108
+  xy: 217, 106
   size: 28, 18
   orig: 28, 18
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_c_4_4.png
   rotate: false
-  xy: 82, 68
+  xy: 82, 66
   size: 28, 18
   orig: 28, 18
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_c_4_5.png
   rotate: false
-  xy: 187, 108
+  xy: 187, 106
   size: 28, 18
   orig: 28, 18
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_c_4_6.png
   rotate: false
-  xy: 52, 68
+  xy: 52, 66
   size: 28, 18
   orig: 28, 18
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_c_4_7.png
   rotate: false
-  xy: 157, 108
+  xy: 157, 106
   size: 28, 18
   orig: 28, 18
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_c_4_8.png
   rotate: false
-  xy: 55, 8
+  xy: 55, 26
   size: 28, 18
   orig: 28, 18
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_c_4_9.png
   rotate: false
-  xy: 85, 30
+  xy: 85, 47
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
-band_c19_synth_band_c19_synth_64_d_4_0.png
-  rotate: false
-  xy: 247, 125
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 band_c19_synth_band_c19_synth_64_d_4_1.png
   rotate: false
-  xy: 85, 15
+  xy: 85, 32
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_d_4_10.png
   rotate: false
-  xy: 147, 84
+  xy: 223, 83
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_d_4_2.png
   rotate: false
-  xy: 125, 85
+  xy: 125, 83
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_d_4_3.png
   rotate: false
-  xy: 223, 94
+  xy: 201, 92
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_d_4_4.png
   rotate: false
-  xy: 201, 94
+  xy: 179, 92
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_d_4_5.png
   rotate: false
-  xy: 179, 94
+  xy: 157, 92
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_d_4_6.png
   rotate: false
-  xy: 157, 94
+  xy: 85, 18
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_d_4_7.png
   rotate: false
-  xy: 85, 2
+  xy: 223, 93
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_d_4_8.png
   rotate: false
-  xy: 191, 82
+  xy: 112, 71
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_d_4_9.png
   rotate: false
-  xy: 169, 83
+  xy: 85, 7
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_64_sd_4_0.png
   rotate: false
-  xy: 52, 88
+  xy: 52, 86
   size: 71, 38
   orig: 71, 38
   offset: 0, 0
   index: -1
 band_c19_synth_band_c19_synth_icon_a.png
   rotate: false
-  xy: 125, 95
+  xy: 125, 93
   size: 30, 31
   orig: 30, 31
   offset: 0, 0

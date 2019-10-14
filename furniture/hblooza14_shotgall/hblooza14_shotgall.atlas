@@ -1,47 +1,19 @@
 
 hblooza14_shotgall.png
-size: 2048,256
+size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hblooza14_shotgall_hblooza14_shotgall_64_a_2_0.png
-  rotate: false
-  xy: 342, 82
-  size: 66, 130
-  orig: 66, 130
-  offset: 0, 0
-  index: -1
-hblooza14_shotgall_hblooza14_shotgall_64_a_2_1.png
-  rotate: false
-  xy: 478, 82
-  size: 66, 130
-  orig: 66, 130
-  offset: 0, 0
-  index: -1
-hblooza14_shotgall_hblooza14_shotgall_64_a_2_2.png
-  rotate: false
-  xy: 70, 82
-  size: 66, 130
-  orig: 66, 130
-  offset: 0, 0
-  index: -1
-hblooza14_shotgall_hblooza14_shotgall_64_a_2_3.png
-  rotate: false
-  xy: 206, 82
-  size: 66, 130
-  orig: 66, 130
-  offset: 0, 0
-  index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_a_2_4.png
   rotate: false
-  xy: 274, 82
+  xy: 138, 82
   size: 66, 130
   orig: 66, 130
   offset: 0, 0
   index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_a_2_5.png
   rotate: false
-  xy: 410, 82
+  xy: 206, 82
   size: 66, 130
   orig: 66, 130
   offset: 0, 0
@@ -55,77 +27,70 @@ hblooza14_shotgall_hblooza14_shotgall_64_a_2_6.png
   index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_a_2_7.png
   rotate: false
-  xy: 138, 82
+  xy: 70, 82
   size: 66, 130
   orig: 66, 130
   offset: 0, 0
   index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_b_2_0.png
   rotate: false
-  xy: 678, 84
+  xy: 406, 84
   size: 64, 128
   orig: 64, 128
   offset: 0, 0
   index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_b_2_1.png
   rotate: false
-  xy: 612, 84
+  xy: 340, 84
   size: 64, 128
   orig: 64, 128
   offset: 0, 0
   index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_b_2_2.png
   rotate: false
-  xy: 546, 84
+  xy: 274, 84
   size: 64, 128
   orig: 64, 128
   offset: 0, 0
   index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_b_2_3.png
   rotate: false
-  xy: 1008, 84
+  xy: 736, 84
   size: 64, 128
   orig: 64, 128
   offset: 0, 0
   index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_b_2_4.png
   rotate: false
-  xy: 942, 84
+  xy: 670, 84
   size: 64, 128
   orig: 64, 128
   offset: 0, 0
   index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_b_2_5.png
   rotate: false
-  xy: 876, 84
+  xy: 604, 84
   size: 64, 128
   orig: 64, 128
   offset: 0, 0
   index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_b_2_6.png
   rotate: false
-  xy: 810, 84
+  xy: 538, 84
   size: 64, 128
   orig: 64, 128
   offset: 0, 0
   index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_b_2_7.png
   rotate: false
-  xy: 744, 84
+  xy: 472, 84
   size: 64, 128
   orig: 64, 128
   offset: 0, 0
   index: -1
-hblooza14_shotgall_hblooza14_shotgall_64_c_2_0.png
-  rotate: false
-  xy: 1125, 188
-  size: 24, 24
-  orig: 24, 24
-  offset: 0, 0
-  index: -1
 hblooza14_shotgall_hblooza14_shotgall_64_c_2_1.png
   rotate: false
-  xy: 1099, 187
+  xy: 827, 187
   size: 24, 25
   orig: 24, 25
   offset: 0, 0
@@ -160,7 +125,7 @@ hblooza14_shotgall_hblooza14_shotgall_64_c_2_5.png
   index: -1
 hblooza14_shotgall_hblooza14_shotgall_icon_a.png
   rotate: false
-  xy: 1074, 182
+  xy: 802, 182
   size: 23, 30
   orig: 23, 30
   offset: 0, 0

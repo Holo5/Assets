@@ -4,6 +4,13 @@ size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hween13_castleturret2_hween13_castleturret2_32_b_0_0.png
+  rotate: false
+  xy: 234, 229
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hween13_castleturret2_hween13_castleturret2_64_a_0_0.png
   rotate: false
   xy: 160, 99
@@ -23,13 +30,6 @@ hween13_castleturret2_hween13_castleturret2_64_a_6_0.png
   xy: 81, 99
   size: 77, 131
   orig: 77, 131
-  offset: 0, 0
-  index: -1
-hween13_castleturret2_hween13_castleturret2_64_b_0_0.png
-  rotate: false
-  xy: 234, 229
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hween13_castleturret2_hween13_castleturret2_64_b_0_1.png

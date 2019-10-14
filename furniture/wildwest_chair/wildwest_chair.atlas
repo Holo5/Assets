@@ -34,16 +34,9 @@ wildwest_chair_wildwest_chair_64_a_6_0.png
   index: -1
 wildwest_chair_wildwest_chair_64_b_0_0.png
   rotate: false
-  xy: 211, 20
+  xy: 176, 20
   size: 26, 42
   orig: 26, 42
-  offset: 0, 0
-  index: -1
-wildwest_chair_wildwest_chair_64_b_2_0.png
-  rotate: false
-  xy: 239, 61
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 wildwest_chair_wildwest_chair_64_b_4_0.png
@@ -55,16 +48,9 @@ wildwest_chair_wildwest_chair_64_b_4_0.png
   index: -1
 wildwest_chair_wildwest_chair_64_b_6_0.png
   rotate: false
-  xy: 183, 20
+  xy: 148, 20
   size: 26, 42
   orig: 26, 42
-  offset: 0, 0
-  index: -1
-wildwest_chair_wildwest_chair_64_sd_2_0.png
-  rotate: false
-  xy: 121, 2
-  size: 33, 17
-  orig: 33, 17
   offset: 0, 0
   index: -1
 wildwest_chair_wildwest_chair_64_sd_4_0.png
@@ -74,16 +60,9 @@ wildwest_chair_wildwest_chair_64_sd_4_0.png
   orig: 33, 17
   offset: 0, 0
   index: -1
-wildwest_chair_wildwest_chair_64_sd_6_0.png
-  rotate: false
-  xy: 148, 45
-  size: 33, 17
-  orig: 33, 17
-  offset: 0, 0
-  index: -1
 wildwest_chair_wildwest_chair_icon_a.png
   rotate: false
-  xy: 156, 16
+  xy: 204, 35
   size: 20, 27
   orig: 20, 27
   offset: 0, 0

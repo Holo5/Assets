@@ -4,6 +4,13 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+fball_crnr_fball_crnr_32_a_2_0.png
+  rotate: false
+  xy: 196, 29
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
 fball_crnr_fball_crnr_64_a_0_0.png
   rotate: false
   xy: 2, 2
@@ -30,12 +37,5 @@ fball_crnr_fball_crnr_64_a_6_0.png
   xy: 114, 2
   size: 39, 57
   orig: 39, 57
-  offset: 0, 0
-  index: -1
-fball_crnr_fball_crnr_icon_a.png
-  rotate: false
-  xy: 196, 29
-  size: 20, 30
-  orig: 20, 30
   offset: 0, 0
   index: -1

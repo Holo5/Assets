@@ -4,27 +4,6 @@ size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-santorini_c17_house_santorini_c17_house_64_a_2_0.png
-  rotate: false
-  xy: 508, 122
-  size: 1, 127
-  orig: 1, 127
-  offset: 0, 0
-  index: -1
-santorini_c17_house_santorini_c17_house_64_a_4_0.png
-  rotate: false
-  xy: 469, 3
-  size: 1, 127
-  orig: 1, 127
-  offset: 0, 0
-  index: -1
-santorini_c17_house_santorini_c17_house_64_b_2_0.png
-  rotate: false
-  xy: 472, 5
-  size: 1, 127
-  orig: 1, 127
-  offset: 0, 0
-  index: -1
 santorini_c17_house_santorini_c17_house_64_b_4_0.png
   rotate: false
   xy: 505, 122
@@ -53,30 +32,23 @@ santorini_c17_house_santorini_c17_house_64_d_2_0.png
   orig: 66, 17
   offset: 0, 0
   index: -1
-santorini_c17_house_santorini_c17_house_64_d_4_0.png
-  rotate: false
-  xy: 136, 72
-  size: 66, 17
-  orig: 66, 17
-  offset: 0, 0
-  index: -1
 santorini_c17_house_santorini_c17_house_64_e_2_0.png
   rotate: false
-  xy: 204, 72
+  xy: 202, 72
   size: 34, 17
   orig: 34, 17
   offset: 0, 0
   index: -1
 santorini_c17_house_santorini_c17_house_64_e_4_0.png
   rotate: false
-  xy: 200, 53
+  xy: 134, 38
   size: 34, 17
   orig: 34, 17
   offset: 0, 0
   index: -1
 santorini_c17_house_santorini_c17_house_64_f_2_0.png
   rotate: false
-  xy: 134, 38
+  xy: 136, 57
   size: 64, 32
   orig: 64, 32
   offset: 0, 0
@@ -188,7 +160,7 @@ santorini_c17_house_santorini_c17_house_64_sd_4_0.png
   index: -1
 santorini_c17_house_santorini_c17_house_icon_a.png
   rotate: false
-  xy: 240, 60
+  xy: 238, 60
   size: 19, 29
   orig: 19, 29
   offset: 0, 0

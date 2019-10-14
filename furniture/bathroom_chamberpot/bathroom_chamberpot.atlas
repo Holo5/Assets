@@ -4,6 +4,13 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+bathroom_chamberpot_bathroom_chamberpot_32_a_4_0.png
+  rotate: false
+  xy: 75, 45
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
 bathroom_chamberpot_bathroom_chamberpot_64_a_0_0.png
   rotate: false
   xy: 2, 2
@@ -23,12 +30,5 @@ bathroom_chamberpot_bathroom_chamberpot_64_sd_0_0.png
   xy: 41, 43
   size: 32, 16
   orig: 32, 16
-  offset: 0, 0
-  index: -1
-bathroom_chamberpot_bathroom_chamberpot_icon_a.png
-  rotate: false
-  xy: 75, 45
-  size: 17, 14
-  orig: 17, 14
   offset: 0, 0
   index: -1

@@ -60,296 +60,86 @@ vote_count_add_vote_count_add_64_a_4_3.png
   orig: 66, 88
   offset: 0, 0
   index: -1
-vote_count_add_vote_count_add_64_b_2_0.png
-  rotate: false
-  xy: 438, 11
-  size: 15, 23
-  orig: 15, 23
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_2_1.png
-  rotate: false
-  xy: 675, 73
-  size: 11, 24
-  orig: 11, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_2_2.png
-  rotate: false
-  xy: 28, 8
-  size: 16, 26
-  orig: 16, 26
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_2_3.png
-  rotate: false
-  xy: 821, 99
-  size: 16, 25
-  orig: 16, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_2_4.png
-  rotate: false
-  xy: 137, 10
-  size: 16, 24
-  orig: 16, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_2_5.png
-  rotate: false
-  xy: 455, 9
-  size: 15, 25
-  orig: 15, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_2_6.png
-  rotate: false
-  xy: 983, 100
-  size: 16, 24
-  orig: 16, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_2_7.png
-  rotate: false
-  xy: 875, 99
-  size: 16, 25
-  orig: 16, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_2_8.png
-  rotate: false
-  xy: 191, 10
-  size: 16, 24
-  orig: 16, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_2_9.png
-  rotate: false
-  xy: 929, 100
-  size: 16, 24
-  orig: 16, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_4_0.png
-  rotate: false
-  xy: 243, 10
-  size: 15, 24
-  orig: 15, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_4_1.png
-  rotate: false
-  xy: 498, 10
-  size: 11, 24
-  orig: 11, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_4_2.png
-  rotate: false
-  xy: 767, 99
-  size: 16, 25
-  orig: 16, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_4_3.png
-  rotate: false
-  xy: 296, 11
-  size: 16, 23
-  orig: 16, 23
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_4_4.png
-  rotate: false
-  xy: 46, 10
-  size: 17, 24
-  orig: 17, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_4_5.png
-  rotate: false
-  xy: 619, 47
-  size: 16, 25
-  orig: 16, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_4_6.png
-  rotate: false
-  xy: 386, 12
-  size: 16, 22
-  orig: 16, 22
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_4_7.png
-  rotate: false
-  xy: 713, 99
-  size: 16, 25
-  orig: 16, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_4_8.png
-  rotate: false
-  xy: 83, 10
-  size: 16, 24
-  orig: 16, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_b_4_9.png
-  rotate: false
-  xy: 350, 11
-  size: 16, 23
-  orig: 16, 23
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_c_2_0.png
-  rotate: false
-  xy: 421, 11
-  size: 15, 23
-  orig: 15, 23
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_c_2_1.png
-  rotate: false
-  xy: 524, 10
-  size: 11, 24
-  orig: 11, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_c_2_2.png
-  rotate: false
-  xy: 640, 98
-  size: 16, 26
-  orig: 16, 26
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_c_2_3.png
-  rotate: false
-  xy: 803, 99
-  size: 16, 25
-  orig: 16, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_c_2_4.png
-  rotate: false
-  xy: 947, 100
-  size: 16, 24
-  orig: 16, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_c_2_5.png
-  rotate: false
-  xy: 658, 73
-  size: 15, 25
-  orig: 15, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_c_2_6.png
-  rotate: false
-  xy: 155, 10
-  size: 16, 24
-  orig: 16, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_c_2_7.png
-  rotate: false
-  xy: 857, 99
-  size: 16, 25
-  orig: 16, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_c_2_8.png
-  rotate: false
-  xy: 1001, 100
-  size: 16, 24
-  orig: 16, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_c_2_9.png
-  rotate: false
-  xy: 101, 10
-  size: 16, 24
-  orig: 16, 24
-  offset: 0, 0
-  index: -1
 vote_count_add_vote_count_add_64_c_4_0.png
   rotate: false
-  xy: 209, 10
+  xy: 618, 48
   size: 15, 24
   orig: 15, 24
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_c_4_1.png
   rotate: false
-  xy: 472, 10
+  xy: 117, 10
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_c_4_2.png
   rotate: false
-  xy: 731, 99
+  xy: 46, 9
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_c_4_3.png
   rotate: false
-  xy: 260, 11
+  xy: 99, 11
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_c_4_4.png
   rotate: false
-  xy: 564, 48
+  xy: 640, 100
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_c_4_5.png
   rotate: false
-  xy: 583, 47
+  xy: 28, 9
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_c_4_6.png
   rotate: false
-  xy: 640, 74
+  xy: 695, 102
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_c_4_7.png
   rotate: false
-  xy: 677, 99
+  xy: 564, 47
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_c_4_8.png
   rotate: false
-  xy: 65, 10
+  xy: 640, 74
   size: 16, 24
   orig: 16, 24
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_c_4_9.png
   rotate: false
-  xy: 314, 11
+  xy: 676, 75
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_d_2_0.png
   rotate: false
-  xy: 404, 11
+  xy: 635, 49
   size: 15, 23
   orig: 15, 23
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_d_2_1.png
   rotate: false
-  xy: 511, 10
+  xy: 130, 10
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
@@ -363,121 +153,51 @@ vote_count_add_vote_count_add_64_d_2_2.png
   index: -1
 vote_count_add_vote_count_add_64_d_2_3.png
   rotate: false
-  xy: 785, 99
+  xy: 582, 47
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_d_2_4.png
   rotate: false
-  xy: 119, 10
+  xy: 600, 48
   size: 16, 24
   orig: 16, 24
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_d_2_5.png
   rotate: false
-  xy: 637, 47
+  xy: 82, 9
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_d_2_6.png
   rotate: false
-  xy: 965, 100
+  xy: 658, 74
   size: 16, 24
   orig: 16, 24
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_d_2_7.png
   rotate: false
-  xy: 839, 99
+  xy: 64, 9
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_d_2_8.png
   rotate: false
-  xy: 173, 10
+  xy: 677, 100
   size: 16, 24
   orig: 16, 24
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_d_2_9.png
   rotate: false
-  xy: 911, 100
+  xy: 659, 100
   size: 16, 24
   orig: 16, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_d_4_0.png
-  rotate: false
-  xy: 226, 10
-  size: 15, 24
-  orig: 15, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_d_4_1.png
-  rotate: false
-  xy: 485, 10
-  size: 11, 24
-  orig: 11, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_d_4_2.png
-  rotate: false
-  xy: 749, 99
-  size: 16, 25
-  orig: 16, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_d_4_3.png
-  rotate: false
-  xy: 278, 11
-  size: 16, 23
-  orig: 16, 23
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_d_4_4.png
-  rotate: false
-  xy: 658, 100
-  size: 17, 24
-  orig: 17, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_d_4_5.png
-  rotate: false
-  xy: 601, 47
-  size: 16, 25
-  orig: 16, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_d_4_6.png
-  rotate: false
-  xy: 368, 12
-  size: 16, 22
-  orig: 16, 22
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_d_4_7.png
-  rotate: false
-  xy: 695, 99
-  size: 16, 25
-  orig: 16, 25
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_d_4_8.png
-  rotate: false
-  xy: 893, 100
-  size: 16, 24
-  orig: 16, 24
-  offset: 0, 0
-  index: -1
-vote_count_add_vote_count_add_64_d_4_9.png
-  rotate: false
-  xy: 332, 11
-  size: 16, 23
-  orig: 16, 23
   offset: 0, 0
   index: -1
 vote_count_add_vote_count_add_64_e_2_0.png

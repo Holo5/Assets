@@ -53,13 +53,6 @@ bonusrare19_1_bonusrare19_1_64_d_0_0.png
   orig: 21, 24
   offset: 0, 0
   index: -1
-bonusrare19_1_bonusrare19_1_64_d_0_1.png
-  rotate: false
-  xy: 221, 99
-  size: 21, 24
-  orig: 21, 24
-  offset: 0, 0
-  index: -1
 bonusrare19_1_bonusrare19_1_64_sd_0_0.png
   rotate: false
   xy: 165, 106
@@ -90,7 +83,7 @@ bonusrare19_1_bonusrare19_1_icon_c.png
   index: -1
 bonusrare19_1_bonusrare19_1_icon_d.png
   rotate: false
-  xy: 35, 24
+  xy: 221, 104
   size: 11, 19
   orig: 11, 19
   offset: 0, 0

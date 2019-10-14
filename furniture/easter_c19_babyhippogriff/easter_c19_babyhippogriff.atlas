@@ -1,390 +1,278 @@
 
 easter_c19_babyhippogriff.png
-size: 2048,128
+size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_0.png
   rotate: false
-  xy: 1040, 66
+  xy: 100, 9
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_1.png
   rotate: false
-  xy: 1432, 68
+  xy: 371, 2
   size: 47, 52
   orig: 47, 52
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_10.png
   rotate: false
-  xy: 1334, 66
+  xy: 420, 82
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_11.png
   rotate: false
-  xy: 1285, 66
+  xy: 371, 56
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_2.png
   rotate: false
-  xy: 893, 66
+  xy: 2, 8
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_3.png
   rotate: false
-  xy: 942, 66
+  xy: 457, 199
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_4.png
   rotate: false
-  xy: 1383, 67
+  xy: 457, 144
   size: 47, 53
   orig: 47, 53
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_5.png
   rotate: false
-  xy: 991, 66
+  xy: 51, 8
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_6.png
   rotate: false
-  xy: 1089, 66
+  xy: 149, 9
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_7.png
   rotate: false
-  xy: 1138, 66
+  xy: 198, 15
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_8.png
   rotate: false
-  xy: 1187, 66
+  xy: 247, 15
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_a_0_9.png
   rotate: false
-  xy: 1236, 66
+  xy: 367, 112
   size: 47, 54
   orig: 47, 54
   offset: 0, 0
   index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_0.png
-  rotate: false
-  xy: 1115, 54
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_1.png
-  rotate: false
-  xy: 1657, 98
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_10.png
   rotate: false
-  xy: 1768, 98
+  xy: 466, 48
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_11.png
   rotate: false
-  xy: 1768, 110
+  xy: 466, 60
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_12.png
   rotate: false
-  xy: 1152, 54
+  xy: 469, 72
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_13.png
   rotate: false
-  xy: 1694, 98
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_14.png
-  rotate: false
-  xy: 566, 32
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_2.png
-  rotate: false
-  xy: 1657, 110
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_3.png
-  rotate: false
-  xy: 1041, 54
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_4.png
-  rotate: false
-  xy: 1583, 98
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_5.png
-  rotate: false
-  xy: 1583, 110
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_6.png
-  rotate: false
-  xy: 967, 54
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_7.png
-  rotate: false
-  xy: 1509, 98
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_8.png
-  rotate: false
-  xy: 930, 54
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_0_9.png
-  rotate: false
-  xy: 48, 14
+  xy: 469, 84
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_0.png
   rotate: false
-  xy: 1694, 110
+  xy: 469, 96
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_1.png
   rotate: false
-  xy: 1078, 54
+  xy: 469, 108
   size: 35, 10
   orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_10.png
-  rotate: false
-  xy: 1805, 110
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_11.png
-  rotate: false
-  xy: 1189, 54
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_12.png
-  rotate: false
-  xy: 1731, 98
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_13.png
-  rotate: false
-  xy: 1731, 110
-  size: 35, 10
-  orig: 35, 10
-  offset: 0, 0
-  index: -1
-easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_14.png
-  rotate: false
-  xy: 737, 38
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_2.png
   rotate: false
-  xy: 1620, 98
+  xy: 469, 120
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_3.png
   rotate: false
-  xy: 1620, 110
+  xy: 469, 132
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_4.png
   rotate: false
-  xy: 1004, 54
+  xy: 235, 3
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_5.png
   rotate: false
-  xy: 1546, 98
+  xy: 198, 3
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_6.png
   rotate: false
-  xy: 1546, 110
+  xy: 420, 10
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_7.png
   rotate: false
-  xy: 48, 2
+  xy: 420, 22
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_8.png
   rotate: false
-  xy: 1509, 110
+  xy: 420, 34
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_b_2_9.png
   rotate: false
-  xy: 893, 54
+  xy: 420, 46
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_c_0_1.png
   rotate: false
-  xy: 818, 47
+  xy: 296, 12
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_c_0_10.png
   rotate: false
-  xy: 653, 36
+  xy: 373, 169
   size: 82, 84
   orig: 82, 84
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_c_0_11.png
   rotate: false
-  xy: 476, 29
+  xy: 466, 79
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_c_0_2.png
   rotate: false
-  xy: 737, 41
+  xy: 286, 87
   size: 79, 79
   orig: 79, 79
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_c_0_3.png
   rotate: false
-  xy: 566, 35
+  xy: 286, 168
   size: 85, 85
   orig: 85, 85
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_c_0_4.png
   rotate: false
-  xy: 192, 27
+  xy: 97, 160
   size: 93, 93
   orig: 93, 93
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_c_0_5.png
   rotate: false
-  xy: 97, 27
+  xy: 2, 64
   size: 93, 93
   orig: 93, 93
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_c_0_6.png
   rotate: false
-  xy: 287, 27
+  xy: 97, 65
   size: 93, 93
   orig: 93, 93
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_c_0_7.png
   rotate: false
-  xy: 2, 26
+  xy: 2, 159
   size: 93, 94
   orig: 93, 94
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_c_0_8.png
   rotate: false
-  xy: 382, 28
+  xy: 192, 161
   size: 92, 92
   orig: 92, 92
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_c_0_9.png
   rotate: false
-  xy: 476, 32
+  xy: 192, 71
   size: 88, 88
   orig: 88, 88
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_64_sd_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 420, 58
   size: 44, 22
   orig: 44, 22
   offset: 0, 0
   index: -1
 easter_c19_babyhippogriff_easter_c19_babyhippogriff_icon_a.png
   rotate: false
-  xy: 1481, 91
+  xy: 416, 138
   size: 26, 29
   orig: 26, 29
   offset: 0, 0

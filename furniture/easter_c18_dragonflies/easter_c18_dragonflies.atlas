@@ -1,75 +1,26 @@
 
 easter_c18_dragonflies.png
-size: 512,64
+size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_0.png
-  rotate: false
-  xy: 116, 16
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_1.png
-  rotate: false
-  xy: 304, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_10.png
-  rotate: false
-  xy: 100, 16
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_11.png
-  rotate: false
-  xy: 286, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_12.png
-  rotate: false
-  xy: 196, 16
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
 easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_13.png
   rotate: false
-  xy: 358, 34
+  xy: 106, 34
   size: 16, 18
   orig: 16, 18
   offset: 0, 0
   index: -1
 easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_14.png
   rotate: false
-  xy: 164, 16
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_15.png
-  rotate: false
-  xy: 376, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_16.png
-  rotate: false
-  xy: 180, 16
+  xy: 68, 16
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_17.png
   rotate: false
-  xy: 214, 34
+  xy: 88, 34
   size: 16, 18
   orig: 16, 18
   offset: 0, 0
@@ -81,109 +32,11 @@ easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_18.png
   orig: 14, 16
   offset: 0, 0
   index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_19.png
-  rotate: false
-  xy: 232, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_2.png
-  rotate: false
-  xy: 132, 16
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_3.png
-  rotate: false
-  xy: 322, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_4.png
-  rotate: false
-  xy: 148, 16
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_5.png
-  rotate: false
-  xy: 340, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_6.png
-  rotate: false
-  xy: 68, 16
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_7.png
-  rotate: false
-  xy: 250, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_8.png
-  rotate: false
-  xy: 84, 16
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_a_0_9.png
-  rotate: false
-  xy: 268, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_0.png
-  rotate: false
-  xy: 160, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_1.png
-  rotate: false
-  xy: 458, 36
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
 easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_10.png
   rotate: false
-  xy: 106, 34
+  xy: 70, 34
   size: 16, 18
   orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_11.png
-  rotate: false
-  xy: 410, 36
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_12.png
-  rotate: false
-  xy: 88, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_13.png
-  rotate: false
-  xy: 426, 36
-  size: 14, 16
-  orig: 14, 16
   offset: 0, 0
   index: -1
 easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_14.png
@@ -195,77 +48,14 @@ easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_14.png
   index: -1
 easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_15.png
   rotate: false
-  xy: 394, 36
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_16.png
-  rotate: false
-  xy: 70, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_17.png
-  rotate: false
-  xy: 442, 36
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_2.png
-  rotate: false
-  xy: 124, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_3.png
-  rotate: false
-  xy: 474, 36
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_4.png
-  rotate: false
-  xy: 142, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_5.png
-  rotate: false
   xy: 20, 4
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_6.png
-  rotate: false
-  xy: 178, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_7.png
+easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_17.png
   rotate: false
   xy: 36, 17
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_8.png
-  rotate: false
-  xy: 196, 34
-  size: 16, 18
-  orig: 16, 18
-  offset: 0, 0
-  index: -1
-easter_c18_dragonflies_easter_c18_dragonflies_64_b_0_9.png
-  rotate: false
-  xy: 490, 36
   size: 14, 16
   orig: 14, 16
   offset: 0, 0

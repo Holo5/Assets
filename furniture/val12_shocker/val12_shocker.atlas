@@ -4,6 +4,41 @@ size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+val12_shocker_val12_shocker_32_f_0_0.png
+  rotate: false
+  xy: 58, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_32_f_0_0.png
+  rotate: false
+  xy: 61, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_32_f_0_0.png
+  rotate: false
+  xy: 64, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_32_f_0_0.png
+  rotate: false
+  xy: 58, 140
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_32_f_0_0.png
+  rotate: false
+  xy: 61, 140
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 val12_shocker_val12_shocker_64_a_0_0.png
   rotate: false
   xy: 2, 139
@@ -25,16 +60,9 @@ val12_shocker_val12_shocker_64_c_0_0.png
   orig: 17, 97
   offset: 0, 0
   index: -1
-val12_shocker_val12_shocker_64_d_0_0.png
-  rotate: false
-  xy: 61, 140
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val12_shocker_val12_shocker_64_d_0_1.png
   rotate: false
-  xy: 158, 73
+  xy: 205, 200
   size: 25, 26
   orig: 25, 26
   offset: 0, 0
@@ -46,46 +74,11 @@ val12_shocker_val12_shocker_64_d_0_2.png
   orig: 26, 26
   offset: 0, 0
   index: -1
-val12_shocker_val12_shocker_64_e_0_0.png
-  rotate: false
-  xy: 61, 143
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-val12_shocker_val12_shocker_64_e_0_1.png
-  rotate: false
-  xy: 158, 45
-  size: 25, 26
-  orig: 25, 26
-  offset: 0, 0
-  index: -1
-val12_shocker_val12_shocker_64_e_0_2.png
-  rotate: false
-  xy: 205, 200
-  size: 26, 26
-  orig: 26, 26
-  offset: 0, 0
-  index: -1
-val12_shocker_val12_shocker_64_f_0_0.png
-  rotate: false
-  xy: 58, 143
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val12_shocker_val12_shocker_64_f_0_1.png
   rotate: false
   xy: 91, 125
   size: 19, 19
   orig: 19, 19
-  offset: 0, 0
-  index: -1
-val12_shocker_val12_shocker_64_g_0_0.png
-  rotate: false
-  xy: 64, 143
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val12_shocker_val12_shocker_64_g_0_1.png
@@ -114,13 +107,6 @@ val12_shocker_val12_shocker_64_g_0_4.png
   xy: 2, 77
   size: 61, 60
   orig: 61, 60
-  offset: 0, 0
-  index: -1
-val12_shocker_val12_shocker_64_h_0_0.png
-  rotate: false
-  xy: 58, 140
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val12_shocker_val12_shocker_64_h_0_1.png

@@ -4,6 +4,20 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hblooza14_rollercost_hblooza14_rollercost_32_e_6_0.png
+  rotate: false
+  xy: 215, 65
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hblooza14_rollercost_hblooza14_rollercost_32_e_6_0.png
+  rotate: false
+  xy: 290, 74
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 hblooza14_rollercost_hblooza14_rollercost_64_a_4_0.png
   rotate: false
   xy: 290, 77
@@ -88,25 +102,11 @@ hblooza14_rollercost_hblooza14_rollercost_64_d_6_1.png
   orig: 22, 13
   offset: 0, 0
   index: -1
-hblooza14_rollercost_hblooza14_rollercost_64_e_4_0.png
-  rotate: false
-  xy: 215, 65
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 hblooza14_rollercost_hblooza14_rollercost_64_e_4_1.png
   rotate: false
   xy: 2, 45
   size: 112, 81
   orig: 112, 81
-  offset: 0, 0
-  index: -1
-hblooza14_rollercost_hblooza14_rollercost_64_e_6_0.png
-  rotate: false
-  xy: 290, 74
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 hblooza14_rollercost_hblooza14_rollercost_64_e_6_1.png

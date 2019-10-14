@@ -32,13 +32,6 @@ val_r19_bath_val_r19_bath_64_d_2_0.png
   orig: 55, 36
   offset: 0, 0
   index: -1
-val_r19_bath_val_r19_bath_64_e_2_0.png
-  rotate: false
-  xy: 186, 82
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val_r19_bath_val_r19_bath_64_e_2_1.png
   rotate: false
   xy: 542, 96
@@ -65,13 +58,6 @@ val_r19_bath_val_r19_bath_64_e_2_4.png
   xy: 871, 48
   size: 61, 32
   orig: 61, 32
-  offset: 0, 0
-  index: -1
-val_r19_bath_val_r19_bath_64_f_2_0.png
-  rotate: false
-  xy: 183, 82
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val_r19_bath_val_r19_bath_64_f_2_1.png
@@ -102,13 +88,6 @@ val_r19_bath_val_r19_bath_64_f_2_4.png
   orig: 70, 40
   offset: 0, 0
   index: -1
-val_r19_bath_val_r19_bath_64_g_2_0.png
-  rotate: false
-  xy: 244, 82
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val_r19_bath_val_r19_bath_64_g_2_1.png
   rotate: false
   xy: 871, 82
@@ -135,13 +114,6 @@ val_r19_bath_val_r19_bath_64_g_2_4.png
   xy: 151, 2
   size: 39, 26
   orig: 39, 26
-  offset: 0, 0
-  index: -1
-val_r19_bath_val_r19_bath_64_h_2_0.png
-  rotate: false
-  xy: 992, 96
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val_r19_bath_val_r19_bath_64_h_2_1.png
@@ -207,13 +179,6 @@ val_r19_bath_val_r19_bath_64_i_2_4.png
   orig: 35, 13
   offset: 0, 0
   index: -1
-val_r19_bath_val_r19_bath_64_j_2_0.png
-  rotate: false
-  xy: 930, 88
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val_r19_bath_val_r19_bath_64_j_2_1.png
   rotate: false
   xy: 129, 17
@@ -242,13 +207,6 @@ val_r19_bath_val_r19_bath_64_j_2_4.png
   orig: 38, 17
   offset: 0, 0
   index: -1
-val_r19_bath_val_r19_bath_64_k_2_0.png
-  rotate: false
-  xy: 74, 60
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val_r19_bath_val_r19_bath_64_k_2_1.png
   rotate: false
   xy: 375, 77
@@ -275,13 +233,6 @@ val_r19_bath_val_r19_bath_64_k_2_4.png
   xy: 415, 75
   size: 17, 15
   orig: 17, 15
-  offset: 0, 0
-  index: -1
-val_r19_bath_val_r19_bath_64_l_2_0.png
-  rotate: false
-  xy: 180, 82
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 val_r19_bath_val_r19_bath_64_l_2_1.png

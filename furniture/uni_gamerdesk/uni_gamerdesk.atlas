@@ -4,6 +4,41 @@ size: 2048,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+uni_gamerdesk_uni_gamerdesk_32_f_4_0.png
+  rotate: false
+  xy: 205, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+uni_gamerdesk_uni_gamerdesk_32_f_4_0.png
+  rotate: false
+  xy: 915, 71
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+uni_gamerdesk_uni_gamerdesk_32_f_4_0.png
+  rotate: false
+  xy: 208, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+uni_gamerdesk_uni_gamerdesk_32_f_4_0.png
+  rotate: false
+  xy: 918, 71
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+uni_gamerdesk_uni_gamerdesk_32_f_4_0.png
+  rotate: false
+  xy: 211, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 uni_gamerdesk_uni_gamerdesk_64_a_2_0.png
   rotate: false
   xy: 331, 46
@@ -34,7 +69,7 @@ uni_gamerdesk_uni_gamerdesk_64_b_4_0.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_c_2_0.png
   rotate: false
-  xy: 370, 42
+  xy: 292, 2
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
@@ -46,13 +81,6 @@ uni_gamerdesk_uni_gamerdesk_64_c_2_1.png
   orig: 14, 53
   offset: 0, 0
   index: -1
-uni_gamerdesk_uni_gamerdesk_64_c_4_0.png
-  rotate: false
-  xy: 915, 71
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 uni_gamerdesk_uni_gamerdesk_64_c_4_1.png
   rotate: false
   xy: 435, 68
@@ -62,14 +90,14 @@ uni_gamerdesk_uni_gamerdesk_64_c_4_1.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_d_2_0.png
   rotate: false
-  xy: 370, 38
+  xy: 1113, 47
   size: 1, 2
   orig: 1, 2
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_d_2_1.png
   rotate: false
-  xy: 1267, 83
+  xy: 1251, 83
   size: 7, 16
   orig: 7, 16
   offset: 0, 0
@@ -90,21 +118,21 @@ uni_gamerdesk_uni_gamerdesk_64_d_2_2.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_d_2_3.png
   rotate: false
-  xy: 565, 5
+  xy: 1316, 118
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_d_2_4.png
   rotate: false
-  xy: 1316, 118
+  xy: 1284, 104
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_d_2_5.png
   rotate: false
-  xy: 292, 7
+  xy: 1275, 102
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
@@ -118,7 +146,7 @@ uni_gamerdesk_uni_gamerdesk_64_d_2_6.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_d_2_7.png
   rotate: false
-  xy: 556, 2
+  xy: 292, 6
   size: 7, 11
   orig: 7, 11
   offset: 0, 0
@@ -132,16 +160,9 @@ uni_gamerdesk_uni_gamerdesk_64_d_2_8.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_d_2_9.png
   rotate: false
-  xy: 1275, 103
+  xy: 1260, 90
   size: 5, 9
   orig: 5, 9
-  offset: 0, 0
-  index: -1
-uni_gamerdesk_uni_gamerdesk_64_d_4_0.png
-  rotate: false
-  xy: 205, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_d_4_1.png
@@ -174,7 +195,7 @@ uni_gamerdesk_uni_gamerdesk_64_d_4_3.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_d_4_4.png
   rotate: false
-  xy: 976, 55
+  xy: 1166, 57
   size: 12, 17
   orig: 12, 17
   offset: 0, 0
@@ -202,7 +223,7 @@ uni_gamerdesk_uni_gamerdesk_64_d_4_7.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_d_4_8.png
   rotate: false
-  xy: 1251, 82
+  xy: 1150, 57
   size: 14, 17
   orig: 14, 17
   offset: 0, 0
@@ -230,35 +251,35 @@ uni_gamerdesk_uni_gamerdesk_64_e_2_1.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_e_2_10.png
   rotate: false
-  xy: 573, 15
+  xy: 568, 15
   size: 13, 51
   orig: 13, 51
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_e_2_11.png
   rotate: false
-  xy: 588, 15
+  xy: 583, 15
   size: 13, 51
   orig: 13, 51
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_e_2_2.png
   rotate: false
-  xy: 990, 53
+  xy: 1180, 55
   size: 7, 19
   orig: 7, 19
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_e_2_3.png
   rotate: false
-  xy: 999, 50
+  xy: 1189, 52
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_e_2_4.png
   rotate: false
-  xy: 858, 31
+  xy: 1047, 38
   size: 10, 36
   orig: 10, 36
   offset: 0, 0
@@ -272,37 +293,30 @@ uni_gamerdesk_uni_gamerdesk_64_e_2_5.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_e_2_6.png
   rotate: false
-  xy: 497, 3
+  xy: 808, 22
   size: 12, 44
   orig: 12, 44
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_e_2_7.png
   rotate: false
-  xy: 467, 3
+  xy: 778, 22
   size: 13, 44
   orig: 13, 44
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_e_2_8.png
   rotate: false
-  xy: 482, 3
+  xy: 793, 22
   size: 13, 44
   orig: 13, 44
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_e_2_9.png
   rotate: false
-  xy: 603, 15
+  xy: 598, 15
   size: 13, 51
   orig: 13, 51
-  offset: 0, 0
-  index: -1
-uni_gamerdesk_uni_gamerdesk_64_e_4_0.png
-  rotate: false
-  xy: 373, 38
-  size: 1, 2
-  orig: 1, 2
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_e_4_1.png
@@ -391,16 +405,9 @@ uni_gamerdesk_uni_gamerdesk_64_f_2_0.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_f_2_1.png
   rotate: false
-  xy: 618, 15
+  xy: 613, 15
   size: 13, 51
   orig: 13, 51
-  offset: 0, 0
-  index: -1
-uni_gamerdesk_uni_gamerdesk_64_f_4_0.png
-  rotate: false
-  xy: 208, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_f_4_1.png
@@ -410,114 +417,107 @@ uni_gamerdesk_uni_gamerdesk_64_f_4_1.png
   orig: 46, 28
   offset: 0, 0
   index: -1
-uni_gamerdesk_uni_gamerdesk_64_g_2_0.png
-  rotate: false
-  xy: 885, 33
-  size: 1, 2
-  orig: 1, 2
-  offset: 0, 0
-  index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_1.png
   rotate: false
-  xy: 768, 26
+  xy: 942, 32
   size: 13, 40
   orig: 13, 40
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_10.png
   rotate: false
-  xy: 813, 26
+  xy: 987, 32
   size: 13, 40
   orig: 13, 40
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_11.png
   rotate: false
-  xy: 843, 29
+  xy: 1017, 36
   size: 13, 38
   orig: 13, 38
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_12.png
   rotate: false
-  xy: 885, 37
+  xy: 1059, 42
   size: 13, 32
   orig: 13, 32
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_13.png
   rotate: false
-  xy: 362, 3
+  xy: 347, 3
   size: 13, 33
   orig: 13, 33
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_14.png
   rotate: false
-  xy: 556, 15
+  xy: 551, 15
   size: 15, 51
   orig: 15, 51
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_15.png
   rotate: false
-  xy: 678, 17
+  xy: 673, 17
   size: 13, 49
   orig: 13, 49
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_16.png
   rotate: false
-  xy: 392, 2
+  xy: 703, 20
   size: 13, 46
   orig: 13, 46
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_17.png
   rotate: false
-  xy: 828, 28
+  xy: 1002, 33
   size: 13, 39
   orig: 13, 39
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_18.png
   rotate: false
-  xy: 870, 33
+  xy: 1032, 38
   size: 13, 36
   orig: 13, 36
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_19.png
   rotate: false
-  xy: 511, 4
+  xy: 822, 24
   size: 13, 43
   orig: 13, 43
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_2.png
   rotate: false
-  xy: 798, 26
+  xy: 972, 32
   size: 13, 40
   orig: 13, 40
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_20.png
   rotate: false
-  xy: 526, 4
+  xy: 837, 24
   size: 13, 43
   orig: 13, 43
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_21.png
   rotate: false
-  xy: 663, 14
+  xy: 658, 14
   size: 13, 52
   orig: 13, 52
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_22.png
   rotate: false
-  xy: 407, 2
+  xy: 718, 20
   size: 13, 46
   orig: 13, 46
   offset: 0, 0
@@ -529,102 +529,88 @@ uni_gamerdesk_uni_gamerdesk_64_g_2_23.png
   orig: 13, 34
   offset: 0, 0
   index: -1
-uni_gamerdesk_uni_gamerdesk_64_g_2_24.png
-  rotate: false
-  xy: 347, 2
-  size: 13, 34
-  orig: 13, 34
-  offset: 0, 0
-  index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_25.png
   rotate: false
-  xy: 452, 2
+  xy: 763, 21
   size: 13, 45
   orig: 13, 45
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_26.png
   rotate: false
-  xy: 437, 2
+  xy: 748, 21
   size: 13, 45
   orig: 13, 45
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_27.png
   rotate: false
-  xy: 633, 15
+  xy: 628, 15
   size: 13, 51
   orig: 13, 51
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_28.png
   rotate: false
-  xy: 422, 2
+  xy: 733, 21
   size: 13, 45
   orig: 13, 45
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_29.png
   rotate: false
-  xy: 693, 18
+  xy: 688, 18
   size: 13, 48
   orig: 13, 48
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_3.png
   rotate: false
-  xy: 783, 26
+  xy: 957, 32
   size: 13, 40
   orig: 13, 40
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_4.png
   rotate: false
-  xy: 723, 26
+  xy: 897, 29
   size: 13, 40
   orig: 13, 40
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_5.png
   rotate: false
-  xy: 708, 26
+  xy: 882, 29
   size: 13, 40
   orig: 13, 40
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_6.png
   rotate: false
-  xy: 753, 26
+  xy: 927, 32
   size: 13, 40
   orig: 13, 40
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_7.png
   rotate: false
-  xy: 738, 26
+  xy: 912, 29
   size: 13, 40
   orig: 13, 40
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_8.png
   rotate: false
-  xy: 541, 8
+  xy: 867, 29
   size: 13, 40
   orig: 13, 40
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_2_9.png
   rotate: false
-  xy: 377, 4
+  xy: 852, 27
   size: 13, 40
   orig: 13, 40
-  offset: 0, 0
-  index: -1
-uni_gamerdesk_uni_gamerdesk_64_g_4_0.png
-  rotate: false
-  xy: 1203, 80
-  size: 1, 2
-  orig: 1, 2
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_g_4_1.png
@@ -832,23 +818,16 @@ uni_gamerdesk_uni_gamerdesk_64_g_4_9.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_h_2_0.png
   rotate: false
-  xy: 258, 2
+  xy: 1059, 38
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_h_2_1.png
   rotate: false
-  xy: 648, 15
+  xy: 643, 15
   size: 13, 51
   orig: 13, 51
-  offset: 0, 0
-  index: -1
-uni_gamerdesk_uni_gamerdesk_64_h_4_0.png
-  rotate: false
-  xy: 565, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_h_4_1.png
@@ -858,16 +837,9 @@ uni_gamerdesk_uni_gamerdesk_64_h_4_1.png
   orig: 46, 28
   offset: 0, 0
   index: -1
-uni_gamerdesk_uni_gamerdesk_64_i_2_0.png
-  rotate: false
-  xy: 939, 45
-  size: 1, 2
-  orig: 1, 2
-  offset: 0, 0
-  index: -1
 uni_gamerdesk_uni_gamerdesk_64_i_2_1.png
   rotate: false
-  xy: 551, 62
+  xy: 362, 32
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
@@ -895,56 +867,49 @@ uni_gamerdesk_uni_gamerdesk_64_i_2_3.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_i_2_4.png
   rotate: false
-  xy: 952, 49
+  xy: 1126, 51
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_i_2_5.png
   rotate: false
-  xy: 964, 49
+  xy: 1138, 51
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_i_2_6.png
   rotate: false
-  xy: 939, 49
+  xy: 1113, 51
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_i_2_7.png
   rotate: false
-  xy: 900, 40
+  xy: 1074, 45
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_i_2_8.png
   rotate: false
-  xy: 913, 40
+  xy: 1087, 45
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_i_2_9.png
   rotate: false
-  xy: 926, 43
+  xy: 1100, 45
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
   index: -1
-uni_gamerdesk_uni_gamerdesk_64_i_4_0.png
-  rotate: false
-  xy: 918, 71
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 uni_gamerdesk_uni_gamerdesk_64_i_4_1.png
   rotate: false
-  xy: 387, 46
+  xy: 258, 2
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
@@ -958,7 +923,7 @@ uni_gamerdesk_uni_gamerdesk_64_i_4_10.png
   index: -1
 uni_gamerdesk_uni_gamerdesk_64_i_4_2.png
   rotate: false
-  xy: 708, 22
+  xy: 387, 46
   size: 9, 2
   orig: 9, 2
   offset: 0, 0

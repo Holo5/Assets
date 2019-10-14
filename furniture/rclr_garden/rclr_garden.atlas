@@ -4,6 +4,13 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+rclr_garden_rclr_garden_32_d_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 rclr_garden_rclr_garden_64_a_0_0.png
   rotate: false
   xy: 80, 18
@@ -23,13 +30,6 @@ rclr_garden_rclr_garden_64_c_0_0.png
   xy: 2, 5
   size: 76, 107
   orig: 76, 107
-  offset: 0, 0
-  index: -1
-rclr_garden_rclr_garden_64_d_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 rclr_garden_rclr_garden_64_d_0_1.png

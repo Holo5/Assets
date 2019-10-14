@@ -32,13 +32,6 @@ val15_bridge1_val15_bridge1_64_b_4_0.png
   orig: 40, 50
   offset: 0, 0
   index: -1
-val15_bridge1_val15_bridge1_64_c_0_0.png
-  rotate: false
-  xy: 144, 57
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 val15_bridge1_val15_bridge1_64_c_0_1.png
   rotate: false
   xy: 2, 6
@@ -48,7 +41,7 @@ val15_bridge1_val15_bridge1_64_c_0_1.png
   index: -1
 val15_bridge1_val15_bridge1_64_c_4_0.png
   rotate: false
-  xy: 44, 25
+  xy: 144, 57
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -63,20 +56,6 @@ val15_bridge1_val15_bridge1_64_c_4_1.png
 val15_bridge1_val15_bridge1_64_d_0_0.png
   rotate: false
   xy: 76, 25
-  size: 66, 33
-  orig: 66, 33
-  offset: 0, 0
-  index: -1
-val15_bridge1_val15_bridge1_64_d_0_1.png
-  rotate: false
-  xy: 147, 57
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-val15_bridge1_val15_bridge1_64_d_4_0.png
-  rotate: false
-  xy: 144, 9
   size: 66, 33
   orig: 66, 33
   offset: 0, 0

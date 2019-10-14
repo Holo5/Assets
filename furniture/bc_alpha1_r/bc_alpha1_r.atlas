@@ -4,6 +4,20 @@ size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+bc_alpha1_r_bc_alpha1_r_32_a_2_0.png
+  rotate: false
+  xy: 278, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+bc_alpha1_r_bc_alpha1_r_32_b_2_0.png
+  rotate: false
+  xy: 141, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
 bc_alpha1_r_bc_alpha1_r_64_a_0_0.png
   rotate: false
   xy: 2, 10
@@ -44,19 +58,5 @@ bc_alpha1_r_bc_alpha1_r_64_sd_2_0.png
   xy: 232, 40
   size: 44, 22
   orig: 44, 22
-  offset: 0, 0
-  index: -1
-bc_alpha1_r_bc_alpha1_r_icon_a.png
-  rotate: false
-  xy: 278, 36
-  size: 23, 26
-  orig: 23, 26
-  offset: 0, 0
-  index: -1
-bc_alpha1_r_bc_alpha1_r_icon_b.png
-  rotate: false
-  xy: 141, 2
-  size: 21, 19
-  orig: 21, 19
   offset: 0, 0
   index: -1

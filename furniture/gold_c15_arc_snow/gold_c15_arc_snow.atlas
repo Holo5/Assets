@@ -4,13 +4,6 @@ size: 2048,512
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-gold_c15_arc_snow_gold_c15_arc_snow_64_a_0_0.png
-  rotate: false
-  xy: 1693, 462
-  size: 23, 23
-  orig: 23, 23
-  offset: 0, 0
-  index: -1
 gold_c15_arc_snow_gold_c15_arc_snow_64_a_0_1.png
   rotate: false
   xy: 343, 256
@@ -237,7 +230,7 @@ gold_c15_arc_snow_gold_c15_arc_snow_64_e_0_0.png
   index: -1
 gold_c15_arc_snow_gold_c15_arc_snow_64_e_0_1.png
   rotate: false
-  xy: 1693, 446
+  xy: 1718, 496
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
@@ -251,28 +244,28 @@ gold_c15_arc_snow_gold_c15_arc_snow_64_e_0_2.png
   index: -1
 gold_c15_arc_snow_gold_c15_arc_snow_64_e_0_3.png
   rotate: false
-  xy: 1731, 503
+  xy: 1706, 478
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 gold_c15_arc_snow_gold_c15_arc_snow_64_e_0_4.png
   rotate: false
-  xy: 1718, 490
+  xy: 1693, 465
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 gold_c15_arc_snow_gold_c15_arc_snow_64_e_0_5.png
   rotate: false
-  xy: 1693, 451
+  xy: 1718, 501
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
 gold_c15_arc_snow_gold_c15_arc_snow_64_e_0_6.png
   rotate: false
-  xy: 1718, 499
+  xy: 1693, 474
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
