@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 shoes_U_bowtights_h_sit_sh_3059_0_0.png
   rotate: false
-  xy: 643, 9
+  xy: 671, 9
   size: 19, 21
   orig: 19, 21
   offset: 0, 0
@@ -18,9 +18,16 @@ shoes_U_bowtights_h_sit_sh_3059_2_0.png
   orig: 26, 20
   offset: 0, 0
   index: -1
+shoes_U_bowtights_h_sit_sh_3059_2_0.png
+  rotate: false
+  xy: 228, 10
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
 shoes_U_bowtights_h_sit_sh_3060_0_0.png
   rotate: false
-  xy: 720, 15
+  xy: 748, 15
   size: 13, 15
   orig: 13, 15
   offset: 0, 0
@@ -32,37 +39,44 @@ shoes_U_bowtights_h_sit_sh_3060_2_0.png
   orig: 4, 9
   offset: 0, 0
   index: -1
+shoes_U_bowtights_h_sit_sh_3060_2_0.png
+  rotate: false
+  xy: 710, 2
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
 shoes_U_bowtights_h_std_sh_3059_0_0.png
   rotate: false
-  xy: 228, 11
+  xy: 256, 11
   size: 26, 19
   orig: 26, 19
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_std_sh_3059_1_0.png
   rotate: false
-  xy: 685, 16
+  xy: 713, 16
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_std_sh_3059_2_0.png
   rotate: false
-  xy: 256, 11
+  xy: 284, 11
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_std_sh_3059_3_0.png
   rotate: false
-  xy: 436, 16
+  xy: 464, 16
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_std_sh_3059_7_0.png
   rotate: false
-  xy: 413, 16
+  xy: 441, 16
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
@@ -76,7 +90,7 @@ shoes_U_bowtights_h_std_sh_3060_0_0.png
   index: -1
 shoes_U_bowtights_h_std_sh_3060_1_0.png
   rotate: false
-  xy: 885, 23
+  xy: 913, 23
   size: 11, 7
   orig: 11, 7
   offset: 0, 0
@@ -104,7 +118,7 @@ shoes_U_bowtights_h_std_sh_3060_7_0.png
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_0_0.png
   rotate: false
-  xy: 310, 12
+  xy: 338, 12
   size: 25, 18
   orig: 25, 18
   offset: 0, 0
@@ -125,14 +139,14 @@ shoes_U_bowtights_h_wlk_sh_3059_0_2.png
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_0_3.png
   rotate: false
-  xy: 337, 15
+  xy: 365, 15
   size: 27, 15
   orig: 27, 15
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_1_0.png
   rotate: false
-  xy: 366, 15
+  xy: 394, 15
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
@@ -146,7 +160,7 @@ shoes_U_bowtights_h_wlk_sh_3059_1_1.png
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_1_2.png
   rotate: false
-  xy: 389, 16
+  xy: 417, 16
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
@@ -160,21 +174,21 @@ shoes_U_bowtights_h_wlk_sh_3059_1_3.png
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_2_0.png
   rotate: false
-  xy: 281, 12
+  xy: 309, 12
   size: 27, 18
   orig: 27, 18
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_2_1.png
   rotate: false
-  xy: 704, 14
+  xy: 732, 14
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_2_2.png
   rotate: false
-  xy: 664, 13
+  xy: 692, 13
   size: 19, 17
   orig: 19, 17
   offset: 0, 0
@@ -188,70 +202,70 @@ shoes_U_bowtights_h_wlk_sh_3059_2_3.png
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_3_0.png
   rotate: false
-  xy: 459, 14
+  xy: 487, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_3_1.png
   rotate: false
-  xy: 528, 14
+  xy: 556, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_3_2.png
   rotate: false
-  xy: 505, 14
+  xy: 533, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_3_3.png
   rotate: false
-  xy: 482, 14
+  xy: 510, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_7_0.png
   rotate: false
-  xy: 597, 13
+  xy: 625, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_7_1.png
   rotate: false
-  xy: 551, 14
+  xy: 579, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_7_2.png
   rotate: false
-  xy: 574, 13
+  xy: 602, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3059_7_3.png
   rotate: false
-  xy: 620, 14
+  xy: 648, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_0_0.png
   rotate: false
-  xy: 735, 20
+  xy: 763, 20
   size: 18, 10
   orig: 18, 10
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_0_1.png
   rotate: false
-  xy: 228, 2
+  xy: 256, 2
   size: 35, 7
   orig: 35, 7
   offset: 0, 0
@@ -265,56 +279,56 @@ shoes_U_bowtights_h_wlk_sh_3060_0_2.png
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_0_3.png
   rotate: false
-  xy: 332, 2
+  xy: 360, 2
   size: 17, 8
   orig: 17, 8
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_1_0.png
   rotate: false
-  xy: 872, 23
+  xy: 900, 23
   size: 11, 7
   orig: 11, 7
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_1_1.png
   rotate: false
-  xy: 265, 2
+  xy: 293, 2
   size: 32, 7
   orig: 32, 7
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_1_2.png
   rotate: false
-  xy: 857, 23
+  xy: 885, 23
   size: 13, 7
   orig: 13, 7
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_1_3.png
   rotate: false
-  xy: 299, 2
+  xy: 327, 2
   size: 31, 8
   orig: 31, 8
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_2_0.png
   rotate: false
-  xy: 620, 2
+  xy: 648, 2
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_2_1.png
   rotate: false
-  xy: 898, 23
+  xy: 926, 23
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_2_2.png
   rotate: false
-  xy: 351, 2
+  xy: 379, 2
   size: 13, 10
   orig: 13, 10
   offset: 0, 0
@@ -328,42 +342,42 @@ shoes_U_bowtights_h_wlk_sh_3060_2_3.png
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_3_0.png
   rotate: false
-  xy: 806, 22
+  xy: 834, 22
   size: 15, 8
   orig: 15, 8
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_3_1.png
   rotate: false
-  xy: 823, 22
+  xy: 851, 22
   size: 15, 8
   orig: 15, 8
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_3_2.png
   rotate: false
-  xy: 840, 22
+  xy: 868, 22
   size: 15, 8
   orig: 15, 8
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_3_3.png
   rotate: false
-  xy: 789, 22
+  xy: 817, 22
   size: 15, 8
   orig: 15, 8
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_7_0.png
   rotate: false
-  xy: 664, 2
+  xy: 692, 2
   size: 16, 9
   orig: 16, 9
   offset: 0, 0
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_7_1.png
   rotate: false
-  xy: 755, 22
+  xy: 783, 22
   size: 15, 8
   orig: 15, 8
   offset: 0, 0
@@ -377,7 +391,7 @@ shoes_U_bowtights_h_wlk_sh_3060_7_2.png
   index: -1
 shoes_U_bowtights_h_wlk_sh_3060_7_3.png
   rotate: false
-  xy: 772, 22
+  xy: 800, 22
   size: 15, 8
   orig: 15, 8
   offset: 0, 0

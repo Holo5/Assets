@@ -11,6 +11,13 @@ shoes_U_football_h_lay_sh_2178_2_0.png
   orig: 20, 23
   offset: 0, 0
   index: -1
+shoes_U_football_h_lay_sh_2178_2_0.png
+  rotate: false
+  xy: 594, 7
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
 shoes_U_football_h_lay_sh_2179_2_0.png
   rotate: false
   xy: 529, 2
@@ -18,9 +25,16 @@ shoes_U_football_h_lay_sh_2179_2_0.png
   orig: 15, 15
   offset: 0, 0
   index: -1
+shoes_U_football_h_lay_sh_2179_2_0.png
+  rotate: false
+  xy: 791, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
 shoes_U_football_h_sit_sh_2178_0_0.png
   rotate: false
-  xy: 594, 9
+  xy: 616, 9
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
@@ -34,14 +48,21 @@ shoes_U_football_h_sit_sh_2179_0_0.png
   index: -1
 shoes_U_football_h_sit_sh_2180_0_0.png
   rotate: false
-  xy: 886, 14
+  xy: 927, 14
   size: 17, 16
   orig: 17, 16
   offset: 0, 0
   index: -1
 shoes_U_football_h_sit_sh_2180_2_0.png
   rotate: false
-  xy: 616, 9
+  xy: 638, 9
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+shoes_U_football_h_sit_sh_2180_2_0.png
+  rotate: false
+  xy: 657, 9
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
@@ -55,7 +76,7 @@ shoes_U_football_h_std_sh_2178_0_0.png
   index: -1
 shoes_U_football_h_std_sh_2178_1_0.png
   rotate: false
-  xy: 823, 19
+  xy: 864, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
@@ -83,14 +104,14 @@ shoes_U_football_h_std_sh_2178_7_0.png
   index: -1
 shoes_U_football_h_std_sh_2179_0_0.png
   rotate: false
-  xy: 741, 2
+  xy: 865, 9
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 shoes_U_football_h_std_sh_2179_1_0.png
   rotate: false
-  xy: 789, 12
+  xy: 977, 9
   size: 13, 8
   orig: 13, 8
   offset: 0, 0
@@ -104,28 +125,28 @@ shoes_U_football_h_std_sh_2179_2_0.png
   index: -1
 shoes_U_football_h_std_sh_2179_3_0.png
   rotate: false
-  xy: 750, 19
+  xy: 791, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_football_h_std_sh_2179_7_0.png
   rotate: false
-  xy: 278, 4
+  xy: 768, 14
   size: 21, 2
   orig: 21, 2
   offset: 0, 0
   index: -1
 shoes_U_football_h_std_sh_2180_0_0.png
   rotate: false
-  xy: 773, 22
+  xy: 814, 22
   size: 24, 8
   orig: 24, 8
   offset: 0, 0
   index: -1
 shoes_U_football_h_std_sh_2180_1_0.png
   rotate: false
-  xy: 705, 4
+  xy: 746, 4
   size: 17, 8
   orig: 17, 8
   offset: 0, 0
@@ -139,14 +160,14 @@ shoes_U_football_h_std_sh_2180_2_0.png
   index: -1
 shoes_U_football_h_std_sh_2180_3_0.png
   rotate: false
-  xy: 724, 2
+  xy: 808, 2
   size: 15, 7
   orig: 15, 7
   offset: 0, 0
   index: -1
 shoes_U_football_h_std_sh_2180_7_0.png
   rotate: false
-  xy: 594, 2
+  xy: 616, 2
   size: 19, 5
   orig: 19, 5
   offset: 0, 0
@@ -181,7 +202,7 @@ shoes_U_football_h_wlk_sh_2178_0_3.png
   index: -1
 shoes_U_football_h_wlk_sh_2178_1_0.png
   rotate: false
-  xy: 727, 18
+  xy: 768, 18
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
@@ -216,7 +237,7 @@ shoes_U_football_h_wlk_sh_2178_2_0.png
   index: -1
 shoes_U_football_h_wlk_sh_2178_2_1.png
   rotate: false
-  xy: 866, 19
+  xy: 907, 19
   size: 18, 11
   orig: 18, 11
   offset: 0, 0
@@ -244,7 +265,7 @@ shoes_U_football_h_wlk_sh_2178_3_0.png
   index: -1
 shoes_U_football_h_wlk_sh_2178_3_1.png
   rotate: false
-  xy: 681, 14
+  xy: 722, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
@@ -258,7 +279,7 @@ shoes_U_football_h_wlk_sh_2178_3_2.png
   index: -1
 shoes_U_football_h_wlk_sh_2178_3_3.png
   rotate: false
-  xy: 704, 14
+  xy: 745, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
@@ -272,7 +293,7 @@ shoes_U_football_h_wlk_sh_2178_7_0.png
   index: -1
 shoes_U_football_h_wlk_sh_2178_7_1.png
   rotate: false
-  xy: 635, 14
+  xy: 676, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
@@ -286,7 +307,7 @@ shoes_U_football_h_wlk_sh_2178_7_2.png
   index: -1
 shoes_U_football_h_wlk_sh_2178_7_3.png
   rotate: false
-  xy: 658, 14
+  xy: 699, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
@@ -307,21 +328,21 @@ shoes_U_football_h_wlk_sh_2179_0_1.png
   index: -1
 shoes_U_football_h_wlk_sh_2179_0_2.png
   rotate: false
-  xy: 753, 2
+  xy: 927, 4
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2179_0_3.png
   rotate: false
-  xy: 905, 14
+  xy: 946, 14
   size: 12, 16
   orig: 12, 16
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2179_1_0.png
   rotate: false
-  xy: 773, 12
+  xy: 848, 12
   size: 14, 8
   orig: 14, 8
   offset: 0, 0
@@ -335,7 +356,7 @@ shoes_U_football_h_wlk_sh_2179_1_1.png
   index: -1
 shoes_U_football_h_wlk_sh_2179_1_2.png
   rotate: false
-  xy: 919, 8
+  xy: 814, 11
   size: 15, 9
   orig: 15, 9
   offset: 0, 0
@@ -349,14 +370,14 @@ shoes_U_football_h_wlk_sh_2179_1_3.png
   index: -1
 shoes_U_football_h_wlk_sh_2179_2_0.png
   rotate: false
-  xy: 635, 2
+  xy: 676, 2
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2179_2_1.png
   rotate: false
-  xy: 804, 14
+  xy: 994, 14
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
@@ -412,28 +433,28 @@ shoes_U_football_h_wlk_sh_2179_7_0.png
   index: -1
 shoes_U_football_h_wlk_sh_2179_7_1.png
   rotate: false
-  xy: 659, 2
+  xy: 700, 2
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2179_7_2.png
   rotate: false
-  xy: 567, 4
+  xy: 786, 10
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2179_7_3.png
   rotate: false
-  xy: 682, 2
+  xy: 723, 2
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2180_0_0.png
   rotate: false
-  xy: 799, 22
+  xy: 840, 22
   size: 22, 8
   orig: 22, 8
   offset: 0, 0
@@ -454,14 +475,14 @@ shoes_U_football_h_wlk_sh_2180_0_2.png
   index: -1
 shoes_U_football_h_wlk_sh_2180_0_3.png
   rotate: false
-  xy: 845, 18
+  xy: 886, 18
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2180_1_0.png
   rotate: false
-  xy: 953, 22
+  xy: 994, 22
   size: 17, 8
   orig: 17, 8
   offset: 0, 0
@@ -496,7 +517,7 @@ shoes_U_football_h_wlk_sh_2180_2_0.png
   index: -1
 shoes_U_football_h_wlk_sh_2180_2_1.png
   rotate: false
-  xy: 936, 8
+  xy: 831, 11
   size: 15, 9
   orig: 15, 9
   offset: 0, 0
@@ -517,35 +538,35 @@ shoes_U_football_h_wlk_sh_2180_2_3.png
   index: -1
 shoes_U_football_h_wlk_sh_2180_3_0.png
   rotate: false
-  xy: 953, 12
+  xy: 848, 2
   size: 15, 8
   orig: 15, 8
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2180_3_1.png
   rotate: false
-  xy: 936, 19
+  xy: 977, 19
   size: 15, 11
   orig: 15, 11
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2180_3_2.png
   rotate: false
-  xy: 953, 2
+  xy: 960, 9
   size: 15, 8
   orig: 15, 8
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2180_3_3.png
   rotate: false
-  xy: 919, 19
+  xy: 960, 19
   size: 15, 11
   orig: 15, 11
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2180_7_0.png
   rotate: false
-  xy: 993, 24
+  xy: 907, 11
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
@@ -559,14 +580,14 @@ shoes_U_football_h_wlk_sh_2180_7_1.png
   index: -1
 shoes_U_football_h_wlk_sh_2180_7_2.png
   rotate: false
-  xy: 866, 11
+  xy: 825, 3
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 shoes_U_football_h_wlk_sh_2180_7_3.png
   rotate: false
-  xy: 972, 24
+  xy: 765, 6
   size: 19, 6
   orig: 19, 6
   offset: 0, 0

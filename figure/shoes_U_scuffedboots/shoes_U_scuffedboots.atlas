@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 shoes_U_scuffedboots_h_lay_sh_3348_2_0.png
   rotate: false
-  xy: 815, 42
+  xy: 851, 42
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_lay_sh_3349_2_0.png
   rotate: false
-  xy: 564, 41
+  xy: 600, 41
   size: 24, 21
   orig: 24, 21
   offset: 0, 0
@@ -34,28 +34,28 @@ shoes_U_scuffedboots_h_sit_sh_3348_0_0.png
   index: -1
 shoes_U_scuffedboots_h_sit_sh_3348_2_0.png
   rotate: false
-  xy: 793, 42
+  xy: 829, 42
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_sit_sh_3349_0_0.png
   rotate: false
-  xy: 836, 44
+  xy: 872, 44
   size: 19, 18
   orig: 19, 18
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_sit_sh_3349_2_0.png
   rotate: false
-  xy: 590, 41
+  xy: 626, 41
   size: 24, 21
   orig: 24, 21
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_sit_sh_3350_0_0.png
   rotate: false
-  xy: 568, 9
+  xy: 1008, 31
   size: 14, 17
   orig: 14, 17
   offset: 0, 0
@@ -69,77 +69,77 @@ shoes_U_scuffedboots_h_sit_sh_3350_2_0.png
   index: -1
 shoes_U_scuffedboots_h_std_sh_3348_0_0.png
   rotate: false
-  xy: 670, 47
+  xy: 706, 47
   size: 24, 15
   orig: 24, 15
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_std_sh_3348_1_0.png
   rotate: false
-  xy: 922, 32
+  xy: 745, 32
   size: 18, 13
   orig: 18, 13
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_std_sh_3348_2_0.png
   rotate: false
-  xy: 482, 42
+  xy: 518, 42
   size: 25, 20
   orig: 25, 20
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_std_sh_3348_3_0.png
   rotate: false
-  xy: 880, 47
+  xy: 916, 47
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_std_sh_3348_7_0.png
   rotate: false
-  xy: 407, 36
+  xy: 455, 36
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_std_sh_3349_0_0.png
   rotate: false
-  xy: 949, 50
+  xy: 985, 50
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_std_sh_3349_1_0.png
   rotate: false
-  xy: 857, 27
+  xy: 824, 28
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_std_sh_3349_2_0.png
   rotate: false
-  xy: 537, 42
+  xy: 573, 42
   size: 25, 20
   orig: 25, 20
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_std_sh_3349_3_0.png
   rotate: false
-  xy: 857, 47
+  xy: 893, 47
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_std_sh_3349_7_0.png
   rotate: false
-  xy: 857, 41
+  xy: 545, 37
   size: 21, 4
   orig: 21, 4
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_std_sh_3350_0_0.png
   rotate: false
-  xy: 836, 31
+  xy: 803, 32
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
@@ -160,21 +160,28 @@ shoes_U_scuffedboots_h_std_sh_3350_2_0.png
   index: -1
 shoes_U_scuffedboots_h_std_sh_3350_3_0.png
   rotate: false
-  xy: 584, 10
+  xy: 960, 26
   size: 16, 4
   orig: 16, 4
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_std_sh_3350_7_0.png
   rotate: false
-  xy: 204, 2
+  xy: 978, 19
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_std_sh_3350_7_0.png
+  rotate: false
+  xy: 994, 19
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_0_0.png
   rotate: false
-  xy: 696, 47
+  xy: 732, 47
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
@@ -188,14 +195,14 @@ shoes_U_scuffedboots_h_wlk_sh_3348_0_1.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_0_2.png
   rotate: false
-  xy: 616, 45
+  xy: 652, 45
   size: 25, 17
   orig: 25, 17
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_0_3.png
   rotate: false
-  xy: 721, 47
+  xy: 757, 47
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
@@ -216,7 +223,7 @@ shoes_U_scuffedboots_h_wlk_sh_3348_1_1.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_1_2.png
   rotate: false
-  xy: 901, 32
+  xy: 724, 32
   size: 19, 13
   orig: 19, 13
   offset: 0, 0
@@ -230,21 +237,21 @@ shoes_U_scuffedboots_h_wlk_sh_3348_1_3.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_2_0.png
   rotate: false
-  xy: 509, 43
+  xy: 545, 43
   size: 26, 19
   orig: 26, 19
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_2_1.png
   rotate: false
-  xy: 949, 35
+  xy: 844, 27
   size: 18, 13
   orig: 18, 13
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_2_2.png
   rotate: false
-  xy: 746, 45
+  xy: 782, 45
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
@@ -265,7 +272,7 @@ shoes_U_scuffedboots_h_wlk_sh_3348_3_0.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_3_1.png
   rotate: false
-  xy: 560, 28
+  xy: 679, 34
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
@@ -279,42 +286,42 @@ shoes_U_scuffedboots_h_wlk_sh_3348_3_2.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_3_3.png
   rotate: false
-  xy: 537, 29
+  xy: 985, 37
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_7_0.png
   rotate: false
-  xy: 1000, 50
+  xy: 363, 38
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_7_1.png
   rotate: false
-  xy: 338, 40
+  xy: 386, 38
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_7_2.png
   rotate: false
-  xy: 384, 36
+  xy: 432, 36
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3348_7_3.png
   rotate: false
-  xy: 361, 40
+  xy: 409, 38
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_0_0.png
   rotate: false
-  xy: 975, 51
+  xy: 338, 39
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
@@ -328,21 +335,21 @@ shoes_U_scuffedboots_h_wlk_sh_3349_0_1.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_0_2.png
   rotate: false
-  xy: 426, 50
+  xy: 462, 50
   size: 26, 12
   orig: 26, 12
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_0_3.png
   rotate: false
-  xy: 643, 47
+  xy: 679, 47
   size: 25, 15
   orig: 25, 15
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_1_0.png
   rotate: false
-  xy: 880, 32
+  xy: 960, 32
   size: 19, 13
   orig: 19, 13
   offset: 0, 0
@@ -356,7 +363,7 @@ shoes_U_scuffedboots_h_wlk_sh_3349_1_1.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_1_2.png
   rotate: false
-  xy: 515, 29
+  xy: 702, 33
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
@@ -370,21 +377,21 @@ shoes_U_scuffedboots_h_wlk_sh_3349_1_3.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_2_0.png
   rotate: false
-  xy: 454, 42
+  xy: 490, 42
   size: 26, 20
   orig: 26, 20
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_2_1.png
   rotate: false
-  xy: 497, 26
+  xy: 293, 33
   size: 16, 14
   orig: 16, 14
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_2_2.png
   rotate: false
-  xy: 770, 45
+  xy: 806, 45
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
@@ -398,28 +405,28 @@ shoes_U_scuffedboots_h_wlk_sh_3349_2_3.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_3_0.png
   rotate: false
-  xy: 926, 47
+  xy: 962, 47
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_3_1.png
   rotate: false
-  xy: 430, 34
+  xy: 893, 31
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_3_2.png
   rotate: false
-  xy: 903, 47
+  xy: 939, 47
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3349_3_3.png
   rotate: false
-  xy: 453, 26
+  xy: 916, 31
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
@@ -461,21 +468,28 @@ shoes_U_scuffedboots_h_wlk_sh_3350_0_1.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3350_0_2.png
   rotate: false
-  xy: 583, 28
+  xy: 872, 31
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_0_2.png
+  rotate: false
+  xy: 782, 32
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3350_0_3.png
   rotate: false
-  xy: 476, 26
+  xy: 939, 31
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3350_1_0.png
   rotate: false
-  xy: 534, 15
+  xy: 765, 33
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
@@ -487,30 +501,37 @@ shoes_U_scuffedboots_h_wlk_sh_3350_1_1.png
   orig: 34, 12
   offset: 0, 0
   index: -1
+shoes_U_scuffedboots_h_wlk_sh_3350_1_1.png
+  rotate: false
+  xy: 426, 50
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
 shoes_U_scuffedboots_h_wlk_sh_3350_1_2.png
   rotate: false
-  xy: 551, 14
+  xy: 782, 18
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3350_2_0.png
   rotate: false
-  xy: 616, 33
+  xy: 652, 33
   size: 24, 10
   orig: 24, 10
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3350_2_1.png
   rotate: false
-  xy: 220, 2
+  xy: 186, 6
   size: 14, 5
   orig: 14, 5
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3350_2_2.png
   rotate: false
-  xy: 515, 17
+  xy: 274, 37
   size: 17, 10
   orig: 17, 10
   offset: 0, 0
@@ -531,21 +552,21 @@ shoes_U_scuffedboots_h_wlk_sh_3350_3_0.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3350_3_1.png
   rotate: false
-  xy: 220, 9
+  xy: 981, 31
   size: 16, 4
   orig: 16, 4
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3350_3_2.png
   rotate: false
-  xy: 186, 2
+  xy: 311, 33
   size: 16, 5
   orig: 16, 5
   offset: 0, 0
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3350_3_3.png
   rotate: false
-  xy: 643, 41
+  xy: 765, 27
   size: 15, 4
   orig: 15, 4
   offset: 0, 0
@@ -559,7 +580,7 @@ shoes_U_scuffedboots_h_wlk_sh_3350_7_1.png
   index: -1
 shoes_U_scuffedboots_h_wlk_sh_3350_7_2.png
   rotate: false
-  xy: 584, 16
+  xy: 799, 20
   size: 15, 10
   orig: 15, 10
   offset: 0, 0

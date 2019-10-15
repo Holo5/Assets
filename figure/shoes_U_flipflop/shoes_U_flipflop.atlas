@@ -11,6 +11,13 @@ shoes_U_flipflop_h_lay_sh_2338_2_0.png
   orig: 19, 21
   offset: 0, 0
   index: -1
+shoes_U_flipflop_h_lay_sh_2338_2_0.png
+  rotate: false
+  xy: 330, 9
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
 shoes_U_flipflop_h_sit_sh_2338_0_0.png
   rotate: false
   xy: 257, 2
@@ -27,7 +34,7 @@ shoes_U_flipflop_h_std_sh_2338_0_0.png
   index: -1
 shoes_U_flipflop_h_std_sh_2338_1_0.png
   rotate: false
-  xy: 112, 11
+  xy: 133, 12
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
@@ -41,14 +48,14 @@ shoes_U_flipflop_h_std_sh_2338_2_0.png
   index: -1
 shoes_U_flipflop_h_std_sh_2338_3_0.png
   rotate: false
-  xy: 420, 23
+  xy: 441, 23
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
   index: -1
 shoes_U_flipflop_h_std_sh_2338_7_0.png
   rotate: false
-  xy: 443, 24
+  xy: 464, 24
   size: 21, 6
   orig: 21, 6
   offset: 0, 0
@@ -83,7 +90,7 @@ shoes_U_flipflop_h_wlk_sh_2338_0_3.png
   index: -1
 shoes_U_flipflop_h_wlk_sh_2338_1_0.png
   rotate: false
-  xy: 398, 22
+  xy: 419, 22
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
@@ -97,7 +104,7 @@ shoes_U_flipflop_h_wlk_sh_2338_1_1.png
   index: -1
 shoes_U_flipflop_h_wlk_sh_2338_1_2.png
   rotate: false
-  xy: 92, 9
+  xy: 113, 9
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
@@ -118,14 +125,14 @@ shoes_U_flipflop_h_wlk_sh_2338_2_0.png
   index: -1
 shoes_U_flipflop_h_wlk_sh_2338_2_1.png
   rotate: false
-  xy: 72, 6
+  xy: 93, 9
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
   index: -1
 shoes_U_flipflop_h_wlk_sh_2338_2_2.png
   rotate: false
-  xy: 330, 19
+  xy: 351, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
@@ -139,7 +146,7 @@ shoes_U_flipflop_h_wlk_sh_2338_2_3.png
   index: -1
 shoes_U_flipflop_h_wlk_sh_2338_3_0.png
   rotate: false
-  xy: 466, 20
+  xy: 487, 20
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
@@ -153,21 +160,21 @@ shoes_U_flipflop_h_wlk_sh_2338_3_1.png
   index: -1
 shoes_U_flipflop_h_wlk_sh_2338_3_2.png
   rotate: false
-  xy: 353, 21
+  xy: 374, 21
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
   index: -1
 shoes_U_flipflop_h_wlk_sh_2338_3_3.png
   rotate: false
-  xy: 353, 9
+  xy: 374, 9
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 shoes_U_flipflop_h_wlk_sh_2338_7_0.png
   rotate: false
-  xy: 375, 22
+  xy: 396, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
@@ -181,14 +188,14 @@ shoes_U_flipflop_h_wlk_sh_2338_7_1.png
   index: -1
 shoes_U_flipflop_h_wlk_sh_2338_7_2.png
   rotate: false
-  xy: 330, 9
+  xy: 351, 9
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_U_flipflop_h_wlk_sh_2338_7_3.png
   rotate: false
-  xy: 487, 20
+  xy: 72, 5
   size: 19, 10
   orig: 19, 10
   offset: 0, 0

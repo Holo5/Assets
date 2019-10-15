@@ -1,579 +1,593 @@
 
 shoes_F_thicksole.png
-size: 1024,32
+size: 2048,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 shoes_F_thicksole_h_lay_sh_2293_2_0.png
   rotate: false
-  xy: 92, 11
+  xy: 1089, 2
   size: 15, 19
   orig: 15, 19
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_sit_sh_2293_0_0.png
   rotate: false
-  xy: 59, 10
+  xy: 1106, 10
   size: 14, 20
   orig: 14, 20
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_sit_sh_2293_2_0.png
   rotate: false
-  xy: 75, 11
+  xy: 1072, 2
   size: 15, 19
   orig: 15, 19
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_sit_sh_2294_0_0.png
   rotate: false
-  xy: 22, 9
+  xy: 731, 9
   size: 16, 21
   orig: 16, 21
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_sit_sh_2294_2_0.png
   rotate: false
-  xy: 2, 9
+  xy: 691, 9
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+shoes_F_thicksole_h_sit_sh_2294_2_0.png
+  rotate: false
+  xy: 711, 9
   size: 18, 21
   orig: 18, 21
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_sit_sh_2295_0_0.png
   rotate: false
-  xy: 189, 14
+  xy: 224, 2
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_sit_sh_2295_2_0.png
   rotate: false
-  xy: 40, 10
+  xy: 749, 10
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+shoes_F_thicksole_h_sit_sh_2295_2_0.png
+  rotate: false
+  xy: 768, 10
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2293_0_0.png
   rotate: false
-  xy: 923, 20
+  xy: 574, 20
   size: 24, 10
   orig: 24, 10
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2293_1_0.png
   rotate: false
-  xy: 613, 2
+  xy: 899, 2
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2293_2_0.png
   rotate: false
-  xy: 255, 15
+  xy: 290, 2
   size: 22, 15
   orig: 22, 15
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2293_3_0.png
   rotate: false
-  xy: 456, 2
+  xy: 483, 18
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2293_7_0.png
   rotate: false
-  xy: 965, 22
+  xy: 1003, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2294_0_0.png
   rotate: false
-  xy: 405, 2
+  xy: 432, 18
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2294_1_0.png
   rotate: false
-  xy: 1001, 2
+  xy: 1122, 22
   size: 18, 8
   orig: 18, 8
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2294_2_0.png
   rotate: false
-  xy: 876, 17
+  xy: 413, 2
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2294_3_0.png
   rotate: false
-  xy: 75, 2
+  xy: 1072, 23
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2294_7_0.png
   rotate: false
-  xy: 109, 2
+  xy: 787, 2
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2295_0_0.png
   rotate: false
-  xy: 424, 16
+  xy: 462, 2
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2295_1_0.png
   rotate: false
-  xy: 677, 16
+  xy: 943, 16
   size: 16, 14
   orig: 16, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2295_2_0.png
   rotate: false
-  xy: 109, 13
+  xy: 669, 13
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2295_3_0.png
   rotate: false
-  xy: 639, 16
+  xy: 905, 16
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_std_sh_2295_7_0.png
   rotate: false
-  xy: 633, 2
+  xy: 919, 2
   size: 17, 12
   orig: 17, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_0_0.png
   rotate: false
-  xy: 283, 2
+  xy: 309, 19
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_0_1.png
   rotate: false
-  xy: 178, 2
+  xy: 204, 20
   size: 40, 10
   orig: 40, 10
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_0_2.png
   rotate: false
-  xy: 257, 2
+  xy: 283, 19
   size: 24, 11
   orig: 24, 11
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_0_3.png
   rotate: false
-  xy: 448, 16
+  xy: 486, 2
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_1_0.png
   rotate: false
-  xy: 569, 2
+  xy: 855, 2
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_1_1.png
   rotate: false
-  xy: 368, 2
+  xy: 166, 2
   size: 35, 12
   orig: 35, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_1_2.png
   rotate: false
-  xy: 591, 2
+  xy: 877, 2
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_1_3.png
   rotate: false
-  xy: 220, 2
+  xy: 246, 19
   size: 35, 11
   orig: 35, 11
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_2_0.png
   rotate: false
-  xy: 399, 16
+  xy: 437, 2
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_2_1.png
   rotate: false
-  xy: 961, 9
+  xy: 662, 2
   size: 16, 9
   orig: 16, 9
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_2_2.png
   rotate: false
-  xy: 919, 6
+  xy: 938, 3
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_2_3.png
   rotate: false
-  xy: 331, 2
+  xy: 129, 2
   size: 35, 12
   orig: 35, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_3_0.png
   rotate: false
-  xy: 302, 15
+  xy: 337, 2
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_3_1.png
   rotate: false
-  xy: 547, 2
+  xy: 833, 2
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_3_2.png
   rotate: false
-  xy: 279, 15
+  xy: 314, 2
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_3_3.png
   rotate: false
-  xy: 525, 2
+  xy: 552, 18
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_7_0.png
   rotate: false
-  xy: 155, 2
+  xy: 980, 21
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_7_1.png
   rotate: false
-  xy: 502, 2
+  xy: 529, 18
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_7_2.png
   rotate: false
-  xy: 132, 2
+  xy: 810, 2
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2293_7_3.png
   rotate: false
-  xy: 479, 2
+  xy: 506, 18
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_0_0.png
   rotate: false
-  xy: 431, 2
+  xy: 458, 18
   size: 23, 12
   orig: 23, 12
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_0_1.png
   rotate: false
-  xy: 695, 17
+  xy: 2, 17
   size: 43, 13
   orig: 43, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_0_2.png
   rotate: false
-  xy: 851, 2
+  xy: 387, 2
   size: 24, 13
   orig: 24, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_0_3.png
   rotate: false
-  xy: 824, 2
+  xy: 360, 2
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_1_0.png
   rotate: false
-  xy: 308, 2
+  xy: 334, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_1_1.png
   rotate: false
-  xy: 698, 2
+  xy: 2, 2
   size: 41, 13
   orig: 41, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_1_2.png
   rotate: false
-  xy: 852, 17
+  xy: 408, 17
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_1_3.png
   rotate: false
-  xy: 740, 17
+  xy: 45, 2
   size: 41, 13
   orig: 41, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_2_0.png
   rotate: false
-  xy: 824, 17
+  xy: 380, 17
   size: 26, 13
   orig: 26, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_2_1.png
   rotate: false
-  xy: 40, 2
+  xy: 749, 2
   size: 15, 6
   orig: 15, 6
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_2_2.png
   rotate: false
-  xy: 940, 8
+  xy: 597, 7
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_2_3.png
   rotate: false
-  xy: 325, 16
+  xy: 130, 16
   size: 38, 14
   orig: 38, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_3_0.png
   rotate: false
-  xy: 988, 22
+  xy: 1049, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_3_1.png
   rotate: false
-  xy: 1002, 12
+  xy: 618, 9
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_3_2.png
   rotate: false
-  xy: 979, 12
+  xy: 1026, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_3_3.png
   rotate: false
-  xy: 979, 2
+  xy: 640, 9
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_7_0.png
   rotate: false
-  xy: 675, 3
+  xy: 600, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_7_1.png
   rotate: false
-  xy: 900, 19
+  xy: 646, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_7_2.png
   rotate: false
-  xy: 896, 4
+  xy: 623, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2294_7_3.png
   rotate: false
-  xy: 652, 3
+  xy: 357, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_0_0.png
   rotate: false
-  xy: 472, 16
+  xy: 510, 2
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_0_1.png
   rotate: false
-  xy: 741, 2
+  xy: 47, 17
   size: 40, 13
   orig: 40, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_0_2.png
   rotate: false
-  xy: 231, 15
+  xy: 266, 2
   size: 22, 15
   orig: 22, 15
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_0_3.png
   rotate: false
-  xy: 206, 15
+  xy: 241, 2
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_1_0.png
   rotate: false
-  xy: 559, 16
+  xy: 825, 16
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_1_1.png
   rotate: false
-  xy: 783, 17
+  xy: 88, 2
   size: 39, 13
   orig: 39, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_1_2.png
   rotate: false
-  xy: 495, 16
+  xy: 533, 2
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_1_3.png
   rotate: false
-  xy: 783, 2
+  xy: 89, 17
   size: 39, 13
   orig: 39, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_2_0.png
   rotate: false
-  xy: 169, 14
+  xy: 204, 2
   size: 18, 16
   orig: 18, 16
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_2_1.png
   rotate: false
-  xy: 949, 20
+  xy: 1122, 10
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_2_2.png
   rotate: false
-  xy: 877, 2
+  xy: 961, 17
   size: 17, 13
   orig: 17, 13
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_2_3.png
   rotate: false
-  xy: 365, 16
+  xy: 170, 16
   size: 32, 14
   orig: 32, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_3_0.png
   rotate: false
-  xy: 131, 13
+  xy: 787, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_3_1.png
   rotate: false
-  xy: 620, 16
+  xy: 886, 16
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_3_2.png
   rotate: false
-  xy: 150, 13
+  xy: 806, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_3_3.png
   rotate: false
-  xy: 658, 16
+  xy: 924, 16
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_7_0.png
   rotate: false
-  xy: 600, 16
+  xy: 866, 16
   size: 18, 14
   orig: 18, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_7_1.png
   rotate: false
-  xy: 538, 16
+  xy: 576, 4
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_7_2.png
   rotate: false
-  xy: 580, 16
+  xy: 846, 16
   size: 18, 14
   orig: 18, 14
   offset: 0, 0
   index: -1
 shoes_F_thicksole_h_wlk_sh_2295_7_3.png
   rotate: false
-  xy: 517, 16
+  xy: 555, 2
   size: 19, 14
   orig: 19, 14
   offset: 0, 0

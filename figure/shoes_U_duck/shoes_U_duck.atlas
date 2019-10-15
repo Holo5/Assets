@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 shoes_U_duck_h_sit_sh_2471_0_0.png
   rotate: false
-  xy: 25, 8
+  xy: 48, 16
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
@@ -18,16 +18,30 @@ shoes_U_duck_h_sit_sh_2471_2_0.png
   orig: 21, 30
   offset: 0, 0
   index: -1
+shoes_U_duck_h_sit_sh_2471_2_0.png
+  rotate: false
+  xy: 25, 4
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
 shoes_U_duck_h_sit_sh_2472_0_0.png
   rotate: false
-  xy: 205, 32
+  xy: 358, 29
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shoes_U_duck_h_sit_sh_2472_2_0.png
   rotate: false
-  xy: 125, 33
+  xy: 91, 16
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+shoes_U_duck_h_sit_sh_2472_2_0.png
+  rotate: false
+  xy: 496, 44
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
@@ -41,7 +55,7 @@ shoes_U_duck_h_std_sh_2471_0_0.png
   index: -1
 shoes_U_duck_h_std_sh_2471_1_0.png
   rotate: false
-  xy: 48, 2
+  xy: 265, 33
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
@@ -55,42 +69,63 @@ shoes_U_duck_h_std_sh_2471_2_0.png
   index: -1
 shoes_U_duck_h_std_sh_2471_3_0.png
   rotate: false
-  xy: 45, 31
+  xy: 66, 31
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 shoes_U_duck_h_std_sh_2471_7_0.png
   rotate: false
-  xy: 234, 32
+  xy: 167, 27
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 shoes_U_duck_h_std_sh_2472_1_0.png
   rotate: false
-  xy: 43, 11
+  xy: 381, 38
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 shoes_U_duck_h_std_sh_2472_2_0.png
   rotate: false
-  xy: 496, 46
+  xy: 104, 18
   size: 12, 7
   orig: 12, 7
   offset: 0, 0
   index: -1
 shoes_U_duck_h_std_sh_2472_3_0.png
   rotate: false
-  xy: 189, 40
+  xy: 190, 25
   size: 23, 3
   orig: 23, 3
   offset: 0, 0
   index: -1
 shoes_U_duck_h_std_sh_2472_7_0.png
   rotate: false
-  xy: 43, 8
+  xy: 358, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_duck_h_std_sh_2472_7_0.png
+  rotate: false
+  xy: 509, 48
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_duck_h_std_sh_2472_7_0.png
+  rotate: false
+  xy: 509, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_duck_h_std_sh_2472_7_0.png
+  rotate: false
+  xy: 509, 42
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -125,7 +160,7 @@ shoes_U_duck_h_wlk_sh_2471_0_3.png
   index: -1
 shoes_U_duck_h_wlk_sh_2471_1_0.png
   rotate: false
-  xy: 99, 30
+  xy: 75, 2
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
@@ -160,7 +195,7 @@ shoes_U_duck_h_wlk_sh_2471_2_0.png
   index: -1
 shoes_U_duck_h_wlk_sh_2471_2_1.png
   rotate: false
-  xy: 43, 16
+  xy: 66, 16
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
@@ -181,56 +216,84 @@ shoes_U_duck_h_wlk_sh_2471_2_3.png
   index: -1
 shoes_U_duck_h_wlk_sh_2471_3_0.png
   rotate: false
-  xy: 68, 15
+  xy: 142, 27
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+shoes_U_duck_h_wlk_sh_2471_3_0.png
+  rotate: false
+  xy: 190, 30
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 shoes_U_duck_h_wlk_sh_2471_3_1.png
   rotate: false
-  xy: 93, 15
+  xy: 215, 30
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+shoes_U_duck_h_wlk_sh_2471_3_1.png
+  rotate: false
+  xy: 240, 32
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 shoes_U_duck_h_wlk_sh_2471_7_0.png
   rotate: false
-  xy: 138, 26
+  xy: 335, 30
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 shoes_U_duck_h_wlk_sh_2471_7_1.png
   rotate: false
-  xy: 183, 24
+  xy: 313, 29
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 shoes_U_duck_h_wlk_sh_2471_7_2.png
   rotate: false
-  xy: 257, 30
+  xy: 290, 29
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 shoes_U_duck_h_wlk_sh_2471_7_3.png
   rotate: false
-  xy: 161, 26
+  xy: 120, 28
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 shoes_U_duck_h_wlk_sh_2472_0_0.png
   rotate: false
-  xy: 100, 5
+  xy: 45, 40
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+shoes_U_duck_h_wlk_sh_2472_0_0.png
+  rotate: false
+  xy: 45, 36
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+shoes_U_duck_h_wlk_sh_2472_0_0.png
+  rotate: false
+  xy: 509, 51
   size: 1, 2
   orig: 1, 2
   offset: 0, 0
   index: -1
 shoes_U_duck_h_wlk_sh_2472_0_1.png
   rotate: false
-  xy: 73, 4
+  xy: 93, 33
   size: 25, 9
   orig: 25, 9
   offset: 0, 0
@@ -244,21 +307,21 @@ shoes_U_duck_h_wlk_sh_2472_0_3.png
   index: -1
 shoes_U_duck_h_wlk_sh_2472_1_0.png
   rotate: false
-  xy: 205, 28
+  xy: 374, 29
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
   index: -1
 shoes_U_duck_h_wlk_sh_2472_1_1.png
   rotate: false
-  xy: 72, 30
+  xy: 48, 2
   size: 25, 12
   orig: 25, 12
   offset: 0, 0
   index: -1
 shoes_U_duck_h_wlk_sh_2472_1_2.png
   rotate: false
-  xy: 214, 41
+  xy: 374, 33
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
@@ -286,7 +349,7 @@ shoes_U_duck_h_wlk_sh_2472_2_1.png
   index: -1
 shoes_U_duck_h_wlk_sh_2472_2_2.png
   rotate: false
-  xy: 280, 35
+  xy: 367, 26
   size: 5, 9
   orig: 5, 9
   offset: 0, 0
@@ -300,14 +363,28 @@ shoes_U_duck_h_wlk_sh_2472_2_3.png
   index: -1
 shoes_U_duck_h_wlk_sh_2472_3_1.png
   rotate: false
-  xy: 25, 2
+  xy: 215, 24
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1
+shoes_U_duck_h_wlk_sh_2472_3_1.png
+  rotate: false
+  xy: 93, 27
   size: 21, 4
   orig: 21, 4
   offset: 0, 0
   index: -1
 shoes_U_duck_h_wlk_sh_2472_3_3.png
   rotate: false
-  xy: 100, 9
+  xy: 240, 26
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1
+shoes_U_duck_h_wlk_sh_2472_3_3.png
+  rotate: false
+  xy: 358, 37
   size: 21, 4
   orig: 21, 4
   offset: 0, 0

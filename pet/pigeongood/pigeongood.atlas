@@ -1,0 +1,587 @@
+
+pigeongood.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pigeongood_pigeongood_64_a_0_0.png
+  rotate: false
+  xy: 1200, 30
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_0_200.png
+  rotate: false
+  xy: 1229, 30
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_0_201.png
+  rotate: false
+  xy: 882, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_0_202.png
+  rotate: false
+  xy: 1052, 29
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_0_203.png
+  rotate: false
+  xy: 1258, 30
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_0_700.png
+  rotate: false
+  xy: 288, 22
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_0_701.png
+  rotate: false
+  xy: 320, 22
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_0_801.png
+  rotate: false
+  xy: 911, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_0_900.png
+  rotate: false
+  xy: 853, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_0_901.png
+  rotate: false
+  xy: 256, 22
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_0_902.png
+  rotate: false
+  xy: 224, 22
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_0.png
+  rotate: false
+  xy: 630, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_100.png
+  rotate: false
+  xy: 727, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_200.png
+  rotate: false
+  xy: 598, 29
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_201.png
+  rotate: false
+  xy: 759, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_202.png
+  rotate: false
+  xy: 791, 30
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_203.png
+  rotate: false
+  xy: 565, 29
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_600.png
+  rotate: false
+  xy: 1141, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_700.png
+  rotate: false
+  xy: 352, 22
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_701.png
+  rotate: false
+  xy: 382, 22
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_900.png
+  rotate: false
+  xy: 1141, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_901.png
+  rotate: false
+  xy: 442, 22
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_1_902.png
+  rotate: false
+  xy: 412, 22
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_0.png
+  rotate: false
+  xy: 1111, 31
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_100.png
+  rotate: false
+  xy: 1081, 31
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_1000.png
+  rotate: false
+  xy: 1173, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_1001.png
+  rotate: false
+  xy: 995, 26
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_1102.png
+  rotate: false
+  xy: 697, 27
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_200.png
+  rotate: false
+  xy: 823, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_201.png
+  rotate: false
+  xy: 1317, 31
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_202.png
+  rotate: false
+  xy: 1287, 31
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_203.png
+  rotate: false
+  xy: 1022, 29
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_300.png
+  rotate: false
+  xy: 630, 2
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_400.png
+  rotate: false
+  xy: 859, 34
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_401.png
+  rotate: false
+  xy: 823, 34
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_402.png
+  rotate: false
+  xy: 931, 34
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_403.png
+  rotate: false
+  xy: 895, 34
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_700.png
+  rotate: false
+  xy: 967, 25
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_701.png
+  rotate: false
+  xy: 472, 25
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_800.png
+  rotate: false
+  xy: 534, 25
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_900.png
+  rotate: false
+  xy: 1378, 33
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_2_902.png
+  rotate: false
+  xy: 503, 25
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_0.png
+  rotate: false
+  xy: 1407, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_100.png
+  rotate: false
+  xy: 1434, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_200.png
+  rotate: false
+  xy: 1435, 33
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_201.png
+  rotate: false
+  xy: 1587, 32
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_202.png
+  rotate: false
+  xy: 940, 2
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_203.png
+  rotate: false
+  xy: 1461, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_500.png
+  rotate: false
+  xy: 662, 2
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_501.png
+  rotate: false
+  xy: 662, 33
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_502.png
+  rotate: false
+  xy: 1347, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_503.png
+  rotate: false
+  xy: 1347, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_504.png
+  rotate: false
+  xy: 1487, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_505.png
+  rotate: false
+  xy: 1408, 33
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_506.png
+  rotate: false
+  xy: 1462, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_507.png
+  rotate: false
+  xy: 1378, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_508.png
+  rotate: false
+  xy: 1512, 33
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_701.png
+  rotate: false
+  xy: 187, 26
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_800.png
+  rotate: false
+  xy: 2, 26
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_801.png
+  rotate: false
+  xy: 1081, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_900.png
+  rotate: false
+  xy: 1108, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_3_901.png
+  rotate: false
+  xy: 39, 26
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_7_0.png
+  rotate: false
+  xy: 1614, 31
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_7_200.png
+  rotate: false
+  xy: 1533, 31
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_7_201.png
+  rotate: false
+  xy: 1664, 31
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_7_202.png
+  rotate: false
+  xy: 1639, 31
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_7_203.png
+  rotate: false
+  xy: 1560, 31
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_7_701.png
+  rotate: false
+  xy: 150, 26
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_7_900.png
+  rotate: false
+  xy: 1488, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_7_901.png
+  rotate: false
+  xy: 76, 26
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_a_7_902.png
+  rotate: false
+  xy: 113, 26
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_b_0_1300.png
+  rotate: false
+  xy: 1774, 44
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_b_0_1400.png
+  rotate: false
+  xy: 1814, 44
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_b_0_1500.png
+  rotate: false
+  xy: 1794, 44
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_b_0_1600.png
+  rotate: false
+  xy: 1513, 13
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_b_0_1700.png
+  rotate: false
+  xy: 1754, 44
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_b_0_1800.png
+  rotate: false
+  xy: 1733, 43
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_b_0_1900.png
+  rotate: false
+  xy: 1689, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_b_0_2000.png
+  rotate: false
+  xy: 697, 5
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_b_0_2100.png
+  rotate: false
+  xy: 1173, 5
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_b_0_2200.png
+  rotate: false
+  xy: 1711, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_b_0_2300.png
+  rotate: false
+  xy: 967, 3
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+pigeongood_pigeongood_64_sd_0_0.png
+  rotate: false
+  xy: 2, 11
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1

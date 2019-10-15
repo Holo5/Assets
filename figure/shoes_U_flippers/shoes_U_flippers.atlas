@@ -11,23 +11,37 @@ shoes_U_flippers_h_lay_sh_3174_2_0.png
   orig: 21, 22
   offset: 0, 0
   index: -1
+shoes_U_flippers_h_lay_sh_3174_2_0.png
+  rotate: false
+  xy: 351, 8
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
 shoes_U_flippers_h_sit_sh_3174_0_0.png
   rotate: false
-  xy: 378, 8
+  xy: 401, 8
   size: 19, 22
   orig: 19, 22
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_sit_sh_3175_0_0.png
   rotate: false
-  xy: 417, 2
+  xy: 458, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_sit_sh_3175_2_0.png
   rotate: false
-  xy: 399, 2
+  xy: 422, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+shoes_U_flippers_h_sit_sh_3175_2_0.png
+  rotate: false
+  xy: 440, 2
   size: 16, 17
   orig: 16, 17
   offset: 0, 0
@@ -41,7 +55,7 @@ shoes_U_flippers_h_std_sh_3174_0_0.png
   index: -1
 shoes_U_flippers_h_std_sh_3174_1_0.png
   rotate: false
-  xy: 694, 21
+  xy: 763, 21
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
@@ -55,42 +69,49 @@ shoes_U_flippers_h_std_sh_3174_2_0.png
   index: -1
 shoes_U_flippers_h_std_sh_3174_3_0.png
   rotate: false
-  xy: 456, 20
+  xy: 502, 20
   size: 25, 10
   orig: 25, 10
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_std_sh_3174_7_0.png
   rotate: false
-  xy: 605, 23
+  xy: 654, 23
   size: 23, 7
   orig: 23, 7
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_std_sh_3175_0_0.png
   rotate: false
-  xy: 170, 5
+  xy: 679, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_std_sh_3175_1_0.png
   rotate: false
-  xy: 908, 24
+  xy: 563, 2
   size: 11, 6
   orig: 11, 6
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_std_sh_3175_2_0.png
   rotate: false
-  xy: 673, 19
+  xy: 722, 19
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_std_sh_3175_3_0.png
   rotate: false
-  xy: 820, 24
+  xy: 525, 10
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+shoes_U_flippers_h_std_sh_3175_3_0.png
+  rotate: false
+  xy: 542, 2
   size: 19, 6
   orig: 19, 6
   offset: 0, 0
@@ -125,7 +146,7 @@ shoes_U_flippers_h_wlk_sh_3174_0_3.png
   index: -1
 shoes_U_flippers_h_wlk_sh_3174_1_0.png
   rotate: false
-  xy: 534, 20
+  xy: 606, 20
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
@@ -139,7 +160,7 @@ shoes_U_flippers_h_wlk_sh_3174_1_1.png
   index: -1
 shoes_U_flippers_h_wlk_sh_3174_1_2.png
   rotate: false
-  xy: 509, 19
+  xy: 581, 19
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
@@ -160,14 +181,14 @@ shoes_U_flippers_h_wlk_sh_3174_2_0.png
   index: -1
 shoes_U_flippers_h_wlk_sh_3174_2_1.png
   rotate: false
-  xy: 461, 7
+  xy: 150, 6
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3174_2_2.png
   rotate: false
-  xy: 351, 14
+  xy: 374, 14
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
@@ -181,42 +202,42 @@ shoes_U_flippers_h_wlk_sh_3174_2_3.png
   index: -1
 shoes_U_flippers_h_wlk_sh_3174_3_0.png
   rotate: false
-  xy: 429, 20
+  xy: 475, 20
   size: 25, 10
   orig: 25, 10
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3174_3_1.png
   rotate: false
-  xy: 483, 19
+  xy: 555, 19
   size: 24, 11
   orig: 24, 11
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3174_3_2.png
   rotate: false
-  xy: 351, 2
+  xy: 374, 2
   size: 25, 10
   orig: 25, 10
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3174_3_3.png
   rotate: false
-  xy: 435, 6
+  xy: 529, 18
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3174_7_0.png
   rotate: false
-  xy: 507, 9
+  xy: 500, 10
   size: 23, 8
   orig: 23, 8
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3174_7_1.png
   rotate: false
-  xy: 558, 20
+  xy: 630, 20
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
@@ -230,14 +251,14 @@ shoes_U_flippers_h_wlk_sh_3174_7_2.png
   index: -1
 shoes_U_flippers_h_wlk_sh_3174_7_3.png
   rotate: false
-  xy: 483, 7
+  xy: 476, 8
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_0_0.png
   rotate: false
-  xy: 582, 21
+  xy: 452, 21
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
@@ -251,21 +272,21 @@ shoes_U_flippers_h_wlk_sh_3175_0_1.png
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_0_2.png
   rotate: false
-  xy: 150, 4
+  xy: 743, 17
   size: 18, 13
   orig: 18, 13
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_0_3.png
   rotate: false
-  xy: 192, 4
+  xy: 194, 4
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_1_0.png
   rotate: false
-  xy: 881, 22
+  xy: 866, 22
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
@@ -279,21 +300,21 @@ shoes_U_flippers_h_wlk_sh_3175_1_1.png
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_1_2.png
   rotate: false
-  xy: 895, 24
+  xy: 546, 10
   size: 11, 6
   orig: 11, 6
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_1_3.png
   rotate: false
-  xy: 399, 21
+  xy: 422, 21
   size: 28, 9
   orig: 28, 9
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_2_0.png
   rotate: false
-  xy: 630, 20
+  xy: 172, 6
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
@@ -307,7 +328,7 @@ shoes_U_flippers_h_wlk_sh_3175_2_1.png
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_2_2.png
   rotate: false
-  xy: 652, 19
+  xy: 701, 19
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
@@ -321,49 +342,56 @@ shoes_U_flippers_h_wlk_sh_3175_2_3.png
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_3_0.png
   rotate: false
-  xy: 799, 24
+  xy: 521, 2
   size: 19, 6
   orig: 19, 6
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_3_1.png
   rotate: false
-  xy: 841, 23
+  xy: 826, 23
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_3_2.png
   rotate: false
-  xy: 778, 24
+  xy: 500, 2
   size: 19, 6
   orig: 19, 6
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_3_3.png
   rotate: false
-  xy: 758, 23
+  xy: 580, 10
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+shoes_U_flippers_h_wlk_sh_3175_3_3.png
+  rotate: false
+  xy: 806, 23
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_7_0.png
   rotate: false
-  xy: 716, 23
+  xy: 559, 10
   size: 19, 7
   orig: 19, 7
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_7_1.png
   rotate: false
-  xy: 861, 23
+  xy: 846, 23
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 shoes_U_flippers_h_wlk_sh_3175_7_2.png
   rotate: false
-  xy: 737, 23
+  xy: 785, 23
   size: 19, 7
   orig: 19, 7
   offset: 0, 0
