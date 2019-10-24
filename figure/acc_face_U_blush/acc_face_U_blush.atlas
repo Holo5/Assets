@@ -34,7 +34,21 @@ acc_face_U_blush_h_std_fa_2473_3_0.png
   index: -1
 acc_face_U_blush_h_std_fa_2473_7_0.png
   rotate: false
+  xy: 39, 12
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_face_U_blush_sh_spk_fa_2473_0_0.png
+  rotate: false
   xy: 15, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_face_U_blush_sh_spk_fa_2473_0_0.png
+  rotate: false
+  xy: 33, 7
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

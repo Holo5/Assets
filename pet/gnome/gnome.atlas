@@ -4,6 +4,41 @@ size: 4096,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+gnome_gnome_32_e_3_0_402.png
+  rotate: false
+  xy: 176, 68
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gnome_gnome_32_e_3_0_402.png
+  rotate: false
+  xy: 2570, 36
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gnome_gnome_32_e_3_0_402.png
+  rotate: false
+  xy: 2594, 47
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gnome_gnome_32_e_3_0_402.png
+  rotate: false
+  xy: 503, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gnome_gnome_32_e_3_0_402.png
+  rotate: false
+  xy: 722, 71
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 gnome_gnome_64_a_0_100.png
   rotate: false
   xy: 2394, 76
@@ -1854,7 +1889,7 @@ gnome_gnome_64_e_2_300.png
   index: -1
 gnome_gnome_64_e_2_501_401.png
   rotate: false
-  xy: 176, 68
+  xy: 809, 68
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

@@ -802,3 +802,10 @@ jacket_M_winter_coat_long_h_wlk_rc_2251_3_3.png
   orig: 7, 27
   offset: 0, 0
   index: -1
+jacket_M_winter_coat_long_sh_wlk_rc_2251_0_0.png
+  rotate: false
+  xy: 346, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -118,7 +118,7 @@ jacket_U_cloak_h_drk_rc_2509_5_0.png
   index: -1
 jacket_U_cloak_h_drk_rc_2509_7_0.png
   rotate: false
-  xy: 301, 42
+  xy: 235, 10
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -380,5 +380,201 @@ jacket_U_cloak_h_wlk_rc_2509_2_1.png
   xy: 450, 57
   size: 9, 5
   orig: 9, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 301, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 40, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 235, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 259, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 221, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 232, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 301, 39
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 36, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 330, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 336, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 304, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 43, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 238, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 262, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 224, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 232, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 235, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 301, 36
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 333, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 336, 46
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 339, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 307, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 304, 37
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 46, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 241, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 265, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 227, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloak_sh_crr_lc_2509_7_0.png
+  rotate: false
+  xy: 232, 7
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1

@@ -767,3 +767,10 @@ jacket_F_winter_coat_h_wlk_rc_2259_2_3.png
   orig: 7, 5
   offset: 0, 0
   index: -1
+jacket_F_winter_coat_sh_crr_rc_2259_0_0.png
+  rotate: false
+  xy: 363, 44
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
