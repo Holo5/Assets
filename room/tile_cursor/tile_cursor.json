@@ -1,0 +1,85 @@
+{
+    "type": "room",
+    "name": "tile_cursor",
+    "visualizationType": "tile_cursor",
+    "logicType": "tile_cursor",
+    "spritesheet": "tile_cursor_spritesheet.json",
+    "dimensions": {
+        "x": 1,
+        "y": 1,
+        "z": 0
+    },
+    "directions": [
+        0
+    ],
+    "assets": {
+        "tile_cursor_64_a_0_0": {
+            "x": 34,
+            "y": 18
+        }
+    },
+    "visualization": {
+        "layerCount": 1,
+        "angle": 45,
+        "layers": {
+            "0": {
+                "z": -2000,
+                "ignoreMouse": true
+            }
+        },
+        "animations": {
+            "0": {
+                "layers": {
+                    "0": {
+                        "frameSequences": {
+                            "0": {
+                                "frames": {
+                                    "0": {
+                                        "id": 0
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "1": {
+                        "frameSequences": {
+                            "0": {
+                                "frames": {
+                                    "0": {
+                                        "id": 0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "1": {
+                "layers": {
+                    "0": {
+                        "frameSequences": {
+                            "0": {
+                                "frames": {
+                                    "0": {
+                                        "id": 5
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "1": {
+                        "frameSequences": {
+                            "0": {
+                                "frames": {
+                                    "0": {
+                                        "id": 5
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
