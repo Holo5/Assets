@@ -1,0 +1,20 @@
+
+PlaceHolderWallItem.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PlaceHolderWallItem_wall_place_holder_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+PlaceHolderWallItem_wall_place_holder_icon_a.png
+  rotate: false
+  xy: 40, 28
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
