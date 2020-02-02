@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 present_wrap_present_wrap_32_e_0_10.png
   rotate: false
-  xy: 779, 47
+  xy: 576, 47
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_32_e_0_11.png
   rotate: false
-  xy: 884, 82
+  xy: 607, 64
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
@@ -109,20 +109,6 @@ present_wrap_present_wrap_64_b_0_7.png
   orig: 80, 77
   offset: 0, 0
   index: -1
-present_wrap_present_wrap_64_b_0_8.png
-  rotate: false
-  xy: 647, 7
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-present_wrap_present_wrap_64_b_0_9.png
-  rotate: false
-  xy: 713, 8
-  size: 64, 71
-  orig: 64, 71
-  offset: 0, 0
-  index: -1
 present_wrap_present_wrap_64_c_0_0.png
   rotate: false
   xy: 658, 81
@@ -142,13 +128,6 @@ present_wrap_present_wrap_64_c_0_10.png
   xy: 494, 2
   size: 80, 77
   orig: 80, 77
-  offset: 0, 0
-  index: -1
-present_wrap_present_wrap_64_c_0_11.png
-  rotate: false
-  xy: 576, 10
-  size: 69, 69
-  orig: 69, 69
   offset: 0, 0
   index: -1
 present_wrap_present_wrap_64_c_0_2.png
@@ -258,7 +237,7 @@ present_wrap_present_wrap_64_e_0_0.png
   index: -1
 present_wrap_present_wrap_64_e_0_1.png
   rotate: false
-  xy: 576, 5
+  xy: 1014, 489
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
@@ -293,7 +272,7 @@ present_wrap_present_wrap_64_e_0_5.png
   index: -1
 present_wrap_present_wrap_64_e_0_6.png
   rotate: false
-  xy: 779, 64
+  xy: 576, 64
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
