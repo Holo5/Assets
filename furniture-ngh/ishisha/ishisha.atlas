@@ -1,0 +1,27 @@
+
+ishisha.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ishisha_ishisha_64_a_2_0.png
+  rotate: false
+  xy: 2, 85
+  size: 47, 96
+  orig: 47, 96
+  offset: 0, 0
+  index: -1
+ishisha_ishisha_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+ishisha_ishisha_icon_a.png
+  rotate: false
+  xy: 2, 23
+  size: 26, 60
+  orig: 26, 60
+  offset: 0, 0
+  index: -1

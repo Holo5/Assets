@@ -1,0 +1,20 @@
+
+peettegel1.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+peettegel1_peettegel1_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+peettegel1_peettegel1_icon_a.png
+  rotate: false
+  xy: 70, 23
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1

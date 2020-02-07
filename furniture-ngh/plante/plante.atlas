@@ -1,0 +1,20 @@
+
+plante.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plante_plante_64_a_2_0.png
+  rotate: false
+  xy: 2, 40
+  size: 37, 81
+  orig: 37, 81
+  offset: 0, 0
+  index: -1
+plante_plante_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1

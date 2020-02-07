@@ -1,0 +1,20 @@
+
+treasure16_box.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+treasure16_box_treasure16_box_64_a_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+treasure16_box_treasure16_box_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1

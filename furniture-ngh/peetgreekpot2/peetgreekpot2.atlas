@@ -1,0 +1,20 @@
+
+peetgreekpot2.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+peetgreekpot2_peetgreekpot2_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+peetgreekpot2_peetgreekpot2_icon_a.png
+  rotate: false
+  xy: 44, 20
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1

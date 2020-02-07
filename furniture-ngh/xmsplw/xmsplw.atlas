@@ -1,0 +1,41 @@
+
+xmsplw.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmsplw_xmsplw_64_a_0_0.png
+  rotate: false
+  xy: 76, 24
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+xmsplw_xmsplw_64_b_0_0.png
+  rotate: false
+  xy: 76, 20
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+xmsplw_xmsplw_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 72, 22
+  orig: 72, 22
+  offset: 0, 0
+  index: -1
+xmsplw_xmsplw_64_sd_0_0.png
+  rotate: false
+  xy: 2, 26
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+xmsplw_xmsplw_icon_b.png
+  rotate: false
+  xy: 143, 43
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1

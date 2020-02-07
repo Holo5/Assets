@@ -1,0 +1,27 @@
+
+petites_plantes_frogg.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+petites_plantes_frogg_petites_plantes_frogg_64_a_2_0.png
+  rotate: false
+  xy: 32, 13
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+petites_plantes_frogg_petites_plantes_frogg_64_a_2_1.png
+  rotate: false
+  xy: 62, 2
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+petites_plantes_frogg_petites_plantes_frogg_64_a_2_2.png
+  rotate: false
+  xy: 2, 3
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1

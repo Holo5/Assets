@@ -1,0 +1,20 @@
+
+weebz_zwartemuur.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+weebz_zwartemuur_weebz_zwartemuur_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 39, 134
+  orig: 39, 134
+  offset: 0, 0
+  index: -1
+weebz_zwartemuur_weebz_zwartemuur_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1

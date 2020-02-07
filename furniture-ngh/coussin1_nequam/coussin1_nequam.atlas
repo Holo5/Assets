@@ -1,0 +1,20 @@
+
+coussin1_nequam.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coussin1_nequam_coussin1_nequam_64_a_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+coussin1_nequam_coussin1_nequam_icon_a.png
+  rotate: false
+  xy: 37, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+hp_telescope.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_telescope_hp_telescope_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 90, 107
+  orig: 90, 107
+  offset: 0, 0
+  index: -1
+hp_telescope_hp_telescope_icon_a.png
+  rotate: false
+  xy: 94, 84
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ngh_unq_typo.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngh_unq_typo_ngh_unq_typo_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+ngh_unq_typo_ngh_unq_typo_64_sd_2_0.png
+  rotate: false
+  xy: 82, 43
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+ngh_unq_typo_ngh_unq_typo_icon_a.png
+  rotate: false
+  xy: 82, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+blue_daffodil_rug.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blue_daffodil_rug_blue_daffodil_rug_64_a_0_0.png
+  rotate: false
+  xy: 219, 19
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+blue_daffodil_rug_blue_daffodil_rug_64_c_0_0.png
+  rotate: false
+  xy: 132, 5
+  size: 85, 50
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+blue_daffodil_rug_blue_daffodil_rug_64_d_0_0.png
+  rotate: false
+  xy: 295, 26
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+blue_daffodil_rug_blue_daffodil_rug_64_sd_0_0.png
+  rotate: false
+  xy: 2, 23
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+blue_daffodil_rug_blue_daffodil_rug_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1

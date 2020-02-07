@@ -1,0 +1,20 @@
+
+hotel_egg.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hotel_egg_hotel_egg_64_a_0_0.png
+  rotate: false
+  xy: 2, 41
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+hotel_egg_hotel_egg_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1

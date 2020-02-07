@@ -1,0 +1,48 @@
+
+holo_c16_pizza.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+holo_c16_pizza_holo_c16_pizza_64_a_0_0.png
+  rotate: false
+  xy: 139, 67
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+holo_c16_pizza_holo_c16_pizza_64_a_0_1.png
+  rotate: false
+  xy: 97, 25
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+holo_c16_pizza_holo_c16_pizza_64_b_0_5.png
+  rotate: false
+  xy: 97, 59
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+holo_c16_pizza_holo_c16_pizza_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+holo_c16_pizza_holo_c16_pizza_64_c_0_1.png
+  rotate: false
+  xy: 2, 5
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+holo_c16_pizza_holo_c16_pizza_icon_a.png
+  rotate: false
+  xy: 139, 36
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1

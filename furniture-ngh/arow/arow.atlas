@@ -1,0 +1,13 @@
+
+arow.png
+size: 32,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arow_arow_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+testing4.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+testing4_testing4_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 450, 320
+  orig: 450, 320
+  offset: 0, 0
+  index: -1
+testing4_testing4_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

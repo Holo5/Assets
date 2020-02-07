@@ -1,0 +1,20 @@
+
+dunkle_pillow.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dunkle_pillow_dunkle_pillow_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+dunkle_pillow_dunkle_pillow_icon_a.png
+  rotate: false
+  xy: 76, 23
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1

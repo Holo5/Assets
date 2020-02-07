@@ -1,0 +1,20 @@
+
+poster51.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+poster51_poster51_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+poster51_poster51_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

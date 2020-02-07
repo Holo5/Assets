@@ -1,0 +1,20 @@
+
+kitchen19_food.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+kitchen19_food_kitchen19_food_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+kitchen19_food_kitchen19_food_icon_a.png
+  rotate: false
+  xy: 45, 6
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1

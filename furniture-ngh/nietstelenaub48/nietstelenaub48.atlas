@@ -1,0 +1,27 @@
+
+nietstelenaub48.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nietstelenaub48_nietstelenaub48_64_a_2_0.png
+  rotate: false
+  xy: 31, 34
+  size: 27, 151
+  orig: 27, 151
+  offset: 0, 0
+  index: -1
+nietstelenaub48_nietstelenaub48_64_a_2_1.png
+  rotate: false
+  xy: 2, 34
+  size: 27, 151
+  orig: 27, 151
+  offset: 0, 0
+  index: -1
+nietstelenaub48_nietstelenaub48_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 5, 30
+  orig: 5, 30
+  offset: 0, 0
+  index: -1

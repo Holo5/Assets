@@ -1,0 +1,20 @@
+
+val15_bonsaiplant.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val15_bonsaiplant_val15_bonsaiplant_64_a_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 79, 84
+  orig: 79, 84
+  offset: 0, 0
+  index: -1
+val15_bonsaiplant_val15_bonsaiplant_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1

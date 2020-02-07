@@ -1,0 +1,27 @@
+
+hp_crystalball.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_crystalball_hp_crystalball_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+hp_crystalball_hp_crystalball_64_a_2_1.png
+  rotate: false
+  xy: 46, 30
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+hp_crystalball_hp_crystalball_icon_a.png
+  rotate: false
+  xy: 46, 3
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1

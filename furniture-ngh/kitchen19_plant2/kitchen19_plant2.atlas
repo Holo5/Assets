@@ -1,0 +1,27 @@
+
+kitchen19_plant2.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+kitchen19_plant2_kitchen19_plant2_64_a_2_0.png
+  rotate: false
+  xy: 40, 38
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+kitchen19_plant2_kitchen19_plant2_64_a_2_1.png
+  rotate: false
+  xy: 2, 38
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+kitchen19_plant2_kitchen19_plant2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1

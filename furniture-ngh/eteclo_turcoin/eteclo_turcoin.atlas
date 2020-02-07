@@ -1,0 +1,34 @@
+
+eteclo_turcoin.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eteclo_turcoin_eteclo_turcoin_32_a_2_0.png
+  rotate: false
+  xy: 118, 32
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+eteclo_turcoin_eteclo_turcoin_64_a_0_0.png
+  rotate: false
+  xy: 90, 2
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+eteclo_turcoin_eteclo_turcoin_64_a_2_0.png
+  rotate: false
+  xy: 47, 10
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+eteclo_turcoin_eteclo_turcoin_64_a_6_0.png
+  rotate: false
+  xy: 2, 11
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ngoinvisible_mat.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngoinvisible_mat_ngoinvisible_mat_64_a_2_0.png
+  rotate: false
+  xy: 2, 20
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+ngoinvisible_mat_ngoinvisible_mat_64_a_2_1.png
+  rotate: false
+  xy: 61, 20
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+ngoinvisible_mat_ngoinvisible_mat_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1

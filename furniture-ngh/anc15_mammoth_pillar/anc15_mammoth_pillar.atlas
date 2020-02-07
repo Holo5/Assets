@@ -1,0 +1,20 @@
+
+anc15_mammoth_pillar.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anc15_mammoth_pillar_anc15_mammoth_pillar_64_a_2_0.png
+  rotate: false
+  xy: 2, 31
+  size: 39, 143
+  orig: 39, 143
+  offset: 0, 0
+  index: -1
+anc15_mammoth_pillar_anc15_mammoth_pillar_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1

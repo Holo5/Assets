@@ -1,0 +1,34 @@
+
+candy18_throne.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+candy18_throne_candy18_throne_64_a_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 77, 91
+  orig: 77, 91
+  offset: 0, 0
+  index: -1
+candy18_throne_candy18_throne_64_b_2_0.png
+  rotate: false
+  xy: 81, 81
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+candy18_throne_candy18_throne_icon_a.png
+  rotate: false
+  xy: 81, 2
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+candy18_throne_m1521390615113_64_b_2_0.png
+  rotate: false
+  xy: 81, 37
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1

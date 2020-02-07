@@ -1,0 +1,20 @@
+
+clothing_zombimask.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_zombimask_clothing_zombimask_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+clothing_zombimask_clothing_zombimask_icon_a.png
+  rotate: false
+  xy: 39, 28
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+lamp_old.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lamp_old_lamp_old_64_a_2_0.png
+  rotate: false
+  xy: 122, 16
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+lamp_old_lamp_old_64_a_2_1.png
+  rotate: false
+  xy: 97, 16
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+lamp_old_lamp_old_64_b_2_0.png
+  rotate: false
+  xy: 147, 16
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+lamp_old_lamp_old_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+lamp_old_lamp_old_icon_a.png
+  rotate: false
+  xy: 59, 22
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

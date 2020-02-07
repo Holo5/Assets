@@ -1,0 +1,20 @@
+
+rarespring17_elephant.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rarespring17_elephant_rarespring17_elephant_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+rarespring17_elephant_rarespring17_elephant_icon_a.png
+  rotate: false
+  xy: 64, 31
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1

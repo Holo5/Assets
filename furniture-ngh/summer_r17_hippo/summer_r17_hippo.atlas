@@ -1,0 +1,27 @@
+
+summer_r17_hippo.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+summer_r17_hippo_summer_r17_hippo_64_a_2_0.png
+  rotate: false
+  xy: 2, 53
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+summer_r17_hippo_summer_r17_hippo_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+summer_r17_hippo_summer_r17_hippo_icon_a.png
+  rotate: false
+  xy: 2, 21
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

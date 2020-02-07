@@ -1,0 +1,20 @@
+
+clothing_loveecrown.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_loveecrown_clothing_loveecrown_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+clothing_loveecrown_clothing_loveecrown_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

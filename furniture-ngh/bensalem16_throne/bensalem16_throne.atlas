@@ -1,0 +1,27 @@
+
+bensalem16_throne.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bensalem16_throne_bensalem16_throne_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 120
+  orig: 61, 120
+  offset: 0, 0
+  index: -1
+bensalem16_throne_bensalem16_throne_64_b_2_0.png
+  rotate: false
+  xy: 65, 51
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+bensalem16_throne_bensalem16_throne_icon_a.png
+  rotate: false
+  xy: 65, 19
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+coralking_r16_dragon.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_r16_dragon_coralking_r16_dragon_64_a_2_0.png
+  rotate: false
+  xy: 154, 85
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+coralking_r16_dragon_coralking_r16_dragon_64_a_2_1.png
+  rotate: false
+  xy: 2, 85
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+coralking_r16_dragon_coralking_r16_dragon_64_b_2_0.png
+  rotate: false
+  xy: 330, 230
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+coralking_r16_dragon_coralking_r16_dragon_64_b_2_1.png
+  rotate: false
+  xy: 306, 159
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+coralking_r16_dragon_coralking_r16_dragon_64_b_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+coralking_r16_dragon_coralking_r16_dragon_64_b_2_3.png
+  rotate: false
+  xy: 306, 196
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+coralking_r16_dragon_coralking_r16_dragon_64_b_2_4.png
+  rotate: false
+  xy: 33, 46
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+coralking_r16_dragon_coralking_r16_dragon_icon_a.png
+  rotate: false
+  xy: 2, 45
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1

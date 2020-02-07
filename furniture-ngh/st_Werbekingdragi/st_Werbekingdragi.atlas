@@ -1,0 +1,41 @@
+
+st_Werbekingdragi.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_Werbekingdragi_st_Werbekingdragi_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+st_Werbekingdragi_st_Werbekingdragi_64_a_2_1.png
+  rotate: false
+  xy: 268, 104
+  size: 131, 139
+  orig: 131, 139
+  offset: 0, 0
+  index: -1
+st_Werbekingdragi_st_Werbekingdragi_64_a_2_2.png
+  rotate: false
+  xy: 2, 104
+  size: 131, 139
+  orig: 131, 139
+  offset: 0, 0
+  index: -1
+st_Werbekingdragi_st_Werbekingdragi_64_a_2_3.png
+  rotate: false
+  xy: 135, 104
+  size: 131, 139
+  orig: 131, 139
+  offset: 0, 0
+  index: -1
+st_Werbekingdragi_st_Werbekingdragi_64_a_2_4.png
+  rotate: false
+  xy: 401, 104
+  size: 131, 139
+  orig: 131, 139
+  offset: 0, 0
+  index: -1

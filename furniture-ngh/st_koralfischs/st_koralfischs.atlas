@@ -1,0 +1,27 @@
+
+st_koralfischs.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_koralfischs_st_koralfischs_64_a_2_0.png
+  rotate: false
+  xy: 2, 39
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+st_koralfischs_st_koralfischs_64_sd_2_0.png
+  rotate: false
+  xy: 86, 98
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+st_koralfischs_st_koralfischs_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ngh_pokeball.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngh_pokeball_ngh_pokeball_64_a_2_0.png
+  rotate: false
+  xy: 18, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ngh_pokeball_ngh_pokeball_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+ngh_pokeball_ngh_pokeball_64_sd_2_0.png
+  rotate: false
+  xy: 34, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1

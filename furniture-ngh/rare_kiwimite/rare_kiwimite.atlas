@@ -1,0 +1,69 @@
+
+rare_kiwimite.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_kiwimite_rare_kiwimite_64_a_2_0.png
+  rotate: false
+  xy: 43, 2
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+rare_kiwimite_rare_kiwimite_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+rare_kiwimite_rare_kiwimite_64_a_2_2.png
+  rotate: false
+  xy: 248, 2
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+rare_kiwimite_rare_kiwimite_64_a_2_4.png
+  rotate: false
+  xy: 166, 2
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+rare_kiwimite_rare_kiwimite_64_a_2_5.png
+  rotate: false
+  xy: 207, 2
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+rare_kiwimite_rare_kiwimite_64_a_2_6.png
+  rotate: false
+  xy: 84, 2
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+rare_kiwimite_rare_kiwimite_64_a_2_7.png
+  rotate: false
+  xy: 125, 2
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+rare_kiwimite_rare_kiwimite_64_sd_2_0.png
+  rotate: false
+  xy: 289, 41
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+rare_kiwimite_rare_kiwimite_icon_a.png
+  rotate: false
+  xy: 289, 11
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1

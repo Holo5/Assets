@@ -1,0 +1,20 @@
+
+hp_clouds.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_clouds_hp_clouds_64_a_2_0.png
+  rotate: false
+  xy: 2, 24
+  size: 137, 77
+  orig: 137, 77
+  offset: 0, 0
+  index: -1
+hp_clouds_hp_clouds_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1

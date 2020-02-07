@@ -1,0 +1,48 @@
+
+washingdish.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+washingdish_washingdish_64_a_0_0.png
+  rotate: false
+  xy: 2, 14
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+washingdish_washingdish_64_a_0_1.png
+  rotate: false
+  xy: 2, 61
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+washingdish_washingdish_64_a_0_2.png
+  rotate: false
+  xy: 2, 108
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+washingdish_washingdish_64_a_0_3.png
+  rotate: false
+  xy: 2, 155
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+washingdish_washingdish_64_a_0_4.png
+  rotate: false
+  xy: 2, 202
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+washingdish_washingdish_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1

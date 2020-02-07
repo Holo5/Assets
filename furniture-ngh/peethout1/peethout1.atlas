@@ -1,0 +1,20 @@
+
+peethout1.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+peethout1_peethout1_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+peethout1_peethout1_icon_a.png
+  rotate: false
+  xy: 56, 17
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1

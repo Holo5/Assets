@@ -1,0 +1,27 @@
+
+Dogieyg.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dogieyg_Dogieyg_64_a_2_0.png
+  rotate: false
+  xy: 2, 52
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: -1
+Dogieyg_Dogieyg_64_sd_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+Dogieyg_Dogieyg_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+legendary16_unicorn_balloon.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+legendary16_unicorn_balloon_legendary16_unicorn_balloon_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 74, 107
+  orig: 74, 107
+  offset: 0, 0
+  index: -1
+legendary16_unicorn_balloon_legendary16_unicorn_balloon_64_sd_0_0.png
+  rotate: false
+  xy: 78, 88
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+legendary16_unicorn_balloon_legendary16_unicorn_balloon_icon_a.png
+  rotate: false
+  xy: 78, 61
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1

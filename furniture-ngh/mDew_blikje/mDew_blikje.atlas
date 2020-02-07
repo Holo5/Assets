@@ -1,0 +1,20 @@
+
+mDew_blikje.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mDew_blikje_mDew_blikje_64_a_0_0.png
+  rotate: false
+  xy: 2, 38
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+mDew_blikje_mDew_blikje_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1

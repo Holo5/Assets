@@ -1,0 +1,20 @@
+
+keteltje.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+keteltje_keteltje_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+keteltje_keteltje_icon_a.png
+  rotate: false
+  xy: 44, 20
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

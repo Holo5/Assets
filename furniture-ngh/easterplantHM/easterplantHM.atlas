@@ -1,0 +1,48 @@
+
+easterplantHM.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easterplantHM_easterplantHM_64_a_0_0.png
+  rotate: false
+  xy: 2, 39
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+easterplantHM_easterplantHM_64_b_0_0.png
+  rotate: false
+  xy: 65, 39
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+easterplantHM_easterplantHM_64_b_0_1.png
+  rotate: false
+  xy: 128, 39
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+easterplantHM_easterplantHM_64_b_0_2.png
+  rotate: false
+  xy: 191, 39
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+easterplantHM_easterplantHM_64_sd_0_0.png
+  rotate: false
+  xy: 2, 11
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+easterplantHM_easterplantHM_icon_a.png
+  rotate: false
+  xy: 55, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1

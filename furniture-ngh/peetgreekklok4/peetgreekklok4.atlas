@@ -1,0 +1,41 @@
+
+peetgreekklok4.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+peetgreekklok4_peetgreekklok4_64_a_2_0.png
+  rotate: false
+  xy: 2, 264
+  size: 57, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+peetgreekklok4_peetgreekklok4_64_a_2_1.png
+  rotate: false
+  xy: 2, 188
+  size: 57, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+peetgreekklok4_peetgreekklok4_64_a_4_0.png
+  rotate: false
+  xy: 2, 112
+  size: 57, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+peetgreekklok4_peetgreekklok4_64_a_4_1.png
+  rotate: false
+  xy: 2, 36
+  size: 57, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+peetgreekklok4_peetgreekklok4_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1

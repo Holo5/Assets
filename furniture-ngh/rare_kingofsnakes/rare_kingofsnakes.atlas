@@ -1,0 +1,20 @@
+
+rare_kingofsnakes.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_kingofsnakes_rare_kingofsnakes_64_a_0_0.png
+  rotate: false
+  xy: 2, 38
+  size: 71, 160
+  orig: 71, 160
+  offset: 0, 0
+  index: -1
+rare_kingofsnakes_rare_kingofsnakes_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+ngh16_wht_maj.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngh16_wht_maj_ngh16_wht_maj_64_a_0_0.png
+  rotate: false
+  xy: 246, 44
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+ngh16_wht_maj_ngh16_wht_maj_64_a_2_0.png
+  rotate: false
+  xy: 2, 21
+  size: 103, 101
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+ngh16_wht_maj_ngh16_wht_maj_64_b_0_0.png
+  rotate: false
+  xy: 179, 44
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+ngh16_wht_maj_ngh16_wht_maj_64_b_2_0.png
+  rotate: false
+  xy: 107, 45
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+ngh16_wht_maj_ngh16_wht_maj_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+ngh16_wht_maj_ngh16_wht_maj_icon_a.png
+  rotate: false
+  xy: 107, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+peettrap1.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+peettrap1_peettrap1_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+peettrap1_peettrap1_64_a_6_0.png
+  rotate: false
+  xy: 68, 20
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+peettrap1_peettrap1_icon_a.png
+  rotate: false
+  xy: 139, 30
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

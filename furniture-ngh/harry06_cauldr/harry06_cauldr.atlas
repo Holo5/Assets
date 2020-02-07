@@ -1,0 +1,27 @@
+
+harry06_cauldr.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+harry06_cauldr_harry06_cauldr_64_a_0_0.png
+  rotate: false
+  xy: 60, 34
+  size: 56, 130
+  orig: 56, 130
+  offset: 0, 0
+  index: -1
+harry06_cauldr_harry06_cauldr_64_a_0_1.png
+  rotate: false
+  xy: 2, 34
+  size: 56, 130
+  orig: 56, 130
+  offset: 0, 0
+  index: -1
+harry06_cauldr_harry06_cauldr_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

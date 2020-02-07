@@ -1,0 +1,20 @@
+
+hp_bigcage.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_bigcage_hp_bigcage_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 76, 166
+  orig: 76, 166
+  offset: 0, 0
+  index: -1
+hp_bigcage_hp_bigcage_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1

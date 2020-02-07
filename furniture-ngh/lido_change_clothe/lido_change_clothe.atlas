@@ -1,0 +1,41 @@
+
+lido_change_clothe.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lido_change_clothe_lido_change_clothe_64_a_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 126, 155
+  orig: 126, 155
+  offset: 0, 0
+  index: -1
+lido_change_clothe_lido_change_clothe_64_b_2_0.png
+  rotate: false
+  xy: 130, 36
+  size: 126, 155
+  orig: 126, 155
+  offset: 0, 0
+  index: -1
+lido_change_clothe_lido_change_clothe_64_b_2_1.png
+  rotate: false
+  xy: 258, 70
+  size: 64, 121
+  orig: 64, 121
+  offset: 0, 0
+  index: -1
+lido_change_clothe_lido_change_clothe_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+lido_change_clothe_lido_change_clothe_icon_a.png
+  rotate: false
+  xy: 258, 38
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

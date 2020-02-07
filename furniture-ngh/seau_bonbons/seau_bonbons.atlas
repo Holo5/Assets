@@ -1,0 +1,27 @@
+
+seau_bonbons.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+seau_bonbons_seau_bonbons_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+seau_bonbons_seau_bonbons_64_a_2_1.png
+  rotate: false
+  xy: 37, 13
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+seau_bonbons_seau_bonbons_icon_a.png
+  rotate: false
+  xy: 69, 12
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1

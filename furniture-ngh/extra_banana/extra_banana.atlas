@@ -1,0 +1,27 @@
+
+extra_banana.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+extra_banana_extra_banana_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 121
+  orig: 39, 121
+  offset: 0, 0
+  index: -1
+extra_banana_extra_banana_64_a_0_1.png
+  rotate: false
+  xy: 2, 125
+  size: 58, 113
+  orig: 58, 113
+  offset: 0, 0
+  index: -1
+extra_banana_extra_banana_icon_a.png
+  rotate: false
+  xy: 43, 97
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1

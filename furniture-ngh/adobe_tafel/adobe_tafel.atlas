@@ -1,0 +1,27 @@
+
+adobe_tafel.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+adobe_tafel_adobe_tafel_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 148, 111
+  orig: 148, 111
+  offset: 0, 0
+  index: -1
+adobe_tafel_adobe_tafel_64_sd_0_0.png
+  rotate: false
+  xy: 152, 67
+  size: 132, 46
+  orig: 132, 46
+  offset: 0, 0
+  index: -1
+adobe_tafel_adobe_tafel_icon_a.png
+  rotate: false
+  xy: 152, 47
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1

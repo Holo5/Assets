@@ -1,0 +1,20 @@
+
+legendary16_fairy.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+legendary16_fairy_legendary16_fairy_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 88, 136
+  orig: 88, 136
+  offset: 0, 0
+  index: -1
+legendary16_fairy_legendary16_fairy_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

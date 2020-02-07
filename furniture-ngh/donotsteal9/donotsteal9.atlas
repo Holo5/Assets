@@ -1,0 +1,55 @@
+
+donotsteal9.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+donotsteal9_donotsteal9_64_a_2_0.png
+  rotate: false
+  xy: 126, 2
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+donotsteal9_donotsteal9_64_a_2_1.png
+  rotate: false
+  xy: 157, 2
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+donotsteal9_donotsteal9_64_a_2_2.png
+  rotate: false
+  xy: 95, 2
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+donotsteal9_donotsteal9_64_a_2_3.png
+  rotate: false
+  xy: 64, 2
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+donotsteal9_donotsteal9_64_a_2_4.png
+  rotate: false
+  xy: 33, 2
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+donotsteal9_donotsteal9_64_a_2_5.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+donotsteal9_donotsteal9_icon_a.png
+  rotate: false
+  xy: 188, 12
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

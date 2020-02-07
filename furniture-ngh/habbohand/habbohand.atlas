@@ -1,0 +1,34 @@
+
+habbohand.png
+size: 512,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+habbohand_habbohand_64_a_0_0.png
+  rotate: false
+  xy: 2, 313
+  size: 432, 309
+  orig: 432, 309
+  offset: 0, 0
+  index: -1
+habbohand_habbohand_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 432, 309
+  orig: 432, 309
+  offset: 0, 0
+  index: -1
+habbohand_habbohand_64_a_0_2.png
+  rotate: false
+  xy: 2, 624
+  size: 432, 309
+  orig: 432, 309
+  offset: 0, 0
+  index: -1
+habbohand_habbohand_icon_a.png
+  rotate: false
+  xy: 436, 912
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1

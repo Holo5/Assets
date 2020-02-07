@@ -1,0 +1,27 @@
+
+ads_cl_moodd.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_cl_moodd_ads_cl_moodd_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 112
+  orig: 62, 112
+  offset: 0, 0
+  index: -1
+ads_cl_moodd_ads_cl_moodd_64_sd_2_0.png
+  rotate: false
+  xy: 66, 96
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+ads_cl_moodd_ads_cl_moodd_icon_a.png
+  rotate: false
+  xy: 66, 58
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1

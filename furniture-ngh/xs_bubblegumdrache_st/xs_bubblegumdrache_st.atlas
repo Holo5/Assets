@@ -1,0 +1,55 @@
+
+xs_bubblegumdrache_st.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xs_bubblegumdrache_st_xs_bubblegumdrache_st_64_a_2_0.png
+  rotate: false
+  xy: 206, 48
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+xs_bubblegumdrache_st_xs_bubblegumdrache_st_64_b_2_0.png
+  rotate: false
+  xy: 142, 23
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+xs_bubblegumdrache_st_xs_bubblegumdrache_st_64_b_2_1.png
+  rotate: false
+  xy: 72, 4
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+xs_bubblegumdrache_st_xs_bubblegumdrache_st_64_b_2_2.png
+  rotate: false
+  xy: 107, 11
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+xs_bubblegumdrache_st_xs_bubblegumdrache_st_64_b_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+xs_bubblegumdrache_st_xs_bubblegumdrache_st_64_b_2_4.png
+  rotate: false
+  xy: 37, 3
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+xs_bubblegumdrache_st_xs_bubblegumdrache_st_icon_a.png
+  rotate: false
+  xy: 177, 32
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

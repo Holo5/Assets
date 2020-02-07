@@ -1,0 +1,27 @@
+
+tabledanceflower.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tabledanceflower_tabledanceflower_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 135, 110
+  orig: 135, 110
+  offset: 0, 0
+  index: -1
+tabledanceflower_tabledanceflower_64_sd_2_0.png
+  rotate: false
+  xy: 163, 95
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+tabledanceflower_tabledanceflower_icon_a.png
+  rotate: false
+  xy: 139, 69
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+rare17_plantsdragonlamp.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare17_plantsdragonlamp_rare17_plantsdragonlamp_64_a_4_0.png
+  rotate: false
+  xy: 89, 44
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+rare17_plantsdragonlamp_rare17_plantsdragonlamp_64_a_4_1.png
+  rotate: false
+  xy: 2, 39
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+rare17_plantsdragonlamp_rare17_plantsdragonlamp_64_b_4_0.png
+  rotate: false
+  xy: 116, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rare17_plantsdragonlamp_rare17_plantsdragonlamp_64_b_4_1.png
+  rotate: false
+  xy: 215, 11
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+rare17_plantsdragonlamp_rare17_plantsdragonlamp_64_b_4_2.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+rare17_plantsdragonlamp_rare17_plantsdragonlamp_64_b_4_3.png
+  rotate: false
+  xy: 113, 5
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+rare17_plantsdragonlamp_rare17_plantsdragonlamp_64_b_4_4.png
+  rotate: false
+  xy: 89, 3
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+rare17_plantsdragonlamp_rare17_plantsdragonlamp_64_c_4_0.png
+  rotate: false
+  xy: 113, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rare17_plantsdragonlamp_rare17_plantsdragonlamp_64_c_4_1.png
+  rotate: false
+  xy: 176, 54
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+rare17_plantsdragonlamp_rare17_plantsdragonlamp_icon_a.png
+  rotate: false
+  xy: 176, 16
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1

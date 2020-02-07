@@ -1,0 +1,76 @@
+
+rare_bobbastaff.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_bobbastaff_rare_bobbastaff_64_a_2_0.png
+  rotate: false
+  xy: 114, 34
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+rare_bobbastaff_rare_bobbastaff_64_a_2_1.png
+  rotate: false
+  xy: 170, 34
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+rare_bobbastaff_rare_bobbastaff_64_a_2_2.png
+  rotate: false
+  xy: 2, 34
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+rare_bobbastaff_rare_bobbastaff_64_a_2_3.png
+  rotate: false
+  xy: 58, 34
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+rare_bobbastaff_rare_bobbastaff_64_a_2_4.png
+  rotate: false
+  xy: 338, 34
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+rare_bobbastaff_rare_bobbastaff_64_a_2_5.png
+  rotate: false
+  xy: 394, 34
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+rare_bobbastaff_rare_bobbastaff_64_a_2_6.png
+  rotate: false
+  xy: 226, 34
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+rare_bobbastaff_rare_bobbastaff_64_a_2_7.png
+  rotate: false
+  xy: 282, 34
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+rare_bobbastaff_rare_bobbastaff_64_sd_2_0.png
+  rotate: false
+  xy: 450, 102
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+rare_bobbastaff_rare_bobbastaff_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1

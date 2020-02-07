@@ -1,0 +1,20 @@
+
+easter18_minilive.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter18_minilive_easter18_minilive_64_a_2_0.png
+  rotate: false
+  xy: 2, 37
+  size: 32, 71
+  orig: 32, 71
+  offset: 0, 0
+  index: -1
+easter18_minilive_easter18_minilive_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1

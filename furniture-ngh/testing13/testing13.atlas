@@ -1,0 +1,20 @@
+
+testing13.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+testing13_testing13_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 113, 171
+  orig: 113, 171
+  offset: 0, 0
+  index: -1
+testing13_testing13_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

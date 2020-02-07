@@ -1,0 +1,20 @@
+
+poster36.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+poster36_poster36_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 113
+  orig: 39, 113
+  offset: 0, 0
+  index: -1
+poster36_poster36_icon_a.png
+  rotate: false
+  xy: 43, 85
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1

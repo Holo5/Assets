@@ -1,0 +1,20 @@
+
+clothing_king1.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_king1_clothing_king1_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+clothing_king1_clothing_king1_icon_a.png
+  rotate: false
+  xy: 35, 28
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

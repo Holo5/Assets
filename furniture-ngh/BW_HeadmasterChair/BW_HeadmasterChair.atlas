@@ -1,0 +1,27 @@
+
+BW_HeadmasterChair.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BW_HeadmasterChair_BW_HeadmasterChair_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 63, 148
+  orig: 63, 148
+  offset: 0, 0
+  index: -1
+BW_HeadmasterChair_BW_HeadmasterChair_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+BW_HeadmasterChair_BW_HeadmasterChair_icon_a.png
+  rotate: false
+  xy: 67, 152
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

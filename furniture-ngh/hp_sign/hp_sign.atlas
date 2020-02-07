@@ -1,0 +1,48 @@
+
+hp_sign.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_sign_hp_sign_64_a_2_0.png
+  rotate: false
+  xy: 371, 29
+  size: 121, 140
+  orig: 121, 140
+  offset: 0, 0
+  index: -1
+hp_sign_hp_sign_64_a_2_1.png
+  rotate: false
+  xy: 494, 29
+  size: 121, 140
+  orig: 121, 140
+  offset: 0, 0
+  index: -1
+hp_sign_hp_sign_64_a_2_2.png
+  rotate: false
+  xy: 125, 29
+  size: 121, 140
+  orig: 121, 140
+  offset: 0, 0
+  index: -1
+hp_sign_hp_sign_64_a_2_3.png
+  rotate: false
+  xy: 248, 29
+  size: 121, 140
+  orig: 121, 140
+  offset: 0, 0
+  index: -1
+hp_sign_hp_sign_64_a_2_4.png
+  rotate: false
+  xy: 2, 29
+  size: 121, 140
+  orig: 121, 140
+  offset: 0, 0
+  index: -1
+hp_sign_hp_sign_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1

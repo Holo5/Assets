@@ -1,0 +1,41 @@
+
+copper16_hippo.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+copper16_hippo_copper16_hippo_64_a_0_0.png
+  rotate: false
+  xy: 82, 30
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+copper16_hippo_copper16_hippo_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+copper16_hippo_copper16_hippo_64_c_0_0.png
+  rotate: false
+  xy: 43, 4
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+copper16_hippo_copper16_hippo_icon_a.png
+  rotate: false
+  xy: 138, 43
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+copper16_hippo_copper16_hippo_icon_b.png
+  rotate: false
+  xy: 82, 4
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1

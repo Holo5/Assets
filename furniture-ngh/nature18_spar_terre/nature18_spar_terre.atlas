@@ -1,0 +1,34 @@
+
+nature18_spar_terre.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nature18_spar_terre_nature18_spar_terre_64_a_2_1.png
+  rotate: false
+  xy: 2, 34
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+nature18_spar_terre_nature18_spar_terre_64_b_2_0.png
+  rotate: false
+  xy: 134, 34
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+nature18_spar_terre_nature18_spar_terre_64_b_2_1.png
+  rotate: false
+  xy: 266, 34
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+nature18_spar_terre_nature18_spar_terre_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

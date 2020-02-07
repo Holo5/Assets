@@ -1,0 +1,20 @@
+
+ngh_okloi_painting.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngh_okloi_painting_ngh_okloi_painting_64_a_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 204, 185
+  orig: 204, 185
+  offset: 0, 0
+  index: -1
+ngh_okloi_painting_ngh_okloi_painting_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

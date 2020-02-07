@@ -1,0 +1,62 @@
+
+BW_Arrow.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BW_Arrow_BW_Arrow_64_a_0_0.png
+  rotate: false
+  xy: 172, 2
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+BW_Arrow_BW_Arrow_64_a_0_1.png
+  rotate: false
+  xy: 206, 2
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+BW_Arrow_BW_Arrow_64_a_0_2.png
+  rotate: false
+  xy: 104, 2
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+BW_Arrow_BW_Arrow_64_a_0_3.png
+  rotate: false
+  xy: 138, 2
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+BW_Arrow_BW_Arrow_64_a_0_4.png
+  rotate: false
+  xy: 36, 2
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+BW_Arrow_BW_Arrow_64_a_0_5.png
+  rotate: false
+  xy: 70, 2
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+BW_Arrow_BW_Arrow_64_a_0_6.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+BW_Arrow_BW_Arrow_icon_a.png
+  rotate: false
+  xy: 240, 28
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

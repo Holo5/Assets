@@ -1,0 +1,27 @@
+
+bb_nowalk.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bb_nowalk_bb_nowalk_64_a_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+bb_nowalk_bb_nowalk_64_a_2_1.png
+  rotate: false
+  xy: 74, 5
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+bb_nowalk_bb_nowalk_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

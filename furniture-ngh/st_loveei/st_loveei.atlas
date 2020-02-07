@@ -1,0 +1,20 @@
+
+st_loveei.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_loveei_st_loveei_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+st_loveei_st_loveei_icon_a.png
+  rotate: false
+  xy: 55, 28
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

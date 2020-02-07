@@ -1,0 +1,27 @@
+
+frozen13_dragon_statue.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frozen13_dragon_statue_frozen13_dragon_statue_64_a_0_0.png
+  rotate: false
+  xy: 70, 63
+  size: 32, 116
+  orig: 32, 116
+  offset: 0, 0
+  index: -1
+frozen13_dragon_statue_frozen13_dragon_statue_64_b_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 66, 145
+  orig: 66, 145
+  offset: 0, 0
+  index: -1
+frozen13_dragon_statue_frozen13_dragon_statue_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

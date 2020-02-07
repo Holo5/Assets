@@ -1,0 +1,27 @@
+
+lush_gpillarst.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lush_gpillarst_lush_gpillarst_64_a_2_0.png
+  rotate: false
+  xy: 2, 97
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+lush_gpillarst_lush_gpillarst_64_a_2_1.png
+  rotate: false
+  xy: 2, 32
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+lush_gpillarst_lush_gpillarst_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1

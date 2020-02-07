@@ -1,0 +1,41 @@
+
+hp_astronomy.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_astronomy_hp_astronomy_64_a_2_0.png
+  rotate: false
+  xy: 260, 2
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+hp_astronomy_hp_astronomy_64_a_2_1.png
+  rotate: false
+  xy: 174, 2
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+hp_astronomy_hp_astronomy_64_a_2_2.png
+  rotate: false
+  xy: 88, 2
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+hp_astronomy_hp_astronomy_64_a_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 84, 104
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+hp_astronomy_hp_astronomy_icon_a.png
+  rotate: false
+  xy: 346, 81
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1

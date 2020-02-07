@@ -1,0 +1,41 @@
+
+rare17_metalautomat.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare17_metalautomat_rare17_metalautomat_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 112
+  orig: 68, 112
+  offset: 0, 0
+  index: -1
+rare17_metalautomat_rare17_metalautomat_64_a_2_1.png
+  rotate: false
+  xy: 72, 2
+  size: 68, 112
+  orig: 68, 112
+  offset: 0, 0
+  index: -1
+rare17_metalautomat_rare17_metalautomat_64_a_4_0.png
+  rotate: false
+  xy: 142, 2
+  size: 68, 112
+  orig: 68, 112
+  offset: 0, 0
+  index: -1
+rare17_metalautomat_rare17_metalautomat_64_a_4_1.png
+  rotate: false
+  xy: 212, 2
+  size: 68, 112
+  orig: 68, 112
+  offset: 0, 0
+  index: -1
+rare17_metalautomat_rare17_metalautomat_icon_a.png
+  rotate: false
+  xy: 282, 84
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

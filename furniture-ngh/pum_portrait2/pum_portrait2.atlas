@@ -1,0 +1,27 @@
+
+pum_portrait2.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pum_portrait2_pum_portrait2_64_a_2_0.png
+  rotate: false
+  xy: 2, 21
+  size: 77, 138
+  orig: 77, 138
+  offset: 0, 0
+  index: -1
+pum_portrait2_pum_portrait2_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+pum_portrait2_pum_portrait2_icon_a.png
+  rotate: false
+  xy: 81, 158
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

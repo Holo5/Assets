@@ -1,0 +1,27 @@
+
+patty17.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+patty17_patty17_64_a_2_0.png
+  rotate: false
+  xy: 770, 29
+  size: 438, 685
+  orig: 438, 685
+  offset: 0, 0
+  index: -1
+patty17_patty17_64_a_2_1.png
+  rotate: false
+  xy: 2, 29
+  size: 766, 685
+  orig: 766, 685
+  offset: 0, 0
+  index: -1
+patty17_patty17_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

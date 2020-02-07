@@ -1,0 +1,27 @@
+
+mDew_poster.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mDew_poster_mDew_poster_64_a_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+mDew_poster_mDew_poster_64_a_4_0.png
+  rotate: false
+  xy: 73, 55
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+mDew_poster_mDew_poster_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1

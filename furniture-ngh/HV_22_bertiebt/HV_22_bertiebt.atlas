@@ -1,0 +1,27 @@
+
+HV_22_bertiebt.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+HV_22_bertiebt_HV_22_bertiebt_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+HV_22_bertiebt_HV_22_bertiebt_64_sd_0_0.png
+  rotate: false
+  xy: 54, 38
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+HV_22_bertiebt_HV_22_bertiebt_icon_a.png
+  rotate: false
+  xy: 54, 6
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

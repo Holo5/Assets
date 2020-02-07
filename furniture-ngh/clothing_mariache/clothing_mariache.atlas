@@ -1,0 +1,20 @@
+
+clothing_mariache.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_mariache_clothing_mariache_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+clothing_mariache_clothing_mariache_icon_a.png
+  rotate: false
+  xy: 56, 25
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

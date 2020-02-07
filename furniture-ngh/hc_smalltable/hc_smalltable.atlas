@@ -1,0 +1,20 @@
+
+hc_smalltable.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc_smalltable_hc_smalltable_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+hc_smalltable_hc_smalltable_icon_a.png
+  rotate: false
+  xy: 54, 35
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1

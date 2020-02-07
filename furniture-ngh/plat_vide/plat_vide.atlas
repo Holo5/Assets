@@ -1,0 +1,20 @@
+
+plat_vide.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plat_vide_plat_vide_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+plat_vide_plat_vide_icon_a.png
+  rotate: false
+  xy: 42, 6
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1

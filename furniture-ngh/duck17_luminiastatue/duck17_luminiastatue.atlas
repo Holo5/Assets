@@ -1,0 +1,27 @@
+
+duck17_luminiastatue.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+duck17_luminiastatue_duck17_luminiastatue_64_a_2_0.png
+  rotate: false
+  xy: 2, 48
+  size: 44, 111
+  orig: 44, 111
+  offset: 0, 0
+  index: -1
+duck17_luminiastatue_duck17_luminiastatue_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+duck17_luminiastatue_duck17_luminiastatue_icon_a.png
+  rotate: false
+  xy: 2, 18
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

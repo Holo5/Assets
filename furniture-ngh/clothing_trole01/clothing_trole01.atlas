@@ -1,0 +1,20 @@
+
+clothing_trole01.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_trole01_clothing_trole01_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+clothing_trole01_clothing_trole01_icon_a.png
+  rotate: false
+  xy: 43, 14
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

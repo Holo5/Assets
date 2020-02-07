@@ -1,0 +1,41 @@
+
+hp_londonblock.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_londonblock_hp_londonblock_64_a_2_0.png
+  rotate: false
+  xy: 134, 29
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+hp_londonblock_hp_londonblock_64_a_2_1.png
+  rotate: false
+  xy: 200, 29
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+hp_londonblock_hp_londonblock_64_a_2_2.png
+  rotate: false
+  xy: 2, 29
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+hp_londonblock_hp_londonblock_64_a_2_3.png
+  rotate: false
+  xy: 68, 29
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+hp_londonblock_hp_londonblock_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1

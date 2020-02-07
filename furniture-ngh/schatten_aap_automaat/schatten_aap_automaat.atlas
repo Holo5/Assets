@@ -1,0 +1,41 @@
+
+schatten_aap_automaat.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+schatten_aap_automaat_schatten_aap_automaat_64_a_2_1.png
+  rotate: false
+  xy: 82, 2
+  size: 78, 115
+  orig: 78, 115
+  offset: 0, 0
+  index: -1
+schatten_aap_automaat_schatten_aap_automaat_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 78, 115
+  orig: 78, 115
+  offset: 0, 0
+  index: -1
+schatten_aap_automaat_schatten_aap_automaat_64_sd_2_0.png
+  rotate: false
+  xy: 162, 97
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+schatten_aap_automaat_schatten_aap_automaat_64_sd_4_0.png
+  rotate: false
+  xy: 162, 75
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+schatten_aap_automaat_schatten_aap_automaat_icon_a.png
+  rotate: false
+  xy: 230, 87
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

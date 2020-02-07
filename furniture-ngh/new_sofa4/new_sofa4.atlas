@@ -1,0 +1,20 @@
+
+new_sofa4.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+new_sofa4_new_sofa4_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 99, 168
+  orig: 99, 168
+  offset: 0, 0
+  index: -1
+new_sofa4_new_sofa4_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

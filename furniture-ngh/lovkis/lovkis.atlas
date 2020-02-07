@@ -1,0 +1,48 @@
+
+lovkis.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lovkis_lovkis_64_a_0_0.png
+  rotate: false
+  xy: 2, 23
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+lovkis_lovkis_64_b_0_0.png
+  rotate: false
+  xy: 228, 60
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+lovkis_lovkis_64_c_0_0.png
+  rotate: false
+  xy: 154, 16
+  size: 72, 22
+  orig: 72, 22
+  offset: 0, 0
+  index: -1
+lovkis_lovkis_64_d_0_0.png
+  rotate: false
+  xy: 154, 40
+  size: 72, 22
+  orig: 72, 22
+  offset: 0, 0
+  index: -1
+lovkis_lovkis_64_sd_0_0.png
+  rotate: false
+  xy: 80, 27
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+lovkis_lovkis_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+hp_chest.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_chest_hp_chest_64_a_2_0.png
+  rotate: false
+  xy: 214, 25
+  size: 92, 75
+  orig: 92, 75
+  offset: 0, 0
+  index: -1
+hp_chest_hp_chest_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+hp_chest_hp_chest_64_a_2_2.png
+  rotate: false
+  xy: 108, 2
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+hp_chest_hp_chest_icon_a.png
+  rotate: false
+  xy: 308, 70
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+ultra_r19throne.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ultra_r19throne_ultra_r19throne_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+ultra_r19throne_ultra_r19throne_64_a_2_0.png
+  rotate: false
+  xy: 2, 84
+  size: 119, 147
+  orig: 119, 147
+  offset: 0, 0
+  index: -1
+ultra_r19throne_ultra_r19throne_64_a_4_0.png
+  rotate: false
+  xy: 123, 84
+  size: 119, 147
+  orig: 119, 147
+  offset: 0, 0
+  index: -1
+ultra_r19throne_ultra_r19throne_64_a_6_0.png
+  rotate: false
+  xy: 482, 211
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+ultra_r19throne_ultra_r19throne_64_b_0_0.png
+  rotate: false
+  xy: 244, 109
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+ultra_r19throne_ultra_r19throne_64_b_2_0.png
+  rotate: false
+  xy: 59, 24
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+ultra_r19throne_ultra_r19throne_64_b_4_0.png
+  rotate: false
+  xy: 2, 24
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+ultra_r19throne_ultra_r19throne_64_b_6_0.png
+  rotate: false
+  xy: 363, 109
+  size: 117, 122
+  orig: 117, 122
+  offset: 0, 0
+  index: -1
+ultra_r19throne_ultra_r19throne_64_sd_4_0.png
+  rotate: false
+  xy: 244, 92
+  size: 56, 15
+  orig: 56, 15
+  offset: 0, 0
+  index: -1
+ultra_r19throne_ultra_r19throne_icon_a.png
+  rotate: false
+  xy: 116, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+poster10.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+poster10_poster10_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+poster10_poster10_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

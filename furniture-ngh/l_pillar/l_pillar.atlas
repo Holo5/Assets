@@ -1,0 +1,41 @@
+
+l_pillar.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+l_pillar_l_pillar_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 82, 51
+  orig: 82, 51
+  offset: 0, 0
+  index: -1
+l_pillar_l_pillar_64_a_6_0.png
+  rotate: false
+  xy: 86, 3
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+l_pillar_l_pillar_64_sd_0_0.png
+  rotate: false
+  xy: 169, 20
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+l_pillar_l_pillar_64_sd_2_0.png
+  rotate: false
+  xy: 233, 20
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+l_pillar_l_pillar_icon_a.png
+  rotate: false
+  xy: 297, 36
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+hp_ministryblock.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_ministryblock_hp_ministryblock_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+hp_ministryblock_hp_ministryblock_64_a_2_1.png
+  rotate: false
+  xy: 72, 29
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+hp_ministryblock_hp_ministryblock_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+hp_landscape.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_landscape_hp_landscape_64_a_2_0.png
+  rotate: false
+  xy: 836, 29
+  size: 415, 558
+  orig: 415, 558
+  offset: 0, 0
+  index: -1
+hp_landscape_hp_landscape_64_a_2_1.png
+  rotate: false
+  xy: 419, 29
+  size: 415, 558
+  orig: 415, 558
+  offset: 0, 0
+  index: -1
+hp_landscape_hp_landscape_64_a_2_2.png
+  rotate: false
+  xy: 2, 29
+  size: 415, 558
+  orig: 415, 558
+  offset: 0, 0
+  index: -1
+hp_landscape_hp_landscape_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+schneemagier_winzling.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+schneemagier_winzling_schneemagier_winzling_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+schneemagier_winzling_schneemagier_winzling_64_sd_2_0.png
+  rotate: false
+  xy: 32, 41
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+schneemagier_winzling_schneemagier_winzling_icon_a.png
+  rotate: false
+  xy: 32, 26
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1

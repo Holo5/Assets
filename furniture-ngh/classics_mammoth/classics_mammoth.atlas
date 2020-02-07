@@ -1,0 +1,27 @@
+
+classics_mammoth.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classics_mammoth_classics_mammoth_64_a_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 34, 129
+  orig: 34, 129
+  offset: 0, 0
+  index: -1
+classics_mammoth_classics_mammoth_64_a_0_1.png
+  rotate: false
+  xy: 2, 167
+  size: 39, 150
+  orig: 39, 150
+  offset: 0, 0
+  index: -1
+classics_mammoth_classics_mammoth_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+PF_100_pixelblock.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PF_100_pixelblock_PF_100_pixelblock_64_a_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 139, 144
+  orig: 139, 144
+  offset: 0, 0
+  index: -1
+PF_100_pixelblock_PF_100_pixelblock_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

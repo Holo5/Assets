@@ -1,0 +1,76 @@
+
+nagu_spartandzz_drak.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nagu_spartandzz_drak_nagu_spartandzz_drak_64_a_4_0.png
+  rotate: false
+  xy: 410, 101
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+nagu_spartandzz_drak_nagu_spartandzz_drak_64_a_4_1.png
+  rotate: false
+  xy: 126, 57
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+nagu_spartandzz_drak_nagu_spartandzz_drak_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nagu_spartandzz_drak_nagu_spartandzz_drak_64_b_4_1.png
+  rotate: false
+  xy: 206, 101
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+nagu_spartandzz_drak_nagu_spartandzz_drak_64_b_4_2.png
+  rotate: false
+  xy: 308, 101
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+nagu_spartandzz_drak_nagu_spartandzz_drak_64_b_4_3.png
+  rotate: false
+  xy: 2, 101
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+nagu_spartandzz_drak_nagu_spartandzz_drak_64_b_4_4.png
+  rotate: false
+  xy: 104, 101
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+nagu_spartandzz_drak_nagu_spartandzz_drak_64_c_4_1.png
+  rotate: false
+  xy: 2, 5
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+nagu_spartandzz_drak_nagu_spartandzz_drak_64_sd_4_0.png
+  rotate: false
+  xy: 62, 57
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+nagu_spartandzz_drak_nagu_spartandzz_drak_icon_a.png
+  rotate: false
+  xy: 62, 13
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+poster2.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+poster2_poster2_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+poster2_poster2_64_a_4_0.png
+  rotate: false
+  xy: 68, 34
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+poster2_poster2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

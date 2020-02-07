@@ -1,0 +1,48 @@
+
+BW_Hogwartsdiningbench.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BW_Hogwartsdiningbench_BW_Hogwartsdiningbench_64_a_2_0.png
+  rotate: false
+  xy: 234, 48
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+BW_Hogwartsdiningbench_BW_Hogwartsdiningbench_64_b_2_0.png
+  rotate: false
+  xy: 302, 50
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+BW_Hogwartsdiningbench_BW_Hogwartsdiningbench_64_c_2_0.png
+  rotate: false
+  xy: 368, 50
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+BW_Hogwartsdiningbench_BW_Hogwartsdiningbench_64_d_2_0.png
+  rotate: false
+  xy: 166, 38
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+BW_Hogwartsdiningbench_BW_Hogwartsdiningbench_64_sd_2_0.png
+  rotate: false
+  xy: 2, 25
+  size: 162, 81
+  orig: 162, 81
+  offset: 0, 0
+  index: -1
+BW_Hogwartsdiningbench_BW_Hogwartsdiningbench_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1

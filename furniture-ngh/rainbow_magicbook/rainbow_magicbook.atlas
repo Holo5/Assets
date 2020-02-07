@@ -1,0 +1,27 @@
+
+rainbow_magicbook.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainbow_magicbook_rainbow_magicbook_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+rainbow_magicbook_rainbow_magicbook_64_c_0_0.png
+  rotate: false
+  xy: 2, 60
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+rainbow_magicbook_rainbow_magicbook_icon_a.png
+  rotate: false
+  xy: 83, 99
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1

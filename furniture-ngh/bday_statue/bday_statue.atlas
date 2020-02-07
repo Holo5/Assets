@@ -1,0 +1,20 @@
+
+bday_statue.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bday_statue_bday_statue_64_a_2_0.png
+  rotate: false
+  xy: 2, 37
+  size: 73, 170
+  orig: 73, 170
+  offset: 0, 0
+  index: -1
+bday_statue_bday_statue_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1

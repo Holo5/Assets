@@ -1,0 +1,48 @@
+
+lava_dragonlamp_17.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lava_dragonlamp_17_lava_dragonlamp_17_64_a_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+lava_dragonlamp_17_lava_dragonlamp_17_64_a_2_1.png
+  rotate: false
+  xy: 2, 108
+  size: 57, 171
+  orig: 57, 171
+  offset: 0, 0
+  index: -1
+lava_dragonlamp_17_lava_dragonlamp_17_64_a_2_2.png
+  rotate: false
+  xy: 61, 281
+  size: 57, 171
+  orig: 57, 171
+  offset: 0, 0
+  index: -1
+lava_dragonlamp_17_lava_dragonlamp_17_64_a_2_3.png
+  rotate: false
+  xy: 61, 108
+  size: 57, 171
+  orig: 57, 171
+  offset: 0, 0
+  index: -1
+lava_dragonlamp_17_lava_dragonlamp_17_64_a_2_4.png
+  rotate: false
+  xy: 2, 281
+  size: 57, 171
+  orig: 57, 171
+  offset: 0, 0
+  index: -1
+lava_dragonlamp_17_lava_dragonlamp_17_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+CFC_666_skullbar.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CFC_666_skullbar_CFC_666_skullbar_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+CFC_666_skullbar_CFC_666_skullbar_icon_a.png
+  rotate: false
+  xy: 64, 20
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

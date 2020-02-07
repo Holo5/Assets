@@ -1,0 +1,20 @@
+
+winter17_hippo.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+winter17_hippo_winter17_hippo_64_a_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+winter17_hippo_winter17_hippo_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1

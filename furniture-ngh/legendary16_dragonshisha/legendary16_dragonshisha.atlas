@@ -1,0 +1,34 @@
+
+legendary16_dragonshisha.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+legendary16_dragonshisha_legendary16_dragonshisha_64_a_2_0.png
+  rotate: false
+  xy: 69, 2
+  size: 65, 113
+  orig: 65, 113
+  offset: 0, 0
+  index: -1
+legendary16_dragonshisha_legendary16_dragonshisha_64_a_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 113
+  orig: 65, 113
+  offset: 0, 0
+  index: -1
+legendary16_dragonshisha_legendary16_dragonshisha_64_sd_4_0.png
+  rotate: false
+  xy: 136, 95
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+legendary16_dragonshisha_legendary16_dragonshisha_icon_a.png
+  rotate: false
+  xy: 136, 58
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1

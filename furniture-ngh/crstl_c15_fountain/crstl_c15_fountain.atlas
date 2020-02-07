@@ -1,0 +1,62 @@
+
+crstl_c15_fountain.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+crstl_c15_fountain_crstl_c15_fountain_64_a_0_0.png
+  rotate: false
+  xy: 68, 32
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+crstl_c15_fountain_crstl_c15_fountain_64_b_0_0.png
+  rotate: false
+  xy: 47, 24
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+crstl_c15_fountain_crstl_c15_fountain_64_b_0_1.png
+  rotate: false
+  xy: 136, 28
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+crstl_c15_fountain_crstl_c15_fountain_64_b_0_2.png
+  rotate: false
+  xy: 157, 29
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+crstl_c15_fountain_crstl_c15_fountain_64_b_0_3.png
+  rotate: false
+  xy: 47, 27
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+crstl_c15_fountain_crstl_c15_fountain_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+crstl_c15_fountain_crstl_c15_fountain_64_sd_0_0.png
+  rotate: false
+  xy: 68, 50
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+crstl_c15_fountain_crstl_c15_fountain_icon_a.png
+  rotate: false
+  xy: 112, 31
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1

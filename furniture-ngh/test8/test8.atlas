@@ -1,0 +1,41 @@
+
+test8.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+test8_test8_64_a_2_0.png
+  rotate: false
+  xy: 517, 30
+  size: 255, 519
+  orig: 255, 519
+  offset: 0, 0
+  index: -1
+test8_test8_64_a_2_1.png
+  rotate: false
+  xy: 2, 29
+  size: 256, 520
+  orig: 256, 520
+  offset: 0, 0
+  index: -1
+test8_test8_64_a_2_2.png
+  rotate: false
+  xy: 774, 30
+  size: 255, 519
+  orig: 255, 519
+  offset: 0, 0
+  index: -1
+test8_test8_64_a_2_3.png
+  rotate: false
+  xy: 260, 29
+  size: 255, 520
+  orig: 255, 520
+  offset: 0, 0
+  index: -1
+test8_test8_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xmas_c15_wall.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c15_wall_xmas_c15_wall_64_a_2_0.png
+  rotate: false
+  xy: 59, 6
+  size: 48, 111
+  orig: 48, 111
+  offset: 0, 0
+  index: -1
+xmas_c15_wall_xmas_c15_wall_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 115
+  orig: 55, 115
+  offset: 0, 0
+  index: -1
+xmas_c15_wall_xmas_c15_wall_icon_a.png
+  rotate: false
+  xy: 109, 87
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

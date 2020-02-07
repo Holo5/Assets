@@ -1,0 +1,27 @@
+
+bewitched_wands_blue.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bewitched_wands_blue_bewitched_wands_blue_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+bewitched_wands_blue_bewitched_wands_blue_64_sd_0_0.png
+  rotate: false
+  xy: 54, 31
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+bewitched_wands_blue_bewitched_wands_blue_icon_a.png
+  rotate: false
+  xy: 110, 28
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1

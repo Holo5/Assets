@@ -1,0 +1,20 @@
+
+battleship_silver.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+battleship_silver_battleship_silver_64_a_2_0.png
+  rotate: false
+  xy: 2, 24
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+battleship_silver_battleship_silver_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1

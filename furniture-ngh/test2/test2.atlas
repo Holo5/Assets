@@ -1,0 +1,20 @@
+
+test2.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+test2_test2_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 66, 152
+  orig: 66, 152
+  offset: 0, 0
+  index: -1
+test2_test2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

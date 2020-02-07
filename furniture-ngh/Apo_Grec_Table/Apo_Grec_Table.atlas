@@ -1,0 +1,34 @@
+
+Apo_Grec_Table.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Apo_Grec_Table_Apo_Grec_Table_64_a_2_0.png
+  rotate: false
+  xy: 108, 24
+  size: 104, 129
+  orig: 104, 129
+  offset: 0, 0
+  index: -1
+Apo_Grec_Table_Apo_Grec_Table_64_a_2_1.png
+  rotate: false
+  xy: 2, 24
+  size: 104, 129
+  orig: 104, 129
+  offset: 0, 0
+  index: -1
+Apo_Grec_Table_Apo_Grec_Table_64_a_2_2.png
+  rotate: false
+  xy: 214, 24
+  size: 104, 129
+  orig: 104, 129
+  offset: 0, 0
+  index: -1
+Apo_Grec_Table_Apo_Grec_Table_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1

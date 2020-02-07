@@ -1,0 +1,1 @@
+{"type":"furniture","name":"BW_PathCross","visualizationType":"furniture_static","logicType":"furniture_basic","spritesheet":"BW_PathCross_spritesheet.json","dimensions":{"x":1.0,"y":1.0,"z":0.0},"directions":[0,90,180,270],"assets":{"BW_PathCross_64_a_0_0":{"x":33,"y":21},"BW_PathCross_icon_a":{"x":17,"y":8}},"visualization":{"layerCount":1,"angle":45,"directions":{"0":{}}}}

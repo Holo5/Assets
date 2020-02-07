@@ -1,0 +1,20 @@
+
+clothing_hero3.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_hero3_clothing_hero3_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+clothing_hero3_clothing_hero3_icon_a.png
+  rotate: false
+  xy: 37, 19
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

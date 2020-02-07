@@ -1,0 +1,41 @@
+
+peetgreekdeurtje1.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+peetgreekdeurtje1_peetgreekdeurtje1_64_a_2_0.png
+  rotate: false
+  xy: 77, 36
+  size: 73, 164
+  orig: 73, 164
+  offset: 0, 0
+  index: -1
+peetgreekdeurtje1_peetgreekdeurtje1_64_a_2_1.png
+  rotate: false
+  xy: 2, 36
+  size: 73, 164
+  orig: 73, 164
+  offset: 0, 0
+  index: -1
+peetgreekdeurtje1_peetgreekdeurtje1_64_a_4_0.png
+  rotate: false
+  xy: 227, 36
+  size: 73, 164
+  orig: 73, 164
+  offset: 0, 0
+  index: -1
+peetgreekdeurtje1_peetgreekdeurtje1_64_a_4_1.png
+  rotate: false
+  xy: 152, 36
+  size: 73, 164
+  orig: 73, 164
+  offset: 0, 0
+  index: -1
+peetgreekdeurtje1_peetgreekdeurtje1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1

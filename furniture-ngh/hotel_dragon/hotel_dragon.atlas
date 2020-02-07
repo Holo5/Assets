@@ -1,0 +1,55 @@
+
+hotel_dragon.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hotel_dragon_hotel_dragon_64_a_2_0.png
+  rotate: false
+  xy: 434, 183
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+hotel_dragon_hotel_dragon_64_a_2_1.png
+  rotate: false
+  xy: 326, 21
+  size: 106, 232
+  orig: 106, 232
+  offset: 0, 0
+  index: -1
+hotel_dragon_hotel_dragon_64_a_2_2.png
+  rotate: false
+  xy: 218, 21
+  size: 106, 232
+  orig: 106, 232
+  offset: 0, 0
+  index: -1
+hotel_dragon_hotel_dragon_64_a_2_3.png
+  rotate: false
+  xy: 110, 21
+  size: 106, 232
+  orig: 106, 232
+  offset: 0, 0
+  index: -1
+hotel_dragon_hotel_dragon_64_a_2_4.png
+  rotate: false
+  xy: 2, 21
+  size: 106, 232
+  orig: 106, 232
+  offset: 0, 0
+  index: -1
+hotel_dragon_hotel_dragon_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+hotel_dragon_hotel_dragon_icon_a.png
+  rotate: false
+  xy: 434, 154
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1

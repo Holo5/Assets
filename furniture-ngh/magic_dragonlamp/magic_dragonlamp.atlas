@@ -1,0 +1,41 @@
+
+magic_dragonlamp.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+magic_dragonlamp_magic_dragonlamp_64_a_2_0.png
+  rotate: false
+  xy: 203, 176
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+magic_dragonlamp_magic_dragonlamp_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 250
+  orig: 65, 250
+  offset: 0, 0
+  index: -1
+magic_dragonlamp_magic_dragonlamp_64_a_2_2.png
+  rotate: false
+  xy: 136, 2
+  size: 65, 250
+  orig: 65, 250
+  offset: 0, 0
+  index: -1
+magic_dragonlamp_magic_dragonlamp_64_a_2_3.png
+  rotate: false
+  xy: 69, 2
+  size: 65, 250
+  orig: 65, 250
+  offset: 0, 0
+  index: -1
+magic_dragonlamp_magic_dragonlamp_icon_a.png
+  rotate: false
+  xy: 203, 144
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

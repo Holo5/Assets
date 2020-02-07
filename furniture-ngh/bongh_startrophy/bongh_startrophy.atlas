@@ -1,0 +1,27 @@
+
+bongh_startrophy.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bongh_startrophy_bongh_startrophy_64_a_0_0.png
+  rotate: false
+  xy: 2, 51
+  size: 44, 83
+  orig: 44, 83
+  offset: 0, 0
+  index: -1
+bongh_startrophy_bongh_startrophy_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+bongh_startrophy_bongh_startrophy_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

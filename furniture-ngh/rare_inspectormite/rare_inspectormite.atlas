@@ -1,0 +1,76 @@
+
+rare_inspectormite.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_inspectormite_rare_inspectormite_64_a_2_0.png
+  rotate: false
+  xy: 43, 65
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+rare_inspectormite_rare_inspectormite_64_a_2_1.png
+  rotate: false
+  xy: 2, 65
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+rare_inspectormite_rare_inspectormite_64_a_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+rare_inspectormite_rare_inspectormite_64_a_2_3.png
+  rotate: false
+  xy: 34, 2
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+rare_inspectormite_rare_inspectormite_64_a_2_4.png
+  rotate: false
+  xy: 66, 2
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+rare_inspectormite_rare_inspectormite_64_a_2_5.png
+  rotate: false
+  xy: 106, 63
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+rare_inspectormite_rare_inspectormite_64_a_2_6.png
+  rotate: false
+  xy: 138, 63
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+rare_inspectormite_rare_inspectormite_64_a_2_7.png
+  rotate: false
+  xy: 75, 65
+  size: 29, 61
+  orig: 29, 61
+  offset: 0, 0
+  index: -1
+rare_inspectormite_rare_inspectormite_64_sd_2_0.png
+  rotate: false
+  xy: 169, 109
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+rare_inspectormite_rare_inspectormite_icon_a.png
+  rotate: false
+  xy: 169, 82
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1

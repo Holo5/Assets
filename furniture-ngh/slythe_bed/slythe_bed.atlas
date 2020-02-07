@@ -1,0 +1,20 @@
+
+slythe_bed.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+slythe_bed_slythe_bed_64_f_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 148
+  orig: 70, 148
+  offset: 0, 0
+  index: -1
+slythe_bed_slythe_bed_64_sd_2_0.png
+  rotate: false
+  xy: 2, 152
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: -1

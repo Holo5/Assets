@@ -1,0 +1,20 @@
+
+sum17_elephant.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sum17_elephant_sum17_elephant_64_a_2_0.png
+  rotate: false
+  xy: 2, 39
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+sum17_elephant_sum17_elephant_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1

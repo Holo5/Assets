@@ -1,0 +1,20 @@
+
+hvir17_floortila.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hvir17_floortila_hvir17_floortila_64_a_0_0.png
+  rotate: false
+  xy: 2, 21
+  size: 130, 67
+  orig: 130, 67
+  offset: 0, 0
+  index: -1
+hvir17_floortila_hvir17_floortila_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1

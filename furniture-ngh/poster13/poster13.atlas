@@ -1,0 +1,20 @@
+
+poster13.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+poster13_poster13_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+poster13_poster13_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+Rage_post01.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Rage_post01_Rage_post01_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+Rage_post01_Rage_post01_64_a_4_0.png
+  rotate: false
+  xy: 87, 2
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+Rage_post01_Rage_post01_icon_a.png
+  rotate: false
+  xy: 172, 78
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1

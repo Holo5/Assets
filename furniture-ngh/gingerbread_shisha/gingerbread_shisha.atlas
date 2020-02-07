@@ -1,0 +1,20 @@
+
+gingerbread_shisha.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gingerbread_shisha_gingerbread_shisha_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+gingerbread_shisha_gingerbread_shisha_icon_a.png
+  rotate: false
+  xy: 52, 57
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+treasure16_pillar.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+treasure16_pillar_treasure16_pillar_64_a_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 44, 133
+  orig: 44, 133
+  offset: 0, 0
+  index: -1
+treasure16_pillar_treasure16_pillar_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1

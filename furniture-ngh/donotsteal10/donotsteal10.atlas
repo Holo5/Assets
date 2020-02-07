@@ -1,0 +1,83 @@
+
+donotsteal10.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+donotsteal10_donotsteal10_64_a_2_0.png
+  rotate: false
+  xy: 2, 66
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+donotsteal10_donotsteal10_64_a_2_1.png
+  rotate: false
+  xy: 2, 110
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+donotsteal10_donotsteal10_64_a_2_2.png
+  rotate: false
+  xy: 72, 128
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+donotsteal10_donotsteal10_64_a_2_3.png
+  rotate: false
+  xy: 2, 198
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+donotsteal10_donotsteal10_64_a_2_4.png
+  rotate: false
+  xy: 2, 154
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+donotsteal10_donotsteal10_64_a_2_5.png
+  rotate: false
+  xy: 72, 200
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+donotsteal10_donotsteal10_64_a_2_6.png
+  rotate: false
+  xy: 72, 167
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+donotsteal10_donotsteal10_64_a_2_7.png
+  rotate: false
+  xy: 59, 27
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+donotsteal10_donotsteal10_64_a_2_8.png
+  rotate: false
+  xy: 2, 10
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+donotsteal10_donotsteal10_64_a_2_9.png
+  rotate: false
+  xy: 59, 2
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+donotsteal10_donotsteal10_icon_a.png
+  rotate: false
+  xy: 72, 96
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1

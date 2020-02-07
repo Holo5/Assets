@@ -1,0 +1,27 @@
+
+hp_bucket.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_bucket_hp_bucket_64_a_2_0.png
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+hp_bucket_hp_bucket_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+hp_bucket_hp_bucket_icon_a.png
+  rotate: false
+  xy: 206, 77
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+pastove_past.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pastove_past_pastove_past_64_a_0_0.png
+  rotate: false
+  xy: 2, 53
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+pastove_past_pastove_past_64_sd_0_0.png
+  rotate: false
+  xy: 2, 35
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+pastove_past_pastove_past_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1

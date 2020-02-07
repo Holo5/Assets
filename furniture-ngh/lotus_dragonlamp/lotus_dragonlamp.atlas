@@ -1,0 +1,41 @@
+
+lotus_dragonlamp.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lotus_dragonlamp_lotus_dragonlamp_64_a_2_0.png
+  rotate: false
+  xy: 75, 2
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+lotus_dragonlamp_lotus_dragonlamp_64_a_2_1.png
+  rotate: false
+  xy: 148, 110
+  size: 71, 120
+  orig: 71, 120
+  offset: 0, 0
+  index: -1
+lotus_dragonlamp_lotus_dragonlamp_64_a_2_2.png
+  rotate: false
+  xy: 75, 82
+  size: 71, 148
+  orig: 71, 148
+  offset: 0, 0
+  index: -1
+lotus_dragonlamp_lotus_dragonlamp_64_a_2_3.png
+  rotate: false
+  xy: 2, 39
+  size: 71, 191
+  orig: 71, 191
+  offset: 0, 0
+  index: -1
+lotus_dragonlamp_lotus_dragonlamp_icon_a.png
+  rotate: false
+  xy: 148, 81
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1

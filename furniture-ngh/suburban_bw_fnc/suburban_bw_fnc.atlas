@@ -1,0 +1,62 @@
+
+suburban_bw_fnc.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suburban_bw_fnc_suburban_bw_fnc_64_a_4_0.png
+  rotate: false
+  xy: 47, 71
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+suburban_bw_fnc_suburban_bw_fnc_64_a_4_1.png
+  rotate: false
+  xy: 47, 2
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+suburban_bw_fnc_suburban_bw_fnc_64_b_4_0.png
+  rotate: false
+  xy: 2, 75
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+suburban_bw_fnc_suburban_bw_fnc_64_b_4_1.png
+  rotate: false
+  xy: 2, 10
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+suburban_bw_fnc_suburban_bw_fnc_64_c_4_0.png
+  rotate: false
+  xy: 2, 183
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+suburban_bw_fnc_suburban_bw_fnc_64_c_4_1.png
+  rotate: false
+  xy: 2, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+suburban_bw_fnc_suburban_bw_fnc_64_sd_4_0.png
+  rotate: false
+  xy: 2, 140
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+suburban_bw_fnc_suburban_bw_fnc_icon_a.png
+  rotate: false
+  xy: 86, 161
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+lime_dragon.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lime_dragon_lime_dragon_64_a_2_0.png
+  rotate: false
+  xy: 2, 21
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+lime_dragon_lime_dragon_64_a_2_1.png
+  rotate: false
+  xy: 75, 96
+  size: 62, 153
+  orig: 62, 153
+  offset: 0, 0
+  index: -1
+lime_dragon_lime_dragon_64_a_2_2.png
+  rotate: false
+  xy: 139, 96
+  size: 60, 153
+  orig: 60, 153
+  offset: 0, 0
+  index: -1
+lime_dragon_lime_dragon_64_a_2_3.png
+  rotate: false
+  xy: 2, 99
+  size: 71, 150
+  orig: 71, 150
+  offset: 0, 0
+  index: -1
+lime_dragon_lime_dragon_64_a_2_4.png
+  rotate: false
+  xy: 201, 109
+  size: 61, 140
+  orig: 61, 140
+  offset: 0, 0
+  index: -1
+lime_dragon_lime_dragon_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+lime_dragon_lime_dragon_icon_a.png
+  rotate: false
+  xy: 264, 219
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

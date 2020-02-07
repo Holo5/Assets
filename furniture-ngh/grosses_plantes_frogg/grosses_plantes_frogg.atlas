@@ -1,0 +1,41 @@
+
+grosses_plantes_frogg.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+grosses_plantes_frogg_grosses_plantes_frogg_64_a_2_0.png
+  rotate: false
+  xy: 2, 54
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+grosses_plantes_frogg_grosses_plantes_frogg_64_a_2_1.png
+  rotate: false
+  xy: 68, 52
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+grosses_plantes_frogg_grosses_plantes_frogg_64_a_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+grosses_plantes_frogg_grosses_plantes_frogg_64_a_2_3.png
+  rotate: false
+  xy: 125, 61
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+grosses_plantes_frogg_grosses_plantes_frogg_icon_a.png
+  rotate: false
+  xy: 187, 90
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

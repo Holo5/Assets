@@ -1,0 +1,48 @@
+
+sowford_sol2.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sowford_sol2_sowford_sol2_64_a_2_0.png
+  rotate: false
+  xy: 398, 21
+  size: 130, 67
+  orig: 130, 67
+  offset: 0, 0
+  index: -1
+sowford_sol2_sowford_sol2_64_a_2_1.png
+  rotate: false
+  xy: 266, 21
+  size: 130, 67
+  orig: 130, 67
+  offset: 0, 0
+  index: -1
+sowford_sol2_sowford_sol2_64_a_2_2.png
+  rotate: false
+  xy: 134, 21
+  size: 130, 67
+  orig: 130, 67
+  offset: 0, 0
+  index: -1
+sowford_sol2_sowford_sol2_64_a_2_3.png
+  rotate: false
+  xy: 2, 21
+  size: 130, 67
+  orig: 130, 67
+  offset: 0, 0
+  index: -1
+sowford_sol2_sowford_sol2_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+sowford_sol2_sowford_sol2_icon_a.png
+  rotate: false
+  xy: 530, 73
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1

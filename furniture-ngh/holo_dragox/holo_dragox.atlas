@@ -1,0 +1,41 @@
+
+holo_dragox.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+holo_dragox_holo_dragox_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+holo_dragox_holo_dragox_64_a_0_1.png
+  rotate: false
+  xy: 2, 36
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+holo_dragox_holo_dragox_64_b_0_0.png
+  rotate: false
+  xy: 125, 229
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+holo_dragox_holo_dragox_64_c_0_1.png
+  rotate: false
+  xy: 2, 70
+  size: 92, 160
+  orig: 92, 160
+  offset: 0, 0
+  index: -1
+holo_dragox_holo_dragox_icon_a.png
+  rotate: false
+  xy: 96, 200
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

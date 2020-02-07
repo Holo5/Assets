@@ -1,0 +1,41 @@
+
+huis_kapstok.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+huis_kapstok_huis_kapstok_64_a_0_0.png
+  rotate: false
+  xy: 2, 143
+  size: 43, 103
+  orig: 43, 103
+  offset: 0, 0
+  index: -1
+huis_kapstok_huis_kapstok_64_a_0_1.png
+  rotate: false
+  xy: 2, 38
+  size: 43, 103
+  orig: 43, 103
+  offset: 0, 0
+  index: -1
+huis_kapstok_huis_kapstok_64_a_0_2.png
+  rotate: false
+  xy: 2, 353
+  size: 43, 103
+  orig: 43, 103
+  offset: 0, 0
+  index: -1
+huis_kapstok_huis_kapstok_64_a_0_3.png
+  rotate: false
+  xy: 2, 248
+  size: 43, 103
+  orig: 43, 103
+  offset: 0, 0
+  index: -1
+huis_kapstok_huis_kapstok_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1

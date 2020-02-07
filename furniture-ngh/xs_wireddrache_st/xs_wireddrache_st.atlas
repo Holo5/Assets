@@ -1,0 +1,55 @@
+
+xs_wireddrache_st.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xs_wireddrache_st_xs_wireddrache_st_64_a_2_0.png
+  rotate: false
+  xy: 191, 45
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+xs_wireddrache_st_xs_wireddrache_st_64_b_2_0.png
+  rotate: false
+  xy: 130, 21
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+xs_wireddrache_st_xs_wireddrache_st_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+xs_wireddrache_st_xs_wireddrache_st_64_b_2_2.png
+  rotate: false
+  xy: 98, 6
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+xs_wireddrache_st_xs_wireddrache_st_64_b_2_3.png
+  rotate: false
+  xy: 66, 4
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+xs_wireddrache_st_xs_wireddrache_st_64_b_2_4.png
+  rotate: false
+  xy: 34, 4
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+xs_wireddrache_st_xs_wireddrache_st_icon_a.png
+  rotate: false
+  xy: 162, 27
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1

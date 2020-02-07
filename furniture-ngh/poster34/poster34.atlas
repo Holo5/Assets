@@ -1,0 +1,20 @@
+
+poster34.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+poster34_poster34_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+poster34_poster34_icon_a.png
+  rotate: false
+  xy: 68, 69
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1

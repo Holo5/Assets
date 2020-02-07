@@ -1,0 +1,76 @@
+
+rarespring17_dragonlamp.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rarespring17_dragonlamp_rarespring17_dragonlamp_32_b_4_0.png
+  rotate: false
+  xy: 47, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rarespring17_dragonlamp_rarespring17_dragonlamp_32_b_4_0.png
+  rotate: false
+  xy: 67, 51
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rarespring17_dragonlamp_rarespring17_dragonlamp_64_a_4_0.png
+  rotate: false
+  xy: 67, 54
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+rarespring17_dragonlamp_rarespring17_dragonlamp_64_a_4_1.png
+  rotate: false
+  xy: 2, 45
+  size: 63, 81
+  orig: 63, 81
+  offset: 0, 0
+  index: -1
+rarespring17_dragonlamp_rarespring17_dragonlamp_64_b_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+rarespring17_dragonlamp_rarespring17_dragonlamp_64_b_4_2.png
+  rotate: false
+  xy: 224, 93
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+rarespring17_dragonlamp_rarespring17_dragonlamp_64_b_4_3.png
+  rotate: false
+  xy: 192, 52
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+rarespring17_dragonlamp_rarespring17_dragonlamp_64_b_4_4.png
+  rotate: false
+  xy: 23, 4
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+rarespring17_dragonlamp_rarespring17_dragonlamp_64_c_4_1.png
+  rotate: false
+  xy: 132, 54
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+rarespring17_dragonlamp_rarespring17_dragonlamp_icon_a.png
+  rotate: false
+  xy: 192, 91
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1

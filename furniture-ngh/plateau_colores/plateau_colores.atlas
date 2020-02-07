@@ -1,0 +1,20 @@
+
+plateau_colores.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plateau_colores_plateau_colores_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+plateau_colores_plateau_colores_icon_a.png
+  rotate: false
+  xy: 49, 9
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1

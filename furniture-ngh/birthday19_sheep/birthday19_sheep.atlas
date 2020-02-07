@@ -1,0 +1,20 @@
+
+birthday19_sheep.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+birthday19_sheep_birthday19_sheep_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+birthday19_sheep_birthday19_sheep_icon_a.png
+  rotate: false
+  xy: 41, 15
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1

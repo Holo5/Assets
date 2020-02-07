@@ -1,0 +1,20 @@
+
+CF_5000_saphirebar.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CF_5000_saphirebar_CF_5000_saphirebar_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+CF_5000_saphirebar_CF_5000_saphirebar_icon_a.png
+  rotate: false
+  xy: 64, 11
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

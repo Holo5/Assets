@@ -1,0 +1,13 @@
+
+boisson_bleu.png
+size: 16,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boisson_bleu_boisson_bleu_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1

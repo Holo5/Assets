@@ -1,0 +1,20 @@
+
+st_koralei.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_koralei_st_koralei_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+st_koralei_st_koralei_icon_a.png
+  rotate: false
+  xy: 71, 32
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

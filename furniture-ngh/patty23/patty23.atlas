@@ -1,0 +1,20 @@
+
+patty23.png
+size: 256,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+patty23_patty23_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 213, 436
+  orig: 213, 436
+  offset: 0, 0
+  index: -1
+patty23_patty23_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+exe16_typewriter.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exe16_typewriter_exe16_typewriter_64_a_2_0.png
+  rotate: false
+  xy: 2, 21
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+exe16_typewriter_exe16_typewriter_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+exe16_typewriter_exe16_typewriter_icon_a.png
+  rotate: false
+  xy: 53, 37
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

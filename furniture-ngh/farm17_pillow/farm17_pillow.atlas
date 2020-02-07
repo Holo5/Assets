@@ -1,0 +1,20 @@
+
+farm17_pillow.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+farm17_pillow_farm17_pillow_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+farm17_pillow_farm17_pillow_icon_a.png
+  rotate: false
+  xy: 78, 27
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1

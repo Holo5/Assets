@@ -1,0 +1,48 @@
+
+ntr16_fish.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ntr16_fish_ntr16_fish_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 117
+  orig: 67, 117
+  offset: 0, 0
+  index: -1
+ntr16_fish_ntr16_fish_64_b_4_0.png
+  rotate: false
+  xy: 71, 72
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+ntr16_fish_ntr16_fish_64_c_4_1.png
+  rotate: false
+  xy: 71, 16
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+ntr16_fish_ntr16_fish_64_c_4_2.png
+  rotate: false
+  xy: 105, 17
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+ntr16_fish_ntr16_fish_64_c_4_3.png
+  rotate: false
+  xy: 158, 66
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+ntr16_fish_ntr16_fish_icon_a.png
+  rotate: false
+  xy: 134, 89
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

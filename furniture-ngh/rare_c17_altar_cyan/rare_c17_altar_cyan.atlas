@@ -1,0 +1,20 @@
+
+rare_c17_altar_cyan.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_c17_altar_cyan_rare_c17_altar_cyan_64_a_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+rare_c17_altar_cyan_rare_c17_altar_cyan_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+boese_seit_egg.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boese_seit_egg_boese_seit_egg_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+boese_seit_egg_boese_seit_egg_icon_a.png
+  rotate: false
+  xy: 56, 30
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1

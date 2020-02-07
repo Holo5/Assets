@@ -1,0 +1,27 @@
+
+zirconium17_machine.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zirconium17_machine_zirconium17_machine_64_a_0_0.png
+  rotate: false
+  xy: 2, 142
+  size: 60, 106
+  orig: 60, 106
+  offset: 0, 0
+  index: -1
+zirconium17_machine_zirconium17_machine_64_a_0_1.png
+  rotate: false
+  xy: 2, 34
+  size: 60, 106
+  orig: 60, 106
+  offset: 0, 0
+  index: -1
+zirconium17_machine_zirconium17_machine_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+lc_citrus04.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lc_citrus04_lc_citrus04_32_c_4_0.png
+  rotate: false
+  xy: 158, 51
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lc_citrus04_lc_citrus04_32_c_4_0.png
+  rotate: false
+  xy: 242, 87
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lc_citrus04_lc_citrus04_64_a_4_0.png
+  rotate: false
+  xy: 80, 47
+  size: 76, 79
+  orig: 76, 79
+  offset: 0, 0
+  index: -1
+lc_citrus04_lc_citrus04_64_a_4_1.png
+  rotate: false
+  xy: 2, 41
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+lc_citrus04_lc_citrus04_64_b_4_1.png
+  rotate: false
+  xy: 112, 4
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+lc_citrus04_lc_citrus04_64_b_4_2.png
+  rotate: false
+  xy: 90, 10
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+lc_citrus04_lc_citrus04_64_b_4_3.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+lc_citrus04_lc_citrus04_64_b_4_4.png
+  rotate: false
+  xy: 218, 49
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+lc_citrus04_lc_citrus04_64_c_4_1.png
+  rotate: false
+  xy: 158, 54
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+lc_citrus04_lc_citrus04_64_sd_4_0.png
+  rotate: false
+  xy: 26, 19
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+lc_citrus04_lc_citrus04_icon_a.png
+  rotate: false
+  xy: 218, 90
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

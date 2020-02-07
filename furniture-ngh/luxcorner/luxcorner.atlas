@@ -1,0 +1,20 @@
+
+luxcorner.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+luxcorner_luxcorner_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+luxcorner_luxcorner_icon_a.png
+  rotate: false
+  xy: 254, 232
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1

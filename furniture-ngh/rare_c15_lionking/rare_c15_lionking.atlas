@@ -1,0 +1,69 @@
+
+rare_c15_lionking.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_c15_lionking_rare_c15_lionking_32_d_4_0.png
+  rotate: false
+  xy: 2, 53
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rare_c15_lionking_rare_c15_lionking_64_a_4_0.png
+  rotate: false
+  xy: 283, 140
+  size: 127, 100
+  orig: 127, 100
+  offset: 0, 0
+  index: -1
+rare_c15_lionking_rare_c15_lionking_64_b_4_0.png
+  rotate: false
+  xy: 146, 136
+  size: 135, 104
+  orig: 135, 104
+  offset: 0, 0
+  index: -1
+rare_c15_lionking_rare_c15_lionking_64_c_4_0.png
+  rotate: false
+  xy: 2, 56
+  size: 142, 184
+  orig: 142, 184
+  offset: 0, 0
+  index: -1
+rare_c15_lionking_rare_c15_lionking_64_d_4_1.png
+  rotate: false
+  xy: 146, 2
+  size: 53, 132
+  orig: 53, 132
+  offset: 0, 0
+  index: -1
+rare_c15_lionking_rare_c15_lionking_64_d_4_2.png
+  rotate: false
+  xy: 412, 108
+  size: 53, 132
+  orig: 53, 132
+  offset: 0, 0
+  index: -1
+rare_c15_lionking_rare_c15_lionking_64_d_4_3.png
+  rotate: false
+  xy: 256, 2
+  size: 53, 132
+  orig: 53, 132
+  offset: 0, 0
+  index: -1
+rare_c15_lionking_rare_c15_lionking_64_d_4_4.png
+  rotate: false
+  xy: 201, 2
+  size: 53, 132
+  orig: 53, 132
+  offset: 0, 0
+  index: -1
+rare_c15_lionking_rare_c15_lionking_icon_a.png
+  rotate: false
+  xy: 467, 206
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1

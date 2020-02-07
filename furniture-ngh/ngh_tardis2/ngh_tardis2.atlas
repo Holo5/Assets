@@ -1,0 +1,41 @@
+
+ngh_tardis2.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngh_tardis2_ngh_tardis2_64_a_2_0.png
+  rotate: false
+  xy: 154, 21
+  size: 150, 221
+  orig: 150, 221
+  offset: 0, 0
+  index: -1
+ngh_tardis2_ngh_tardis2_64_a_2_1.png
+  rotate: false
+  xy: 306, 21
+  size: 150, 221
+  orig: 150, 221
+  offset: 0, 0
+  index: -1
+ngh_tardis2_ngh_tardis2_64_a_2_2.png
+  rotate: false
+  xy: 2, 21
+  size: 150, 221
+  orig: 150, 221
+  offset: 0, 0
+  index: -1
+ngh_tardis2_ngh_tardis2_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+ngh_tardis2_ngh_tardis2_icon_a.png
+  rotate: false
+  xy: 458, 241
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

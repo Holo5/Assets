@@ -1,0 +1,27 @@
+
+hogwarts_oesed.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hogwarts_oesed_hogwarts_oesed_64_a_0_0.png
+  rotate: false
+  xy: 2, 38
+  size: 76, 168
+  orig: 76, 168
+  offset: 0, 0
+  index: -1
+hogwarts_oesed_hogwarts_oesed_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+hogwarts_oesed_hogwarts_oesed_icon_a.png
+  rotate: false
+  xy: 80, 174
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1

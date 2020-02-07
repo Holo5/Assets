@@ -1,0 +1,97 @@
+
+flame_icecream.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+flame_icecream_flame_icecream_64_a_2_1.png
+  rotate: false
+  xy: 2, 118
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_64_b_2_0.png
+  rotate: false
+  xy: 2, 27
+  size: 7, 38
+  orig: 7, 38
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_64_d_2_1.png
+  rotate: false
+  xy: 47, 145
+  size: 12, 38
+  orig: 12, 38
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_64_d_2_2.png
+  rotate: false
+  xy: 11, 32
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_64_d_2_3.png
+  rotate: false
+  xy: 27, 70
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_64_d_2_4.png
+  rotate: false
+  xy: 47, 120
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_64_d_2_5.png
+  rotate: false
+  xy: 11, 13
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_64_d_2_6.png
+  rotate: false
+  xy: 49, 104
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_64_d_2_7.png
+  rotate: false
+  xy: 11, 3
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_64_e_2_0.png
+  rotate: false
+  xy: 2, 67
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_64_sd_2_0.png
+  rotate: false
+  xy: 2, 100
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+flame_icecream_flame_icecream_icon_a.png
+  rotate: false
+  xy: 47, 185
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

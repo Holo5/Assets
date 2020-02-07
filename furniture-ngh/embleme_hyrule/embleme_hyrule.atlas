@@ -1,0 +1,20 @@
+
+embleme_hyrule.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+embleme_hyrule_embleme_hyrule_64_a_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 133, 139
+  orig: 133, 139
+  offset: 0, 0
+  index: -1
+embleme_hyrule_embleme_hyrule_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+lgndry17_foodmachine.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lgndry17_foodmachine_lgndry17_foodmachine_64_a_2_0.png
+  rotate: false
+  xy: 69, 2
+  size: 65, 113
+  orig: 65, 113
+  offset: 0, 0
+  index: -1
+lgndry17_foodmachine_lgndry17_foodmachine_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 113
+  orig: 65, 113
+  offset: 0, 0
+  index: -1
+lgndry17_foodmachine_lgndry17_foodmachine_64_a_4_0.png
+  rotate: false
+  xy: 203, 2
+  size: 65, 113
+  orig: 65, 113
+  offset: 0, 0
+  index: -1
+lgndry17_foodmachine_lgndry17_foodmachine_64_a_4_1.png
+  rotate: false
+  xy: 136, 2
+  size: 65, 113
+  orig: 65, 113
+  offset: 0, 0
+  index: -1
+lgndry17_foodmachine_lgndry17_foodmachine_64_sd_2_0.png
+  rotate: false
+  xy: 270, 95
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+lgndry17_foodmachine_lgndry17_foodmachine_64_sd_4_0.png
+  rotate: false
+  xy: 270, 73
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+lgndry17_foodmachine_lgndry17_foodmachine_icon_a.png
+  rotate: false
+  xy: 338, 85
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

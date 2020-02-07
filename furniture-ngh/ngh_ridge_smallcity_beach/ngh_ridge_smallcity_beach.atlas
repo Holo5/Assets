@@ -1,0 +1,55 @@
+
+ngh_ridge_smallcity_beach.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngh_ridge_smallcity_beach_ngh_ridge_smallcity_beach_64_a_2_1.png
+  rotate: false
+  xy: 70, 10
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+ngh_ridge_smallcity_beach_ngh_ridge_smallcity_beach_64_a_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+ngh_ridge_smallcity_beach_ngh_ridge_smallcity_beach_64_a_2_3.png
+  rotate: false
+  xy: 70, 80
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+ngh_ridge_smallcity_beach_ngh_ridge_smallcity_beach_64_a_2_4.png
+  rotate: false
+  xy: 70, 45
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+ngh_ridge_smallcity_beach_ngh_ridge_smallcity_beach_64_a_2_5.png
+  rotate: false
+  xy: 2, 37
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+ngh_ridge_smallcity_beach_ngh_ridge_smallcity_beach_64_sd_2_0.png
+  rotate: false
+  xy: 138, 61
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+ngh_ridge_smallcity_beach_ngh_ridge_smallcity_beach_icon_a.png
+  rotate: false
+  xy: 138, 80
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1

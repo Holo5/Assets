@@ -1,0 +1,62 @@
+
+mDew_fan.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mDew_fan_mDew_fan_64_a_0_0.png
+  rotate: false
+  xy: 2, 48
+  size: 28, 75
+  orig: 28, 75
+  offset: 0, 0
+  index: -1
+mDew_fan_mDew_fan_64_d_0_0.png
+  rotate: false
+  xy: 32, 77
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+mDew_fan_mDew_fan_64_d_0_1.png
+  rotate: false
+  xy: 40, 34
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+mDew_fan_mDew_fan_64_d_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+mDew_fan_mDew_fan_64_e_0_0.png
+  rotate: false
+  xy: 73, 77
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+mDew_fan_mDew_fan_64_f_0_0.png
+  rotate: false
+  xy: 82, 33
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+mDew_fan_mDew_fan_64_g_0_0.png
+  rotate: false
+  xy: 40, 22
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+mDew_fan_mDew_fan_icon_a.png
+  rotate: false
+  xy: 111, 94
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1

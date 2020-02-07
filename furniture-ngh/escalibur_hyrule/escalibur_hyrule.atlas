@@ -1,0 +1,20 @@
+
+escalibur_hyrule.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+escalibur_hyrule_escalibur_hyrule_64_a_2_0.png
+  rotate: false
+  xy: 2, 46
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+escalibur_hyrule_escalibur_hyrule_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
