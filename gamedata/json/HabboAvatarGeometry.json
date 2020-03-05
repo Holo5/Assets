@@ -87,7 +87,7 @@
                 "avatarSets": [
                     {
                         "id": "body",
-                        "main": "1",
+                        "main": true,
                         "bodyParts": [
                             {
                                 "id": "top"
@@ -167,7 +167,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "bds",
@@ -178,7 +178,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "ch",
@@ -189,7 +189,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "sh",
@@ -200,7 +200,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lg",
@@ -211,7 +211,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ss",
@@ -222,7 +222,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "cp",
@@ -233,7 +233,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "wa",
@@ -244,7 +244,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "cc",
@@ -255,7 +255,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ca",
@@ -266,7 +266,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -286,7 +286,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -306,7 +306,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -326,7 +326,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lhs",
@@ -337,7 +337,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ls",
@@ -348,7 +348,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lc",
@@ -359,7 +359,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -379,7 +379,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rhs",
@@ -390,7 +390,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rs",
@@ -401,7 +401,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rc",
@@ -412,7 +412,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -432,7 +432,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "fc",
@@ -443,7 +443,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ey",
@@ -454,7 +454,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "hr",
@@ -465,7 +465,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "hrb",
@@ -476,7 +476,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "fa",
@@ -487,7 +487,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ea",
@@ -498,7 +498,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ha",
@@ -509,7 +509,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "he",
@@ -520,7 +520,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     }
@@ -566,7 +566,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "bds",
@@ -577,7 +577,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "ch",
@@ -588,7 +588,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "sh",
@@ -599,7 +599,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lg",
@@ -610,7 +610,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ss",
@@ -621,7 +621,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "cp",
@@ -632,7 +632,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "wa",
@@ -643,7 +643,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "cc",
@@ -654,7 +654,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ca",
@@ -665,7 +665,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -685,7 +685,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -705,7 +705,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -725,7 +725,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lhs",
@@ -736,7 +736,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ls",
@@ -747,7 +747,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lc",
@@ -758,7 +758,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -778,7 +778,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rhs",
@@ -789,7 +789,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rs",
@@ -800,7 +800,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rc",
@@ -811,7 +811,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -831,7 +831,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "fc",
@@ -842,7 +842,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ey",
@@ -853,7 +853,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "hr",
@@ -864,7 +864,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "hrb",
@@ -875,7 +875,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "fa",
@@ -886,7 +886,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ea",
@@ -897,7 +897,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ha",
@@ -908,7 +908,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "he",
@@ -919,7 +919,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     }
@@ -944,7 +944,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "bds",
@@ -955,7 +955,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "ch",
@@ -966,7 +966,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "cp",
@@ -977,7 +977,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "sh",
@@ -988,7 +988,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lg",
@@ -999,7 +999,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ss",
@@ -1010,7 +1010,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "wa",
@@ -1021,7 +1021,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "cc",
@@ -1032,7 +1032,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ca",
@@ -1043,7 +1043,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -1063,7 +1063,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -1083,7 +1083,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -1103,7 +1103,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lhs",
@@ -1114,7 +1114,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ls",
@@ -1125,7 +1125,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lc",
@@ -1136,7 +1136,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -1156,7 +1156,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rhs",
@@ -1167,7 +1167,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rs",
@@ -1178,7 +1178,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rc",
@@ -1189,7 +1189,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -1209,7 +1209,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "fc",
@@ -1220,7 +1220,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ey",
@@ -1231,7 +1231,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "hr",
@@ -1242,7 +1242,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "hrb",
@@ -1253,7 +1253,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "fa",
@@ -1264,7 +1264,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ea",
@@ -1275,7 +1275,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ha",
@@ -1286,7 +1286,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "he",
@@ -1297,7 +1297,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     }
@@ -1322,7 +1322,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "bds",
@@ -1333,7 +1333,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "ch",
@@ -1344,7 +1344,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "cp",
@@ -1355,7 +1355,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "sh",
@@ -1366,7 +1366,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lg",
@@ -1377,7 +1377,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ss",
@@ -1388,7 +1388,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "wa",
@@ -1399,7 +1399,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "cc",
@@ -1410,7 +1410,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ca",
@@ -1421,7 +1421,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -1441,7 +1441,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -1461,7 +1461,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -1481,7 +1481,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lhs",
@@ -1492,7 +1492,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ls",
@@ -1503,7 +1503,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "lc",
@@ -1514,7 +1514,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -1534,7 +1534,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rhs",
@@ -1545,7 +1545,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rs",
@@ -1556,7 +1556,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "rc",
@@ -1567,7 +1567,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -1587,7 +1587,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "fc",
@@ -1598,7 +1598,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ey",
@@ -1609,7 +1609,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "hr",
@@ -1620,7 +1620,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "hrb",
@@ -1631,7 +1631,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "fa",
@@ -1642,7 +1642,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ea",
@@ -1653,7 +1653,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ha",
@@ -1664,7 +1664,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "he",
@@ -1675,7 +1675,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     }
@@ -1700,7 +1700,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "ss",
@@ -1711,7 +1711,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     },
@@ -1731,7 +1731,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "fc",
@@ -1742,7 +1742,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ey",
@@ -1753,7 +1753,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "hr",
@@ -1764,7 +1764,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "hrb",
@@ -1775,7 +1775,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 1
+                                "double": true
                             },
                             {
                                 "id": "fa",
@@ -1786,7 +1786,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ea",
@@ -1797,7 +1797,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "ha",
@@ -1808,7 +1808,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             },
                             {
                                 "id": "he",
@@ -1819,7 +1819,7 @@
                                 "nx": 0,
                                 "ny": 0,
                                 "nz": -1,
-                                "double": 0
+                                "double": false
                             }
                         ]
                     }
