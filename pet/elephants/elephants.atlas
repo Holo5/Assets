@@ -1,0 +1,55 @@
+
+elephants.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+elephants_elephants_64_a_0_1000.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+elephants_elephants_64_a_0_1100.png
+  rotate: false
+  xy: 24, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+elephants_elephants_64_a_0_1200.png
+  rotate: false
+  xy: 112, 3
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+elephants_elephants_64_a_0_700.png
+  rotate: false
+  xy: 90, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+elephants_elephants_64_a_0_800.png
+  rotate: false
+  xy: 68, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+elephants_elephants_64_a_0_900.png
+  rotate: false
+  xy: 46, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+elephants_elephants_64_sd_0_0.png
+  rotate: false
+  xy: 133, 10
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
