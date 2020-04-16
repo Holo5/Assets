@@ -1,0 +1,118 @@
+
+acc_chest_U_campingbackpack.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_campingbackpack_h_lay_ca_3597_2_0.png
+  rotate: false
+  xy: 69, 8
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_lay_ca_3599_2_0.png
+  rotate: false
+  xy: 213, 23
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3597_0_0.png
+  rotate: false
+  xy: 2, 23
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3597_1_0.png
+  rotate: false
+  xy: 76, 26
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3597_2_0.png
+  rotate: false
+  xy: 38, 27
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3597_3_0.png
+  rotate: false
+  xy: 119, 8
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3597_7_0.png
+  rotate: false
+  xy: 112, 28
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3598_0_0.png
+  rotate: false
+  xy: 145, 11
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3598_1_0.png
+  rotate: false
+  xy: 238, 26
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3598_2_0.png
+  rotate: false
+  xy: 35, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3598_7_0.png
+  rotate: false
+  xy: 38, 15
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3599_0_0.png
+  rotate: false
+  xy: 145, 35
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3599_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3599_2_0.png
+  rotate: false
+  xy: 213, 40
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3599_3_0.png
+  rotate: false
+  xy: 96, 8
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+acc_chest_U_campingbackpack_h_std_ca_3599_7_0.png
+  rotate: false
+  xy: 180, 37
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1

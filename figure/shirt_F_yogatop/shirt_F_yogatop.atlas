@@ -1,0 +1,335 @@
+
+shirt_F_yogatop.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_yogatop_h_crr_ls_3594_4_0.png
+  rotate: false
+  xy: 56, 16
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_crr_ls_3594_6_0.png
+  rotate: false
+  xy: 171, 33
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_crr_rs_3593_0_0.png
+  rotate: false
+  xy: 91, 31
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_crr_rs_3594_2_0.png
+  rotate: false
+  xy: 35, 2
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_crr_rs_3594_3_0.png
+  rotate: false
+  xy: 193, 35
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_drk_rs_3593_6_0.png
+  rotate: false
+  xy: 196, 39
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_drk_rs_3594_0_0.png
+  rotate: false
+  xy: 65, 31
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_drk_rs_3594_2_0.png
+  rotate: false
+  xy: 188, 35
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_drk_rs_3594_3_0.png
+  rotate: false
+  xy: 92, 23
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_lay_ch_3593_2_0.png
+  rotate: false
+  xy: 39, 44
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_lay_ch_3594_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_lay_ls_3594_2_0.png
+  rotate: false
+  xy: 75, 30
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_lay_rs_3594_2_0.png
+  rotate: false
+  xy: 180, 34
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_ch_3593_0_0.png
+  rotate: false
+  xy: 149, 32
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_ch_3593_1_0.png
+  rotate: false
+  xy: 45, 28
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_ch_3593_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_ch_3593_3_0.png
+  rotate: false
+  xy: 126, 31
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_ch_3593_7_0.png
+  rotate: false
+  xy: 103, 31
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_ch_3594_0_0.png
+  rotate: false
+  xy: 196, 42
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_ch_3594_1_0.png
+  rotate: false
+  xy: 27, 14
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_ch_3594_2_0.png
+  rotate: false
+  xy: 75, 36
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_ch_3594_3_0.png
+  rotate: false
+  xy: 171, 39
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_ch_3594_7_0.png
+  rotate: false
+  xy: 221, 43
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_ls_3593_3_0.png
+  rotate: false
+  xy: 84, 19
+  size: 2, 10
+  orig: 2, 10
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_std_rs_3593_3_0.png
+  rotate: false
+  xy: 252, 40
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wav_ls_3593_0_0.png
+  rotate: false
+  xy: 246, 43
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wav_ls_3593_3_1.png
+  rotate: false
+  xy: 72, 30
+  size: 1, 12
+  orig: 1, 12
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wav_ls_3593_4_0.png
+  rotate: false
+  xy: 60, 3
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wav_ls_3593_5_1.png
+  rotate: false
+  xy: 39, 36
+  size: 2, 6
+  orig: 2, 6
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wav_ls_3594_6_0.png
+  rotate: false
+  xy: 45, 12
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wav_ls_3594_7_0.png
+  rotate: false
+  xy: 66, 22
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_ls_3593_7_0.png
+  rotate: false
+  xy: 88, 22
+  size: 2, 7
+  orig: 2, 7
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_ls_3594_3_0.png
+  rotate: false
+  xy: 72, 19
+  size: 2, 9
+  orig: 2, 9
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_ls_3594_3_1.png
+  rotate: false
+  xy: 56, 3
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_ls_3594_3_3.png
+  rotate: false
+  xy: 62, 16
+  size: 2, 10
+  orig: 2, 10
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3593_1_1.png
+  rotate: false
+  xy: 246, 53
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3593_1_3.png
+  rotate: false
+  xy: 69, 17
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3593_2_1.png
+  rotate: false
+  xy: 84, 31
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3593_2_2.png
+  rotate: false
+  xy: 49, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3593_2_3.png
+  rotate: false
+  xy: 41, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3594_0_1.png
+  rotate: false
+  xy: 27, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3594_0_2.png
+  rotate: false
+  xy: 98, 32
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3594_0_3.png
+  rotate: false
+  xy: 92, 27
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3594_3_1.png
+  rotate: false
+  xy: 80, 18
+  size: 2, 10
+  orig: 2, 10
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3594_3_2.png
+  rotate: false
+  xy: 76, 19
+  size: 2, 9
+  orig: 2, 9
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3594_3_3.png
+  rotate: false
+  xy: 64, 3
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1
+shirt_F_yogatop_h_wlk_rs_3594_7_3.png
+  rotate: false
+  xy: 66, 16
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,573 @@
+
+shoes_U_teeeeezys.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_U_teeeeezys_h_lay_sh_7321_2_0.png
+  rotate: false
+  xy: 479, 8
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_lay_sh_7321_2_0.png
+  rotate: false
+  xy: 502, 8
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_lay_sh_7322_2_0.png
+  rotate: false
+  xy: 632, 23
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_lay_sh_7322_2_0.png
+  rotate: false
+  xy: 651, 23
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_lay_sh_7323_2_0.png
+  rotate: false
+  xy: 264, 2
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_lay_sh_7323_2_0.png
+  rotate: false
+  xy: 355, 2
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_sit_sh_7321_0_0.png
+  rotate: false
+  xy: 224, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_sit_sh_7322_0_0.png
+  rotate: false
+  xy: 421, 16
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_sit_sh_7323_0_0.png
+  rotate: false
+  xy: 704, 22
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7321_0_0.png
+  rotate: false
+  xy: 41, 2
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7321_1_0.png
+  rotate: false
+  xy: 245, 2
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7321_2_0.png
+  rotate: false
+  xy: 285, 13
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7321_3_0.png
+  rotate: false
+  xy: 311, 2
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7321_7_0.png
+  rotate: false
+  xy: 590, 18
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7322_0_0.png
+  rotate: false
+  xy: 374, 2
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7322_1_0.png
+  rotate: false
+  xy: 776, 24
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7322_2_0.png
+  rotate: false
+  xy: 736, 21
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7322_3_0.png
+  rotate: false
+  xy: 198, 2
+  size: 17, 1
+  orig: 17, 1
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7322_7_0.png
+  rotate: false
+  xy: 337, 15
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7323_1_0.png
+  rotate: false
+  xy: 769, 23
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7323_3_0.png
+  rotate: false
+  xy: 574, 2
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_std_sh_7323_7_0.png
+  rotate: false
+  xy: 595, 2
+  size: 15, 1
+  orig: 15, 1
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_0_0.png
+  rotate: false
+  xy: 132, 2
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_0_1.png
+  rotate: false
+  xy: 41, 18
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_0_2.png
+  rotate: false
+  xy: 311, 15
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_0_3.png
+  rotate: false
+  xy: 455, 14
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_1_0.png
+  rotate: false
+  xy: 548, 18
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_1_1.png
+  rotate: false
+  xy: 107, 17
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_1_2.png
+  rotate: false
+  xy: 569, 18
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_1_3.png
+  rotate: false
+  xy: 91, 2
+  size: 39, 13
+  orig: 39, 13
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_2_0.png
+  rotate: false
+  xy: 255, 14
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_2_1.png
+  rotate: false
+  xy: 178, 2
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_2_2.png
+  rotate: false
+  xy: 198, 5
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_2_3.png
+  rotate: false
+  xy: 2, 14
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_3_0.png
+  rotate: false
+  xy: 148, 17
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_3_1.png
+  rotate: false
+  xy: 68, 2
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_3_2.png
+  rotate: false
+  xy: 84, 18
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_3_3.png
+  rotate: false
+  xy: 525, 15
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_7_1.png
+  rotate: false
+  xy: 171, 17
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_7_2.png
+  rotate: false
+  xy: 334, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7321_7_3.png
+  rotate: false
+  xy: 157, 2
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_0_0.png
+  rotate: false
+  xy: 721, 21
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_0_1.png
+  rotate: false
+  xy: 192, 24
+  size: 31, 6
+  orig: 31, 6
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_0_2.png
+  rotate: false
+  xy: 595, 5
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_0_3.png
+  rotate: false
+  xy: 245, 14
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_1_0.png
+  rotate: false
+  xy: 192, 17
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_1_1.png
+  rotate: false
+  xy: 367, 22
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_1_2.png
+  rotate: false
+  xy: 405, 4
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_1_3.png
+  rotate: false
+  xy: 426, 24
+  size: 27, 6
+  orig: 27, 6
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_2_0.png
+  rotate: false
+  xy: 426, 18
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_2_1.png
+  rotate: false
+  xy: 414, 11
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_2_2.png
+  rotate: false
+  xy: 391, 2
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_2_3.png
+  rotate: false
+  xy: 283, 2
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_3_3.png
+  rotate: false
+  xy: 548, 15
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_3_3.png
+  rotate: false
+  xy: 619, 6
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_3_3.png
+  rotate: false
+  xy: 790, 29
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_3_3.png
+  rotate: false
+  xy: 619, 3
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_3_3.png
+  rotate: false
+  xy: 790, 26
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_3_3.png
+  rotate: false
+  xy: 799, 29
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_3_3.png
+  rotate: false
+  xy: 799, 26
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_7_1.png
+  rotate: false
+  xy: 670, 23
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_7_2.png
+  rotate: false
+  xy: 397, 14
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7322_7_3.png
+  rotate: false
+  xy: 687, 23
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_0_0.png
+  rotate: false
+  xy: 783, 24
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_0_1.png
+  rotate: false
+  xy: 225, 22
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_0_2.png
+  rotate: false
+  xy: 414, 2
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_0_2.png
+  rotate: false
+  xy: 762, 23
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_0_3.png
+  rotate: false
+  xy: 563, 2
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_1_0.png
+  rotate: false
+  xy: 750, 23
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_1_1.png
+  rotate: false
+  xy: 397, 22
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_1_2.png
+  rotate: false
+  xy: 612, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_1_3.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_2_0.png
+  rotate: false
+  xy: 525, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_2_1.png
+  rotate: false
+  xy: 31, 3
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_2_2.png
+  rotate: false
+  xy: 546, 2
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_2_2.png
+  rotate: false
+  xy: 611, 9
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_2_3.png
+  rotate: false
+  xy: 337, 21
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_3_0.png
+  rotate: false
+  xy: 376, 14
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_3_1.png
+  rotate: false
+  xy: 574, 9
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_3_2.png
+  rotate: false
+  xy: 355, 14
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+shoes_U_teeeeezys_h_wlk_sh_7323_3_3.png
+  rotate: false
+  xy: 611, 22
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+hair_U_ponytailcap.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_ponytailcap_h_lay_hr_3606_2_0.png
+  rotate: false
+  xy: 414, 4
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_lay_hr_3607_2_0.png
+  rotate: false
+  xy: 469, 4
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_lsp_hrb_3606_2_0.png
+  rotate: false
+  xy: 385, 4
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_lsp_hrb_3607_2_0.png
+  rotate: false
+  xy: 452, 34
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hr_3606_0_0.png
+  rotate: false
+  xy: 76, 23
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hr_3606_1_0.png
+  rotate: false
+  xy: 179, 23
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hr_3606_2_0.png
+  rotate: false
+  xy: 264, 23
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hr_3606_3_0.png
+  rotate: false
+  xy: 424, 31
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hr_3606_7_0.png
+  rotate: false
+  xy: 342, 24
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hr_3607_0_0.png
+  rotate: false
+  xy: 301, 2
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hr_3607_1_0.png
+  rotate: false
+  xy: 101, 5
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hr_3607_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hr_3607_3_0.png
+  rotate: false
+  xy: 197, 6
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hr_3607_7_0.png
+  rotate: false
+  xy: 275, 12
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hrb_3606_0_0.png
+  rotate: false
+  xy: 39, 23
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hrb_3606_1_0.png
+  rotate: false
+  xy: 146, 23
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hrb_3606_2_0.png
+  rotate: false
+  xy: 238, 23
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hrb_3606_3_0.png
+  rotate: false
+  xy: 396, 31
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hrb_3606_7_0.png
+  rotate: false
+  xy: 316, 24
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_spk_hrb_3607_7_0.png
+  rotate: false
+  xy: 443, 20
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hr_3606_0_0.png
+  rotate: false
+  xy: 2, 23
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hr_3606_1_0.png
+  rotate: false
+  xy: 113, 23
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hr_3606_2_0.png
+  rotate: false
+  xy: 212, 23
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hr_3606_3_0.png
+  rotate: false
+  xy: 368, 31
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hr_3606_7_0.png
+  rotate: false
+  xy: 290, 24
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hr_3607_0_0.png
+  rotate: false
+  xy: 357, 2
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hr_3607_1_0.png
+  rotate: false
+  xy: 165, 5
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hr_3607_2_0.png
+  rotate: false
+  xy: 68, 5
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hr_3607_3_0.png
+  rotate: false
+  xy: 249, 6
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hrb_3607_0_0.png
+  rotate: false
+  xy: 329, 2
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hrb_3607_1_0.png
+  rotate: false
+  xy: 133, 5
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hrb_3607_2_0.png
+  rotate: false
+  xy: 35, 5
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+hair_U_ponytailcap_h_std_hrb_3607_3_0.png
+  rotate: false
+  xy: 223, 6
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+acc_face_U_gold8.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_gold8_h_lsp_fa_3565_2_0.png
+  rotate: false
+  xy: 74, 28
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+acc_face_U_gold8_h_spk_fa_3565_0_0.png
+  rotate: false
+  xy: 137, 27
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+acc_face_U_gold8_h_spk_fa_3565_1_0.png
+  rotate: false
+  xy: 110, 28
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+acc_face_U_gold8_h_spk_fa_3565_2_0.png
+  rotate: false
+  xy: 2, 22
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+acc_face_U_gold8_h_spk_fa_3565_3_0.png
+  rotate: false
+  xy: 39, 27
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+acc_face_U_gold8_h_std_fa_3565_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1

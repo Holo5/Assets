@@ -1,0 +1,237 @@
+
+hair_U_quinn.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_quinn_h_lay_hr_3637_2_0.png
+  rotate: false
+  xy: 817, 31
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_lay_hr_3638_2_0.png
+  rotate: false
+  xy: 841, 47
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_lay_hrb_3637_2_0.png
+  rotate: false
+  xy: 793, 31
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_lay_hrb_3638_2_0.png
+  rotate: false
+  xy: 2, 13
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hr_3637_0_0.png
+  rotate: false
+  xy: 766, 35
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hr_3637_1_0.png
+  rotate: false
+  xy: 630, 33
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hr_3637_2_0.png
+  rotate: false
+  xy: 575, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hr_3637_3_0.png
+  rotate: false
+  xy: 76, 30
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hr_3637_7_0.png
+  rotate: false
+  xy: 365, 32
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hr_3638_0_0.png
+  rotate: false
+  xy: 712, 35
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hr_3638_1_0.png
+  rotate: false
+  xy: 2, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hr_3638_2_0.png
+  rotate: false
+  xy: 437, 32
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hr_3638_3_0.png
+  rotate: false
+  xy: 113, 30
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hr_3638_7_0.png
+  rotate: false
+  xy: 329, 32
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hrb_3637_7_0.png
+  rotate: false
+  xy: 221, 32
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_spk_hrb_3638_7_0.png
+  rotate: false
+  xy: 293, 32
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hr_3637_0_0.png
+  rotate: false
+  xy: 658, 35
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hr_3637_1_0.png
+  rotate: false
+  xy: 602, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hr_3637_2_0.png
+  rotate: false
+  xy: 548, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hr_3637_3_0.png
+  rotate: false
+  xy: 39, 30
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hr_3637_7_0.png
+  rotate: false
+  xy: 257, 32
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hr_3638_0_0.png
+  rotate: false
+  xy: 739, 35
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hr_3638_2_0.png
+  rotate: false
+  xy: 493, 32
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hr_3638_3_0.png
+  rotate: false
+  xy: 185, 30
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hr_3638_7_0.png
+  rotate: false
+  xy: 401, 32
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hrb_3637_0_0.png
+  rotate: false
+  xy: 630, 4
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hrb_3637_1_0.png
+  rotate: false
+  xy: 602, 33
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hrb_3637_2_0.png
+  rotate: false
+  xy: 521, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hrb_3637_3_0.png
+  rotate: false
+  xy: 2, 30
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hrb_3638_0_0.png
+  rotate: false
+  xy: 685, 35
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hrb_3638_1_0.png
+  rotate: false
+  xy: 27, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hrb_3638_2_0.png
+  rotate: false
+  xy: 465, 32
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+hair_U_quinn_h_std_hrb_3638_3_0.png
+  rotate: false
+  xy: 149, 30
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1

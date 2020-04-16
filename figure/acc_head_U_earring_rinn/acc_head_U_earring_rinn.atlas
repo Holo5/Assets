@@ -1,0 +1,41 @@
+
+acc_head_U_earring_rinn.png
+size: 128,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_earring_rinn_h_std_he_8394_0_0.png
+  rotate: false
+  xy: 99, 7
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+acc_head_U_earring_rinn_h_std_he_8394_1_0.png
+  rotate: false
+  xy: 90, 7
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+acc_head_U_earring_rinn_h_std_he_8394_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+acc_head_U_earring_rinn_h_std_he_8394_3_0.png
+  rotate: false
+  xy: 60, 7
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1
+acc_head_U_earring_rinn_h_std_he_8394_7_0.png
+  rotate: false
+  xy: 30, 7
+  size: 28, 7
+  orig: 28, 7
+  offset: 0, 0
+  index: -1

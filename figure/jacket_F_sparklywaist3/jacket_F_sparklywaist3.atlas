@@ -1,0 +1,48 @@
+
+jacket_F_sparklywaist3.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_F_sparklywaist3_h_lay_cc_3576_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+jacket_F_sparklywaist3_h_std_cc_3576_0_0.png
+  rotate: false
+  xy: 97, 30
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+jacket_F_sparklywaist3_h_std_cc_3576_1_0.png
+  rotate: false
+  xy: 125, 31
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+jacket_F_sparklywaist3_h_std_cc_3576_2_0.png
+  rotate: false
+  xy: 41, 26
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+jacket_F_sparklywaist3_h_std_cc_3576_3_0.png
+  rotate: false
+  xy: 70, 25
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+jacket_F_sparklywaist3_h_std_cc_3576_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1

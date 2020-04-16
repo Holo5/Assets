@@ -1,0 +1,62 @@
+
+hat_U_mysticcrown.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_mysticcrown_h_lay_ha_3626_2_0.png
+  rotate: false
+  xy: 35, 88
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+hat_U_mysticcrown_h_spk_ha_3626_0_0.png
+  rotate: false
+  xy: 2, 26
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+hat_U_mysticcrown_h_spk_ha_3626_7_0.png
+  rotate: false
+  xy: 35, 46
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+hat_U_mysticcrown_h_std_ha_3626_0_0.png
+  rotate: false
+  xy: 2, 75
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+hat_U_mysticcrown_h_std_ha_3626_1_0.png
+  rotate: false
+  xy: 71, 2
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+hat_U_mysticcrown_h_std_ha_3626_2_0.png
+  rotate: false
+  xy: 35, 4
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+hat_U_mysticcrown_h_std_ha_3626_3_0.png
+  rotate: false
+  xy: 80, 85
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+hat_U_mysticcrown_h_std_ha_3626_7_0.png
+  rotate: false
+  xy: 73, 43
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1

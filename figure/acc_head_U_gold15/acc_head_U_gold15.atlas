@@ -1,0 +1,48 @@
+
+acc_head_U_gold15.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_gold15_h_lay_he_3570_2_0.png
+  rotate: false
+  xy: 63, 41
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+acc_head_U_gold15_h_spk_he_3570_7_0.png
+  rotate: false
+  xy: 114, 41
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+acc_head_U_gold15_h_std_he_3570_0_0.png
+  rotate: false
+  xy: 95, 41
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+acc_head_U_gold15_h_std_he_3570_1_0.png
+  rotate: false
+  xy: 32, 38
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+acc_head_U_gold15_h_std_he_3570_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+acc_head_U_gold15_h_std_he_3570_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1

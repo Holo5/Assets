@@ -1,0 +1,111 @@
+
+acc_chest_U_binoculars.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_binoculars_h_lay_ca_3603_2_0.png
+  rotate: false
+  xy: 25, 4
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_lay_ca_3604_2_0.png
+  rotate: false
+  xy: 93, 17
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_lay_ca_3605_2_0.png
+  rotate: false
+  xy: 77, 2
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3603_1_0.png
+  rotate: false
+  xy: 86, 3
+  size: 6, 2
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3603_2_0.png
+  rotate: false
+  xy: 77, 7
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3603_3_0.png
+  rotate: false
+  xy: 95, 11
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3604_1_0.png
+  rotate: false
+  xy: 66, 15
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3604_2_0.png
+  rotate: false
+  xy: 2, 13
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3604_3_0.png
+  rotate: false
+  xy: 74, 16
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3604_7_0.png
+  rotate: false
+  xy: 38, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3605_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3605_1_0.png
+  rotate: false
+  xy: 58, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3605_2_0.png
+  rotate: false
+  xy: 20, 14
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3605_3_0.png
+  rotate: false
+  xy: 42, 15
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+acc_chest_U_binoculars_h_std_ca_3605_7_0.png
+  rotate: false
+  xy: 38, 5
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1

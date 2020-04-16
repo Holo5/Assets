@@ -1,0 +1,258 @@
+
+hair_F_habpoparig.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_F_habpoparig_h_lay_hr_1912_2_0.png
+  rotate: false
+  xy: 162, 6
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_lay_hr_1913_2_0.png
+  rotate: false
+  xy: 82, 20
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_lay_hrb_1912_2_0.png
+  rotate: false
+  xy: 424, 70
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_lay_hrb_1913_2_0.png
+  rotate: false
+  xy: 142, 6
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hr_1912_0_0.png
+  rotate: false
+  xy: 474, 82
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hr_1912_1_0.png
+  rotate: false
+  xy: 474, 100
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hr_1912_2_0.png
+  rotate: false
+  xy: 42, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hr_1912_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hr_1912_7_0.png
+  rotate: false
+  xy: 362, 28
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hr_1913_0_0.png
+  rotate: false
+  xy: 2, 20
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hr_1913_1_0.png
+  rotate: false
+  xy: 22, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hr_1913_2_0.png
+  rotate: false
+  xy: 122, 24
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hr_1913_3_0.png
+  rotate: false
+  xy: 102, 6
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hrb_1912_0_0.png
+  rotate: false
+  xy: 241, 40
+  size: 41, 76
+  orig: 41, 76
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hrb_1912_1_0.png
+  rotate: false
+  xy: 150, 42
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hrb_1912_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hrb_1912_3_0.png
+  rotate: false
+  xy: 284, 32
+  size: 37, 84
+  orig: 37, 84
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hrb_1912_7_0.png
+  rotate: false
+  xy: 362, 46
+  size: 29, 70
+  orig: 29, 70
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hrb_1913_2_0.png
+  rotate: false
+  xy: 22, 20
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_spk_hrb_1913_3_0.png
+  rotate: false
+  xy: 444, 52
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hr_1912_0_0.png
+  rotate: false
+  xy: 382, 28
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hr_1912_1_0.png
+  rotate: false
+  xy: 402, 28
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hr_1912_2_0.png
+  rotate: false
+  xy: 162, 24
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hr_1912_3_0.png
+  rotate: false
+  xy: 122, 6
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hr_1912_7_0.png
+  rotate: false
+  xy: 62, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hr_1913_0_0.png
+  rotate: false
+  xy: 62, 20
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hr_1913_1_0.png
+  rotate: false
+  xy: 42, 20
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hr_1913_2_0.png
+  rotate: false
+  xy: 82, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hr_1913_7_0.png
+  rotate: false
+  xy: 424, 52
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hrb_1912_0_0.png
+  rotate: false
+  xy: 198, 40
+  size: 41, 76
+  orig: 41, 76
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hrb_1912_1_0.png
+  rotate: false
+  xy: 102, 42
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hrb_1912_2_0.png
+  rotate: false
+  xy: 52, 38
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hrb_1912_3_0.png
+  rotate: false
+  xy: 323, 32
+  size: 37, 84
+  orig: 37, 84
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hrb_1912_7_0.png
+  rotate: false
+  xy: 393, 46
+  size: 29, 70
+  orig: 29, 70
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hrb_1913_0_0.png
+  rotate: false
+  xy: 142, 24
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpoparig_h_std_hrb_1913_1_0.png
+  rotate: false
+  xy: 102, 24
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
