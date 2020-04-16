@@ -1,0 +1,48 @@
+
+hat_U_gldtiara.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_gldtiara_h_lsp_ha_5779_2_0.png
+  rotate: false
+  xy: 96, 13
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+hat_U_gldtiara_h_spk_ha_5779_0_0.png
+  rotate: false
+  xy: 2, 13
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+hat_U_gldtiara_h_spk_ha_5779_1_0.png
+  rotate: false
+  xy: 24, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+hat_U_gldtiara_h_spk_ha_5779_2_0.png
+  rotate: false
+  xy: 48, 19
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+hat_U_gldtiara_h_spk_ha_5779_7_0.png
+  rotate: false
+  xy: 24, 16
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+hat_U_gldtiara_h_std_ha_5779_3_0.png
+  rotate: false
+  xy: 72, 19
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1

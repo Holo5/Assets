@@ -1,1 +1,1 @@
-{"type":"ca","name":"acc_chest_U_rank4","spritesheet":"acc_chest_U_rank4_spritesheet.json","assets":{"acc_chest_U_rank4_h_lay_ca_2726_2_0":{"x":-5,"y":17},"acc_chest_U_rank4_h_std_ca_2726_1_0":{"x":-38,"y":38},"acc_chest_U_rank4_h_std_ca_2726_2_0":{"x":-28,"y":35},"acc_chest_U_rank4_h_std_ca_2726_3_0":{"x":-24,"y":37}}}
+{"type":"ca","name":"acc_chest_U_rank4","spritesheet":"acc_chest_U_rank4_spritesheet.json","assets":{"h_lay_ca_2726_2_0":{"x":-5,"y":17},"h_std_ca_2726_2_0":{"x":-28,"y":35},"h_std_ca_2726_1_0":{"x":-38,"y":38},"h_std_ca_2726_3_0":{"x":-24,"y":37}}}

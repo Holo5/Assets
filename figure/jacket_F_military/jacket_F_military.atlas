@@ -6,42 +6,42 @@ filter: Nearest,Nearest
 repeat: none
 jacket_F_military_h_crr_lc_2715_0_0.png
   rotate: false
-  xy: 1662, 40
+  xy: 1987, 40
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_lc_2715_1_0.png
   rotate: false
-  xy: 1539, 46
+  xy: 1849, 46
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_lc_2715_2_0.png
   rotate: false
-  xy: 1036, 36
+  xy: 1270, 36
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_lc_2715_3_0.png
   rotate: false
-  xy: 623, 27
+  xy: 1166, 37
   size: 13, 25
   orig: 13, 25
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_lc_2715_7_0.png
   rotate: false
-  xy: 1509, 40
+  xy: 1819, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_lc_2716_0_0.png
   rotate: false
-  xy: 88, 3
+  xy: 1858, 36
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
@@ -55,28 +55,28 @@ jacket_F_military_h_crr_lc_2716_1_0.png
   index: -1
 jacket_F_military_h_crr_lc_2716_2_0.png
   rotate: false
-  xy: 1257, 36
+  xy: 1526, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_lc_2716_3_0.png
   rotate: false
-  xy: 625, 2
+  xy: 1589, 39
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_lc_2716_7_0.png
   rotate: false
-  xy: 1719, 54
+  xy: 2023, 37
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2715_0_0.png
   rotate: false
-  xy: 483, 23
+  xy: 486, 23
   size: 18, 24
   orig: 18, 24
   offset: 0, 0
@@ -97,105 +97,105 @@ jacket_F_military_h_crr_rc_2715_2_0.png
   index: -1
 jacket_F_military_h_crr_rc_2715_3_0.png
   rotate: false
-  xy: 1050, 37
+  xy: 1242, 37
   size: 12, 25
   orig: 12, 25
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2715_4_0.png
   rotate: false
-  xy: 611, 2
+  xy: 1575, 39
   size: 12, 23
   orig: 12, 23
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2715_5_0.png
   rotate: false
-  xy: 565, 2
+  xy: 874, 39
   size: 15, 23
   orig: 15, 23
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2715_6_0.png
   rotate: false
-  xy: 1689, 40
+  xy: 2014, 40
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2715_7_0.png
   rotate: false
-  xy: 1497, 40
+  xy: 1807, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2716_0_0.png
   rotate: false
-  xy: 774, 41
+  xy: 821, 41
   size: 16, 21
   orig: 16, 21
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2716_1_0.png
   rotate: false
-  xy: 810, 40
+  xy: 1226, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2716_2_0.png
   rotate: false
-  xy: 722, 36
+  xy: 907, 36
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2716_3_0.png
   rotate: false
-  xy: 1292, 38
+  xy: 1602, 38
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2716_4_0.png
   rotate: false
-  xy: 1485, 39
+  xy: 1795, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2716_5_0.png
   rotate: false
-  xy: 548, 2
+  xy: 857, 39
   size: 15, 23
   orig: 15, 23
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2716_6_0.png
   rotate: false
-  xy: 754, 31
+  xy: 629, 44
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2716_7_0.png
   rotate: false
-  xy: 1731, 54
+  xy: 2035, 35
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 jacket_F_military_h_crr_rc_2717_2_0.png
   rotate: false
-  xy: 763, 34
+  xy: 453, 36
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 jacket_F_military_h_drk_rc_2715_0_0.png
   rotate: false
-  xy: 570, 27
+  xy: 723, 42
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
@@ -216,14 +216,14 @@ jacket_F_military_h_drk_rc_2715_2_0.png
   index: -1
 jacket_F_military_h_drk_rc_2715_3_0.png
   rotate: false
-  xy: 524, 2
+  xy: 802, 43
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
   index: -1
 jacket_F_military_h_drk_rc_2715_4_0.png
   rotate: false
-  xy: 638, 4
+  xy: 1886, 46
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
@@ -244,14 +244,14 @@ jacket_F_military_h_drk_rc_2715_6_0.png
   index: -1
 jacket_F_military_h_drk_rc_2715_7_0.png
   rotate: false
-  xy: 1576, 47
+  xy: 2023, 47
   size: 12, 15
   orig: 12, 15
   offset: 0, 0
   index: -1
 jacket_F_military_h_drk_rc_2716_0_0.png
   rotate: false
-  xy: 1556, 49
+  xy: 1866, 49
   size: 18, 13
   orig: 18, 13
   offset: 0, 0
@@ -272,14 +272,14 @@ jacket_F_military_h_drk_rc_2716_2_0.png
   index: -1
 jacket_F_military_h_drk_rc_2716_3_0.png
   rotate: false
-  xy: 1521, 46
+  xy: 1831, 46
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 jacket_F_military_h_drk_rc_2716_4_0.png
   rotate: false
-  xy: 1707, 47
+  xy: 460, 4
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
@@ -300,7 +300,7 @@ jacket_F_military_h_drk_rc_2716_6_0.png
   index: -1
 jacket_F_military_h_drk_rc_2716_7_0.png
   rotate: false
-  xy: 733, 26
+  xy: 1867, 39
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
@@ -314,14 +314,14 @@ jacket_F_military_h_lay_cc_2715_2_0.png
   index: -1
 jacket_F_military_h_lay_cc_2716_2_0.png
   rotate: false
-  xy: 97, 6
+  xy: 647, 47
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_F_military_h_lay_cc_2717_2_0.png
   rotate: false
-  xy: 1717, 47
+  xy: 1879, 42
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
@@ -335,7 +335,7 @@ jacket_F_military_h_lay_lc_2715_2_0.png
   index: -1
 jacket_F_military_h_lay_lc_2716_2_0.png
   rotate: false
-  xy: 1752, 57
+  xy: 114, 6
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
@@ -391,21 +391,21 @@ jacket_F_military_h_std_cc_2715_7_0.png
   index: -1
 jacket_F_military_h_std_cc_2716_0_0.png
   rotate: false
-  xy: 597, 2
+  xy: 1561, 39
   size: 12, 23
   orig: 12, 23
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_cc_2716_2_0.png
   rotate: false
-  xy: 543, 14
+  xy: 439, 2
   size: 3, 7
   orig: 3, 7
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_cc_2716_3_0.png
   rotate: false
-  xy: 701, 54
+  xy: 506, 39
   size: 3, 8
   orig: 3, 8
   offset: 0, 0
@@ -433,35 +433,35 @@ jacket_F_military_h_std_cc_2717_1_0.png
   index: -1
 jacket_F_military_h_std_cc_2717_2_0.png
   rotate: false
-  xy: 455, 2
+  xy: 88, 2
   size: 15, 9
   orig: 15, 9
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_cc_2717_3_0.png
   rotate: false
-  xy: 706, 26
+  xy: 1831, 36
   size: 13, 8
   orig: 13, 8
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_lc_2715_0_0.png
   rotate: false
-  xy: 1458, 35
+  xy: 1768, 35
   size: 7, 27
   orig: 7, 27
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_lc_2715_1_0.png
   rotate: false
-  xy: 1671, 40
+  xy: 1996, 40
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_lc_2715_2_0.png
   rotate: false
-  xy: 1467, 35
+  xy: 1777, 35
   size: 7, 27
   orig: 7, 27
   offset: 0, 0
@@ -475,56 +475,56 @@ jacket_F_military_h_std_lc_2715_3_0.png
   index: -1
 jacket_F_military_h_std_lc_2715_7_0.png
   rotate: false
-  xy: 1126, 34
+  xy: 1346, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_lc_2716_0_0.png
   rotate: false
-  xy: 1654, 38
+  xy: 1979, 38
   size: 6, 24
   orig: 6, 24
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_lc_2716_2_0.png
   rotate: false
-  xy: 1619, 37
+  xy: 1944, 37
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_lc_2716_3_0.png
   rotate: false
-  xy: 1360, 35
+  xy: 1670, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_lc_2716_7_0.png
   rotate: false
-  xy: 1245, 36
+  xy: 1514, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_rc_2715_0_0.png
   rotate: false
-  xy: 972, 33
+  xy: 473, 12
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_rc_2715_1_0.png
   rotate: false
-  xy: 1150, 34
+  xy: 1370, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_rc_2715_2_0.png
   rotate: false
-  xy: 638, 22
+  xy: 460, 11
   size: 11, 30
   orig: 11, 30
   offset: 0, 0
@@ -538,49 +538,49 @@ jacket_F_military_h_std_rc_2715_3_0.png
   index: -1
 jacket_F_military_h_std_rc_2715_7_0.png
   rotate: false
-  xy: 998, 34
+  xy: 1334, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_rc_2716_0_0.png
   rotate: false
-  xy: 1023, 35
+  xy: 1297, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_rc_2716_1_0.png
   rotate: false
-  xy: 1338, 36
+  xy: 1648, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_rc_2716_2_0.png
   rotate: false
-  xy: 985, 34
+  xy: 1112, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_rc_2716_3_0.png
   rotate: false
-  xy: 1370, 35
+  xy: 1680, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 jacket_F_military_h_std_rc_2716_7_0.png
   rotate: false
-  xy: 1233, 36
+  xy: 1502, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wav_lc_2715_0_0.png
   rotate: false
-  xy: 518, 23
+  xy: 1151, 37
   size: 13, 25
   orig: 13, 25
   offset: 0, 0
@@ -594,14 +594,14 @@ jacket_F_military_h_wav_lc_2715_0_1.png
   index: -1
 jacket_F_military_h_wav_lc_2715_1_0.png
   rotate: false
-  xy: 1197, 36
+  xy: 1466, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wav_lc_2715_1_1.png
   rotate: false
-  xy: 1280, 37
+  xy: 1549, 37
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
@@ -692,42 +692,42 @@ jacket_F_military_h_wav_lc_2715_7_1.png
   index: -1
 jacket_F_military_h_wav_lc_2716_0_0.png
   rotate: false
-  xy: 590, 27
+  xy: 1901, 42
   size: 12, 20
   orig: 12, 20
   offset: 0, 0
   index: -1
 jacket_F_military_h_wav_lc_2716_0_1.png
   rotate: false
-  xy: 792, 41
+  xy: 839, 41
   size: 16, 21
   orig: 16, 21
   offset: 0, 0
   index: -1
 jacket_F_military_h_wav_lc_2716_1_0.png
   rotate: false
-  xy: 1531, 40
+  xy: 479, 43
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 jacket_F_military_h_wav_lc_2716_1_1.png
   rotate: false
-  xy: 106, 7
+  xy: 656, 48
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 jacket_F_military_h_wav_lc_2716_2_0.png
   rotate: false
-  xy: 1743, 57
+  xy: 638, 47
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_F_military_h_wav_lc_2716_2_1.png
   rotate: false
-  xy: 1521, 40
+  xy: 120, 5
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
@@ -755,14 +755,14 @@ jacket_F_military_h_wav_lc_2716_4_0.png
   index: -1
 jacket_F_military_h_wav_lc_2716_4_1.png
   rotate: false
-  xy: 483, 2
+  xy: 486, 2
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 jacket_F_military_h_wav_lc_2716_5_0.png
   rotate: false
-  xy: 604, 27
+  xy: 763, 41
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
@@ -776,14 +776,14 @@ jacket_F_military_h_wav_lc_2716_5_1.png
   index: -1
 jacket_F_military_h_wav_lc_2716_6_0.png
   rotate: false
-  xy: 754, 41
+  xy: 743, 41
   size: 18, 21
   orig: 18, 21
   offset: 0, 0
   index: -1
 jacket_F_military_h_wav_lc_2716_6_1.png
   rotate: false
-  xy: 548, 27
+  xy: 701, 42
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
@@ -797,35 +797,35 @@ jacket_F_military_h_wav_lc_2716_7_0.png
   index: -1
 jacket_F_military_h_wav_lc_2716_7_1.png
   rotate: false
-  xy: 504, 2
+  xy: 782, 43
   size: 18, 19
   orig: 18, 19
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_0_0.png
   rotate: false
-  xy: 1476, 35
+  xy: 1786, 35
   size: 7, 27
   orig: 7, 27
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_0_1.png
   rotate: false
-  xy: 1680, 40
+  xy: 2005, 40
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_0_2.png
   rotate: false
-  xy: 1380, 35
+  xy: 1690, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_0_3.png
   rotate: false
-  xy: 1138, 34
+  xy: 1358, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
@@ -839,21 +839,21 @@ jacket_F_military_h_wlk_lc_2715_1_1.png
   index: -1
 jacket_F_military_h_wlk_lc_2715_1_2.png
   rotate: false
-  xy: 1349, 35
+  xy: 1659, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_1_3.png
   rotate: false
-  xy: 738, 36
+  xy: 923, 36
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_2_0.png
   rotate: false
-  xy: 1440, 36
+  xy: 1750, 36
   size: 7, 26
   orig: 7, 26
   offset: 0, 0
@@ -867,63 +867,63 @@ jacket_F_military_h_wlk_lc_2715_2_1.png
   index: -1
 jacket_F_military_h_wlk_lc_2715_2_2.png
   rotate: false
-  xy: 1449, 36
+  xy: 1759, 36
   size: 7, 26
   orig: 7, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_2_3.png
   rotate: false
-  xy: 1698, 45
+  xy: 2037, 45
   size: 7, 17
   orig: 7, 17
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_3_0.png
   rotate: false
-  xy: 1010, 35
+  xy: 1284, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_3_1.png
   rotate: false
-  xy: 854, 34
+  xy: 981, 34
   size: 12, 28
   orig: 12, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_3_2.png
   rotate: false
-  xy: 959, 34
+  xy: 1099, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_3_3.png
   rotate: false
-  xy: 840, 36
+  xy: 1256, 36
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_7_0.png
   rotate: false
-  xy: 665, 24
+  xy: 953, 34
   size: 12, 28
   orig: 12, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_7_1.png
   rotate: false
-  xy: 946, 34
+  xy: 1086, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2715_7_2.png
   rotate: false
-  xy: 679, 24
+  xy: 967, 34
   size: 12, 28
   orig: 12, 28
   offset: 0, 0
@@ -937,77 +937,77 @@ jacket_F_military_h_wlk_lc_2715_7_3.png
   index: -1
 jacket_F_military_h_wlk_lc_2716_0_0.png
   rotate: false
-  xy: 1610, 37
+  xy: 1935, 37
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_0_1.png
   rotate: false
-  xy: 745, 26
+  xy: 620, 44
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_0_2.png
   rotate: false
-  xy: 1628, 37
+  xy: 1953, 37
   size: 6, 25
   orig: 6, 25
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_0_3.png
   rotate: false
-  xy: 1410, 36
+  xy: 1720, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_1_0.png
   rotate: false
-  xy: 1327, 37
+  xy: 1637, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_1_1.png
   rotate: false
-  xy: 706, 36
+  xy: 891, 36
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_1_3.png
   rotate: false
-  xy: 533, 23
+  xy: 1196, 38
   size: 13, 24
   orig: 13, 24
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_2_0.png
   rotate: false
-  xy: 1636, 38
+  xy: 1961, 38
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_2_1.png
   rotate: false
-  xy: 1077, 37
+  xy: 1453, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_2_2.png
   rotate: false
-  xy: 1645, 38
+  xy: 1970, 38
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_2_3.png
   rotate: false
-  xy: 472, 2
+  xy: 105, 2
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
@@ -1021,56 +1021,56 @@ jacket_F_military_h_wlk_lc_2716_3_0.png
   index: -1
 jacket_F_military_h_wlk_lc_2716_3_1.png
   rotate: false
-  xy: 1420, 36
+  xy: 1730, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_3_2.png
   rotate: false
-  xy: 1430, 36
+  xy: 1740, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_3_3.png
   rotate: false
-  xy: 1600, 38
+  xy: 1925, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_7_0.png
   rotate: false
-  xy: 1090, 36
+  xy: 1392, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_7_1.png
   rotate: false
-  xy: 1707, 54
+  xy: 473, 2
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_7_2.png
   rotate: false
-  xy: 1161, 36
+  xy: 1404, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_lc_2716_7_3.png
   rotate: false
-  xy: 1102, 35
+  xy: 1310, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2715_0_0.png
   rotate: false
-  xy: 471, 13
+  xy: 120, 11
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
@@ -1084,7 +1084,7 @@ jacket_F_military_h_wlk_rc_2715_0_1.png
   index: -1
 jacket_F_military_h_wlk_rc_2715_0_2.png
   rotate: false
-  xy: 120, 11
+  xy: 1125, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
@@ -1098,7 +1098,7 @@ jacket_F_military_h_wlk_rc_2715_0_3.png
   index: -1
 jacket_F_military_h_wlk_rc_2715_1_0.png
   rotate: false
-  xy: 93, 13
+  xy: 1381, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
@@ -1112,7 +1112,7 @@ jacket_F_military_h_wlk_rc_2715_1_1.png
   index: -1
 jacket_F_military_h_wlk_rc_2715_1_2.png
   rotate: false
-  xy: 444, 7
+  xy: 93, 13
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
@@ -1147,42 +1147,42 @@ jacket_F_military_h_wlk_rc_2715_2_2.png
   index: -1
 jacket_F_military_h_wlk_rc_2715_2_3.png
   rotate: false
-  xy: 455, 13
+  xy: 444, 6
   size: 14, 28
   orig: 14, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2715_3_0.png
   rotate: false
-  xy: 868, 34
+  xy: 1008, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2715_3_1.png
   rotate: false
-  xy: 826, 36
+  xy: 1137, 36
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2715_3_2.png
   rotate: false
-  xy: 693, 24
+  xy: 995, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2715_3_3.png
   rotate: false
-  xy: 651, 24
+  xy: 939, 34
   size: 12, 28
   orig: 12, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2715_7_0.png
   rotate: false
-  xy: 933, 34
+  xy: 1073, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
@@ -1196,63 +1196,63 @@ jacket_F_military_h_wlk_rc_2715_7_1.png
   index: -1
 jacket_F_military_h_wlk_rc_2715_7_2.png
   rotate: false
-  xy: 920, 34
+  xy: 1060, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2715_7_3.png
   rotate: false
-  xy: 907, 34
+  xy: 1047, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_0_0.png
   rotate: false
-  xy: 1185, 36
+  xy: 1428, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_0_1.png
   rotate: false
-  xy: 1064, 37
+  xy: 1440, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_0_2.png
   rotate: false
-  xy: 1173, 36
+  xy: 1416, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_0_3.png
   rotate: false
-  xy: 582, 2
+  xy: 1211, 39
   size: 13, 23
   orig: 13, 23
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_1_0.png
   rotate: false
-  xy: 1305, 37
+  xy: 1615, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_1_1.png
   rotate: false
-  xy: 503, 23
+  xy: 1181, 38
   size: 13, 24
   orig: 13, 24
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_1_2.png
   rotate: false
-  xy: 1316, 37
+  xy: 1626, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
@@ -1266,7 +1266,7 @@ jacket_F_military_h_wlk_rc_2716_1_3.png
   index: -1
 jacket_F_military_h_wlk_rc_2716_2_0.png
   rotate: false
-  xy: 881, 34
+  xy: 1021, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
@@ -1280,7 +1280,7 @@ jacket_F_military_h_wlk_rc_2716_2_1.png
   index: -1
 jacket_F_military_h_wlk_rc_2716_2_2.png
   rotate: false
-  xy: 894, 34
+  xy: 1034, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
@@ -1294,56 +1294,56 @@ jacket_F_military_h_wlk_rc_2716_2_3.png
   index: -1
 jacket_F_military_h_wlk_rc_2716_3_0.png
   rotate: false
-  xy: 1390, 36
+  xy: 1700, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_3_1.png
   rotate: false
-  xy: 1590, 39
+  xy: 1915, 39
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_3_2.png
   rotate: false
-  xy: 1400, 36
+  xy: 1710, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_3_3.png
   rotate: false
-  xy: 1269, 36
+  xy: 1538, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_7_0.png
   rotate: false
-  xy: 1221, 36
+  xy: 1490, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_7_1.png
   rotate: false
-  xy: 1114, 35
+  xy: 1322, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_7_2.png
   rotate: false
-  xy: 1209, 36
+  xy: 1478, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_F_military_h_wlk_rc_2716_7_3.png
   rotate: false
-  xy: 721, 26
+  xy: 1846, 36
   size: 10, 8
   orig: 10, 8
   offset: 0, 0

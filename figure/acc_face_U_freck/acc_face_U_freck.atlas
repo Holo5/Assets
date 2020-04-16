@@ -1,0 +1,76 @@
+
+acc_face_U_freck.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_freck_h_lay_fa_1750_2_0.png
+  rotate: false
+  xy: 14, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+acc_face_U_freck_h_lsp_fa_1750_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+acc_face_U_freck_h_spk_fa_1750_0_0.png
+  rotate: false
+  xy: 2, 14
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+acc_face_U_freck_h_spk_fa_1750_1_0.png
+  rotate: false
+  xy: 2, 30
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+acc_face_U_freck_h_spk_fa_1750_2_0.png
+  rotate: false
+  xy: 110, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+acc_face_U_freck_h_spk_fa_1750_3_0.png
+  rotate: false
+  xy: 144, 29
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+acc_face_U_freck_h_std_fa_1750_1_0.png
+  rotate: false
+  xy: 39, 30
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+acc_face_U_freck_h_std_fa_1750_2_0.png
+  rotate: false
+  xy: 76, 29
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+acc_face_U_freck_h_std_fa_1750_3_0.png
+  rotate: false
+  xy: 172, 28
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+acc_face_U_freck_h_std_fa_1750_7_0.png
+  rotate: false
+  xy: 200, 53
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1

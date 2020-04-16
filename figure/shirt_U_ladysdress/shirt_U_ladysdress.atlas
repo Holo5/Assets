@@ -1,0 +1,685 @@
+
+shirt_U_ladysdress.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_U_ladysdress_h_crr_ls_9994_0_0.png
+  rotate: false
+  xy: 271, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_ls_9994_1_0.png
+  rotate: false
+  xy: 253, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_ls_9994_2_0.png
+  rotate: false
+  xy: 595, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_ls_9994_3_0.png
+  rotate: false
+  xy: 604, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_ls_9994_4_0.png
+  rotate: false
+  xy: 631, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_ls_9994_5_0.png
+  rotate: false
+  xy: 466, 33
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_ls_9994_6_0.png
+  rotate: false
+  xy: 517, 38
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_ls_9994_7_0.png
+  rotate: false
+  xy: 622, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_rs_9994_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_rs_9994_2_0.png
+  rotate: false
+  xy: 545, 38
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_rs_9994_3_0.png
+  rotate: false
+  xy: 613, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_rs_9994_4_0.png
+  rotate: false
+  xy: 784, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_rs_9994_6_0.png
+  rotate: false
+  xy: 325, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_crr_rs_9994_7_0.png
+  rotate: false
+  xy: 712, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_drk_rs_9994_0_0.png
+  rotate: false
+  xy: 529, 15
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_drk_rs_9994_1_0.png
+  rotate: false
+  xy: 39, 6
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_drk_rs_9994_2_0.png
+  rotate: false
+  xy: 964, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_drk_rs_9994_3_0.png
+  rotate: false
+  xy: 946, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_drk_rs_9994_4_0.png
+  rotate: false
+  xy: 901, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_drk_rs_9994_5_0.png
+  rotate: false
+  xy: 538, 15
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_drk_rs_9994_6_0.png
+  rotate: false
+  xy: 547, 15
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_drk_rs_9994_7_0.png
+  rotate: false
+  xy: 556, 15
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_lay_ch_9994_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_lay_ls_9994_2_0.png
+  rotate: false
+  xy: 565, 18
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_lay_rs_9994_2_0.png
+  rotate: false
+  xy: 730, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_ch_9994_0_0.png
+  rotate: false
+  xy: 253, 23
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_ch_9994_1_0.png
+  rotate: false
+  xy: 382, 24
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_ch_9994_3_0.png
+  rotate: false
+  xy: 49, 21
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_ch_9994_7_0.png
+  rotate: false
+  xy: 349, 25
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_ls_9994_0_0.png
+  rotate: false
+  xy: 775, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_ls_9994_1_0.png
+  rotate: false
+  xy: 973, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_ls_9994_2_0.png
+  rotate: false
+  xy: 982, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_ls_9994_3_0.png
+  rotate: false
+  xy: 955, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_rs_9994_0_0.png
+  rotate: false
+  xy: 928, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_rs_9994_1_0.png
+  rotate: false
+  xy: 493, 13
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_rs_9994_2_0.png
+  rotate: false
+  xy: 520, 15
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_rs_9994_3_0.png
+  rotate: false
+  xy: 1009, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_std_rs_9994_7_0.png
+  rotate: false
+  xy: 484, 10
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_0_0.png
+  rotate: false
+  xy: 361, 2
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_0_1.png
+  rotate: false
+  xy: 485, 36
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_1_0.png
+  rotate: false
+  xy: 991, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_1_1.png
+  rotate: false
+  xy: 1000, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_2_0.png
+  rotate: false
+  xy: 577, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_2_1.png
+  rotate: false
+  xy: 586, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_3_0.png
+  rotate: false
+  xy: 475, 10
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_3_1.png
+  rotate: false
+  xy: 466, 10
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_4_0.png
+  rotate: false
+  xy: 307, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_4_1.png
+  rotate: false
+  xy: 531, 38
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_5_0.png
+  rotate: false
+  xy: 502, 12
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_5_1.png
+  rotate: false
+  xy: 511, 12
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_6_0.png
+  rotate: false
+  xy: 703, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_6_1.png
+  rotate: false
+  xy: 685, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_7_0.png
+  rotate: false
+  xy: 676, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wav_ls_9994_7_1.png
+  rotate: false
+  xy: 658, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ch_9994_0_0.png
+  rotate: false
+  xy: 285, 23
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ch_9994_0_2.png
+  rotate: false
+  xy: 317, 23
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ch_9994_1_0.png
+  rotate: false
+  xy: 438, 24
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ch_9994_1_2.png
+  rotate: false
+  xy: 410, 24
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ch_9994_2_0.png
+  rotate: false
+  xy: 154, 20
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ch_9994_2_1.png
+  rotate: false
+  xy: 220, 20
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ch_9994_2_2.png
+  rotate: false
+  xy: 187, 20
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ch_9994_3_0.png
+  rotate: false
+  xy: 119, 21
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ch_9994_3_2.png
+  rotate: false
+  xy: 84, 21
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_0_1.png
+  rotate: false
+  xy: 640, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_0_2.png
+  rotate: false
+  xy: 649, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_0_3.png
+  rotate: false
+  xy: 667, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_1_0.png
+  rotate: false
+  xy: 757, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_1_1.png
+  rotate: false
+  xy: 748, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_1_3.png
+  rotate: false
+  xy: 766, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_2_0.png
+  rotate: false
+  xy: 343, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_2_1.png
+  rotate: false
+  xy: 802, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_2_3.png
+  rotate: false
+  xy: 793, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_3_0.png
+  rotate: false
+  xy: 838, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_3_1.png
+  rotate: false
+  xy: 829, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_3_2.png
+  rotate: false
+  xy: 21, 8
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_3_3.png
+  rotate: false
+  xy: 874, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_7_0.png
+  rotate: false
+  xy: 504, 35
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_7_1.png
+  rotate: false
+  xy: 289, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_ls_9994_7_3.png
+  rotate: false
+  xy: 574, 18
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_0_0.png
+  rotate: false
+  xy: 937, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_0_1.png
+  rotate: false
+  xy: 910, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_0_2.png
+  rotate: false
+  xy: 919, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_0_3.png
+  rotate: false
+  xy: 592, 18
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_1_0.png
+  rotate: false
+  xy: 892, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_1_1.png
+  rotate: false
+  xy: 883, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_1_3.png
+  rotate: false
+  xy: 583, 18
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_2_0.png
+  rotate: false
+  xy: 811, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_2_1.png
+  rotate: false
+  xy: 559, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_2_2.png
+  rotate: false
+  xy: 568, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_2_3.png
+  rotate: false
+  xy: 370, 2
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_3_0.png
+  rotate: false
+  xy: 847, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_3_1.png
+  rotate: false
+  xy: 820, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_3_2.png
+  rotate: false
+  xy: 865, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_3_3.png
+  rotate: false
+  xy: 856, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_7_1.png
+  rotate: false
+  xy: 739, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_7_2.png
+  rotate: false
+  xy: 694, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_ladysdress_h_wlk_rs_9994_7_3.png
+  rotate: false
+  xy: 721, 41
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1

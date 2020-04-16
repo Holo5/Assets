@@ -1,0 +1,76 @@
+
+acc_face_U_mouthsc.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_mouthsc_h_lay_fa_4998_2_0.png
+  rotate: false
+  xy: 30, 2
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+acc_face_U_mouthsc_h_lsp_fa_4998_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+acc_face_U_mouthsc_h_spk_fa_4998_0_0.png
+  rotate: false
+  xy: 210, 7
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+acc_face_U_mouthsc_h_spk_fa_4998_1_0.png
+  rotate: false
+  xy: 183, 6
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+acc_face_U_mouthsc_h_spk_fa_4998_2_0.png
+  rotate: false
+  xy: 139, 4
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+acc_face_U_mouthsc_h_spk_fa_4998_3_0.png
+  rotate: false
+  xy: 86, 5
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+acc_face_U_mouthsc_h_std_fa_4998_0_0.png
+  rotate: false
+  xy: 202, 7
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+acc_face_U_mouthsc_h_std_fa_4998_1_0.png
+  rotate: false
+  xy: 164, 6
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+acc_face_U_mouthsc_h_std_fa_4998_2_0.png
+  rotate: false
+  xy: 114, 4
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+acc_face_U_mouthsc_h_std_fa_4998_3_0.png
+  rotate: false
+  xy: 58, 5
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1

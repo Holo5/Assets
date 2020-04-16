@@ -4,25 +4,25 @@ size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shoes_U_cladyshoes_h_sit_sh_2805_0_0.png
-  rotate: false
-  xy: 666, 10
-  size: 18, 20
-  orig: 18, 20
-  offset: 0, 0
-  index: -1
-shoes_U_cladyshoes_h_sit_sh_2805_2_0.png
+shoes_U_cladyshoes_h_lay_sh_2805_2_0.png
   rotate: false
   xy: 222, 10
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
-shoes_U_cladyshoes_h_sit_sh_2805_2_0.png
+shoes_U_cladyshoes_h_lay_sh_2805_2_0.png
   rotate: false
   xy: 247, 10
   size: 23, 20
   orig: 23, 20
+  offset: 0, 0
+  index: -1
+shoes_U_cladyshoes_h_sit_sh_2805_0_0.png
+  rotate: false
+  xy: 666, 10
+  size: 18, 20
+  orig: 18, 20
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_std_sh_2805_0_0.png
@@ -48,7 +48,7 @@ shoes_U_cladyshoes_h_std_sh_2805_2_0.png
   index: -1
 shoes_U_cladyshoes_h_std_sh_2805_3_0.png
   rotate: false
-  xy: 557, 15
+  xy: 373, 15
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
@@ -146,56 +146,56 @@ shoes_U_cladyshoes_h_wlk_sh_2805_2_3.png
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_3_0.png
   rotate: false
-  xy: 373, 13
+  xy: 396, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_3_1.png
   rotate: false
-  xy: 442, 13
+  xy: 465, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_3_2.png
   rotate: false
-  xy: 419, 13
+  xy: 442, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_3_3.png
   rotate: false
-  xy: 396, 13
+  xy: 419, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_7_0.png
   rotate: false
-  xy: 534, 13
+  xy: 557, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_7_1.png
   rotate: false
-  xy: 488, 12
+  xy: 511, 12
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_7_2.png
   rotate: false
-  xy: 511, 13
+  xy: 534, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_7_3.png
   rotate: false
-  xy: 465, 12
+  xy: 488, 12
   size: 21, 18
   orig: 21, 18
   offset: 0, 0

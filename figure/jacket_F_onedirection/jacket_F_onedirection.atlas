@@ -1,0 +1,265 @@
+
+jacket_F_onedirection.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_F_onedirection_h_crr_lc_6672_3_0.png
+  rotate: false
+  xy: 205, 36
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_crr_lc_6672_6_0.png
+  rotate: false
+  xy: 232, 52
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_crr_rc_6672_0_0.png
+  rotate: false
+  xy: 186, 50
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_crr_rc_6672_2_0.png
+  rotate: false
+  xy: 160, 49
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_crr_rc_6672_4_0.png
+  rotate: false
+  xy: 160, 34
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_crr_rc_6672_5_0.png
+  rotate: false
+  xy: 171, 26
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_drk_rc_6672_0_0.png
+  rotate: false
+  xy: 215, 36
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_drk_rc_6672_1_0.png
+  rotate: false
+  xy: 65, 19
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_drk_rc_6672_2_0.png
+  rotate: false
+  xy: 52, 2
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_drk_rc_6672_3_0.png
+  rotate: false
+  xy: 75, 19
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_drk_rc_6672_5_0.png
+  rotate: false
+  xy: 247, 42
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_drk_rc_6672_7_0.png
+  rotate: false
+  xy: 173, 34
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_lay_cc_6672_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_lay_rc_6672_2_0.png
+  rotate: false
+  xy: 209, 50
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_std_cc_6672_0_0.png
+  rotate: false
+  xy: 105, 30
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_std_cc_6672_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_std_cc_6672_2_0.png
+  rotate: false
+  xy: 75, 29
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_std_cc_6672_3_0.png
+  rotate: false
+  xy: 133, 31
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_std_cc_6672_7_0.png
+  rotate: false
+  xy: 41, 32
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_std_rc_6672_0_0.png
+  rotate: false
+  xy: 53, 20
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_std_rc_6672_1_0.png
+  rotate: false
+  xy: 160, 26
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_std_rc_6672_2_0.png
+  rotate: false
+  xy: 173, 50
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_std_rc_6672_3_0.png
+  rotate: false
+  xy: 195, 36
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wav_lc_6672_0_1.png
+  rotate: false
+  xy: 247, 35
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wav_lc_6672_2_1.png
+  rotate: false
+  xy: 239, 38
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wav_lc_6672_3_0.png
+  rotate: false
+  xy: 223, 35
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wav_lc_6672_4_0.png
+  rotate: false
+  xy: 231, 37
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wav_lc_6672_5_0.png
+  rotate: false
+  xy: 198, 50
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wav_lc_6672_6_0.png
+  rotate: false
+  xy: 95, 13
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wav_lc_6672_7_1.png
+  rotate: false
+  xy: 184, 35
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wlk_rc_6672_0_1.png
+  rotate: false
+  xy: 27, 4
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wlk_rc_6672_0_2.png
+  rotate: false
+  xy: 40, 6
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wlk_rc_6672_0_3.png
+  rotate: false
+  xy: 41, 19
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wlk_rc_6672_1_1.png
+  rotate: false
+  xy: 219, 53
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wlk_rc_6672_1_3.png
+  rotate: false
+  xy: 244, 55
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wlk_rc_6672_2_3.png
+  rotate: false
+  xy: 27, 19
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+jacket_F_onedirection_h_wlk_rc_6672_3_2.png
+  rotate: false
+  xy: 85, 15
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1

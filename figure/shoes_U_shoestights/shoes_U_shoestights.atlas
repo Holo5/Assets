@@ -4,21 +4,21 @@ size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shoes_U_shoestights_h_sit_sh_2600_0_0.png
+shoes_U_shoestights_h_sit_sh_2000_0_0.png
   rotate: false
   xy: 636, 9
   size: 19, 21
   orig: 19, 21
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_sit_sh_2600_2_0.png
+shoes_U_shoestights_h_sit_sh_2000_2_0.png
   rotate: false
   xy: 334, 10
   size: 24, 20
   orig: 24, 20
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_sit_sh_2600_2_0.png
+shoes_U_shoestights_h_sit_sh_2000_2_0.png
   rotate: false
   xy: 360, 10
   size: 24, 20
@@ -46,35 +46,35 @@ shoes_U_shoestights_h_sit_sh_2601_2_0.png
   orig: 4, 9
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_std_sh_2600_0_0.png
+shoes_U_shoestights_h_std_sh_2000_0_0.png
   rotate: false
   xy: 386, 13
   size: 24, 17
   orig: 24, 17
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_std_sh_2600_1_0.png
+shoes_U_shoestights_h_std_sh_2000_1_0.png
   rotate: false
   xy: 25, 2
   size: 17, 12
   orig: 17, 12
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_std_sh_2600_2_0.png
+shoes_U_shoestights_h_std_sh_2000_2_0.png
   rotate: false
   xy: 200, 2
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_std_sh_2600_3_0.png
+shoes_U_shoestights_h_std_sh_2000_3_0.png
   rotate: false
   xy: 481, 2
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_std_sh_2600_7_0.png
+shoes_U_shoestights_h_std_sh_2000_7_0.png
   rotate: false
   xy: 2, 2
   size: 21, 12
@@ -116,140 +116,140 @@ shoes_U_shoestights_h_std_sh_2601_7_0.png
   orig: 17, 4
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_0_0.png
+shoes_U_shoestights_h_wlk_sh_2000_0_0.png
   rotate: false
   xy: 412, 14
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_0_1.png
+shoes_U_shoestights_h_wlk_sh_2000_0_1.png
   rotate: false
   xy: 2, 16
   size: 43, 14
   orig: 43, 14
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_0_2.png
+shoes_U_shoestights_h_wlk_sh_2000_0_2.png
   rotate: false
   xy: 172, 2
   size: 26, 18
   orig: 26, 18
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_0_3.png
+shoes_U_shoestights_h_wlk_sh_2000_0_3.png
   rotate: false
   xy: 276, 15
   size: 27, 15
   orig: 27, 15
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_1_0.png
+shoes_U_shoestights_h_wlk_sh_2000_1_0.png
   rotate: false
   xy: 505, 16
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_1_1.png
+shoes_U_shoestights_h_wlk_sh_2000_1_1.png
   rotate: false
   xy: 91, 16
   size: 41, 14
   orig: 41, 14
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_1_2.png
+shoes_U_shoestights_h_wlk_sh_2000_1_2.png
   rotate: false
   xy: 481, 17
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_1_3.png
+shoes_U_shoestights_h_wlk_sh_2000_1_3.png
   rotate: false
   xy: 47, 16
   size: 42, 14
   orig: 42, 14
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_2_0.png
+shoes_U_shoestights_h_wlk_sh_2000_2_0.png
   rotate: false
   xy: 305, 14
   size: 27, 16
   orig: 27, 16
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_2_1.png
+shoes_U_shoestights_h_wlk_sh_2000_2_1.png
   rotate: false
   xy: 698, 17
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_2_2.png
+shoes_U_shoestights_h_wlk_sh_2000_2_2.png
   rotate: false
   xy: 657, 13
   size: 18, 17
   orig: 18, 17
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_2_3.png
+shoes_U_shoestights_h_wlk_sh_2000_2_3.png
   rotate: false
   xy: 134, 13
   size: 36, 17
   orig: 36, 17
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_3_0.png
+shoes_U_shoestights_h_wlk_sh_2000_3_0.png
   rotate: false
   xy: 528, 15
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_3_1.png
+shoes_U_shoestights_h_wlk_sh_2000_3_1.png
   rotate: false
   xy: 550, 15
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_3_2.png
+shoes_U_shoestights_h_wlk_sh_2000_3_2.png
   rotate: false
   xy: 677, 15
   size: 19, 15
   orig: 19, 15
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_3_3.png
+shoes_U_shoestights_h_wlk_sh_2000_3_3.png
   rotate: false
   xy: 572, 15
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_7_0.png
+shoes_U_shoestights_h_wlk_sh_2000_7_0.png
   rotate: false
   xy: 437, 14
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_7_1.png
+shoes_U_shoestights_h_wlk_sh_2000_7_1.png
   rotate: false
   xy: 594, 15
   size: 19, 15
   orig: 19, 15
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_7_2.png
+shoes_U_shoestights_h_wlk_sh_2000_7_2.png
   rotate: false
   xy: 459, 14
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
-shoes_U_shoestights_h_wlk_sh_2600_7_3.png
+shoes_U_shoestights_h_wlk_sh_2000_7_3.png
   rotate: false
   xy: 615, 15
   size: 19, 15

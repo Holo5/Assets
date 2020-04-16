@@ -1,0 +1,48 @@
+
+acc_eye_U_glosseye.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_eye_U_glosseye_h_lay_ea_1731_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+acc_eye_U_glosseye_h_std_ea_1731_0_0.png
+  rotate: false
+  xy: 26, 14
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+acc_eye_U_glosseye_h_std_ea_1731_1_0.png
+  rotate: false
+  xy: 89, 16
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+acc_eye_U_glosseye_h_std_ea_1731_2_0.png
+  rotate: false
+  xy: 59, 12
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+acc_eye_U_glosseye_h_std_ea_1731_3_0.png
+  rotate: false
+  xy: 89, 2
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+acc_eye_U_glosseye_h_std_ea_1731_7_0.png
+  rotate: false
+  xy: 26, 2
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1

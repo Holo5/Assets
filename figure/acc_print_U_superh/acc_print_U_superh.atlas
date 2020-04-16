@@ -4,14 +4,14 @@ size: 128,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_print_U_superh_h_lay_cp_2532_2_0.png
+acc_print_U_superh_h_lay_cp_1532_2_0.png
   rotate: false
   xy: 57, 21
   size: 17, 9
   orig: 17, 9
   offset: 0, 0
   index: -1
-acc_print_U_superh_h_lay_cp_2532_4_0.png
+acc_print_U_superh_h_lay_cp_1532_4_0.png
   rotate: false
   xy: 38, 21
   size: 17, 9
@@ -32,21 +32,21 @@ acc_print_U_superh_h_lay_cp_2533_4_0.png
   orig: 15, 8
   offset: 0, 0
   index: -1
-acc_print_U_superh_h_std_cp_2532_2_0.png
+acc_print_U_superh_h_std_cp_1532_2_0.png
   rotate: false
   xy: 20, 16
   size: 16, 14
   orig: 16, 14
   offset: 0, 0
   index: -1
-acc_print_U_superh_h_std_cp_2532_3_0.png
+acc_print_U_superh_h_std_cp_1532_3_0.png
   rotate: false
   xy: 2, 2
   size: 16, 12
   orig: 16, 12
   offset: 0, 0
   index: -1
-acc_print_U_superh_h_std_cp_2532_4_0.png
+acc_print_U_superh_h_std_cp_1532_4_0.png
   rotate: false
   xy: 2, 16
   size: 16, 14

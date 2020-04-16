@@ -1,0 +1,83 @@
+
+hat_U_elfenmuts.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_elfenmuts_h_lay_ha_6687_2_0.png
+  rotate: false
+  xy: 182, 35
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+hat_U_elfenmuts_h_spk_ha_6687_0_0.png
+  rotate: false
+  xy: 83, 34
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+hat_U_elfenmuts_h_spk_ha_6687_1_0.png
+  rotate: false
+  xy: 2, 33
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+hat_U_elfenmuts_h_spk_ha_6687_2_0.png
+  rotate: false
+  xy: 43, 4
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+hat_U_elfenmuts_h_spk_ha_6687_3_0.png
+  rotate: false
+  xy: 121, 36
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+hat_U_elfenmuts_h_spk_ha_6687_7_0.png
+  rotate: false
+  xy: 152, 2
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+hat_U_elfenmuts_h_std_ha_6687_0_0.png
+  rotate: false
+  xy: 84, 4
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+hat_U_elfenmuts_h_std_ha_6687_1_0.png
+  rotate: false
+  xy: 42, 34
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+hat_U_elfenmuts_h_std_ha_6687_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+hat_U_elfenmuts_h_std_ha_6687_3_0.png
+  rotate: false
+  xy: 151, 37
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+hat_U_elfenmuts_h_std_ha_6687_7_0.png
+  rotate: false
+  xy: 122, 3
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

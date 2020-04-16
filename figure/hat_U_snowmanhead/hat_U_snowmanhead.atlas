@@ -1,0 +1,48 @@
+
+hat_U_snowmanhead.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_snowmanhead_h_lay_ha_3520_2_0.png
+  rotate: false
+  xy: 114, 2
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+hat_U_snowmanhead_h_spk_ha_3520_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+hat_U_snowmanhead_h_spk_ha_3520_2_0.png
+  rotate: false
+  xy: 80, 2
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+hat_U_snowmanhead_h_spk_ha_3520_3_0.png
+  rotate: false
+  xy: 148, 2
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+hat_U_snowmanhead_h_spk_ha_3520_7_0.png
+  rotate: false
+  xy: 181, 2
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+hat_U_snowmanhead_h_std_ha_3520_0_0.png
+  rotate: false
+  xy: 42, 2
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1

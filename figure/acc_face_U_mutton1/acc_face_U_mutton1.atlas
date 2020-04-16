@@ -4,35 +4,35 @@ size: 64,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_face_U_mutton1_h_lsp_fa_2586_2_0.png
+acc_face_U_mutton1_h_lsp_fa_2989_2_0.png
   rotate: false
   xy: 2, 2
   size: 12, 6
   orig: 12, 6
   offset: 0, 0
   index: -1
-acc_face_U_mutton1_h_spk_fa_2586_0_0.png
+acc_face_U_mutton1_h_spk_fa_2989_0_0.png
   rotate: false
   xy: 55, 12
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
-acc_face_U_mutton1_h_spk_fa_2586_1_0.png
+acc_face_U_mutton1_h_spk_fa_2989_1_0.png
   rotate: false
   xy: 30, 11
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
   index: -1
-acc_face_U_mutton1_h_spk_fa_2586_3_0.png
+acc_face_U_mutton1_h_spk_fa_2989_3_0.png
   rotate: false
   xy: 2, 10
   size: 26, 15
   orig: 26, 15
   offset: 0, 0
   index: -1
-acc_face_U_mutton1_h_std_fa_2586_2_0.png
+acc_face_U_mutton1_h_std_fa_2989_2_0.png
   rotate: false
   xy: 43, 10
   size: 10, 15

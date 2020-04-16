@@ -1,0 +1,132 @@
+
+acc_chest_U_microbag.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_microbag_h_lay_ca_3544_2_0.png
+  rotate: false
+  xy: 128, 2
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_lay_ca_3545_2_0.png
+  rotate: false
+  xy: 143, 7
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_lay_ca_3546_2_0.png
+  rotate: false
+  xy: 94, 3
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3544_0_0.png
+  rotate: false
+  xy: 27, 27
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3544_1_0.png
+  rotate: false
+  xy: 227, 33
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3544_2_0.png
+  rotate: false
+  xy: 2, 26
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3544_3_0.png
+  rotate: false
+  xy: 78, 30
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3544_7_0.png
+  rotate: false
+  xy: 128, 32
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3545_0_0.png
+  rotate: false
+  xy: 103, 31
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3545_1_0.png
+  rotate: false
+  xy: 53, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3545_2_0.png
+  rotate: false
+  xy: 53, 30
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3545_3_0.png
+  rotate: false
+  xy: 153, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3545_7_0.png
+  rotate: false
+  xy: 178, 35
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3546_0_0.png
+  rotate: false
+  xy: 203, 34
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3546_1_0.png
+  rotate: false
+  xy: 105, 8
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3546_2_0.png
+  rotate: false
+  xy: 74, 4
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3546_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+acc_chest_U_microbag_h_std_ca_3546_7_0.png
+  rotate: false
+  xy: 27, 2
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1

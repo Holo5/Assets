@@ -4,13 +4,6 @@ size: 512,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_head_U_flowercrown_h_lay_he_2558_2_0.png
-  rotate: false
-  xy: 453, 6
-  size: 14, 24
-  orig: 14, 24
-  offset: 0, 0
-  index: -1
 acc_head_U_flowercrown_h_lay_he_2559_2_0.png
   rotate: false
   xy: 317, 2
@@ -25,39 +18,11 @@ acc_head_U_flowercrown_h_lay_he_2560_2_0.png
   orig: 24, 26
   offset: 0, 0
   index: -1
-acc_head_U_flowercrown_h_std_he_2558_0_0.png
+acc_head_U_flowercrown_h_lay_he_2998_2_0.png
   rotate: false
-  xy: 402, 10
-  size: 29, 20
-  orig: 29, 20
-  offset: 0, 0
-  index: -1
-acc_head_U_flowercrown_h_std_he_2558_1_0.png
-  rotate: false
-  xy: 484, 10
-  size: 13, 20
-  orig: 13, 20
-  offset: 0, 0
-  index: -1
-acc_head_U_flowercrown_h_std_he_2558_2_0.png
-  rotate: false
-  xy: 371, 10
-  size: 29, 20
-  orig: 29, 20
-  offset: 0, 0
-  index: -1
-acc_head_U_flowercrown_h_std_he_2558_3_0.png
-  rotate: false
-  xy: 117, 11
-  size: 35, 19
-  orig: 35, 19
-  offset: 0, 0
-  index: -1
-acc_head_U_flowercrown_h_std_he_2558_7_0.png
-  rotate: false
-  xy: 154, 11
-  size: 35, 19
-  orig: 35, 19
+  xy: 453, 6
+  size: 14, 24
+  orig: 14, 24
   offset: 0, 0
   index: -1
 acc_head_U_flowercrown_h_std_he_2559_0_0.png
@@ -119,6 +84,41 @@ acc_head_U_flowercrown_h_std_he_2560_2_0.png
 acc_head_U_flowercrown_h_std_he_2560_7_0.png
   rotate: false
   xy: 80, 11
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+acc_head_U_flowercrown_h_std_he_2998_0_0.png
+  rotate: false
+  xy: 402, 10
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+acc_head_U_flowercrown_h_std_he_2998_1_0.png
+  rotate: false
+  xy: 484, 10
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+acc_head_U_flowercrown_h_std_he_2998_2_0.png
+  rotate: false
+  xy: 371, 10
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+acc_head_U_flowercrown_h_std_he_2998_3_0.png
+  rotate: false
+  xy: 117, 11
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+acc_head_U_flowercrown_h_std_he_2998_7_0.png
+  rotate: false
+  xy: 154, 11
   size: 35, 19
   orig: 35, 19
   offset: 0, 0

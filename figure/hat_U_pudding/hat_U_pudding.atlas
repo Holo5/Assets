@@ -1,0 +1,83 @@
+
+hat_U_pudding.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_pudding_h_lay_ha_6690_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_U_pudding_h_spk_ha_6690_0_0.png
+  rotate: false
+  xy: 260, 15
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+hat_U_pudding_h_spk_ha_6690_1_0.png
+  rotate: false
+  xy: 231, 13
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+hat_U_pudding_h_spk_ha_6690_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+hat_U_pudding_h_spk_ha_6690_3_0.png
+  rotate: false
+  xy: 138, 10
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+hat_U_pudding_h_spk_ha_6690_7_0.png
+  rotate: false
+  xy: 103, 11
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+hat_U_pudding_h_std_ha_6690_0_0.png
+  rotate: false
+  xy: 291, 18
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+hat_U_pudding_h_std_ha_6690_1_0.png
+  rotate: false
+  xy: 202, 13
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+hat_U_pudding_h_std_ha_6690_2_0.png
+  rotate: false
+  xy: 35, 5
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+hat_U_pudding_h_std_ha_6690_3_0.png
+  rotate: false
+  xy: 170, 10
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+hat_U_pudding_h_std_ha_6690_7_0.png
+  rotate: false
+  xy: 68, 11
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1

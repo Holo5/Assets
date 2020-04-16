@@ -1,0 +1,48 @@
+
+acc_chest_U_newcha.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_newcha_h_lay_ca_8547_2_0.png
+  rotate: false
+  xy: 76, 17
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+acc_chest_U_newcha_h_std_ca_8547_0_0.png
+  rotate: false
+  xy: 76, 9
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+acc_chest_U_newcha_h_std_ca_8547_1_0.png
+  rotate: false
+  xy: 51, 8
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+acc_chest_U_newcha_h_std_ca_8547_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+acc_chest_U_newcha_h_std_ca_8547_3_0.png
+  rotate: false
+  xy: 27, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+acc_chest_U_newcha_h_std_ca_8547_7_0.png
+  rotate: false
+  xy: 103, 22
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1

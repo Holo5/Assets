@@ -4,7 +4,7 @@ size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-trousers_U_rippedjeans_h_lay_lg_2555_2_0.png
+trousers_U_rippedjeans_h_lay_lg_2020_2_0.png
   rotate: false
   xy: 138, 39
   size: 28, 23
@@ -25,14 +25,14 @@ trousers_U_rippedjeans_h_lay_lg_2557_2_0.png
   orig: 15, 8
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_sit_lg_2555_0_0.png
+trousers_U_rippedjeans_h_sit_lg_2020_0_0.png
   rotate: false
   xy: 69, 41
   size: 35, 21
   orig: 35, 21
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_sit_lg_2555_2_0.png
+trousers_U_rippedjeans_h_sit_lg_2020_2_0.png
   rotate: false
   xy: 106, 41
   size: 30, 21
@@ -67,35 +67,35 @@ trousers_U_rippedjeans_h_sit_lg_2557_2_0.png
   orig: 14, 9
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_std_lg_2555_0_0.png
+trousers_U_rippedjeans_h_std_lg_2020_0_0.png
   rotate: false
   xy: 260, 34
   size: 21, 28
   orig: 21, 28
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_std_lg_2555_1_0.png
+trousers_U_rippedjeans_h_std_lg_2020_1_0.png
   rotate: false
   xy: 244, 6
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_std_lg_2555_2_0.png
+trousers_U_rippedjeans_h_std_lg_2020_2_0.png
   rotate: false
   xy: 192, 33
   size: 22, 29
   orig: 22, 29
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_std_lg_2555_3_0.png
+trousers_U_rippedjeans_h_std_lg_2020_3_0.png
   rotate: false
   xy: 202, 8
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_std_lg_2555_7_0.png
+trousers_U_rippedjeans_h_std_lg_2020_7_0.png
   rotate: false
   xy: 467, 38
   size: 21, 24
@@ -151,140 +151,140 @@ trousers_U_rippedjeans_h_std_lg_2557_3_0.png
   orig: 13, 10
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_0_0.png
+trousers_U_rippedjeans_h_wlk_lg_2020_0_0.png
   rotate: false
   xy: 375, 37
   size: 21, 25
   orig: 21, 25
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_0_1.png
+trousers_U_rippedjeans_h_wlk_lg_2020_0_1.png
   rotate: false
   xy: 2, 35
   size: 33, 27
   orig: 33, 27
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_0_2.png
+trousers_U_rippedjeans_h_wlk_lg_2020_0_2.png
   rotate: false
   xy: 283, 34
   size: 21, 28
   orig: 21, 28
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_0_3.png
+trousers_U_rippedjeans_h_wlk_lg_2020_0_3.png
   rotate: false
   xy: 168, 32
   size: 22, 30
   orig: 22, 30
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_1_0.png
+trousers_U_rippedjeans_h_wlk_lg_2020_1_0.png
   rotate: false
   xy: 184, 7
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_1_1.png
+trousers_U_rippedjeans_h_wlk_lg_2020_1_1.png
   rotate: false
   xy: 35, 8
   size: 31, 25
   orig: 31, 25
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_1_2.png
+trousers_U_rippedjeans_h_wlk_lg_2020_1_2.png
   rotate: false
   xy: 490, 38
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_1_3.png
+trousers_U_rippedjeans_h_wlk_lg_2020_1_3.png
   rotate: false
   xy: 2, 6
   size: 31, 27
   orig: 31, 27
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_2_0.png
+trousers_U_rippedjeans_h_wlk_lg_2020_2_0.png
   rotate: false
   xy: 306, 35
   size: 21, 27
   orig: 21, 27
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_2_1.png
+trousers_U_rippedjeans_h_wlk_lg_2020_2_1.png
   rotate: false
   xy: 238, 33
   size: 20, 29
   orig: 20, 29
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_2_2.png
+trousers_U_rippedjeans_h_wlk_lg_2020_2_2.png
   rotate: false
   xy: 216, 33
   size: 20, 29
   orig: 20, 29
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_2_3.png
+trousers_U_rippedjeans_h_wlk_lg_2020_2_3.png
   rotate: false
   xy: 37, 35
   size: 30, 27
   orig: 30, 27
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_3_0.png
+trousers_U_rippedjeans_h_wlk_lg_2020_3_0.png
   rotate: false
   xy: 138, 14
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_3_1.png
+trousers_U_rippedjeans_h_wlk_lg_2020_3_1.png
   rotate: false
   xy: 398, 38
   size: 21, 24
   orig: 21, 24
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_3_2.png
+trousers_U_rippedjeans_h_wlk_lg_2020_3_2.png
   rotate: false
   xy: 102, 17
   size: 21, 22
   orig: 21, 22
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_3_3.png
+trousers_U_rippedjeans_h_wlk_lg_2020_3_3.png
   rotate: false
   xy: 352, 37
   size: 21, 25
   orig: 21, 25
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_7_0.png
+trousers_U_rippedjeans_h_wlk_lg_2020_7_0.png
   rotate: false
   xy: 421, 38
   size: 21, 24
   orig: 21, 24
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_7_1.png
+trousers_U_rippedjeans_h_wlk_lg_2020_7_1.png
   rotate: false
   xy: 444, 38
   size: 21, 24
   orig: 21, 24
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_7_2.png
+trousers_U_rippedjeans_h_wlk_lg_2020_7_2.png
   rotate: false
   xy: 161, 7
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
   index: -1
-trousers_U_rippedjeans_h_wlk_lg_2555_7_3.png
+trousers_U_rippedjeans_h_wlk_lg_2020_7_3.png
   rotate: false
   xy: 329, 36
   size: 21, 26

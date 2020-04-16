@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_cladyhair_h_lay_hr_2806_2_0.png
   rotate: false
-  xy: 124, 5
+  xy: 84, 5
   size: 38, 33
   orig: 38, 33
   offset: 0, 0
   index: -1
 hair_U_cladyhair_h_lay_hrb_2806_2_0.png
   rotate: false
-  xy: 84, 5
+  xy: 124, 5
   size: 38, 33
   orig: 38, 33
   offset: 0, 0
@@ -111,21 +111,21 @@ hair_U_cladyhair_h_std_hr_2806_0_0.png
   index: -1
 hair_U_cladyhair_h_std_hr_2806_1_0.png
   rotate: false
-  xy: 786, 8
+  xy: 752, 8
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 hair_U_cladyhair_h_std_hr_2806_2_0.png
   rotate: false
-  xy: 576, 7
+  xy: 540, 7
   size: 34, 31
   orig: 34, 31
   offset: 0, 0
   index: -1
 hair_U_cladyhair_h_std_hr_2806_3_0.png
   rotate: false
-  xy: 430, 6
+  xy: 392, 6
   size: 36, 32
   orig: 36, 32
   offset: 0, 0
@@ -146,21 +146,21 @@ hair_U_cladyhair_h_std_hrb_2806_0_0.png
   index: -1
 hair_U_cladyhair_h_std_hrb_2806_1_0.png
   rotate: false
-  xy: 752, 8
+  xy: 786, 8
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 hair_U_cladyhair_h_std_hrb_2806_2_0.png
   rotate: false
-  xy: 540, 7
+  xy: 576, 7
   size: 34, 31
   orig: 34, 31
   offset: 0, 0
   index: -1
 hair_U_cladyhair_h_std_hrb_2806_3_0.png
   rotate: false
-  xy: 392, 6
+  xy: 430, 6
   size: 36, 32
   orig: 36, 32
   offset: 0, 0

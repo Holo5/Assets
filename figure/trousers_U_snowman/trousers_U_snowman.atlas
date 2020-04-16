@@ -1,0 +1,202 @@
+
+trousers_U_snowman.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trousers_U_snowman_h_lay_lg_3523_2_0.png
+  rotate: false
+  xy: 2, 104
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_sit_lg_3523_0_0.png
+  rotate: false
+  xy: 83, 227
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_sit_lg_3523_2_0.png
+  rotate: false
+  xy: 2, 131
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_std_lg_3523_0_0.png
+  rotate: false
+  xy: 30, 32
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_std_lg_3523_1_0.png
+  rotate: false
+  xy: 59, 38
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_std_lg_3523_2_0.png
+  rotate: false
+  xy: 71, 153
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_std_lg_3523_3_0.png
+  rotate: false
+  xy: 101, 131
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_std_lg_3523_7_0.png
+  rotate: false
+  xy: 99, 69
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_0_0.png
+  rotate: false
+  xy: 2, 29
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_0_1.png
+  rotate: false
+  xy: 2, 220
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_0_2.png
+  rotate: false
+  xy: 42, 153
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_0_3.png
+  rotate: false
+  xy: 2, 65
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_1_0.png
+  rotate: false
+  xy: 103, 39
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_1_1.png
+  rotate: false
+  xy: 2, 189
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_1_2.png
+  rotate: false
+  xy: 81, 38
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_1_3.png
+  rotate: false
+  xy: 2, 158
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_2_0.png
+  rotate: false
+  xy: 42, 118
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_2_1.png
+  rotate: false
+  xy: 29, 68
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_2_2.png
+  rotate: false
+  xy: 72, 188
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_2_3.png
+  rotate: false
+  xy: 45, 223
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_3_0.png
+  rotate: false
+  xy: 101, 195
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_3_1.png
+  rotate: false
+  xy: 45, 189
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_3_2.png
+  rotate: false
+  xy: 101, 163
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_3_3.png
+  rotate: false
+  xy: 72, 119
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_7_0.png
+  rotate: false
+  xy: 30, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_7_1.png
+  rotate: false
+  xy: 99, 99
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_7_2.png
+  rotate: false
+  xy: 57, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+trousers_U_snowman_h_wlk_lg_3523_7_3.png
+  rotate: false
+  xy: 72, 87
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

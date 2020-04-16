@@ -46,6 +46,13 @@ shirt_F_polkadress_h_sit_ch_2893_2_0.png
   orig: 24, 36
   offset: 0, 0
   index: -1
+shirt_F_polkadress_h_std_ch_2892_1_0.png
+  rotate: false
+  xy: 66, 137
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
 shirt_F_polkadress_h_std_ch_2892_2_0.png
   rotate: false
   xy: 2, 74
@@ -100,13 +107,6 @@ shirt_F_polkadress_h_wlk_ch_2892_0_3.png
   xy: 160, 208
   size: 31, 44
   orig: 31, 44
-  offset: 0, 0
-  index: -1
-shirt_F_polkadress_h_wlk_ch_2892_1_0.png
-  rotate: false
-  xy: 66, 137
-  size: 23, 44
-  orig: 23, 44
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_1_1.png

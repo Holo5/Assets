@@ -4,7 +4,7 @@ size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-trousers_U_rolledjeans_h_lay_lg_2538_2_0.png
+trousers_U_rolledjeans_h_lay_lg_2010_2_0.png
   rotate: false
   xy: 124, 10
   size: 24, 20
@@ -18,14 +18,14 @@ trousers_U_rolledjeans_h_lay_lg_2539_2_0.png
   orig: 17, 16
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_sit_lg_2538_0_0.png
+trousers_U_rolledjeans_h_sit_lg_2010_0_0.png
   rotate: false
   xy: 32, 13
   size: 32, 17
   orig: 32, 17
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_sit_lg_2538_2_0.png
+trousers_U_rolledjeans_h_sit_lg_2010_2_0.png
   rotate: false
   xy: 95, 11
   size: 27, 19
@@ -46,35 +46,35 @@ trousers_U_rolledjeans_h_sit_lg_2539_2_0.png
   orig: 17, 15
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_std_lg_2538_0_0.png
+trousers_U_rolledjeans_h_std_lg_2010_0_0.png
   rotate: false
   xy: 249, 10
   size: 21, 20
   orig: 21, 20
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_std_lg_2538_1_0.png
+trousers_U_rolledjeans_h_std_lg_2010_1_0.png
   rotate: false
   xy: 650, 13
   size: 16, 17
   orig: 16, 17
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_std_lg_2538_2_0.png
+trousers_U_rolledjeans_h_std_lg_2010_2_0.png
   rotate: false
   xy: 225, 9
   size: 22, 21
   orig: 22, 21
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_std_lg_2538_3_0.png
+trousers_U_rolledjeans_h_std_lg_2010_3_0.png
   rotate: false
   xy: 546, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_std_lg_2538_7_0.png
+trousers_U_rolledjeans_h_std_lg_2010_7_0.png
   rotate: false
   xy: 500, 13
   size: 21, 17
@@ -109,140 +109,140 @@ trousers_U_rolledjeans_h_std_lg_2539_7_0.png
   orig: 19, 6
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_0_0.png
+trousers_U_rolledjeans_h_wlk_lg_2010_0_0.png
   rotate: false
   xy: 295, 11
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_0_1.png
+trousers_U_rolledjeans_h_wlk_lg_2010_0_1.png
   rotate: false
   xy: 2, 9
   size: 28, 21
   orig: 28, 21
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_0_2.png
+trousers_U_rolledjeans_h_wlk_lg_2010_0_2.png
   rotate: false
   xy: 318, 2
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_0_3.png
+trousers_U_rolledjeans_h_wlk_lg_2010_0_3.png
   rotate: false
   xy: 176, 6
   size: 22, 24
   orig: 22, 24
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_1_0.png
+trousers_U_rolledjeans_h_wlk_lg_2010_1_0.png
   rotate: false
   xy: 632, 12
   size: 16, 18
   orig: 16, 18
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_1_1.png
+trousers_U_rolledjeans_h_wlk_lg_2010_1_1.png
   rotate: false
   xy: 200, 10
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_1_2.png
+trousers_U_rolledjeans_h_wlk_lg_2010_1_2.png
   rotate: false
   xy: 613, 10
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_1_3.png
+trousers_U_rolledjeans_h_wlk_lg_2010_1_3.png
   rotate: false
   xy: 150, 9
   size: 24, 21
   orig: 24, 21
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_2_0.png
+trousers_U_rolledjeans_h_wlk_lg_2010_2_0.png
   rotate: false
   xy: 592, 10
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_2_1.png
+trousers_U_rolledjeans_h_wlk_lg_2010_2_1.png
   rotate: false
   xy: 433, 9
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_2_2.png
+trousers_U_rolledjeans_h_wlk_lg_2010_2_2.png
   rotate: false
   xy: 455, 10
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_2_3.png
+trousers_U_rolledjeans_h_wlk_lg_2010_2_3.png
   rotate: false
   xy: 66, 8
   size: 27, 22
   orig: 27, 22
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_3_0.png
+trousers_U_rolledjeans_h_wlk_lg_2010_3_0.png
   rotate: false
   xy: 523, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_3_1.png
+trousers_U_rolledjeans_h_wlk_lg_2010_3_1.png
   rotate: false
   xy: 410, 2
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_3_2.png
+trousers_U_rolledjeans_h_wlk_lg_2010_3_2.png
   rotate: false
   xy: 569, 14
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_3_3.png
+trousers_U_rolledjeans_h_wlk_lg_2010_3_3.png
   rotate: false
   xy: 477, 11
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_7_0.png
+trousers_U_rolledjeans_h_wlk_lg_2010_7_0.png
   rotate: false
   xy: 341, 2
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_7_1.png
+trousers_U_rolledjeans_h_wlk_lg_2010_7_1.png
   rotate: false
   xy: 364, 2
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_7_2.png
+trousers_U_rolledjeans_h_wlk_lg_2010_7_2.png
   rotate: false
   xy: 387, 2
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
-trousers_U_rolledjeans_h_wlk_lg_2538_7_3.png
+trousers_U_rolledjeans_h_wlk_lg_2010_7_3.png
   rotate: false
   xy: 272, 10
   size: 21, 20

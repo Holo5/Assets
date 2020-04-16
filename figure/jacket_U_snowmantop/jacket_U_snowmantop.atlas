@@ -1,0 +1,783 @@
+
+jacket_U_snowmantop.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_U_snowmantop_h_crr_lc_3521_0_0.png
+  rotate: false
+  xy: 205, 69
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_lc_3521_2_0.png
+  rotate: false
+  xy: 70, 190
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_lc_3521_3_0.png
+  rotate: false
+  xy: 160, 13
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_lc_3521_4_0.png
+  rotate: false
+  xy: 109, 119
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_lc_3521_6_0.png
+  rotate: false
+  xy: 148, 44
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_lc_3521_7_0.png
+  rotate: false
+  xy: 198, 157
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_lc_3522_0_0.png
+  rotate: false
+  xy: 144, 151
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_lc_3522_3_0.png
+  rotate: false
+  xy: 142, 44
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_lc_3522_7_0.png
+  rotate: false
+  xy: 110, 81
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_rc_3521_0_0.png
+  rotate: false
+  xy: 174, 44
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_rc_3521_1_0.png
+  rotate: false
+  xy: 149, 69
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_rc_3521_2_0.png
+  rotate: false
+  xy: 89, 151
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_rc_3521_3_0.png
+  rotate: false
+  xy: 131, 53
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_rc_3521_4_0.png
+  rotate: false
+  xy: 232, 203
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_rc_3521_5_0.png
+  rotate: false
+  xy: 177, 69
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_rc_3521_6_0.png
+  rotate: false
+  xy: 207, 93
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_rc_3521_7_0.png
+  rotate: false
+  xy: 207, 45
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_rc_3522_3_0.png
+  rotate: false
+  xy: 247, 158
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_crr_rc_3522_7_0.png
+  rotate: false
+  xy: 126, 10
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3521_0_0.png
+  rotate: false
+  xy: 48, 76
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3521_1_0.png
+  rotate: false
+  xy: 149, 92
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3521_2_0.png
+  rotate: false
+  xy: 200, 207
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3521_3_0.png
+  rotate: false
+  xy: 231, 183
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3521_4_0.png
+  rotate: false
+  xy: 142, 19
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3521_5_0.png
+  rotate: false
+  xy: 178, 92
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3521_6_0.png
+  rotate: false
+  xy: 114, 151
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3521_7_0.png
+  rotate: false
+  xy: 33, 4
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3522_2_0.png
+  rotate: false
+  xy: 91, 7
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3522_3_0.png
+  rotate: false
+  xy: 34, 100
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3522_5_0.png
+  rotate: false
+  xy: 34, 220
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_drk_rc_3522_7_0.png
+  rotate: false
+  xy: 247, 173
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_lay_cc_3521_2_0.png
+  rotate: false
+  xy: 2, 223
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_lay_cc_3522_2_0.png
+  rotate: false
+  xy: 233, 236
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_lay_lc_3521_2_0.png
+  rotate: false
+  xy: 200, 231
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_lay_rc_3521_2_0.png
+  rotate: false
+  xy: 200, 182
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_cc_3521_0_0.png
+  rotate: false
+  xy: 2, 18
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_cc_3521_1_0.png
+  rotate: false
+  xy: 2, 182
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_cc_3521_2_0.png
+  rotate: false
+  xy: 2, 59
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_cc_3521_3_0.png
+  rotate: false
+  xy: 2, 141
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_cc_3521_7_0.png
+  rotate: false
+  xy: 2, 100
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_cc_3522_0_0.png
+  rotate: false
+  xy: 2, 7
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_cc_3522_1_0.png
+  rotate: false
+  xy: 64, 14
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_cc_3522_2_0.png
+  rotate: false
+  xy: 171, 154
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_cc_3522_3_0.png
+  rotate: false
+  xy: 144, 154
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_cc_3522_7_0.png
+  rotate: false
+  xy: 64, 3
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_lc_3521_0_0.png
+  rotate: false
+  xy: 168, 180
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_lc_3521_2_0.png
+  rotate: false
+  xy: 96, 78
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_lc_3521_7_0.png
+  rotate: false
+  xy: 231, 112
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_lc_3522_7_0.png
+  rotate: false
+  xy: 219, 62
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_rc_3521_0_0.png
+  rotate: false
+  xy: 153, 180
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_rc_3521_1_0.png
+  rotate: false
+  xy: 102, 6
+  size: 10, 32
+  orig: 10, 32
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_rc_3521_2_0.png
+  rotate: false
+  xy: 33, 23
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_rc_3521_3_0.png
+  rotate: false
+  xy: 235, 148
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_rc_3521_7_0.png
+  rotate: false
+  xy: 219, 112
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_rc_3522_2_0.png
+  rotate: false
+  xy: 216, 69
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_std_rc_3522_3_0.png
+  rotate: false
+  xy: 200, 44
+  size: 5, 23
+  orig: 5, 23
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_0_0.png
+  rotate: false
+  xy: 136, 180
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_0_1.png
+  rotate: false
+  xy: 89, 114
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_1_0.png
+  rotate: false
+  xy: 134, 116
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_1_1.png
+  rotate: false
+  xy: 55, 146
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_2_0.png
+  rotate: false
+  xy: 116, 212
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_2_1.png
+  rotate: false
+  xy: 94, 213
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_3_0.png
+  rotate: false
+  xy: 71, 151
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_3_1.png
+  rotate: false
+  xy: 179, 218
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_4_0.png
+  rotate: false
+  xy: 156, 219
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_4_1.png
+  rotate: false
+  xy: 34, 183
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_5_0.png
+  rotate: false
+  xy: 34, 147
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_5_1.png
+  rotate: false
+  xy: 116, 176
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_6_0.png
+  rotate: false
+  xy: 70, 218
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_6_1.png
+  rotate: false
+  xy: 42, 220
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_7_0.png
+  rotate: false
+  xy: 71, 112
+  size: 16, 37
+  orig: 16, 37
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3521_7_1.png
+  rotate: false
+  xy: 134, 218
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3522_0_1.png
+  rotate: false
+  xy: 198, 154
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wav_lc_3522_3_1.png
+  rotate: false
+  xy: 131, 116
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_0_0.png
+  rotate: false
+  xy: 48, 39
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_0_1.png
+  rotate: false
+  xy: 48, 8
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_0_3.png
+  rotate: false
+  xy: 183, 181
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_1_0.png
+  rotate: false
+  xy: 210, 148
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_1_1.png
+  rotate: false
+  xy: 110, 89
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_1_3.png
+  rotate: false
+  xy: 177, 10
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_2_0.png
+  rotate: false
+  xy: 82, 76
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_2_1.png
+  rotate: false
+  xy: 149, 117
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_2_3.png
+  rotate: false
+  xy: 90, 14
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_3_0.png
+  rotate: false
+  xy: 207, 113
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_3_1.png
+  rotate: false
+  xy: 106, 42
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_3_3.png
+  rotate: false
+  xy: 230, 80
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_7_1.png
+  rotate: false
+  xy: 243, 115
+  size: 10, 31
+  orig: 10, 31
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_7_2.png
+  rotate: false
+  xy: 223, 147
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3521_7_3.png
+  rotate: false
+  xy: 195, 117
+  size: 10, 35
+  orig: 10, 35
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_lc_3522_7_3.png
+  rotate: false
+  xy: 118, 46
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_0_0.png
+  rotate: false
+  xy: 79, 38
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_0_1.png
+  rotate: false
+  xy: 178, 117
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_0_2.png
+  rotate: false
+  xy: 64, 38
+  size: 13, 36
+  orig: 13, 36
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_0_3.png
+  rotate: false
+  xy: 131, 84
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_1_0.png
+  rotate: false
+  xy: 193, 10
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_1_1.png
+  rotate: false
+  xy: 126, 19
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_1_2.png
+  rotate: false
+  xy: 118, 55
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_1_3.png
+  rotate: false
+  xy: 94, 183
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_2_0.png
+  rotate: false
+  xy: 33, 61
+  size: 13, 37
+  orig: 13, 37
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_2_1.png
+  rotate: false
+  xy: 53, 108
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_2_2.png
+  rotate: false
+  xy: 55, 181
+  size: 13, 37
+  orig: 13, 37
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_2_3.png
+  rotate: false
+  xy: 34, 109
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_3_0.png
+  rotate: false
+  xy: 218, 10
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_3_1.png
+  rotate: false
+  xy: 218, 80
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_3_3.png
+  rotate: false
+  xy: 94, 40
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_7_0.png
+  rotate: false
+  xy: 206, 9
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_7_1.png
+  rotate: false
+  xy: 166, 117
+  size: 10, 35
+  orig: 10, 35
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_7_2.png
+  rotate: false
+  xy: 114, 7
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3521_7_3.png
+  rotate: false
+  xy: 70, 76
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3522_0_0.png
+  rotate: false
+  xy: 247, 165
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+jacket_U_snowmantop_h_wlk_rc_3522_1_0.png
+  rotate: false
+  xy: 48, 2
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1

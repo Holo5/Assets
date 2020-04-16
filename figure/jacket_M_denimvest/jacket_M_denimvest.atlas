@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 jacket_M_denimvest_h_crr_rc_2873_1_0.png
   rotate: false
-  xy: 188, 40
+  xy: 241, 44
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_crr_rc_2873_2_0.png
   rotate: false
-  xy: 78, 17
+  xy: 81, 17
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_crr_rc_2873_5_0.png
   rotate: false
-  xy: 167, 35
+  xy: 131, 24
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
@@ -34,21 +34,21 @@ jacket_M_denimvest_h_crr_rc_2873_6_0.png
   index: -1
 jacket_M_denimvest_h_drk_lc_2873_0_0.png
   rotate: false
-  xy: 131, 2
+  xy: 253, 49
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_drk_rc_2873_0_0.png
   rotate: false
-  xy: 78, 2
+  xy: 81, 2
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_drk_rc_2873_1_0.png
   rotate: false
-  xy: 110, 3
+  xy: 92, 3
   size: 9, 12
   orig: 9, 12
   offset: 0, 0
@@ -62,14 +62,14 @@ jacket_M_denimvest_h_drk_rc_2873_2_0.png
   index: -1
 jacket_M_denimvest_h_drk_rc_2873_3_0.png
   rotate: false
-  xy: 158, 11
+  xy: 215, 26
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_drk_rc_2873_5_0.png
   rotate: false
-  xy: 149, 19
+  xy: 114, 18
   size: 7, 11
   orig: 7, 11
   offset: 0, 0
@@ -97,7 +97,7 @@ jacket_M_denimvest_h_lay_cc_2874_2_0.png
   index: -1
 jacket_M_denimvest_h_lay_rc_2873_2_0.png
   rotate: false
-  xy: 131, 5
+  xy: 104, 17
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
@@ -146,7 +146,7 @@ jacket_M_denimvest_h_std_cc_2874_0_0.png
   index: -1
 jacket_M_denimvest_h_std_cc_2874_1_0.png
   rotate: false
-  xy: 64, 11
+  xy: 197, 30
   size: 4, 16
   orig: 4, 16
   offset: 0, 0
@@ -174,42 +174,42 @@ jacket_M_denimvest_h_std_cc_2874_7_0.png
   index: -1
 jacket_M_denimvest_h_std_lc_2873_3_0.png
   rotate: false
-  xy: 121, 3
+  xy: 179, 29
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_std_rc_2873_0_0.png
   rotate: false
-  xy: 52, 2
+  xy: 65, 2
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_std_rc_2873_2_0.png
   rotate: false
-  xy: 101, 18
-  size: 11, 11
-  orig: 11, 11
+  xy: 52, 2
+  size: 11, 10
+  orig: 11, 10
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_wav_lc_2873_0_1.png
   rotate: false
-  xy: 151, 2
+  xy: 143, 25
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_wav_lc_2873_2_1.png
   rotate: false
-  xy: 89, 2
+  xy: 64, 14
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_wav_lc_2873_3_0.png
   rotate: false
-  xy: 70, 12
+  xy: 189, 30
   size: 6, 16
   orig: 6, 16
   offset: 0, 0
@@ -230,35 +230,35 @@ jacket_M_denimvest_h_wav_lc_2873_5_1.png
   index: -1
 jacket_M_denimvest_h_wav_lc_2873_6_0.png
   rotate: false
-  xy: 101, 2
+  xy: 72, 14
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_wav_lc_2873_7_1.png
   rotate: false
-  xy: 114, 17
+  xy: 203, 35
   size: 9, 12
   orig: 9, 12
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_wav_rc_2873_7_1.png
   rotate: false
-  xy: 151, 9
+  xy: 152, 23
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_wlk_lc_2873_7_0.png
   rotate: false
-  xy: 158, 21
+  xy: 123, 19
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_wlk_rc_2873_0_0.png
   rotate: false
-  xy: 125, 19
+  xy: 167, 30
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
@@ -272,7 +272,7 @@ jacket_M_denimvest_h_wlk_rc_2873_0_1.png
   index: -1
 jacket_M_denimvest_h_wlk_rc_2873_0_3.png
   rotate: false
-  xy: 137, 19
+  xy: 214, 36
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
@@ -286,7 +286,7 @@ jacket_M_denimvest_h_wlk_rc_2873_1_1.png
   index: -1
 jacket_M_denimvest_h_wlk_rc_2873_1_2.png
   rotate: false
-  xy: 64, 2
+  xy: 203, 26
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
@@ -307,14 +307,14 @@ jacket_M_denimvest_h_wlk_rc_2873_2_3.png
   index: -1
 jacket_M_denimvest_h_wlk_rc_2873_3_2.png
   rotate: false
-  xy: 141, 6
+  xy: 103, 4
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 jacket_M_denimvest_h_wlk_rc_2873_3_3.png
   rotate: false
-  xy: 91, 17
+  xy: 94, 17
   size: 8, 11
   orig: 8, 11
   offset: 0, 0

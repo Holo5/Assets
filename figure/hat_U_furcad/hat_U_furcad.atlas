@@ -1,0 +1,90 @@
+
+hat_U_furcad.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_furcad_h_lay_ha_6689_2_0.png
+  rotate: false
+  xy: 143, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+hat_U_furcad_h_lsp_ha_6689_2_0.png
+  rotate: false
+  xy: 286, 14
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+hat_U_furcad_h_spk_ha_6689_0_0.png
+  rotate: false
+  xy: 31, 4
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+hat_U_furcad_h_spk_ha_6689_1_0.png
+  rotate: false
+  xy: 186, 6
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+hat_U_furcad_h_spk_ha_6689_2_0.png
+  rotate: false
+  xy: 164, 4
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+hat_U_furcad_h_spk_ha_6689_3_0.png
+  rotate: false
+  xy: 258, 15
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+hat_U_furcad_h_spk_ha_6689_7_0.png
+  rotate: false
+  xy: 60, 6
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+hat_U_furcad_h_std_ha_6689_0_0.png
+  rotate: false
+  xy: 2, 3
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+hat_U_furcad_h_std_ha_6689_1_0.png
+  rotate: false
+  xy: 208, 6
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+hat_U_furcad_h_std_ha_6689_2_0.png
+  rotate: false
+  xy: 118, 3
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+hat_U_furcad_h_std_ha_6689_3_0.png
+  rotate: false
+  xy: 230, 13
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+hat_U_furcad_h_std_ha_6689_7_0.png
+  rotate: false
+  xy: 89, 6
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1

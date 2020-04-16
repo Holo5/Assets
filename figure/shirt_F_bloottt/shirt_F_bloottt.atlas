@@ -1,0 +1,48 @@
+
+shirt_F_bloottt.png
+size: 128,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_bloottt_h_lay_ch_0_2_0.png
+  rotate: false
+  xy: 35, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_F_bloottt_h_std_ch_0_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_F_bloottt_h_std_ch_0_1_0.png
+  rotate: false
+  xy: 24, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_F_bloottt_h_std_ch_0_2_0.png
+  rotate: false
+  xy: 57, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_F_bloottt_h_std_ch_0_3_0.png
+  rotate: false
+  xy: 13, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+shirt_F_bloottt_h_std_ch_0_7_0.png
+  rotate: false
+  xy: 46, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1

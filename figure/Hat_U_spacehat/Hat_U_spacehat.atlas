@@ -1,0 +1,111 @@
+
+Hat_U_spacehat.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Hat_U_spacehat_h_lay_ha_2144_2_0.png
+  rotate: false
+  xy: 2, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_lay_ha_2145_2_0.png
+  rotate: false
+  xy: 8, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_lay_ha_9027_2_0.png
+  rotate: false
+  xy: 232, 11
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_spk_ha_2145_1_0.png
+  rotate: false
+  xy: 5, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_spk_ha_2145_3_0.png
+  rotate: false
+  xy: 278, 51
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_spk_ha_9027_0_0.png
+  rotate: false
+  xy: 48, 11
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_spk_ha_9027_1_0.png
+  rotate: false
+  xy: 94, 11
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_spk_ha_9027_2_0.png
+  rotate: false
+  xy: 2, 11
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_std_ha_2144_0_0.png
+  rotate: false
+  xy: 5, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_std_ha_2144_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_std_ha_2144_2_0.png
+  rotate: false
+  xy: 281, 54
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_std_ha_2144_3_0.png
+  rotate: false
+  xy: 278, 54
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_std_ha_2145_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_std_ha_9027_3_0.png
+  rotate: false
+  xy: 186, 11
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+Hat_U_spacehat_h_std_ha_9027_7_0.png
+  rotate: false
+  xy: 140, 11
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

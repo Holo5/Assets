@@ -1,0 +1,818 @@
+
+jacket_U_nordicscarf.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_U_nordicscarf_h_drk_rc_3527_0_0.png
+  rotate: false
+  xy: 541, 12
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_drk_rc_3527_1_0.png
+  rotate: false
+  xy: 1387, 52
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_drk_rc_3527_2_0.png
+  rotate: false
+  xy: 191, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_drk_rc_3527_3_0.png
+  rotate: false
+  xy: 131, 2
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_drk_rc_3528_0_0.png
+  rotate: false
+  xy: 896, 18
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_drk_rc_3528_1_0.png
+  rotate: false
+  xy: 245, 2
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_drk_rc_3528_2_0.png
+  rotate: false
+  xy: 1399, 40
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_drk_rc_3528_3_0.png
+  rotate: false
+  xy: 277, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_lay_cc_3527_2_0.png
+  rotate: false
+  xy: 663, 2
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_lay_cc_3528_2_0.png
+  rotate: false
+  xy: 711, 2
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_lay_lc_3527_2_0.png
+  rotate: false
+  xy: 259, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_lay_lc_3528_2_0.png
+  rotate: false
+  xy: 376, 2
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_lay_rc_3527_2_0.png
+  rotate: false
+  xy: 1373, 52
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_lay_rc_3528_2_0.png
+  rotate: false
+  xy: 1441, 54
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_cc_3527_0_0.png
+  rotate: false
+  xy: 923, 2
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_cc_3527_1_0.png
+  rotate: false
+  xy: 265, 11
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_cc_3527_2_0.png
+  rotate: false
+  xy: 2, 9
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_cc_3527_7_0.png
+  rotate: false
+  xy: 232, 13
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_cc_3528_0_0.png
+  rotate: false
+  xy: 601, 2
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_cc_3528_1_0.png
+  rotate: false
+  xy: 812, 17
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_cc_3528_2_0.png
+  rotate: false
+  xy: 509, 15
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_cc_3528_3_0.png
+  rotate: false
+  xy: 1084, 31
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_cc_3528_7_0.png
+  rotate: false
+  xy: 570, 18
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_lc_3527_0_0.png
+  rotate: false
+  xy: 626, 8
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_lc_3527_1_0.png
+  rotate: false
+  xy: 1286, 21
+  size: 8, 41
+  orig: 8, 41
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_lc_3527_2_0.png
+  rotate: false
+  xy: 197, 15
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_lc_3527_3_0.png
+  rotate: false
+  xy: 394, 11
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_lc_3527_7_0.png
+  rotate: false
+  xy: 385, 11
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_lc_3528_0_0.png
+  rotate: false
+  xy: 74, 12
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_lc_3528_1_0.png
+  rotate: false
+  xy: 1352, 27
+  size: 6, 35
+  orig: 6, 35
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_lc_3528_2_0.png
+  rotate: false
+  xy: 477, 20
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_lc_3528_3_0.png
+  rotate: false
+  xy: 978, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_rc_3527_0_0.png
+  rotate: false
+  xy: 784, 18
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_rc_3527_1_0.png
+  rotate: false
+  xy: 1296, 21
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_rc_3527_2_0.png
+  rotate: false
+  xy: 119, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_rc_3527_3_0.png
+  rotate: false
+  xy: 367, 9
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_rc_3527_7_0.png
+  rotate: false
+  xy: 1407, 40
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_rc_3528_0_0.png
+  rotate: false
+  xy: 1031, 23
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_rc_3528_1_0.png
+  rotate: false
+  xy: 1373, 41
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_rc_3528_2_0.png
+  rotate: false
+  xy: 160, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_rc_3528_3_0.png
+  rotate: false
+  xy: 269, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_std_rc_3528_7_0.png
+  rotate: false
+  xy: 285, 2
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wav_lc_3527_3_1.png
+  rotate: false
+  xy: 182, 2
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wav_lc_3527_4_1.png
+  rotate: false
+  xy: 50, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wav_lc_3527_5_1.png
+  rotate: false
+  xy: 1415, 52
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wav_lc_3527_6_0.png
+  rotate: false
+  xy: 868, 16
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wav_lc_3527_6_1.png
+  rotate: false
+  xy: 840, 16
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wav_lc_3528_4_1.png
+  rotate: false
+  xy: 171, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wav_lc_3528_5_1.png
+  rotate: false
+  xy: 231, 2
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wav_lc_3528_6_1.png
+  rotate: false
+  xy: 1006, 22
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_cc_3527_0_0.png
+  rotate: false
+  xy: 329, 2
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_cc_3527_1_0.png
+  rotate: false
+  xy: 978, 24
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_cc_3527_2_0.png
+  rotate: false
+  xy: 601, 20
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_cc_3527_3_0.png
+  rotate: false
+  xy: 663, 25
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_cc_3527_7_0.png
+  rotate: false
+  xy: 296, 16
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_cc_3528_0_0.png
+  rotate: false
+  xy: 79, 2
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_cc_3528_1_0.png
+  rotate: false
+  xy: 1191, 30
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_cc_3528_2_0.png
+  rotate: false
+  xy: 696, 26
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_cc_3528_7_0.png
+  rotate: false
+  xy: 632, 21
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_1_0.png
+  rotate: false
+  xy: 1237, 23
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_1_1.png
+  rotate: false
+  xy: 1217, 26
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_1_2.png
+  rotate: false
+  xy: 1256, 24
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_1_3.png
+  rotate: false
+  xy: 1274, 21
+  size: 10, 41
+  orig: 10, 41
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_2_0.png
+  rotate: false
+  xy: 37, 17
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_2_1.png
+  rotate: false
+  xy: 160, 16
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_2_2.png
+  rotate: false
+  xy: 122, 17
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_2_3.png
+  rotate: false
+  xy: 79, 20
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_3_2.png
+  rotate: false
+  xy: 376, 10
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_3_3.png
+  rotate: false
+  xy: 765, 2
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_7_0.png
+  rotate: false
+  xy: 213, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_7_1.png
+  rotate: false
+  xy: 204, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3527_7_3.png
+  rotate: false
+  xy: 222, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_1_0.png
+  rotate: false
+  xy: 1314, 30
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_1_1.png
+  rotate: false
+  xy: 1296, 33
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_1_2.png
+  rotate: false
+  xy: 1329, 30
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_1_3.png
+  rotate: false
+  xy: 1342, 27
+  size: 8, 35
+  orig: 8, 35
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_2_0.png
+  rotate: false
+  xy: 329, 22
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_2_1.png
+  rotate: false
+  xy: 443, 21
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_2_2.png
+  rotate: false
+  xy: 406, 22
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_2_3.png
+  rotate: false
+  xy: 367, 24
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_3_0.png
+  rotate: false
+  xy: 987, 12
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_3_3.png
+  rotate: false
+  xy: 995, 12
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_7_0.png
+  rotate: false
+  xy: 1415, 40
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_7_1.png
+  rotate: false
+  xy: 1429, 41
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_lc_3528_7_3.png
+  rotate: false
+  xy: 1422, 40
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_0_0.png
+  rotate: false
+  xy: 725, 23
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_0_1.png
+  rotate: false
+  xy: 755, 21
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_0_2.png
+  rotate: false
+  xy: 952, 21
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_0_3.png
+  rotate: false
+  xy: 923, 22
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_1_0.png
+  rotate: false
+  xy: 1360, 35
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_1_1.png
+  rotate: false
+  xy: 296, 2
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_1_3.png
+  rotate: false
+  xy: 1401, 52
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_2_0.png
+  rotate: false
+  xy: 570, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_2_1.png
+  rotate: false
+  xy: 106, 3
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_2_2.png
+  rotate: false
+  xy: 1360, 47
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_2_3.png
+  rotate: false
+  xy: 584, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_3_1.png
+  rotate: false
+  xy: 358, 7
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_3_2.png
+  rotate: false
+  xy: 142, 2
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_3_3.png
+  rotate: false
+  xy: 151, 2
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_7_0.png
+  rotate: false
+  xy: 969, 9
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_7_1.png
+  rotate: false
+  xy: 978, 12
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_7_2.png
+  rotate: false
+  xy: 951, 9
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3527_7_3.png
+  rotate: false
+  xy: 960, 9
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_0_0.png
+  rotate: false
+  xy: 1056, 28
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_0_1.png
+  rotate: false
+  xy: 1142, 26
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_0_2.png
+  rotate: false
+  xy: 1167, 26
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_0_3.png
+  rotate: false
+  xy: 1115, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_1_0.png
+  rotate: false
+  xy: 1429, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_1_1.png
+  rotate: false
+  xy: 313, 3
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_1_3.png
+  rotate: false
+  xy: 1387, 41
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_2_0.png
+  rotate: false
+  xy: 37, 2
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_2_1.png
+  rotate: false
+  xy: 753, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_2_3.png
+  rotate: false
+  xy: 62, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_3_3.png
+  rotate: false
+  xy: 986, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_7_1.png
+  rotate: false
+  xy: 385, 2
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+jacket_U_nordicscarf_h_wlk_rc_3528_7_3.png
+  rotate: false
+  xy: 994, 2
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
