@@ -142,7 +142,7 @@
   <effect id="136" lib="BackwalkingShoes" type="fx" revision="59220"/>
   <effect id="137" lib="GoldSpotlight" type="fx" revision="59200"/>
   <effect id="138" lib="GoldenGlasses" type="fx" revision="59200"/>
-  <effect id="139" lib="GoldMicrophone" type="fx" revision="63790"/>
+  <effect id="139" lib="GoldMicrophone" type="fx" revision="59220"/>
   <effect id="140" lib="HabnamDance" type="fx" revision="59200"/>
   <effect id="141" lib="Flowermask" type="fx" revision="59200"/>
   <effect id="142" lib="Goatmask" type="fx" revision="59200"/>
@@ -200,6 +200,65 @@
   <effect id="194" lib="Treadmill" type="fx" revision="62149"/>
   <effect id="195" lib="CrossTrainer" type="fx" revision="62352"/>
   <effect id="196" lib="LightTorch" type="fx" revision="62457"/>
-  <effect id="197" lib="Flycarpet" type="fx" revision="63334"/>
-  <effect id="198" lib="ZombieDuck" type="fx" revision="63413"/>
+  <effect id="197" lib="Trotinettte" type="fx" revision="59200"/>
+  <effect id="198" lib="Peog" type="fx" revision="61749"/>
+  <effect id="199" lib="clb" type="fx" revision="60559"/>
+  <effect id="200" lib="cpl" type="fx" revision="60559"/>
+  <effect id="201" lib="frz" type="fx" revision="60559"/>
+  <effect id="203" lib="gay" type="fx" revision="60559"/>
+  <effect id="205" lib="FSpinn" type="fx" revision="59200"/>
+  <effect id="206" lib="Turtleride" type="fx" revision="60559"/>
+  <effect id="508" lib="Bat" type="fx" revision="1337"/>
+  <effect id="523" lib="Nimbus2000" type="fx" revision="1337"/>
+  <effect id="524" lib="Nimbus2001" type="fx" revision="1337"/>
+  <effect id="528" lib="Sable2" type="fx" revision="1337"/>
+  <effect id="529" lib="Sable3" type="fx" revision="1337"/>
+  <effect id="530" lib="Sable4" type="fx" revision="1337"/>
+  <effect id="531" lib="Sable5" type="fx" revision="1337"/>
+  <effect id="532" lib="Sable6" type="fx" revision="1337"/>
+  <effect id="533" lib="Sable7" type="fx" revision="1337"/>
+  <effect id="539" lib="Incarceramus" type="fx" revision="1337"/>
+  <effect id="554" lib="Guabna" type="fx" revision="1337"/>
+  <effect id="555" lib="GrifoNdor" type="fx" revision="60704"/>
+  <effect id="556" lib="SerpeNtar" type="fx" revision="60704"/>
+  <effect id="557" lib="SertdAigl" type="fx" revision="60704"/>
+  <effect id="558" lib="PouffSouf" type="fx" revision="60704"/>
+  <effect id="559" lib="hcitydog" type="fx" revision="59200"/>
+  <effect id="561" lib="VoiturBla" type="fx" revision="61736"/>
+  <effect id="562" lib="Absentabs" type="fx" revision="59200"/>
+  <effect id="563" lib="OnDutyBoi" type="fx" revision="59200"/>
+  <effect id="564" lib="LgtbHVILLE" type="fx" revision="59200"/>
+  <effect id="565" lib="NGHHHotelBrb1337" type="fx" revision="1337"/>
+  <effect id="566" lib="NGHHHotelAfk1337" type="fx" revision="1337"/>
+  <effect id="567" lib="MuscleBlan" type="fx" revision="59200"/>
+  <effect id="568" lib="MuscleNoir" type="fx" revision="59200"/>
+  <effect id="570" lib="OvejaVille" type="fx" revision="59200"/>
+  <effect id="578" lib="P90CP" type="fx" revision="59200"/>
+  <effect id="579" lib="G3CP" type="fx" revision="59200"/>
+  <effect id="580" lib="UziCP" type="fx" revision="59200"/>
+  <effect id="581" lib="EscopetaCP" type="fx" revision="59200"/>
+  <effect id="582" lib="RifleCP" type="fx" revision="59200"/>
+  <effect id="583" lib="Ak47CP" type="fx" revision="59200"/>
+  <effect id="584" lib="G36CP" type="fx" revision="59200"/>
+  <effect id="585" lib="GlockCP" type="fx" revision="59200"/>
+  <effect id="586" lib="M16PC" type="fx" revision="59200"/>
+  <effect id="587" lib="AWPCP" type="fx" revision="59200"/>
+  <effect id="588" lib="LanzaCohetesCP" type="fx" revision="59200"/>
+  <effect id="589" lib="MLKCP" type="fx" revision="59200"/>
+  <effect id="601" lib="enableNGHRi601" type="fx" revision="59200"/>
+  <effect id="602" lib="enableNGHRi602" type="fx" revision="59200"/>
+  <effect id="603" lib="enableNGHRi603" type="fx" revision="59200"/>
+  <effect id="604" lib="enableNGHRi604" type="fx" revision="59200"/>
+  <effect id="605" lib="enableNGHRi605" type="fx" revision="59200"/>
+  <effect id="606" lib="enableNGHRi606" type="fx" revision="59200"/>
+  <effect id="607" lib="enableNGHRi607" type="fx" revision="59200"/>
+  <effect id="608" lib="enableNGHRi608" type="fx" revision="59200"/>
+  <effect id="609" lib="enableNGHRi609" type="fx" revision="59200"/>
+  <effect id="610" lib="enableNGHRi610" type="fx" revision="59200"/>
+  <effect id="611" lib="enableNGHRi611" type="fx" revision="59200"/>
+  <effect id="612" lib="enableNGHRi612" type="fx" revision="59200"/>
+  <effect id="613" lib="enableNGHRi613" type="fx" revision="59200"/>
+  <effect id="614" lib="enableNGHRi614" type="fx" revision="59200"/>
+  <effect id="615" lib="enableNGHRi615" type="fx" revision="59200"/>
+  <effect id="686" lib="TriplanoFCiudadPixel" type="fx" revision="59200"/>
 </map>
