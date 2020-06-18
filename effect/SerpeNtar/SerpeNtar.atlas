@@ -1,0 +1,153 @@
+
+SerpeNtar.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SerpeNtar_h_std_fx556_1_1_1_0.png
+  rotate: false
+  xy: 55, 2
+  size: 8, 30
+  orig: 8, 30
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_1_1_4_0.png
+  rotate: false
+  xy: 243, 34
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_1_1_5_0.png
+  rotate: false
+  xy: 45, 2
+  size: 8, 30
+  orig: 8, 30
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_2_1_0_0.png
+  rotate: false
+  xy: 2, 39
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_2_1_1_0.png
+  rotate: false
+  xy: 130, 41
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_2_1_1_2.png
+  rotate: false
+  xy: 109, 41
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_2_1_1_3.png
+  rotate: false
+  xy: 88, 41
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_2_1_4_1.png
+  rotate: false
+  xy: 2, 14
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_2_1_4_2.png
+  rotate: false
+  xy: 24, 39
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_2_1_5_0.png
+  rotate: false
+  xy: 24, 16
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_2_1_5_1.png
+  rotate: false
+  xy: 46, 41
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_2_1_5_2.png
+  rotate: false
+  xy: 67, 41
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_3_1_1_0.png
+  rotate: false
+  xy: 201, 48
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_3_1_1_1.png
+  rotate: false
+  xy: 215, 44
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_3_1_1_2.png
+  rotate: false
+  xy: 65, 23
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_3_1_2_0.png
+  rotate: false
+  xy: 184, 48
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_3_1_2_1.png
+  rotate: false
+  xy: 151, 44
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_3_1_2_2.png
+  rotate: false
+  xy: 167, 46
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_3_1_5_0.png
+  rotate: false
+  xy: 79, 25
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_3_1_5_1.png
+  rotate: false
+  xy: 229, 44
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+SerpeNtar_h_std_fx556_3_1_5_2.png
+  rotate: false
+  xy: 65, 5
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1

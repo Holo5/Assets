@@ -1,0 +1,55 @@
+
+enableNGHRi615.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enableNGHRi615_h_std_fx615_1_1_0_0.png
+  rotate: false
+  xy: 2, 16
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+enableNGHRi615_h_std_fx615_1_1_1_0.png
+  rotate: false
+  xy: 42, 18
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+enableNGHRi615_h_std_fx615_1_1_2_0.png
+  rotate: false
+  xy: 22, 16
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+enableNGHRi615_h_std_fx615_1_1_3_0.png
+  rotate: false
+  xy: 63, 8
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+enableNGHRi615_h_std_fx615_1_1_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+enableNGHRi615_h_std_fx615_1_1_5_0.png
+  rotate: false
+  xy: 42, 6
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+enableNGHRi615_h_std_fx615_1_1_6_0.png
+  rotate: false
+  xy: 22, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1

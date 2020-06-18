@@ -1,0 +1,27 @@
+
+enableNGHRi607.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enableNGHRi607_h_std_fx607_1_1_2_0.png
+  rotate: false
+  xy: 38, 2
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+enableNGHRi607_h_std_fx607_1_1_3_0.png
+  rotate: false
+  xy: 20, 2
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+enableNGHRi607_h_std_fx607_1_1_5_0.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1

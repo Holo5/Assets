@@ -1,0 +1,20 @@
+
+G3CP.png
+size: 16,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+G3CP_h_std_fx579_1_1_6_0.png
+  rotate: false
+  xy: 2, 9
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+G3CP_h_std_fx579_1_1_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
