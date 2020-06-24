@@ -1,9 +1,16 @@
 
 water_backdrop.png
-size: 32,32
+size: 4096,2048
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+water_backdrop_water_backdrop_64_a_0_0.png
+  rotate: false
+  xy: 2, 19
+  size: 3000, 2000
+  orig: 3000, 2000
+  offset: 0, 0
+  index: -1
 water_backdrop_water_backdrop_icon_a.png
   rotate: false
   xy: 2, 2

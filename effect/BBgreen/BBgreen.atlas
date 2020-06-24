@@ -1,0 +1,41 @@
+
+BBgreen.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BBgreen_h_std_fx34_1_1_0_0.png
+  rotate: false
+  xy: 206, 44
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+BBgreen_h_std_fx34_2_1_0_0.png
+  rotate: false
+  xy: 155, 13
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+BBgreen_h_std_fx34_2_1_0_1.png
+  rotate: false
+  xy: 104, 10
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+BBgreen_h_std_fx34_2_1_0_2.png
+  rotate: false
+  xy: 53, 6
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+BBgreen_h_std_fx34_2_1_0_3.png
+  rotate: false
+  xy: 2, 2
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1

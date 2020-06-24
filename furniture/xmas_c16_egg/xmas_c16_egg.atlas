@@ -4,46 +4,18 @@ size: 1024,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-xmas_c16_egg_xmas_c16_egg_32_a_0_3.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-xmas_c16_egg_xmas_c16_egg_32_a_0_3.png
-  rotate: false
-  xy: 5, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-xmas_c16_egg_xmas_c16_egg_32_a_0_3.png
-  rotate: false
-  xy: 8, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-xmas_c16_egg_xmas_c16_egg_32_a_0_3.png
-  rotate: false
-  xy: 11, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-xmas_c16_egg_xmas_c16_egg_32_a_0_3.png
-  rotate: false
-  xy: 14, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 xmas_c16_egg_xmas_c16_egg_64_a_0_0.png
   rotate: false
   xy: 784, 168
   size: 75, 86
   orig: 75, 86
+  offset: 0, 0
+  index: -1
+xmas_c16_egg_xmas_c16_egg_64_a_0_3.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_b_0_0.png
@@ -65,6 +37,13 @@ xmas_c16_egg_xmas_c16_egg_64_b_0_15.png
   xy: 235, 65
   size: 45, 56
   orig: 45, 56
+  offset: 0, 0
+  index: -1
+xmas_c16_egg_xmas_c16_egg_64_b_0_18.png
+  rotate: false
+  xy: 5, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_b_0_3.png
@@ -188,98 +167,98 @@ xmas_c16_egg_xmas_c16_egg_64_c_0_9.png
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_0_3.png
   rotate: false
-  xy: 730, 138
+  xy: 235, 53
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_0_4.png
   rotate: false
-  xy: 545, 100
+  xy: 861, 168
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_0_5.png
   rotate: false
-  xy: 626, 125
+  xy: 784, 156
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_0_6.png
   rotate: false
-  xy: 111, 28
+  xy: 693, 138
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_0_7.png
   rotate: false
-  xy: 111, 16
+  xy: 730, 138
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_0_8.png
   rotate: false
-  xy: 898, 168
+  xy: 626, 125
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_0_9.png
   rotate: false
-  xy: 821, 156
+  xy: 111, 28
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_2_0.png
   rotate: false
-  xy: 272, 53
+  xy: 545, 100
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_2_1.png
   rotate: false
-  xy: 626, 113
+  xy: 821, 156
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_2_10.png
   rotate: false
-  xy: 861, 168
+  xy: 626, 113
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_2_11.png
   rotate: false
-  xy: 235, 53
+  xy: 545, 88
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_2_12.png
   rotate: false
-  xy: 693, 138
+  xy: 272, 53
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_2_13.png
   rotate: false
-  xy: 784, 156
+  xy: 111, 16
   size: 35, 10
   orig: 35, 10
   offset: 0, 0
   index: -1
 xmas_c16_egg_xmas_c16_egg_64_d_2_2.png
   rotate: false
-  xy: 545, 88
+  xy: 898, 168
   size: 35, 10
   orig: 35, 10
   offset: 0, 0

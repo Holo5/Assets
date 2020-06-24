@@ -1,0 +1,62 @@
+
+SpaceBunny.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SpaceBunny_h_std_fx171_1_1_0_0.png
+  rotate: false
+  xy: 184, 7
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+SpaceBunny_h_std_fx171_1_1_1_0.png
+  rotate: false
+  xy: 38, 2
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+SpaceBunny_h_std_fx171_1_1_2_0.png
+  rotate: false
+  xy: 110, 3
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+SpaceBunny_h_std_fx171_1_1_3_0.png
+  rotate: false
+  xy: 222, 5
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+SpaceBunny_h_std_fx171_1_1_4_0.png
+  rotate: false
+  xy: 74, 3
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+SpaceBunny_h_std_fx171_1_1_5_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+SpaceBunny_h_std_fx171_1_1_6_0.png
+  rotate: false
+  xy: 146, 7
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+SpaceBunny_h_std_fx171_1_1_7_0.png
+  rotate: false
+  xy: 255, 12
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1

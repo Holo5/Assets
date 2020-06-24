@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 xmas_c16_elf9_xmas_c16_elf9_64_a_0_0.png
   rotate: false
-  xy: 44, 34
+  xy: 2, 34
   size: 40, 67
   orig: 40, 67
   offset: 0, 0
@@ -20,7 +20,7 @@ xmas_c16_elf9_xmas_c16_elf9_64_a_0_1.png
   index: -1
 xmas_c16_elf9_xmas_c16_elf9_64_a_0_10.png
   rotate: false
-  xy: 2, 34
+  xy: 44, 34
   size: 40, 67
   orig: 40, 67
   offset: 0, 0

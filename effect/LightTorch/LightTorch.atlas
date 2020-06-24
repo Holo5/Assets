@@ -1,0 +1,27 @@
+
+LightTorch.png
+size: 32,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+LightTorch_h_std_fx196_1_1_5_0.png
+  rotate: false
+  xy: 2, 2
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+LightTorch_h_std_fx196_2_1_0_0.png
+  rotate: false
+  xy: 19, 31
+  size: 11, 60
+  orig: 11, 60
+  offset: 0, 0
+  index: -1
+LightTorch_h_std_fx196_2_1_1_1.png
+  rotate: false
+  xy: 2, 27
+  size: 15, 64
+  orig: 15, 64
+  offset: 0, 0
+  index: -1

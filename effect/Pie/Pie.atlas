@@ -1,0 +1,76 @@
+
+Pie.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pie_h_lay_fx104_1_1_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Pie_h_lay_fx104_1_1_4_0.png
+  rotate: false
+  xy: 30, 5
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+Pie_h_std_fx104_1_1_0_0.png
+  rotate: false
+  xy: 156, 4
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Pie_h_std_fx104_1_1_1_0.png
+  rotate: false
+  xy: 188, 4
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+Pie_h_std_fx104_1_1_2_0.png
+  rotate: false
+  xy: 84, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Pie_h_std_fx104_1_1_3_0.png
+  rotate: false
+  xy: 58, 3
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Pie_h_std_fx104_1_1_4_0.png
+  rotate: false
+  xy: 109, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Pie_h_std_fx104_1_1_5_0.png
+  rotate: false
+  xy: 178, 4
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+Pie_h_std_fx104_1_1_6_0.png
+  rotate: false
+  xy: 134, 4
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+Pie_h_std_fx104_1_1_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+Hoverplank.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Hoverplank_h_std_fx191_1_1_0_0.png
+  rotate: false
+  xy: 41, 2
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Hoverplank_h_std_fx191_1_1_1_0.png
+  rotate: false
+  xy: 105, 5
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+Hoverplank_h_std_fx191_1_1_2_0.png
+  rotate: false
+  xy: 73, 2
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+Hoverplank_h_std_fx191_1_1_7_0.png
+  rotate: false
+  xy: 2, 9
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+Hoverplank_h_std_fx191_2_1_0_0.png
+  rotate: false
+  xy: 123, 10
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Hoverplank_h_std_fx191_2_1_1_0.png
+  rotate: false
+  xy: 159, 11
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Hoverplank_h_std_fx191_2_1_2_0.png
+  rotate: false
+  xy: 141, 10
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Hoverplank_h_std_fx191_2_1_3_0.png
+  rotate: false
+  xy: 2, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

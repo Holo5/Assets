@@ -6,16 +6,16 @@ filter: Nearest,Nearest
 repeat: none
 xmas_c18_doll4_xmas_c18_doll4_64_a_0_0.png
   rotate: false
-  xy: 230, 20
-  size: 26, 50
-  orig: 26, 50
+  xy: 230, 21
+  size: 26, 49
+  orig: 26, 49
   offset: 0, 0
   index: -1
 xmas_c18_doll4_xmas_c18_doll4_64_a_0_1.png
   rotate: false
-  xy: 76, 13
-  size: 26, 50
-  orig: 26, 50
+  xy: 76, 14
+  size: 26, 49
+  orig: 26, 49
   offset: 0, 0
   index: -1
 xmas_c18_doll4_xmas_c18_doll4_64_a_0_10.png
@@ -69,9 +69,9 @@ xmas_c18_doll4_xmas_c18_doll4_64_a_0_16.png
   index: -1
 xmas_c18_doll4_xmas_c18_doll4_64_a_0_2.png
   rotate: false
-  xy: 40, 11
-  size: 34, 52
-  orig: 34, 52
+  xy: 40, 12
+  size: 34, 51
+  orig: 34, 51
   offset: 0, 0
   index: -1
 xmas_c18_doll4_xmas_c18_doll4_64_a_0_3.png
@@ -125,7 +125,7 @@ xmas_c18_doll4_xmas_c18_doll4_64_a_0_9.png
   index: -1
 xmas_c18_doll4_xmas_c18_doll4_64_sd_0_0.png
   rotate: false
-  xy: 230, 6
+  xy: 230, 7
   size: 26, 12
   orig: 26, 12
   offset: 0, 0

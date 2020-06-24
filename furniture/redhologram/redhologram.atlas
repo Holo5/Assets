@@ -4,6 +4,13 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+redhologram_redhologram_32_d_0_0.png
+  rotate: false
+  xy: 207, 84
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 redhologram_redhologram_64_a_0_0.png
   rotate: false
   xy: 38, 60

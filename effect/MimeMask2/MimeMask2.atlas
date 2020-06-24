@@ -1,0 +1,111 @@
+
+MimeMask2.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MimeMask2_h_std_fx123_1_1_0_0.png
+  rotate: false
+  xy: 149, 38
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_0_1.png
+  rotate: false
+  xy: 108, 38
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_1_0.png
+  rotate: false
+  xy: 120, 32
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_1_1.png
+  rotate: false
+  xy: 74, 2
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_2_0.png
+  rotate: false
+  xy: 50, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_2_1.png
+  rotate: false
+  xy: 72, 34
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_3_0.png
+  rotate: false
+  xy: 28, 32
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_3_1.png
+  rotate: false
+  xy: 2, 32
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_4_1.png
+  rotate: false
+  xy: 26, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_5_0.png
+  rotate: false
+  xy: 54, 32
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_5_1.png
+  rotate: false
+  xy: 92, 2
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_6_0.png
+  rotate: false
+  xy: 138, 38
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_6_1.png
+  rotate: false
+  xy: 96, 38
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+MimeMask2_h_std_fx123_1_1_7_1.png
+  rotate: false
+  xy: 96, 35
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

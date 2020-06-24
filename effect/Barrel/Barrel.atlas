@@ -1,0 +1,20 @@
+
+Barrel.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Barrel_h_std_fx159_1_1_7_0.png
+  rotate: false
+  xy: 2, 27
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+Barrel_h_std_fx159_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1

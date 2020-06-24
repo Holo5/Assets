@@ -1,0 +1,104 @@
+
+Candle.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Candle_h_std_fx64_1_1_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 6, 43
+  orig: 6, 43
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_1_1_5_0.png
+  rotate: false
+  xy: 10, 12
+  size: 6, 33
+  orig: 6, 33
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_2_1_0_0.png
+  rotate: false
+  xy: 154, 47
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_2_1_0_1.png
+  rotate: false
+  xy: 78, 47
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_2_1_0_2.png
+  rotate: false
+  xy: 2, 47
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_3_1_0_0.png
+  rotate: false
+  xy: 27, 17
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_3_1_0_1.png
+  rotate: false
+  xy: 27, 32
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_3_1_0_2.png
+  rotate: false
+  xy: 239, 59
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_3_1_0_3.png
+  rotate: false
+  xy: 230, 59
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_3_1_0_4.png
+  rotate: false
+  xy: 18, 17
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_3_1_0_5.png
+  rotate: false
+  xy: 18, 32
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_4_1_0_0.png
+  rotate: false
+  xy: 230, 74
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_4_1_0_1.png
+  rotate: false
+  xy: 230, 95
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+Candle_h_std_fx64_4_1_0_2.png
+  rotate: false
+  xy: 243, 74
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1

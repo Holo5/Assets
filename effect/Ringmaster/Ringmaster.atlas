@@ -1,0 +1,97 @@
+
+Ringmaster.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Ringmaster_h_std_fx115_1_1_0_0.png
+  rotate: false
+  xy: 2, 35
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_1_1_1_0.png
+  rotate: false
+  xy: 93, 39
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_1_1_2_0.png
+  rotate: false
+  xy: 49, 33
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_1_1_3_0.png
+  rotate: false
+  xy: 134, 35
+  size: 34, 82
+  orig: 34, 82
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_1_1_7_0.png
+  rotate: false
+  xy: 170, 36
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_2_1_0_0.png
+  rotate: false
+  xy: 206, 50
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_2_1_1_0.png
+  rotate: false
+  xy: 206, 67
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_2_1_2_0.png
+  rotate: false
+  xy: 206, 99
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_2_1_3_0.png
+  rotate: false
+  xy: 206, 84
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_2_1_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_2_1_5_0.png
+  rotate: false
+  xy: 234, 102
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_2_1_6_0.png
+  rotate: false
+  xy: 234, 85
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Ringmaster_h_std_fx115_2_1_7_0.png
+  rotate: false
+  xy: 2, 22
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+GreenViking.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GreenViking_h_std_fx173_1_1_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_1_1_1_0.png
+  rotate: false
+  xy: 356, 25
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_1_1_2_0.png
+  rotate: false
+  xy: 324, 26
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_1_1_3_0.png
+  rotate: false
+  xy: 304, 23
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_1_1_4_0.png
+  rotate: false
+  xy: 340, 26
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_1_1_5_0.png
+  rotate: false
+  xy: 369, 25
+  size: 11, 36
+  orig: 11, 36
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_1_1_6_0.png
+  rotate: false
+  xy: 382, 43
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_2_1_0_0.png
+  rotate: false
+  xy: 234, 18
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_2_1_1_0.png
+  rotate: false
+  xy: 94, 17
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_2_1_2_0.png
+  rotate: false
+  xy: 129, 17
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_2_1_3_0.png
+  rotate: false
+  xy: 48, 24
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_2_1_4_0.png
+  rotate: false
+  xy: 199, 17
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_2_1_5_0.png
+  rotate: false
+  xy: 164, 17
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_2_1_6_0.png
+  rotate: false
+  xy: 269, 18
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+GreenViking_h_std_fx173_2_1_7_0.png
+  rotate: false
+  xy: 2, 22
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+Medal1.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Medal1_h_std_fx109_1_1_0_0.png
+  rotate: false
+  xy: 122, 14
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Medal1_h_std_fx109_1_1_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Medal1_h_std_fx109_1_1_2_0.png
+  rotate: false
+  xy: 74, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Medal1_h_std_fx109_1_1_3_0.png
+  rotate: false
+  xy: 98, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Medal1_h_std_fx109_1_1_4_0.png
+  rotate: false
+  xy: 26, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Medal1_h_std_fx109_1_1_5_0.png
+  rotate: false
+  xy: 50, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Medal1_h_std_fx109_1_1_6_0.png
+  rotate: false
+  xy: 147, 14
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+Medal1_h_std_fx109_1_1_7_0.png
+  rotate: false
+  xy: 122, 7
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1

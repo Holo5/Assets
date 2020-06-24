@@ -1,0 +1,342 @@
+
+BlueAirplane.png
+size: 4096,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BlueAirplane_h_std_fx176_1_1_0_0.png
+  rotate: false
+  xy: 528, 3
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_0_1.png
+  rotate: false
+  xy: 2268, 70
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_0_2.png
+  rotate: false
+  xy: 362, 3
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_1_0.png
+  rotate: false
+  xy: 125, 63
+  size: 118, 59
+  orig: 118, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_1_1.png
+  rotate: false
+  xy: 245, 63
+  size: 115, 59
+  orig: 115, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_1_2.png
+  rotate: false
+  xy: 2, 63
+  size: 121, 59
+  orig: 121, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_2_0.png
+  rotate: false
+  xy: 1404, 57
+  size: 98, 65
+  orig: 98, 65
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_2_1.png
+  rotate: false
+  xy: 362, 57
+  size: 101, 65
+  orig: 101, 65
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_2_2.png
+  rotate: false
+  xy: 568, 57
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_3_0.png
+  rotate: false
+  xy: 1604, 48
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_3_1.png
+  rotate: false
+  xy: 1768, 49
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_3_2.png
+  rotate: false
+  xy: 1686, 43
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_4_0.png
+  rotate: false
+  xy: 1504, 57
+  size: 98, 65
+  orig: 98, 65
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_4_1.png
+  rotate: false
+  xy: 465, 57
+  size: 101, 65
+  orig: 101, 65
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_4_2.png
+  rotate: false
+  xy: 669, 57
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_5_0.png
+  rotate: false
+  xy: 125, 2
+  size: 118, 59
+  orig: 118, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_5_1.png
+  rotate: false
+  xy: 245, 2
+  size: 115, 59
+  orig: 115, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_5_2.png
+  rotate: false
+  xy: 2, 2
+  size: 121, 59
+  orig: 121, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_6_0.png
+  rotate: false
+  xy: 445, 3
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_6_1.png
+  rotate: false
+  xy: 2102, 70
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_6_2.png
+  rotate: false
+  xy: 2185, 70
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_7_0.png
+  rotate: false
+  xy: 1850, 67
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_7_1.png
+  rotate: false
+  xy: 2018, 67
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_1_1_7_2.png
+  rotate: false
+  xy: 1934, 67
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_0_0.png
+  rotate: false
+  xy: 1198, 63
+  size: 101, 59
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_0_1.png
+  rotate: false
+  xy: 1092, 64
+  size: 104, 58
+  orig: 104, 58
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_0_2.png
+  rotate: false
+  xy: 878, 64
+  size: 106, 58
+  orig: 106, 58
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_1_0.png
+  rotate: false
+  xy: 3382, 63
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_1_1.png
+  rotate: false
+  xy: 3308, 63
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_1_2.png
+  rotate: false
+  xy: 3234, 63
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_2_0.png
+  rotate: false
+  xy: 2683, 70
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_2_1.png
+  rotate: false
+  xy: 2600, 70
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_2_2.png
+  rotate: false
+  xy: 2434, 70
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_3_0.png
+  rotate: false
+  xy: 2930, 74
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_3_1.png
+  rotate: false
+  xy: 2848, 74
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_3_2.png
+  rotate: false
+  xy: 2766, 74
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_4_0.png
+  rotate: false
+  xy: 2517, 70
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_4_1.png
+  rotate: false
+  xy: 2351, 70
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_4_2.png
+  rotate: false
+  xy: 611, 3
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_5_0.png
+  rotate: false
+  xy: 3160, 63
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_5_1.png
+  rotate: false
+  xy: 3086, 63
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_5_2.png
+  rotate: false
+  xy: 3012, 63
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_6_0.png
+  rotate: false
+  xy: 1301, 63
+  size: 101, 59
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_6_1.png
+  rotate: false
+  xy: 986, 64
+  size: 104, 58
+  orig: 104, 58
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_6_2.png
+  rotate: false
+  xy: 770, 64
+  size: 106, 58
+  orig: 106, 58
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_7_0.png
+  rotate: false
+  xy: 3541, 59
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_7_1.png
+  rotate: false
+  xy: 3499, 53
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+BlueAirplane_h_std_fx176_2_1_7_2.png
+  rotate: false
+  xy: 3456, 54
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1

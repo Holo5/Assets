@@ -1,0 +1,62 @@
+
+WolfMask.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WolfMask_h_std_fx87_1_1_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+WolfMask_h_std_fx87_1_1_1_0.png
+  rotate: false
+  xy: 2, 39
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+WolfMask_h_std_fx87_1_1_2_0.png
+  rotate: false
+  xy: 37, 3
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+WolfMask_h_std_fx87_1_1_3_0.png
+  rotate: false
+  xy: 74, 78
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+WolfMask_h_std_fx87_1_1_4_0.png
+  rotate: false
+  xy: 71, 42
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+WolfMask_h_std_fx87_1_1_5_0.png
+  rotate: false
+  xy: 2, 77
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+WolfMask_h_std_fx87_1_1_6_0.png
+  rotate: false
+  xy: 39, 78
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+WolfMask_h_std_fx87_1_1_7_0.png
+  rotate: false
+  xy: 39, 39
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1

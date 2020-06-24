@@ -1,0 +1,83 @@
+
+BlueTorch.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BlueTorch_h_std_fx106_1_1_1_0.png
+  rotate: false
+  xy: 38, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+BlueTorch_h_std_fx106_1_1_2_0.png
+  rotate: false
+  xy: 50, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+BlueTorch_h_std_fx106_1_1_3_0.png
+  rotate: false
+  xy: 14, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+BlueTorch_h_std_fx106_1_1_4_0.png
+  rotate: false
+  xy: 26, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+BlueTorch_h_std_fx106_1_1_5_0.png
+  rotate: false
+  xy: 2, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+BlueTorch_h_std_fx106_2_1_0_0.png
+  rotate: false
+  xy: 2, 22
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+BlueTorch_h_std_fx106_2_1_0_1.png
+  rotate: false
+  xy: 38, 22
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+BlueTorch_h_std_fx106_2_1_0_2.png
+  rotate: false
+  xy: 74, 22
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+BlueTorch_h_std_fx106_2_1_0_3.png
+  rotate: false
+  xy: 110, 22
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+BlueTorch_h_std_fx106_2_1_0_4.png
+  rotate: false
+  xy: 146, 22
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+BlueTorch_h_std_fx106_2_1_0_5.png
+  rotate: false
+  xy: 182, 22
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1

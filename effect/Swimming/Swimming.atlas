@@ -1,0 +1,62 @@
+
+Swimming.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Swimming_h_std_fx29_1_1_0_1.png
+  rotate: false
+  xy: 166, 2
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+Swimming_h_std_fx29_1_1_0_2.png
+  rotate: false
+  xy: 84, 2
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+Swimming_h_std_fx29_1_1_0_3.png
+  rotate: false
+  xy: 125, 2
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+Swimming_h_std_fx29_1_1_0_4.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+Swimming_h_std_fx29_1_1_0_5.png
+  rotate: false
+  xy: 43, 2
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+Swimming_h_std_fx29_2_1_0_1.png
+  rotate: false
+  xy: 254, 19
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+Swimming_h_std_fx29_2_1_0_2.png
+  rotate: false
+  xy: 207, 19
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+Swimming_h_std_fx29_2_1_0_3.png
+  rotate: false
+  xy: 301, 19
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1

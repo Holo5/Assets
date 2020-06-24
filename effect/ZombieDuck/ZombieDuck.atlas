@@ -1,0 +1,41 @@
+
+ZombieDuck.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ZombieDuck_h_std_fx198_1_1_0_0.png
+  rotate: false
+  xy: 54, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+ZombieDuck_h_std_fx198_1_1_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+ZombieDuck_h_std_fx198_1_1_2_0.png
+  rotate: false
+  xy: 29, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+ZombieDuck_h_std_fx198_1_1_3_0.png
+  rotate: false
+  xy: 100, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+ZombieDuck_h_std_fx198_1_1_7_0.png
+  rotate: false
+  xy: 79, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1

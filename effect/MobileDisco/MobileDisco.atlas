@@ -1,0 +1,286 @@
+
+MobileDisco.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MobileDisco_h_std_fx189_1_1_0_0.png
+  rotate: false
+  xy: 15, 28
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_1_1_1_0.png
+  rotate: false
+  xy: 66, 29
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_1_1_2_0.png
+  rotate: false
+  xy: 2, 28
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_1_1_3_0.png
+  rotate: false
+  xy: 54, 28
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_1_1_4_0.png
+  rotate: false
+  xy: 41, 28
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_1_1_5_0.png
+  rotate: false
+  xy: 79, 29
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_1_1_6_0.png
+  rotate: false
+  xy: 28, 28
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_1_1_7_0.png
+  rotate: false
+  xy: 92, 29
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_0_0.png
+  rotate: false
+  xy: 104, 45
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_0_1.png
+  rotate: false
+  xy: 125, 48
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_0_2.png
+  rotate: false
+  xy: 214, 18
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_0_3.png
+  rotate: false
+  xy: 125, 32
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_1_0.png
+  rotate: false
+  xy: 201, 50
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_1_1.png
+  rotate: false
+  xy: 220, 4
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_1_2.png
+  rotate: false
+  xy: 194, 18
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_1_3.png
+  rotate: false
+  xy: 227, 34
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_2_0.png
+  rotate: false
+  xy: 44, 12
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_2_1.png
+  rotate: false
+  xy: 162, 32
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_2_2.png
+  rotate: false
+  xy: 194, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_2_3.png
+  rotate: false
+  xy: 165, 48
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_3_0.png
+  rotate: false
+  xy: 153, 18
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_3_1.png
+  rotate: false
+  xy: 199, 34
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_3_2.png
+  rotate: false
+  xy: 220, 49
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_3_3.png
+  rotate: false
+  xy: 139, 18
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_4_0.png
+  rotate: false
+  xy: 23, 12
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_4_1.png
+  rotate: false
+  xy: 144, 32
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_4_2.png
+  rotate: false
+  xy: 167, 16
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_4_3.png
+  rotate: false
+  xy: 183, 48
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_5_0.png
+  rotate: false
+  xy: 180, 34
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_5_1.png
+  rotate: false
+  xy: 125, 18
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_5_2.png
+  rotate: false
+  xy: 204, 18
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_5_3.png
+  rotate: false
+  xy: 227, 20
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_6_0.png
+  rotate: false
+  xy: 2, 9
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_6_1.png
+  rotate: false
+  xy: 104, 29
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_6_2.png
+  rotate: false
+  xy: 207, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_6_3.png
+  rotate: false
+  xy: 146, 48
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_7_0.png
+  rotate: false
+  xy: 180, 18
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_7_1.png
+  rotate: false
+  xy: 180, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_7_2.png
+  rotate: false
+  xy: 234, 48
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+MobileDisco_h_std_fx189_2_1_7_3.png
+  rotate: false
+  xy: 213, 34
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1

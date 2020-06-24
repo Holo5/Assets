@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 gothic_c15_dvdr_gothic_c15_dvdr_64_a_0_0.png
   rotate: false
-  xy: 166, 52
+  xy: 112, 52
   size: 52, 66
   orig: 52, 66
   offset: 0, 0
   index: -1
 gothic_c15_dvdr_gothic_c15_dvdr_64_a_2_0.png
   rotate: false
-  xy: 112, 52
+  xy: 166, 52
   size: 52, 66
   orig: 52, 66
   offset: 0, 0
@@ -41,7 +41,7 @@ gothic_c15_dvdr_gothic_c15_dvdr_64_b_2_0.png
   index: -1
 gothic_c15_dvdr_gothic_c15_dvdr_64_b_2_1.png
   rotate: false
-  xy: 119, 13
+  xy: 71, 12
   size: 46, 37
   orig: 46, 37
   offset: 0, 0
@@ -83,7 +83,7 @@ gothic_c15_dvdr_gothic_c15_dvdr_64_d_0_2.png
   index: -1
 gothic_c15_dvdr_gothic_c15_dvdr_64_d_2_1.png
   rotate: false
-  xy: 71, 12
+  xy: 119, 13
   size: 46, 37
   orig: 46, 37
   offset: 0, 0

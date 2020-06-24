@@ -1,0 +1,62 @@
+
+ScarecrowMask.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ScarecrowMask_h_std_fx86_1_1_0_0.png
+  rotate: false
+  xy: 70, 5
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+ScarecrowMask_h_std_fx86_1_1_1_0.png
+  rotate: false
+  xy: 36, 5
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+ScarecrowMask_h_std_fx86_1_1_2_0.png
+  rotate: false
+  xy: 196, 4
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+ScarecrowMask_h_std_fx86_1_1_3_0.png
+  rotate: false
+  xy: 136, 4
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+ScarecrowMask_h_std_fx86_1_1_4_0.png
+  rotate: false
+  xy: 166, 4
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+ScarecrowMask_h_std_fx86_1_1_5_0.png
+  rotate: false
+  xy: 2, 5
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+ScarecrowMask_h_std_fx86_1_1_6_0.png
+  rotate: false
+  xy: 103, 5
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+ScarecrowMask_h_std_fx86_1_1_7_0.png
+  rotate: false
+  xy: 226, 2
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
