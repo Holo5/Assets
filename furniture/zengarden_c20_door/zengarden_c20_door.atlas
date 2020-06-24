@@ -1,0 +1,132 @@
+
+zengarden_c20_door.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zengarden_c20_door_zengarden_c20_door_64_a_0_1.png
+  rotate: false
+  xy: 302, 47
+  size: 34, 127
+  orig: 34, 127
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_a_2_0.png
+  rotate: false
+  xy: 374, 51
+  size: 34, 123
+  orig: 34, 123
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_a_2_1.png
+  rotate: false
+  xy: 230, 47
+  size: 34, 127
+  orig: 34, 127
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_a_4_0.png
+  rotate: false
+  xy: 410, 51
+  size: 34, 123
+  orig: 34, 123
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_a_4_1.png
+  rotate: false
+  xy: 266, 47
+  size: 34, 127
+  orig: 34, 127
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_a_6_1.png
+  rotate: false
+  xy: 338, 47
+  size: 34, 127
+  orig: 34, 127
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_b_0_0.png
+  rotate: false
+  xy: 2, 23
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_b_0_1.png
+  rotate: false
+  xy: 40, 46
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_b_2_0.png
+  rotate: false
+  xy: 446, 153
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_b_2_1.png
+  rotate: false
+  xy: 2, 46
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_b_4_1.png
+  rotate: false
+  xy: 116, 46
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_b_6_1.png
+  rotate: false
+  xy: 78, 46
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_c_2_0.png
+  rotate: false
+  xy: 38, 25
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_d_4_0.png
+  rotate: false
+  xy: 192, 46
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_d_6_0.png
+  rotate: false
+  xy: 154, 46
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_64_d_6_1.png
+  rotate: false
+  xy: 374, 48
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zengarden_c20_door_zengarden_c20_door_icon_a.png
+  rotate: false
+  xy: 446, 121
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

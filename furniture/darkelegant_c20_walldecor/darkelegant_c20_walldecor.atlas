@@ -1,0 +1,27 @@
+
+darkelegant_c20_walldecor.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+darkelegant_c20_walldecor_darkelegant_c20_walldecor_64_a_0_0.png
+  rotate: false
+  xy: 2, 20
+  size: 32, 75
+  orig: 32, 75
+  offset: 0, 0
+  index: -1
+darkelegant_c20_walldecor_darkelegant_c20_walldecor_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+darkelegant_c20_walldecor_darkelegant_c20_walldecor_icon_a.png
+  rotate: false
+  xy: 36, 65
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

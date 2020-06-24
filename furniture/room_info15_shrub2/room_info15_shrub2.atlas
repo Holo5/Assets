@@ -6,58 +6,30 @@ filter: Nearest,Nearest
 repeat: none
 room_info15_shrub2_room_info15_shrub2_64_a_0_0.png
   rotate: false
-  xy: 136, 29
-  size: 65, 77
-  orig: 65, 77
+  xy: 2, 29
+  size: 67, 78
+  orig: 67, 78
   offset: 0, 0
   index: -1
 room_info15_shrub2_room_info15_shrub2_64_a_2_0.png
   rotate: false
-  xy: 203, 29
-  size: 64, 77
-  orig: 64, 77
+  xy: 207, 29
+  size: 66, 78
+  orig: 66, 78
   offset: 0, 0
   index: -1
 room_info15_shrub2_room_info15_shrub2_64_b_0_0.png
   rotate: false
-  xy: 69, 29
-  size: 65, 77
-  orig: 65, 77
+  xy: 71, 29
+  size: 66, 78
+  orig: 66, 78
   offset: 0, 0
   index: -1
 room_info15_shrub2_room_info15_shrub2_64_b_2_0.png
   rotate: false
-  xy: 2, 29
-  size: 65, 77
-  orig: 65, 77
-  offset: 0, 0
-  index: -1
-room_info15_shrub2_room_info15_shrub2_64_c_0_0.png
-  rotate: false
-  xy: 269, 43
-  size: 67, 63
-  orig: 67, 63
-  offset: 0, 0
-  index: -1
-room_info15_shrub2_room_info15_shrub2_64_c_2_0.png
-  rotate: false
-  xy: 338, 43
-  size: 66, 63
-  orig: 66, 63
-  offset: 0, 0
-  index: -1
-room_info15_shrub2_room_info15_shrub2_64_d_0_0.png
-  rotate: false
-  xy: 444, 43
-  size: 34, 63
-  orig: 34, 63
-  offset: 0, 0
-  index: -1
-room_info15_shrub2_room_info15_shrub2_64_d_2_0.png
-  rotate: false
-  xy: 406, 43
-  size: 36, 63
-  orig: 36, 63
+  xy: 139, 29
+  size: 66, 78
+  orig: 66, 78
   offset: 0, 0
   index: -1
 room_info15_shrub2_room_info15_shrub2_icon_a.png

@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 bazaar_c17_curtain_bazaar_c17_curtain_64_a_0_0.png
   rotate: false
-  xy: 287, 81
+  xy: 250, 81
   size: 35, 123
   orig: 35, 123
   offset: 0, 0
   index: -1
 bazaar_c17_curtain_bazaar_c17_curtain_64_a_0_1.png
   rotate: false
-  xy: 128, 69
+  xy: 88, 69
   size: 38, 135
   orig: 38, 135
   offset: 0, 0
   index: -1
 bazaar_c17_curtain_bazaar_c17_curtain_64_a_2_0.png
   rotate: false
-  xy: 250, 81
+  xy: 287, 81
   size: 35, 123
   orig: 35, 123
   offset: 0, 0
   index: -1
 bazaar_c17_curtain_bazaar_c17_curtain_64_a_2_1.png
   rotate: false
-  xy: 88, 69
+  xy: 128, 69
   size: 38, 135
   orig: 38, 135
   offset: 0, 0

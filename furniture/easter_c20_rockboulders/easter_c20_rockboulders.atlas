@@ -1,0 +1,34 @@
+
+easter_c20_rockboulders.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c20_rockboulders_easter_c20_rockboulders_64_a_2_0.png
+  rotate: false
+  xy: 64, 2
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+easter_c20_rockboulders_easter_c20_rockboulders_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+easter_c20_rockboulders_easter_c20_rockboulders_64_sd_2_0.png
+  rotate: false
+  xy: 126, 21
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+easter_c20_rockboulders_easter_c20_rockboulders_icon_a.png
+  rotate: false
+  xy: 188, 25
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1

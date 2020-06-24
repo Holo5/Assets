@@ -1,0 +1,20 @@
+
+clothing_c20_heartbackpack.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_c20_heartbackpack_clothing_c20_heartbackpack_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+clothing_c20_heartbackpack_clothing_c20_heartbackpack_icon_a.png
+  rotate: false
+  xy: 56, 5
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

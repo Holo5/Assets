@@ -1,0 +1,27 @@
+
+spa_c20_lavendersalt.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spa_c20_lavendersalt_spa_c20_lavendersalt_64_a_2_0.png
+  rotate: false
+  xy: 2, 20
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+spa_c20_lavendersalt_spa_c20_lavendersalt_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+spa_c20_lavendersalt_spa_c20_lavendersalt_icon_a.png
+  rotate: false
+  xy: 34, 31
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

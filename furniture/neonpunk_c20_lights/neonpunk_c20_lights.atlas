@@ -1,0 +1,48 @@
+
+neonpunk_c20_lights.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+neonpunk_c20_lights_neonpunk_c20_lights_64_a_0_0.png
+  rotate: false
+  xy: 114, 16
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+neonpunk_c20_lights_neonpunk_c20_lights_64_b_0_0.png
+  rotate: false
+  xy: 114, 8
+  size: 29, 6
+  orig: 29, 6
+  offset: 0, 0
+  index: -1
+neonpunk_c20_lights_neonpunk_c20_lights_64_c_0_0.png
+  rotate: false
+  xy: 70, 5
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+neonpunk_c20_lights_neonpunk_c20_lights_64_d_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+neonpunk_c20_lights_neonpunk_c20_lights_64_sd_0_0.png
+  rotate: false
+  xy: 2, 20
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+neonpunk_c20_lights_neonpunk_c20_lights_icon_a.png
+  rotate: false
+  xy: 38, 6
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1

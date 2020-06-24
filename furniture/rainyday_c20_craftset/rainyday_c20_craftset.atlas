@@ -1,0 +1,55 @@
+
+rainyday_c20_craftset.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainyday_c20_craftset_rainyday_c20_craftset_64_a_0_0.png
+  rotate: false
+  xy: 2, 26
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+rainyday_c20_craftset_rainyday_c20_craftset_64_a_0_1.png
+  rotate: false
+  xy: 129, 30
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+rainyday_c20_craftset_rainyday_c20_craftset_64_a_0_2.png
+  rotate: false
+  xy: 193, 30
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+rainyday_c20_craftset_rainyday_c20_craftset_64_a_0_3.png
+  rotate: false
+  xy: 66, 25
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+rainyday_c20_craftset_rainyday_c20_craftset_64_a_0_4.png
+  rotate: false
+  xy: 129, 2
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+rainyday_c20_craftset_rainyday_c20_craftset_64_a_0_5.png
+  rotate: false
+  xy: 2, 8
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+rainyday_c20_craftset_rainyday_c20_craftset_icon_a.png
+  rotate: false
+  xy: 176, 9
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+india_c20_balconydoor.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+india_c20_balconydoor_india_c20_balconydoor_64_a_4_0.png
+  rotate: false
+  xy: 112, 13
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+india_c20_balconydoor_india_c20_balconydoor_64_b_4_0.png
+  rotate: false
+  xy: 156, 68
+  size: 46, 181
+  orig: 46, 181
+  offset: 0, 0
+  index: -1
+india_c20_balconydoor_india_c20_balconydoor_64_b_4_1.png
+  rotate: false
+  xy: 204, 68
+  size: 46, 181
+  orig: 46, 181
+  offset: 0, 0
+  index: -1
+india_c20_balconydoor_india_c20_balconydoor_64_c_4_0.png
+  rotate: false
+  xy: 184, 36
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+india_c20_balconydoor_india_c20_balconydoor_64_d_4_0.png
+  rotate: false
+  xy: 79, 60
+  size: 75, 189
+  orig: 75, 189
+  offset: 0, 0
+  index: -1
+india_c20_balconydoor_india_c20_balconydoor_64_d_4_1.png
+  rotate: false
+  xy: 2, 60
+  size: 75, 189
+  orig: 75, 189
+  offset: 0, 0
+  index: -1
+india_c20_balconydoor_india_c20_balconydoor_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 108, 56
+  orig: 108, 56
+  offset: 0, 0
+  index: -1
+india_c20_balconydoor_india_c20_balconydoor_icon_a.png
+  rotate: false
+  xy: 224, 36
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

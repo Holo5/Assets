@@ -1,0 +1,27 @@
+
+clothing_r20_neonpunkset.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r20_neonpunkset_clothing_r20_neonpunkset_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 111
+  orig: 39, 111
+  offset: 0, 0
+  index: -1
+clothing_r20_neonpunkset_clothing_r20_neonpunkset_64_a_6_0.png
+  rotate: false
+  xy: 43, 2
+  size: 38, 111
+  orig: 38, 111
+  offset: 0, 0
+  index: -1
+clothing_r20_neonpunkset_clothing_r20_neonpunkset_icon_a.png
+  rotate: false
+  xy: 83, 83
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+booster_c20_box1.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+booster_c20_box1_booster_c20_box1_64_a_4_0.png
+  rotate: false
+  xy: 2, 3
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+booster_c20_box1_booster_c20_box1_64_sd_4_0.png
+  rotate: false
+  xy: 58, 32
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+booster_c20_box1_booster_c20_box1_icon_a.png
+  rotate: false
+  xy: 58, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+clothing_darkelegantset.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_darkelegantset_clothing_darkelegantset_64_a_0_0.png
+  rotate: false
+  xy: 2, 145
+  size: 36, 109
+  orig: 36, 109
+  offset: 0, 0
+  index: -1
+clothing_darkelegantset_clothing_darkelegantset_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 36, 109
+  orig: 36, 109
+  offset: 0, 0
+  index: -1
+clothing_darkelegantset_clothing_darkelegantset_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

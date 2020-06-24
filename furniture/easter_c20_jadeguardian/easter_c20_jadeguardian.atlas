@@ -1,0 +1,27 @@
+
+easter_c20_jadeguardian.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c20_jadeguardian_easter_c20_jadeguardian_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+easter_c20_jadeguardian_easter_c20_jadeguardian_64_sd_0_0.png
+  rotate: false
+  xy: 66, 79
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+easter_c20_jadeguardian_easter_c20_jadeguardian_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

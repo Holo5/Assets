@@ -1,0 +1,34 @@
+
+easter_c20_firstaidkit.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c20_firstaidkit_easter_c20_firstaidkit_64_a_4_0.png
+  rotate: false
+  xy: 52, 8
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+easter_c20_firstaidkit_easter_c20_firstaidkit_64_a_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+easter_c20_firstaidkit_easter_c20_firstaidkit_64_sd_4_0.png
+  rotate: false
+  xy: 94, 34
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+easter_c20_firstaidkit_easter_c20_firstaidkit_icon_a.png
+  rotate: false
+  xy: 94, 2
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

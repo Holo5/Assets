@@ -1,0 +1,27 @@
+
+art_c20_canvas.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+art_c20_canvas_art_c20_canvas_64_a_0_0.png
+  rotate: false
+  xy: 2, 71
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+art_c20_canvas_art_c20_canvas_64_a_0_1.png
+  rotate: false
+  xy: 2, 31
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+art_c20_canvas_art_c20_canvas_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1

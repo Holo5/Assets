@@ -1,0 +1,48 @@
+
+sunsetcafe_c20_drinks.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sunsetcafe_c20_drinks_sunsetcafe_c20_drinks_64_a_0_0.png
+  rotate: false
+  xy: 2, 19
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+sunsetcafe_c20_drinks_sunsetcafe_c20_drinks_64_a_0_1.png
+  rotate: false
+  xy: 36, 34
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+sunsetcafe_c20_drinks_sunsetcafe_c20_drinks_64_a_0_2.png
+  rotate: false
+  xy: 70, 31
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+sunsetcafe_c20_drinks_sunsetcafe_c20_drinks_64_a_0_3.png
+  rotate: false
+  xy: 95, 14
+  size: 16, 48
+  orig: 16, 48
+  offset: 0, 0
+  index: -1
+sunsetcafe_c20_drinks_sunsetcafe_c20_drinks_64_sd_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+sunsetcafe_c20_drinks_sunsetcafe_c20_drinks_icon_a.png
+  rotate: false
+  xy: 36, 2
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

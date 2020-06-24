@@ -1,0 +1,27 @@
+
+easter_c20_waypointrocks.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c20_waypointrocks_easter_c20_waypointrocks_64_a_0_0.png
+  rotate: false
+  xy: 2, 88
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+easter_c20_waypointrocks_easter_c20_waypointrocks_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 84
+  orig: 20, 84
+  offset: 0, 0
+  index: -1
+easter_c20_waypointrocks_easter_c20_waypointrocks_icon_a.png
+  rotate: false
+  xy: 44, 144
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1

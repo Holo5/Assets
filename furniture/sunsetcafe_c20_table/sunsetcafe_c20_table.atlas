@@ -1,0 +1,34 @@
+
+sunsetcafe_c20_table.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sunsetcafe_c20_table_sunsetcafe_c20_table_64_a_0_0.png
+  rotate: false
+  xy: 92, 2
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+sunsetcafe_c20_table_sunsetcafe_c20_table_64_b_0_0.png
+  rotate: false
+  xy: 156, 3
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+sunsetcafe_c20_table_sunsetcafe_c20_table_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+sunsetcafe_c20_table_sunsetcafe_c20_table_icon_a.png
+  rotate: false
+  xy: 212, 27
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1

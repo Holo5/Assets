@@ -1,0 +1,20 @@
+
+clothing_cobra.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_cobra_clothing_cobra_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+clothing_cobra_clothing_cobra_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

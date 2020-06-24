@@ -1,0 +1,41 @@
+
+habbo20_c20_glitzytable.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+habbo20_c20_glitzytable_habbo20_c20_glitzytable_64_a_0_0.png
+  rotate: false
+  xy: 163, 97
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+habbo20_c20_glitzytable_habbo20_c20_glitzytable_64_b_0_0.png
+  rotate: false
+  xy: 71, 53
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+habbo20_c20_glitzytable_habbo20_c20_glitzytable_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 115
+  orig: 67, 115
+  offset: 0, 0
+  index: -1
+habbo20_c20_glitzytable_habbo20_c20_glitzytable_64_sd_0_0.png
+  rotate: false
+  xy: 71, 11
+  size: 90, 40
+  orig: 90, 40
+  offset: 0, 0
+  index: -1
+habbo20_c20_glitzytable_habbo20_c20_glitzytable_icon_a.png
+  rotate: false
+  xy: 163, 65
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

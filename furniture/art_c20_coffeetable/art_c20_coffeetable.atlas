@@ -1,0 +1,83 @@
+
+art_c20_coffeetable.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+art_c20_coffeetable_art_c20_coffeetable_64_a_4_0.png
+  rotate: false
+  xy: 359, 12
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+art_c20_coffeetable_art_c20_coffeetable_64_a_4_1.png
+  rotate: false
+  xy: 393, 9
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+art_c20_coffeetable_art_c20_coffeetable_64_a_4_2.png
+  rotate: false
+  xy: 325, 14
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+art_c20_coffeetable_art_c20_coffeetable_64_b_4_0.png
+  rotate: false
+  xy: 121, 6
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+art_c20_coffeetable_art_c20_coffeetable_64_b_4_1.png
+  rotate: false
+  xy: 80, 2
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+art_c20_coffeetable_art_c20_coffeetable_64_b_4_2.png
+  rotate: false
+  xy: 243, 14
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+art_c20_coffeetable_art_c20_coffeetable_64_c_4_0.png
+  rotate: false
+  xy: 161, 8
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+art_c20_coffeetable_art_c20_coffeetable_64_c_4_1.png
+  rotate: false
+  xy: 202, 10
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+art_c20_coffeetable_art_c20_coffeetable_64_c_4_2.png
+  rotate: false
+  xy: 284, 14
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+art_c20_coffeetable_art_c20_coffeetable_64_sd_4_0.png
+  rotate: false
+  xy: 2, 9
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+art_c20_coffeetable_art_c20_coffeetable_icon_a.png
+  rotate: false
+  xy: 427, 27
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

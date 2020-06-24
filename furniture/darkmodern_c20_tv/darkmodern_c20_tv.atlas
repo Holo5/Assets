@@ -1,0 +1,76 @@
+
+darkmodern_c20_tv.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+darkmodern_c20_tv_darkmodern_c20_tv_64_a_0_0.png
+  rotate: false
+  xy: 59, 62
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+darkmodern_c20_tv_darkmodern_c20_tv_64_b_0_0.png
+  rotate: false
+  xy: 110, 67
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
+darkmodern_c20_tv_darkmodern_c20_tv_64_b_0_1.png
+  rotate: false
+  xy: 152, 77
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+darkmodern_c20_tv_darkmodern_c20_tv_64_b_0_2.png
+  rotate: false
+  xy: 194, 77
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+darkmodern_c20_tv_darkmodern_c20_tv_64_b_0_3.png
+  rotate: false
+  xy: 110, 71
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+darkmodern_c20_tv_darkmodern_c20_tv_64_b_0_4.png
+  rotate: false
+  xy: 2, 5
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+darkmodern_c20_tv_darkmodern_c20_tv_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+darkmodern_c20_tv_darkmodern_c20_tv_64_c_0_1.png
+  rotate: false
+  xy: 2, 56
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+darkmodern_c20_tv_darkmodern_c20_tv_64_sd_0_0.png
+  rotate: false
+  xy: 59, 36
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+darkmodern_c20_tv_darkmodern_c20_tv_icon_a.png
+  rotate: false
+  xy: 44, 4
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

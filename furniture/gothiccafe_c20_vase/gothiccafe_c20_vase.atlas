@@ -1,0 +1,34 @@
+
+gothiccafe_c20_vase.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gothiccafe_c20_vase_gothiccafe_c20_vase_64_a_4_0.png
+  rotate: false
+  xy: 18, 2
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+gothiccafe_c20_vase_gothiccafe_c20_vase_64_a_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+gothiccafe_c20_vase_gothiccafe_c20_vase_64_sd_2_0.png
+  rotate: false
+  xy: 50, 24
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+gothiccafe_c20_vase_gothiccafe_c20_vase_icon_a.png
+  rotate: false
+  xy: 34, 2
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1

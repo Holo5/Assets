@@ -1,0 +1,41 @@
+
+india_c20_archway.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+india_c20_archway_india_c20_archway_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+india_c20_archway_india_c20_archway_64_b_4_0.png
+  rotate: false
+  xy: 53, 75
+  size: 50, 170
+  orig: 50, 170
+  offset: 0, 0
+  index: -1
+india_c20_archway_india_c20_archway_64_c_4_0.png
+  rotate: false
+  xy: 2, 61
+  size: 49, 184
+  orig: 49, 184
+  offset: 0, 0
+  index: -1
+india_c20_archway_india_c20_archway_64_sd_4_0.png
+  rotate: false
+  xy: 2, 13
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1
+india_c20_archway_india_c20_archway_icon_a.png
+  rotate: false
+  xy: 94, 43
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

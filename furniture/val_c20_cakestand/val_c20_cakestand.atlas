@@ -1,0 +1,27 @@
+
+val_c20_cakestand.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_c20_cakestand_val_c20_cakestand_64_a_0_0.png
+  rotate: false
+  xy: 2, 53
+  size: 55, 85
+  orig: 55, 85
+  offset: 0, 0
+  index: -1
+val_c20_cakestand_val_c20_cakestand_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+val_c20_cakestand_val_c20_cakestand_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

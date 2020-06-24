@@ -1,0 +1,111 @@
+
+rare_r20_throne.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_r20_throne_rare_r20_throne_64_a_0_0.png
+  rotate: false
+  xy: 136, 49
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_a_2_0.png
+  rotate: false
+  xy: 2, 39
+  size: 70, 87
+  orig: 70, 87
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_b_0_0.png
+  rotate: false
+  xy: 74, 56
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_b_2_0.png
+  rotate: false
+  xy: 146, 71
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_c_0_6.png
+  rotate: false
+  xy: 176, 74
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_c_0_7.png
+  rotate: false
+  xy: 176, 101
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_c_2_5.png
+  rotate: false
+  xy: 74, 2
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_c_2_8.png
+  rotate: false
+  xy: 74, 29
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_d_2_1.png
+  rotate: false
+  xy: 111, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_d_2_2.png
+  rotate: false
+  xy: 213, 103
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_d_2_3.png
+  rotate: false
+  xy: 146, 60
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_d_2_4.png
+  rotate: false
+  xy: 213, 110
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_d_2_5.png
+  rotate: false
+  xy: 111, 7
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+rare_r20_throne_rare_r20_throne_icon_a.png
+  rotate: false
+  xy: 111, 25
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1

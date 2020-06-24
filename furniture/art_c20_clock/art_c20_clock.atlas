@@ -1,0 +1,27 @@
+
+art_c20_clock.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+art_c20_clock_art_c20_clock_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 106
+  orig: 61, 106
+  offset: 0, 0
+  index: -1
+art_c20_clock_art_c20_clock_64_sd_4_0.png
+  rotate: false
+  xy: 65, 83
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+art_c20_clock_art_c20_clock_icon_a.png
+  rotate: false
+  xy: 65, 52
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1

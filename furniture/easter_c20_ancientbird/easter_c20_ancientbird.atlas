@@ -1,0 +1,27 @@
+
+easter_c20_ancientbird.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c20_ancientbird_easter_c20_ancientbird_64_a_4_0.png
+  rotate: false
+  xy: 2, 33
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+easter_c20_ancientbird_easter_c20_ancientbird_64_sd_4_0.png
+  rotate: false
+  xy: 24, 15
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+easter_c20_ancientbird_easter_c20_ancientbird_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1

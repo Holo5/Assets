@@ -1,0 +1,76 @@
+
+rare_blackrosegold_dragonlamp.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_blackrosegold_dragonlamp_rare_blackrosegold_dragonlamp_64_a_4_0.png
+  rotate: false
+  xy: 62, 64
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+rare_blackrosegold_dragonlamp_rare_blackrosegold_dragonlamp_64_b_4_0.png
+  rotate: false
+  xy: 2, 14
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+rare_blackrosegold_dragonlamp_rare_blackrosegold_dragonlamp_64_b_4_1.png
+  rotate: false
+  xy: 215, 79
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+rare_blackrosegold_dragonlamp_rare_blackrosegold_dragonlamp_64_c_4_0.png
+  rotate: false
+  xy: 148, 42
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+rare_blackrosegold_dragonlamp_rare_blackrosegold_dragonlamp_64_c_4_1.png
+  rotate: false
+  xy: 169, 48
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+rare_blackrosegold_dragonlamp_rare_blackrosegold_dragonlamp_64_c_4_2.png
+  rotate: false
+  xy: 124, 46
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+rare_blackrosegold_dragonlamp_rare_blackrosegold_dragonlamp_64_c_4_3.png
+  rotate: false
+  xy: 39, 2
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+rare_blackrosegold_dragonlamp_rare_blackrosegold_dragonlamp_64_d_4_0.png
+  rotate: false
+  xy: 2, 43
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+rare_blackrosegold_dragonlamp_rare_blackrosegold_dragonlamp_64_sd_4_0.png
+  rotate: false
+  xy: 124, 85
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+rare_blackrosegold_dragonlamp_rare_blackrosegold_dragonlamp_icon_a.png
+  rotate: false
+  xy: 186, 85
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

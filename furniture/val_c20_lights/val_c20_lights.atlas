@@ -1,0 +1,48 @@
+
+val_c20_lights.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_c20_lights_val_c20_lights_64_a_0_0.png
+  rotate: false
+  xy: 168, 6
+  size: 61, 113
+  orig: 61, 113
+  offset: 0, 0
+  index: -1
+val_c20_lights_val_c20_lights_64_a_0_1.png
+  rotate: false
+  xy: 105, 6
+  size: 61, 113
+  orig: 61, 113
+  offset: 0, 0
+  index: -1
+val_c20_lights_val_c20_lights_64_b_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+val_c20_lights_val_c20_lights_64_c_0_1.png
+  rotate: false
+  xy: 2, 36
+  size: 101, 83
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+val_c20_lights_val_c20_lights_64_sd_0_0.png
+  rotate: false
+  xy: 231, 96
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+val_c20_lights_val_c20_lights_icon_a.png
+  rotate: false
+  xy: 65, 4
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

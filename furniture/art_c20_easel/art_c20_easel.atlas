@@ -1,0 +1,181 @@
+
+art_c20_easel.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+art_c20_easel_art_c20_easel_64_a_0_1.png
+  rotate: false
+  xy: 402, 40
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_0_4.png
+  rotate: false
+  xy: 441, 40
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_1_0.png
+  rotate: false
+  xy: 762, 43
+  size: 25, 66
+  orig: 25, 66
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_1_4.png
+  rotate: false
+  xy: 816, 43
+  size: 25, 66
+  orig: 25, 66
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_2_0.png
+  rotate: false
+  xy: 42, 34
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_2_1.png
+  rotate: false
+  xy: 2, 34
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_2_2.png
+  rotate: false
+  xy: 202, 34
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_2_3.png
+  rotate: false
+  xy: 122, 34
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_2_4.png
+  rotate: false
+  xy: 322, 34
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_3_0.png
+  rotate: false
+  xy: 558, 35
+  size: 32, 74
+  orig: 32, 74
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_3_1.png
+  rotate: false
+  xy: 626, 35
+  size: 32, 74
+  orig: 32, 74
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_3_2.png
+  rotate: false
+  xy: 592, 35
+  size: 32, 74
+  orig: 32, 74
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_3_3.png
+  rotate: false
+  xy: 694, 35
+  size: 32, 74
+  orig: 32, 74
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_3_4.png
+  rotate: false
+  xy: 660, 35
+  size: 32, 74
+  orig: 32, 74
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_4_0.png
+  rotate: false
+  xy: 162, 34
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_4_1.png
+  rotate: false
+  xy: 82, 34
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_4_2.png
+  rotate: false
+  xy: 282, 34
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_4_3.png
+  rotate: false
+  xy: 242, 34
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_4_4.png
+  rotate: false
+  xy: 362, 34
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_5_0.png
+  rotate: false
+  xy: 789, 43
+  size: 25, 66
+  orig: 25, 66
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_5_4.png
+  rotate: false
+  xy: 843, 43
+  size: 25, 66
+  orig: 25, 66
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_6_1.png
+  rotate: false
+  xy: 480, 40
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_6_4.png
+  rotate: false
+  xy: 519, 40
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_64_a_7_0.png
+  rotate: false
+  xy: 728, 39
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+art_c20_easel_art_c20_easel_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

@@ -4,6 +4,20 @@ size: 64,1024
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+xmas_c16_pillarlight_xmas_c16_pillarlight_32_d_4_0.png
+  rotate: false
+  xy: 49, 492
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c16_pillarlight_xmas_c16_pillarlight_32_d_4_0.png
+  rotate: false
+  xy: 53, 728
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 xmas_c16_pillarlight_xmas_c16_pillarlight_64_a_4_0.png
   rotate: false
   xy: 2, 495
@@ -51,13 +65,6 @@ xmas_c16_pillarlight_xmas_c16_pillarlight_64_c_4_5.png
   xy: 2, 97
   size: 21, 26
   orig: 21, 26
-  offset: 0, 0
-  index: -1
-xmas_c16_pillarlight_xmas_c16_pillarlight_64_d_4_0.png
-  rotate: false
-  xy: 49, 492
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 xmas_c16_pillarlight_xmas_c16_pillarlight_64_d_4_1.png

@@ -1,0 +1,27 @@
+
+rare_r20_treehouse.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_r20_treehouse_rare_r20_treehouse_64_a_0_0.png
+  rotate: false
+  xy: 2, 28
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1
+rare_r20_treehouse_rare_r20_treehouse_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+rare_r20_treehouse_rare_r20_treehouse_icon_a.png
+  rotate: false
+  xy: 95, 128
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

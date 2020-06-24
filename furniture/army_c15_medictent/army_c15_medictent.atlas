@@ -27,7 +27,7 @@ army_c15_medictent_army_c15_medictent_64_a_2_5.png
   index: -1
 army_c15_medictent_army_c15_medictent_64_b_2_3.png
   rotate: false
-  xy: 2522, 221
+  xy: 2718, 221
   size: 128, 33
   orig: 128, 33
   offset: 0, 0
@@ -41,7 +41,7 @@ army_c15_medictent_army_c15_medictent_64_b_2_4.png
   index: -1
 army_c15_medictent_army_c15_medictent_64_b_2_5.png
   rotate: false
-  xy: 2522, 186
+  xy: 2718, 186
   size: 128, 33
   orig: 128, 33
   offset: 0, 0
@@ -56,6 +56,13 @@ army_c15_medictent_army_c15_medictent_64_c_2_0.png
 army_c15_medictent_army_c15_medictent_64_c_2_1.png
   rotate: false
   xy: 1362, 120
+  size: 194, 134
+  orig: 194, 134
+  offset: 0, 0
+  index: -1
+army_c15_medictent_army_c15_medictent_64_c_2_2.png
+  rotate: false
+  xy: 1754, 120
   size: 194, 134
   orig: 194, 134
   offset: 0, 0
@@ -132,135 +139,114 @@ army_c15_medictent_army_c15_medictent_64_e_2_2.png
   index: -1
 army_c15_medictent_army_c15_medictent_64_e_2_3.png
   rotate: false
-  xy: 1754, 106
+  xy: 1950, 106
   size: 126, 148
   orig: 126, 148
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_e_2_4.png
   rotate: false
-  xy: 2010, 106
+  xy: 2206, 106
   size: 126, 148
   orig: 126, 148
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_e_2_5.png
   rotate: false
-  xy: 1882, 106
+  xy: 2078, 106
   size: 126, 148
   orig: 126, 148
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_f_2_0.png
   rotate: false
-  xy: 2458, 107
+  xy: 2654, 107
   size: 62, 147
   orig: 62, 147
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_f_2_1.png
   rotate: false
-  xy: 2330, 107
+  xy: 2526, 107
   size: 62, 147
   orig: 62, 147
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_f_2_2.png
   rotate: false
-  xy: 2394, 107
+  xy: 2590, 107
   size: 62, 147
   orig: 62, 147
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_f_2_3.png
   rotate: false
-  xy: 2202, 107
+  xy: 2398, 107
   size: 62, 147
   orig: 62, 147
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_f_2_4.png
   rotate: false
-  xy: 2266, 107
+  xy: 2462, 107
   size: 62, 147
   orig: 62, 147
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_f_2_5.png
   rotate: false
-  xy: 2138, 107
+  xy: 2334, 107
   size: 62, 147
   orig: 62, 147
   offset: 0, 0
   index: -1
-army_c15_medictent_army_c15_medictent_64_g_2_0.png
-  rotate: false
-  xy: 1166, 117
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 army_c15_medictent_army_c15_medictent_64_g_2_3.png
   rotate: false
-  xy: 2696, 212
+  xy: 2762, 142
   size: 42, 42
   orig: 42, 42
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_g_2_4.png
   rotate: false
-  xy: 2652, 212
+  xy: 2718, 142
   size: 42, 42
   orig: 42, 42
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_g_2_5.png
   rotate: false
-  xy: 2554, 142
+  xy: 2873, 212
   size: 42, 42
   orig: 42, 42
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_h_2_0.png
   rotate: false
-  xy: 1132, 44
-  size: 7, 71
-  orig: 7, 71
-  offset: 0, 0
-  index: -1
-army_c15_medictent_army_c15_medictent_64_h_2_1.png
-  rotate: false
-  xy: 1150, 44
-  size: 7, 71
-  orig: 7, 71
-  offset: 0, 0
-  index: -1
-army_c15_medictent_army_c15_medictent_64_h_2_2.png
-  rotate: false
-  xy: 1141, 44
-  size: 7, 71
-  orig: 7, 71
+  xy: 1166, 117
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_h_2_3.png
   rotate: false
-  xy: 1100, 44
-  size: 30, 71
-  orig: 30, 71
+  xy: 1100, 50
+  size: 24, 65
+  orig: 24, 65
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_h_2_4.png
   rotate: false
-  xy: 940, 183
-  size: 30, 71
-  orig: 30, 71
+  xy: 940, 189
+  size: 24, 65
+  orig: 24, 65
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_h_2_5.png
   rotate: false
-  xy: 2522, 113
-  size: 30, 71
-  orig: 30, 71
+  xy: 2848, 189
+  size: 23, 65
+  orig: 23, 65
   offset: 0, 0
   index: -1
 army_c15_medictent_army_c15_medictent_64_sd_2_0.png

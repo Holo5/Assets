@@ -1,0 +1,41 @@
+
+habbo20_c20_artdecobackdrop.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+habbo20_c20_artdecobackdrop_habbo20_c20_artdecobackdrop_64_a_4_0.png
+  rotate: false
+  xy: 42, 4
+  size: 35, 117
+  orig: 35, 117
+  offset: 0, 0
+  index: -1
+habbo20_c20_artdecobackdrop_habbo20_c20_artdecobackdrop_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 119
+  orig: 38, 119
+  offset: 0, 0
+  index: -1
+habbo20_c20_artdecobackdrop_habbo20_c20_artdecobackdrop_64_c_4_0.png
+  rotate: false
+  xy: 79, 54
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+habbo20_c20_artdecobackdrop_habbo20_c20_artdecobackdrop_64_sd_4_0.png
+  rotate: false
+  xy: 139, 84
+  size: 72, 37
+  orig: 72, 37
+  offset: 0, 0
+  index: -1
+habbo20_c20_artdecobackdrop_habbo20_c20_artdecobackdrop_icon_a.png
+  rotate: false
+  xy: 79, 22
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

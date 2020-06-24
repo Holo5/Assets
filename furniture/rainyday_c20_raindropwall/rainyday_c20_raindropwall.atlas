@@ -1,0 +1,55 @@
+
+rainyday_c20_raindropwall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainyday_c20_raindropwall_rainyday_c20_raindropwall_64_a_0_0.png
+  rotate: false
+  xy: 272, 70
+  size: 35, 144
+  orig: 35, 144
+  offset: 0, 0
+  index: -1
+rainyday_c20_raindropwall_rainyday_c20_raindropwall_64_b_0_0.png
+  rotate: false
+  xy: 140, 54
+  size: 64, 160
+  orig: 64, 160
+  offset: 0, 0
+  index: -1
+rainyday_c20_raindropwall_rainyday_c20_raindropwall_64_b_0_1.png
+  rotate: false
+  xy: 206, 54
+  size: 64, 160
+  orig: 64, 160
+  offset: 0, 0
+  index: -1
+rainyday_c20_raindropwall_rainyday_c20_raindropwall_64_c_0_0.png
+  rotate: false
+  xy: 2, 53
+  size: 67, 161
+  orig: 67, 161
+  offset: 0, 0
+  index: -1
+rainyday_c20_raindropwall_rainyday_c20_raindropwall_64_c_0_1.png
+  rotate: false
+  xy: 71, 53
+  size: 67, 161
+  orig: 67, 161
+  offset: 0, 0
+  index: -1
+rainyday_c20_raindropwall_rainyday_c20_raindropwall_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+rainyday_c20_raindropwall_rainyday_c20_raindropwall_icon_a.png
+  rotate: false
+  xy: 309, 184
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
