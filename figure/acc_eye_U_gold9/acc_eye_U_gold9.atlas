@@ -4,7 +4,7 @@ size: 128,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_eye_U_gold9_h_lsp_ea_3292_2_0.png
+acc_eye_U_gold9_h_lay_ea_3292_2_0.png
   rotate: false
   xy: 50, 8
   size: 20, 19
@@ -18,18 +18,18 @@ acc_eye_U_gold9_h_spk_ea_3292_0_0.png
   orig: 11, 16
   offset: 0, 0
   index: -1
-acc_eye_U_gold9_h_spk_ea_3292_2_0.png
-  rotate: false
-  xy: 27, 6
-  size: 21, 21
-  orig: 21, 21
-  offset: 0, 0
-  index: -1
-acc_eye_U_gold9_h_std_ea_3292_1_0.png
+acc_eye_U_gold9_h_spk_ea_3292_1_0.png
   rotate: false
   xy: 72, 8
   size: 18, 19
   orig: 18, 19
+  offset: 0, 0
+  index: -1
+acc_eye_U_gold9_h_std_ea_3292_2_0.png
+  rotate: false
+  xy: 27, 6
+  size: 21, 21
+  orig: 21, 21
   offset: 0, 0
   index: -1
 acc_eye_U_gold9_h_std_ea_3292_3_0.png

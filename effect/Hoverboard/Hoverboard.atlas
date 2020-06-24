@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 Hoverboard_h_std_fx2_1_1_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 62, 2
   size: 48, 28
   orig: 48, 28
   offset: 0, 0
   index: -1
 Hoverboard_h_std_fx2_1_1_1_0.png
   rotate: false
-  xy: 237, 40
+  xy: 2, 3
   size: 53, 22
   orig: 53, 22
   offset: 0, 0
@@ -27,14 +27,14 @@ Hoverboard_h_std_fx2_1_1_2_0.png
   index: -1
 Hoverboard_h_std_fx2_1_1_3_0.png
   rotate: false
-  xy: 360, 21
+  xy: 276, 21
   size: 27, 41
   orig: 27, 41
   offset: 0, 0
   index: -1
 Hoverboard_h_std_fx2_1_1_7_0.png
   rotate: false
-  xy: 331, 21
+  xy: 305, 21
   size: 27, 41
   orig: 27, 41
   offset: 0, 0
@@ -48,21 +48,21 @@ Hoverboard_h_std_fx2_2_1_0_0.png
   index: -1
 Hoverboard_h_std_fx2_2_1_1_0.png
   rotate: false
-  xy: 2, 32
+  xy: 62, 32
   size: 63, 30
   orig: 63, 30
   offset: 0, 0
   index: -1
 Hoverboard_h_std_fx2_2_1_2_0.png
   rotate: false
-  xy: 67, 27
+  xy: 2, 27
   size: 58, 35
   orig: 58, 35
   offset: 0, 0
   index: -1
 Hoverboard_h_std_fx2_2_1_3_0.png
   rotate: false
-  xy: 292, 13
+  xy: 237, 13
   size: 37, 49
   orig: 37, 49
   offset: 0, 0

@@ -6,49 +6,49 @@ filter: Nearest,Nearest
 repeat: none
 KungfuPanda_h_std_fx70_1_1_0_0.png
   rotate: false
-  xy: 82, 2
+  xy: 122, 2
   size: 38, 43
   orig: 38, 43
   offset: 0, 0
   index: -1
 KungfuPanda_h_std_fx70_1_1_1_0.png
   rotate: false
-  xy: 122, 2
+  xy: 282, 2
   size: 38, 43
   orig: 38, 43
   offset: 0, 0
   index: -1
 KungfuPanda_h_std_fx70_1_1_2_0.png
   rotate: false
-  xy: 202, 2
+  xy: 242, 2
   size: 38, 43
   orig: 38, 43
   offset: 0, 0
   index: -1
 KungfuPanda_h_std_fx70_1_1_3_0.png
   rotate: false
-  xy: 242, 2
+  xy: 202, 2
   size: 38, 43
   orig: 38, 43
   offset: 0, 0
   index: -1
 KungfuPanda_h_std_fx70_1_1_4_0.png
   rotate: false
-  xy: 42, 2
+  xy: 162, 2
   size: 38, 43
   orig: 38, 43
   offset: 0, 0
   index: -1
 KungfuPanda_h_std_fx70_1_1_5_0.png
   rotate: false
-  xy: 162, 2
+  xy: 82, 2
   size: 38, 43
   orig: 38, 43
   offset: 0, 0
   index: -1
 KungfuPanda_h_std_fx70_1_1_6_0.png
   rotate: false
-  xy: 282, 2
+  xy: 42, 2
   size: 38, 43
   orig: 38, 43
   offset: 0, 0

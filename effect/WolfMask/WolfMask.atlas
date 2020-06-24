@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 WolfMask_h_std_fx87_1_1_0_0.png
   rotate: false
-  xy: 39, 78
+  xy: 2, 2
   size: 33, 35
   orig: 33, 35
   offset: 0, 0
@@ -20,7 +20,7 @@ WolfMask_h_std_fx87_1_1_1_0.png
   index: -1
 WolfMask_h_std_fx87_1_1_2_0.png
   rotate: false
-  xy: 71, 42
+  xy: 37, 3
   size: 29, 34
   orig: 29, 34
   offset: 0, 0
@@ -34,7 +34,7 @@ WolfMask_h_std_fx87_1_1_3_0.png
   index: -1
 WolfMask_h_std_fx87_1_1_4_0.png
   rotate: false
-  xy: 37, 3
+  xy: 71, 42
   size: 29, 34
   orig: 29, 34
   offset: 0, 0
@@ -48,7 +48,7 @@ WolfMask_h_std_fx87_1_1_5_0.png
   index: -1
 WolfMask_h_std_fx87_1_1_6_0.png
   rotate: false
-  xy: 2, 2
+  xy: 39, 78
   size: 33, 35
   orig: 33, 35
   offset: 0, 0

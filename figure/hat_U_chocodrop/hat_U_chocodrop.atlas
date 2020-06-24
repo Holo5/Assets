@@ -18,16 +18,37 @@ hat_U_chocodrop_h_lsp_ha_2689_2_0.png
   orig: 11, 25
   offset: 0, 0
   index: -1
+hat_U_chocodrop_h_spk_ha_2688_0_0.png
+  rotate: false
+  xy: 2, 41
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+hat_U_chocodrop_h_spk_ha_2688_1_0.png
+  rotate: false
+  xy: 39, 43
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+hat_U_chocodrop_h_spk_ha_2688_2_0.png
+  rotate: false
+  xy: 2, 16
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
 hat_U_chocodrop_h_spk_ha_2688_3_0.png
   rotate: false
-  xy: 106, 43
+  xy: 76, 43
   size: 28, 19
   orig: 28, 19
   offset: 0, 0
   index: -1
 hat_U_chocodrop_h_spk_ha_2688_7_0.png
   rotate: false
-  xy: 76, 42
+  xy: 106, 42
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
@@ -46,35 +67,7 @@ hat_U_chocodrop_h_spk_ha_2689_1_0.png
   orig: 29, 15
   offset: 0, 0
   index: -1
-hat_U_chocodrop_h_spk_ha_2689_7_0.png
-  rotate: false
-  xy: 2, 2
-  size: 29, 12
-  orig: 29, 12
-  offset: 0, 0
-  index: -1
-hat_U_chocodrop_h_std_ha_2688_0_0.png
-  rotate: false
-  xy: 2, 41
-  size: 35, 21
-  orig: 35, 21
-  offset: 0, 0
-  index: -1
-hat_U_chocodrop_h_std_ha_2688_1_0.png
-  rotate: false
-  xy: 39, 43
-  size: 35, 19
-  orig: 35, 19
-  offset: 0, 0
-  index: -1
-hat_U_chocodrop_h_std_ha_2688_2_0.png
-  rotate: false
-  xy: 2, 16
-  size: 33, 23
-  orig: 33, 23
-  offset: 0, 0
-  index: -1
-hat_U_chocodrop_h_std_ha_2689_2_0.png
+hat_U_chocodrop_h_spk_ha_2689_2_0.png
   rotate: false
   xy: 136, 48
   size: 30, 14
@@ -86,5 +79,12 @@ hat_U_chocodrop_h_std_ha_2689_3_0.png
   xy: 136, 35
   size: 29, 11
   orig: 29, 11
+  offset: 0, 0
+  index: -1
+hat_U_chocodrop_h_std_ha_2689_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 12
+  orig: 29, 12
   offset: 0, 0
   index: -1

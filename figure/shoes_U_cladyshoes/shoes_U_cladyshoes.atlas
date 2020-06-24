@@ -4,58 +4,58 @@ size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shoes_U_cladyshoes_h_lay_sh_2805_2_0.png
-  rotate: false
-  xy: 222, 10
-  size: 23, 20
-  orig: 23, 20
-  offset: 0, 0
-  index: -1
-shoes_U_cladyshoes_h_lay_sh_2805_2_0.png
-  rotate: false
-  xy: 247, 10
-  size: 23, 20
-  orig: 23, 20
-  offset: 0, 0
-  index: -1
 shoes_U_cladyshoes_h_sit_sh_2805_0_0.png
   rotate: false
-  xy: 666, 10
+  xy: 603, 10
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
   index: -1
+shoes_U_cladyshoes_h_sit_sh_2805_2_0.png
+  rotate: false
+  xy: 221, 10
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+shoes_U_cladyshoes_h_sit_sh_2805_2_0.png
+  rotate: false
+  xy: 246, 10
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
 shoes_U_cladyshoes_h_std_sh_2805_0_0.png
   rotate: false
-  xy: 296, 13
+  xy: 169, 13
   size: 24, 17
   orig: 24, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_std_sh_2805_1_0.png
   rotate: false
-  xy: 625, 15
+  xy: 623, 15
   size: 19, 15
   orig: 19, 15
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_std_sh_2805_2_0.png
   rotate: false
-  xy: 272, 11
+  xy: 271, 11
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_std_sh_2805_3_0.png
   rotate: false
-  xy: 373, 15
+  xy: 396, 15
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_std_sh_2805_7_0.png
   rotate: false
-  xy: 580, 15
+  xy: 373, 15
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
@@ -76,7 +76,7 @@ shoes_U_cladyshoes_h_wlk_sh_2805_0_1.png
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_0_2.png
   rotate: false
-  xy: 196, 12
+  xy: 195, 12
   size: 24, 18
   orig: 24, 18
   offset: 0, 0
@@ -90,7 +90,7 @@ shoes_U_cladyshoes_h_wlk_sh_2805_0_3.png
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_1_0.png
   rotate: false
-  xy: 603, 16
+  xy: 644, 16
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
@@ -118,7 +118,7 @@ shoes_U_cladyshoes_h_wlk_sh_2805_1_3.png
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_2_0.png
   rotate: false
-  xy: 169, 14
+  xy: 295, 14
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
@@ -132,7 +132,7 @@ shoes_U_cladyshoes_h_wlk_sh_2805_2_1.png
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_2_2.png
   rotate: false
-  xy: 646, 14
+  xy: 666, 14
   size: 18, 16
   orig: 18, 16
   offset: 0, 0
@@ -146,56 +146,56 @@ shoes_U_cladyshoes_h_wlk_sh_2805_2_3.png
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_3_0.png
   rotate: false
-  xy: 396, 13
+  xy: 419, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_3_1.png
   rotate: false
-  xy: 465, 13
+  xy: 511, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_3_2.png
   rotate: false
-  xy: 442, 13
+  xy: 488, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_3_3.png
   rotate: false
-  xy: 419, 13
+  xy: 465, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_7_0.png
   rotate: false
-  xy: 557, 13
+  xy: 442, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_7_1.png
   rotate: false
-  xy: 511, 12
+  xy: 557, 12
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_7_2.png
   rotate: false
-  xy: 534, 13
+  xy: 580, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_cladyshoes_h_wlk_sh_2805_7_3.png
   rotate: false
-  xy: 488, 12
+  xy: 534, 12
   size: 21, 18
   orig: 21, 18
   offset: 0, 0

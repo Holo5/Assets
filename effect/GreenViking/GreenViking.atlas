@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 GreenViking_h_std_fx173_1_1_0_0.png
   rotate: false
-  xy: 382, 43
+  xy: 2, 2
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
 GreenViking_h_std_fx173_1_1_1_0.png
   rotate: false
-  xy: 369, 25
+  xy: 356, 25
   size: 11, 36
   orig: 11, 36
   offset: 0, 0
@@ -41,21 +41,21 @@ GreenViking_h_std_fx173_1_1_4_0.png
   index: -1
 GreenViking_h_std_fx173_1_1_5_0.png
   rotate: false
-  xy: 356, 25
+  xy: 369, 25
   size: 11, 36
   orig: 11, 36
   offset: 0, 0
   index: -1
 GreenViking_h_std_fx173_1_1_6_0.png
   rotate: false
-  xy: 2, 2
+  xy: 382, 43
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
 GreenViking_h_std_fx173_2_1_0_0.png
   rotate: false
-  xy: 269, 18
+  xy: 234, 18
   size: 33, 43
   orig: 33, 43
   offset: 0, 0
@@ -69,7 +69,7 @@ GreenViking_h_std_fx173_2_1_1_0.png
   index: -1
 GreenViking_h_std_fx173_2_1_2_0.png
   rotate: false
-  xy: 199, 17
+  xy: 129, 17
   size: 33, 44
   orig: 33, 44
   offset: 0, 0
@@ -83,21 +83,21 @@ GreenViking_h_std_fx173_2_1_3_0.png
   index: -1
 GreenViking_h_std_fx173_2_1_4_0.png
   rotate: false
-  xy: 164, 17
+  xy: 199, 17
   size: 33, 44
   orig: 33, 44
   offset: 0, 0
   index: -1
 GreenViking_h_std_fx173_2_1_5_0.png
   rotate: false
-  xy: 129, 17
+  xy: 164, 17
   size: 33, 44
   orig: 33, 44
   offset: 0, 0
   index: -1
 GreenViking_h_std_fx173_2_1_6_0.png
   rotate: false
-  xy: 234, 18
+  xy: 269, 18
   size: 33, 43
   orig: 33, 43
   offset: 0, 0

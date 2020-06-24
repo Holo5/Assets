@@ -13,63 +13,63 @@ shoes_U_dino_h_lay_sh_2767_2_0.png
   index: -1
 shoes_U_dino_h_lay_sh_2768_2_0.png
   rotate: false
-  xy: 655, 19
+  xy: 625, 19
   size: 16, 11
   orig: 16, 11
   offset: 0, 0
   index: -1
 shoes_U_dino_h_sit_sh_2767_0_0.png
   rotate: false
-  xy: 291, 2
+  xy: 318, 2
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
   index: -1
 shoes_U_dino_h_sit_sh_2767_2_0.png
   rotate: false
-  xy: 163, 12
+  xy: 217, 12
   size: 25, 18
   orig: 25, 18
   offset: 0, 0
   index: -1
 shoes_U_dino_h_sit_sh_2768_0_0.png
   rotate: false
-  xy: 394, 2
+  xy: 643, 19
   size: 16, 11
   orig: 16, 11
   offset: 0, 0
   index: -1
 shoes_U_dino_h_sit_sh_2768_2_0.png
   rotate: false
-  xy: 434, 3
+  xy: 661, 19
   size: 16, 11
   orig: 16, 11
   offset: 0, 0
   index: -1
 shoes_U_dino_h_std_sh_2767_0_0.png
   rotate: false
-  xy: 244, 2
+  xy: 271, 2
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 shoes_U_dino_h_std_sh_2767_1_0.png
   rotate: false
-  xy: 375, 2
+  xy: 606, 19
   size: 17, 11
   orig: 17, 11
   offset: 0, 0
   index: -1
 shoes_U_dino_h_std_sh_2767_2_0.png
   rotate: false
-  xy: 384, 15
+  xy: 359, 7
   size: 22, 15
   orig: 22, 15
   offset: 0, 0
   index: -1
 shoes_U_dino_h_std_sh_2767_3_0.png
   rotate: false
-  xy: 217, 2
+  xy: 155, 2
   size: 23, 9
   orig: 23, 9
   offset: 0, 0
@@ -83,14 +83,14 @@ shoes_U_dino_h_std_sh_2767_7_0.png
   index: -1
 shoes_U_dino_h_std_sh_2768_0_0.png
   rotate: false
-  xy: 207, 3
+  xy: 731, 23
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shoes_U_dino_h_std_sh_2768_1_0.png
   rotate: false
-  xy: 282, 20
+  xy: 309, 20
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
@@ -104,14 +104,14 @@ shoes_U_dino_h_std_sh_2768_2_0.png
   index: -1
 shoes_U_dino_h_std_sh_2768_3_0.png
   rotate: false
-  xy: 562, 24
+  xy: 358, 24
   size: 23, 6
   orig: 23, 6
   offset: 0, 0
   index: -1
 shoes_U_dino_h_std_sh_2768_7_0.png
   rotate: false
-  xy: 275, 26
+  xy: 302, 26
   size: 27, 4
   orig: 27, 4
   offset: 0, 0
@@ -125,21 +125,21 @@ shoes_U_dino_h_wlk_sh_2767_0_0.png
   index: -1
 shoes_U_dino_h_wlk_sh_2767_0_1.png
   rotate: false
-  xy: 44, 16
+  xy: 2, 16
   size: 40, 14
   orig: 40, 14
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2767_0_2.png
   rotate: false
-  xy: 217, 13
+  xy: 163, 13
   size: 25, 17
   orig: 25, 17
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2767_0_3.png
   rotate: false
-  xy: 359, 16
+  xy: 383, 16
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
@@ -167,28 +167,28 @@ shoes_U_dino_h_wlk_sh_2767_1_2.png
   index: -1
 shoes_U_dino_h_wlk_sh_2767_1_3.png
   rotate: false
-  xy: 2, 16
+  xy: 44, 16
   size: 40, 14
   orig: 40, 14
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2767_2_0.png
   rotate: false
-  xy: 332, 16
+  xy: 244, 16
   size: 25, 14
   orig: 25, 14
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2767_2_1.png
   rotate: false
-  xy: 332, 2
+  xy: 254, 2
   size: 14, 12
   orig: 14, 12
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2767_2_2.png
   rotate: false
-  xy: 269, 2
+  xy: 296, 2
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
@@ -209,35 +209,35 @@ shoes_U_dino_h_wlk_sh_2767_3_0.png
   index: -1
 shoes_U_dino_h_wlk_sh_2767_3_1.png
   rotate: false
-  xy: 518, 17
+  xy: 497, 17
   size: 20, 13
   orig: 20, 13
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2767_3_2.png
   rotate: false
-  xy: 56, 2
+  xy: 34, 2
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2767_3_3.png
   rotate: false
-  xy: 34, 2
+  xy: 56, 2
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2767_7_0.png
   rotate: false
-  xy: 497, 16
+  xy: 519, 16
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2767_7_1.png
   rotate: false
-  xy: 311, 6
+  xy: 338, 6
   size: 19, 16
   orig: 19, 16
   offset: 0, 0
@@ -258,7 +258,7 @@ shoes_U_dino_h_wlk_sh_2767_7_3.png
   index: -1
 shoes_U_dino_h_wlk_sh_2768_0_0.png
   rotate: false
-  xy: 688, 16
+  xy: 359, 2
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
@@ -272,42 +272,42 @@ shoes_U_dino_h_wlk_sh_2768_0_1.png
   index: -1
 shoes_U_dino_h_wlk_sh_2768_0_2.png
   rotate: false
-  xy: 727, 23
+  xy: 720, 23
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_0_3.png
   rotate: false
-  xy: 673, 15
+  xy: 679, 15
   size: 13, 15
   orig: 13, 15
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_1_0.png
   rotate: false
-  xy: 702, 25
+  xy: 410, 9
   size: 11, 5
   orig: 11, 5
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_1_1.png
   rotate: false
-  xy: 155, 2
+  xy: 180, 2
   size: 28, 8
   orig: 28, 8
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_1_2.png
   rotate: false
-  xy: 275, 20
+  xy: 302, 20
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_1_3.png
   rotate: false
-  xy: 244, 20
+  xy: 271, 20
   size: 29, 10
   orig: 29, 10
   offset: 0, 0
@@ -321,14 +321,14 @@ shoes_U_dino_h_wlk_sh_2768_2_0.png
   index: -1
 shoes_U_dino_h_wlk_sh_2768_2_1.png
   rotate: false
-  xy: 715, 24
+  xy: 708, 24
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_2_2.png
   rotate: false
-  xy: 688, 21
+  xy: 694, 21
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
@@ -342,56 +342,56 @@ shoes_U_dino_h_wlk_sh_2768_2_3.png
   index: -1
 shoes_U_dino_h_wlk_sh_2768_3_0.png
   rotate: false
-  xy: 185, 2
+  xy: 210, 2
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_3_1.png
   rotate: false
-  xy: 412, 6
+  xy: 232, 2
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_3_2.png
   rotate: false
-  xy: 633, 23
+  xy: 562, 23
   size: 20, 7
   orig: 20, 7
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_3_3.png
   rotate: false
-  xy: 611, 23
+  xy: 584, 23
   size: 20, 7
   orig: 20, 7
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_7_0.png
   rotate: false
-  xy: 348, 9
+  xy: 383, 9
   size: 25, 5
   orig: 25, 5
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_7_1.png
   rotate: false
-  xy: 587, 25
+  xy: 407, 2
   size: 22, 5
   orig: 22, 5
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_7_2.png
   rotate: false
-  xy: 304, 24
+  xy: 331, 24
   size: 25, 6
   orig: 25, 6
   offset: 0, 0
   index: -1
 shoes_U_dino_h_wlk_sh_2768_7_3.png
   rotate: false
-  xy: 348, 2
+  xy: 383, 2
   size: 22, 5
   orig: 22, 5
   offset: 0, 0

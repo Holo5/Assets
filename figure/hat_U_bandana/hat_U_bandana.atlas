@@ -6,35 +6,35 @@ filter: Nearest,Nearest
 repeat: none
 hat_U_bandana_h_lay_ha_2185_2_0.png
   rotate: false
-  xy: 295, 35
+  xy: 384, 35
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
   index: -1
 hat_U_bandana_h_lay_ha_2186_2_0.png
   rotate: false
-  xy: 420, 42
+  xy: 408, 42
   size: 15, 20
   orig: 15, 20
   offset: 0, 0
   index: -1
 hat_U_bandana_h_lsp_ha_2185_2_0.png
   rotate: false
-  xy: 271, 35
+  xy: 201, 4
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
   index: -1
 hat_U_bandana_h_lsp_ha_2186_2_0.png
   rotate: false
-  xy: 403, 42
+  xy: 225, 11
   size: 15, 20
   orig: 15, 20
   offset: 0, 0
   index: -1
 hat_U_bandana_h_spk_ha_2185_0_0.png
   rotate: false
-  xy: 109, 29
+  xy: 2, 29
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
@@ -48,28 +48,35 @@ hat_U_bandana_h_spk_ha_2185_1_0.png
   index: -1
 hat_U_bandana_h_spk_ha_2185_2_0.png
   rotate: false
-  xy: 2, 30
+  xy: 37, 30
   size: 34, 32
   orig: 34, 32
   offset: 0, 0
   index: -1
 hat_U_bandana_h_spk_ha_2185_3_0.png
   rotate: false
-  xy: 319, 42
+  xy: 300, 42
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
   index: -1
+hat_U_bandana_h_spk_ha_2185_7_0.png
+  rotate: false
+  xy: 243, 29
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
 hat_U_bandana_h_spk_ha_2186_0_0.png
   rotate: false
-  xy: 201, 2
+  xy: 214, 33
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
   index: -1
 hat_U_bandana_h_spk_ha_2186_1_0.png
   rotate: false
-  xy: 214, 39
+  xy: 271, 39
   size: 27, 23
   orig: 27, 23
   offset: 0, 0
@@ -81,9 +88,23 @@ hat_U_bandana_h_spk_ha_2186_2_0.png
   orig: 26, 28
   offset: 0, 0
   index: -1
+hat_U_bandana_h_spk_ha_2186_3_0.png
+  rotate: false
+  xy: 330, 44
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+hat_U_bandana_h_spk_ha_2186_7_0.png
+  rotate: false
+  xy: 358, 44
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
 hat_U_bandana_h_std_ha_2185_0_0.png
   rotate: false
-  xy: 74, 30
+  xy: 73, 30
   size: 33, 32
   orig: 33, 32
   offset: 0, 0
@@ -97,16 +118,9 @@ hat_U_bandana_h_std_ha_2185_1_0.png
   index: -1
 hat_U_bandana_h_std_ha_2185_2_0.png
   rotate: false
-  xy: 38, 31
+  xy: 108, 31
   size: 34, 31
   orig: 34, 31
-  offset: 0, 0
-  index: -1
-hat_U_bandana_h_std_ha_2185_7_0.png
-  rotate: false
-  xy: 243, 29
-  size: 26, 33
-  orig: 26, 33
   offset: 0, 0
   index: -1
 hat_U_bandana_h_std_ha_2186_0_0.png
@@ -118,29 +132,15 @@ hat_U_bandana_h_std_ha_2186_0_0.png
   index: -1
 hat_U_bandana_h_std_ha_2186_1_0.png
   rotate: false
-  xy: 2, 5
+  xy: 2, 4
   size: 27, 23
   orig: 27, 23
   offset: 0, 0
   index: -1
 hat_U_bandana_h_std_ha_2186_2_0.png
   rotate: false
-  xy: 38, 2
+  xy: 108, 2
   size: 26, 27
   orig: 26, 27
-  offset: 0, 0
-  index: -1
-hat_U_bandana_h_std_ha_2186_3_0.png
-  rotate: false
-  xy: 349, 44
-  size: 26, 18
-  orig: 26, 18
-  offset: 0, 0
-  index: -1
-hat_U_bandana_h_std_ha_2186_7_0.png
-  rotate: false
-  xy: 377, 44
-  size: 24, 18
-  orig: 24, 18
   offset: 0, 0
   index: -1

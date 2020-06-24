@@ -1,0 +1,132 @@
+
+acc_chest_U_glitzypurse.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_glitzypurse_h_lay_ca_3711_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_lay_ca_3712_2_0.png
+  rotate: false
+  xy: 37, 36
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_lay_ca_3713_2_0.png
+  rotate: false
+  xy: 2, 7
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3711_0_0.png
+  rotate: false
+  xy: 82, 21
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3711_1_0.png
+  rotate: false
+  xy: 101, 22
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3711_2_0.png
+  rotate: false
+  xy: 63, 21
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3711_3_0.png
+  rotate: false
+  xy: 171, 19
+  size: 8, 38
+  orig: 8, 38
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3711_7_0.png
+  rotate: false
+  xy: 181, 22
+  size: 7, 35
+  orig: 7, 35
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3712_0_0.png
+  rotate: false
+  xy: 237, 33
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3712_1_0.png
+  rotate: false
+  xy: 206, 33
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3712_2_0.png
+  rotate: false
+  xy: 223, 33
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3712_3_0.png
+  rotate: false
+  xy: 33, 2
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3712_7_0.png
+  rotate: false
+  xy: 42, 9
+  size: 6, 25
+  orig: 6, 25
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3713_0_0.png
+  rotate: false
+  xy: 120, 23
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3713_1_0.png
+  rotate: false
+  xy: 154, 25
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3713_2_0.png
+  rotate: false
+  xy: 137, 23
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3713_3_0.png
+  rotate: false
+  xy: 190, 22
+  size: 6, 35
+  orig: 6, 35
+  offset: 0, 0
+  index: -1
+acc_chest_U_glitzypurse_h_std_ca_3713_7_0.png
+  rotate: false
+  xy: 198, 23
+  size: 6, 34
+  orig: 6, 34
+  offset: 0, 0
+  index: -1

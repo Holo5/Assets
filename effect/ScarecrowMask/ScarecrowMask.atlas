@@ -20,21 +20,21 @@ ScarecrowMask_h_std_fx86_1_1_1_0.png
   index: -1
 ScarecrowMask_h_std_fx86_1_1_2_0.png
   rotate: false
-  xy: 136, 4
+  xy: 196, 4
   size: 28, 35
   orig: 28, 35
   offset: 0, 0
   index: -1
 ScarecrowMask_h_std_fx86_1_1_3_0.png
   rotate: false
-  xy: 166, 4
+  xy: 136, 4
   size: 28, 35
   orig: 28, 35
   offset: 0, 0
   index: -1
 ScarecrowMask_h_std_fx86_1_1_4_0.png
   rotate: false
-  xy: 226, 4
+  xy: 166, 4
   size: 28, 35
   orig: 28, 35
   offset: 0, 0
@@ -55,7 +55,7 @@ ScarecrowMask_h_std_fx86_1_1_6_0.png
   index: -1
 ScarecrowMask_h_std_fx86_1_1_7_0.png
   rotate: false
-  xy: 196, 2
+  xy: 226, 2
   size: 28, 37
   orig: 28, 37
   offset: 0, 0

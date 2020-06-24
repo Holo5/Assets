@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 CameraBot_h_std_fx188_1_1_0_0.png
   rotate: false
-  xy: 326, 5
+  xy: 276, 5
   size: 48, 57
   orig: 48, 57
   offset: 0, 0
   index: -1
 CameraBot_h_std_fx188_1_1_1_0.png
   rotate: false
-  xy: 162, 11
+  xy: 61, 11
   size: 55, 51
   orig: 55, 51
   offset: 0, 0
   index: -1
 CameraBot_h_std_fx188_1_1_2_0.png
   rotate: false
-  xy: 112, 4
+  xy: 226, 4
   size: 48, 58
   orig: 48, 58
   offset: 0, 0
@@ -34,21 +34,21 @@ CameraBot_h_std_fx188_1_1_3_0.png
   index: -1
 CameraBot_h_std_fx188_1_1_4_0.png
   rotate: false
-  xy: 61, 4
+  xy: 175, 4
   size: 49, 58
   orig: 49, 58
   offset: 0, 0
   index: -1
 CameraBot_h_std_fx188_1_1_5_0.png
   rotate: false
-  xy: 219, 11
+  xy: 118, 11
   size: 55, 51
   orig: 55, 51
   offset: 0, 0
   index: -1
 CameraBot_h_std_fx188_1_1_6_0.png
   rotate: false
-  xy: 276, 5
+  xy: 326, 5
   size: 48, 57
   orig: 48, 57
   offset: 0, 0

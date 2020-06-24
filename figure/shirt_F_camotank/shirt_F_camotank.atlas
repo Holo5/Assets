@@ -4,11 +4,11 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shirt_F_camotank_h_crr_ls_2732_3_0.png
+shirt_F_camotank_h_crr_ls_2732_0_0.png
   rotate: false
-  xy: 84, 33
-  size: 1, 2
-  orig: 1, 2
+  xy: 91, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 shirt_F_camotank_h_crr_ls_2732_4_0.png
@@ -18,16 +18,9 @@ shirt_F_camotank_h_crr_ls_2732_4_0.png
   orig: 4, 10
   offset: 0, 0
   index: -1
-shirt_F_camotank_h_crr_ls_2732_7_0.png
-  rotate: false
-  xy: 91, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 shirt_F_camotank_h_crr_ls_2733_6_0.png
   rotate: false
-  xy: 247, 15
+  xy: 250, 34
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
@@ -41,7 +34,7 @@ shirt_F_camotank_h_crr_rs_2732_2_0.png
   index: -1
 shirt_F_camotank_h_crr_rs_2733_0_0.png
   rotate: false
-  xy: 106, 15
+  xy: 250, 28
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
@@ -53,18 +46,25 @@ shirt_F_camotank_h_crr_rs_2733_2_0.png
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_camotank_h_drk_rs_2732_0_0.png
+shirt_F_camotank_h_crr_rs_2733_3_0.png
+  rotate: false
+  xy: 84, 33
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+shirt_F_camotank_h_drk_rs_2732_6_0.png
+  rotate: false
+  xy: 115, 16
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+shirt_F_camotank_h_drk_rs_2733_0_0.png
   rotate: false
   xy: 91, 5
   size: 7, 14
   orig: 7, 14
-  offset: 0, 0
-  index: -1
-shirt_F_camotank_h_drk_rs_2732_3_0.png
-  rotate: false
-  xy: 76, 33
-  size: 2, 2
-  orig: 2, 2
   offset: 0, 0
   index: -1
 shirt_F_camotank_h_drk_rs_2733_2_0.png
@@ -74,14 +74,14 @@ shirt_F_camotank_h_drk_rs_2733_2_0.png
   orig: 9, 14
   offset: 0, 0
   index: -1
-shirt_F_camotank_h_drk_rs_2733_4_0.png
+shirt_F_camotank_h_drk_rs_2733_3_0.png
   rotate: false
-  xy: 154, 25
-  size: 3, 3
-  orig: 3, 3
+  xy: 76, 33
+  size: 2, 2
+  orig: 2, 2
   offset: 0, 0
   index: -1
-shirt_F_camotank_h_drk_rs_2733_6_0.png
+shirt_F_camotank_h_drk_rs_2733_4_0.png
   rotate: false
   xy: 83, 2
   size: 3, 3
@@ -104,12 +104,12 @@ shirt_F_camotank_h_lay_ch_2733_2_0.png
   index: -1
 shirt_F_camotank_h_lay_ls_2733_2_0.png
   rotate: false
-  xy: 247, 21
+  xy: 106, 15
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
-shirt_F_camotank_h_lay_rs_2732_2_0.png
+shirt_F_camotank_h_lay_rs_2733_2_0.png
   rotate: false
   xy: 68, 2
   size: 6, 3
@@ -188,51 +188,51 @@ shirt_F_camotank_h_std_ch_2733_7_0.png
   index: -1
 shirt_F_camotank_h_std_ls_2732_3_0.png
   rotate: false
-  xy: 251, 40
+  xy: 124, 2
   size: 2, 10
   orig: 2, 10
   offset: 0, 0
   index: -1
 shirt_F_camotank_h_std_rs_2732_3_0.png
   rotate: false
-  xy: 127, 18
+  xy: 112, 2
   size: 2, 11
   orig: 2, 11
   offset: 0, 0
   index: -1
-shirt_F_camotank_h_wav_ls_2732_3_1.png
+shirt_F_camotank_h_wav_ls_2733_3_1.png
   rotate: false
   xy: 135, 16
   size: 1, 12
   orig: 1, 12
   offset: 0, 0
   index: -1
-shirt_F_camotank_h_wav_ls_2732_6_1.png
+shirt_F_camotank_h_wav_ls_2733_4_1.png
+  rotate: false
+  xy: 108, 2
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1
+shirt_F_camotank_h_wav_ls_2733_5_0.png
+  rotate: false
+  xy: 146, 22
+  size: 2, 6
+  orig: 2, 6
+  offset: 0, 0
+  index: -1
+shirt_F_camotank_h_wav_ls_2733_6_1.png
   rotate: false
   xy: 91, 21
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
-shirt_F_camotank_h_wav_ls_2732_7_1.png
+shirt_F_camotank_h_wav_ls_2733_7_0.png
   rotate: false
   xy: 251, 52
   size: 3, 10
   orig: 3, 10
-  offset: 0, 0
-  index: -1
-shirt_F_camotank_h_wav_ls_2733_4_1.png
-  rotate: false
-  xy: 246, 27
-  size: 2, 11
-  orig: 2, 11
-  offset: 0, 0
-  index: -1
-shirt_F_camotank_h_wav_ls_2733_5_1.png
-  rotate: false
-  xy: 150, 22
-  size: 2, 6
-  orig: 2, 6
   offset: 0, 0
   index: -1
 shirt_F_camotank_h_wlk_ls_2732_3_1.png
@@ -244,7 +244,7 @@ shirt_F_camotank_h_wlk_ls_2732_3_1.png
   index: -1
 shirt_F_camotank_h_wlk_ls_2732_3_2.png
   rotate: false
-  xy: 112, 2
+  xy: 120, 2
   size: 2, 10
   orig: 2, 10
   offset: 0, 0
@@ -258,14 +258,14 @@ shirt_F_camotank_h_wlk_ls_2732_3_3.png
   index: -1
 shirt_F_camotank_h_wlk_ls_2732_7_1.png
   rotate: false
-  xy: 146, 21
+  xy: 142, 21
   size: 2, 7
   orig: 2, 7
   offset: 0, 0
   index: -1
-shirt_F_camotank_h_wlk_ls_2733_3_2.png
+shirt_F_camotank_h_wlk_ls_2733_3_0.png
   rotate: false
-  xy: 138, 19
+  xy: 127, 20
   size: 2, 9
   orig: 2, 9
   offset: 0, 0
@@ -328,7 +328,7 @@ shirt_F_camotank_h_wlk_rs_2732_2_3.png
   index: -1
 shirt_F_camotank_h_wlk_rs_2732_3_1.png
   rotate: false
-  xy: 108, 2
+  xy: 251, 40
   size: 2, 10
   orig: 2, 10
   offset: 0, 0
@@ -342,21 +342,21 @@ shirt_F_camotank_h_wlk_rs_2732_3_2.png
   index: -1
 shirt_F_camotank_h_wlk_rs_2732_3_3.png
   rotate: false
-  xy: 250, 27
+  xy: 246, 27
   size: 2, 11
   orig: 2, 11
   offset: 0, 0
   index: -1
-shirt_F_camotank_h_wlk_rs_2732_7_2.png
+shirt_F_camotank_h_wlk_rs_2732_7_1.png
   rotate: false
-  xy: 142, 21
+  xy: 138, 21
   size: 2, 7
   orig: 2, 7
   offset: 0, 0
   index: -1
-shirt_F_camotank_h_wlk_rs_2733_7_3.png
+shirt_F_camotank_h_wlk_rs_2733_7_2.png
   rotate: false
-  xy: 253, 15
+  xy: 150, 24
   size: 1, 4
   orig: 1, 4
   offset: 0, 0

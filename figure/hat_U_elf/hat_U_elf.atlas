@@ -34,7 +34,7 @@ hat_U_elf_h_lsp_ha_2466_2_0.png
   index: -1
 hat_U_elf_h_spk_ha_2465_0_0.png
   rotate: false
-  xy: 275, 38
+  xy: 243, 38
   size: 30, 24
   orig: 30, 24
   offset: 0, 0
@@ -55,7 +55,7 @@ hat_U_elf_h_spk_ha_2465_2_0.png
   index: -1
 hat_U_elf_h_spk_ha_2465_3_0.png
   rotate: false
-  xy: 426, 49
+  xy: 454, 49
   size: 26, 13
   orig: 26, 13
   offset: 0, 0
@@ -102,16 +102,9 @@ hat_U_elf_h_spk_ha_2466_7_0.png
   orig: 32, 16
   offset: 0, 0
   index: -1
-hat_U_elf_h_spk_ha_2467_0_0.png
-  rotate: false
-  xy: 34, 8
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
 hat_U_elf_h_std_ha_2465_0_0.png
   rotate: false
-  xy: 243, 38
+  xy: 275, 38
   size: 30, 24
   orig: 30, 24
   offset: 0, 0
@@ -132,7 +125,7 @@ hat_U_elf_h_std_ha_2465_2_0.png
   index: -1
 hat_U_elf_h_std_ha_2465_3_0.png
   rotate: false
-  xy: 454, 49
+  xy: 426, 49
   size: 26, 13
   orig: 26, 13
   offset: 0, 0
@@ -177,6 +170,13 @@ hat_U_elf_h_std_ha_2466_7_0.png
   xy: 392, 47
   size: 32, 15
   orig: 32, 15
+  offset: 0, 0
+  index: -1
+hat_U_elf_h_std_ha_2467_0_0.png
+  rotate: false
+  xy: 34, 8
+  size: 5, 5
+  orig: 5, 5
   offset: 0, 0
   index: -1
 hat_U_elf_sh_spk_ha_2467_3_0.png

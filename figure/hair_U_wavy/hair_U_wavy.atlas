@@ -4,65 +4,65 @@ size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hair_U_wavy_h_lay_hr_2018_2_0.png
-  rotate: false
-  xy: 357, 2
-  size: 27, 29
-  orig: 27, 29
-  offset: 0, 0
-  index: -1
-hair_U_wavy_h_lsp_hrb_2018_2_0.png
+hair_U_wavy_h_lay_hrb_2018_2_0.png
   rotate: false
   xy: 218, 2
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
+hair_U_wavy_h_lsp_hr_2018_2_0.png
+  rotate: false
+  xy: 254, 33
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
 hair_U_wavy_h_spk_hr_2018_0_0.png
   rotate: false
-  xy: 221, 33
+  xy: 252, 2
   size: 31, 29
   orig: 31, 29
   offset: 0, 0
   index: -1
 hair_U_wavy_h_spk_hr_2018_1_0.png
   rotate: false
-  xy: 115, 3
+  xy: 419, 37
   size: 31, 25
   orig: 31, 25
   offset: 0, 0
   index: -1
 hair_U_wavy_h_spk_hr_2018_2_0.png
   rotate: false
-  xy: 456, 37
+  xy: 452, 37
   size: 30, 25
   orig: 30, 25
   offset: 0, 0
   index: -1
 hair_U_wavy_h_spk_hr_2018_3_0.png
   rotate: false
-  xy: 78, 2
+  xy: 2, 4
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 hair_U_wavy_h_spk_hr_2018_7_0.png
   rotate: false
-  xy: 148, 2
+  xy: 186, 33
   size: 33, 29
   orig: 33, 29
   offset: 0, 0
   index: -1
 hair_U_wavy_h_spk_hrb_2018_0_0.png
   rotate: false
-  xy: 289, 30
+  xy: 351, 30
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 hair_U_wavy_h_spk_hrb_2018_1_0.png
   rotate: false
-  xy: 254, 32
+  xy: 316, 32
   size: 33, 30
   orig: 33, 30
   offset: 0, 0
@@ -90,28 +90,28 @@ hair_U_wavy_h_spk_hrb_2018_7_0.png
   index: -1
 hair_U_wavy_h_std_hr_2018_0_0.png
   rotate: false
-  xy: 357, 33
+  xy: 221, 33
   size: 31, 29
   orig: 31, 29
   offset: 0, 0
   index: -1
 hair_U_wavy_h_std_hr_2018_1_0.png
   rotate: false
-  xy: 423, 37
+  xy: 283, 37
   size: 31, 25
   orig: 31, 25
   offset: 0, 0
   index: -1
 hair_U_wavy_h_std_hr_2018_2_0.png
   rotate: false
-  xy: 390, 37
+  xy: 115, 3
   size: 31, 25
   orig: 31, 25
   offset: 0, 0
   index: -1
 hair_U_wavy_h_std_hr_2018_3_0.png
   rotate: false
-  xy: 2, 4
+  xy: 78, 2
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
@@ -125,14 +125,14 @@ hair_U_wavy_h_std_hr_2018_7_0.png
   index: -1
 hair_U_wavy_h_std_hrb_2018_0_0.png
   rotate: false
-  xy: 323, 31
+  xy: 385, 31
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 hair_U_wavy_h_std_hrb_2018_1_0.png
   rotate: false
-  xy: 186, 33
+  xy: 148, 2
   size: 33, 29
   orig: 33, 29
   offset: 0, 0

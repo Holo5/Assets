@@ -6,49 +6,49 @@ filter: Nearest,Nearest
 repeat: none
 shoes_U_yetifeet_h_sit_sh_3185_0_0.png
   rotate: false
-  xy: 380, 5
+  xy: 381, 5
   size: 19, 25
   orig: 19, 25
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_sit_sh_3185_2_0.png
   rotate: false
-  xy: 324, 7
+  xy: 325, 7
   size: 26, 23
   orig: 26, 23
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_sit_sh_3185_2_0.png
   rotate: false
-  xy: 352, 7
+  xy: 353, 7
   size: 26, 23
   orig: 26, 23
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_sit_sh_3186_0_0.png
   rotate: false
-  xy: 886, 10
+  xy: 734, 10
   size: 14, 20
   orig: 14, 20
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_sit_sh_3186_2_0.png
   rotate: false
-  xy: 472, 3
+  xy: 241, 7
   size: 6, 11
   orig: 6, 11
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_sit_sh_3186_2_0.png
   rotate: false
-  xy: 902, 19
+  xy: 990, 19
   size: 6, 11
   orig: 6, 11
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_std_sh_3185_0_0.png
   rotate: false
-  xy: 210, 2
+  xy: 173, 2
   size: 29, 16
   orig: 29, 16
   offset: 0, 0
@@ -69,56 +69,56 @@ shoes_U_yetifeet_h_std_sh_3185_2_0.png
   index: -1
 shoes_U_yetifeet_h_std_sh_3185_3_0.png
   rotate: false
-  xy: 593, 16
+  xy: 594, 16
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_std_sh_3185_7_0.png
   rotate: false
-  xy: 449, 3
+  xy: 590, 2
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_std_sh_3186_0_0.png
   rotate: false
-  xy: 512, 2
+  xy: 513, 2
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_std_sh_3186_1_0.png
   rotate: false
-  xy: 866, 22
+  xy: 970, 22
   size: 18, 8
   orig: 18, 8
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_std_sh_3186_2_0.png
   rotate: false
-  xy: 484, 2
+  xy: 485, 2
   size: 26, 13
   orig: 26, 13
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_std_sh_3186_3_0.png
   rotate: false
-  xy: 843, 22
+  xy: 908, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_std_sh_3186_7_0.png
   rotate: false
-  xy: 401, 2
+  xy: 885, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_0_0.png
   rotate: false
-  xy: 426, 16
+  xy: 427, 16
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
@@ -132,21 +132,21 @@ shoes_U_yetifeet_h_wlk_sh_3185_0_1.png
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_0_2.png
   rotate: false
-  xy: 293, 13
+  xy: 294, 13
   size: 29, 17
   orig: 29, 17
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_0_3.png
   rotate: false
-  xy: 513, 17
+  xy: 514, 17
   size: 24, 13
   orig: 24, 13
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_1_0.png
   rotate: false
-  xy: 484, 17
+  xy: 485, 17
   size: 27, 13
   orig: 27, 13
   offset: 0, 0
@@ -160,7 +160,7 @@ shoes_U_yetifeet_h_wlk_sh_3185_1_1.png
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_1_2.png
   rotate: false
-  xy: 455, 16
+  xy: 456, 16
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
@@ -174,21 +174,21 @@ shoes_U_yetifeet_h_wlk_sh_3185_1_3.png
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_2_0.png
   rotate: false
-  xy: 173, 15
+  xy: 204, 3
   size: 35, 15
   orig: 35, 15
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_2_1.png
   rotate: false
-  xy: 401, 12
+  xy: 402, 12
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_2_2.png
   rotate: false
-  xy: 539, 15
+  xy: 540, 15
   size: 25, 15
   orig: 25, 15
   offset: 0, 0
@@ -202,91 +202,91 @@ shoes_U_yetifeet_h_wlk_sh_3185_2_3.png
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_3_0.png
   rotate: false
-  xy: 687, 15
+  xy: 642, 15
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_3_1.png
   rotate: false
-  xy: 641, 13
+  xy: 688, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_3_2.png
   rotate: false
-  xy: 618, 15
+  xy: 711, 15
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_3_3.png
   rotate: false
-  xy: 664, 13
+  xy: 665, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_7_0.png
   rotate: false
-  xy: 687, 2
+  xy: 613, 2
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_7_1.png
   rotate: false
-  xy: 710, 16
+  xy: 619, 16
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_7_2.png
   rotate: false
-  xy: 612, 2
+  xy: 750, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3185_7_3.png
   rotate: false
-  xy: 426, 2
+  xy: 427, 2
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_0_0.png
   rotate: false
-  xy: 539, 2
+  xy: 540, 2
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_0_1.png
   rotate: false
-  xy: 252, 20
+  xy: 215, 20
   size: 39, 10
   orig: 39, 10
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_0_2.png
   rotate: false
-  xy: 566, 16
+  xy: 567, 16
   size: 25, 14
   orig: 25, 14
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_0_3.png
   rotate: false
-  xy: 733, 4
+  xy: 951, 20
   size: 17, 10
   orig: 17, 10
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_1_0.png
   rotate: false
-  xy: 279, 2
+  xy: 658, 2
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
@@ -300,98 +300,98 @@ shoes_U_yetifeet_h_wlk_sh_3186_1_1.png
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_1_2.png
   rotate: false
-  xy: 710, 4
+  xy: 773, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_1_3.png
   rotate: false
-  xy: 210, 20
+  xy: 173, 20
   size: 40, 10
   orig: 40, 10
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_2_0.png
   rotate: false
-  xy: 173, 2
+  xy: 450, 3
   size: 29, 11
   orig: 29, 11
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_2_1.png
   rotate: false
-  xy: 733, 16
+  xy: 931, 16
   size: 18, 14
   orig: 18, 14
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_2_2.png
   rotate: false
-  xy: 564, 2
+  xy: 565, 2
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_2_3.png
   rotate: false
-  xy: 241, 4
+  xy: 256, 16
   size: 36, 14
   orig: 36, 14
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_3_0.png
   rotate: false
-  xy: 658, 2
+  xy: 818, 21
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_3_1.png
   rotate: false
-  xy: 775, 19
+  xy: 636, 2
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_3_2.png
   rotate: false
-  xy: 302, 2
+  xy: 840, 21
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_3_3.png
   rotate: false
-  xy: 753, 19
+  xy: 796, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_7_0.png
   rotate: false
-  xy: 797, 22
+  xy: 402, 2
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_7_1.png
   rotate: false
-  xy: 589, 2
+  xy: 711, 2
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_7_2.png
   rotate: false
-  xy: 820, 22
+  xy: 862, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_U_yetifeet_h_wlk_sh_3186_7_3.png
   rotate: false
-  xy: 635, 2
+  xy: 681, 2
   size: 21, 9
   orig: 21, 9
   offset: 0, 0

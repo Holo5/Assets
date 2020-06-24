@@ -4,93 +4,93 @@ size: 512,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-TotemMix_h_std_fx26_1_1_1_0.png
-  rotate: false
-  xy: 221, 53
-  size: 15, 73
-  orig: 15, 73
-  offset: 0, 0
-  index: -1
-TotemMix_h_std_fx26_1_1_2_0.png
-  rotate: false
-  xy: 204, 53
-  size: 15, 73
-  orig: 15, 73
-  offset: 0, 0
-  index: -1
-TotemMix_h_std_fx26_1_1_3_0.png
+TotemMix_h_std_fx26_1_1_0_0.png
   rotate: false
   xy: 170, 53
   size: 15, 73
   orig: 15, 73
   offset: 0, 0
   index: -1
-TotemMix_h_std_fx26_1_1_4_0.png
+TotemMix_h_std_fx26_1_1_2_0.png
   rotate: false
   xy: 187, 53
   size: 15, 73
   orig: 15, 73
   offset: 0, 0
   index: -1
+TotemMix_h_std_fx26_1_1_3_0.png
+  rotate: false
+  xy: 204, 53
+  size: 15, 73
+  orig: 15, 73
+  offset: 0, 0
+  index: -1
+TotemMix_h_std_fx26_1_1_4_0.png
+  rotate: false
+  xy: 221, 53
+  size: 15, 73
+  orig: 15, 73
+  offset: 0, 0
+  index: -1
 TotemMix_h_std_fx26_2_1_0_0.png
-  rotate: false
-  xy: 114, 22
-  size: 54, 51
-  orig: 54, 51
-  offset: 0, 0
-  index: -1
-TotemMix_h_std_fx26_2_1_0_1.png
-  rotate: false
-  xy: 114, 75
-  size: 54, 51
-  orig: 54, 51
-  offset: 0, 0
-  index: -1
-TotemMix_h_std_fx26_2_1_0_2.png
   rotate: false
   xy: 58, 22
   size: 54, 51
   orig: 54, 51
   offset: 0, 0
   index: -1
-TotemMix_h_std_fx26_2_1_0_3.png
+TotemMix_h_std_fx26_2_1_0_1.png
   rotate: false
   xy: 58, 75
   size: 54, 51
   orig: 54, 51
   offset: 0, 0
   index: -1
-TotemMix_h_std_fx26_2_1_0_4.png
+TotemMix_h_std_fx26_2_1_0_2.png
   rotate: false
   xy: 2, 22
   size: 54, 51
   orig: 54, 51
   offset: 0, 0
   index: -1
-TotemMix_h_std_fx26_2_1_0_5.png
+TotemMix_h_std_fx26_2_1_0_3.png
   rotate: false
   xy: 2, 75
   size: 54, 51
   orig: 54, 51
   offset: 0, 0
   index: -1
+TotemMix_h_std_fx26_2_1_0_4.png
+  rotate: false
+  xy: 114, 22
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+TotemMix_h_std_fx26_2_1_0_5.png
+  rotate: false
+  xy: 114, 75
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
 TotemMix_h_std_fx26_3_1_0_0.png
   rotate: false
-  xy: 196, 27
+  xy: 350, 102
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 TotemMix_h_std_fx26_3_1_0_1.png
   rotate: false
-  xy: 170, 2
+  xy: 426, 103
   size: 24, 23
   orig: 24, 23
   offset: 0, 0
   index: -1
 TotemMix_h_std_fx26_3_1_0_10.png
   rotate: false
-  xy: 452, 103
+  xy: 477, 103
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
@@ -104,21 +104,21 @@ TotemMix_h_std_fx26_3_1_0_11.png
   index: -1
 TotemMix_h_std_fx26_3_1_0_12.png
   rotate: false
-  xy: 427, 103
+  xy: 452, 103
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
   index: -1
 TotemMix_h_std_fx26_3_1_0_13.png
   rotate: false
-  xy: 272, 102
+  xy: 170, 27
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 TotemMix_h_std_fx26_3_1_0_14.png
   rotate: false
-  xy: 170, 27
+  xy: 272, 102
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
@@ -139,7 +139,7 @@ TotemMix_h_std_fx26_3_1_0_2.png
   index: -1
 TotemMix_h_std_fx26_3_1_0_3.png
   rotate: false
-  xy: 350, 102
+  xy: 324, 102
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
@@ -153,28 +153,28 @@ TotemMix_h_std_fx26_3_1_0_4.png
   index: -1
 TotemMix_h_std_fx26_3_1_0_5.png
   rotate: false
-  xy: 401, 103
+  xy: 170, 2
   size: 24, 23
   orig: 24, 23
   offset: 0, 0
   index: -1
 TotemMix_h_std_fx26_3_1_0_6.png
   rotate: false
-  xy: 238, 44
+  xy: 401, 102
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
 TotemMix_h_std_fx26_3_1_0_7.png
   rotate: false
-  xy: 324, 102
+  xy: 196, 27
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 TotemMix_h_std_fx26_3_1_0_8.png
   rotate: false
-  xy: 477, 103
+  xy: 238, 45
   size: 23, 23
   orig: 23, 23
   offset: 0, 0

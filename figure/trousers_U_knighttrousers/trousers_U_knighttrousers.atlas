@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 trousers_U_knighttrousers_h_lay_lg_2785_2_0.png
   rotate: false
-  xy: 74, 38
+  xy: 168, 38
   size: 30, 24
   orig: 30, 24
   offset: 0, 0
@@ -27,35 +27,35 @@ trousers_U_knighttrousers_h_sit_lg_2785_2_0.png
   index: -1
 trousers_U_knighttrousers_h_std_lg_2785_0_0.png
   rotate: false
-  xy: 379, 33
+  xy: 282, 33
   size: 21, 29
   orig: 21, 29
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_std_lg_2785_1_0.png
   rotate: false
-  xy: 143, 7
+  xy: 141, 7
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_std_lg_2785_2_0.png
   rotate: false
-  xy: 332, 33
+  xy: 26, 2
   size: 22, 29
   orig: 22, 29
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_std_lg_2785_3_0.png
   rotate: false
-  xy: 73, 11
+  xy: 429, 37
   size: 23, 25
   orig: 23, 25
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_0_0.png
   rotate: false
-  xy: 50, 2
+  xy: 73, 2
   size: 21, 27
   orig: 21, 27
   offset: 0, 0
@@ -69,7 +69,7 @@ trousers_U_knighttrousers_h_wlk_lg_2785_0_1.png
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_0_2.png
   rotate: false
-  xy: 356, 33
+  xy: 50, 2
   size: 21, 29
   orig: 21, 29
   offset: 0, 0
@@ -83,105 +83,105 @@ trousers_U_knighttrousers_h_wlk_lg_2785_0_3.png
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_1_0.png
   rotate: false
-  xy: 161, 9
+  xy: 159, 9
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_1_1.png
   rotate: false
-  xy: 169, 35
+  xy: 106, 35
   size: 29, 27
   orig: 29, 27
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_1_2.png
   rotate: false
-  xy: 123, 7
+  xy: 121, 7
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_1_3.png
   rotate: false
-  xy: 138, 35
+  xy: 137, 35
   size: 29, 27
   orig: 29, 27
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_2_0.png
   rotate: false
-  xy: 26, 2
+  xy: 305, 35
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_2_1.png
   rotate: false
-  xy: 282, 31
+  xy: 257, 31
   size: 23, 31
   orig: 23, 31
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_2_2.png
   rotate: false
-  xy: 307, 33
+  xy: 232, 33
   size: 23, 29
   orig: 23, 29
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_2_3.png
   rotate: false
-  xy: 106, 35
+  xy: 74, 35
   size: 30, 27
   orig: 30, 27
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_3_0.png
   rotate: false
-  xy: 477, 37
+  xy: 454, 37
   size: 23, 25
   orig: 23, 25
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_3_1.png
   rotate: false
-  xy: 257, 36
+  xy: 329, 36
   size: 23, 26
   orig: 23, 26
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_3_2.png
   rotate: false
-  xy: 452, 37
+  xy: 479, 37
   size: 23, 25
   orig: 23, 25
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_3_3.png
   rotate: false
-  xy: 232, 36
+  xy: 354, 36
   size: 23, 26
   orig: 23, 26
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_7_0.png
   rotate: false
-  xy: 98, 8
+  xy: 96, 8
   size: 23, 25
   orig: 23, 25
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_7_1.png
   rotate: false
-  xy: 427, 36
+  xy: 379, 36
   size: 23, 26
   orig: 23, 26
   offset: 0, 0
   index: -1
 trousers_U_knighttrousers_h_wlk_lg_2785_7_3.png
   rotate: false
-  xy: 402, 36
+  xy: 404, 36
   size: 23, 26
   orig: 23, 26
   offset: 0, 0

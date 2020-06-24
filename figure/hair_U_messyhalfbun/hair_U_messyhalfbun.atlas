@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_messyhalfbun_h_lay_hr_2967_2_0.png
   rotate: false
-  xy: 437, 35
+  xy: 465, 35
   size: 26, 27
   orig: 26, 27
   offset: 0, 0
   index: -1
 hair_U_messyhalfbun_h_lay_hrb_2967_2_0.png
   rotate: false
-  xy: 465, 35
+  xy: 382, 5
   size: 26, 27
   orig: 26, 27
   offset: 0, 0
   index: -1
 hair_U_messyhalfbun_h_lsp_hr_2967_2_0.png
   rotate: false
-  xy: 382, 4
+  xy: 408, 34
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
@@ -34,14 +34,14 @@ hair_U_messyhalfbun_h_lsp_hrb_2967_2_0.png
   index: -1
 hair_U_messyhalfbun_h_spk_hr_2967_0_0.png
   rotate: false
-  xy: 34, 28
+  xy: 2, 28
   size: 30, 34
   orig: 30, 34
   offset: 0, 0
   index: -1
 hair_U_messyhalfbun_h_spk_hr_2967_1_0.png
   rotate: false
-  xy: 130, 2
+  xy: 130, 33
   size: 33, 29
   orig: 33, 29
   offset: 0, 0
@@ -55,7 +55,7 @@ hair_U_messyhalfbun_h_spk_hr_2967_2_0.png
   index: -1
 hair_U_messyhalfbun_h_spk_hr_2967_3_0.png
   rotate: false
-  xy: 408, 35
+  xy: 324, 2
   size: 27, 27
   orig: 27, 27
   offset: 0, 0
@@ -69,14 +69,14 @@ hair_U_messyhalfbun_h_spk_hr_2967_7_0.png
   index: -1
 hair_U_messyhalfbun_h_spk_hrb_2967_0_0.png
   rotate: false
-  xy: 2, 28
+  xy: 34, 28
   size: 30, 34
   orig: 30, 34
   offset: 0, 0
   index: -1
 hair_U_messyhalfbun_h_spk_hrb_2967_1_0.png
   rotate: false
-  xy: 130, 33
+  xy: 130, 2
   size: 33, 29
   orig: 33, 29
   offset: 0, 0
@@ -86,6 +86,13 @@ hair_U_messyhalfbun_h_spk_hrb_2967_2_0.png
   xy: 165, 2
   size: 32, 29
   orig: 32, 29
+  offset: 0, 0
+  index: -1
+hair_U_messyhalfbun_h_spk_hrb_2967_3_0.png
+  rotate: false
+  xy: 436, 35
+  size: 27, 27
+  orig: 27, 27
   offset: 0, 0
   index: -1
 hair_U_messyhalfbun_h_spk_hrb_2967_7_0.png
@@ -118,7 +125,7 @@ hair_U_messyhalfbun_h_std_hr_2967_2_0.png
   index: -1
 hair_U_messyhalfbun_h_std_hr_2967_3_0.png
   rotate: false
-  xy: 324, 2
+  xy: 353, 2
   size: 27, 27
   orig: 27, 27
   offset: 0, 0
@@ -149,13 +156,6 @@ hair_U_messyhalfbun_h_std_hrb_2967_2_0.png
   xy: 234, 4
   size: 32, 28
   orig: 32, 28
-  offset: 0, 0
-  index: -1
-hair_U_messyhalfbun_h_std_hrb_2967_3_0.png
-  rotate: false
-  xy: 353, 2
-  size: 27, 27
-  orig: 27, 27
   offset: 0, 0
   index: -1
 hair_U_messyhalfbun_h_std_hrb_2967_7_0.png

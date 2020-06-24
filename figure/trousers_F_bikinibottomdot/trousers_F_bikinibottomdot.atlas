@@ -55,21 +55,21 @@ trousers_F_bikinibottomdot_h_std_lg_2218_1_0.png
   index: -1
 trousers_F_bikinibottomdot_h_std_lg_2218_2_0.png
   rotate: false
-  xy: 312, 239
+  xy: 28, 24
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
 trousers_F_bikinibottomdot_h_std_lg_2218_3_0.png
   rotate: false
-  xy: 427, 244
+  xy: 286, 165
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_F_bikinibottomdot_h_std_lg_2218_7_0.png
   rotate: false
-  xy: 358, 244
+  xy: 427, 244
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
@@ -81,37 +81,9 @@ trousers_F_bikinibottomdot_h_std_lg_2219_0_0.png
   orig: 18, 9
   offset: 0, 0
   index: -1
-trousers_F_bikinibottomdot_h_std_lg_2219_1_0.png
-  rotate: false
-  xy: 203, 32
-  size: 11, 5
-  orig: 11, 5
-  offset: 0, 0
-  index: -1
-trousers_F_bikinibottomdot_h_std_lg_2219_2_0.png
-  rotate: false
-  xy: 286, 121
-  size: 16, 9
-  orig: 16, 9
-  offset: 0, 0
-  index: -1
-trousers_F_bikinibottomdot_h_std_lg_2219_3_0.png
-  rotate: false
-  xy: 286, 105
-  size: 16, 5
-  orig: 16, 5
-  offset: 0, 0
-  index: -1
-trousers_F_bikinibottomdot_h_std_lg_2219_7_0.png
-  rotate: false
-  xy: 184, 31
-  size: 17, 6
-  orig: 17, 6
-  offset: 0, 0
-  index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2218_0_1.png
   rotate: false
-  xy: 28, 24
+  xy: 312, 239
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
@@ -130,28 +102,28 @@ trousers_F_bikinibottomdot_h_wlk_lg_2218_0_3.png
   orig: 22, 13
   offset: 0, 0
   index: -1
-trousers_F_bikinibottomdot_h_wlk_lg_2218_1_0.png
-  rotate: false
-  xy: 286, 112
-  size: 16, 7
-  orig: 16, 7
-  offset: 0, 0
-  index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2218_1_1.png
-  rotate: false
-  xy: 166, 29
-  size: 16, 8
-  orig: 16, 8
-  offset: 0, 0
-  index: -1
-trousers_F_bikinibottomdot_h_wlk_lg_2218_1_3.png
   rotate: false
   xy: 450, 244
   size: 16, 8
   orig: 16, 8
   offset: 0, 0
   index: -1
-trousers_F_bikinibottomdot_h_wlk_lg_2218_2_0.png
+trousers_F_bikinibottomdot_h_wlk_lg_2218_1_2.png
+  rotate: false
+  xy: 286, 112
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+trousers_F_bikinibottomdot_h_wlk_lg_2218_1_3.png
+  rotate: false
+  xy: 166, 29
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+trousers_F_bikinibottomdot_h_wlk_lg_2218_2_1.png
   rotate: false
   xy: 336, 239
   size: 20, 13
@@ -167,21 +139,21 @@ trousers_F_bikinibottomdot_h_wlk_lg_2218_2_3.png
   index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2218_3_0.png
   rotate: false
-  xy: 286, 185
+  xy: 143, 29
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2218_3_1.png
   rotate: false
-  xy: 97, 29
+  xy: 404, 244
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2218_3_2.png
   rotate: false
-  xy: 381, 244
+  xy: 286, 175
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
@@ -195,28 +167,28 @@ trousers_F_bikinibottomdot_h_wlk_lg_2218_3_3.png
   index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2218_7_0.png
   rotate: false
-  xy: 286, 165
+  xy: 381, 244
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2218_7_1.png
   rotate: false
-  xy: 143, 29
+  xy: 286, 185
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2218_7_2.png
   rotate: false
-  xy: 404, 244
+  xy: 97, 29
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2218_7_3.png
   rotate: false
-  xy: 286, 175
+  xy: 358, 244
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
@@ -228,18 +200,32 @@ trousers_F_bikinibottomdot_h_wlk_lg_2219_0_1.png
   orig: 19, 9
   offset: 0, 0
   index: -1
+trousers_F_bikinibottomdot_h_wlk_lg_2219_1_0.png
+  rotate: false
+  xy: 203, 32
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2219_1_1.png
   rotate: false
-  xy: 499, 247
+  xy: 486, 247
   size: 11, 5
   orig: 11, 5
   offset: 0, 0
   index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2219_1_3.png
   rotate: false
-  xy: 486, 247
+  xy: 499, 247
   size: 11, 5
   orig: 11, 5
+  offset: 0, 0
+  index: -1
+trousers_F_bikinibottomdot_h_wlk_lg_2219_2_1.png
+  rotate: false
+  xy: 286, 121
+  size: 16, 9
+  orig: 16, 9
   offset: 0, 0
   index: -1
 trousers_F_bikinibottomdot_h_wlk_lg_2219_2_3.png
@@ -247,5 +233,19 @@ trousers_F_bikinibottomdot_h_wlk_lg_2219_2_3.png
   xy: 286, 132
   size: 17, 9
   orig: 17, 9
+  offset: 0, 0
+  index: -1
+trousers_F_bikinibottomdot_h_wlk_lg_2219_3_0.png
+  rotate: false
+  xy: 286, 105
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+trousers_F_bikinibottomdot_h_wlk_lg_2219_7_2.png
+  rotate: false
+  xy: 184, 31
+  size: 17, 6
+  orig: 17, 6
   offset: 0, 0
   index: -1

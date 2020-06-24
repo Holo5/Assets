@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 hh_human_body_h_blw_rh_1_0_0.png
   rotate: false
-  xy: 2216, 2
+  xy: 3436, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 hh_human_body_h_blw_rh_1_0_1.png
   rotate: false
-  xy: 1413, 10
+  xy: 2944, 37
   size: 22, 25
   orig: 22, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_blw_rh_1_1_0.png
   rotate: false
-  xy: 2330, 9
+  xy: 1617, 12
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_body_h_blw_rh_1_1_1.png
   rotate: false
-  xy: 3031, 45
+  xy: 2888, 45
   size: 29, 17
   orig: 29, 17
   offset: 0, 0
@@ -48,126 +48,119 @@ hh_human_body_h_blw_rh_1_2_1.png
   index: -1
 hh_human_body_h_blw_rh_1_3_0.png
   rotate: false
-  xy: 1820, 13
+  xy: 1807, 12
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 hh_human_body_h_blw_rh_1_3_1.png
   rotate: false
-  xy: 1841, 14
+  xy: 1828, 13
   size: 19, 18
   orig: 19, 18
   offset: 0, 0
   index: -1
 hh_human_body_h_blw_rh_1_4_0.png
   rotate: false
-  xy: 3791, 40
+  xy: 3560, 40
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
   index: -1
 hh_human_body_h_blw_rh_1_4_1.png
   rotate: false
-  xy: 1780, 10
+  xy: 3496, 40
   size: 19, 22
   orig: 19, 22
   offset: 0, 0
   index: -1
 hh_human_body_h_blw_rh_1_5_0.png
   rotate: false
-  xy: 1662, 11
+  xy: 1592, 12
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_body_h_blw_rh_1_5_1.png
   rotate: false
-  xy: 2999, 45
+  xy: 2476, 15
   size: 30, 17
   orig: 30, 17
   offset: 0, 0
   index: -1
 hh_human_body_h_blw_rh_1_6_1.png
   rotate: false
-  xy: 1437, 13
+  xy: 2855, 43
   size: 31, 19
   orig: 31, 19
   offset: 0, 0
   index: -1
-hh_human_body_h_blw_rh_1_7_1.png
-  rotate: false
-  xy: 2404, 15
-  size: 9, 14
-  orig: 9, 14
-  offset: 0, 0
-  index: -1
 hh_human_body_h_crr_lh_1_0_0.png
   rotate: false
-  xy: 1862, 15
+  xy: 3999, 45
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
 hh_human_body_h_crr_lh_1_1_0.png
   rotate: false
-  xy: 2380, 13
+  xy: 3536, 46
   size: 22, 16
   orig: 22, 16
   offset: 0, 0
   index: -1
 hh_human_body_h_crr_lh_1_2_0.png
   rotate: false
-  xy: 3773, 39
+  xy: 1789, 8
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
 hh_human_body_h_crr_lh_1_3_0.png
   rotate: false
-  xy: 2278, 2
+  xy: 3837, 35
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 hh_human_body_h_crr_lh_1_7_0.png
   rotate: false
-  xy: 3964, 42
+  xy: 3978, 42
   size: 6, 20
   orig: 6, 20
   offset: 0, 0
   index: -1
 hh_human_body_h_crr_rh_1_0_0.png
   rotate: false
-  xy: 2306, 7
+  xy: 1642, 10
   size: 22, 22
   orig: 22, 22
   offset: 0, 0
   index: -1
 hh_human_body_h_crr_rh_1_1_0.png
   rotate: false
-  xy: 2355, 11
+  xy: 2919, 44
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
   index: -1
 hh_human_body_h_crr_rh_1_2_0.png
   rotate: false
-  xy: 1497, 2
+  xy: 1465, 2
   size: 21, 29
   orig: 21, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_crr_rh_1_3_0.png
   rotate: false
-  xy: 2292, 2
+  xy: 1775, 4
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 hh_human_body_h_crr_rh_1_4_0.png
   rotate: false
-  xy: 1801, 10
+  xy: 3517, 40
   size: 17, 22
   orig: 17, 22
   offset: 0, 0
@@ -181,35 +174,35 @@ hh_human_body_h_crr_rh_1_5_0.png
   index: -1
 hh_human_body_h_crr_rh_1_6_0.png
   rotate: false
-  xy: 3980, 43
+  xy: 3986, 43
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 hh_human_body_h_crr_rh_1_7_0.png
   rotate: false
-  xy: 3972, 42
+  xy: 3970, 42
   size: 6, 20
   orig: 6, 20
   offset: 0, 0
   index: -1
 hh_human_body_h_drk_rh_1_0_0.png
   rotate: false
-  xy: 1760, 7
+  xy: 3456, 37
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_drk_rh_1_1_0.png
   rotate: false
-  xy: 1607, 11
+  xy: 1537, 12
   size: 26, 20
   orig: 26, 20
   offset: 0, 0
   index: -1
 hh_human_body_h_drk_rh_1_2_0.png
   rotate: false
-  xy: 1470, 10
+  xy: 2343, 7
   size: 25, 22
   orig: 25, 22
   offset: 0, 0
@@ -223,7 +216,7 @@ hh_human_body_h_drk_rh_1_3_0.png
   index: -1
 hh_human_body_h_drk_rh_1_4_0.png
   rotate: false
-  xy: 3808, 40
+  xy: 3577, 40
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
@@ -237,9 +230,16 @@ hh_human_body_h_drk_rh_1_5_0.png
   index: -1
 hh_human_body_h_drk_rh_1_6_0.png
   rotate: false
-  xy: 1578, 10
+  xy: 1508, 11
   size: 27, 21
   orig: 27, 21
+  offset: 0, 0
+  index: -1
+hh_human_body_h_drk_rh_1_7_0.png
+  rotate: false
+  xy: 2538, 18
+  size: 9, 14
+  orig: 9, 14
   offset: 0, 0
   index: -1
 hh_human_body_h_lay_bd_1_2_0.png
@@ -251,98 +251,98 @@ hh_human_body_h_lay_bd_1_2_0.png
   index: -1
 hh_human_body_h_lay_hd_1_2_0.png
   rotate: false
-  xy: 1233, 37
+  xy: 1437, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_lay_hd_2_2_0.png
   rotate: false
-  xy: 1335, 37
+  xy: 1267, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_lay_hd_3_2_0.png
   rotate: false
-  xy: 1063, 37
+  xy: 1131, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_lay_hd_4_2_0.png
   rotate: false
-  xy: 1379, 10
+  xy: 1165, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_lay_lh_1_2_0.png
   rotate: false
-  xy: 3062, 48
+  xy: 2508, 18
   size: 28, 14
   orig: 28, 14
   offset: 0, 0
   index: -1
 hh_human_body_h_lay_rh_1_2_0.png
   rotate: false
-  xy: 1635, 10
+  xy: 1565, 11
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
   index: -1
 hh_human_body_h_lsp_hd_1_2_0.png
   rotate: false
-  xy: 1097, 37
+  xy: 1233, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_lsp_hd_1_2_1.png
   rotate: false
-  xy: 1131, 37
+  xy: 1199, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_lsp_hd_2_2_0.png
   rotate: false
-  xy: 1301, 37
+  xy: 1335, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_lsp_hd_2_2_1.png
   rotate: false
-  xy: 1267, 37
+  xy: 1301, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_lsp_hd_3_2_0.png
   rotate: false
-  xy: 1369, 37
+  xy: 1063, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_lsp_hd_3_2_1.png
   rotate: false
-  xy: 1403, 37
+  xy: 1097, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_lsp_hd_4_2_0.png
   rotate: false
-  xy: 1165, 37
+  xy: 1403, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_lsp_hd_4_2_1.png
   rotate: false
-  xy: 1199, 37
+  xy: 1369, 37
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
@@ -363,7 +363,7 @@ hh_human_body_h_respect_lh_1_0_1.png
   index: -1
 hh_human_body_h_respect_lh_1_1_0.png
   rotate: false
-  xy: 3478, 27
+  xy: 3372, 27
   size: 13, 35
   orig: 13, 35
   offset: 0, 0
@@ -377,42 +377,42 @@ hh_human_body_h_respect_lh_1_1_1.png
   index: -1
 hh_human_body_h_respect_lh_1_2_0.png
   rotate: false
-  xy: 3297, 28
+  xy: 3194, 28
   size: 17, 34
   orig: 17, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_respect_lh_1_2_1.png
   rotate: false
-  xy: 3160, 28
+  xy: 3036, 28
   size: 20, 34
   orig: 20, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_respect_lh_1_3_0.png
   rotate: false
-  xy: 3446, 25
+  xy: 3356, 25
   size: 14, 37
   orig: 14, 37
   offset: 0, 0
   index: -1
 hh_human_body_h_respect_lh_1_3_1.png
   rotate: false
-  xy: 3262, 25
+  xy: 3157, 25
   size: 17, 37
   orig: 17, 37
   offset: 0, 0
   index: -1
 hh_human_body_h_respect_lh_1_4_0.png
   rotate: false
-  xy: 3243, 27
+  xy: 3138, 27
   size: 17, 35
   orig: 17, 35
   offset: 0, 0
   index: -1
 hh_human_body_h_respect_lh_1_4_1.png
   rotate: false
-  xy: 3281, 25
+  xy: 3340, 25
   size: 14, 37
   orig: 14, 37
   offset: 0, 0
@@ -426,7 +426,7 @@ hh_human_body_h_respect_lh_1_5_0.png
   index: -1
 hh_human_body_h_respect_lh_1_5_1.png
   rotate: false
-  xy: 973, 2
+  xy: 993, 2
   size: 18, 36
   orig: 18, 36
   offset: 0, 0
@@ -440,70 +440,77 @@ hh_human_body_h_respect_lh_1_6_0.png
   index: -1
 hh_human_body_h_respect_lh_1_6_1.png
   rotate: false
-  xy: 2190, 28
+  xy: 1933, 28
   size: 24, 34
   orig: 24, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_respect_lh_1_7_0.png
   rotate: false
-  xy: 3335, 27
+  xy: 3176, 27
   size: 16, 35
   orig: 16, 35
   offset: 0, 0
   index: -1
 hh_human_body_h_respect_lh_1_7_1.png
   rotate: false
-  xy: 3092, 27
+  xy: 2968, 27
   size: 21, 35
   orig: 21, 35
   offset: 0, 0
   index: -1
 hh_human_body_h_sig_lh_1_0_0.png
   rotate: false
-  xy: 3544, 31
+  xy: 3420, 31
   size: 14, 31
   orig: 14, 31
   offset: 0, 0
   index: -1
+hh_human_body_h_sig_lh_1_1_0.png
+  rotate: false
+  xy: 3594, 31
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1
 hh_human_body_h_sig_lh_1_2_0.png
   rotate: false
-  xy: 3493, 30
+  xy: 3271, 30
   size: 16, 32
   orig: 16, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_sig_lh_1_3_0.png
   rotate: false
-  xy: 3462, 27
+  xy: 3307, 27
   size: 14, 35
   orig: 14, 35
   offset: 0, 0
   index: -1
 hh_human_body_h_sig_lh_1_4_0.png
   rotate: false
-  xy: 1218, 2
+  xy: 1234, 2
   size: 14, 33
   orig: 14, 33
   offset: 0, 0
   index: -1
 hh_human_body_h_sig_lh_1_5_0.png
   rotate: false
-  xy: 3371, 30
+  xy: 3251, 30
   size: 18, 32
   orig: 18, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_sig_lh_1_6_0.png
   rotate: false
-  xy: 3182, 28
+  xy: 3058, 28
   size: 19, 34
   orig: 19, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_sig_lh_1_7_0.png
   rotate: false
-  xy: 3411, 28
+  xy: 3213, 28
   size: 16, 34
   orig: 16, 34
   offset: 0, 0
@@ -517,35 +524,35 @@ hh_human_body_h_sit_bd_1_0_0.png
   index: -1
 hh_human_body_h_sit_bd_1_2_0.png
   rotate: false
-  xy: 263, 13
+  xy: 225, 13
   size: 36, 49
   orig: 36, 49
   offset: 0, 0
   index: -1
 hh_human_body_h_sit_lh_1_0_0.png
   rotate: false
-  xy: 3950, 36
+  xy: 3956, 36
   size: 5, 26
   orig: 5, 26
   offset: 0, 0
   index: -1
 hh_human_body_h_sit_lh_1_2_0.png
   rotate: false
-  xy: 3957, 37
+  xy: 3963, 37
   size: 5, 25
   orig: 5, 25
   offset: 0, 0
   index: -1
 hh_human_body_h_sit_rh_1_0_0.png
   rotate: false
-  xy: 3602, 29
+  xy: 3636, 29
   size: 11, 33
   orig: 11, 33
   offset: 0, 0
   index: -1
 hh_human_body_h_sit_rh_1_2_0.png
   rotate: false
-  xy: 3628, 28
+  xy: 3674, 28
   size: 10, 34
   orig: 10, 34
   offset: 0, 0
@@ -566,336 +573,336 @@ hh_human_body_h_sit_sd_1_2_0.png
   index: -1
 hh_human_body_h_spk_hd_1_0_0.png
   rotate: false
-  xy: 1349, 6
+  xy: 1377, 6
   size: 28, 29
   orig: 28, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_1_0_1.png
   rotate: false
-  xy: 1437, 34
+  xy: 1471, 34
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_1_1_0.png
   rotate: false
-  xy: 1555, 33
+  xy: 1676, 33
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_1_1_1.png
   rotate: false
-  xy: 1758, 34
+  xy: 1647, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_1_2_0.png
   rotate: false
-  xy: 1056, 2
+  xy: 1084, 2
   size: 26, 33
   orig: 26, 33
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_1_2_1.png
   rotate: false
-  xy: 2355, 31
+  xy: 2125, 31
   size: 26, 31
   orig: 26, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_1_3_0.png
   rotate: false
-  xy: 1084, 2
+  xy: 1056, 2
   size: 26, 33
   orig: 26, 33
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_1_3_1.png
   rotate: false
-  xy: 2383, 31
+  xy: 2041, 31
   size: 26, 31
   orig: 26, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_1_7_0.png
   rotate: false
-  xy: 2739, 33
+  xy: 1821, 33
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_1_7_1.png
   rotate: false
-  xy: 2907, 34
+  xy: 2659, 34
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_2_0_0.png
   rotate: false
-  xy: 1642, 33
+  xy: 1734, 33
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_2_0_1.png
   rotate: false
-  xy: 2019, 34
+  xy: 2514, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_2_1_0.png
   rotate: false
-  xy: 1671, 33
+  xy: 1705, 33
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_2_1_1.png
   rotate: false
-  xy: 2048, 34
+  xy: 2456, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_2_2_0.png
   rotate: false
-  xy: 2216, 30
+  xy: 2316, 30
   size: 25, 32
   orig: 25, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_2_2_1.png
   rotate: false
-  xy: 2439, 31
+  xy: 2289, 31
   size: 25, 31
   orig: 25, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_2_3_0.png
   rotate: false
-  xy: 2106, 28
+  xy: 1905, 28
   size: 26, 34
   orig: 26, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_2_3_1.png
   rotate: false
-  xy: 1265, 3
+  xy: 1321, 3
   size: 26, 32
   orig: 26, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_2_7_0.png
   rotate: false
-  xy: 2655, 33
+  xy: 2370, 33
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_2_7_1.png
   rotate: false
-  xy: 2795, 34
+  xy: 2743, 34
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_3_0_0.png
   rotate: false
-  xy: 1526, 33
+  xy: 1763, 33
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_3_0_1.png
   rotate: false
-  xy: 1729, 34
+  xy: 2572, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_3_1_0.png
   rotate: false
-  xy: 1497, 33
+  xy: 1792, 33
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_3_1_1.png
   rotate: false
-  xy: 1700, 34
+  xy: 2630, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_3_2_0.png
   rotate: false
-  xy: 2520, 30
+  xy: 1959, 30
   size: 25, 32
   orig: 25, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_3_2_1.png
   rotate: false
-  xy: 2574, 31
+  xy: 2181, 31
   size: 25, 31
   orig: 25, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_3_3_0.png
   rotate: false
-  xy: 2134, 28
+  xy: 1849, 28
   size: 26, 34
   orig: 26, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_3_3_1.png
   rotate: false
-  xy: 1293, 3
+  xy: 1265, 3
   size: 26, 32
   orig: 26, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_3_7_0.png
   rotate: false
-  xy: 2683, 33
+  xy: 2370, 2
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_3_7_1.png
   rotate: false
-  xy: 2879, 34
+  xy: 2799, 34
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_4_0_0.png
   rotate: false
-  xy: 1584, 33
+  xy: 1407, 6
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_4_0_1.png
   rotate: false
-  xy: 1961, 34
+  xy: 1560, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_4_1_0.png
   rotate: false
-  xy: 1613, 33
+  xy: 1436, 6
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_4_1_1.png
   rotate: false
-  xy: 1932, 34
+  xy: 1618, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_4_2_0.png
   rotate: false
-  xy: 2547, 30
+  xy: 1986, 30
   size: 25, 32
   orig: 25, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_4_2_1.png
   rotate: false
-  xy: 2601, 31
+  xy: 2235, 31
   size: 25, 31
   orig: 25, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_4_3_0.png
   rotate: false
-  xy: 2162, 28
+  xy: 1877, 28
   size: 26, 34
   orig: 26, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_4_3_1.png
   rotate: false
-  xy: 1321, 3
+  xy: 1293, 3
   size: 26, 32
   orig: 26, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_spk_hd_4_7_0.png
   rotate: false
-  xy: 2711, 33
+  xy: 2412, 3
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_std_bd_1_0_0.png
   rotate: false
-  xy: 436, 6
+  xy: 382, 6
   size: 25, 56
   orig: 25, 56
   offset: 0, 0
   index: -1
 hh_human_body_h_std_bd_1_1_0.png
   rotate: false
-  xy: 911, 9
+  xy: 867, 9
   size: 20, 53
   orig: 20, 53
   offset: 0, 0
   index: -1
 hh_human_body_h_std_bd_1_2_0.png
   rotate: false
-  xy: 355, 5
+  xy: 301, 5
   size: 25, 57
   orig: 25, 57
   offset: 0, 0
   index: -1
 hh_human_body_h_std_bd_1_3_0.png
   rotate: false
-  xy: 592, 8
+  xy: 567, 8
   size: 24, 54
   orig: 24, 54
   offset: 0, 0
   index: -1
 hh_human_body_h_std_bd_1_7_0.png
   rotate: false
-  xy: 842, 11
+  xy: 767, 11
   size: 23, 51
   orig: 23, 51
   offset: 0, 0
   index: -1
 hh_human_body_h_std_bd_999_0_0.png
   rotate: false
-  xy: 301, 6
+  xy: 436, 6
   size: 25, 56
   orig: 25, 56
   offset: 0, 0
   index: -1
 hh_human_body_h_std_bd_999_1_0.png
   rotate: false
-  xy: 867, 9
+  xy: 889, 9
   size: 20, 53
   orig: 20, 53
   offset: 0, 0
   index: -1
 hh_human_body_h_std_bd_999_2_0.png
   rotate: false
-  xy: 382, 5
+  xy: 355, 5
   size: 25, 57
   orig: 25, 57
   offset: 0, 0
   index: -1
 hh_human_body_h_std_bd_999_3_0.png
   rotate: false
-  xy: 618, 8
+  xy: 593, 8
   size: 24, 54
   orig: 24, 54
   offset: 0, 0
@@ -909,259 +916,252 @@ hh_human_body_h_std_bd_999_7_0.png
   index: -1
 hh_human_body_h_std_hd_1_0_0.png
   rotate: false
-  xy: 1467, 34
+  xy: 1501, 34
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_1_1_0.png
   rotate: false
-  xy: 1787, 34
+  xy: 2543, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_1_2_0.png
   rotate: false
-  xy: 2243, 31
+  xy: 2069, 31
   size: 26, 31
   orig: 26, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_1_3_0.png
   rotate: false
-  xy: 2271, 31
+  xy: 2013, 31
   size: 26, 31
   orig: 26, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_1_7_0.png
   rotate: false
-  xy: 2851, 34
+  xy: 2827, 34
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_2_0_0.png
   rotate: false
-  xy: 1816, 34
+  xy: 2485, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_2_1_0.png
   rotate: false
-  xy: 1874, 34
+  xy: 2398, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_2_2_0.png
   rotate: false
-  xy: 2466, 31
+  xy: 2262, 31
   size: 25, 31
   orig: 25, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_2_3_0.png
   rotate: false
-  xy: 2299, 31
+  xy: 1349, 4
   size: 26, 31
   orig: 26, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_2_7_0.png
   rotate: false
-  xy: 2823, 34
+  xy: 2771, 34
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_3_0_0.png
   rotate: false
-  xy: 1903, 34
+  xy: 2427, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_3_1_0.png
   rotate: false
-  xy: 1845, 34
+  xy: 1531, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_3_2_0.png
   rotate: false
-  xy: 2493, 31
+  xy: 2208, 31
   size: 25, 31
   orig: 25, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_3_3_0.png
   rotate: false
-  xy: 2327, 31
+  xy: 2153, 31
   size: 26, 31
   orig: 26, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_3_7_0.png
   rotate: false
-  xy: 2767, 34
+  xy: 2715, 34
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_4_0_0.png
   rotate: false
-  xy: 1990, 34
+  xy: 1589, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_4_1_0.png
   rotate: false
-  xy: 2077, 34
+  xy: 2601, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_4_2_0.png
   rotate: false
-  xy: 2628, 31
+  xy: 2343, 31
   size: 25, 31
   orig: 25, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_4_3_0.png
   rotate: false
-  xy: 2411, 31
+  xy: 2097, 31
   size: 26, 31
   orig: 26, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_std_hd_4_7_0.png
   rotate: false
-  xy: 2935, 34
+  xy: 2687, 34
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_std_lh_1_0_0.png
   rotate: false
-  xy: 3943, 36
+  xy: 3942, 36
   size: 5, 26
   orig: 5, 26
   offset: 0, 0
   index: -1
 hh_human_body_h_std_lh_1_1_0.png
   rotate: false
-  xy: 1567, 2
+  xy: 1689, 2
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_std_lh_1_2_0.png
   rotate: false
-  xy: 3908, 35
+  xy: 3928, 35
   size: 5, 27
   orig: 5, 27
   offset: 0, 0
   index: -1
 hh_human_body_h_std_lh_1_3_0.png
   rotate: false
-  xy: 3713, 29
+  xy: 3717, 29
   size: 8, 33
   orig: 8, 33
   offset: 0, 0
   index: -1
 hh_human_body_h_std_lh_1_7_0.png
   rotate: false
-  xy: 3878, 31
+  xy: 3807, 31
   size: 8, 31
   orig: 8, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_std_rh_1_0_0.png
   rotate: false
-  xy: 3615, 29
+  xy: 3649, 29
   size: 11, 33
   orig: 11, 33
   offset: 0, 0
   index: -1
 hh_human_body_h_std_rh_1_1_0.png
   rotate: false
-  xy: 1556, 2
+  xy: 1700, 2
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_std_rh_1_2_0.png
   rotate: false
-  xy: 3672, 29
+  xy: 3706, 29
   size: 9, 33
   orig: 9, 33
   offset: 0, 0
   index: -1
 hh_human_body_h_std_rh_1_3_0.png
   rotate: false
-  xy: 3703, 29
+  xy: 3727, 29
   size: 8, 33
   orig: 8, 33
   offset: 0, 0
   index: -1
 hh_human_body_h_std_rh_1_7_0.png
   rotate: false
-  xy: 3753, 30
+  xy: 3767, 30
   size: 8, 32
   orig: 8, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_std_sd_1_0_0.png
   rotate: false
-  xy: 2963, 45
+  xy: 2440, 15
   size: 34, 17
   orig: 34, 17
   offset: 0, 0
   index: -1
 hh_human_body_h_wav_lh_1_0_0.png
   rotate: false
-  xy: 3528, 30
+  xy: 3404, 30
   size: 14, 32
   orig: 14, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_wav_lh_1_0_1.png
   rotate: false
-  xy: 3391, 30
+  xy: 3231, 30
   size: 18, 32
   orig: 18, 32
   offset: 0, 0
   index: -1
-hh_human_body_h_wav_lh_1_1_0.png
-  rotate: false
-  xy: 3574, 31
-  size: 12, 31
-  orig: 12, 31
-  offset: 0, 0
-  index: -1
 hh_human_body_h_wav_lh_1_1_1.png
   rotate: false
-  xy: 3560, 31
+  xy: 3622, 31
   size: 12, 31
   orig: 12, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_wav_lh_1_2_0.png
   rotate: false
-  xy: 3429, 28
+  xy: 3323, 28
   size: 15, 34
   orig: 15, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_wav_lh_1_2_1.png
   rotate: false
-  xy: 3203, 28
+  xy: 3099, 28
   size: 18, 34
   orig: 18, 34
   offset: 0, 0
@@ -1175,7 +1175,7 @@ hh_human_body_h_wav_lh_1_3_0.png
   index: -1
 hh_human_body_h_wav_lh_1_3_1.png
   rotate: false
-  xy: 993, 2
+  xy: 973, 2
   size: 18, 36
   orig: 18, 36
   offset: 0, 0
@@ -1189,28 +1189,28 @@ hh_human_body_h_wav_lh_1_4_0.png
   index: -1
 hh_human_body_h_wav_lh_1_4_1.png
   rotate: false
-  xy: 1234, 2
+  xy: 1218, 2
   size: 14, 33
   orig: 14, 33
   offset: 0, 0
   index: -1
 hh_human_body_h_wav_lh_1_5_0.png
   rotate: false
-  xy: 3223, 28
+  xy: 3079, 28
   size: 18, 34
   orig: 18, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_wav_lh_1_5_1.png
   rotate: false
-  xy: 3316, 28
+  xy: 3119, 28
   size: 17, 34
   orig: 17, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_wav_lh_1_6_0.png
   rotate: false
-  xy: 3115, 27
+  xy: 2991, 27
   size: 21, 35
   orig: 21, 35
   offset: 0, 0
@@ -1224,21 +1224,21 @@ hh_human_body_h_wav_lh_1_6_1.png
   index: -1
 hh_human_body_h_wav_lh_1_7_0.png
   rotate: false
-  xy: 3353, 27
+  xy: 3289, 27
   size: 16, 35
   orig: 16, 35
   offset: 0, 0
   index: -1
 hh_human_body_h_wav_lh_1_7_1.png
   rotate: false
-  xy: 3138, 27
+  xy: 3014, 27
   size: 20, 35
   orig: 20, 35
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_bd_1_0_0.png
   rotate: false
-  xy: 644, 8
+  xy: 692, 8
   size: 23, 54
   orig: 23, 54
   offset: 0, 0
@@ -1259,14 +1259,14 @@ hh_human_body_h_wlk_bd_1_0_2.png
   index: -1
 hh_human_body_h_wlk_bd_1_0_3.png
   rotate: false
-  xy: 463, 6
+  xy: 619, 6
   size: 23, 56
   orig: 23, 56
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_bd_1_1_0.png
   rotate: false
-  xy: 889, 9
+  xy: 911, 9
   size: 20, 53
   orig: 20, 53
   offset: 0, 0
@@ -1301,49 +1301,49 @@ hh_human_body_h_wlk_bd_1_2_0.png
   index: -1
 hh_human_body_h_wlk_bd_1_2_1.png
   rotate: false
-  xy: 693, 4
+  xy: 668, 4
   size: 22, 58
   orig: 22, 58
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_bd_1_2_2.png
   rotate: false
-  xy: 669, 3
+  xy: 644, 3
   size: 22, 59
   orig: 22, 59
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_bd_1_2_3.png
   rotate: false
-  xy: 225, 5
+  xy: 263, 5
   size: 36, 57
   orig: 36, 57
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_bd_1_3_0.png
   rotate: false
-  xy: 540, 8
+  xy: 541, 8
   size: 24, 54
   orig: 24, 54
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_bd_1_3_1.png
   rotate: false
-  xy: 488, 7
+  xy: 463, 7
   size: 24, 55
   orig: 24, 55
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_bd_1_3_2.png
   rotate: false
-  xy: 566, 8
+  xy: 515, 8
   size: 24, 54
   orig: 24, 54
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_bd_1_3_3.png
   rotate: false
-  xy: 514, 7
+  xy: 489, 7
   size: 24, 55
   orig: 24, 55
   offset: 0, 0
@@ -1364,7 +1364,7 @@ hh_human_body_h_wlk_bd_1_7_1.png
   index: -1
 hh_human_body_h_wlk_bd_1_7_2.png
   rotate: false
-  xy: 767, 11
+  xy: 842, 11
   size: 23, 51
   orig: 23, 51
   offset: 0, 0
@@ -1378,203 +1378,203 @@ hh_human_body_h_wlk_bd_1_7_3.png
   index: -1
 hh_human_body_h_wlk_lh_1_0_0.png
   rotate: false
-  xy: 3929, 35
+  xy: 3935, 35
   size: 5, 27
   orig: 5, 27
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_0_1.png
   rotate: false
-  xy: 3993, 46
+  xy: 4005, 46
   size: 5, 16
   orig: 5, 16
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_0_2.png
   rotate: false
-  xy: 3936, 36
+  xy: 3949, 36
   size: 5, 26
   orig: 5, 26
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_0_3.png
   rotate: false
-  xy: 2236, 2
+  xy: 3904, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_1_0.png
   rotate: false
-  xy: 1545, 2
+  xy: 1711, 2
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_1_1.png
   rotate: false
-  xy: 263, 2
+  xy: 225, 2
   size: 5, 9
   orig: 5, 9
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_1_2.png
   rotate: false
-  xy: 1534, 2
+  xy: 1722, 2
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_1_3.png
   rotate: false
-  xy: 3987, 43
+  xy: 3993, 43
   size: 4, 19
   orig: 4, 19
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_2_0.png
   rotate: false
-  xy: 3915, 35
+  xy: 3921, 35
   size: 5, 27
   orig: 5, 27
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_2_1.png
   rotate: false
-  xy: 3847, 34
+  xy: 3873, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_2_2.png
   rotate: false
-  xy: 3922, 35
+  xy: 3914, 35
   size: 5, 27
   orig: 5, 27
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_2_3.png
   rotate: false
-  xy: 2415, 17
+  xy: 1849, 14
   size: 4, 12
   orig: 4, 12
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_3_0.png
   rotate: false
-  xy: 3652, 28
+  xy: 3696, 28
   size: 8, 34
   orig: 8, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_3_1.png
   rotate: false
-  xy: 3693, 29
+  xy: 3737, 29
   size: 8, 33
   orig: 8, 33
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_3_2.png
   rotate: false
-  xy: 3662, 28
+  xy: 3686, 28
   size: 8, 34
   orig: 8, 34
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_3_3.png
   rotate: false
-  xy: 1731, 2
+  xy: 1488, 2
   size: 8, 30
   orig: 8, 30
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_7_0.png
   rotate: false
-  xy: 3733, 30
+  xy: 3787, 30
   size: 8, 32
   orig: 8, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_7_1.png
   rotate: false
-  xy: 1687, 2
+  xy: 1733, 2
   size: 8, 29
   orig: 8, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_7_2.png
   rotate: false
-  xy: 3858, 31
+  xy: 3817, 31
   size: 8, 31
   orig: 8, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_lh_1_7_3.png
   rotate: false
-  xy: 3723, 30
+  xy: 3777, 30
   size: 8, 32
   orig: 8, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_0_0.png
   rotate: false
-  xy: 1717, 2
+  xy: 2398, 2
   size: 12, 30
   orig: 12, 30
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_0_1.png
   rotate: false
-  xy: 1520, 2
+  xy: 1675, 2
   size: 12, 29
   orig: 12, 29
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_0_2.png
   rotate: false
-  xy: 3588, 30
+  xy: 3608, 30
   size: 12, 32
   orig: 12, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_0_3.png
   rotate: false
-  xy: 2246, 2
+  xy: 1743, 4
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_1_0.png
   rotate: false
-  xy: 3825, 34
+  xy: 3851, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_1_1.png
   rotate: false
-  xy: 2263, 2
+  xy: 1760, 4
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_1_2.png
   rotate: false
-  xy: 3836, 34
+  xy: 3862, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_1_3.png
   rotate: false
-  xy: 1697, 2
+  xy: 3476, 38
   size: 18, 24
   orig: 18, 24
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_2_0.png
   rotate: false
-  xy: 3640, 27
+  xy: 3662, 27
   size: 10, 35
   orig: 10, 35
   offset: 0, 0
@@ -1595,63 +1595,63 @@ hh_human_body_h_wlk_rh_1_2_2.png
   index: -1
 hh_human_body_h_wlk_rh_1_2_3.png
   rotate: false
-  xy: 3511, 30
+  xy: 3387, 30
   size: 15, 32
   orig: 15, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_3_0.png
   rotate: false
-  xy: 3683, 29
+  xy: 3747, 29
   size: 8, 33
   orig: 8, 33
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_3_1.png
   rotate: false
-  xy: 3888, 34
+  xy: 3894, 34
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_3_2.png
   rotate: false
-  xy: 3743, 30
+  xy: 3797, 30
   size: 8, 32
   orig: 8, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_3_3.png
   rotate: false
-  xy: 3868, 31
+  xy: 3827, 31
   size: 8, 31
   orig: 8, 31
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_7_0.png
   rotate: false
-  xy: 1751, 2
+  xy: 1666, 2
   size: 7, 30
   orig: 7, 30
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_7_1.png
   rotate: false
-  xy: 1741, 2
+  xy: 1498, 2
   size: 8, 30
   orig: 8, 30
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_7_2.png
   rotate: false
-  xy: 3763, 30
+  xy: 3757, 30
   size: 8, 32
   orig: 8, 32
   offset: 0, 0
   index: -1
 hh_human_body_h_wlk_rh_1_7_3.png
   rotate: false
-  xy: 3898, 34
+  xy: 3884, 34
   size: 8, 28
   orig: 8, 28
   offset: 0, 0

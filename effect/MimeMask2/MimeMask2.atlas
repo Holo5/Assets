@@ -20,14 +20,14 @@ MimeMask2_h_std_fx123_1_1_0_1.png
   index: -1
 MimeMask2_h_std_fx123_1_1_1_0.png
   rotate: false
-  xy: 74, 2
+  xy: 120, 32
   size: 16, 30
   orig: 16, 30
   offset: 0, 0
   index: -1
 MimeMask2_h_std_fx123_1_1_1_1.png
   rotate: false
-  xy: 54, 32
+  xy: 74, 2
   size: 16, 30
   orig: 16, 30
   offset: 0, 0
@@ -48,14 +48,14 @@ MimeMask2_h_std_fx123_1_1_2_1.png
   index: -1
 MimeMask2_h_std_fx123_1_1_3_0.png
   rotate: false
-  xy: 2, 32
+  xy: 28, 32
   size: 24, 30
   orig: 24, 30
   offset: 0, 0
   index: -1
 MimeMask2_h_std_fx123_1_1_3_1.png
   rotate: false
-  xy: 28, 32
+  xy: 2, 32
   size: 24, 30
   orig: 24, 30
   offset: 0, 0
@@ -76,14 +76,14 @@ MimeMask2_h_std_fx123_1_1_4_1.png
   index: -1
 MimeMask2_h_std_fx123_1_1_5_0.png
   rotate: false
-  xy: 92, 2
+  xy: 54, 32
   size: 16, 30
   orig: 16, 30
   offset: 0, 0
   index: -1
 MimeMask2_h_std_fx123_1_1_5_1.png
   rotate: false
-  xy: 120, 32
+  xy: 92, 2
   size: 16, 30
   orig: 16, 30
   offset: 0, 0

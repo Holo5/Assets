@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 PlastoPodChair_h_std_fx107_1_1_0_0.png
   rotate: false
-  xy: 206, 3
+  xy: 274, 3
   size: 66, 49
   orig: 66, 49
   offset: 0, 0
@@ -20,21 +20,21 @@ PlastoPodChair_h_std_fx107_1_1_1_0.png
   index: -1
 PlastoPodChair_h_std_fx107_1_1_2_0.png
   rotate: false
-  xy: 2, 2
+  xy: 138, 2
   size: 66, 50
   orig: 66, 50
   offset: 0, 0
   index: -1
 PlastoPodChair_h_std_fx107_1_1_3_0.png
   rotate: false
-  xy: 70, 2
+  xy: 2, 2
   size: 66, 50
   orig: 66, 50
   offset: 0, 0
   index: -1
 PlastoPodChair_h_std_fx107_1_1_4_0.png
   rotate: false
-  xy: 138, 2
+  xy: 70, 2
   size: 66, 50
   orig: 66, 50
   offset: 0, 0
@@ -48,7 +48,7 @@ PlastoPodChair_h_std_fx107_1_1_5_0.png
   index: -1
 PlastoPodChair_h_std_fx107_1_1_6_0.png
   rotate: false
-  xy: 274, 3
+  xy: 206, 3
   size: 66, 49
   orig: 66, 49
   offset: 0, 0

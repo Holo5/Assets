@@ -1,0 +1,90 @@
+
+acc_head_U_eyemask.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_head_U_eyemask_h_lay_he_3687_2_0.png
+  rotate: false
+  xy: 74, 7
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+acc_head_U_eyemask_h_lay_he_3688_2_0.png
+  rotate: false
+  xy: 217, 19
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+acc_head_U_eyemask_h_std_he_3687_0_0.png
+  rotate: false
+  xy: 53, 9
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+acc_head_U_eyemask_h_std_he_3687_1_0.png
+  rotate: false
+  xy: 30, 10
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+acc_head_U_eyemask_h_std_he_3687_2_0.png
+  rotate: false
+  xy: 2, 10
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+acc_head_U_eyemask_h_std_he_3687_3_0.png
+  rotate: false
+  xy: 95, 15
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+acc_head_U_eyemask_h_std_he_3687_7_0.png
+  rotate: false
+  xy: 121, 18
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+acc_head_U_eyemask_h_std_he_3688_0_0.png
+  rotate: false
+  xy: 234, 10
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+acc_head_U_eyemask_h_std_he_3688_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+acc_head_U_eyemask_h_std_he_3688_2_0.png
+  rotate: false
+  xy: 195, 17
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+acc_head_U_eyemask_h_std_he_3688_3_0.png
+  rotate: false
+  xy: 171, 19
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+acc_head_U_eyemask_h_std_he_3688_7_0.png
+  rotate: false
+  xy: 147, 19
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1

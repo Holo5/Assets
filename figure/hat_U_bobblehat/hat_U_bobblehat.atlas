@@ -4,18 +4,32 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hat_U_bobblehat_h_lay_ha_3288_2_0.png
+hat_U_bobblehat_h_lay_ha_3287_2_0.png
+  rotate: false
+  xy: 94, 34
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+hat_U_bobblehat_h_lsp_ha_3288_2_0.png
   rotate: false
   xy: 91, 22
   size: 9, 10
   orig: 9, 10
   offset: 0, 0
   index: -1
-hat_U_bobblehat_h_lsp_ha_3287_2_0.png
+hat_U_bobblehat_h_spk_ha_3287_0_0.png
   rotate: false
-  xy: 94, 34
-  size: 25, 28
-  orig: 25, 28
+  xy: 2, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hat_U_bobblehat_h_spk_ha_3287_1_0.png
+  rotate: false
+  xy: 2, 33
+  size: 30, 29
+  orig: 30, 29
   offset: 0, 0
   index: -1
 hat_U_bobblehat_h_spk_ha_3287_2_0.png
@@ -32,39 +46,25 @@ hat_U_bobblehat_h_spk_ha_3287_3_0.png
   orig: 28, 25
   offset: 0, 0
   index: -1
-hat_U_bobblehat_h_spk_ha_3287_7_0.png
+hat_U_bobblehat_h_std_ha_3287_7_0.png
   rotate: false
   xy: 34, 32
   size: 28, 30
   orig: 28, 30
   offset: 0, 0
   index: -1
-hat_U_bobblehat_h_spk_ha_3288_0_0.png
+hat_U_bobblehat_h_std_ha_3288_0_0.png
   rotate: false
-  xy: 65, 25
+  xy: 78, 25
   size: 11, 10
   orig: 11, 10
   offset: 0, 0
   index: -1
-hat_U_bobblehat_h_spk_ha_3288_1_0.png
+hat_U_bobblehat_h_std_ha_3288_1_0.png
   rotate: false
   xy: 65, 13
   size: 11, 10
   orig: 11, 10
-  offset: 0, 0
-  index: -1
-hat_U_bobblehat_h_std_ha_3287_0_0.png
-  rotate: false
-  xy: 2, 33
-  size: 30, 29
-  orig: 30, 29
-  offset: 0, 0
-  index: -1
-hat_U_bobblehat_h_std_ha_3287_1_0.png
-  rotate: false
-  xy: 2, 2
-  size: 30, 29
-  orig: 30, 29
   offset: 0, 0
   index: -1
 hat_U_bobblehat_h_std_ha_3288_2_0.png
@@ -83,7 +83,7 @@ hat_U_bobblehat_h_std_ha_3288_3_0.png
   index: -1
 hat_U_bobblehat_h_std_ha_3288_7_0.png
   rotate: false
-  xy: 78, 25
+  xy: 65, 25
   size: 11, 10
   orig: 11, 10
   offset: 0, 0

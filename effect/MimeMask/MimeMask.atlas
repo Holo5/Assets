@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 MimeMask_h_std_fx83_1_1_0_0.png
   rotate: false
-  xy: 2, 28
+  xy: 2, 2
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 MimeMask_h_std_fx83_1_1_1_0.png
   rotate: false
-  xy: 2, 86
+  xy: 2, 54
   size: 16, 30
   orig: 16, 30
   offset: 0, 0
@@ -41,14 +41,14 @@ MimeMask_h_std_fx83_1_1_4_0.png
   index: -1
 MimeMask_h_std_fx83_1_1_5_0.png
   rotate: false
-  xy: 2, 54
+  xy: 2, 86
   size: 16, 30
   orig: 16, 30
   offset: 0, 0
   index: -1
 MimeMask_h_std_fx83_1_1_6_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 28
   size: 9, 24
   orig: 9, 24
   offset: 0, 0

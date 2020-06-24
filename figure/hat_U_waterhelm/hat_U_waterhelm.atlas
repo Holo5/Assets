@@ -46,9 +46,16 @@ hat_U_waterhelm_h_spk_ha_2787_3_0.png
   orig: 34, 46
   offset: 0, 0
   index: -1
-hat_U_waterhelm_h_std_ha_2787_0_0.png
+hat_U_waterhelm_h_spk_ha_2787_7_0.png
   rotate: false
   xy: 173, 4
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+hat_U_waterhelm_h_std_ha_2787_0_0.png
+  rotate: false
+  xy: 210, 4
   size: 35, 44
   orig: 35, 44
   offset: 0, 0
@@ -72,12 +79,5 @@ hat_U_waterhelm_h_std_ha_2787_3_0.png
   xy: 284, 3
   size: 34, 45
   orig: 34, 45
-  offset: 0, 0
-  index: -1
-hat_U_waterhelm_h_std_ha_2787_7_0.png
-  rotate: false
-  xy: 210, 4
-  size: 35, 44
-  orig: 35, 44
   offset: 0, 0
   index: -1

@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 shirt_U_cladydress_h_crr_ls_2782_0_0.png
   rotate: false
-  xy: 658, 13
+  xy: 870, 17
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_crr_ls_2782_1_0.png
   rotate: false
-  xy: 278, 2
+  xy: 296, 2
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_crr_ls_2782_2_0.png
   rotate: false
-  xy: 532, 8
+  xy: 466, 7
   size: 12, 24
   orig: 12, 24
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_crr_ls_2782_3_0.png
   rotate: false
-  xy: 495, 7
+  xy: 982, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
@@ -41,28 +41,28 @@ shirt_U_cladydress_h_crr_ls_2782_4_0.png
   index: -1
 shirt_U_cladydress_h_crr_ls_2782_5_0.png
   rotate: false
-  xy: 296, 2
+  xy: 278, 2
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_crr_ls_2782_6_0.png
   rotate: false
-  xy: 817, 39
+  xy: 779, 39
   size: 17, 23
   orig: 17, 23
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_crr_ls_2782_7_0.png
   rotate: false
-  xy: 360, 2
+  xy: 839, 14
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_crr_rs_2782_0_0.png
   rotate: false
-  xy: 889, 41
+  xy: 349, 2
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
@@ -76,35 +76,35 @@ shirt_U_cladydress_h_crr_rs_2782_2_0.png
   index: -1
 shirt_U_cladydress_h_crr_rs_2782_3_0.png
   rotate: false
-  xy: 1007, 34
+  xy: 927, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_crr_rs_2782_4_0.png
   rotate: false
-  xy: 546, 7
+  xy: 566, 7
   size: 12, 24
   orig: 12, 24
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_crr_rs_2782_6_0.png
   rotate: false
-  xy: 371, 2
+  xy: 861, 17
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_crr_rs_2782_7_0.png
   rotate: false
-  xy: 349, 2
+  xy: 850, 18
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_drk_rs_2782_0_0.png
   rotate: false
-  xy: 778, 42
+  xy: 368, 2
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
@@ -132,7 +132,7 @@ shirt_U_cladydress_h_drk_rs_2782_3_0.png
   index: -1
 shirt_U_cladydress_h_drk_rs_2782_4_0.png
   rotate: false
-  xy: 128, 3
+  xy: 388, 6
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
@@ -153,7 +153,7 @@ shirt_U_cladydress_h_drk_rs_2782_6_0.png
   index: -1
 shirt_U_cladydress_h_drk_rs_2782_7_0.png
   rotate: false
-  xy: 146, 2
+  xy: 406, 6
   size: 11, 16
   orig: 11, 16
   offset: 0, 0
@@ -167,7 +167,7 @@ shirt_U_cladydress_h_lay_ch_2782_2_0.png
   index: -1
 shirt_U_cladydress_h_lay_ls_2782_2_0.png
   rotate: false
-  xy: 753, 44
+  xy: 754, 44
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
@@ -186,107 +186,114 @@ shirt_U_cladydress_h_std_ch_2782_0_0.png
   orig: 30, 39
   offset: 0, 0
   index: -1
-shirt_U_cladydress_h_std_ch_2782_1_0.png
+shirt_U_cladydress_h_std_ch_2782_3_0.png
   rotate: false
-  xy: 382, 24
-  size: 26, 38
-  orig: 26, 38
+  xy: 49, 21
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+shirt_U_cladydress_h_std_ch_2782_7_0.png
+  rotate: false
+  xy: 349, 25
+  size: 31, 37
+  orig: 31, 37
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_std_ls_2782_0_0.png
   rotate: false
-  xy: 727, 5
+  xy: 802, 10
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_std_ls_2782_1_0.png
   rotate: false
-  xy: 680, 11
+  xy: 711, 10
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_std_ls_2782_2_0.png
   rotate: false
-  xy: 863, 12
+  xy: 812, 11
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_std_ls_2782_3_0.png
   rotate: false
-  xy: 749, 7
+  xy: 650, 6
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_std_rs_2782_0_0.png
   rotate: false
-  xy: 951, 35
+  xy: 940, 35
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_std_rs_2782_1_0.png
   rotate: false
-  xy: 795, 15
+  xy: 724, 10
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_std_rs_2782_2_0.png
   rotate: false
-  xy: 573, 3
+  xy: 492, 6
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_std_rs_2782_3_0.png
   rotate: false
-  xy: 622, 7
+  xy: 505, 6
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_std_rs_2782_7_0.png
   rotate: false
-  xy: 586, 3
+  xy: 480, 3
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wav_ls_2782_0_0.png
   rotate: false
-  xy: 736, 36
+  xy: 817, 36
   size: 15, 26
   orig: 15, 26
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wav_ls_2782_0_1.png
   rotate: false
-  xy: 629, 36
+  xy: 684, 36
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wav_ls_2782_1_0.png
   rotate: false
-  xy: 481, 7
+  xy: 552, 7
   size: 12, 24
   orig: 12, 24
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wav_ls_2782_1_1.png
   rotate: false
-  xy: 908, 39
+  xy: 884, 39
   size: 13, 23
   orig: 13, 23
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wav_ls_2782_2_0.png
   rotate: false
-  xy: 836, 37
+  xy: 736, 37
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
@@ -300,7 +307,7 @@ shirt_U_cladydress_h_wav_ls_2782_2_1.png
   index: -1
 shirt_U_cladydress_h_wav_ls_2782_3_0.png
   rotate: false
-  xy: 685, 35
+  xy: 648, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
@@ -314,28 +321,28 @@ shirt_U_cladydress_h_wav_ls_2782_3_1.png
   index: -1
 shirt_U_cladydress_h_wav_ls_2782_4_0.png
   rotate: false
-  xy: 590, 35
+  xy: 629, 35
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wav_ls_2782_4_1.png
   rotate: false
-  xy: 667, 35
+  xy: 666, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wav_ls_2782_5_0.png
   rotate: false
-  xy: 609, 36
+  xy: 590, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wav_ls_2782_5_1.png
   rotate: false
-  xy: 648, 36
+  xy: 610, 36
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
@@ -370,14 +377,14 @@ shirt_U_cladydress_h_wav_ls_2782_7_1.png
   index: -1
 shirt_U_cladydress_h_wlk_ch_2782_0_0.png
   rotate: false
-  xy: 285, 23
+  xy: 317, 23
   size: 30, 39
   orig: 30, 39
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_ch_2782_0_2.png
   rotate: false
-  xy: 317, 23
+  xy: 285, 23
   size: 30, 39
   orig: 30, 39
   offset: 0, 0
@@ -391,19 +398,19 @@ shirt_U_cladydress_h_wlk_ch_2782_1_0.png
   index: -1
 shirt_U_cladydress_h_wlk_ch_2782_1_2.png
   rotate: false
+  xy: 382, 24
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+shirt_U_cladydress_h_wlk_ch_2782_1_3.png
+  rotate: false
   xy: 410, 24
   size: 26, 38
   orig: 26, 38
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_ch_2782_2_0.png
-  rotate: false
-  xy: 154, 20
-  size: 31, 42
-  orig: 31, 42
-  offset: 0, 0
-  index: -1
-shirt_U_cladydress_h_wlk_ch_2782_2_1.png
   rotate: false
   xy: 220, 20
   size: 31, 42
@@ -417,6 +424,13 @@ shirt_U_cladydress_h_wlk_ch_2782_2_2.png
   orig: 31, 42
   offset: 0, 0
   index: -1
+shirt_U_cladydress_h_wlk_ch_2782_2_3.png
+  rotate: false
+  xy: 154, 20
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
 shirt_U_cladydress_h_wlk_ch_2782_3_0.png
   rotate: false
   xy: 119, 21
@@ -426,70 +440,63 @@ shirt_U_cladydress_h_wlk_ch_2782_3_0.png
   index: -1
 shirt_U_cladydress_h_wlk_ch_2782_3_2.png
   rotate: false
-  xy: 49, 21
-  size: 33, 41
-  orig: 33, 41
-  offset: 0, 0
-  index: -1
-shirt_U_cladydress_h_wlk_ch_2782_3_3.png
-  rotate: false
   xy: 84, 21
   size: 33, 41
   orig: 33, 41
   offset: 0, 0
   index: -1
-shirt_U_cladydress_h_wlk_ch_2782_7_2.png
-  rotate: false
-  xy: 349, 25
-  size: 31, 37
-  orig: 31, 37
-  offset: 0, 0
-  index: -1
 shirt_U_cladydress_h_wlk_ls_2782_0_1.png
   rotate: false
-  xy: 873, 18
+  xy: 770, 21
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_ls_2782_0_2.png
   rotate: false
-  xy: 693, 6
+  xy: 580, 4
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_ls_2782_0_3.png
   rotate: false
-  xy: 508, 6
+  xy: 995, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_ls_2782_1_0.png
   rotate: false
-  xy: 808, 15
+  xy: 779, 15
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
+shirt_U_cladydress_h_wlk_ls_2782_1_1.png
+  rotate: false
+  xy: 46, 26
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 shirt_U_cladydress_h_wlk_ls_2782_1_3.png
   rotate: false
-  xy: 882, 17
+  xy: 832, 12
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_ls_2782_2_0.png
   rotate: false
-  xy: 853, 12
+  xy: 822, 11
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_ls_2782_2_1.png
   rotate: false
-  xy: 560, 6
+  xy: 685, 9
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
@@ -503,105 +510,105 @@ shirt_U_cladydress_h_wlk_ls_2782_2_3.png
   index: -1
 shirt_U_cladydress_h_wlk_ls_2782_3_0.png
   rotate: false
-  xy: 703, 5
+  xy: 517, 6
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_ls_2782_3_1.png
   rotate: false
-  xy: 634, 7
+  xy: 529, 5
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_ls_2782_3_2.png
   rotate: false
-  xy: 737, 7
+  xy: 614, 7
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_ls_2782_3_3.png
   rotate: false
-  xy: 842, 9
+  xy: 541, 6
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
-shirt_U_cladydress_h_wlk_ls_2782_7_1.png
+shirt_U_cladydress_h_wlk_ls_2782_7_0.png
   rotate: false
-  xy: 773, 14
-  size: 9, 26
-  orig: 9, 26
-  offset: 0, 0
-  index: -1
-shirt_U_cladydress_h_wlk_ls_2782_7_2.png
-  rotate: false
-  xy: 598, 5
+  xy: 590, 6
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
+shirt_U_cladydress_h_wlk_ls_2782_7_1.png
+  rotate: false
+  xy: 674, 7
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
 shirt_U_cladydress_h_wlk_ls_2782_7_3.png
   rotate: false
-  xy: 521, 7
+  xy: 791, 11
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_rs_2782_0_0.png
   rotate: false
-  xy: 965, 35
+  xy: 954, 35
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_rs_2782_0_1.png
   rotate: false
-  xy: 923, 36
+  xy: 1008, 36
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_rs_2782_0_2.png
   rotate: false
-  xy: 937, 35
+  xy: 968, 35
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_rs_2782_0_3.png
   rotate: false
-  xy: 854, 37
+  xy: 834, 37
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
   index: -1
-shirt_U_cladydress_h_wlk_rs_2782_1_1.png
+shirt_U_cladydress_h_wlk_rs_2782_1_0.png
   rotate: false
-  xy: 466, 9
-  size: 13, 22
-  orig: 13, 22
-  offset: 0, 0
-  index: -1
-shirt_U_cladydress_h_wlk_rs_2782_1_2.png
-  rotate: false
-  xy: 667, 11
+  xy: 698, 10
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
+shirt_U_cladydress_h_wlk_rs_2782_1_1.png
+  rotate: false
+  xy: 869, 40
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
 shirt_U_cladydress_h_wlk_rs_2782_1_3.png
   rotate: false
-  xy: 870, 41
+  xy: 850, 41
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_rs_2782_2_0.png
   rotate: false
-  xy: 993, 34
+  xy: 913, 34
   size: 12, 28
   orig: 12, 28
   offset: 0, 0
@@ -615,7 +622,7 @@ shirt_U_cladydress_h_wlk_rs_2782_2_1.png
   index: -1
 shirt_U_cladydress_h_wlk_rs_2782_2_2.png
   rotate: false
-  xy: 979, 33
+  xy: 899, 33
   size: 12, 29
   orig: 12, 29
   offset: 0, 0
@@ -629,57 +636,50 @@ shirt_U_cladydress_h_wlk_rs_2782_2_3.png
   index: -1
 shirt_U_cladydress_h_wlk_rs_2782_3_0.png
   rotate: false
-  xy: 646, 7
+  xy: 626, 6
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_rs_2782_3_1.png
   rotate: false
-  xy: 831, 9
+  xy: 759, 16
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_rs_2782_3_2.png
   rotate: false
-  xy: 715, 5
+  xy: 638, 6
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_cladydress_h_wlk_rs_2782_3_3.png
   rotate: false
-  xy: 761, 16
+  xy: 662, 7
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
-shirt_U_cladydress_h_wlk_rs_2782_7_1.png
+shirt_U_cladydress_h_wlk_rs_2782_7_0.png
   rotate: false
-  xy: 820, 11
-  size: 9, 26
-  orig: 9, 26
-  offset: 0, 0
-  index: -1
-shirt_U_cladydress_h_wlk_rs_2782_7_2.png
-  rotate: false
-  xy: 610, 6
+  xy: 602, 6
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
-shirt_U_cladydress_h_wlk_rs_2782_7_3.png
+shirt_U_cladydress_h_wlk_rs_2782_7_1.png
   rotate: false
-  xy: 784, 14
+  xy: 737, 9
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
-shirt_U_cladydress_sh_wlk_ls_2782_1_1.png
+shirt_U_cladydress_h_wlk_rs_2782_7_3.png
   rotate: false
-  xy: 795, 39
-  size: 1, 1
-  orig: 1, 1
+  xy: 748, 9
+  size: 9, 26
+  orig: 9, 26
   offset: 0, 0
   index: -1

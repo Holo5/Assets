@@ -1,0 +1,90 @@
+
+hair_U_bedhead.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_bedhead_h_lay_hr_3719_2_0.png
+  rotate: false
+  xy: 401, 2
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+hair_U_bedhead_h_lay_hrb_3719_2_0.png
+  rotate: false
+  xy: 368, 2
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+hair_U_bedhead_h_std_hr_3719_0_0.png
+  rotate: false
+  xy: 333, 6
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+hair_U_bedhead_h_std_hr_3719_1_0.png
+  rotate: false
+  xy: 113, 7
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+hair_U_bedhead_h_std_hr_3719_2_0.png
+  rotate: false
+  xy: 261, 9
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+hair_U_bedhead_h_std_hr_3719_3_0.png
+  rotate: false
+  xy: 187, 8
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+hair_U_bedhead_h_std_hr_3719_7_0.png
+  rotate: false
+  xy: 2, 6
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+hair_U_bedhead_h_std_hrb_3719_0_0.png
+  rotate: false
+  xy: 298, 6
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+hair_U_bedhead_h_std_hrb_3719_1_0.png
+  rotate: false
+  xy: 76, 7
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+hair_U_bedhead_h_std_hrb_3719_2_0.png
+  rotate: false
+  xy: 224, 9
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+hair_U_bedhead_h_std_hrb_3719_3_0.png
+  rotate: false
+  xy: 150, 8
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+hair_U_bedhead_h_std_hrb_3719_7_0.png
+  rotate: false
+  xy: 39, 6
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1

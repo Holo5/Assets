@@ -20,14 +20,14 @@ trousers_U_cyskirt_h_lay_lg_2673_2_0.png
   index: -1
 trousers_U_cyskirt_h_lay_lg_2674_2_0.png
   rotate: false
-  xy: 220, 2
+  xy: 195, 2
   size: 12, 7
   orig: 12, 7
   offset: 0, 0
   index: -1
 trousers_U_cyskirt_h_sit_lg_2672_0_0.png
   rotate: false
-  xy: 236, 11
+  xy: 204, 11
   size: 28, 19
   orig: 28, 19
   offset: 0, 0
@@ -55,7 +55,7 @@ trousers_U_cyskirt_h_sit_lg_2673_2_0.png
   index: -1
 trousers_U_cyskirt_h_sit_lg_2674_2_0.png
   rotate: false
-  xy: 234, 2
+  xy: 209, 2
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
@@ -67,13 +67,6 @@ trousers_U_cyskirt_h_std_lg_2672_0_0.png
   orig: 32, 16
   offset: 0, 0
   index: -1
-trousers_U_cyskirt_h_std_lg_2672_1_0.png
-  rotate: false
-  xy: 168, 2
-  size: 25, 11
-  orig: 25, 11
-  offset: 0, 0
-  index: -1
 trousers_U_cyskirt_h_std_lg_2672_2_0.png
   rotate: false
   xy: 68, 14
@@ -81,37 +74,51 @@ trousers_U_cyskirt_h_std_lg_2672_2_0.png
   orig: 32, 16
   offset: 0, 0
   index: -1
+trousers_U_cyskirt_h_std_lg_2673_0_0.png
+  rotate: false
+  xy: 361, 19
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
 trousers_U_cyskirt_h_std_lg_2673_1_0.png
   rotate: false
-  xy: 407, 24
+  xy: 432, 24
   size: 16, 6
   orig: 16, 6
   offset: 0, 0
   index: -1
 trousers_U_cyskirt_h_std_lg_2673_2_0.png
   rotate: false
-  xy: 360, 19
+  xy: 385, 19
   size: 22, 11
   orig: 22, 11
   offset: 0, 0
   index: -1
 trousers_U_cyskirt_h_std_lg_2673_3_0.png
   rotate: false
-  xy: 384, 24
+  xy: 108, 6
   size: 21, 6
   orig: 21, 6
   offset: 0, 0
   index: -1
 trousers_U_cyskirt_h_std_lg_2673_7_0.png
   rotate: false
-  xy: 108, 6
+  xy: 409, 24
   size: 21, 6
   orig: 21, 6
   offset: 0, 0
   index: -1
+trousers_U_cyskirt_h_std_lg_2674_1_0.png
+  rotate: false
+  xy: 12, 2
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
 trousers_U_cyskirt_h_std_lg_2674_2_0.png
   rotate: false
-  xy: 425, 21
+  xy: 450, 21
   size: 8, 9
   orig: 8, 9
   offset: 0, 0
@@ -123,11 +130,18 @@ trousers_U_cyskirt_h_std_lg_2674_3_0.png
   orig: 8, 5
   offset: 0, 0
   index: -1
-trousers_U_cyskirt_h_wlk_lg_2672_0_1.png
+trousers_U_cyskirt_h_wlk_lg_2672_0_3.png
   rotate: false
-  xy: 136, 15
+  xy: 170, 15
   size: 32, 15
   orig: 32, 15
+  offset: 0, 0
+  index: -1
+trousers_U_cyskirt_h_wlk_lg_2672_1_2.png
+  rotate: false
+  xy: 168, 2
+  size: 25, 11
+  orig: 25, 11
   offset: 0, 0
   index: -1
 trousers_U_cyskirt_h_wlk_lg_2672_1_3.png
@@ -146,14 +160,14 @@ trousers_U_cyskirt_h_wlk_lg_2672_2_1.png
   index: -1
 trousers_U_cyskirt_h_wlk_lg_2672_2_3.png
   rotate: false
-  xy: 170, 15
+  xy: 136, 15
   size: 32, 15
   orig: 32, 15
   offset: 0, 0
   index: -1
 trousers_U_cyskirt_h_wlk_lg_2672_3_2.png
   rotate: false
-  xy: 204, 18
+  xy: 234, 18
   size: 30, 12
   orig: 30, 12
   offset: 0, 0
@@ -165,16 +179,9 @@ trousers_U_cyskirt_h_wlk_lg_2672_3_3.png
   orig: 30, 11
   offset: 0, 0
   index: -1
-trousers_U_cyskirt_h_wlk_lg_2673_0_2.png
-  rotate: false
-  xy: 336, 19
-  size: 22, 11
-  orig: 22, 11
-  offset: 0, 0
-  index: -1
 trousers_U_cyskirt_h_wlk_lg_2673_0_3.png
   rotate: false
-  xy: 195, 2
+  xy: 336, 19
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
@@ -184,12 +191,5 @@ trousers_U_cyskirt_h_wlk_lg_2673_2_1.png
   xy: 311, 18
   size: 23, 12
   orig: 23, 12
-  offset: 0, 0
-  index: -1
-trousers_U_cyskirt_h_wlk_lg_2674_1_3.png
-  rotate: false
-  xy: 12, 2
-  size: 2, 5
-  orig: 2, 5
   offset: 0, 0
   index: -1

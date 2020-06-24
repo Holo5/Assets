@@ -4,14 +4,14 @@ size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hair_U_kpop_h_lsp_hr_3145_2_0.png
+hair_U_kpop_h_lay_hr_3145_2_0.png
   rotate: false
   xy: 164, 35
   size: 28, 27
   orig: 28, 27
   offset: 0, 0
   index: -1
-hair_U_kpop_h_lsp_hrb_3145_2_0.png
+hair_U_kpop_h_lay_hrb_3145_2_0.png
   rotate: false
   xy: 134, 35
   size: 28, 27
@@ -20,14 +20,14 @@ hair_U_kpop_h_lsp_hrb_3145_2_0.png
   index: -1
 hair_U_kpop_h_spk_hr_3145_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 36, 33
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 hair_U_kpop_h_spk_hr_3145_1_0.png
   rotate: false
-  xy: 69, 2
+  xy: 70, 33
   size: 31, 29
   orig: 31, 29
   offset: 0, 0
@@ -48,7 +48,7 @@ hair_U_kpop_h_spk_hr_3145_3_0.png
   index: -1
 hair_U_kpop_h_spk_hr_3145_7_0.png
   rotate: false
-  xy: 133, 2
+  xy: 102, 2
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
@@ -69,7 +69,7 @@ hair_U_kpop_h_spk_hrb_3145_1_0.png
   index: -1
 hair_U_kpop_h_spk_hrb_3145_2_0.png
   rotate: false
-  xy: 226, 38
+  xy: 194, 38
   size: 30, 24
   orig: 30, 24
   offset: 0, 0
@@ -81,23 +81,30 @@ hair_U_kpop_h_spk_hrb_3145_3_0.png
   orig: 29, 24
   offset: 0, 0
   index: -1
+hair_U_kpop_h_spk_hrb_3145_7_0.png
+  rotate: false
+  xy: 103, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
 hair_U_kpop_h_std_hr_3145_0_0.png
   rotate: false
-  xy: 36, 33
+  xy: 2, 2
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 hair_U_kpop_h_std_hr_3145_1_0.png
   rotate: false
-  xy: 70, 33
+  xy: 69, 2
   size: 31, 29
   orig: 31, 29
   offset: 0, 0
   index: -1
 hair_U_kpop_h_std_hr_3145_2_0.png
   rotate: false
-  xy: 194, 38
+  xy: 226, 38
   size: 30, 24
   orig: 30, 24
   offset: 0, 0
@@ -111,14 +118,7 @@ hair_U_kpop_h_std_hr_3145_3_0.png
   index: -1
 hair_U_kpop_h_std_hr_3145_7_0.png
   rotate: false
-  xy: 102, 2
-  size: 29, 29
-  orig: 29, 29
-  offset: 0, 0
-  index: -1
-hair_U_kpop_h_std_hrb_3145_7_0.png
-  rotate: false
-  xy: 103, 33
+  xy: 133, 2
   size: 29, 29
   orig: 29, 29
   offset: 0, 0

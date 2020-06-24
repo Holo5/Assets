@@ -6,35 +6,35 @@ filter: Nearest,Nearest
 repeat: none
 Shoes_U_Slipons_h_lay_sh_2044_2_0.png
   rotate: false
-  xy: 310, 11
+  xy: 224, 6
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_sit_sh_2044_0_0.png
   rotate: false
-  xy: 356, 12
+  xy: 362, 12
   size: 16, 18
   orig: 16, 18
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_sit_sh_2044_2_0.png
   rotate: false
-  xy: 333, 11
+  xy: 339, 11
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_sit_sh_2045_0_0.png
   rotate: false
-  xy: 305, 6
+  xy: 509, 26
   size: 1, 4
   orig: 1, 4
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_sit_sh_2045_2_0.png
   rotate: false
-  xy: 415, 12
+  xy: 480, 10
   size: 1, 3
   orig: 1, 3
   offset: 0, 0
@@ -48,7 +48,7 @@ Shoes_U_Slipons_h_std_sh_2044_0_0.png
   index: -1
 Shoes_U_Slipons_h_std_sh_2044_1_0.png
   rotate: false
-  xy: 268, 2
+  xy: 445, 19
   size: 18, 11
   orig: 18, 11
   offset: 0, 0
@@ -62,14 +62,14 @@ Shoes_U_Slipons_h_std_sh_2044_2_0.png
   index: -1
 Shoes_U_Slipons_h_std_sh_2044_3_0.png
   rotate: false
-  xy: 229, 15
+  xy: 316, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_std_sh_2044_7_0.png
   rotate: false
-  xy: 417, 24
+  xy: 400, 11
   size: 21, 6
   orig: 21, 6
   offset: 0, 0
@@ -83,28 +83,28 @@ Shoes_U_Slipons_h_std_sh_2045_0_0.png
   index: -1
 Shoes_U_Slipons_h_std_sh_2045_1_0.png
   rotate: false
-  xy: 472, 16
+  xy: 264, 13
   size: 7, 3
   orig: 7, 3
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_std_sh_2045_2_0.png
   rotate: false
-  xy: 498, 24
+  xy: 264, 18
   size: 12, 6
   orig: 12, 6
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_std_sh_2045_3_0.png
   rotate: false
-  xy: 394, 12
+  xy: 422, 2
   size: 19, 3
   orig: 19, 3
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_std_sh_2045_7_0.png
   rotate: false
-  xy: 395, 17
+  xy: 224, 2
   size: 19, 2
   orig: 19, 2
   offset: 0, 0
@@ -174,14 +174,14 @@ Shoes_U_Slipons_h_wlk_sh_2044_2_0.png
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2044_2_1.png
   rotate: false
-  xy: 418, 4
+  xy: 247, 12
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2044_2_2.png
   rotate: false
-  xy: 374, 18
+  xy: 424, 18
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
@@ -195,7 +195,7 @@ Shoes_U_Slipons_h_wlk_sh_2044_2_3.png
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2044_3_0.png
   rotate: false
-  xy: 224, 2
+  xy: 380, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
@@ -209,7 +209,7 @@ Shoes_U_Slipons_h_wlk_sh_2044_3_1.png
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2044_3_2.png
   rotate: false
-  xy: 246, 2
+  xy: 402, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
@@ -223,28 +223,28 @@ Shoes_U_Slipons_h_wlk_sh_2044_3_3.png
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2044_7_1.png
   rotate: false
-  xy: 395, 21
+  xy: 487, 21
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2044_7_2.png
   rotate: false
-  xy: 356, 2
+  xy: 362, 2
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2044_7_3.png
   rotate: false
-  xy: 278, 15
+  xy: 465, 21
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_0_0.png
   rotate: false
-  xy: 211, 15
+  xy: 384, 2
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
@@ -258,21 +258,21 @@ Shoes_U_Slipons_h_wlk_sh_2045_0_1.png
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_0_2.png
   rotate: false
-  xy: 480, 21
+  xy: 483, 4
   size: 16, 9
   orig: 16, 9
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_0_3.png
   rotate: false
-  xy: 288, 6
+  xy: 211, 15
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_1_0.png
   rotate: false
-  xy: 300, 12
+  xy: 247, 6
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
@@ -286,7 +286,7 @@ Shoes_U_Slipons_h_wlk_sh_2045_1_1.png
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_1_2.png
   rotate: false
-  xy: 300, 18
+  xy: 278, 18
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
@@ -300,84 +300,84 @@ Shoes_U_Slipons_h_wlk_sh_2045_1_3.png
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_2_0.png
   rotate: false
-  xy: 457, 16
+  xy: 465, 10
   size: 13, 3
   orig: 13, 3
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_2_1.png
   rotate: false
-  xy: 288, 2
+  xy: 245, 2
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_2_2.png
   rotate: false
-  xy: 299, 6
+  xy: 257, 6
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_2_3.png
   rotate: false
-  xy: 252, 15
+  xy: 290, 21
   size: 24, 9
   orig: 24, 9
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_3_0.png
   rotate: false
-  xy: 437, 15
+  xy: 443, 2
   size: 18, 4
   orig: 18, 4
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_3_1.png
   rotate: false
-  xy: 460, 21
+  xy: 445, 8
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_3_2.png
   rotate: false
-  xy: 417, 18
+  xy: 485, 15
   size: 18, 4
   orig: 18, 4
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_3_3.png
   rotate: false
-  xy: 440, 21
+  xy: 423, 7
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_7_0.png
   rotate: false
-  xy: 374, 12
+  xy: 465, 15
   size: 18, 4
   orig: 18, 4
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_7_1.png
   rotate: false
-  xy: 398, 5
+  xy: 380, 12
   size: 18, 5
   orig: 18, 5
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_7_2.png
   rotate: false
-  xy: 290, 26
+  xy: 463, 2
   size: 18, 4
   orig: 18, 4
   offset: 0, 0
   index: -1
 Shoes_U_Slipons_h_wlk_sh_2045_7_3.png
   rotate: false
-  xy: 378, 5
+  xy: 402, 4
   size: 18, 5
   orig: 18, 5
   offset: 0, 0

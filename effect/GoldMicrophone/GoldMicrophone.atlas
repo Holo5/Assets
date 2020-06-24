@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 GoldMicrophone_h_std_fx139_1_1_0_0.png
   rotate: false
-  xy: 2, 16
+  xy: 22, 16
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 GoldMicrophone_h_std_fx139_1_1_1_0.png
   rotate: false
-  xy: 42, 6
+  xy: 42, 18
   size: 18, 10
   orig: 18, 10
   offset: 0, 0
   index: -1
 GoldMicrophone_h_std_fx139_1_1_2_0.png
   rotate: false
-  xy: 22, 2
+  xy: 2, 16
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
@@ -41,43 +41,22 @@ GoldMicrophone_h_std_fx139_1_1_4_0.png
   index: -1
 GoldMicrophone_h_std_fx139_1_1_5_0.png
   rotate: false
-  xy: 42, 18
+  xy: 42, 6
   size: 18, 10
   orig: 18, 10
   offset: 0, 0
   index: -1
 GoldMicrophone_h_std_fx139_1_1_6_0.png
   rotate: false
-  xy: 22, 16
+  xy: 22, 2
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
-GoldMicrophone_h_std_fx139_2_1_0_0.png
+GoldMicrophone_h_std_fx139_1_1_7_0.png
   rotate: false
   xy: 42, 3
   size: 1, 1
   orig: 1, 1
-  offset: 0, 0
-  index: -1
-GoldMicrophone_h_std_fx139_2_1_0_1.png
-  rotate: false
-  xy: 83, 19
-  size: 9, 9
-  orig: 9, 9
-  offset: 0, 0
-  index: -1
-GoldMicrophone_h_std_fx139_2_1_0_2.png
-  rotate: false
-  xy: 72, 19
-  size: 9, 9
-  orig: 9, 9
-  offset: 0, 0
-  index: -1
-GoldMicrophone_h_std_fx139_2_1_0_3.png
-  rotate: false
-  xy: 72, 8
-  size: 9, 9
-  orig: 9, 9
   offset: 0, 0
   index: -1

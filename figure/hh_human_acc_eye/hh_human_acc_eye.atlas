@@ -34,28 +34,28 @@ hh_human_acc_eye_h_lay_ea_4_2_0.png
   index: -1
 hh_human_acc_eye_h_lay_ea_5_2_0.png
   rotate: false
-  xy: 238, 14
+  xy: 214, 14
   size: 22, 16
   orig: 22, 16
   offset: 0, 0
   index: -1
 hh_human_acc_eye_h_lay_ea_6_2_0.png
   rotate: false
-  xy: 214, 13
+  xy: 238, 13
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
 hh_human_acc_eye_h_std_ea_1_0_0.png
   rotate: false
-  xy: 285, 2
+  xy: 104, 2
   size: 11, 10
   orig: 11, 10
   offset: 0, 0
   index: -1
 hh_human_acc_eye_h_std_ea_1_1_0.png
   rotate: false
-  xy: 238, 2
+  xy: 285, 2
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
@@ -76,7 +76,7 @@ hh_human_acc_eye_h_std_ea_1_3_0.png
   index: -1
 hh_human_acc_eye_h_std_ea_2_0_0.png
   rotate: false
-  xy: 271, 2
+  xy: 129, 2
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
@@ -195,7 +195,7 @@ hh_human_acc_eye_h_std_ea_5_3_0.png
   index: -1
 hh_human_acc_eye_h_std_ea_6_0_0.png
   rotate: false
-  xy: 259, 2
+  xy: 117, 2
   size: 10, 9
   orig: 10, 9
   offset: 0, 0

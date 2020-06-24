@@ -13,14 +13,14 @@ acc_head_U_spanishrose_h_lay_he_2131_2_0.png
   index: -1
 acc_head_U_spanishrose_h_lay_he_2132_2_0.png
   rotate: false
-  xy: 165, 14
+  xy: 154, 14
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 acc_head_U_spanishrose_h_lay_he_2142_2_0.png
   rotate: false
-  xy: 154, 15
+  xy: 165, 15
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
@@ -32,7 +32,7 @@ acc_head_U_spanishrose_h_std_he_2131_0_0.png
   orig: 18, 14
   offset: 0, 0
   index: -1
-acc_head_U_spanishrose_h_std_he_2131_2_0.png
+acc_head_U_spanishrose_h_std_he_2131_1_0.png
   rotate: false
   xy: 2, 9
   size: 17, 21
@@ -62,7 +62,7 @@ acc_head_U_spanishrose_h_std_he_2132_2_0.png
   index: -1
 acc_head_U_spanishrose_h_std_he_2132_7_0.png
   rotate: false
-  xy: 139, 20
+  xy: 124, 20
   size: 13, 10
   orig: 13, 10
   offset: 0, 0
@@ -74,7 +74,7 @@ acc_head_U_spanishrose_h_std_he_2142_0_0.png
   orig: 15, 9
   offset: 0, 0
   index: -1
-acc_head_U_spanishrose_h_std_he_2142_1_0.png
+acc_head_U_spanishrose_h_std_he_2142_3_0.png
   rotate: false
   xy: 91, 17
   size: 14, 13
@@ -83,7 +83,7 @@ acc_head_U_spanishrose_h_std_he_2142_1_0.png
   index: -1
 acc_head_U_spanishrose_h_std_he_2142_7_0.png
   rotate: false
-  xy: 124, 21
+  xy: 139, 21
   size: 13, 9
   orig: 13, 9
   offset: 0, 0

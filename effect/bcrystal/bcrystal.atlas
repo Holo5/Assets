@@ -60,13 +60,6 @@ bcrystal_h_std_fx155_1_1_7_0.png
   orig: 29, 39
   offset: 0, 0
   index: -1
-bcrystal_h_std_fx155_2_1_0_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 bcrystal_h_std_fx155_2_1_1_0.png
   rotate: false
   xy: 325, 42
@@ -100,5 +93,12 @@ bcrystal_h_std_fx155_2_1_6_0.png
   xy: 405, 28
   size: 12, 34
   orig: 12, 34
+  offset: 0, 0
+  index: -1
+bcrystal_h_std_fx155_2_1_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1

@@ -6,63 +6,63 @@ filter: Nearest,Nearest
 repeat: none
 Executioner_h_std_fx117_1_1_0_0.png
   rotate: false
-  xy: 12, 207
+  xy: 12, 169
   size: 29, 36
   orig: 29, 36
   offset: 0, 0
   index: -1
 Executioner_h_std_fx117_1_1_1_0.png
   rotate: false
-  xy: 2, 41
+  xy: 2, 2
   size: 30, 37
   orig: 30, 37
   offset: 0, 0
   index: -1
 Executioner_h_std_fx117_1_1_2_0.png
   rotate: false
-  xy: 2, 119
+  xy: 2, 80
   size: 31, 37
   orig: 31, 37
   offset: 0, 0
   index: -1
 Executioner_h_std_fx117_1_1_3_0.png
   rotate: false
-  xy: 34, 42
+  xy: 34, 4
   size: 28, 36
   orig: 28, 36
   offset: 0, 0
   index: -1
 Executioner_h_std_fx117_1_1_4_0.png
   rotate: false
-  xy: 2, 80
+  xy: 2, 119
   size: 31, 37
   orig: 31, 37
   offset: 0, 0
   index: -1
 Executioner_h_std_fx117_1_1_5_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 41
   size: 30, 37
   orig: 30, 37
   offset: 0, 0
   index: -1
 Executioner_h_std_fx117_1_1_6_0.png
   rotate: false
-  xy: 12, 169
+  xy: 12, 207
   size: 29, 36
   orig: 29, 36
   offset: 0, 0
   index: -1
 Executioner_h_std_fx117_1_1_7_0.png
   rotate: false
-  xy: 34, 4
+  xy: 34, 42
   size: 28, 36
   orig: 28, 36
   offset: 0, 0
   index: -1
 Executioner_h_std_fx117_2_1_0_0.png
   rotate: false
-  xy: 2, 245
+  xy: 23, 419
   size: 17, 85
   orig: 17, 85
   offset: 0, 0
@@ -104,7 +104,7 @@ Executioner_h_std_fx117_2_1_5_0.png
   index: -1
 Executioner_h_std_fx117_2_1_6_0.png
   rotate: false
-  xy: 23, 419
+  xy: 2, 245
   size: 17, 85
   orig: 17, 85
   offset: 0, 0

@@ -20,14 +20,14 @@ hat_U_treepartyhat_h_lsp_ha_3270_2_0.png
   index: -1
 hat_U_treepartyhat_h_spk_ha_3270_0_0.png
   rotate: false
-  xy: 186, 4
+  xy: 210, 4
   size: 22, 47
   orig: 22, 47
   offset: 0, 0
   index: -1
 hat_U_treepartyhat_h_spk_ha_3270_1_0.png
   rotate: false
-  xy: 277, 2
+  xy: 256, 2
   size: 19, 49
   orig: 19, 49
   offset: 0, 0
@@ -48,21 +48,21 @@ hat_U_treepartyhat_h_spk_ha_3270_3_0.png
   index: -1
 hat_U_treepartyhat_h_spk_ha_3270_7_0.png
   rotate: false
-  xy: 131, 9
+  xy: 103, 9
   size: 26, 42
   orig: 26, 42
   offset: 0, 0
   index: -1
 hat_U_treepartyhat_h_std_ha_3270_0_0.png
   rotate: false
-  xy: 210, 5
+  xy: 186, 5
   size: 22, 46
   orig: 22, 46
   offset: 0, 0
   index: -1
 hat_U_treepartyhat_h_std_ha_3270_1_0.png
   rotate: false
-  xy: 256, 3
+  xy: 277, 3
   size: 19, 48
   orig: 19, 48
   offset: 0, 0
@@ -83,7 +83,7 @@ hat_U_treepartyhat_h_std_ha_3270_3_0.png
   index: -1
 hat_U_treepartyhat_h_std_ha_3270_7_0.png
   rotate: false
-  xy: 103, 10
+  xy: 131, 10
   size: 26, 41
   orig: 26, 41
   offset: 0, 0

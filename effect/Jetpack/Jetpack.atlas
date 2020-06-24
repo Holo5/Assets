@@ -18,13 +18,6 @@ Jetpack_h_std_fx6_1_1_0_1.png
   orig: 21, 62
   offset: 0, 0
   index: -1
-Jetpack_h_std_fx6_1_1_0_2.png
-  rotate: false
-  xy: 160, 65
-  size: 21, 61
-  orig: 21, 61
-  offset: 0, 0
-  index: -1
 Jetpack_h_std_fx6_1_1_1_0.png
   rotate: false
   xy: 74, 2
@@ -34,37 +27,16 @@ Jetpack_h_std_fx6_1_1_1_0.png
   index: -1
 Jetpack_h_std_fx6_1_1_1_1.png
   rotate: false
-  xy: 17, 63
+  xy: 47, 63
   size: 13, 63
   orig: 13, 63
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_1_1_1_2.png
   rotate: false
-  xy: 2, 63
+  xy: 32, 63
   size: 13, 63
   orig: 13, 63
-  offset: 0, 0
-  index: -1
-Jetpack_h_std_fx6_1_1_2_0.png
-  rotate: false
-  xy: 28, 2
-  size: 21, 59
-  orig: 21, 59
-  offset: 0, 0
-  index: -1
-Jetpack_h_std_fx6_1_1_2_1.png
-  rotate: false
-  xy: 88, 64
-  size: 21, 62
-  orig: 21, 62
-  offset: 0, 0
-  index: -1
-Jetpack_h_std_fx6_1_1_2_2.png
-  rotate: false
-  xy: 144, 2
-  size: 21, 61
-  orig: 21, 61
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_1_1_3_0.png
@@ -88,6 +60,13 @@ Jetpack_h_std_fx6_1_1_3_2.png
   orig: 24, 62
   offset: 0, 0
   index: -1
+Jetpack_h_std_fx6_1_1_4_2.png
+  rotate: false
+  xy: 144, 2
+  size: 21, 61
+  orig: 21, 61
+  offset: 0, 0
+  index: -1
 Jetpack_h_std_fx6_1_1_5_0.png
   rotate: false
   xy: 89, 2
@@ -97,16 +76,37 @@ Jetpack_h_std_fx6_1_1_5_0.png
   index: -1
 Jetpack_h_std_fx6_1_1_5_1.png
   rotate: false
-  xy: 47, 63
+  xy: 17, 63
   size: 13, 63
   orig: 13, 63
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_1_1_5_2.png
   rotate: false
-  xy: 32, 63
+  xy: 2, 63
   size: 13, 63
   orig: 13, 63
+  offset: 0, 0
+  index: -1
+Jetpack_h_std_fx6_1_1_6_0.png
+  rotate: false
+  xy: 28, 2
+  size: 21, 59
+  orig: 21, 59
+  offset: 0, 0
+  index: -1
+Jetpack_h_std_fx6_1_1_6_1.png
+  rotate: false
+  xy: 88, 64
+  size: 21, 62
+  orig: 21, 62
+  offset: 0, 0
+  index: -1
+Jetpack_h_std_fx6_1_1_6_2.png
+  rotate: false
+  xy: 160, 65
+  size: 21, 61
+  orig: 21, 61
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_2_1_3_0.png
@@ -132,105 +132,105 @@ Jetpack_h_std_fx6_2_1_3_2.png
   index: -1
 Jetpack_h_std_fx6_3_1_0_0.png
   rotate: false
-  xy: 167, 10
+  xy: 183, 73
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_0_1.png
   rotate: false
-  xy: 183, 73
+  xy: 104, 9
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_0_2.png
   rotate: false
-  xy: 104, 9
+  xy: 263, 73
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_1_0.png
   rotate: false
-  xy: 367, 18
+  xy: 167, 10
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_1_1.png
   rotate: false
-  xy: 407, 18
+  xy: 287, 18
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_1_2.png
   rotate: false
-  xy: 383, 73
+  xy: 207, 18
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_2_0.png
   rotate: false
-  xy: 263, 73
+  xy: 303, 73
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_2_1.png
   rotate: false
-  xy: 287, 18
+  xy: 223, 73
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_3_0.png
   rotate: false
-  xy: 423, 73
+  xy: 247, 18
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_3_1.png
   rotate: false
-  xy: 327, 18
+  xy: 383, 73
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_3_2.png
   rotate: false
-  xy: 303, 73
+  xy: 343, 73
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_5_0.png
   rotate: false
-  xy: 247, 18
+  xy: 367, 18
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_5_1.png
   rotate: false
-  xy: 223, 73
+  xy: 423, 73
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_5_2.png
   rotate: false
-  xy: 207, 18
+  xy: 407, 18
   size: 38, 53
   orig: 38, 53
   offset: 0, 0
   index: -1
 Jetpack_h_std_fx6_3_1_6_2.png
   rotate: false
-  xy: 343, 73
+  xy: 327, 18
   size: 38, 53
   orig: 38, 53
   offset: 0, 0

@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 Twinkle_h_std_fx4_1_1_0_0.png
   rotate: false
-  xy: 436, 26
+  xy: 440, 26
   size: 41, 36
   orig: 41, 36
   offset: 0, 0
@@ -34,7 +34,7 @@ Twinkle_h_std_fx4_1_1_0_11.png
   index: -1
 Twinkle_h_std_fx4_1_1_0_12.png
   rotate: false
-  xy: 323, 14
+  xy: 245, 14
   size: 35, 48
   orig: 35, 48
   offset: 0, 0
@@ -48,7 +48,7 @@ Twinkle_h_std_fx4_1_1_0_13.png
   index: -1
 Twinkle_h_std_fx4_1_1_0_14.png
   rotate: false
-  xy: 245, 17
+  xy: 282, 17
   size: 38, 45
   orig: 38, 45
   offset: 0, 0
@@ -90,35 +90,35 @@ Twinkle_h_std_fx4_1_1_0_19.png
   index: -1
 Twinkle_h_std_fx4_1_1_0_2.png
   rotate: false
-  xy: 44, 10
+  xy: 83, 10
   size: 40, 52
   orig: 40, 52
   offset: 0, 0
   index: -1
 Twinkle_h_std_fx4_1_1_0_20.png
   rotate: false
-  xy: 360, 17
+  xy: 483, 17
   size: 33, 45
   orig: 33, 45
   offset: 0, 0
   index: -1
 Twinkle_h_std_fx4_1_1_0_21.png
   rotate: false
-  xy: 285, 17
+  xy: 322, 17
   size: 36, 45
   orig: 36, 45
   offset: 0, 0
   index: -1
 Twinkle_h_std_fx4_1_1_0_22.png
   rotate: false
-  xy: 479, 21
+  xy: 360, 21
   size: 37, 41
   orig: 37, 41
   offset: 0, 0
   index: -1
 Twinkle_h_std_fx4_1_1_0_23.png
   rotate: false
-  xy: 395, 23
+  xy: 399, 23
   size: 39, 39
   orig: 39, 39
   offset: 0, 0
@@ -146,7 +146,7 @@ Twinkle_h_std_fx4_1_1_0_3.png
   index: -1
 Twinkle_h_std_fx4_1_1_0_4.png
   rotate: false
-  xy: 86, 7
+  xy: 44, 7
   size: 37, 55
   orig: 37, 55
   offset: 0, 0

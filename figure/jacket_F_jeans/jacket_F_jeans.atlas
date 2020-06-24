@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 jacket_F_jeans_h_crr_lc_2002_0_0.png
   rotate: false
-  xy: 536, 10
+  xy: 2029, 40
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_lc_2002_2_0.png
   rotate: false
-  xy: 1403, 37
+  xy: 1209, 37
   size: 12, 25
   orig: 12, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_lc_2002_3_0.png
   rotate: false
-  xy: 1310, 35
+  xy: 1090, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_lc_2002_4_0.png
   rotate: false
-  xy: 654, 37
+  xy: 198, 2
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
@@ -41,161 +41,161 @@ jacket_F_jeans_h_crr_lc_2002_5_0.png
   index: -1
 jacket_F_jeans_h_crr_lc_2002_6_0.png
   rotate: false
-  xy: 121, 2
+  xy: 141, 2
   size: 18, 23
   orig: 18, 23
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_lc_2002_7_0.png
   rotate: false
-  xy: 437, 21
+  xy: 1779, 42
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_lc_2003_0_0.png
   rotate: false
-  xy: 624, 21
+  xy: 358, 2
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_lc_2003_2_0.png
   rotate: false
-  xy: 1816, 39
+  xy: 1314, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_lc_2003_3_0.png
   rotate: false
-  xy: 1946, 38
+  xy: 1595, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_lc_2003_4_0.png
   rotate: false
-  xy: 1459, 41
+  xy: 1015, 41
   size: 14, 21
   orig: 14, 21
   offset: 0, 0
   index: -1
-jacket_F_jeans_h_crr_lc_2003_5_0.png
-  rotate: false
-  xy: 1076, 45
-  size: 16, 17
-  orig: 16, 17
-  offset: 0, 0
-  index: -1
 jacket_F_jeans_h_crr_lc_2003_6_0.png
   rotate: false
-  xy: 1020, 45
+  xy: 537, 17
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_lc_2003_7_0.png
   rotate: false
-  xy: 592, 17
+  xy: 1985, 46
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2002_0_0.png
   rotate: false
-  xy: 141, 2
+  xy: 121, 2
   size: 18, 23
   orig: 18, 23
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2002_1_0.png
   rotate: false
-  xy: 853, 42
+  xy: 798, 42
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2002_2_0.png
   rotate: false
-  xy: 198, 2
+  xy: 652, 37
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2002_3_0.png
   rotate: false
-  xy: 1187, 35
+  xy: 1103, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2002_4_0.png
   rotate: false
-  xy: 1159, 37
+  xy: 1062, 37
   size: 12, 25
   orig: 12, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2002_6_0.png
   rotate: false
-  xy: 399, 9
+  xy: 2021, 40
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2002_7_0.png
   rotate: false
-  xy: 2016, 42
+  xy: 1790, 42
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2003_0_0.png
   rotate: false
-  xy: 1001, 45
+  xy: 928, 45
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2003_1_0.png
   rotate: false
-  xy: 1058, 45
+  xy: 965, 45
   size: 16, 17
   orig: 16, 17
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2003_2_0.png
   rotate: false
-  xy: 1443, 41
+  xy: 1031, 41
   size: 14, 21
   orig: 14, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2003_3_0.png
   rotate: false
-  xy: 1871, 38
+  xy: 1615, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2003_4_0.png
   rotate: false
-  xy: 1828, 39
+  xy: 1384, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
+jacket_F_jeans_h_crr_rc_2003_5_0.png
+  rotate: false
+  xy: 947, 45
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
 jacket_F_jeans_h_crr_rc_2003_6_0.png
   rotate: false
-  xy: 617, 21
+  xy: 351, 2
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_crr_rc_2003_7_0.png
   rotate: false
-  xy: 582, 17
+  xy: 1975, 46
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
@@ -209,105 +209,105 @@ jacket_F_jeans_h_drk_rc_2002_0_0.png
   index: -1
 jacket_F_jeans_h_drk_rc_2002_1_0.png
   rotate: false
-  xy: 322, 47
+  xy: 360, 47
   size: 27, 15
   orig: 27, 15
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2002_2_0.png
   rotate: false
-  xy: 410, 45
+  xy: 448, 45
   size: 25, 17
   orig: 25, 17
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2002_3_0.png
   rotate: false
-  xy: 798, 41
+  xy: 740, 41
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2002_4_0.png
   rotate: false
-  xy: 1506, 44
+  xy: 983, 44
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2002_5_0.png
   rotate: false
-  xy: 351, 48
+  xy: 389, 48
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2002_6_0.png
   rotate: false
-  xy: 380, 49
+  xy: 418, 49
   size: 28, 13
   orig: 28, 13
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2002_7_0.png
   rotate: false
-  xy: 486, 18
+  xy: 1963, 46
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2003_0_0.png
   rotate: false
-  xy: 1039, 45
+  xy: 518, 17
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2003_1_0.png
   rotate: false
-  xy: 898, 51
+  xy: 817, 51
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2003_2_0.png
   rotate: false
-  xy: 872, 50
+  xy: 436, 5
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2003_3_0.png
   rotate: false
-  xy: 1522, 45
+  xy: 1368, 45
   size: 14, 17
   orig: 14, 17
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2003_4_0.png
   rotate: false
-  xy: 602, 22
+  xy: 570, 22
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2003_5_0.png
   rotate: false
-  xy: 952, 52
+  xy: 871, 52
   size: 26, 10
   orig: 26, 10
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2003_6_0.png
   rotate: false
-  xy: 292, 34
+  xy: 899, 53
   size: 27, 9
   orig: 27, 9
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_drk_rc_2003_7_0.png
   rotate: false
-  xy: 427, 9
+  xy: 585, 23
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
@@ -321,35 +321,35 @@ jacket_F_jeans_h_lay_cc_2002_2_0.png
   index: -1
 jacket_F_jeans_h_lay_cc_2003_2_0.png
   rotate: false
-  xy: 292, 45
+  xy: 330, 45
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_lay_lc_2002_2_0.png
   rotate: false
-  xy: 925, 51
+  xy: 844, 51
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_lay_lc_2003_2_0.png
   rotate: false
-  xy: 872, 41
+  xy: 817, 42
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_lay_rc_2002_2_0.png
   rotate: false
-  xy: 437, 43
+  xy: 475, 43
   size: 24, 19
   orig: 24, 19
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_lay_rc_2003_2_0.png
   rotate: false
-  xy: 980, 50
+  xy: 330, 3
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
@@ -384,7 +384,7 @@ jacket_F_jeans_h_std_cc_2002_3_0.png
   index: -1
 jacket_F_jeans_h_std_cc_2002_7_0.png
   rotate: false
-  xy: 2, 2
+  xy: 29, 2
   size: 25, 30
   orig: 25, 30
   offset: 0, 0
@@ -398,7 +398,7 @@ jacket_F_jeans_h_std_cc_2003_0_0.png
   index: -1
 jacket_F_jeans_h_std_cc_2003_1_0.png
   rotate: false
-  xy: 506, 36
+  xy: 524, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
@@ -412,7 +412,7 @@ jacket_F_jeans_h_std_cc_2003_2_0.png
   index: -1
 jacket_F_jeans_h_std_cc_2003_3_0.png
   rotate: false
-  xy: 29, 2
+  xy: 2, 2
   size: 25, 30
   orig: 25, 30
   offset: 0, 0
@@ -426,182 +426,182 @@ jacket_F_jeans_h_std_cc_2003_7_0.png
   index: -1
 jacket_F_jeans_h_std_lc_2002_0_0.png
   rotate: false
-  xy: 334, 6
+  xy: 1699, 37
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_lc_2002_1_0.png
   rotate: false
-  xy: 1577, 39
+  xy: 1275, 39
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_lc_2002_2_0.png
   rotate: false
-  xy: 343, 6
+  xy: 1663, 37
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_lc_2002_3_0.png
   rotate: false
-  xy: 1392, 33
+  xy: 277, 2
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_lc_2002_7_0.png
   rotate: false
-  xy: 1703, 35
+  xy: 1475, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_lc_2003_0_0.png
   rotate: false
-  xy: 552, 11
+  xy: 1935, 41
   size: 6, 21
   orig: 6, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_lc_2003_1_0.png
   rotate: false
-  xy: 448, 19
+  xy: 1744, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_lc_2003_2_0.png
   rotate: false
-  xy: 567, 11
+  xy: 2037, 41
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_lc_2003_3_0.png
   rotate: false
-  xy: 2039, 37
+  xy: 1892, 37
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_lc_2003_7_0.png
   rotate: false
-  xy: 1851, 38
+  xy: 1605, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_rc_2002_0_0.png
   rotate: false
-  xy: 1249, 33
+  xy: 265, 2
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_rc_2002_1_0.png
   rotate: false
-  xy: 1564, 39
+  xy: 1262, 39
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_rc_2002_2_0.png
   rotate: false
-  xy: 1272, 34
+  xy: 406, 18
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_rc_2002_3_0.png
   rotate: false
-  xy: 1261, 33
+  xy: 288, 2
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_rc_2002_7_0.png
   rotate: false
-  xy: 1648, 35
+  xy: 1431, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_rc_2003_0_0.png
   rotate: false
-  xy: 1670, 35
+  xy: 1420, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_rc_2003_1_0.png
   rotate: false
-  xy: 1956, 40
+  xy: 1708, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_rc_2003_2_0.png
   rotate: false
-  xy: 1891, 35
+  xy: 1635, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_rc_2003_3_0.png
   rotate: false
-  xy: 1937, 37
+  xy: 1690, 37
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_std_rc_2003_7_0.png
   rotate: false
-  xy: 1861, 38
+  xy: 491, 17
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2002_0_0.png
   rotate: false
-  xy: 284, 5
+  xy: 361, 18
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2002_0_1.png
   rotate: false
-  xy: 599, 35
+  xy: 581, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2002_2_0.png
   rotate: false
-  xy: 581, 35
+  xy: 563, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2002_2_1.png
   rotate: false
-  xy: 486, 36
+  xy: 330, 17
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2002_3_0.png
   rotate: false
-  xy: 689, 34
+  xy: 617, 34
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2002_3_1.png
   rotate: false
-  xy: 526, 34
+  xy: 311, 34
   size: 17, 28
   orig: 17, 28
   offset: 0, 0
@@ -615,21 +615,21 @@ jacket_F_jeans_h_wav_lc_2002_4_0.png
   index: -1
 jacket_F_jeans_h_wav_lc_2002_4_1.png
   rotate: false
-  xy: 617, 36
+  xy: 544, 36
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2002_5_0.png
   rotate: false
-  xy: 250, 2
+  xy: 272, 33
   size: 17, 29
   orig: 17, 29
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2002_5_1.png
   rotate: false
-  xy: 563, 34
+  xy: 299, 4
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
@@ -650,35 +650,35 @@ jacket_F_jeans_h_wav_lc_2002_6_1.png
   index: -1
 jacket_F_jeans_h_wav_lc_2002_7_0.png
   rotate: false
-  xy: 545, 34
+  xy: 599, 34
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2002_7_1.png
   rotate: false
-  xy: 272, 34
+  xy: 291, 34
   size: 18, 28
   orig: 18, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2003_0_0.png
   rotate: false
-  xy: 1430, 38
+  xy: 1236, 38
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2003_0_1.png
   rotate: false
-  xy: 105, 2
+  xy: 448, 19
   size: 14, 24
   orig: 14, 24
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2003_2_0.png
   rotate: false
-  xy: 1143, 38
+  xy: 105, 2
   size: 14, 24
   orig: 14, 24
   offset: 0, 0
@@ -692,42 +692,42 @@ jacket_F_jeans_h_wav_lc_2003_2_1.png
   index: -1
 jacket_F_jeans_h_wav_lc_2003_3_0.png
   rotate: false
-  xy: 1127, 40
+  xy: 475, 19
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2003_3_1.png
   rotate: false
-  xy: 835, 40
+  xy: 418, 25
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2003_4_0.png
   rotate: false
-  xy: 739, 41
+  xy: 720, 41
   size: 18, 21
   orig: 18, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2003_4_1.png
   rotate: false
-  xy: 1094, 41
+  xy: 501, 17
   size: 15, 21
   orig: 15, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2003_5_0.png
   rotate: false
-  xy: 636, 36
+  xy: 634, 36
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2003_5_1.png
   rotate: false
-  xy: 672, 37
+  xy: 687, 37
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
@@ -741,14 +741,14 @@ jacket_F_jeans_h_wav_lc_2003_6_0.png
   index: -1
 jacket_F_jeans_h_wav_lc_2003_6_1.png
   rotate: false
-  xy: 463, 40
+  xy: 501, 40
   size: 21, 22
   orig: 21, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wav_lc_2003_7_0.png
   rotate: false
-  xy: 722, 37
+  xy: 670, 37
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
@@ -762,324 +762,324 @@ jacket_F_jeans_h_wav_lc_2003_7_1.png
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_0_0.png
   rotate: false
-  xy: 1919, 37
+  xy: 1672, 37
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_0_1.png
   rotate: false
-  xy: 459, 19
+  xy: 1943, 43
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_0_2.png
   rotate: false
-  xy: 1928, 37
+  xy: 1681, 37
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_0_3.png
   rotate: false
-  xy: 1659, 35
+  xy: 1442, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_1_0.png
   rotate: false
-  xy: 1790, 40
+  xy: 1326, 40
   size: 11, 22
   orig: 11, 22
+  offset: 0, 0
+  index: -1
+jacket_F_jeans_h_wlk_lc_2002_1_1.png
+  rotate: false
+  xy: 418, 2
+  size: 16, 21
+  orig: 16, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_1_2.png
   rotate: false
-  xy: 1803, 40
+  xy: 1339, 40
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
+jacket_F_jeans_h_wlk_lc_2002_1_3.png
+  rotate: false
+  xy: 999, 40
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
 jacket_F_jeans_h_wlk_lc_2002_2_0.png
   rotate: false
-  xy: 326, 6
+  xy: 1901, 37
   size: 6, 25
   orig: 6, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_2_1.png
   rotate: false
-  xy: 1417, 37
+  xy: 1223, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_2_2.png
   rotate: false
-  xy: 352, 7
+  xy: 1909, 38
   size: 6, 24
   orig: 6, 24
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_2_3.png
   rotate: false
-  xy: 518, 15
+  xy: 2013, 43
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_3_0.png
   rotate: false
-  xy: 1213, 34
+  xy: 1164, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_3_1.png
   rotate: false
-  xy: 1225, 34
+  xy: 1152, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_3_2.png
   rotate: false
-  xy: 1237, 34
+  xy: 1140, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_3_3.png
   rotate: false
-  xy: 1323, 35
+  xy: 1408, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_7_0.png
   rotate: false
-  xy: 315, 6
+  xy: 1508, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_7_1.png
   rotate: false
-  xy: 1637, 36
+  xy: 1530, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_7_2.png
   rotate: false
-  xy: 1626, 36
+  xy: 1519, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2002_7_3.png
   rotate: false
-  xy: 1615, 36
+  xy: 1541, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_0_0.png
   rotate: false
-  xy: 544, 11
+  xy: 1927, 41
   size: 6, 21
   orig: 6, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_0_1.png
   rotate: false
-  xy: 631, 26
+  xy: 570, 12
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_0_2.png
   rotate: false
-  xy: 574, 14
+  xy: 2005, 44
   size: 6, 18
   orig: 6, 18
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_0_3.png
   rotate: false
-  xy: 407, 9
+  xy: 1813, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_1_0.png
   rotate: false
-  xy: 2004, 42
+  xy: 1767, 42
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_1_1.png
   rotate: false
-  xy: 1490, 43
+  xy: 1352, 43
   size: 14, 19
   orig: 14, 19
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_1_2.png
   rotate: false
-  xy: 2027, 43
+  xy: 1801, 43
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_1_3.png
   rotate: false
-  xy: 1992, 41
+  xy: 1755, 41
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_2_0.png
   rotate: false
-  xy: 560, 11
+  xy: 556, 13
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_2_1.png
   rotate: false
-  xy: 469, 17
+  xy: 1917, 41
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_2_2.png
   rotate: false
-  xy: 479, 17
+  xy: 563, 12
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_2_3.png
   rotate: false
-  xy: 890, 41
+  xy: 835, 42
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_3_0.png
   rotate: false
-  xy: 1714, 35
+  xy: 1625, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_3_1.png
   rotate: false
-  xy: 1724, 36
+  xy: 1552, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_3_2.png
   rotate: false
-  xy: 1681, 35
+  xy: 1464, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_3_3.png
   rotate: false
-  xy: 1840, 38
+  xy: 1584, 38
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_7_0.png
   rotate: false
-  xy: 389, 9
+  xy: 1843, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_7_1.png
   rotate: false
-  xy: 498, 16
+  xy: 1953, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_7_2.png
   rotate: false
-  xy: 379, 9
+  xy: 1833, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_lc_2003_7_3.png
   rotate: false
-  xy: 369, 9
+  xy: 1823, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_0_0.png
   rotate: false
-  xy: 269, 2
+  xy: 250, 2
   size: 13, 29
   orig: 13, 29
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_0_1.png
   rotate: false
-  xy: 1173, 35
+  xy: 376, 18
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_0_2.png
   rotate: false
-  xy: 1200, 34
+  xy: 317, 4
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_0_3.png
   rotate: false
-  xy: 299, 7
+  xy: 704, 37
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_1_0.png
   rotate: false
-  xy: 1551, 39
+  xy: 1301, 39
   size: 11, 23
   orig: 11, 23
-  offset: 0, 0
-  index: -1
-jacket_F_jeans_h_wlk_rc_2002_1_1.png
-  rotate: false
-  xy: 1111, 40
-  size: 14, 22
-  orig: 14, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_1_2.png
   rotate: false
-  xy: 1538, 39
+  xy: 1288, 39
   size: 11, 23
   orig: 11, 23
-  offset: 0, 0
-  index: -1
-jacket_F_jeans_h_wlk_rc_2002_1_3.png
-  rotate: false
-  xy: 817, 41
-  size: 16, 21
-  orig: 16, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_2_0.png
@@ -1105,189 +1105,189 @@ jacket_F_jeans_h_wlk_rc_2002_2_2.png
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_2_3.png
   rotate: false
-  xy: 706, 36
+  xy: 390, 20
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_3_0.png
   rotate: false
-  xy: 1370, 34
+  xy: 1176, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_3_1.png
   rotate: false
-  xy: 1692, 35
+  xy: 1453, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_3_2.png
   rotate: false
-  xy: 1381, 34
+  xy: 1187, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_3_3.png
   rotate: false
-  xy: 1359, 34
+  xy: 1198, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_7_0.png
   rotate: false
-  xy: 1746, 36
+  xy: 464, 17
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_7_1.png
   rotate: false
-  xy: 1768, 36
+  xy: 1497, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_7_2.png
   rotate: false
-  xy: 1757, 36
+  xy: 1486, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2002_7_3.png
   rotate: false
-  xy: 1735, 36
+  xy: 350, 17
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_0_0.png
   rotate: false
-  xy: 1335, 35
+  xy: 1116, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_0_1.png
   rotate: false
-  xy: 1779, 37
+  xy: 1563, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_0_2.png
   rotate: false
-  xy: 1603, 37
+  xy: 1396, 37
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_0_3.png
   rotate: false
-  xy: 1475, 41
+  xy: 1047, 41
   size: 13, 21
   orig: 13, 21
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_1_0.png
   rotate: false
-  xy: 1968, 40
+  xy: 1732, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_1_2.png
   rotate: false
-  xy: 1980, 40
+  xy: 1720, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_2_0.png
   rotate: false
-  xy: 1284, 34
+  xy: 1128, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_2_1.png
   rotate: false
-  xy: 1296, 36
+  xy: 1076, 36
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_2_2.png
   rotate: false
-  xy: 1347, 34
+  xy: 436, 19
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_2_3.png
   rotate: false
-  xy: 1590, 38
+  xy: 1249, 38
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_3_0.png
   rotate: false
-  xy: 1901, 36
+  xy: 1645, 36
   size: 7, 26
   orig: 7, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_3_1.png
   rotate: false
-  xy: 360, 8
+  xy: 1883, 39
   size: 7, 23
   orig: 7, 23
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_3_2.png
   rotate: false
-  xy: 1910, 36
+  xy: 1654, 36
   size: 7, 26
   orig: 7, 26
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_3_3.png
   rotate: false
-  xy: 1881, 37
+  xy: 1574, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_7_0.png
   rotate: false
-  xy: 427, 21
+  xy: 1863, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_7_1.png
   rotate: false
-  xy: 526, 10
+  xy: 1853, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_7_2.png
   rotate: false
-  xy: 417, 9
+  xy: 1873, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 jacket_F_jeans_h_wlk_rc_2003_7_3.png
   rotate: false
-  xy: 508, 16
+  xy: 1995, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0

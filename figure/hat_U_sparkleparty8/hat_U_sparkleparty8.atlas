@@ -13,56 +13,56 @@ hat_U_sparkleparty8_h_lsp_ha_3306_2_0.png
   index: -1
 hat_U_sparkleparty8_h_spk_ha_3306_0_0.png
   rotate: false
-  xy: 25, 7
+  xy: 52, 7
   size: 25, 18
   orig: 25, 18
   offset: 0, 0
   index: -1
 hat_U_sparkleparty8_h_spk_ha_3306_1_0.png
   rotate: false
-  xy: 160, 9
+  xy: 187, 9
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
   index: -1
 hat_U_sparkleparty8_h_spk_ha_3306_3_0.png
   rotate: false
-  xy: 187, 9
+  xy: 160, 9
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
   index: -1
 hat_U_sparkleparty8_h_spk_ha_3306_7_0.png
   rotate: false
-  xy: 133, 9
+  xy: 214, 9
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
   index: -1
-hat_U_sparkleparty8_h_std_ha_3306_1_0.png
+hat_U_sparkleparty8_h_std_ha_3306_0_0.png
   rotate: false
-  xy: 106, 9
-  size: 25, 16
-  orig: 25, 16
-  offset: 0, 0
-  index: -1
-hat_U_sparkleparty8_h_std_ha_3306_2_0.png
-  rotate: false
-  xy: 52, 7
+  xy: 25, 7
   size: 25, 18
   orig: 25, 18
   offset: 0, 0
   index: -1
+hat_U_sparkleparty8_h_std_ha_3306_1_0.png
+  rotate: false
+  xy: 79, 9
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
 hat_U_sparkleparty8_h_std_ha_3306_3_0.png
   rotate: false
-  xy: 214, 9
+  xy: 133, 9
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
   index: -1
 hat_U_sparkleparty8_h_std_ha_3306_7_0.png
   rotate: false
-  xy: 79, 9
+  xy: 106, 9
   size: 25, 16
   orig: 25, 16
   offset: 0, 0

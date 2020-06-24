@@ -1,0 +1,174 @@
+
+hat_U_snake.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_snake_h_lay_ha_3674_2_0.png
+  rotate: false
+  xy: 60, 2
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_lsp_ha_3672_2_0.png
+  rotate: false
+  xy: 184, 27
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_lsp_ha_3673_2_0.png
+  rotate: false
+  xy: 277, 38
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_lsp_ha_3674_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_spk_ha_3673_0_0.png
+  rotate: false
+  xy: 347, 41
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_spk_ha_3673_1_0.png
+  rotate: false
+  xy: 386, 40
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_spk_ha_3673_2_0.png
+  rotate: false
+  xy: 74, 2
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_spk_ha_3673_3_0.png
+  rotate: false
+  xy: 367, 38
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_spk_ha_3673_7_0.png
+  rotate: false
+  xy: 94, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_spk_ha_3674_0_0.png
+  rotate: false
+  xy: 24, 2
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_spk_ha_3674_1_0.png
+  rotate: false
+  xy: 65, 36
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_spk_ha_3674_2_0.png
+  rotate: false
+  xy: 129, 37
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_spk_ha_3674_3_0.png
+  rotate: false
+  xy: 299, 41
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_spk_ha_3674_7_0.png
+  rotate: false
+  xy: 404, 36
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_std_ha_3672_0_0.png
+  rotate: false
+  xy: 208, 28
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_std_ha_3672_1_0.png
+  rotate: false
+  xy: 2, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_std_ha_3672_2_0.png
+  rotate: false
+  xy: 35, 32
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_std_ha_3672_3_0.png
+  rotate: false
+  xy: 98, 36
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_std_ha_3672_7_0.png
+  rotate: false
+  xy: 232, 28
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_std_ha_3674_0_0.png
+  rotate: false
+  xy: 45, 2
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_std_ha_3674_1_0.png
+  rotate: false
+  xy: 159, 36
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_std_ha_3674_2_0.png
+  rotate: false
+  xy: 255, 37
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_std_ha_3674_3_0.png
+  rotate: false
+  xy: 323, 41
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+hat_U_snake_h_std_ha_3674_7_0.png
+  rotate: false
+  xy: 416, 36
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1

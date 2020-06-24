@@ -6,35 +6,35 @@ filter: Nearest,Nearest
 repeat: none
 hat_U_hero2_h_lay_ha_2922_2_0.png
   rotate: false
-  xy: 154, 32
+  xy: 120, 32
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 hat_U_hero2_h_lsp_ha_2922_2_0.png
   rotate: false
-  xy: 120, 31
+  xy: 154, 31
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 hat_U_hero2_h_spk_ha_2922_0_0.png
   rotate: false
-  xy: 252, 26
+  xy: 284, 26
   size: 30, 36
   orig: 30, 36
   offset: 0, 0
   index: -1
 hat_U_hero2_h_spk_ha_2922_1_0.png
   rotate: false
-  xy: 188, 28
+  xy: 316, 28
   size: 30, 34
   orig: 30, 34
   offset: 0, 0
   index: -1
 hat_U_hero2_h_spk_ha_2922_2_0.png
   rotate: false
-  xy: 284, 25
+  xy: 252, 25
   size: 30, 37
   orig: 30, 37
   offset: 0, 0
@@ -55,7 +55,7 @@ hat_U_hero2_h_spk_ha_2922_7_0.png
   index: -1
 hat_U_hero2_h_std_ha_2922_0_0.png
   rotate: false
-  xy: 316, 27
+  xy: 188, 27
   size: 30, 35
   orig: 30, 35
   offset: 0, 0

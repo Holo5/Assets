@@ -34,7 +34,7 @@ shoes_U_pointyshoes_h_std_sh_3004_0_0.png
   index: -1
 shoes_U_pointyshoes_h_std_sh_3004_1_0.png
   rotate: false
-  xy: 387, 20
+  xy: 429, 20
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
@@ -48,14 +48,14 @@ shoes_U_pointyshoes_h_std_sh_3004_2_0.png
   index: -1
 shoes_U_pointyshoes_h_std_sh_3004_3_0.png
   rotate: false
-  xy: 364, 21
+  xy: 342, 21
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
   index: -1
 shoes_U_pointyshoes_h_std_sh_3004_7_0.png
   rotate: false
-  xy: 183, 10
+  xy: 450, 23
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
@@ -132,7 +132,7 @@ shoes_U_pointyshoes_h_wlk_sh_3004_2_1.png
   index: -1
 shoes_U_pointyshoes_h_wlk_sh_3004_2_2.png
   rotate: false
-  xy: 450, 20
+  xy: 183, 7
   size: 18, 10
   orig: 18, 10
   offset: 0, 0
@@ -153,21 +153,21 @@ shoes_U_pointyshoes_h_wlk_sh_3004_3_0.png
   index: -1
 shoes_U_pointyshoes_h_wlk_sh_3004_3_1.png
   rotate: false
-  xy: 408, 19
+  xy: 387, 19
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
 shoes_U_pointyshoes_h_wlk_sh_3004_3_2.png
   rotate: false
-  xy: 342, 20
+  xy: 365, 20
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 shoes_U_pointyshoes_h_wlk_sh_3004_3_3.png
   rotate: false
-  xy: 429, 19
+  xy: 408, 19
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
@@ -181,7 +181,7 @@ shoes_U_pointyshoes_h_wlk_sh_3004_7_0.png
   index: -1
 shoes_U_pointyshoes_h_wlk_sh_3004_7_1.png
   rotate: false
-  xy: 490, 21
+  xy: 320, 9
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
@@ -195,7 +195,7 @@ shoes_U_pointyshoes_h_wlk_sh_3004_7_2.png
   index: -1
 shoes_U_pointyshoes_h_wlk_sh_3004_7_3.png
   rotate: false
-  xy: 470, 21
+  xy: 473, 21
   size: 18, 9
   orig: 18, 9
   offset: 0, 0

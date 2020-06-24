@@ -13,14 +13,14 @@ TotemEagle_h_std_fx25_1_1_0_0.png
   index: -1
 TotemEagle_h_std_fx25_1_1_0_1.png
   rotate: false
-  xy: 2, 99
+  xy: 166, 99
   size: 80, 140
   orig: 80, 140
   offset: 0, 0
   index: -1
 TotemEagle_h_std_fx25_1_1_0_10.png
   rotate: false
-  xy: 494, 99
+  xy: 2, 99
   size: 80, 140
   orig: 80, 140
   offset: 0, 0
@@ -34,7 +34,7 @@ TotemEagle_h_std_fx25_1_1_0_2.png
   index: -1
 TotemEagle_h_std_fx25_1_1_0_3.png
   rotate: false
-  xy: 166, 99
+  xy: 330, 99
   size: 80, 140
   orig: 80, 140
   offset: 0, 0
@@ -48,7 +48,7 @@ TotemEagle_h_std_fx25_1_1_0_4.png
   index: -1
 TotemEagle_h_std_fx25_1_1_0_5.png
   rotate: false
-  xy: 330, 99
+  xy: 494, 99
   size: 80, 140
   orig: 80, 140
   offset: 0, 0
@@ -83,28 +83,28 @@ TotemEagle_h_std_fx25_1_1_0_9.png
   index: -1
 TotemEagle_h_std_fx25_2_1_0_0.png
   rotate: false
-  xy: 215, 27
+  xy: 213, 27
   size: 28, 70
   orig: 28, 70
   offset: 0, 0
   index: -1
 TotemEagle_h_std_fx25_2_1_0_1.png
   rotate: false
-  xy: 126, 15
+  xy: 124, 15
   size: 27, 82
   orig: 27, 82
   offset: 0, 0
   index: -1
 TotemEagle_h_std_fx25_2_1_0_10.png
   rotate: false
-  xy: 155, 15
+  xy: 153, 15
   size: 27, 82
   orig: 27, 82
   offset: 0, 0
   index: -1
 TotemEagle_h_std_fx25_2_1_0_2.png
   rotate: false
-  xy: 939, 150
+  xy: 63, 8
   size: 27, 89
   orig: 27, 89
   offset: 0, 0
@@ -118,28 +118,28 @@ TotemEagle_h_std_fx25_2_1_0_3.png
   index: -1
 TotemEagle_h_std_fx25_2_1_0_4.png
   rotate: false
-  xy: 63, 10
+  xy: 939, 152
   size: 29, 87
   orig: 29, 87
   offset: 0, 0
   index: -1
 TotemEagle_h_std_fx25_2_1_0_5.png
   rotate: false
-  xy: 968, 153
+  xy: 970, 153
   size: 30, 86
   orig: 30, 86
   offset: 0, 0
   index: -1
 TotemEagle_h_std_fx25_2_1_0_6.png
   rotate: false
-  xy: 184, 25
+  xy: 182, 25
   size: 29, 72
   orig: 29, 72
   offset: 0, 0
   index: -1
 TotemEagle_h_std_fx25_2_1_0_7.png
   rotate: false
-  xy: 94, 14
+  xy: 92, 14
   size: 30, 83
   orig: 30, 83
   offset: 0, 0

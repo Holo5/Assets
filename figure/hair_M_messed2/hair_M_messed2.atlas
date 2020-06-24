@@ -27,7 +27,7 @@ hair_M_messed2_h_spk_hr_2268_0_0.png
   index: -1
 hair_M_messed2_h_spk_hr_2268_1_0.png
   rotate: false
-  xy: 322, 33
+  xy: 322, 2
   size: 37, 29
   orig: 37, 29
   offset: 0, 0
@@ -48,7 +48,7 @@ hair_M_messed2_h_spk_hr_2268_3_0.png
   index: -1
 hair_M_messed2_h_spk_hr_2268_7_0.png
   rotate: false
-  xy: 395, 24
+  xy: 361, 24
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
@@ -62,7 +62,7 @@ hair_M_messed2_h_spk_hrb_2268_0_0.png
   index: -1
 hair_M_messed2_h_spk_hrb_2268_1_0.png
   rotate: false
-  xy: 322, 2
+  xy: 322, 33
   size: 37, 29
   orig: 37, 29
   offset: 0, 0
@@ -76,14 +76,14 @@ hair_M_messed2_h_spk_hrb_2268_2_0.png
   index: -1
 hair_M_messed2_h_spk_hrb_2268_3_0.png
   rotate: false
-  xy: 673, 30
+  xy: 741, 30
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 hair_M_messed2_h_spk_hrb_2268_7_0.png
   rotate: false
-  xy: 361, 24
+  xy: 395, 24
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
@@ -111,7 +111,7 @@ hair_M_messed2_h_std_hr_2268_2_0.png
   index: -1
 hair_M_messed2_h_std_hr_2268_3_0.png
   rotate: false
-  xy: 639, 31
+  xy: 673, 31
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
@@ -146,7 +146,7 @@ hair_M_messed2_h_std_hrb_2268_2_0.png
   index: -1
 hair_M_messed2_h_std_hrb_2268_3_0.png
   rotate: false
-  xy: 741, 31
+  xy: 639, 31
   size: 32, 31
   orig: 32, 31
   offset: 0, 0

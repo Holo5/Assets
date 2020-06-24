@@ -4,18 +4,11 @@ size: 32,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_face_U_camopaint_h_lay_fa_2505_2_0.png
+acc_face_U_camopaint_h_lsp_fa_2505_2_0.png
   rotate: false
   xy: 12, 14
   size: 11, 9
   orig: 11, 9
-  offset: 0, 0
-  index: -1
-acc_face_U_camopaint_h_spk_fa_2505_0_0.png
-  rotate: false
-  xy: 12, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 acc_face_U_camopaint_h_spk_fa_2505_1_0.png
@@ -32,6 +25,13 @@ acc_face_U_camopaint_h_spk_fa_2505_2_0.png
   orig: 12, 7
   offset: 0, 0
   index: -1
+acc_face_U_camopaint_h_spk_fa_2505_3_0.png
+  rotate: false
+  xy: 12, 25
+  size: 18, 4
+  orig: 18, 4
+  offset: 0, 0
+  index: -1
 acc_face_U_camopaint_h_spk_fa_2505_7_0.png
   rotate: false
   xy: 2, 2
@@ -39,10 +39,17 @@ acc_face_U_camopaint_h_spk_fa_2505_7_0.png
   orig: 8, 27
   offset: 0, 0
   index: -1
-acc_face_U_camopaint_h_std_fa_2505_3_0.png
+acc_face_U_camopaint_sh_std_fa_2505_7_0.png
   rotate: false
-  xy: 12, 25
-  size: 18, 4
-  orig: 18, 4
+  xy: 12, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_face_U_camopaint_sh_std_fa_2505_7_0.png
+  rotate: false
+  xy: 25, 17
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1

@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 trousers_F_longshorts_h_lay_lg_2029_2_0.png
   rotate: false
-  xy: 124, 41
+  xy: 154, 41
   size: 28, 21
   orig: 28, 21
   offset: 0, 0
@@ -48,63 +48,63 @@ trousers_F_longshorts_h_sit_lg_2030_2_0.png
   index: -1
 trousers_F_longshorts_h_std_lg_2029_0_0.png
   rotate: false
-  xy: 212, 39
+  xy: 235, 39
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_std_lg_2029_1_0.png
   rotate: false
-  xy: 233, 2
+  xy: 210, 2
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_std_lg_2029_2_0.png
   rotate: false
-  xy: 258, 39
+  xy: 281, 39
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_std_lg_2029_3_0.png
   rotate: false
-  xy: 465, 43
+  xy: 488, 43
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_std_lg_2029_7_0.png
   rotate: false
-  xy: 488, 43
+  xy: 465, 43
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_std_lg_2030_0_0.png
   rotate: false
-  xy: 440, 12
+  xy: 92, 30
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_std_lg_2030_1_0.png
   rotate: false
-  xy: 270, 17
+  xy: 245, 2
   size: 13, 7
   orig: 13, 7
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_std_lg_2030_2_0.png
   rotate: false
-  xy: 270, 26
+  xy: 153, 28
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_std_lg_2030_7_0.png
   rotate: false
-  xy: 170, 2
+  xy: 107, 2
   size: 19, 7
   orig: 19, 7
   offset: 0, 0
@@ -118,14 +118,14 @@ trousers_F_longshorts_h_wlk_lg_2029_0_0.png
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_0_1.png
   rotate: false
-  xy: 2, 26
+  xy: 31, 26
   size: 27, 36
   orig: 27, 36
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_0_2.png
   rotate: false
-  xy: 235, 39
+  xy: 258, 39
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
@@ -139,7 +139,7 @@ trousers_F_longshorts_h_wlk_lg_2029_0_3.png
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_1_0.png
   rotate: false
-  xy: 251, 17
+  xy: 485, 21
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
@@ -153,7 +153,7 @@ trousers_F_longshorts_h_wlk_lg_2029_1_1.png
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_1_2.png
   rotate: false
-  xy: 485, 22
+  xy: 191, 2
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
@@ -174,7 +174,7 @@ trousers_F_longshorts_h_wlk_lg_2029_2_0.png
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_2_1.png
   rotate: false
-  xy: 281, 39
+  xy: 212, 39
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
@@ -188,35 +188,35 @@ trousers_F_longshorts_h_wlk_lg_2029_2_2.png
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_2_3.png
   rotate: false
-  xy: 154, 43
+  xy: 124, 43
   size: 28, 19
   orig: 28, 19
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_3_0.png
   rotate: false
-  xy: 373, 43
+  xy: 396, 43
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_3_1.png
   rotate: false
-  xy: 348, 23
+  xy: 394, 23
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_3_2.png
   rotate: false
-  xy: 396, 43
+  xy: 419, 43
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_3_3.png
   rotate: false
-  xy: 371, 23
+  xy: 417, 23
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
@@ -230,56 +230,56 @@ trousers_F_longshorts_h_wlk_lg_2029_7_0.png
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_7_1.png
   rotate: false
-  xy: 417, 23
+  xy: 348, 23
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_7_2.png
   rotate: false
-  xy: 419, 43
+  xy: 373, 43
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2029_7_3.png
   rotate: false
-  xy: 394, 23
+  xy: 371, 23
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_0_0.png
   rotate: false
-  xy: 154, 31
+  xy: 440, 13
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_0_1.png
   rotate: false
-  xy: 31, 26
+  xy: 2, 26
   size: 27, 36
   orig: 27, 36
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_0_2.png
   rotate: false
-  xy: 462, 11
+  xy: 114, 29
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_0_3.png
   rotate: false
-  xy: 251, 4
+  xy: 485, 8
   size: 18, 11
   orig: 18, 11
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_1_0.png
   rotate: false
-  xy: 330, 27
+  xy: 195, 29
   size: 15, 10
   orig: 15, 10
   offset: 0, 0
@@ -293,7 +293,7 @@ trousers_F_longshorts_h_wlk_lg_2030_1_1.png
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_1_2.png
   rotate: false
-  xy: 271, 6
+  xy: 228, 2
   size: 15, 9
   orig: 15, 9
   offset: 0, 0
@@ -307,21 +307,21 @@ trousers_F_longshorts_h_wlk_lg_2030_1_3.png
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_2_0.png
   rotate: false
-  xy: 291, 27
+  xy: 174, 29
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_2_1.png
   rotate: false
-  xy: 312, 27
+  xy: 135, 31
   size: 16, 10
   orig: 16, 10
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_2_2.png
   rotate: false
-  xy: 177, 27
+  xy: 463, 11
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
@@ -335,50 +335,50 @@ trousers_F_longshorts_h_wlk_lg_2030_2_3.png
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_3_0.png
   rotate: false
-  xy: 107, 2
+  xy: 233, 29
   size: 19, 8
   orig: 19, 8
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_3_1.png
   rotate: false
-  xy: 212, 2
+  xy: 170, 2
   size: 19, 7
   orig: 19, 7
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_3_2.png
   rotate: false
-  xy: 128, 2
+  xy: 212, 29
   size: 19, 8
   orig: 19, 8
   offset: 0, 0
   index: -1
+trousers_F_longshorts_h_wlk_lg_2030_3_3.png
+  rotate: false
+  xy: 149, 2
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
 trousers_F_longshorts_h_wlk_lg_2030_7_0.png
   rotate: false
-  xy: 86, 2
+  xy: 228, 13
   size: 19, 8
   orig: 19, 8
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_7_1.png
   rotate: false
-  xy: 191, 2
+  xy: 128, 2
   size: 19, 7
   orig: 19, 7
   offset: 0, 0
   index: -1
 trousers_F_longshorts_h_wlk_lg_2030_7_2.png
   rotate: false
-  xy: 483, 11
+  xy: 86, 2
   size: 19, 9
   orig: 19, 9
-  offset: 0, 0
-  index: -1
-trousers_F_longshorts_h_wlk_lg_2030_7_3.png
-  rotate: false
-  xy: 149, 2
-  size: 19, 7
-  orig: 19, 7
   offset: 0, 0
   index: -1

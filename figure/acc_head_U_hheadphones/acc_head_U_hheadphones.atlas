@@ -4,6 +4,20 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+acc_head_U_hheadphones_h_lay_he_2545_1_0.png
+  rotate: false
+  xy: 37, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_head_U_hheadphones_h_lay_he_2545_2_0.png
+  rotate: false
+  xy: 112, 32
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
 acc_head_U_hheadphones_h_lay_he_2546_2_0.png
   rotate: false
   xy: 2, 2
@@ -18,11 +32,39 @@ acc_head_U_hheadphones_h_lay_he_2547_2_0.png
   orig: 10, 13
   offset: 0, 0
   index: -1
-acc_head_U_hheadphones_h_lay_he_2995_2_0.png
+acc_head_U_hheadphones_h_std_he_2545_0_0.png
   rotate: false
-  xy: 112, 32
-  size: 21, 30
-  orig: 21, 30
+  xy: 2, 30
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+acc_head_U_hheadphones_h_std_he_2545_1_0.png
+  rotate: false
+  xy: 135, 32
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+acc_head_U_hheadphones_h_std_he_2545_2_0.png
+  rotate: false
+  xy: 78, 30
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+acc_head_U_hheadphones_h_std_he_2545_3_0.png
+  rotate: false
+  xy: 40, 32
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+acc_head_U_hheadphones_h_std_he_2545_7_0.png
+  rotate: false
+  xy: 40, 2
+  size: 36, 28
+  orig: 36, 28
   offset: 0, 0
   index: -1
 acc_head_U_hheadphones_h_std_he_2546_0_0.png
@@ -55,71 +97,29 @@ acc_head_U_hheadphones_h_std_he_2546_3_0.png
   index: -1
 acc_head_U_hheadphones_h_std_he_2547_0_0.png
   rotate: false
-  xy: 30, 17
+  xy: 19, 4
   size: 5, 11
   orig: 5, 11
   offset: 0, 0
   index: -1
-acc_head_U_hheadphones_h_std_he_2547_1_0.png
-  rotate: false
-  xy: 37, 27
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 acc_head_U_hheadphones_h_std_he_2547_2_0.png
   rotate: false
-  xy: 19, 4
+  xy: 30, 17
   size: 5, 11
   orig: 5, 11
   offset: 0, 0
   index: -1
 acc_head_U_hheadphones_h_std_he_2547_3_0.png
   rotate: false
-  xy: 2, 17
+  xy: 78, 17
   size: 26, 11
   orig: 26, 11
   offset: 0, 0
   index: -1
 acc_head_U_hheadphones_h_std_he_2547_7_0.png
   rotate: false
-  xy: 78, 17
+  xy: 2, 17
   size: 26, 11
   orig: 26, 11
-  offset: 0, 0
-  index: -1
-acc_head_U_hheadphones_h_std_he_2995_0_0.png
-  rotate: false
-  xy: 2, 30
-  size: 36, 32
-  orig: 36, 32
-  offset: 0, 0
-  index: -1
-acc_head_U_hheadphones_h_std_he_2995_1_0.png
-  rotate: false
-  xy: 135, 32
-  size: 14, 30
-  orig: 14, 30
-  offset: 0, 0
-  index: -1
-acc_head_U_hheadphones_h_std_he_2995_2_0.png
-  rotate: false
-  xy: 78, 30
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-acc_head_U_hheadphones_h_std_he_2995_3_0.png
-  rotate: false
-  xy: 40, 32
-  size: 36, 30
-  orig: 36, 30
-  offset: 0, 0
-  index: -1
-acc_head_U_hheadphones_h_std_he_2995_7_0.png
-  rotate: false
-  xy: 40, 2
-  size: 36, 28
-  orig: 36, 28
   offset: 0, 0
   index: -1

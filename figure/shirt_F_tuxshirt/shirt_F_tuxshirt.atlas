@@ -6,23 +6,16 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_tuxshirt_h_crr_lc_2865_5_0.png
   rotate: false
-  xy: 852, 47
+  xy: 433, 15
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_crr_ls_2865_0_0.png
   rotate: false
-  xy: 982, 43
+  xy: 882, 43
   size: 5, 19
   orig: 5, 19
-  offset: 0, 0
-  index: -1
-shirt_F_tuxshirt_h_crr_ls_2865_1_0.png
-  rotate: false
-  xy: 624, 42
-  size: 17, 20
-  orig: 17, 20
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_crr_ls_2865_2_0.png
@@ -34,149 +27,156 @@ shirt_F_tuxshirt_h_crr_ls_2865_2_0.png
   index: -1
 shirt_F_tuxshirt_h_crr_ls_2865_3_0.png
   rotate: false
-  xy: 283, 2
+  xy: 594, 38
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_crr_ls_2865_4_0.png
   rotate: false
-  xy: 463, 36
+  xy: 400, 36
   size: 15, 26
   orig: 15, 26
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_crr_ls_2865_6_0.png
   rotate: false
-  xy: 554, 40
+  xy: 448, 40
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_crr_ls_2865_7_0.png
   rotate: false
-  xy: 912, 42
+  xy: 820, 42
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
-shirt_F_tuxshirt_h_crr_ls_2866_2_0.png
-  rotate: false
-  xy: 261, 28
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 shirt_F_tuxshirt_h_crr_rs_2865_0_0.png
   rotate: false
-  xy: 94, 2
+  xy: 73, 2
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
+shirt_F_tuxshirt_h_crr_rs_2865_1_0.png
+  rotate: false
+  xy: 466, 42
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
 shirt_F_tuxshirt_h_crr_rs_2865_2_0.png
   rotate: false
-  xy: 388, 35
+  xy: 216, 2
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_crr_rs_2865_3_0.png
   rotate: false
-  xy: 272, 2
+  xy: 605, 38
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_crr_rs_2865_4_0.png
   rotate: false
-  xy: 841, 42
+  xy: 798, 42
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_crr_rs_2865_5_0.png
   rotate: false
-  xy: 868, 47
+  xy: 782, 47
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_crr_rs_2865_6_0.png
   rotate: false
-  xy: 932, 43
+  xy: 425, 15
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_crr_rs_2865_7_0.png
   rotate: false
-  xy: 922, 42
+  xy: 830, 42
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
-shirt_F_tuxshirt_h_crr_rs_2866_4_0.png
+shirt_F_tuxshirt_h_crr_rs_2866_6_0.png
   rotate: false
-  xy: 171, 33
+  xy: 190, 42
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_drk_rs_2865_0_0.png
   rotate: false
-  xy: 643, 44
+  xy: 534, 44
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_drk_rs_2865_1_0.png
   rotate: false
-  xy: 598, 50
+  xy: 197, 31
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_drk_rs_2865_2_0.png
   rotate: false
-  xy: 255, 42
+  xy: 249, 42
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_drk_rs_2865_3_0.png
   rotate: false
-  xy: 662, 44
+  xy: 553, 44
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_drk_rs_2865_4_0.png
   rotate: false
-  xy: 884, 48
+  xy: 765, 48
   size: 15, 14
   orig: 15, 14
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_drk_rs_2865_5_0.png
   rotate: false
-  xy: 572, 49
+  xy: 485, 49
   size: 24, 13
   orig: 24, 13
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_drk_rs_2865_6_0.png
   rotate: false
-  xy: 196, 45
+  xy: 190, 45
   size: 32, 17
   orig: 32, 17
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_drk_rs_2865_7_0.png
   rotate: false
-  xy: 901, 42
+  xy: 809, 42
   size: 9, 20
   orig: 9, 20
+  offset: 0, 0
+  index: -1
+shirt_F_tuxshirt_h_drk_rs_2866_0_0.png
+  rotate: false
+  xy: 263, 9
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_lay_ch_2865_2_0.png
@@ -188,14 +188,14 @@ shirt_F_tuxshirt_h_lay_ch_2865_2_0.png
   index: -1
 shirt_F_tuxshirt_h_lay_ls_2865_2_0.png
   rotate: false
-  xy: 196, 31
+  xy: 511, 50
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_lay_rs_2865_2_0.png
   rotate: false
-  xy: 230, 43
+  xy: 224, 43
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
@@ -209,21 +209,21 @@ shirt_F_tuxshirt_h_std_ch_2865_0_0.png
   index: -1
 shirt_F_tuxshirt_h_std_ch_2865_1_0.png
   rotate: false
-  xy: 150, 32
+  xy: 169, 32
   size: 19, 30
   orig: 19, 30
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_std_ch_2865_2_0.png
   rotate: false
-  xy: 72, 29
+  xy: 98, 29
   size: 24, 33
   orig: 24, 33
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_std_ch_2865_3_0.png
   rotate: false
-  xy: 98, 29
+  xy: 72, 29
   size: 24, 33
   orig: 24, 33
   offset: 0, 0
@@ -237,84 +237,84 @@ shirt_F_tuxshirt_h_std_ch_2865_7_0.png
   index: -1
 shirt_F_tuxshirt_h_std_ls_2865_0_0.png
   rotate: false
-  xy: 947, 38
+  xy: 875, 38
   size: 5, 24
   orig: 5, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_std_ls_2865_1_0.png
   rotate: false
-  xy: 325, 2
+  xy: 685, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_std_ls_2865_2_0.png
   rotate: false
-  xy: 940, 40
+  xy: 868, 40
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_std_ls_2865_3_0.png
   rotate: false
-  xy: 251, 2
+  xy: 273, 2
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_std_ls_2865_7_0.png
   rotate: false
-  xy: 211, 2
+  xy: 375, 6
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
-shirt_F_tuxshirt_h_std_ls_2866_7_0.png
+shirt_F_tuxshirt_h_std_ls_2866_1_0.png
   rotate: false
-  xy: 388, 32
+  xy: 314, 5
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_std_rs_2865_0_0.png
   rotate: false
-  xy: 158, 2
+  xy: 32, 3
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_std_rs_2865_1_0.png
   rotate: false
-  xy: 712, 38
+  xy: 695, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_std_rs_2865_2_0.png
   rotate: false
-  xy: 170, 2
+  xy: 293, 2
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_std_rs_2865_3_0.png
   rotate: false
-  xy: 241, 2
+  xy: 405, 7
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_std_rs_2865_7_0.png
   rotate: false
-  xy: 231, 2
+  xy: 283, 2
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_0_0.png
   rotate: false
-  xy: 496, 32
+  xy: 433, 32
   size: 13, 30
   orig: 13, 30
   offset: 0, 0
@@ -328,287 +328,287 @@ shirt_F_tuxshirt_h_wav_ls_2865_0_1.png
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_1_0.png
   rotate: false
-  xy: 136, 2
+  xy: 353, 2
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_1_1.png
   rotate: false
-  xy: 541, 35
+  xy: 250, 2
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_2_0.png
   rotate: false
-  xy: 318, 28
+  xy: 329, 28
   size: 15, 34
   orig: 15, 34
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_2_1.png
   rotate: false
-  xy: 299, 29
+  xy: 150, 29
   size: 17, 33
   orig: 17, 33
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_3_0.png
   rotate: false
-  xy: 480, 36
+  xy: 417, 36
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_3_1.png
   rotate: false
-  xy: 426, 35
+  xy: 363, 35
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_4_0.png
   rotate: false
-  xy: 352, 32
+  xy: 293, 32
   size: 17, 30
   orig: 17, 30
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_4_1.png
   rotate: false
-  xy: 371, 32
+  xy: 312, 32
   size: 15, 30
   orig: 15, 30
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_5_0.png
   rotate: false
-  xy: 407, 35
+  xy: 197, 2
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_5_1.png
   rotate: false
-  xy: 445, 35
+  xy: 382, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_6_0.png
   rotate: false
-  xy: 73, 2
+  xy: 149, 2
   size: 19, 25
   orig: 19, 25
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_6_1.png
   rotate: false
-  xy: 171, 36
+  xy: 124, 2
   size: 23, 26
   orig: 23, 26
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_7_0.png
   rotate: false
-  xy: 335, 30
+  xy: 346, 30
   size: 15, 32
   orig: 15, 32
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wav_ls_2865_7_1.png
   rotate: false
-  xy: 279, 31
+  xy: 273, 31
   size: 18, 31
   orig: 18, 31
   offset: 0, 0
   index: -1
-shirt_F_tuxshirt_h_wav_ls_2866_7_1.png
+shirt_F_tuxshirt_h_wav_ls_2866_0_0.png
   rotate: false
-  xy: 335, 3
+  xy: 314, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_0_0.png
   rotate: false
-  xy: 961, 41
+  xy: 854, 41
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_0_1.png
   rotate: false
-  xy: 995, 44
+  xy: 889, 44
   size: 5, 18
   orig: 5, 18
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_0_2.png
   rotate: false
-  xy: 954, 41
+  xy: 861, 41
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_0_3.png
   rotate: false
-  xy: 801, 38
+  xy: 675, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_1_0.png
   rotate: false
-  xy: 831, 40
+  xy: 755, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_1_2.png
   rotate: false
-  xy: 821, 40
+  xy: 745, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_1_3.png
   rotate: false
-  xy: 989, 43
+  xy: 896, 43
   size: 4, 19
   orig: 4, 19
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_2_0.png
   rotate: false
-  xy: 968, 41
+  xy: 847, 41
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_2_1.png
   rotate: false
-  xy: 314, 2
+  xy: 342, 2
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_2_2.png
   rotate: false
-  xy: 975, 42
+  xy: 840, 42
   size: 5, 20
   orig: 5, 20
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_2_3.png
   rotate: false
-  xy: 219, 31
+  xy: 902, 50
   size: 4, 12
   orig: 4, 12
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_3_0.png
   rotate: false
-  xy: 782, 34
+  xy: 263, 12
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_3_1.png
   rotate: false
-  xy: 148, 2
+  xy: 626, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_3_2.png
   rotate: false
-  xy: 772, 34
+  xy: 304, 2
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_3_3.png
   rotate: false
-  xy: 811, 38
+  xy: 665, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_7_0.png
   rotate: false
-  xy: 752, 37
+  xy: 636, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_7_1.png
   rotate: false
-  xy: 762, 37
+  xy: 646, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_7_2.png
   rotate: false
-  xy: 742, 38
+  xy: 715, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_ls_2865_7_3.png
   rotate: false
-  xy: 221, 2
+  xy: 415, 7
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_0_0.png
   rotate: false
-  xy: 261, 2
+  xy: 583, 38
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_0_1.png
   rotate: false
-  xy: 123, 2
+  xy: 329, 2
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_0_2.png
   rotate: false
-  xy: 112, 2
+  xy: 91, 2
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_0_3.png
   rotate: false
-  xy: 335, 6
+  xy: 314, 8
   size: 13, 22
   orig: 13, 22
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_1_0.png
   rotate: false
-  xy: 702, 40
+  xy: 725, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_1_1.png
   rotate: false
-  xy: 678, 40
+  xy: 569, 40
   size: 12, 22
   orig: 12, 22
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_1_2.png
   rotate: false
-  xy: 692, 40
+  xy: 735, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
@@ -622,14 +622,14 @@ shirt_F_tuxshirt_h_wlk_rs_2865_1_3.png
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_2_0.png
   rotate: false
-  xy: 32, 3
+  xy: 185, 2
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_2_1.png
   rotate: false
-  xy: 526, 35
+  xy: 235, 2
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
@@ -643,63 +643,63 @@ shirt_F_tuxshirt_h_wlk_rs_2865_2_2.png
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_2_3.png
   rotate: false
-  xy: 511, 34
+  xy: 170, 2
   size: 13, 28
   orig: 13, 28
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_3_0.png
   rotate: false
-  xy: 181, 2
+  xy: 365, 6
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_3_1.png
   rotate: false
-  xy: 732, 38
+  xy: 705, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_3_2.png
   rotate: false
-  xy: 191, 2
+  xy: 385, 6
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_3_3.png
   rotate: false
-  xy: 201, 2
+  xy: 395, 6
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_7_0.png
   rotate: false
-  xy: 792, 37
+  xy: 656, 37
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_7_1.png
   rotate: false
-  xy: 304, 2
+  xy: 112, 2
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_7_2.png
   rotate: false
-  xy: 294, 2
+  xy: 102, 2
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 shirt_F_tuxshirt_h_wlk_rs_2865_7_3.png
   rotate: false
-  xy: 722, 38
+  xy: 616, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0

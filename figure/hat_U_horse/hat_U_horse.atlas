@@ -20,14 +20,14 @@ hat_U_horse_h_lsp_ha_2965_2_0.png
   index: -1
 hat_U_horse_h_spk_ha_2965_0_0.png
   rotate: false
-  xy: 228, 17
+  xy: 180, 17
   size: 46, 38
   orig: 46, 38
   offset: 0, 0
   index: -1
 hat_U_horse_h_spk_ha_2965_1_0.png
   rotate: false
-  xy: 131, 16
+  xy: 82, 16
   size: 47, 39
   orig: 47, 39
   offset: 0, 0
@@ -41,7 +41,7 @@ hat_U_horse_h_spk_ha_2965_2_0.png
   index: -1
 hat_U_horse_h_spk_ha_2965_3_0.png
   rotate: false
-  xy: 396, 2
+  xy: 364, 2
   size: 30, 53
   orig: 30, 53
   offset: 0, 0
@@ -55,14 +55,14 @@ hat_U_horse_h_spk_ha_2965_7_0.png
   index: -1
 hat_U_horse_h_std_ha_2965_0_0.png
   rotate: false
-  xy: 180, 17
+  xy: 228, 17
   size: 46, 38
   orig: 46, 38
   offset: 0, 0
   index: -1
 hat_U_horse_h_std_ha_2965_1_0.png
   rotate: false
-  xy: 82, 16
+  xy: 131, 16
   size: 47, 39
   orig: 47, 39
   offset: 0, 0
@@ -76,7 +76,7 @@ hat_U_horse_h_std_ha_2965_2_0.png
   index: -1
 hat_U_horse_h_std_ha_2965_3_0.png
   rotate: false
-  xy: 364, 4
+  xy: 396, 4
   size: 30, 51
   orig: 30, 51
   offset: 0, 0

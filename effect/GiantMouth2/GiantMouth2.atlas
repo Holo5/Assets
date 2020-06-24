@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 GiantMouth2_h_std_fx120_1_1_0_0.png
   rotate: false
-  xy: 194, 11
+  xy: 186, 11
   size: 6, 16
   orig: 6, 16
   offset: 0, 0
   index: -1
 GiantMouth2_h_std_fx120_1_1_0_1.png
   rotate: false
-  xy: 210, 14
+  xy: 202, 14
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 GiantMouth2_h_std_fx120_1_1_1_0.png
   rotate: false
-  xy: 138, 6
+  xy: 122, 6
   size: 14, 21
   orig: 14, 21
   offset: 0, 0
   index: -1
 GiantMouth2_h_std_fx120_1_1_1_1.png
   rotate: false
-  xy: 170, 10
+  xy: 154, 10
   size: 14, 17
   orig: 14, 17
   offset: 0, 0
@@ -41,7 +41,7 @@ GiantMouth2_h_std_fx120_1_1_2_0.png
   index: -1
 GiantMouth2_h_std_fx120_1_1_2_1.png
   rotate: false
-  xy: 119, 9
+  xy: 84, 9
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
@@ -69,35 +69,35 @@ GiantMouth2_h_std_fx120_1_1_4_0.png
   index: -1
 GiantMouth2_h_std_fx120_1_1_4_1.png
   rotate: false
-  xy: 100, 9
+  xy: 103, 9
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 GiantMouth2_h_std_fx120_1_1_5_0.png
   rotate: false
-  xy: 84, 6
+  xy: 138, 6
   size: 14, 21
   orig: 14, 21
   offset: 0, 0
   index: -1
 GiantMouth2_h_std_fx120_1_1_5_1.png
   rotate: false
-  xy: 154, 10
+  xy: 170, 10
   size: 14, 17
   orig: 14, 17
   offset: 0, 0
   index: -1
 GiantMouth2_h_std_fx120_1_1_6_0.png
   rotate: false
-  xy: 186, 11
+  xy: 194, 11
   size: 6, 16
   orig: 6, 16
   offset: 0, 0
   index: -1
 GiantMouth2_h_std_fx120_1_1_6_1.png
   rotate: false
-  xy: 202, 14
+  xy: 210, 14
   size: 6, 13
   orig: 6, 13
   offset: 0, 0

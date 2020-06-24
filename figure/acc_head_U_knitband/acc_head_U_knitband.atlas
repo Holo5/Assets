@@ -11,6 +11,13 @@ acc_head_U_knitband_h_lay_he_2801_2_0.png
   orig: 20, 29
   offset: 0, 0
   index: -1
+acc_head_U_knitband_h_lay_he_2802_2_0.png
+  rotate: false
+  xy: 252, 60
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
 acc_head_U_knitband_h_lsp_he_2801_2_0.png
   rotate: false
   xy: 2, 2
@@ -34,7 +41,7 @@ acc_head_U_knitband_h_spk_he_2801_1_0.png
   index: -1
 acc_head_U_knitband_h_spk_he_2801_2_0.png
   rotate: false
-  xy: 160, 39
+  xy: 190, 39
   size: 29, 23
   orig: 29, 23
   offset: 0, 0
@@ -53,13 +60,6 @@ acc_head_U_knitband_h_spk_he_2801_7_0.png
   orig: 30, 26
   offset: 0, 0
   index: -1
-acc_head_U_knitband_h_spk_he_2802_0_0.png
-  rotate: false
-  xy: 252, 60
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
 acc_head_U_knitband_h_std_he_2801_0_0.png
   rotate: false
   xy: 34, 35
@@ -69,14 +69,14 @@ acc_head_U_knitband_h_std_he_2801_0_0.png
   index: -1
 acc_head_U_knitband_h_std_he_2801_1_0.png
   rotate: false
-  xy: 222, 38
+  xy: 160, 38
   size: 28, 24
   orig: 28, 24
   offset: 0, 0
   index: -1
 acc_head_U_knitband_h_std_he_2801_2_0.png
   rotate: false
-  xy: 191, 40
+  xy: 221, 40
   size: 29, 22
   orig: 29, 22
   offset: 0, 0
@@ -95,7 +95,7 @@ acc_head_U_knitband_h_std_he_2801_7_0.png
   orig: 30, 25
   offset: 0, 0
   index: -1
-acc_head_U_knitband_h_std_he_2802_3_0.png
+acc_head_U_knitband_h_std_he_2802_7_0.png
   rotate: false
   xy: 46, 12
   size: 1, 2

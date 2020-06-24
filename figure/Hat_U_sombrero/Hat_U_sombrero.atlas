@@ -25,39 +25,39 @@ Hat_U_sombrero_h_lay_ha_2145_2_0.png
   orig: 1, 1
   offset: 0, 0
   index: -1
-Hat_U_sombrero_h_spk_ha_2143_0_0.png
+Hat_U_sombrero_h_spk_ha_2145_1_0.png
+  rotate: false
+  xy: 183, 15
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+Hat_U_sombrero_h_spk_ha_2145_7_0.png
+  rotate: false
+  xy: 23, 19
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+Hat_U_sombrero_h_std_ha_2143_0_0.png
   rotate: false
   xy: 2, 29
   size: 44, 33
   orig: 44, 33
   offset: 0, 0
   index: -1
-Hat_U_sombrero_h_spk_ha_2143_1_0.png
+Hat_U_sombrero_h_std_ha_2143_1_0.png
   rotate: false
   xy: 94, 32
   size: 43, 30
   orig: 43, 30
   offset: 0, 0
   index: -1
-Hat_U_sombrero_h_spk_ha_2143_2_0.png
+Hat_U_sombrero_h_std_ha_2143_2_0.png
   rotate: false
   xy: 48, 30
   size: 44, 32
   orig: 44, 32
-  offset: 0, 0
-  index: -1
-Hat_U_sombrero_h_spk_ha_2145_1_0.png
-  rotate: false
-  xy: 2, 9
-  size: 18, 8
-  orig: 18, 8
-  offset: 0, 0
-  index: -1
-Hat_U_sombrero_h_spk_ha_2145_3_0.png
-  rotate: false
-  xy: 23, 19
-  size: 17, 8
-  orig: 17, 8
   offset: 0, 0
   index: -1
 Hat_U_sombrero_h_std_ha_2143_3_0.png
@@ -95,9 +95,9 @@ Hat_U_sombrero_h_std_ha_2144_2_0.png
   orig: 17, 8
   offset: 0, 0
   index: -1
-Hat_U_sombrero_h_std_ha_2144_3_0.png
+Hat_U_sombrero_h_std_ha_2144_7_0.png
   rotate: false
-  xy: 183, 15
+  xy: 2, 9
   size: 18, 8
   orig: 18, 8
   offset: 0, 0

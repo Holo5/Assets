@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 acc_waist_U_foxtail_h_lay_wa_3327_2_0.png
   rotate: false
-  xy: 2, 45
+  xy: 2, 55
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
@@ -20,42 +20,42 @@ acc_waist_U_foxtail_h_lay_wa_3328_2_0.png
   index: -1
 acc_waist_U_foxtail_h_std_wa_3327_0_0.png
   rotate: false
-  xy: 2, 93
+  xy: 2, 136
   size: 25, 30
   orig: 25, 30
   offset: 0, 0
   index: -1
 acc_waist_U_foxtail_h_std_wa_3327_1_0.png
   rotate: false
-  xy: 2, 158
+  xy: 2, 168
   size: 27, 31
   orig: 27, 31
   offset: 0, 0
   index: -1
 acc_waist_U_foxtail_h_std_wa_3327_2_0.png
   rotate: false
-  xy: 2, 125
+  xy: 2, 103
   size: 24, 31
   orig: 24, 31
   offset: 0, 0
   index: -1
 acc_waist_U_foxtail_h_std_wa_3327_7_0.png
   rotate: false
-  xy: 2, 64
+  xy: 2, 74
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 acc_waist_U_foxtail_h_std_wa_3328_0_0.png
   rotate: false
-  xy: 2, 25
+  xy: 2, 45
   size: 16, 8
   orig: 16, 8
   offset: 0, 0
   index: -1
 acc_waist_U_foxtail_h_std_wa_3328_1_0.png
   rotate: false
-  xy: 2, 15
+  xy: 2, 25
   size: 15, 8
   orig: 15, 8
   offset: 0, 0
@@ -69,7 +69,7 @@ acc_waist_U_foxtail_h_std_wa_3328_2_0.png
   index: -1
 acc_waist_U_foxtail_h_std_wa_3328_7_0.png
   rotate: false
-  xy: 19, 15
+  xy: 2, 15
   size: 11, 8
   orig: 11, 8
   offset: 0, 0

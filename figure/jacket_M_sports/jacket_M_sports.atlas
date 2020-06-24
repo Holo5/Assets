@@ -6,154 +6,154 @@ filter: Nearest,Nearest
 repeat: none
 jacket_M_sports_h_crr_lc_2880_0_0.png
   rotate: false
-  xy: 40, 2
+  xy: 775, 39
   size: 17, 23
   orig: 17, 23
   offset: 0, 0
   index: -1
 jacket_M_sports_h_crr_lc_2880_1_0.png
   rotate: false
-  xy: 942, 41
+  xy: 885, 41
   size: 16, 21
   orig: 16, 21
   offset: 0, 0
   index: -1
 jacket_M_sports_h_crr_lc_2880_2_0.png
   rotate: false
-  xy: 978, 40
+  xy: 850, 40
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
   index: -1
 jacket_M_sports_h_crr_lc_2880_3_0.png
   rotate: false
-  xy: 612, 11
+  xy: 540, 11
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_crr_lc_2880_4_0.png
   rotate: false
-  xy: 562, 37
+  xy: 557, 37
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
   index: -1
-jacket_M_sports_h_crr_lc_2880_5_0.png
-  rotate: false
-  xy: 960, 41
-  size: 16, 21
-  orig: 16, 21
-  offset: 0, 0
-  index: -1
 jacket_M_sports_h_crr_lc_2880_6_0.png
   rotate: false
-  xy: 821, 39
+  xy: 40, 2
   size: 17, 23
   orig: 17, 23
   offset: 0, 0
   index: -1
 jacket_M_sports_h_crr_lc_2880_7_0.png
   rotate: false
-  xy: 690, 21
+  xy: 717, 2
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 jacket_M_sports_h_crr_rc_2880_0_0.png
   rotate: false
-  xy: 923, 40
+  xy: 831, 40
   size: 17, 22
   orig: 17, 22
   offset: 0, 0
   index: -1
 jacket_M_sports_h_crr_rc_2880_2_0.png
   rotate: false
-  xy: 542, 37
+  xy: 577, 37
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_crr_rc_2880_3_0.png
   rotate: false
-  xy: 648, 13
+  xy: 326, 15
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_crr_rc_2880_4_0.png
   rotate: false
-  xy: 602, 38
+  xy: 537, 38
   size: 18, 24
   orig: 18, 24
   offset: 0, 0
   index: -1
+jacket_M_sports_h_crr_rc_2880_5_0.png
+  rotate: false
+  xy: 867, 41
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
 jacket_M_sports_h_crr_rc_2880_6_0.png
   rotate: false
-  xy: 802, 39
+  xy: 794, 39
   size: 17, 23
   orig: 17, 23
   offset: 0, 0
   index: -1
 jacket_M_sports_h_crr_rc_2880_7_0.png
   rotate: false
-  xy: 669, 20
+  xy: 717, 25
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 jacket_M_sports_h_drk_rc_2880_0_0.png
   rotate: false
-  xy: 662, 43
+  xy: 491, 43
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 jacket_M_sports_h_drk_rc_2880_1_0.png
   rotate: false
-  xy: 709, 48
+  xy: 679, 48
   size: 24, 14
   orig: 24, 14
   offset: 0, 0
   index: -1
 jacket_M_sports_h_drk_rc_2880_2_0.png
   rotate: false
-  xy: 366, 46
+  xy: 391, 46
   size: 24, 16
   orig: 24, 16
   offset: 0, 0
   index: -1
 jacket_M_sports_h_drk_rc_2880_3_0.png
   rotate: false
-  xy: 641, 40
+  xy: 636, 40
   size: 19, 22
   orig: 19, 22
   offset: 0, 0
   index: -1
 jacket_M_sports_h_drk_rc_2880_4_0.png
   rotate: false
-  xy: 761, 42
+  xy: 657, 42
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 jacket_M_sports_h_drk_rc_2880_5_0.png
   rotate: false
-  xy: 735, 48
+  xy: 705, 48
   size: 24, 14
   orig: 24, 14
   offset: 0, 0
   index: -1
 jacket_M_sports_h_drk_rc_2880_6_0.png
   rotate: false
-  xy: 337, 47
+  xy: 362, 47
   size: 27, 15
   orig: 27, 15
   offset: 0, 0
   index: -1
 jacket_M_sports_h_drk_rc_2880_7_0.png
   rotate: false
-  xy: 374, 20
+  xy: 949, 38
   size: 13, 24
   orig: 13, 24
   offset: 0, 0
@@ -167,7 +167,7 @@ jacket_M_sports_h_lay_cc_2880_2_0.png
   index: -1
 jacket_M_sports_h_lay_cc_2881_2_0.png
   rotate: false
-  xy: 309, 45
+  xy: 334, 45
   size: 26, 17
   orig: 26, 17
   offset: 0, 0
@@ -181,14 +181,14 @@ jacket_M_sports_h_lay_cc_2882_2_0.png
   index: -1
 jacket_M_sports_h_lay_lc_2880_2_0.png
   rotate: false
-  xy: 284, 2
+  xy: 731, 52
   size: 23, 10
   orig: 23, 10
   offset: 0, 0
   index: -1
 jacket_M_sports_h_lay_rc_2880_2_0.png
   rotate: false
-  xy: 685, 44
+  xy: 467, 44
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
@@ -230,28 +230,28 @@ jacket_M_sports_h_std_cc_2880_7_0.png
   index: -1
 jacket_M_sports_h_std_cc_2881_0_0.png
   rotate: false
-  xy: 283, 42
+  xy: 308, 42
   size: 24, 20
   orig: 24, 20
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_cc_2881_1_0.png
   rotate: false
-  xy: 783, 42
+  xy: 756, 42
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_cc_2881_2_0.png
   rotate: false
-  xy: 257, 41
+  xy: 282, 41
   size: 24, 21
   orig: 24, 21
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_cc_2881_3_0.png
   rotate: false
-  xy: 392, 44
+  xy: 442, 44
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
@@ -265,28 +265,28 @@ jacket_M_sports_h_std_cc_2881_7_0.png
   index: -1
 jacket_M_sports_h_std_cc_2882_0_0.png
   rotate: false
-  xy: 180, 38
+  xy: 206, 38
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_cc_2882_1_0.png
   rotate: false
-  xy: 622, 38
+  xy: 338, 19
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_cc_2882_2_0.png
   rotate: false
-  xy: 206, 36
+  xy: 180, 36
   size: 24, 26
   orig: 24, 26
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_cc_2882_3_0.png
   rotate: false
-  xy: 206, 12
+  xy: 257, 40
   size: 23, 22
   orig: 23, 22
   offset: 0, 0
@@ -300,133 +300,133 @@ jacket_M_sports_h_std_cc_2882_7_0.png
   index: -1
 jacket_M_sports_h_std_lc_2880_0_0.png
   rotate: false
-  xy: 660, 15
+  xy: 588, 12
   size: 7, 23
   orig: 7, 23
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_lc_2880_1_0.png
   rotate: false
-  xy: 479, 9
+  xy: 514, 13
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_lc_2880_2_0.png
   rotate: false
-  xy: 456, 13
+  xy: 505, 18
   size: 7, 23
   orig: 7, 23
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_lc_2880_3_0.png
   rotate: false
-  xy: 312, 15
+  xy: 633, 8
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_lc_2880_7_0.png
   rotate: false
-  xy: 565, 9
+  xy: 657, 14
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_rc_2880_0_0.png
   rotate: false
-  xy: 193, 9
+  xy: 369, 18
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_rc_2880_1_0.png
   rotate: false
-  xy: 492, 9
+  xy: 527, 13
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_rc_2880_2_0.png
   rotate: false
-  xy: 299, 14
+  xy: 444, 16
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_rc_2880_3_0.png
   rotate: false
-  xy: 272, 11
+  xy: 279, 10
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_M_sports_h_std_rc_2880_7_0.png
   rotate: false
-  xy: 553, 9
+  xy: 357, 17
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wav_lc_2880_0_0.png
   rotate: false
-  xy: 907, 37
+  xy: 903, 37
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wav_lc_2880_0_1.png
   rotate: false
-  xy: 840, 39
+  xy: 813, 39
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
-jacket_M_sports_h_wav_lc_2880_1_1.png
+jacket_M_sports_h_wav_lc_2880_1_0.png
   rotate: false
-  xy: 465, 11
+  xy: 491, 18
   size: 12, 23
   orig: 12, 23
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wav_lc_2880_2_0.png
   rotate: false
-  xy: 858, 37
+  xy: 308, 15
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wav_lc_2880_2_1.png
   rotate: false
-  xy: 582, 38
+  xy: 616, 38
   size: 18, 24
   orig: 18, 24
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wav_lc_2880_3_0.png
   rotate: false
-  xy: 876, 34
+  xy: 193, 6
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wav_lc_2880_3_1.png
   rotate: false
-  xy: 486, 34
+  xy: 173, 6
   size: 18, 28
   orig: 18, 28
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wav_lc_2880_4_0.png
   rotate: false
-  xy: 465, 36
+  xy: 230, 10
   size: 19, 26
   orig: 19, 26
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wav_lc_2880_4_1.png
   rotate: false
-  xy: 523, 36
+  xy: 597, 36
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
@@ -454,91 +454,91 @@ jacket_M_sports_h_wav_lc_2880_6_0.png
   index: -1
 jacket_M_sports_h_wav_lc_2880_6_1.png
   rotate: false
-  xy: 442, 38
+  xy: 514, 38
   size: 21, 24
   orig: 21, 24
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wav_lc_2880_7_0.png
   rotate: false
-  xy: 506, 34
+  xy: 262, 10
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wav_lc_2880_7_1.png
   rotate: false
-  xy: 173, 8
+  xy: 210, 8
   size: 18, 28
   orig: 18, 28
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_lc_2880_0_1.png
   rotate: false
-  xy: 432, 19
+  xy: 406, 23
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_lc_2880_0_2.png
   rotate: false
-  xy: 702, 19
+  xy: 382, 22
   size: 7, 23
   orig: 7, 23
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_lc_2880_0_3.png
   rotate: false
-  xy: 577, 9
+  xy: 251, 10
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
-jacket_M_sports_h_wlk_lc_2880_1_1.png
+jacket_M_sports_h_wlk_lc_2880_1_0.png
   rotate: false
-  xy: 260, 2
-  size: 7, 7
-  orig: 7, 7
-  offset: 0, 0
-  index: -1
-jacket_M_sports_h_wlk_lc_2880_1_2.png
-  rotate: false
-  xy: 442, 12
+  xy: 964, 38
   size: 12, 24
   orig: 12, 24
   offset: 0, 0
   index: -1
+jacket_M_sports_h_wlk_lc_2880_1_1.png
+  rotate: false
+  xy: 645, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
 jacket_M_sports_h_wlk_lc_2880_1_3.png
   rotate: false
-  xy: 681, 20
+  xy: 729, 25
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_lc_2880_2_0.png
   rotate: false
-  xy: 711, 23
+  xy: 481, 19
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_lc_2880_2_1.png
   rotate: false
-  xy: 636, 11
+  xy: 552, 10
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_lc_2880_2_3.png
   rotate: false
-  xy: 721, 31
+  xy: 729, 8
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_lc_2880_3_0.png
   rotate: false
-  xy: 260, 11
+  xy: 621, 8
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
@@ -552,84 +552,84 @@ jacket_M_sports_h_wlk_lc_2880_3_1.png
   index: -1
 jacket_M_sports_h_wlk_lc_2880_3_3.png
   rotate: false
-  xy: 624, 11
+  xy: 693, 21
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_lc_2880_7_0.png
   rotate: false
-  xy: 517, 6
+  xy: 681, 20
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_lc_2880_7_1.png
   rotate: false
-  xy: 600, 11
+  xy: 705, 21
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_lc_2880_7_2.png
   rotate: false
-  xy: 505, 6
+  xy: 669, 14
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_lc_2880_7_3.png
   rotate: false
-  xy: 324, 16
+  xy: 645, 11
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_rc_2880_0_0.png
   rotate: false
-  xy: 1010, 37
+  xy: 978, 37
   size: 12, 25
   orig: 12, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_rc_2880_0_1.png
   rotate: false
-  xy: 995, 37
+  xy: 919, 37
   size: 13, 25
   orig: 13, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_rc_2880_0_2.png
   rotate: false
-  xy: 360, 19
+  xy: 992, 37
   size: 12, 25
   orig: 12, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_rc_2880_0_3.png
   rotate: false
-  xy: 284, 15
+  xy: 934, 37
   size: 13, 25
   orig: 13, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_rc_2880_1_0.png
   rotate: false
-  xy: 389, 19
+  xy: 416, 17
   size: 12, 23
   orig: 12, 23
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_rc_2880_1_1.png
   rotate: false
-  xy: 417, 19
+  xy: 391, 23
   size: 13, 21
   orig: 13, 21
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_rc_2880_1_2.png
   rotate: false
-  xy: 403, 19
+  xy: 430, 17
   size: 12, 23
   orig: 12, 23
   offset: 0, 0
@@ -643,7 +643,7 @@ jacket_M_sports_h_wlk_rc_2880_1_3.png
   index: -1
 jacket_M_sports_h_wlk_rc_2880_2_0.png
   rotate: false
-  xy: 893, 34
+  xy: 1006, 34
   size: 12, 28
   orig: 12, 28
   offset: 0, 0
@@ -664,23 +664,23 @@ jacket_M_sports_h_wlk_rc_2880_2_2.png
   index: -1
 jacket_M_sports_h_wlk_rc_2880_2_3.png
   rotate: false
-  xy: 231, 2
+  xy: 291, 9
   size: 15, 30
   orig: 15, 30
   offset: 0, 0
   index: -1
-jacket_M_sports_h_wlk_rc_2880_3_1.png
+jacket_M_sports_h_wlk_rc_2880_3_0.png
   rotate: false
-  xy: 588, 11
-  size: 10, 25
-  orig: 10, 25
-  offset: 0, 0
-  index: -1
-jacket_M_sports_h_wlk_rc_2880_3_2.png
-  rotate: false
-  xy: 248, 8
+  xy: 609, 6
   size: 10, 28
   orig: 10, 28
+  offset: 0, 0
+  index: -1
+jacket_M_sports_h_wlk_rc_2880_3_1.png
+  rotate: false
+  xy: 597, 9
+  size: 10, 25
+  orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_rc_2880_3_3.png
@@ -692,28 +692,28 @@ jacket_M_sports_h_wlk_rc_2880_3_3.png
   index: -1
 jacket_M_sports_h_wlk_rc_2880_7_0.png
   rotate: false
-  xy: 529, 8
+  xy: 564, 9
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_rc_2880_7_1.png
   rotate: false
-  xy: 336, 16
+  xy: 457, 15
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_rc_2880_7_2.png
   rotate: false
-  xy: 348, 18
+  xy: 469, 15
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_M_sports_h_wlk_rc_2880_7_3.png
   rotate: false
-  xy: 541, 8
+  xy: 576, 9
   size: 10, 26
   orig: 10, 26
   offset: 0, 0

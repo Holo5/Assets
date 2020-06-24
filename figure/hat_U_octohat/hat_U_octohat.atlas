@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 hat_U_octohat_h_lay_ha_2985_2_0.png
   rotate: false
-  xy: 45, 3
+  xy: 89, 3
   size: 41, 42
   orig: 41, 42
   offset: 0, 0
@@ -34,14 +34,14 @@ hat_U_octohat_h_spk_ha_2985_1_0.png
   index: -1
 hat_U_octohat_h_spk_ha_2985_2_0.png
   rotate: false
-  xy: 132, 5
+  xy: 175, 5
   size: 41, 40
   orig: 41, 40
   offset: 0, 0
   index: -1
 hat_U_octohat_h_spk_ha_2985_3_0.png
   rotate: false
-  xy: 218, 7
+  xy: 262, 7
   size: 42, 38
   orig: 42, 38
   offset: 0, 0
@@ -62,21 +62,21 @@ hat_U_octohat_h_std_ha_2985_1_0.png
   index: -1
 hat_U_octohat_h_std_ha_2985_2_0.png
   rotate: false
-  xy: 175, 5
+  xy: 132, 5
   size: 41, 40
   orig: 41, 40
   offset: 0, 0
   index: -1
 hat_U_octohat_h_std_ha_2985_3_0.png
   rotate: false
-  xy: 262, 7
+  xy: 218, 7
   size: 42, 38
   orig: 42, 38
   offset: 0, 0
   index: -1
 hat_U_octohat_h_std_ha_2985_7_0.png
   rotate: false
-  xy: 88, 4
+  xy: 45, 4
   size: 42, 41
   orig: 42, 41
   offset: 0, 0

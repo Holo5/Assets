@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 ESredUntouchable_h_std_fx49_1_1_0_0.png
   rotate: false
-  xy: 110, 2
+  xy: 218, 2
   size: 106, 113
   orig: 106, 113
   offset: 0, 0
   index: -1
 ESredUntouchable_h_std_fx49_1_1_0_1.png
   rotate: false
-  xy: 2, 2
+  xy: 326, 2
   size: 106, 113
   orig: 106, 113
   offset: 0, 0
   index: -1
 ESredUntouchable_h_std_fx49_1_1_0_2.png
   rotate: false
-  xy: 326, 2
+  xy: 2, 2
   size: 106, 113
   orig: 106, 113
   offset: 0, 0
   index: -1
 ESredUntouchable_h_std_fx49_1_1_0_3.png
   rotate: false
-  xy: 218, 2
+  xy: 110, 2
   size: 106, 113
   orig: 106, 113
   offset: 0, 0

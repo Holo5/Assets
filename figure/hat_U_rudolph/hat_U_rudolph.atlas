@@ -27,14 +27,14 @@ hat_U_rudolph_h_spk_ha_3281_0_0.png
   index: -1
 hat_U_rudolph_h_spk_ha_3281_1_0.png
   rotate: false
-  xy: 66, 2
+  xy: 2, 2
   size: 29, 56
   orig: 29, 56
   offset: 0, 0
   index: -1
 hat_U_rudolph_h_spk_ha_3281_2_0.png
   rotate: false
-  xy: 34, 3
+  xy: 33, 3
   size: 30, 55
   orig: 30, 55
   offset: 0, 0
@@ -48,7 +48,7 @@ hat_U_rudolph_h_spk_ha_3281_3_0.png
   index: -1
 hat_U_rudolph_h_spk_ha_3281_7_0.png
   rotate: false
-  xy: 300, 15
+  xy: 264, 15
   size: 34, 43
   orig: 34, 43
   offset: 0, 0
@@ -69,7 +69,7 @@ hat_U_rudolph_h_std_ha_3281_1_0.png
   index: -1
 hat_U_rudolph_h_std_ha_3281_2_0.png
   rotate: false
-  xy: 2, 3
+  xy: 65, 3
   size: 30, 55
   orig: 30, 55
   offset: 0, 0
@@ -83,7 +83,7 @@ hat_U_rudolph_h_std_ha_3281_3_0.png
   index: -1
 hat_U_rudolph_h_std_ha_3281_7_0.png
   rotate: false
-  xy: 264, 15
+  xy: 300, 15
   size: 34, 43
   orig: 34, 43
   offset: 0, 0

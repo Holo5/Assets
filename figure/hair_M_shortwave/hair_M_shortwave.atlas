@@ -4,7 +4,7 @@ size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hair_M_shortwave_h_lsp_hr_2439_2_0.png
+hair_M_shortwave_h_lay_hr_2439_2_0.png
   rotate: false
   xy: 363, 31
   size: 32, 31
@@ -20,14 +20,14 @@ hair_M_shortwave_h_lsp_hrb_2439_2_0.png
   index: -1
 hair_M_shortwave_h_spk_hr_2439_0_0.png
   rotate: false
-  xy: 74, 29
+  xy: 38, 29
   size: 34, 33
   orig: 34, 33
   offset: 0, 0
   index: -1
 hair_M_shortwave_h_spk_hr_2439_1_0.png
   rotate: false
-  xy: 257, 32
+  xy: 293, 32
   size: 34, 30
   orig: 34, 30
   offset: 0, 0
@@ -41,33 +41,12 @@ hair_M_shortwave_h_spk_hr_2439_2_0.png
   index: -1
 hair_M_shortwave_h_spk_hr_2439_3_0.png
   rotate: false
-  xy: 110, 2
+  xy: 176, 2
   size: 31, 27
   orig: 31, 27
   offset: 0, 0
   index: -1
 hair_M_shortwave_h_spk_hr_2439_7_0.png
-  rotate: false
-  xy: 430, 29
-  size: 31, 33
-  orig: 31, 33
-  offset: 0, 0
-  index: -1
-hair_M_shortwave_h_spk_hrb_2439_0_0.png
-  rotate: false
-  xy: 2, 29
-  size: 34, 33
-  orig: 34, 33
-  offset: 0, 0
-  index: -1
-hair_M_shortwave_h_spk_hrb_2439_1_0.png
-  rotate: false
-  xy: 221, 32
-  size: 34, 30
-  orig: 34, 30
-  offset: 0, 0
-  index: -1
-hair_M_shortwave_h_spk_hrb_2439_7_0.png
   rotate: false
   xy: 463, 29
   size: 31, 33
@@ -76,50 +55,71 @@ hair_M_shortwave_h_spk_hrb_2439_7_0.png
   index: -1
 hair_M_shortwave_h_std_hr_2439_0_0.png
   rotate: false
-  xy: 38, 29
+  xy: 2, 29
   size: 34, 33
   orig: 34, 33
   offset: 0, 0
   index: -1
 hair_M_shortwave_h_std_hr_2439_1_0.png
   rotate: false
-  xy: 293, 32
+  xy: 257, 32
   size: 34, 30
   orig: 34, 30
   offset: 0, 0
   index: -1
 hair_M_shortwave_h_std_hr_2439_2_0.png
   rotate: false
-  xy: 184, 31
+  xy: 110, 31
   size: 35, 31
   orig: 35, 31
   offset: 0, 0
   index: -1
 hair_M_shortwave_h_std_hr_2439_3_0.png
   rotate: false
-  xy: 176, 2
+  xy: 143, 2
   size: 31, 27
   orig: 31, 27
   offset: 0, 0
   index: -1
 hair_M_shortwave_h_std_hr_2439_7_0.png
   rotate: false
-  xy: 397, 29
+  xy: 430, 29
   size: 31, 33
   orig: 31, 33
   offset: 0, 0
   index: -1
+hair_M_shortwave_h_std_hrb_2439_0_0.png
+  rotate: false
+  xy: 74, 29
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+hair_M_shortwave_h_std_hrb_2439_1_0.png
+  rotate: false
+  xy: 221, 32
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
 hair_M_shortwave_h_std_hrb_2439_2_0.png
   rotate: false
-  xy: 110, 31
+  xy: 184, 31
   size: 35, 31
   orig: 35, 31
   offset: 0, 0
   index: -1
 hair_M_shortwave_h_std_hrb_2439_3_0.png
   rotate: false
-  xy: 143, 2
+  xy: 110, 2
   size: 31, 27
   orig: 31, 27
+  offset: 0, 0
+  index: -1
+hair_M_shortwave_h_std_hrb_2439_7_0.png
+  rotate: false
+  xy: 397, 29
+  size: 31, 33
+  orig: 31, 33
   offset: 0, 0
   index: -1

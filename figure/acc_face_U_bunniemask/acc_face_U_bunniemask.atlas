@@ -4,7 +4,7 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_face_U_bunniemask_h_lay_fa_3134_2_0.png
+acc_face_U_bunniemask_h_lsp_fa_3134_2_0.png
   rotate: false
   xy: 2, 37
   size: 47, 25
@@ -13,7 +13,7 @@ acc_face_U_bunniemask_h_lay_fa_3134_2_0.png
   index: -1
 acc_face_U_bunniemask_h_spk_fa_3134_0_0.png
   rotate: false
-  xy: 131, 26
+  xy: 86, 2
   size: 30, 36
   orig: 30, 36
   offset: 0, 0
@@ -32,6 +32,13 @@ acc_face_U_bunniemask_h_spk_fa_3134_2_0.png
   orig: 33, 36
   offset: 0, 0
   index: -1
+acc_face_U_bunniemask_h_spk_fa_3134_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
 acc_face_U_bunniemask_h_spk_fa_3134_7_0.png
   rotate: false
   xy: 51, 40
@@ -41,16 +48,9 @@ acc_face_U_bunniemask_h_spk_fa_3134_7_0.png
   index: -1
 acc_face_U_bunniemask_h_std_fa_3134_0_0.png
   rotate: false
-  xy: 86, 2
+  xy: 131, 26
   size: 30, 36
   orig: 30, 36
-  offset: 0, 0
-  index: -1
-acc_face_U_bunniemask_h_std_fa_3134_3_0.png
-  rotate: false
-  xy: 2, 2
-  size: 38, 33
-  orig: 38, 33
   offset: 0, 0
   index: -1
 acc_face_U_bunniemask_h_std_fa_3134_7_0.png

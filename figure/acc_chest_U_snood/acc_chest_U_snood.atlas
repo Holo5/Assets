@@ -11,16 +11,9 @@ acc_chest_U_snood_h_lay_ca_2800_2_0.png
   orig: 29, 17
   offset: 0, 0
   index: -1
-acc_chest_U_snood_h_std_ca_1_2_0.png
-  rotate: false
-  xy: 112, 11
-  size: 27, 16
-  orig: 27, 16
-  offset: 0, 0
-  index: -1
 acc_chest_U_snood_h_std_ca_2800_0_0.png
   rotate: false
-  xy: 141, 15
+  xy: 112, 15
   size: 22, 12
   orig: 22, 12
   offset: 0, 0
@@ -48,7 +41,7 @@ acc_chest_U_snood_h_std_ca_2800_3_0.png
   index: -1
 acc_chest_U_snood_h_std_ca_2800_7_0.png
   rotate: false
-  xy: 165, 15
+  xy: 136, 15
   size: 21, 12
   orig: 21, 12
   offset: 0, 0

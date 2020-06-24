@@ -60,6 +60,13 @@ Peacock1Mask_h_std_fx147_1_1_7_0.png
   orig: 22, 30
   offset: 0, 0
   index: -1
+Peacock1Mask_h_std_fx147_2_1_2_0.png
+  rotate: false
+  xy: 32, 62
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 Peacock1Mask_h_std_fx147_2_1_5_0.png
   rotate: false
   xy: 32, 65
@@ -72,12 +79,5 @@ Peacock1Mask_h_std_fx147_2_1_6_0.png
   xy: 2, 60
   size: 28, 36
   orig: 28, 36
-  offset: 0, 0
-  index: -1
-Peacock1Mask_h_std_fx147_2_1_7_0.png
-  rotate: false
-  xy: 32, 62
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1

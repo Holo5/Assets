@@ -13,7 +13,7 @@ hair_U_sidesweep_h_lay_hr_2319_2_0.png
   index: -1
 hair_U_sidesweep_h_lay_hr_2320_2_0.png
   rotate: false
-  xy: 280, 32
+  xy: 311, 32
   size: 29, 30
   orig: 29, 30
   offset: 0, 0
@@ -27,7 +27,7 @@ hair_U_sidesweep_h_lay_hrb_2319_2_0.png
   index: -1
 hair_U_sidesweep_h_lay_hrb_2320_2_0.png
   rotate: false
-  xy: 311, 32
+  xy: 280, 32
   size: 29, 30
   orig: 29, 30
   offset: 0, 0
@@ -41,7 +41,7 @@ hair_U_sidesweep_h_lsp_hr_2319_2_0.png
   index: -1
 hair_U_sidesweep_h_lsp_hr_2320_2_0.png
   rotate: false
-  xy: 818, 33
+  xy: 818, 2
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
@@ -55,21 +55,21 @@ hair_U_sidesweep_h_lsp_hrb_2319_2_0.png
   index: -1
 hair_U_sidesweep_h_lsp_hrb_2320_2_0.png
   rotate: false
-  xy: 846, 33
+  xy: 846, 2
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_spk_hr_2319_0_0.png
   rotate: false
-  xy: 586, 30
+  xy: 616, 30
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_spk_hr_2319_1_0.png
   rotate: false
-  xy: 244, 2
+  xy: 212, 2
   size: 30, 28
   orig: 30, 28
   offset: 0, 0
@@ -83,21 +83,21 @@ hair_U_sidesweep_h_spk_hr_2319_2_0.png
   index: -1
 hair_U_sidesweep_h_spk_hr_2319_3_0.png
   rotate: false
-  xy: 372, 2
+  xy: 404, 2
   size: 30, 29
   orig: 30, 29
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_spk_hr_2319_7_0.png
   rotate: false
-  xy: 466, 27
+  xy: 496, 27
   size: 28, 35
   orig: 28, 35
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_spk_hr_2320_0_0.png
   rotate: false
-  xy: 436, 2
+  xy: 342, 32
   size: 26, 30
   orig: 26, 30
   offset: 0, 0
@@ -111,7 +111,7 @@ hair_U_sidesweep_h_spk_hr_2320_1_0.png
   index: -1
 hair_U_sidesweep_h_spk_hr_2320_2_0.png
   rotate: false
-  xy: 404, 2
+  xy: 402, 33
   size: 30, 29
   orig: 30, 29
   offset: 0, 0
@@ -132,14 +132,14 @@ hair_U_sidesweep_h_spk_hr_2320_7_0.png
   index: -1
 hair_U_sidesweep_h_spk_hrb_2319_0_0.png
   rotate: false
-  xy: 616, 30
+  xy: 586, 30
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_spk_hrb_2319_1_0.png
   rotate: false
-  xy: 434, 34
+  xy: 340, 2
   size: 30, 28
   orig: 30, 28
   offset: 0, 0
@@ -160,14 +160,14 @@ hair_U_sidesweep_h_spk_hrb_2319_3_0.png
   index: -1
 hair_U_sidesweep_h_spk_hrb_2319_7_0.png
   rotate: false
-  xy: 496, 27
+  xy: 466, 27
   size: 28, 35
   orig: 28, 35
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_spk_hrb_2320_0_0.png
   rotate: false
-  xy: 342, 32
+  xy: 436, 2
   size: 26, 30
   orig: 26, 30
   offset: 0, 0
@@ -181,7 +181,7 @@ hair_U_sidesweep_h_spk_hrb_2320_1_0.png
   index: -1
 hair_U_sidesweep_h_spk_hrb_2320_2_0.png
   rotate: false
-  xy: 402, 33
+  xy: 372, 2
   size: 30, 29
   orig: 30, 29
   offset: 0, 0
@@ -216,42 +216,42 @@ hair_U_sidesweep_h_std_hr_2319_1_0.png
   index: -1
 hair_U_sidesweep_h_std_hr_2319_2_0.png
   rotate: false
-  xy: 246, 32
+  xy: 212, 32
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_std_hr_2319_3_0.png
   rotate: false
-  xy: 308, 2
+  xy: 434, 34
   size: 30, 28
   orig: 30, 28
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_std_hr_2319_7_0.png
   rotate: false
-  xy: 526, 28
+  xy: 556, 28
   size: 28, 34
   orig: 28, 34
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_std_hr_2320_0_0.png
   rotate: false
-  xy: 818, 2
+  xy: 846, 33
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_std_hr_2320_1_0.png
   rotate: false
-  xy: 556, 2
+  xy: 526, 2
   size: 28, 24
   orig: 28, 24
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_std_hr_2320_2_0.png
   rotate: false
-  xy: 276, 2
+  xy: 244, 2
   size: 30, 28
   orig: 30, 28
   offset: 0, 0
@@ -286,42 +286,42 @@ hair_U_sidesweep_h_std_hrb_2319_1_0.png
   index: -1
 hair_U_sidesweep_h_std_hrb_2319_2_0.png
   rotate: false
-  xy: 212, 32
+  xy: 246, 32
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_std_hrb_2319_3_0.png
   rotate: false
-  xy: 212, 2
+  xy: 308, 2
   size: 30, 28
   orig: 30, 28
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_std_hrb_2319_7_0.png
   rotate: false
-  xy: 556, 28
+  xy: 526, 28
   size: 28, 34
   orig: 28, 34
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_std_hrb_2320_0_0.png
   rotate: false
-  xy: 846, 2
+  xy: 818, 33
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_std_hrb_2320_1_0.png
   rotate: false
-  xy: 526, 2
+  xy: 556, 2
   size: 28, 24
   orig: 28, 24
   offset: 0, 0
   index: -1
 hair_U_sidesweep_h_std_hrb_2320_2_0.png
   rotate: false
-  xy: 340, 2
+  xy: 276, 2
   size: 30, 28
   orig: 30, 28
   offset: 0, 0

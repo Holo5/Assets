@@ -4,23 +4,23 @@ size: 512,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hat_U_sidehat_h_lay_ha_2684_2_0.png
+hat_U_sidehat_h_lay_ha_2685_2_0.png
+  rotate: false
+  xy: 185, 5
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+hat_U_sidehat_h_lsp_ha_2684_2_0.png
   rotate: false
   xy: 285, 16
   size: 5, 11
   orig: 5, 11
   offset: 0, 0
   index: -1
-hat_U_sidehat_h_lay_ha_2685_2_0.png
-  rotate: false
-  xy: 167, 5
-  size: 18, 22
-  orig: 18, 22
-  offset: 0, 0
-  index: -1
 hat_U_sidehat_h_spk_ha_2684_0_0.png
   rotate: false
-  xy: 205, 13
+  xy: 256, 13
   size: 15, 14
   orig: 15, 14
   offset: 0, 0
@@ -34,21 +34,21 @@ hat_U_sidehat_h_spk_ha_2684_1_0.png
   index: -1
 hat_U_sidehat_h_spk_ha_2684_2_0.png
   rotate: false
-  xy: 256, 13
+  xy: 222, 13
   size: 15, 14
   orig: 15, 14
   offset: 0, 0
   index: -1
 hat_U_sidehat_h_spk_ha_2684_3_0.png
   rotate: false
-  xy: 239, 13
+  xy: 205, 13
   size: 15, 14
   orig: 15, 14
   offset: 0, 0
   index: -1
 hat_U_sidehat_h_spk_ha_2684_7_0.png
   rotate: false
-  xy: 222, 13
+  xy: 239, 13
   size: 15, 14
   orig: 15, 14
   offset: 0, 0
@@ -58,6 +58,13 @@ hat_U_sidehat_h_spk_ha_2685_0_0.png
   xy: 141, 3
   size: 24, 24
   orig: 24, 24
+  offset: 0, 0
+  index: -1
+hat_U_sidehat_h_spk_ha_2685_1_0.png
+  rotate: false
+  xy: 167, 2
+  size: 16, 25
+  orig: 16, 25
   offset: 0, 0
   index: -1
 hat_U_sidehat_h_spk_ha_2685_2_0.png
@@ -76,21 +83,14 @@ hat_U_sidehat_h_spk_ha_2685_3_0.png
   index: -1
 hat_U_sidehat_h_spk_ha_2685_7_0.png
   rotate: false
-  xy: 58, 4
+  xy: 30, 4
   size: 26, 23
   orig: 26, 23
   offset: 0, 0
   index: -1
-hat_U_sidehat_h_std_ha_2685_1_0.png
-  rotate: false
-  xy: 187, 2
-  size: 16, 25
-  orig: 16, 25
-  offset: 0, 0
-  index: -1
 hat_U_sidehat_h_std_ha_2685_3_0.png
   rotate: false
-  xy: 30, 4
+  xy: 58, 4
   size: 26, 23
   orig: 26, 23
   offset: 0, 0

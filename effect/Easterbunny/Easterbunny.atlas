@@ -13,7 +13,7 @@ Easterbunny_h_std_fx54_2_1_0_0.png
   index: -1
 Easterbunny_h_std_fx54_2_1_1_0.png
   rotate: false
-  xy: 451, 4
+  xy: 573, 4
   size: 59, 114
   orig: 59, 114
   offset: 0, 0
@@ -41,14 +41,14 @@ Easterbunny_h_std_fx54_2_1_2_1.png
   index: -1
 Easterbunny_h_std_fx54_2_1_3_0.png
   rotate: false
-  xy: 740, 14
+  xy: 687, 14
   size: 51, 104
   orig: 51, 104
   offset: 0, 0
   index: -1
 Easterbunny_h_std_fx54_2_1_3_1.png
   rotate: false
-  xy: 687, 14
+  xy: 740, 14
   size: 51, 104
   orig: 51, 104
   offset: 0, 0
@@ -69,14 +69,14 @@ Easterbunny_h_std_fx54_2_1_4_1.png
   index: -1
 Easterbunny_h_std_fx54_2_1_5_0.png
   rotate: false
-  xy: 512, 4
+  xy: 451, 4
   size: 59, 114
   orig: 59, 114
   offset: 0, 0
   index: -1
 Easterbunny_h_std_fx54_2_1_5_1.png
   rotate: false
-  xy: 573, 4
+  xy: 512, 4
   size: 59, 114
   orig: 59, 114
   offset: 0, 0
@@ -102,14 +102,14 @@ Easterbunny_h_std_fx54_3_1_1_0.png
   orig: 1, 1
   offset: 0, 0
   index: -1
-Easterbunny_h_std_fx54_3_1_2_0.png
+Easterbunny_h_std_fx54_3_1_4_0.png
   rotate: false
   xy: 813, 43
   size: 18, 42
   orig: 18, 42
   offset: 0, 0
   index: -1
-Easterbunny_h_std_fx54_3_1_4_0.png
+Easterbunny_h_std_fx54_3_1_6_0.png
   rotate: false
   xy: 793, 43
   size: 18, 42

@@ -6,84 +6,84 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_shavedside_h_lay_hr_2548_2_0.png
   rotate: false
-  xy: 337, 19
+  xy: 338, 25
   size: 13, 21
   orig: 13, 21
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_lay_hr_2549_2_0.png
   rotate: false
-  xy: 361, 48
+  xy: 367, 48
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_lay_hrb_2548_2_0.png
   rotate: false
-  xy: 364, 25
+  xy: 338, 2
   size: 13, 21
   orig: 13, 21
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_lay_hrb_2549_2_0.png
   rotate: false
-  xy: 390, 48
+  xy: 338, 48
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hr_2548_0_0.png
   rotate: false
-  xy: 291, 40
+  xy: 267, 40
   size: 22, 22
   orig: 22, 22
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hr_2548_1_0.png
   rotate: false
-  xy: 442, 43
+  xy: 396, 43
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hr_2548_2_0.png
   rotate: false
-  xy: 318, 22
+  xy: 287, 20
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hr_2548_3_0.png
   rotate: false
-  xy: 379, 26
+  xy: 353, 2
   size: 11, 20
   orig: 11, 20
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hr_2548_7_0.png
   rotate: false
-  xy: 431, 19
+  xy: 256, 9
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hr_2549_0_0.png
   rotate: false
-  xy: 185, 2
+  xy: 196, 33
   size: 25, 29
   orig: 25, 29
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hr_2549_1_0.png
   rotate: false
-  xy: 2, 34
+  xy: 36, 34
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hr_2549_2_0.png
   rotate: false
-  xy: 71, 4
+  xy: 138, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
@@ -97,56 +97,56 @@ hair_U_shavedside_h_spk_hr_2549_3_0.png
   index: -1
 hair_U_shavedside_h_spk_hr_2549_7_0.png
   rotate: false
-  xy: 2, 2
+  xy: 25, 2
   size: 21, 30
   orig: 21, 30
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hrb_2548_0_0.png
   rotate: false
-  xy: 267, 40
+  xy: 291, 40
   size: 22, 22
   orig: 22, 22
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hrb_2548_1_0.png
   rotate: false
-  xy: 419, 43
+  xy: 442, 43
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hrb_2548_2_0.png
   rotate: false
-  xy: 268, 20
+  xy: 319, 2
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hrb_2548_3_0.png
   rotate: false
-  xy: 392, 26
+  xy: 377, 26
   size: 11, 20
   orig: 11, 20
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hrb_2548_7_0.png
   rotate: false
-  xy: 256, 9
+  xy: 353, 24
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hrb_2549_0_0.png
   rotate: false
-  xy: 196, 33
+  xy: 185, 2
   size: 25, 29
   orig: 25, 29
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_spk_hrb_2549_1_0.png
   rotate: false
-  xy: 104, 34
+  xy: 70, 34
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -160,49 +160,42 @@ hair_U_shavedside_h_spk_hrb_2549_2_0.png
   index: -1
 hair_U_shavedside_h_spk_hrb_2549_3_0.png
   rotate: false
-  xy: 234, 2
+  xy: 245, 33
   size: 20, 29
   orig: 20, 29
   offset: 0, 0
   index: -1
-hair_U_shavedside_h_spk_hrb_2549_7_0.png
-  rotate: false
-  xy: 48, 2
-  size: 21, 30
-  orig: 21, 30
-  offset: 0, 0
-  index: -1
 hair_U_shavedside_h_std_hr_2548_0_0.png
   rotate: false
-  xy: 338, 42
+  xy: 315, 42
   size: 21, 20
   orig: 21, 20
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hr_2548_1_0.png
   rotate: false
-  xy: 487, 43
+  xy: 465, 43
   size: 20, 19
   orig: 20, 19
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hr_2548_2_0.png
   rotate: false
-  xy: 287, 20
+  xy: 268, 20
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hr_2548_3_0.png
   rotate: false
-  xy: 418, 22
+  xy: 306, 19
   size: 11, 19
   orig: 11, 19
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hr_2548_7_0.png
   rotate: false
-  xy: 352, 19
+  xy: 365, 25
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
@@ -216,63 +209,63 @@ hair_U_shavedside_h_std_hr_2549_0_0.png
   index: -1
 hair_U_shavedside_h_std_hr_2549_1_0.png
   rotate: false
-  xy: 70, 34
+  xy: 2, 34
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hr_2549_2_0.png
   rotate: false
-  xy: 100, 4
+  xy: 71, 4
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hr_2549_3_0.png
   rotate: false
-  xy: 245, 33
+  xy: 212, 2
   size: 20, 29
   orig: 20, 29
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hr_2549_7_0.png
   rotate: false
-  xy: 25, 2
+  xy: 2, 2
   size: 21, 30
   orig: 21, 30
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hrb_2548_0_0.png
   rotate: false
-  xy: 315, 42
+  xy: 419, 42
   size: 21, 20
   orig: 21, 20
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hrb_2548_1_0.png
   rotate: false
-  xy: 465, 43
+  xy: 487, 43
   size: 20, 19
   orig: 20, 19
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hrb_2548_2_0.png
   rotate: false
-  xy: 318, 2
+  xy: 319, 22
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hrb_2548_3_0.png
   rotate: false
-  xy: 405, 27
+  xy: 378, 5
   size: 11, 19
   orig: 11, 19
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hrb_2548_7_0.png
   rotate: false
-  xy: 306, 17
+  xy: 366, 2
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
@@ -286,22 +279,29 @@ hair_U_shavedside_h_std_hrb_2549_0_0.png
   index: -1
 hair_U_shavedside_h_std_hrb_2549_1_0.png
   rotate: false
-  xy: 36, 34
+  xy: 104, 34
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hrb_2549_2_0.png
   rotate: false
-  xy: 138, 34
+  xy: 100, 4
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hair_U_shavedside_h_std_hrb_2549_3_0.png
   rotate: false
-  xy: 212, 2
+  xy: 234, 2
   size: 20, 29
   orig: 20, 29
+  offset: 0, 0
+  index: -1
+hair_U_shavedside_h_std_hrb_2549_7_0.png
+  rotate: false
+  xy: 48, 2
+  size: 21, 30
+  orig: 21, 30
   offset: 0, 0
   index: -1

@@ -4,16 +4,9 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-jacket_M_quilted_vest_h_crr_lc_2260_3_0.png
-  rotate: false
-  xy: 61, 18
-  size: 8, 12
-  orig: 8, 12
-  offset: 0, 0
-  index: -1
 jacket_M_quilted_vest_h_crr_lc_2260_6_0.png
   rotate: false
-  xy: 221, 52
+  xy: 38, 20
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
@@ -34,56 +27,56 @@ jacket_M_quilted_vest_h_crr_rc_2260_2_0.png
   index: -1
 jacket_M_quilted_vest_h_crr_rc_2260_3_0.png
   rotate: false
-  xy: 202, 37
+  xy: 60, 18
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_crr_rc_2260_4_0.png
   rotate: false
-  xy: 24, 4
+  xy: 159, 49
   size: 11, 13
   orig: 11, 13
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_crr_rc_2260_5_0.png
   rotate: false
-  xy: 202, 29
+  xy: 245, 56
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_drk_rc_2260_0_0.png
   rotate: false
-  xy: 79, 15
+  xy: 82, 2
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_drk_rc_2260_1_0.png
   rotate: false
-  xy: 51, 19
+  xy: 82, 16
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_drk_rc_2260_2_0.png
   rotate: false
-  xy: 54, 6
+  xy: 98, 3
   size: 5, 11
   orig: 5, 11
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_drk_rc_2260_3_0.png
   rotate: false
-  xy: 61, 8
+  xy: 159, 24
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_drk_rc_2260_5_0.png
   rotate: false
-  xy: 232, 39
+  xy: 92, 16
   size: 7, 11
   orig: 7, 11
   offset: 0, 0
@@ -104,7 +97,7 @@ jacket_M_quilted_vest_h_lay_cc_2260_2_0.png
   index: -1
 jacket_M_quilted_vest_h_lay_rc_2260_2_0.png
   rotate: false
-  xy: 212, 37
+  xy: 46, 4
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
@@ -144,100 +137,107 @@ jacket_M_quilted_vest_h_std_cc_2260_7_0.png
   orig: 32, 30
   offset: 0, 0
   index: -1
+jacket_M_quilted_vest_h_std_lc_2260_3_0.png
+  rotate: false
+  xy: 50, 18
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
 jacket_M_quilted_vest_h_std_rc_2260_0_0.png
   rotate: false
-  xy: 233, 52
+  xy: 220, 52
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
-jacket_M_quilted_vest_h_std_rc_2260_1_0.png
+jacket_M_quilted_vest_h_wav_lc_2260_0_0.png
   rotate: false
-  xy: 71, 7
-  size: 9, 6
-  orig: 9, 6
-  offset: 0, 0
-  index: -1
-jacket_M_quilted_vest_h_wav_lc_2260_0_1.png
-  rotate: false
-  xy: 213, 30
+  xy: 169, 27
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
-jacket_M_quilted_vest_h_wav_lc_2260_2_0.png
+jacket_M_quilted_vest_h_wav_lc_2260_2_1.png
   rotate: false
-  xy: 71, 15
+  xy: 90, 2
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_wav_lc_2260_3_1.png
   rotate: false
-  xy: 194, 32
+  xy: 74, 2
   size: 6, 16
   orig: 6, 16
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_wav_lc_2260_4_0.png
   rotate: false
-  xy: 46, 4
+  xy: 66, 3
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_wav_lc_2260_5_1.png
   rotate: false
-  xy: 245, 50
+  xy: 197, 50
   size: 9, 12
   orig: 9, 12
   offset: 0, 0
   index: -1
-jacket_M_quilted_vest_h_wav_lc_2260_6_0.png
+jacket_M_quilted_vest_h_wav_lc_2260_6_1.png
   rotate: false
   xy: 37, 2
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
-jacket_M_quilted_vest_h_wav_lc_2260_7_0.png
+jacket_M_quilted_vest_h_wav_lc_2260_7_1.png
   rotate: false
   xy: 183, 35
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
+jacket_M_quilted_vest_h_wlk_rc_2260_0_0.png
+  rotate: false
+  xy: 194, 37
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
 jacket_M_quilted_vest_h_wlk_rc_2260_0_1.png
   rotate: false
-  xy: 159, 49
+  xy: 24, 4
   size: 11, 13
   orig: 11, 13
   offset: 0, 0
   index: -1
-jacket_M_quilted_vest_h_wlk_rc_2260_0_2.png
+jacket_M_quilted_vest_h_wlk_rc_2260_0_3.png
   rotate: false
-  xy: 197, 51
+  xy: 208, 51
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
   index: -1
-jacket_M_quilted_vest_h_wlk_rc_2260_0_3.png
+jacket_M_quilted_vest_h_wlk_rc_2260_1_0.png
   rotate: false
-  xy: 209, 51
-  size: 10, 11
-  orig: 10, 11
+  xy: 245, 48
+  size: 9, 6
+  orig: 9, 6
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_wlk_rc_2260_1_1.png
   rotate: false
-  xy: 38, 21
+  xy: 232, 53
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 jacket_M_quilted_vest_h_wlk_rc_2260_1_3.png
   rotate: false
-  xy: 87, 20
+  xy: 70, 20
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
@@ -258,7 +258,7 @@ jacket_M_quilted_vest_h_wlk_rc_2260_2_3.png
   index: -1
 jacket_M_quilted_vest_h_wlk_rc_2260_3_0.png
   rotate: false
-  xy: 222, 38
+  xy: 56, 4
   size: 8, 12
   orig: 8, 12
   offset: 0, 0

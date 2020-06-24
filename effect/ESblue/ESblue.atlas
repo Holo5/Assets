@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 ESblue_h_std_fx42_1_1_0_0.png
   rotate: false
-  xy: 72, 7
+  xy: 104, 7
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
   index: -1
 ESblue_h_std_fx42_1_1_1_0.png
   rotate: false
-  xy: 36, 7
+  xy: 68, 7
   size: 34, 32
   orig: 34, 32
   offset: 0, 0
   index: -1
 ESblue_h_std_fx42_1_1_2_0.png
   rotate: false
-  xy: 2, 4
+  xy: 34, 4
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 ESblue_h_std_fx42_1_1_3_0.png
   rotate: false
-  xy: 105, 2
+  xy: 2, 2
   size: 30, 37
   orig: 30, 37
   offset: 0, 0

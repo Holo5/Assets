@@ -20,7 +20,7 @@ Riding_h_crr_ri_fx77_2_1_1_0.png
   index: -1
 Riding_h_crr_ri_fx77_2_1_2_0.png
   rotate: false
-  xy: 59, 185
+  xy: 55, 154
   size: 39, 38
   orig: 39, 38
   offset: 0, 0
@@ -34,7 +34,7 @@ Riding_h_crr_ri_fx77_2_1_3_0.png
   index: -1
 Riding_h_crr_ri_fx77_2_1_4_0.png
   rotate: false
-  xy: 74, 11
+  xy: 96, 156
   size: 25, 31
   orig: 25, 31
   offset: 0, 0
@@ -48,7 +48,7 @@ Riding_h_crr_ri_fx77_2_1_5_0.png
   index: -1
 Riding_h_crr_ri_fx77_2_1_6_0.png
   rotate: false
-  xy: 96, 156
+  xy: 109, 52
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
@@ -97,14 +97,14 @@ Riding_h_std_bd_fx77_1_7_0.png
   index: -1
 Riding_h_std_lg_fx77_1_1_0_0.png
   rotate: false
-  xy: 51, 83
+  xy: 59, 194
   size: 39, 29
   orig: 39, 29
   offset: 0, 0
   index: -1
 Riding_h_std_lg_fx77_1_1_1_0.png
   rotate: false
-  xy: 75, 48
+  xy: 92, 81
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
@@ -132,14 +132,14 @@ Riding_h_std_lg_fx77_1_1_4_0.png
   index: -1
 Riding_h_std_lg_fx77_1_1_5_0.png
   rotate: false
-  xy: 92, 81
+  xy: 75, 48
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 Riding_h_std_lg_fx77_1_1_6_0.png
   rotate: false
-  xy: 55, 154
+  xy: 51, 83
   size: 39, 29
   orig: 39, 29
   offset: 0, 0

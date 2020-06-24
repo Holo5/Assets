@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 DisneyChannelEffect2_h_std_fx62_1_1_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 164
   size: 106, 79
   orig: 106, 79
   offset: 0, 0
@@ -20,7 +20,7 @@ DisneyChannelEffect2_h_std_fx62_1_1_0_1.png
   index: -1
 DisneyChannelEffect2_h_std_fx62_1_1_0_2.png
   rotate: false
-  xy: 2, 164
+  xy: 2, 326
   size: 106, 79
   orig: 106, 79
   offset: 0, 0
@@ -34,7 +34,7 @@ DisneyChannelEffect2_h_std_fx62_1_1_0_3.png
   index: -1
 DisneyChannelEffect2_h_std_fx62_1_1_0_4.png
   rotate: false
-  xy: 2, 326
+  xy: 2, 2
   size: 106, 79
   orig: 106, 79
   offset: 0, 0

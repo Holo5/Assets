@@ -11,13 +11,6 @@ hat_U_maidband_h_lay_ha_3043_2_0.png
   orig: 9, 15
   offset: 0, 0
   index: -1
-hat_U_maidband_h_spk_ha_3043_0_0.png
-  rotate: false
-  xy: 27, 16
-  size: 24, 14
-  orig: 24, 14
-  offset: 0, 0
-  index: -1
 hat_U_maidband_h_spk_ha_3043_1_0.png
   rotate: false
   xy: 53, 15
@@ -32,10 +25,17 @@ hat_U_maidband_h_spk_ha_3043_2_0.png
   orig: 23, 15
   offset: 0, 0
   index: -1
-hat_U_maidband_h_spk_ha_3043_3_0.png
+hat_U_maidband_h_spk_ha_3043_7_0.png
   rotate: false
   xy: 2, 2
   size: 26, 11
   orig: 26, 11
+  offset: 0, 0
+  index: -1
+hat_U_maidband_h_std_ha_3043_0_0.png
+  rotate: false
+  xy: 27, 16
+  size: 24, 14
+  orig: 24, 14
   offset: 0, 0
   index: -1

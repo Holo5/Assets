@@ -27,7 +27,7 @@ acc_waist_U_walkie_h_lay_wa_2754_2_0.png
   index: -1
 acc_waist_U_walkie_h_std_wa_2752_0_0.png
   rotate: false
-  xy: 24, 18
+  xy: 50, 18
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
@@ -41,7 +41,7 @@ acc_waist_U_walkie_h_std_wa_2752_1_0.png
   index: -1
 acc_waist_U_walkie_h_std_wa_2752_2_0.png
   rotate: false
-  xy: 50, 18
+  xy: 24, 18
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
@@ -81,6 +81,13 @@ acc_waist_U_walkie_h_std_wa_2753_3_0.png
   orig: 7, 14
   offset: 0, 0
   index: -1
+acc_waist_U_walkie_h_std_wa_2754_0_0.png
+  rotate: false
+  xy: 87, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 acc_waist_U_walkie_h_std_wa_2754_1_0.png
   rotate: false
   xy: 110, 27
@@ -100,12 +107,5 @@ acc_waist_U_walkie_h_std_wa_2754_3_0.png
   xy: 95, 8
   size: 5, 12
   orig: 5, 12
-  offset: 0, 0
-  index: -1
-acc_waist_U_walkie_h_std_wa_2754_7_0.png
-  rotate: false
-  xy: 87, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1

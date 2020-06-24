@@ -25,6 +25,41 @@ hat_U_hoplitehelm_h_lsp_ha_2983_2_0.png
   orig: 45, 38
   offset: 0, 0
   index: -1
+hat_U_hoplitehelm_h_spk_ha_2983_0_0.png
+  rotate: false
+  xy: 48, 75
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+hat_U_hoplitehelm_h_spk_ha_2983_1_0.png
+  rotate: false
+  xy: 2, 72
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+hat_U_hoplitehelm_h_spk_ha_2983_2_0.png
+  rotate: false
+  xy: 135, 73
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+hat_U_hoplitehelm_h_spk_ha_2983_3_0.png
+  rotate: false
+  xy: 206, 71
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+hat_U_hoplitehelm_h_spk_ha_2983_7_0.png
+  rotate: false
+  xy: 172, 18
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
 hat_U_hoplitehelm_h_spk_ha_2984_0_0.png
   rotate: false
   xy: 48, 28
@@ -32,9 +67,16 @@ hat_U_hoplitehelm_h_spk_ha_2984_0_0.png
   orig: 38, 45
   offset: 0, 0
   index: -1
+hat_U_hoplitehelm_h_spk_ha_2984_1_0.png
+  rotate: false
+  xy: 2, 22
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
 hat_U_hoplitehelm_h_spk_ha_2984_2_0.png
   rotate: false
-  xy: 135, 73
+  xy: 135, 24
   size: 35, 47
   orig: 35, 47
   offset: 0, 0
@@ -51,47 +93,5 @@ hat_U_hoplitehelm_h_spk_ha_2984_7_0.png
   xy: 172, 70
   size: 32, 50
   orig: 32, 50
-  offset: 0, 0
-  index: -1
-hat_U_hoplitehelm_h_std_ha_2983_0_0.png
-  rotate: false
-  xy: 48, 75
-  size: 38, 45
-  orig: 38, 45
-  offset: 0, 0
-  index: -1
-hat_U_hoplitehelm_h_std_ha_2983_1_0.png
-  rotate: false
-  xy: 2, 22
-  size: 44, 48
-  orig: 44, 48
-  offset: 0, 0
-  index: -1
-hat_U_hoplitehelm_h_std_ha_2983_2_0.png
-  rotate: false
-  xy: 135, 24
-  size: 35, 47
-  orig: 35, 47
-  offset: 0, 0
-  index: -1
-hat_U_hoplitehelm_h_std_ha_2983_3_0.png
-  rotate: false
-  xy: 206, 71
-  size: 32, 49
-  orig: 32, 49
-  offset: 0, 0
-  index: -1
-hat_U_hoplitehelm_h_std_ha_2983_7_0.png
-  rotate: false
-  xy: 172, 18
-  size: 32, 50
-  orig: 32, 50
-  offset: 0, 0
-  index: -1
-hat_U_hoplitehelm_h_std_ha_2984_1_0.png
-  rotate: false
-  xy: 2, 72
-  size: 44, 48
-  orig: 44, 48
   offset: 0, 0
   index: -1

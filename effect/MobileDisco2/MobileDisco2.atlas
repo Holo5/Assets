@@ -13,14 +13,14 @@ MobileDisco2_h_std_fx190_1_1_0_0.png
   index: -1
 MobileDisco2_h_std_fx190_1_1_1_0.png
   rotate: false
-  xy: 90, 28
+  xy: 62, 28
   size: 12, 34
   orig: 12, 34
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_1_1_2_0.png
   rotate: false
-  xy: 47, 28
+  xy: 17, 28
   size: 13, 34
   orig: 13, 34
   offset: 0, 0
@@ -41,14 +41,14 @@ MobileDisco2_h_std_fx190_1_1_4_0.png
   index: -1
 MobileDisco2_h_std_fx190_1_1_5_0.png
   rotate: false
-  xy: 62, 28
+  xy: 90, 28
   size: 12, 34
   orig: 12, 34
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_1_1_6_0.png
   rotate: false
-  xy: 17, 28
+  xy: 47, 28
   size: 13, 34
   orig: 13, 34
   offset: 0, 0
@@ -83,7 +83,7 @@ MobileDisco2_h_std_fx190_2_1_0_2.png
   index: -1
 MobileDisco2_h_std_fx190_2_1_0_3.png
   rotate: false
-  xy: 43, 14
+  xy: 159, 50
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
@@ -97,28 +97,28 @@ MobileDisco2_h_std_fx190_2_1_1_0.png
   index: -1
 MobileDisco2_h_std_fx190_2_1_1_1.png
   rotate: false
-  xy: 214, 23
+  xy: 204, 22
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_1_2.png
   rotate: false
-  xy: 112, 12
+  xy: 161, 7
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_1_3.png
   rotate: false
-  xy: 177, 36
+  xy: 192, 36
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_2_0.png
   rotate: false
-  xy: 138, 50
+  xy: 22, 14
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
@@ -132,7 +132,7 @@ MobileDisco2_h_std_fx190_2_1_2_1.png
   index: -1
 MobileDisco2_h_std_fx190_2_1_2_2.png
   rotate: false
-  xy: 145, 20
+  xy: 135, 17
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
@@ -146,35 +146,35 @@ MobileDisco2_h_std_fx190_2_1_2_3.png
   index: -1
 MobileDisco2_h_std_fx190_2_1_3_0.png
   rotate: false
-  xy: 221, 36
+  xy: 190, 23
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_3_1.png
   rotate: false
-  xy: 207, 36
+  xy: 176, 23
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_3_2.png
   rotate: false
-  xy: 215, 49
+  xy: 229, 49
   size: 12, 13
   orig: 12, 13
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_3_3.png
   rotate: false
-  xy: 172, 23
+  xy: 162, 23
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_4_0.png
   rotate: false
-  xy: 22, 14
+  xy: 138, 50
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
@@ -188,7 +188,7 @@ MobileDisco2_h_std_fx190_2_1_4_1.png
   index: -1
 MobileDisco2_h_std_fx190_2_1_4_2.png
   rotate: false
-  xy: 243, 48
+  xy: 122, 17
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
@@ -209,21 +209,21 @@ MobileDisco2_h_std_fx190_2_1_5_0.png
   index: -1
 MobileDisco2_h_std_fx190_2_1_5_1.png
   rotate: false
-  xy: 227, 23
+  xy: 148, 10
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_5_2.png
   rotate: false
-  xy: 135, 17
+  xy: 112, 12
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_5_3.png
   rotate: false
-  xy: 192, 36
+  xy: 177, 36
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
@@ -237,49 +237,49 @@ MobileDisco2_h_std_fx190_2_1_6_0.png
   index: -1
 MobileDisco2_h_std_fx190_2_1_6_1.png
   rotate: false
-  xy: 159, 50
+  xy: 138, 36
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_6_2.png
   rotate: false
-  xy: 122, 17
+  xy: 243, 48
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_6_3.png
   rotate: false
-  xy: 138, 36
+  xy: 43, 14
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_7_0.png
   rotate: false
-  xy: 186, 23
+  xy: 148, 23
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_7_1.png
   rotate: false
-  xy: 200, 23
+  xy: 221, 36
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_7_2.png
   rotate: false
-  xy: 229, 49
+  xy: 215, 49
   size: 12, 13
   orig: 12, 13
   offset: 0, 0
   index: -1
 MobileDisco2_h_std_fx190_2_1_7_3.png
   rotate: false
-  xy: 158, 22
+  xy: 207, 35
   size: 12, 12
   orig: 12, 12
   offset: 0, 0

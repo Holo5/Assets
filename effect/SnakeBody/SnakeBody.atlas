@@ -6,175 +6,175 @@ filter: Nearest,Nearest
 repeat: none
 SnakeBody_h_std_fx134_1_1_0_0.png
   rotate: false
-  xy: 286, 66
+  xy: 246, 64
   size: 35, 58
   orig: 35, 58
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_0_1.png
   rotate: false
-  xy: 429, 67
+  xy: 424, 65
   size: 32, 57
   orig: 32, 57
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_0_2.png
   rotate: false
-  xy: 463, 67
+  xy: 458, 65
   size: 30, 57
   orig: 30, 57
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_0_3.png
   rotate: false
-  xy: 323, 66
+  xy: 318, 64
   size: 32, 58
   orig: 32, 58
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_0_4.png
   rotate: false
-  xy: 37, 5
+  xy: 73, 6
   size: 30, 58
   orig: 30, 58
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_1_0.png
   rotate: false
-  xy: 210, 70
+  xy: 132, 68
   size: 37, 54
   orig: 37, 54
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_1_1.png
   rotate: false
-  xy: 169, 71
+  xy: 91, 69
   size: 39, 53
   orig: 39, 53
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_1_2.png
   rotate: false
-  xy: 393, 70
+  xy: 388, 68
   size: 34, 54
   orig: 34, 54
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_1_3.png
   rotate: false
-  xy: 357, 69
+  xy: 352, 67
   size: 34, 55
   orig: 34, 55
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_1_4.png
   rotate: false
-  xy: 131, 68
+  xy: 171, 66
   size: 36, 56
   orig: 36, 56
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_2_0.png
   rotate: false
-  xy: 91, 68
+  xy: 2, 5
   size: 38, 56
   orig: 38, 56
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_2_1.png
   rotate: false
-  xy: 46, 68
+  xy: 46, 66
   size: 43, 56
   orig: 43, 56
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_2_2.png
   rotate: false
-  xy: 276, 7
+  xy: 254, 5
   size: 27, 57
   orig: 27, 57
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_2_3.png
   rotate: false
-  xy: 2, 2
+  xy: 283, 61
   size: 33, 61
   orig: 33, 61
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_2_4.png
   rotate: false
-  xy: 2, 65
+  xy: 2, 63
   size: 42, 59
   orig: 42, 59
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_3_0.png
   rotate: false
-  xy: 332, 9
+  xy: 337, 7
   size: 24, 55
   orig: 24, 55
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_3_1.png
   rotate: false
-  xy: 247, 10
+  xy: 283, 3
   size: 27, 56
   orig: 27, 56
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_3_2.png
   rotate: false
-  xy: 217, 12
+  xy: 224, 6
   size: 28, 56
   orig: 28, 56
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_3_3.png
   rotate: false
-  xy: 69, 9
+  xy: 42, 4
   size: 29, 57
   orig: 29, 57
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_3_4.png
   rotate: false
-  xy: 249, 68
+  xy: 209, 66
   size: 35, 56
   orig: 35, 56
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_7_0.png
   rotate: false
-  xy: 161, 9
+  xy: 312, 2
   size: 23, 57
   orig: 23, 57
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_7_1.png
   rotate: false
-  xy: 131, 10
+  xy: 194, 8
   size: 28, 56
   orig: 28, 56
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_7_2.png
   rotate: false
-  xy: 186, 13
+  xy: 132, 11
   size: 29, 55
   orig: 29, 55
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_7_3.png
   rotate: false
-  xy: 305, 9
+  xy: 105, 12
   size: 25, 55
   orig: 25, 55
   offset: 0, 0
   index: -1
 SnakeBody_h_std_fx134_1_1_7_4.png
   rotate: false
-  xy: 100, 10
+  xy: 163, 8
   size: 29, 56
   orig: 29, 56
   offset: 0, 0

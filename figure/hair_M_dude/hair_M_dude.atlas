@@ -4,282 +4,282 @@ size: 256,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hair_M_dude_h_lay_hr_2031_2_0.png
-  rotate: false
-  xy: 110, 98
-  size: 29, 30
-  orig: 29, 30
-  offset: 0, 0
-  index: -1
 hair_M_dude_h_lay_hr_2032_2_0.png
   rotate: false
-  xy: 171, 118
+  xy: 143, 105
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 hair_M_dude_h_lay_hrb_2031_2_0.png
   rotate: false
-  xy: 101, 66
+  xy: 147, 185
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+hair_M_dude_h_lsp_hr_2031_2_0.png
+  rotate: false
+  xy: 116, 186
   size: 29, 30
   orig: 29, 30
   offset: 0, 0
   index: -1
 hair_M_dude_h_lsp_hrb_2031_2_0.png
   rotate: false
-  xy: 113, 130
+  xy: 116, 154
   size: 29, 30
   orig: 29, 30
   offset: 0, 0
   index: -1
 hair_M_dude_h_lsp_hrb_2032_2_0.png
   rotate: false
-  xy: 77, 85
+  xy: 208, 200
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hr_2031_0_0.png
   rotate: false
-  xy: 41, 83
+  xy: 2, 94
   size: 34, 38
   orig: 34, 38
   offset: 0, 0
   index: -1
+hair_M_dude_h_spk_hr_2031_1_0.png
+  rotate: false
+  xy: 38, 30
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
 hair_M_dude_h_spk_hr_2031_2_0.png
   rotate: false
-  xy: 2, 42
+  xy: 2, 54
   size: 34, 38
   orig: 34, 38
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hr_2031_3_0.png
   rotate: false
-  xy: 41, 163
+  xy: 41, 178
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hr_2031_7_0.png
   rotate: false
-  xy: 2, 200
+  xy: 2, 215
   size: 37, 39
   orig: 37, 39
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hr_2032_0_0.png
   rotate: false
-  xy: 71, 50
+  xy: 138, 71
   size: 28, 31
   orig: 28, 31
   offset: 0, 0
   index: -1
+hair_M_dude_h_spk_hr_2032_1_0.png
+  rotate: false
+  xy: 230, 192
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
 hair_M_dude_h_spk_hr_2032_2_0.png
   rotate: false
-  xy: 101, 34
+  xy: 138, 6
   size: 28, 30
   orig: 28, 30
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hr_2032_3_0.png
   rotate: false
-  xy: 77, 102
+  xy: 105, 72
   size: 31, 30
   orig: 31, 30
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hr_2032_7_0.png
   rotate: false
-  xy: 223, 132
+  xy: 110, 104
   size: 31, 33
   orig: 31, 33
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hrb_2031_0_0.png
   rotate: false
-  xy: 41, 123
+  xy: 80, 178
   size: 34, 38
   orig: 34, 38
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hrb_2031_1_0.png
   rotate: false
-  xy: 155, 166
+  xy: 38, 66
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hrb_2031_2_0.png
   rotate: false
-  xy: 119, 201
+  xy: 2, 14
   size: 34, 38
   orig: 34, 38
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hrb_2031_3_0.png
   rotate: false
-  xy: 80, 203
+  xy: 80, 218
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hrb_2031_7_0.png
   rotate: false
-  xy: 2, 159
+  xy: 2, 174
   size: 37, 39
   orig: 37, 39
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hrb_2032_0_0.png
   rotate: false
-  xy: 71, 17
+  xy: 138, 38
   size: 28, 31
   orig: 28, 31
   offset: 0, 0
   index: -1
-hair_M_dude_h_spk_hrb_2032_1_0.png
-  rotate: false
-  xy: 132, 66
-  size: 24, 30
-  orig: 24, 30
-  offset: 0, 0
-  index: -1
 hair_M_dude_h_spk_hrb_2032_2_0.png
   rotate: false
-  xy: 101, 2
+  xy: 178, 185
   size: 28, 30
   orig: 28, 30
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hrb_2032_3_0.png
   rotate: false
-  xy: 80, 134
+  xy: 72, 2
   size: 31, 30
   orig: 31, 30
   offset: 0, 0
   index: -1
 hair_M_dude_h_spk_hrb_2032_7_0.png
   rotate: false
-  xy: 223, 167
+  xy: 77, 104
   size: 31, 33
   orig: 31, 33
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hr_2031_0_0.png
   rotate: false
-  xy: 119, 162
+  xy: 80, 139
   size: 34, 37
   orig: 34, 37
   offset: 0, 0
   index: -1
-hair_M_dude_h_std_hr_2031_1_0.png
-  rotate: false
-  xy: 189, 166
-  size: 32, 34
-  orig: 32, 34
-  offset: 0, 0
-  index: -1
 hair_M_dude_h_std_hr_2031_2_0.png
   rotate: false
-  xy: 191, 202
+  xy: 194, 217
   size: 34, 37
   orig: 34, 37
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hr_2031_3_0.png
   rotate: false
-  xy: 2, 82
+  xy: 119, 219
   size: 37, 35
   orig: 37, 35
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hr_2031_7_0.png
   rotate: false
-  xy: 2, 119
+  xy: 2, 134
   size: 37, 38
   orig: 37, 38
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hr_2032_0_0.png
   rotate: false
-  xy: 131, 34
+  xy: 177, 153
   size: 28, 30
   orig: 28, 30
   offset: 0, 0
   index: -1
-hair_M_dude_h_std_hr_2032_1_0.png
+hair_M_dude_h_std_hr_2032_2_0.png
   rotate: false
-  xy: 227, 209
-  size: 24, 30
-  orig: 24, 30
+  xy: 147, 154
+  size: 28, 29
+  orig: 28, 29
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hr_2032_3_0.png
   rotate: false
-  xy: 188, 135
+  xy: 105, 10
   size: 31, 29
   orig: 31, 29
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hr_2032_7_0.png
   rotate: false
-  xy: 38, 48
+  xy: 72, 34
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hrb_2031_0_0.png
   rotate: false
-  xy: 155, 202
+  xy: 158, 217
   size: 34, 37
   orig: 34, 37
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hrb_2031_2_0.png
   rotate: false
-  xy: 2, 3
+  xy: 41, 102
   size: 34, 37
   orig: 34, 37
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hrb_2031_3_0.png
   rotate: false
-  xy: 80, 166
+  xy: 41, 141
   size: 37, 35
   orig: 37, 35
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hrb_2031_7_0.png
   rotate: false
-  xy: 41, 201
+  xy: 41, 216
   size: 37, 38
   orig: 37, 38
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hrb_2032_0_0.png
   rotate: false
-  xy: 131, 2
+  xy: 143, 122
   size: 28, 30
   orig: 28, 30
   offset: 0, 0
   index: -1
-hair_M_dude_h_std_hrb_2032_2_0.png
+hair_M_dude_h_std_hrb_2032_1_0.png
   rotate: false
-  xy: 141, 99
-  size: 28, 29
-  orig: 28, 29
+  xy: 230, 224
+  size: 24, 30
+  orig: 24, 30
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hrb_2032_3_0.png
   rotate: false
-  xy: 155, 135
+  xy: 105, 41
   size: 31, 29
   orig: 31, 29
   offset: 0, 0
   index: -1
 hair_M_dude_h_std_hrb_2032_7_0.png
   rotate: false
-  xy: 38, 14
+  xy: 72, 68
   size: 31, 32
   orig: 31, 32
   offset: 0, 0

@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 trousers_U_swirl_h_lay_lg_2704_2_0.png
   rotate: false
-  xy: 2, 234
+  xy: 2, 212
   size: 26, 20
   orig: 26, 20
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_lay_lg_2705_2_0.png
   rotate: false
-  xy: 2, 57
+  xy: 2, 56
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_sit_lg_2704_0_0.png
   rotate: false
-  xy: 30, 199
+  xy: 27, 183
   size: 26, 16
   orig: 26, 16
   offset: 0, 0
@@ -34,14 +34,14 @@ trousers_U_swirl_h_sit_lg_2704_2_0.png
   index: -1
 trousers_U_swirl_h_sit_lg_2705_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 58, 199
   size: 24, 13
   orig: 24, 13
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_sit_lg_2705_2_0.png
   rotate: false
-  xy: 26, 74
+  xy: 26, 76
   size: 22, 15
   orig: 22, 15
   offset: 0, 0
@@ -55,140 +55,140 @@ trousers_U_swirl_h_std_lg_2704_0_0.png
   index: -1
 trousers_U_swirl_h_std_lg_2704_1_0.png
   rotate: false
-  xy: 109, 238
+  xy: 47, 31
   size: 17, 16
   orig: 17, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_std_lg_2704_2_0.png
   rotate: false
-  xy: 2, 122
+  xy: 2, 99
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_std_lg_2704_3_0.png
   rotate: false
-  xy: 26, 109
+  xy: 26, 165
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_std_lg_2704_7_0.png
   rotate: false
-  xy: 53, 181
+  xy: 55, 183
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_std_lg_2705_0_0.png
   rotate: false
-  xy: 2, 17
+  xy: 2, 16
   size: 20, 18
   orig: 20, 18
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_std_lg_2705_1_0.png
   rotate: false
-  xy: 47, 23
+  xy: 46, 16
   size: 15, 13
   orig: 15, 13
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_std_lg_2705_2_0.png
   rotate: false
-  xy: 24, 18
+  xy: 25, 38
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_std_lg_2705_3_0.png
   rotate: false
-  xy: 76, 180
+  xy: 73, 105
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_std_lg_2705_7_0.png
   rotate: false
-  xy: 74, 110
+  xy: 107, 187
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_0_0.png
   rotate: false
-  xy: 84, 233
+  xy: 2, 189
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_0_1.png
   rotate: false
-  xy: 2, 212
+  xy: 2, 234
   size: 26, 20
   orig: 26, 20
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_0_2.png
   rotate: false
-  xy: 2, 144
+  xy: 2, 166
   size: 22, 21
   orig: 22, 21
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_0_3.png
   rotate: false
-  xy: 2, 167
+  xy: 2, 143
   size: 22, 21
   orig: 22, 21
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_1_0.png
   rotate: false
-  xy: 108, 197
+  xy: 51, 95
   size: 18, 16
   orig: 18, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_1_1.png
   rotate: false
-  xy: 47, 53
+  xy: 51, 130
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_1_2.png
   rotate: false
-  xy: 108, 215
+  xy: 47, 49
   size: 18, 16
   orig: 18, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_1_3.png
   rotate: false
-  xy: 50, 85
+  xy: 51, 113
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_2_0.png
   rotate: false
-  xy: 2, 78
+  xy: 2, 121
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_2_1.png
   rotate: false
-  xy: 2, 100
+  xy: 2, 77
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_2_2.png
   rotate: false
-  xy: 2, 190
+  xy: 84, 234
   size: 24, 20
   orig: 24, 20
   offset: 0, 0
@@ -202,196 +202,196 @@ trousers_U_swirl_h_wlk_lg_2704_2_3.png
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_3_0.png
   rotate: false
-  xy: 28, 181
+  xy: 26, 111
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_3_1.png
   rotate: false
-  xy: 26, 163
+  xy: 26, 93
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_3_2.png
   rotate: false
-  xy: 26, 145
+  xy: 26, 147
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_3_3.png
   rotate: false
-  xy: 26, 127
+  xy: 26, 129
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_7_0.png
   rotate: false
-  xy: 51, 149
+  xy: 73, 151
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_7_1.png
   rotate: false
-  xy: 51, 165
+  xy: 73, 135
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_7_2.png
   rotate: false
-  xy: 51, 117
+  xy: 78, 183
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2704_7_3.png
   rotate: false
-  xy: 51, 133
+  xy: 73, 167
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_0_0.png
   rotate: false
-  xy: 2, 37
+  xy: 2, 36
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_0_1.png
   rotate: false
-  xy: 60, 213
+  xy: 84, 215
   size: 24, 17
   orig: 24, 17
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_0_2.png
   rotate: false
-  xy: 25, 54
+  xy: 24, 16
   size: 20, 18
   orig: 20, 18
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_0_3.png
   rotate: false
-  xy: 86, 213
+  xy: 25, 56
   size: 20, 18
   orig: 20, 18
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_1_0.png
   rotate: false
-  xy: 73, 81
+  xy: 110, 226
   size: 16, 13
   orig: 16, 13
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_1_1.png
   rotate: false
-  xy: 108, 183
+  xy: 51, 81
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_1_2.png
   rotate: false
-  xy: 73, 66
+  xy: 110, 241
   size: 16, 13
   orig: 16, 13
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_1_3.png
   rotate: false
-  xy: 74, 96
+  xy: 50, 67
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_2_0.png
   rotate: false
-  xy: 25, 36
+  xy: 51, 165
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_2_1.png
   rotate: false
-  xy: 86, 195
+  xy: 51, 147
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_2_2.png
   rotate: false
-  xy: 26, 91
+  xy: 60, 214
   size: 22, 16
   orig: 22, 16
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_2_3.png
   rotate: false
-  xy: 58, 197
+  xy: 30, 201
   size: 26, 14
   orig: 26, 14
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_3_0.png
   rotate: false
-  xy: 51, 102
+  xy: 71, 90
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_3_1.png
   rotate: false
-  xy: 50, 70
+  xy: 71, 75
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_3_2.png
   rotate: false
-  xy: 28, 2
+  xy: 84, 199
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_3_3.png
   rotate: false
-  xy: 47, 38
+  xy: 73, 120
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_7_0.png
   rotate: false
-  xy: 74, 152
+  xy: 2, 2
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_7_1.png
   rotate: false
-  xy: 74, 124
+  xy: 23, 2
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_7_2.png
   rotate: false
-  xy: 74, 138
+  xy: 44, 2
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
 trousers_U_swirl_h_wlk_lg_2705_7_3.png
   rotate: false
-  xy: 74, 166
+  xy: 107, 201
   size: 19, 12
   orig: 19, 12
   offset: 0, 0

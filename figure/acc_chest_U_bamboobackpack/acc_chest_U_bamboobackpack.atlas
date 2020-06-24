@@ -1,0 +1,90 @@
+
+acc_chest_U_bamboobackpack.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_chest_U_bamboobackpack_h_lay_ca_3728_2_0.png
+  rotate: false
+  xy: 73, 25
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+acc_chest_U_bamboobackpack_h_lay_ca_3729_2_0.png
+  rotate: false
+  xy: 37, 8
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+acc_chest_U_bamboobackpack_h_std_ca_3728_0_0.png
+  rotate: false
+  xy: 39, 21
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+acc_chest_U_bamboobackpack_h_std_ca_3728_1_0.png
+  rotate: false
+  xy: 131, 29
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+acc_chest_U_bamboobackpack_h_std_ca_3728_2_0.png
+  rotate: false
+  xy: 2, 22
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+acc_chest_U_bamboobackpack_h_std_ca_3728_3_0.png
+  rotate: false
+  xy: 186, 39
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+acc_chest_U_bamboobackpack_h_std_ca_3728_7_0.png
+  rotate: false
+  xy: 105, 26
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+acc_chest_U_bamboobackpack_h_std_ca_3729_0_0.png
+  rotate: false
+  xy: 158, 38
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+acc_chest_U_bamboobackpack_h_std_ca_3729_1_0.png
+  rotate: false
+  xy: 211, 39
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+acc_chest_U_bamboobackpack_h_std_ca_3729_2_0.png
+  rotate: false
+  xy: 229, 38
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+acc_chest_U_bamboobackpack_h_std_ca_3729_3_0.png
+  rotate: false
+  xy: 158, 30
+  size: 1, 6
+  orig: 1, 6
+  offset: 0, 0
+  index: -1
+acc_chest_U_bamboobackpack_h_std_ca_3729_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1

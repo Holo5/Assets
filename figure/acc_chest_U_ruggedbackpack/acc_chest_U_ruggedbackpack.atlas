@@ -27,21 +27,14 @@ acc_chest_U_ruggedbackpack_h_std_ca_3395_1_0.png
   index: -1
 acc_chest_U_ruggedbackpack_h_std_ca_3395_2_0.png
   rotate: false
-  xy: 213, 36
+  xy: 66, 3
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
-acc_chest_U_ruggedbackpack_h_std_ca_3395_3_0.png
-  rotate: false
-  xy: 2, 3
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 acc_chest_U_ruggedbackpack_h_std_ca_3395_7_0.png
   rotate: false
-  xy: 67, 2
+  xy: 35, 2
   size: 29, 29
   orig: 29, 29
   offset: 0, 0
@@ -55,49 +48,56 @@ acc_chest_U_ruggedbackpack_h_std_ca_3396_0_0.png
   index: -1
 acc_chest_U_ruggedbackpack_h_std_ca_3396_1_0.png
   rotate: false
-  xy: 2, 31
+  xy: 68, 31
   size: 30, 31
   orig: 30, 31
   offset: 0, 0
   index: -1
 acc_chest_U_ruggedbackpack_h_std_ca_3396_2_0.png
   rotate: false
-  xy: 67, 33
+  xy: 35, 33
   size: 31, 29
   orig: 31, 29
   offset: 0, 0
   index: -1
 acc_chest_U_ruggedbackpack_h_std_ca_3396_3_0.png
   rotate: false
-  xy: 2, 6
+  xy: 2, 7
   size: 24, 23
   orig: 24, 23
   offset: 0, 0
   index: -1
 acc_chest_U_ruggedbackpack_h_std_ca_3396_7_0.png
   rotate: false
-  xy: 34, 32
+  xy: 2, 32
   size: 31, 30
   orig: 31, 30
   offset: 0, 0
   index: -1
 acc_chest_U_ruggedbackpack_h_std_ca_3397_0_0.png
   rotate: false
-  xy: 224, 52
+  xy: 158, 33
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 acc_chest_U_ruggedbackpack_h_std_ca_3397_1_0.png
   rotate: false
-  xy: 171, 34
+  xy: 28, 21
   size: 5, 9
   orig: 5, 9
   offset: 0, 0
   index: -1
+acc_chest_U_ruggedbackpack_h_std_ca_3397_2_0.png
+  rotate: false
+  xy: 2, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 acc_chest_U_ruggedbackpack_h_std_ca_3397_7_0.png
   rotate: false
-  xy: 158, 33
+  xy: 77, 19
   size: 11, 10
   orig: 11, 10
   offset: 0, 0

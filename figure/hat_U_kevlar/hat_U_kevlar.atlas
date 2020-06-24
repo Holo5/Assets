@@ -18,6 +18,13 @@ hat_U_kevlar_h_spk_ha_2738_1_0.png
   orig: 32, 25
   offset: 0, 0
   index: -1
+hat_U_kevlar_h_spk_ha_2738_2_0.png
+  rotate: false
+  xy: 36, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 hat_U_kevlar_h_spk_ha_2738_3_0.png
   rotate: false
   xy: 136, 5
@@ -33,13 +40,6 @@ hat_U_kevlar_h_spk_ha_2738_7_0.png
   offset: 0, 0
   index: -1
 hat_U_kevlar_h_std_ha_2738_0_0.png
-  rotate: false
-  xy: 36, 2
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-hat_U_kevlar_h_std_ha_2738_2_0.png
   rotate: false
   xy: 2, 2
   size: 32, 28

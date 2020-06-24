@@ -1,0 +1,48 @@
+
+hat_U_studentcap.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_studentcap_h_lay_ha_3718_2_0.png
+  rotate: false
+  xy: 77, 3
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+hat_U_studentcap_h_spk_ha_3718_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+hat_U_studentcap_h_std_ha_3718_0_0.png
+  rotate: false
+  xy: 2, 29
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+hat_U_studentcap_h_std_ha_3718_1_0.png
+  rotate: false
+  xy: 43, 36
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+hat_U_studentcap_h_std_ha_3718_2_0.png
+  rotate: false
+  xy: 43, 12
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+hat_U_studentcap_h_std_ha_3718_3_0.png
+  rotate: false
+  xy: 80, 36
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1

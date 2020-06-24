@@ -11,16 +11,16 @@ hat_U_sparkleparty6_h_lay_ha_3304_2_0.png
   orig: 21, 20
   offset: 0, 0
   index: -1
-hat_U_sparkleparty6_h_spk_ha_3304_2_0.png
-  rotate: false
-  xy: 25, 4
-  size: 21, 18
-  orig: 21, 18
-  offset: 0, 0
-  index: -1
 hat_U_sparkleparty6_h_spk_ha_3304_3_0.png
   rotate: false
   xy: 71, 6
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+hat_U_sparkleparty6_h_spk_ha_3304_7_0.png
+  rotate: false
+  xy: 48, 6
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
@@ -32,10 +32,10 @@ hat_U_sparkleparty6_h_std_ha_3304_1_0.png
   orig: 21, 16
   offset: 0, 0
   index: -1
-hat_U_sparkleparty6_h_std_ha_3304_7_0.png
+hat_U_sparkleparty6_h_std_ha_3304_2_0.png
   rotate: false
-  xy: 48, 6
-  size: 21, 16
-  orig: 21, 16
+  xy: 25, 4
+  size: 21, 18
+  orig: 21, 18
   offset: 0, 0
   index: -1

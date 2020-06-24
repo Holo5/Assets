@@ -34,14 +34,14 @@ hat_U_party14_h_spk_ha_2953_1_0.png
   index: -1
 hat_U_party14_h_spk_ha_2953_3_0.png
   rotate: false
-  xy: 107, 4
+  xy: 128, 4
   size: 19, 18
   orig: 19, 18
   offset: 0, 0
   index: -1
 hat_U_party14_h_spk_ha_2953_7_0.png
   rotate: false
-  xy: 128, 4
+  xy: 107, 4
   size: 19, 18
   orig: 19, 18
   offset: 0, 0
@@ -60,7 +60,7 @@ hat_U_party14_h_std_ha_2953_2_0.png
   orig: 19, 19
   offset: 0, 0
   index: -1
-hat_U_party14_h_std_ha_2953_7_0.png
+hat_U_party14_h_std_ha_2953_3_0.png
   rotate: false
   xy: 86, 4
   size: 19, 18

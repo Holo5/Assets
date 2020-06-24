@@ -13,7 +13,7 @@ trousers_U_tutu_h_lay_lg_3189_2_0.png
   index: -1
 trousers_U_tutu_h_lay_lg_3190_2_0.png
   rotate: false
-  xy: 35, 199
+  xy: 32, 179
   size: 25, 18
   orig: 25, 18
   offset: 0, 0
@@ -46,18 +46,11 @@ trousers_U_tutu_h_sit_lg_3190_2_0.png
   orig: 29, 16
   offset: 0, 0
   index: -1
-trousers_U_tutu_h_std_lg_3189_2_0.png
+trousers_U_tutu_h_std_lg_3190_0_0.png
   rotate: false
-  xy: 2, 211
-  size: 31, 20
-  orig: 31, 20
-  offset: 0, 0
-  index: -1
-trousers_U_tutu_h_std_lg_3189_7_0.png
-  rotate: false
-  xy: 35, 219
-  size: 27, 16
-  orig: 27, 16
+  xy: 35, 199
+  size: 25, 18
+  orig: 25, 18
   offset: 0, 0
   index: -1
 trousers_U_tutu_h_std_lg_3190_1_0.png
@@ -72,13 +65,6 @@ trousers_U_tutu_h_std_lg_3190_2_0.png
   xy: 32, 159
   size: 24, 18
   orig: 24, 18
-  offset: 0, 0
-  index: -1
-trousers_U_tutu_h_std_lg_3190_7_0.png
-  rotate: false
-  xy: 35, 89
-  size: 24, 14
-  orig: 24, 14
   offset: 0, 0
   index: -1
 trousers_U_tutu_h_wlk_lg_3189_0_0.png
@@ -102,21 +88,28 @@ trousers_U_tutu_h_wlk_lg_3189_0_3.png
   orig: 28, 21
   offset: 0, 0
   index: -1
-trousers_U_tutu_h_wlk_lg_3189_1_2.png
+trousers_U_tutu_h_wlk_lg_3189_1_0.png
   rotate: false
   xy: 32, 122
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
-trousers_U_tutu_h_wlk_lg_3189_1_3.png
+trousers_U_tutu_h_wlk_lg_3189_1_1.png
   rotate: false
   xy: 32, 140
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
-trousers_U_tutu_h_wlk_lg_3189_2_3.png
+trousers_U_tutu_h_wlk_lg_3189_2_0.png
+  rotate: false
+  xy: 2, 211
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+trousers_U_tutu_h_wlk_lg_3189_2_1.png
   rotate: false
   xy: 2, 233
   size: 31, 21
@@ -130,11 +123,11 @@ trousers_U_tutu_h_wlk_lg_3189_3_3.png
   orig: 27, 17
   offset: 0, 0
   index: -1
-trousers_U_tutu_h_wlk_lg_3190_0_2.png
+trousers_U_tutu_h_wlk_lg_3189_7_0.png
   rotate: false
-  xy: 32, 179
-  size: 25, 18
-  orig: 25, 18
+  xy: 35, 219
+  size: 27, 16
+  orig: 27, 16
   offset: 0, 0
   index: -1
 trousers_U_tutu_h_wlk_lg_3190_0_3.png
@@ -151,14 +144,21 @@ trousers_U_tutu_h_wlk_lg_3190_1_3.png
   orig: 21, 15
   offset: 0, 0
   index: -1
-trousers_U_tutu_h_wlk_lg_3190_2_1.png
+trousers_U_tutu_h_wlk_lg_3190_2_3.png
   rotate: false
   xy: 2, 2
   size: 24, 19
   orig: 24, 19
   offset: 0, 0
   index: -1
-trousers_U_tutu_h_wlk_lg_3190_3_1.png
+trousers_U_tutu_h_wlk_lg_3190_7_2.png
+  rotate: false
+  xy: 35, 89
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+trousers_U_tutu_h_wlk_lg_3190_7_3.png
   rotate: false
   xy: 35, 105
   size: 24, 15

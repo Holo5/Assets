@@ -20,7 +20,7 @@ hair_F_buns_h_lay_hr_2039_2_0.png
   index: -1
 hair_F_buns_h_lay_hrb_2038_2_0.png
   rotate: false
-  xy: 724, 26
+  xy: 690, 26
   size: 33, 34
   orig: 33, 34
   offset: 0, 0
@@ -34,28 +34,28 @@ hair_F_buns_h_lay_hrb_2039_2_0.png
   index: -1
 hair_F_buns_h_spk_hr_2038_0_0.png
   rotate: false
-  xy: 514, 22
+  xy: 550, 22
   size: 34, 38
   orig: 34, 38
   offset: 0, 0
   index: -1
 hair_F_buns_h_spk_hr_2038_1_0.png
   rotate: false
-  xy: 622, 24
+  xy: 656, 24
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 hair_F_buns_h_spk_hr_2038_2_0.png
   rotate: false
-  xy: 2, 23
+  xy: 42, 23
   size: 38, 37
   orig: 38, 37
   offset: 0, 0
   index: -1
 hair_F_buns_h_spk_hr_2038_3_0.png
   rotate: false
-  xy: 42, 23
+  xy: 122, 23
   size: 38, 37
   orig: 38, 37
   offset: 0, 0
@@ -69,56 +69,63 @@ hair_F_buns_h_spk_hr_2038_7_0.png
   index: -1
 hair_F_buns_h_spk_hr_2039_0_0.png
   rotate: false
-  xy: 1003, 31
+  xy: 961, 31
   size: 19, 29
   orig: 19, 29
   offset: 0, 0
   index: -1
 hair_F_buns_h_spk_hr_2039_1_0.png
   rotate: false
-  xy: 917, 3
+  xy: 856, 4
   size: 18, 28
   orig: 18, 28
   offset: 0, 0
   index: -1
 hair_F_buns_h_spk_hr_2039_2_0.png
   rotate: false
-  xy: 876, 4
+  xy: 940, 32
   size: 19, 28
   orig: 19, 28
   offset: 0, 0
   index: -1
+hair_F_buns_h_spk_hr_2039_3_0.png
+  rotate: false
+  xy: 2, 11
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
 hair_F_buns_h_spk_hr_2039_7_0.png
   rotate: false
-  xy: 823, 33
+  xy: 793, 33
   size: 28, 27
   orig: 28, 27
   offset: 0, 0
   index: -1
 hair_F_buns_h_spk_hrb_2038_0_0.png
   rotate: false
-  xy: 550, 22
+  xy: 514, 22
   size: 34, 38
   orig: 34, 38
   offset: 0, 0
   index: -1
 hair_F_buns_h_spk_hrb_2038_1_0.png
   rotate: false
-  xy: 656, 24
+  xy: 622, 24
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 hair_F_buns_h_spk_hrb_2038_2_0.png
   rotate: false
-  xy: 82, 23
+  xy: 2, 23
   size: 38, 37
   orig: 38, 37
   offset: 0, 0
   index: -1
 hair_F_buns_h_spk_hrb_2038_3_0.png
   rotate: false
-  xy: 122, 23
+  xy: 82, 23
   size: 38, 37
   orig: 38, 37
   offset: 0, 0
@@ -139,28 +146,21 @@ hair_F_buns_h_spk_hrb_2039_0_0.png
   index: -1
 hair_F_buns_h_spk_hrb_2039_1_0.png
   rotate: false
-  xy: 897, 3
+  xy: 876, 4
   size: 18, 28
   orig: 18, 28
   offset: 0, 0
   index: -1
 hair_F_buns_h_spk_hrb_2039_2_0.png
   rotate: false
-  xy: 940, 32
+  xy: 835, 3
   size: 19, 28
   orig: 19, 28
   offset: 0, 0
   index: -1
-hair_F_buns_h_spk_hrb_2039_3_0.png
-  rotate: false
-  xy: 31, 11
-  size: 27, 10
-  orig: 27, 10
-  offset: 0, 0
-  index: -1
 hair_F_buns_h_spk_hrb_2039_7_0.png
   rotate: false
-  xy: 793, 33
+  xy: 823, 33
   size: 28, 27
   orig: 28, 27
   offset: 0, 0
@@ -174,7 +174,7 @@ hair_F_buns_h_std_hr_2038_0_0.png
   index: -1
 hair_F_buns_h_std_hr_2038_1_0.png
   rotate: false
-  xy: 690, 25
+  xy: 725, 25
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
@@ -188,28 +188,28 @@ hair_F_buns_h_std_hr_2038_2_0.png
   index: -1
 hair_F_buns_h_std_hr_2038_3_0.png
   rotate: false
-  xy: 202, 24
+  xy: 242, 24
   size: 38, 36
   orig: 38, 36
   offset: 0, 0
   index: -1
 hair_F_buns_h_std_hr_2038_7_0.png
   rotate: false
-  xy: 439, 25
+  xy: 400, 25
   size: 37, 35
   orig: 37, 35
   offset: 0, 0
   index: -1
 hair_F_buns_h_std_hr_2039_0_0.png
   rotate: false
-  xy: 961, 32
+  xy: 1003, 32
   size: 19, 28
   orig: 19, 28
   offset: 0, 0
   index: -1
 hair_F_buns_h_std_hr_2039_1_0.png
   rotate: false
-  xy: 835, 4
+  xy: 896, 4
   size: 18, 27
   orig: 18, 27
   offset: 0, 0
@@ -219,13 +219,6 @@ hair_F_buns_h_std_hr_2039_2_0.png
   xy: 793, 4
   size: 19, 27
   orig: 19, 27
-  offset: 0, 0
-  index: -1
-hair_F_buns_h_std_hr_2039_3_0.png
-  rotate: false
-  xy: 2, 11
-  size: 27, 10
-  orig: 27, 10
   offset: 0, 0
   index: -1
 hair_F_buns_h_std_hr_2039_7_0.png
@@ -251,35 +244,35 @@ hair_F_buns_h_std_hrb_2038_1_0.png
   index: -1
 hair_F_buns_h_std_hrb_2038_2_0.png
   rotate: false
-  xy: 282, 24
+  xy: 202, 24
   size: 38, 36
   orig: 38, 36
   offset: 0, 0
   index: -1
 hair_F_buns_h_std_hrb_2038_3_0.png
   rotate: false
-  xy: 242, 24
+  xy: 282, 24
   size: 38, 36
   orig: 38, 36
   offset: 0, 0
   index: -1
 hair_F_buns_h_std_hrb_2038_7_0.png
   rotate: false
-  xy: 400, 25
+  xy: 439, 25
   size: 37, 35
   orig: 37, 35
   offset: 0, 0
   index: -1
 hair_F_buns_h_std_hrb_2039_0_0.png
   rotate: false
-  xy: 855, 4
+  xy: 1003, 2
   size: 19, 28
   orig: 19, 28
   offset: 0, 0
   index: -1
 hair_F_buns_h_std_hrb_2039_1_0.png
   rotate: false
-  xy: 937, 3
+  xy: 916, 4
   size: 18, 27
   orig: 18, 27
   offset: 0, 0
@@ -289,6 +282,13 @@ hair_F_buns_h_std_hrb_2039_2_0.png
   xy: 814, 4
   size: 19, 27
   orig: 19, 27
+  offset: 0, 0
+  index: -1
+hair_F_buns_h_std_hrb_2039_3_0.png
+  rotate: false
+  xy: 31, 11
+  size: 27, 10
+  orig: 27, 10
   offset: 0, 0
   index: -1
 hair_F_buns_h_std_hrb_2039_7_0.png

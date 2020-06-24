@@ -20,21 +20,21 @@ Mummy2Mask_h_std_fx124_1_1_1_0.png
   index: -1
 Mummy2Mask_h_std_fx124_1_1_2_0.png
   rotate: false
-  xy: 32, 2
+  xy: 2, 2
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
 Mummy2Mask_h_std_fx124_1_1_3_0.png
   rotate: false
-  xy: 150, 3
+  xy: 122, 3
   size: 26, 31
   orig: 26, 31
   offset: 0, 0
   index: -1
 Mummy2Mask_h_std_fx124_1_1_4_0.png
   rotate: false
-  xy: 2, 2
+  xy: 32, 2
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
@@ -55,7 +55,7 @@ Mummy2Mask_h_std_fx124_1_1_6_0.png
   index: -1
 Mummy2Mask_h_std_fx124_1_1_7_0.png
   rotate: false
-  xy: 122, 2
+  xy: 150, 2
   size: 26, 32
   orig: 26, 32
   offset: 0, 0

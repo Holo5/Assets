@@ -4,23 +4,9 @@ size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shoes_U_sneakers_h_lay_sh_2023_2_0.png
-  rotate: false
-  xy: 318, 11
-  size: 21, 19
-  orig: 21, 19
-  offset: 0, 0
-  index: -1
-shoes_U_sneakers_h_lay_sh_2023_2_0.png
-  rotate: false
-  xy: 341, 11
-  size: 21, 19
-  orig: 21, 19
-  offset: 0, 0
-  index: -1
 shoes_U_sneakers_h_lay_sh_2024_2_0.png
   rotate: false
-  xy: 897, 22
+  xy: 456, 2
   size: 2, 8
   orig: 2, 8
   offset: 0, 0
@@ -30,6 +16,20 @@ shoes_U_sneakers_h_sit_sh_2023_0_0.png
   xy: 861, 12
   size: 16, 18
   orig: 16, 18
+  offset: 0, 0
+  index: -1
+shoes_U_sneakers_h_sit_sh_2023_2_0.png
+  rotate: false
+  xy: 318, 11
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+shoes_U_sneakers_h_sit_sh_2023_2_0.png
+  rotate: false
+  xy: 341, 11
+  size: 21, 19
+  orig: 21, 19
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_sit_sh_2024_0_0.png
@@ -48,301 +48,301 @@ shoes_U_sneakers_h_sit_sh_2024_2_0.png
   index: -1
 shoes_U_sneakers_h_std_sh_2023_0_0.png
   rotate: false
-  xy: 364, 2
+  xy: 391, 2
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_std_sh_2023_1_0.png
   rotate: false
-  xy: 821, 19
+  xy: 841, 19
   size: 18, 11
   orig: 18, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_std_sh_2023_2_0.png
   rotate: false
-  xy: 390, 15
+  xy: 364, 15
   size: 24, 15
   orig: 24, 15
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_std_sh_2023_3_0.png
   rotate: false
-  xy: 234, 2
+  xy: 211, 2
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_std_sh_2023_7_0.png
   rotate: false
-  xy: 341, 2
+  xy: 318, 2
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_std_sh_2024_0_0.png
   rotate: false
-  xy: 391, 2
+  xy: 364, 2
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_std_sh_2024_1_0.png
   rotate: false
-  xy: 841, 19
+  xy: 821, 19
   size: 18, 11
   orig: 18, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_std_sh_2024_2_0.png
   rotate: false
-  xy: 364, 15
+  xy: 390, 15
   size: 24, 15
   orig: 24, 15
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_std_sh_2024_3_0.png
   rotate: false
-  xy: 211, 2
+  xy: 234, 2
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_std_sh_2024_7_0.png
   rotate: false
-  xy: 318, 2
+  xy: 341, 2
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_0_0.png
   rotate: false
-  xy: 442, 19
+  xy: 416, 19
   size: 24, 11
   orig: 24, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_0_1.png
   rotate: false
-  xy: 130, 18
+  xy: 88, 18
   size: 40, 12
   orig: 40, 12
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_0_2.png
   rotate: false
-  xy: 28, 2
+  xy: 2, 2
   size: 24, 14
   orig: 24, 14
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_0_3.png
   rotate: false
-  xy: 79, 2
+  xy: 54, 2
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_1_0.png
   rotate: false
-  xy: 558, 19
+  xy: 536, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_1_1.png
   rotate: false
-  xy: 2, 18
+  xy: 45, 18
   size: 41, 12
   orig: 41, 12
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_1_2.png
   rotate: false
-  xy: 468, 19
+  xy: 491, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_1_3.png
   rotate: false
-  xy: 172, 17
+  xy: 170, 2
   size: 39, 13
   orig: 39, 13
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_2_0.png
   rotate: false
-  xy: 289, 2
+  xy: 289, 17
   size: 27, 13
   orig: 27, 13
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_2_1.png
   rotate: false
-  xy: 456, 2
+  xy: 439, 2
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_2_2.png
   rotate: false
-  xy: 418, 2
+  xy: 646, 18
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_2_3.png
   rotate: false
-  xy: 251, 14
+  xy: 213, 14
   size: 36, 16
   orig: 36, 16
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_3_0.png
   rotate: false
-  xy: 536, 19
+  xy: 602, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_3_1.png
   rotate: false
-  xy: 126, 2
+  xy: 148, 2
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_3_2.png
   rotate: false
-  xy: 514, 19
+  xy: 667, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_3_3.png
   rotate: false
-  xy: 104, 2
+  xy: 624, 16
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_7_1.png
   rotate: false
-  xy: 257, 2
+  xy: 711, 20
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_7_2.png
   rotate: false
-  xy: 755, 21
+  xy: 799, 21
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2023_7_3.png
   rotate: false
-  xy: 689, 20
+  xy: 733, 20
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_0_0.png
   rotate: false
-  xy: 416, 19
+  xy: 442, 19
   size: 24, 11
   orig: 24, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_0_1.png
   rotate: false
-  xy: 88, 18
+  xy: 130, 18
   size: 40, 12
   orig: 40, 12
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_0_2.png
   rotate: false
-  xy: 2, 2
+  xy: 28, 2
   size: 24, 14
   orig: 24, 14
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_0_3.png
   rotate: false
-  xy: 54, 2
+  xy: 79, 2
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_1_0.png
   rotate: false
-  xy: 667, 19
+  xy: 514, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_1_1.png
   rotate: false
-  xy: 45, 18
+  xy: 2, 18
   size: 41, 12
   orig: 41, 12
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_1_2.png
   rotate: false
-  xy: 491, 19
+  xy: 468, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_1_3.png
   rotate: false
-  xy: 170, 2
+  xy: 172, 17
   size: 39, 13
   orig: 39, 13
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_2_0.png
   rotate: false
-  xy: 289, 17
+  xy: 289, 2
   size: 27, 13
   orig: 27, 13
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_2_1.png
   rotate: false
-  xy: 439, 2
+  xy: 897, 18
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_2_2.png
   rotate: false
-  xy: 624, 18
+  xy: 418, 2
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_2_3.png
   rotate: false
-  xy: 213, 14
+  xy: 251, 14
   size: 36, 16
   orig: 36, 16
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_3_0.png
   rotate: false
-  xy: 645, 19
+  xy: 558, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_3_1.png
   rotate: false
-  xy: 148, 2
+  xy: 104, 2
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
@@ -356,35 +356,35 @@ shoes_U_sneakers_h_wlk_sh_2024_3_2.png
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_3_3.png
   rotate: false
-  xy: 602, 16
+  xy: 126, 2
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_7_0.png
   rotate: false
-  xy: 777, 21
+  xy: 755, 21
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_7_1.png
   rotate: false
-  xy: 733, 20
+  xy: 257, 2
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_7_2.png
   rotate: false
-  xy: 799, 21
+  xy: 777, 21
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
   index: -1
 shoes_U_sneakers_h_wlk_sh_2024_7_3.png
   rotate: false
-  xy: 711, 20
+  xy: 689, 20
   size: 20, 10
   orig: 20, 10
   offset: 0, 0

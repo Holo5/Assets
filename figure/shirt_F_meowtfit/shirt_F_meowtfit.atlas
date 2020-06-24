@@ -4,189 +4,182 @@ size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shirt_F_meowtfit_h_crr_ls_2225_0_0.png
+shirt_F_meowtfit_h_crr_ls_2570_0_0.png
   rotate: false
-  xy: 634, 12
+  xy: 564, 2
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_crr_ls_2225_1_0.png
-  rotate: false
-  xy: 323, 41
-  size: 23, 21
-  orig: 23, 21
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_crr_ls_2225_2_0.png
-  rotate: false
-  xy: 75, 38
-  size: 17, 24
-  orig: 17, 24
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_crr_ls_2225_3_0.png
-  rotate: false
-  xy: 580, 33
-  size: 13, 29
-  orig: 13, 29
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_crr_ls_2225_7_0.png
-  rotate: false
-  xy: 616, 9
-  size: 7, 20
-  orig: 7, 20
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_crr_ls_2572_1_0.png
-  rotate: false
-  xy: 978, 55
-  size: 5, 7
-  orig: 5, 7
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_crr_ls_2572_2_0.png
-  rotate: false
-  xy: 353, 2
-  size: 5, 7
-  orig: 5, 7
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_crr_rs_2225_0_0.png
-  rotate: false
-  xy: 272, 41
-  size: 24, 21
-  orig: 24, 21
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_crr_rs_2225_1_0.png
+shirt_F_meowtfit_h_crr_ls_2570_1_0.png
   rotate: false
   xy: 298, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_crr_rs_2225_2_0.png
+shirt_F_meowtfit_h_crr_ls_2570_2_0.png
   rotate: false
-  xy: 404, 32
-  size: 22, 30
-  orig: 22, 30
+  xy: 75, 38
+  size: 17, 24
+  orig: 17, 24
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_crr_rs_2225_3_0.png
+shirt_F_meowtfit_h_crr_ls_2570_3_0.png
   rotate: false
-  xy: 565, 33
+  xy: 660, 33
   size: 13, 29
   orig: 13, 29
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_crr_rs_2225_4_0.png
+shirt_F_meowtfit_h_crr_ls_2570_7_0.png
   rotate: false
-  xy: 385, 2
-  size: 20, 23
-  orig: 20, 23
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_crr_rs_2225_5_0.png
-  rotate: false
-  xy: 94, 2
-  size: 23, 25
-  orig: 23, 25
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_crr_rs_2225_6_0.png
-  rotate: false
-  xy: 625, 10
-  size: 7, 19
-  orig: 7, 19
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_crr_rs_2225_7_0.png
-  rotate: false
-  xy: 512, 2
+  xy: 990, 42
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_crr_rs_2572_4_0.png
+shirt_F_meowtfit_h_crr_ls_2572_1_0.png
+  rotate: false
+  xy: 353, 2
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_crr_ls_2572_2_0.png
   rotate: false
   xy: 360, 2
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_crr_rs_2572_5_0.png
+shirt_F_meowtfit_h_crr_rs_2570_0_0.png
+  rotate: false
+  xy: 272, 41
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_crr_rs_2570_1_0.png
+  rotate: false
+  xy: 323, 41
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_crr_rs_2570_2_0.png
+  rotate: false
+  xy: 385, 32
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_crr_rs_2570_3_0.png
+  rotate: false
+  xy: 675, 33
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_crr_rs_2570_4_0.png
+  rotate: false
+  xy: 472, 39
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_crr_rs_2570_5_0.png
+  rotate: false
+  xy: 94, 2
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_crr_rs_2570_6_0.png
+  rotate: false
+  xy: 586, 10
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_crr_rs_2570_7_0.png
+  rotate: false
+  xy: 999, 42
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_crr_rs_2572_4_0.png
   rotate: false
   xy: 378, 55
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_drk_rs_2225_0_0.png
+shirt_F_meowtfit_h_crr_rs_2572_5_0.png
   rotate: false
-  xy: 530, 36
+  xy: 612, 22
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_drk_rs_2570_0_0.png
+  rotate: false
+  xy: 625, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_drk_rs_2225_1_0.png
+shirt_F_meowtfit_h_drk_rs_2570_1_0.png
   rotate: false
   xy: 183, 41
   size: 29, 21
   orig: 29, 21
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_drk_rs_2225_2_0.png
+shirt_F_meowtfit_h_drk_rs_2570_2_0.png
   rotate: false
   xy: 44, 38
   size: 29, 24
   orig: 29, 24
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_drk_rs_2225_3_0.png
+shirt_F_meowtfit_h_drk_rs_2570_3_0.png
   rotate: false
-  xy: 852, 44
+  xy: 494, 44
   size: 20, 18
   orig: 20, 18
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_drk_rs_2225_4_0.png
+shirt_F_meowtfit_h_drk_rs_2570_4_0.png
   rotate: false
-  xy: 484, 2
+  xy: 536, 2
   size: 12, 24
   orig: 12, 24
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_drk_rs_2225_5_0.png
+shirt_F_meowtfit_h_drk_rs_2570_5_0.png
   rotate: false
   xy: 243, 41
   size: 27, 21
   orig: 27, 21
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_drk_rs_2225_6_0.png
+shirt_F_meowtfit_h_drk_rs_2570_6_0.png
   rotate: false
   xy: 150, 41
   size: 31, 21
   orig: 31, 21
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_drk_rs_2225_7_0.png
+shirt_F_meowtfit_h_drk_rs_2570_7_0.png
   rotate: false
-  xy: 640, 10
+  xy: 595, 13
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_drk_rs_2572_4_0.png
-  rotate: false
-  xy: 852, 37
-  size: 7, 5
-  orig: 7, 5
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_lay_ch_2225_2_0.png
+shirt_F_meowtfit_h_lay_ch_2570_2_0.png
   rotate: false
   xy: 2, 36
   size: 40, 26
@@ -195,12 +188,12 @@ shirt_F_meowtfit_h_lay_ch_2225_2_0.png
   index: -1
 shirt_F_meowtfit_h_lay_ch_2571_2_0.png
   rotate: false
-  xy: 890, 51
+  xy: 516, 51
   size: 18, 11
   orig: 18, 11
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_lay_ls_2225_2_0.png
+shirt_F_meowtfit_h_lay_ls_2570_2_0.png
   rotate: false
   xy: 348, 48
   size: 28, 14
@@ -209,75 +202,68 @@ shirt_F_meowtfit_h_lay_ls_2225_2_0.png
   index: -1
 shirt_F_meowtfit_h_lay_ls_2572_2_0.png
   rotate: false
-  xy: 547, 33
+  xy: 119, 26
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_lay_rs_2225_2_0.png
+shirt_F_meowtfit_h_lay_rs_2570_2_0.png
   rotate: false
   xy: 214, 40
   size: 27, 22
   orig: 27, 22
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_sit_ls_2225_0_0.png
+shirt_F_meowtfit_h_sit_ls_2570_0_0.png
   rotate: false
-  xy: 557, 4
+  xy: 925, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_sit_ls_2225_2_0.png
+shirt_F_meowtfit_h_sit_ls_2570_2_0.png
   rotate: false
-  xy: 568, 4
+  xy: 914, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_sit_rs_2225_0_0.png
-  rotate: false
-  xy: 501, 28
-  size: 12, 34
-  orig: 12, 34
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_sit_rs_2225_2_0.png
+shirt_F_meowtfit_h_sit_rs_2570_2_0.png
   rotate: false
   xy: 190, 2
   size: 11, 37
   orig: 11, 37
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_ch_2225_0_0.png
+shirt_F_meowtfit_h_std_ch_2570_0_0.png
   rotate: false
   xy: 94, 29
   size: 26, 33
   orig: 26, 33
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_ch_2225_1_0.png
+shirt_F_meowtfit_h_std_ch_2570_1_0.png
   rotate: false
-  xy: 428, 32
+  xy: 409, 32
   size: 19, 30
   orig: 19, 30
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_ch_2225_2_0.png
+shirt_F_meowtfit_h_std_ch_2570_2_0.png
   rotate: false
   xy: 2, 2
   size: 26, 32
   orig: 26, 32
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_ch_2225_3_0.png
+shirt_F_meowtfit_h_std_ch_2570_3_0.png
   rotate: false
   xy: 122, 32
   size: 26, 30
   orig: 26, 30
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_ch_2225_7_0.png
+shirt_F_meowtfit_h_std_ch_2570_7_0.png
   rotate: false
   xy: 122, 2
   size: 25, 28
@@ -286,329 +272,336 @@ shirt_F_meowtfit_h_std_ch_2225_7_0.png
   index: -1
 shirt_F_meowtfit_h_std_ch_2571_1_0.png
   rotate: false
-  xy: 651, 2
+  xy: 1017, 42
   size: 5, 20
   orig: 5, 20
   offset: 0, 0
   index: -1
 shirt_F_meowtfit_h_std_ch_2571_2_0.png
   rotate: false
-  xy: 498, 5
+  xy: 550, 5
   size: 12, 21
   orig: 12, 21
   offset: 0, 0
   index: -1
 shirt_F_meowtfit_h_std_ch_2571_3_0.png
   rotate: false
-  xy: 874, 43
+  xy: 974, 43
   size: 14, 19
   orig: 14, 19
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_ls_2225_1_0.png
+shirt_F_meowtfit_h_std_ls_2570_1_0.png
   rotate: false
-  xy: 607, 7
+  xy: 1008, 40
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_ls_2225_3_0.png
+shirt_F_meowtfit_h_std_ls_2570_3_0.png
   rotate: false
-  xy: 677, 27
+  xy: 511, 7
   size: 9, 35
   orig: 9, 35
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_ls_2225_7_0.png
+shirt_F_meowtfit_h_std_ls_2570_7_0.png
   rotate: false
-  xy: 710, 28
+  xy: 756, 28
   size: 9, 34
   orig: 9, 34
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_std_ls_2572_0_0.png
-  rotate: false
-  xy: 530, 32
-  size: 4, 2
-  orig: 4, 2
   offset: 0, 0
   index: -1
 shirt_F_meowtfit_h_std_ls_2572_2_0.png
   rotate: false
-  xy: 512, 24
+  xy: 625, 32
   size: 4, 2
   orig: 4, 2
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_rs_2225_1_0.png
+shirt_F_meowtfit_h_std_rs_2570_0_0.png
   rotate: false
-  xy: 773, 33
+  xy: 522, 15
+  size: 12, 34
+  orig: 12, 34
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_std_rs_2570_1_0.png
+  rotate: false
+  xy: 690, 33
   size: 12, 29
   orig: 12, 29
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_rs_2225_2_0.png
+shirt_F_meowtfit_h_std_rs_2570_2_0.png
   rotate: false
-  xy: 640, 28
+  xy: 552, 28
   size: 11, 34
   orig: 11, 34
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_rs_2225_3_0.png
+shirt_F_meowtfit_h_std_rs_2570_3_0.png
   rotate: false
-  xy: 721, 28
+  xy: 800, 28
   size: 9, 34
   orig: 9, 34
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_std_rs_2225_7_0.png
+shirt_F_meowtfit_h_std_rs_2570_7_0.png
   rotate: false
-  xy: 688, 28
+  xy: 811, 28
   size: 9, 34
   orig: 9, 34
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_0_0.png
+shirt_F_meowtfit_h_wav_ls_2570_0_0.png
   rotate: false
-  xy: 485, 28
+  xy: 536, 28
   size: 14, 34
   orig: 14, 34
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_0_1.png
+shirt_F_meowtfit_h_wav_ls_2570_0_1.png
   rotate: false
   xy: 73, 2
   size: 19, 34
   orig: 19, 34
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_1_0.png
-  rotate: false
-  xy: 515, 30
-  size: 13, 32
-  orig: 13, 32
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_wav_ls_2225_1_1.png
+shirt_F_meowtfit_h_wav_ls_2570_1_0.png
   rotate: false
   xy: 30, 2
   size: 13, 32
   orig: 13, 32
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_2_0.png
+shirt_F_meowtfit_h_wav_ls_2570_1_1.png
+  rotate: false
+  xy: 565, 30
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_wav_ls_2570_2_0.png
   rotate: false
   xy: 334, 3
   size: 17, 36
   orig: 17, 36
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_2_1.png
+shirt_F_meowtfit_h_wav_ls_2570_2_1.png
   rotate: false
   xy: 249, 3
   size: 20, 36
   orig: 20, 36
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_3_0.png
+shirt_F_meowtfit_h_wav_ls_2570_3_0.png
   rotate: false
   xy: 172, 2
   size: 16, 37
   orig: 16, 37
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_3_1.png
+shirt_F_meowtfit_h_wav_ls_2570_3_1.png
   rotate: false
   xy: 150, 2
   size: 20, 37
   orig: 20, 37
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_4_0.png
+shirt_F_meowtfit_h_wav_ls_2570_4_0.png
   rotate: false
   xy: 271, 4
   size: 20, 35
   orig: 20, 35
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_4_1.png
-  rotate: false
-  xy: 385, 27
-  size: 17, 35
-  orig: 17, 35
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_wav_ls_2225_5_0.png
-  rotate: false
-  xy: 293, 4
-  size: 19, 35
-  orig: 19, 35
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_wav_ls_2225_5_1.png
+shirt_F_meowtfit_h_wav_ls_2570_4_1.png
   rotate: false
   xy: 353, 11
   size: 17, 35
   orig: 17, 35
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_6_0.png
+shirt_F_meowtfit_h_wav_ls_2570_5_0.png
+  rotate: false
+  xy: 293, 4
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_wav_ls_2570_5_1.png
+  rotate: false
+  xy: 479, 2
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_wav_ls_2570_6_0.png
   rotate: false
   xy: 226, 2
   size: 21, 36
   orig: 21, 36
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_6_1.png
+shirt_F_meowtfit_h_wav_ls_2570_6_1.png
   rotate: false
   xy: 45, 2
   size: 26, 34
   orig: 26, 34
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_7_0.png
+shirt_F_meowtfit_h_wav_ls_2570_7_0.png
   rotate: false
   xy: 314, 3
   size: 18, 36
   orig: 18, 36
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2225_7_1.png
+shirt_F_meowtfit_h_wav_ls_2570_7_1.png
   rotate: false
   xy: 203, 2
   size: 21, 36
   orig: 21, 36
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wav_ls_2572_4_0.png
+shirt_F_meowtfit_h_wav_ls_2572_3_0.png
   rotate: false
-  xy: 616, 2
+  xy: 974, 36
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_wav_ls_2572_4_1.png
+  rotate: false
+  xy: 522, 8
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_0_0.png
+shirt_F_meowtfit_h_wlk_ls_2570_0_0.png
   rotate: false
-  xy: 529, 2
+  xy: 570, 2
   size: 6, 26
   orig: 6, 26
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_0_1.png
+shirt_F_meowtfit_h_wlk_ls_2570_0_1.png
   rotate: false
-  xy: 658, 3
+  xy: 1017, 21
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_0_2.png
+shirt_F_meowtfit_h_wlk_ls_2570_0_2.png
   rotate: false
-  xy: 521, 2
+  xy: 578, 2
   size: 6, 26
   orig: 6, 26
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_0_3.png
+shirt_F_meowtfit_h_wlk_ls_2570_0_3.png
   rotate: false
-  xy: 579, 4
+  xy: 946, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_1_0.png
+shirt_F_meowtfit_h_wlk_ls_2570_1_0.png
   rotate: false
-  xy: 800, 34
+  xy: 420, 2
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_1_1.png
+shirt_F_meowtfit_h_wlk_ls_2570_1_1.png
   rotate: false
-  xy: 442, 2
+  xy: 430, 37
   size: 19, 25
   orig: 19, 25
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_1_2.png
+shirt_F_meowtfit_h_wlk_ls_2570_1_2.png
   rotate: false
-  xy: 813, 34
+  xy: 717, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_1_3.png
+shirt_F_meowtfit_h_wlk_ls_2570_1_3.png
   rotate: false
-  xy: 550, 33
+  xy: 645, 33
   size: 13, 29
   orig: 13, 29
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_2_0.png
+shirt_F_meowtfit_h_wlk_ls_2570_2_0.png
   rotate: false
-  xy: 598, 2
+  xy: 965, 35
   size: 7, 27
   orig: 7, 27
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_2_1.png
+shirt_F_meowtfit_h_wlk_ls_2570_2_1.png
   rotate: false
-  xy: 787, 33
+  xy: 704, 33
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_2_2.png
+shirt_F_meowtfit_h_wlk_ls_2570_2_2.png
   rotate: false
-  xy: 589, 2
+  xy: 956, 35
   size: 7, 27
   orig: 7, 27
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_2_3.png
+shirt_F_meowtfit_h_wlk_ls_2570_2_3.png
   rotate: false
-  xy: 972, 49
+  xy: 606, 16
   size: 4, 13
   orig: 4, 13
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_3_1.png
+shirt_F_meowtfit_h_wlk_ls_2570_3_1.png
   rotate: false
-  xy: 753, 28
+  xy: 822, 28
   size: 8, 34
   orig: 8, 34
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_3_2.png
+shirt_F_meowtfit_h_wlk_ls_2570_3_2.png
   rotate: false
-  xy: 666, 27
+  xy: 789, 27
   size: 9, 35
   orig: 9, 35
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_3_3.png
+shirt_F_meowtfit_h_wlk_ls_2570_3_3.png
   rotate: false
-  xy: 910, 31
+  xy: 882, 31
   size: 9, 31
   orig: 9, 31
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_7_0.png
+shirt_F_meowtfit_h_wlk_ls_2570_7_1.png
   rotate: false
-  xy: 763, 29
-  size: 8, 33
-  orig: 8, 33
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_7_1.png
-  rotate: false
-  xy: 547, 2
+  xy: 904, 33
   size: 8, 29
   orig: 8, 29
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_ls_2225_7_3.png
+shirt_F_meowtfit_h_wlk_ls_2570_7_2.png
   rotate: false
-  xy: 743, 28
+  xy: 469, 2
+  size: 8, 33
+  orig: 8, 33
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_wlk_ls_2570_7_3.png
+  rotate: false
+  xy: 832, 28
   size: 8, 34
   orig: 8, 34
   offset: 0, 0
@@ -620,149 +613,156 @@ shirt_F_meowtfit_h_wlk_ls_2572_1_1.png
   orig: 5, 5
   offset: 0, 0
   index: -1
+shirt_F_meowtfit_h_wlk_ls_2572_1_3.png
+  rotate: false
+  xy: 516, 47
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
 shirt_F_meowtfit_h_wlk_ls_2572_2_1.png
   rotate: false
-  xy: 627, 2
+  xy: 586, 2
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_0_0.png
-  rotate: false
-  xy: 625, 31
-  size: 13, 31
-  orig: 13, 31
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_0_1.png
+shirt_F_meowtfit_h_wlk_rs_2570_0_0.png
   rotate: false
   xy: 610, 31
   size: 13, 31
   orig: 13, 31
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_0_2.png
+shirt_F_meowtfit_h_wlk_rs_2570_0_1.png
   rotate: false
   xy: 595, 31
   size: 13, 31
   orig: 13, 31
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_0_3.png
+shirt_F_meowtfit_h_wlk_rs_2570_0_2.png
   rotate: false
-  xy: 407, 2
+  xy: 580, 31
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_wlk_rs_2570_0_3.png
+  rotate: false
+  xy: 385, 2
   size: 18, 28
   orig: 18, 28
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_1_0.png
+shirt_F_meowtfit_h_wlk_rs_2570_1_0.png
   rotate: false
-  xy: 839, 34
+  xy: 743, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_1_1.png
+shirt_F_meowtfit_h_wlk_rs_2570_1_1.png
   rotate: false
-  xy: 427, 2
+  xy: 405, 2
   size: 13, 28
   orig: 13, 28
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_1_2.png
+shirt_F_meowtfit_h_wlk_rs_2570_1_2.png
   rotate: false
-  xy: 826, 34
+  xy: 730, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_1_3.png
+shirt_F_meowtfit_h_wlk_rs_2570_1_3.png
   rotate: false
-  xy: 463, 2
+  xy: 451, 37
   size: 19, 25
   orig: 19, 25
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_2_0.png
-  rotate: false
-  xy: 653, 24
-  size: 11, 38
-  orig: 11, 38
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_2_1.png
-  rotate: false
-  xy: 469, 29
-  size: 14, 33
-  orig: 14, 33
-  offset: 0, 0
-  index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_2_2.png
+shirt_F_meowtfit_h_wlk_rs_2570_2_0.png
   rotate: false
   xy: 372, 8
   size: 11, 38
   orig: 11, 38
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_2_3.png
+shirt_F_meowtfit_h_wlk_rs_2570_2_1.png
   rotate: false
-  xy: 449, 29
+  xy: 453, 2
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_wlk_rs_2570_2_2.png
+  rotate: false
+  xy: 498, 4
+  size: 11, 38
+  orig: 11, 38
+  offset: 0, 0
+  index: -1
+shirt_F_meowtfit_h_wlk_rs_2570_2_3.png
+  rotate: false
+  xy: 433, 2
   size: 18, 33
   orig: 18, 33
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_3_0.png
+shirt_F_meowtfit_h_wlk_rs_2570_3_0.png
   rotate: false
-  xy: 732, 28
+  xy: 778, 28
   size: 9, 34
   orig: 9, 34
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_3_1.png
+shirt_F_meowtfit_h_wlk_rs_2570_3_1.png
   rotate: false
-  xy: 951, 32
+  xy: 893, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_3_2.png
+shirt_F_meowtfit_h_wlk_rs_2570_3_2.png
   rotate: false
-  xy: 699, 28
+  xy: 767, 28
   size: 9, 34
   orig: 9, 34
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_3_3.png
+shirt_F_meowtfit_h_wlk_rs_2570_3_3.png
   rotate: false
-  xy: 941, 30
+  xy: 872, 30
   size: 8, 32
   orig: 8, 32
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_7_0.png
+shirt_F_meowtfit_h_wlk_rs_2570_7_0.png
   rotate: false
-  xy: 537, 2
+  xy: 862, 30
   size: 8, 32
   orig: 8, 32
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_7_1.png
+shirt_F_meowtfit_h_wlk_rs_2570_7_1.png
   rotate: false
-  xy: 921, 30
+  xy: 852, 30
   size: 8, 32
   orig: 8, 32
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_7_2.png
+shirt_F_meowtfit_h_wlk_rs_2570_7_2.png
   rotate: false
-  xy: 931, 30
+  xy: 842, 30
   size: 8, 32
   orig: 8, 32
   offset: 0, 0
   index: -1
-shirt_F_meowtfit_h_wlk_rs_2225_7_3.png
+shirt_F_meowtfit_h_wlk_rs_2570_7_3.png
   rotate: false
-  xy: 962, 34
+  xy: 936, 34
   size: 8, 28
   orig: 8, 28
   offset: 0, 0

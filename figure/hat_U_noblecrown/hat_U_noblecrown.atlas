@@ -11,9 +11,16 @@ hat_U_noblecrown_h_lay_ha_2833_2_0.png
   orig: 20, 25
   offset: 0, 0
   index: -1
+hat_U_noblecrown_h_spk_ha_2833_0_0.png
+  rotate: false
+  xy: 62, 8
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
 hat_U_noblecrown_h_spk_ha_2833_1_0.png
   rotate: false
-  xy: 62, 10
+  xy: 90, 10
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
@@ -27,21 +34,14 @@ hat_U_noblecrown_h_spk_ha_2833_2_0.png
   index: -1
 hat_U_noblecrown_h_spk_ha_2833_3_0.png
   rotate: false
-  xy: 32, 7
+  xy: 2, 7
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
   index: -1
-hat_U_noblecrown_h_std_ha_2833_0_0.png
+hat_U_noblecrown_h_spk_ha_2833_7_0.png
   rotate: false
-  xy: 92, 8
-  size: 26, 19
-  orig: 26, 19
-  offset: 0, 0
-  index: -1
-hat_U_noblecrown_h_std_ha_2833_7_0.png
-  rotate: false
-  xy: 2, 7
+  xy: 32, 7
   size: 28, 20
   orig: 28, 20
   offset: 0, 0

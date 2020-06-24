@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 Snowboardplch_h_std_fx97sb_1_0_0.png
   rotate: false
-  xy: 363, 25
+  xy: 303, 25
   size: 58, 37
   orig: 58, 37
   offset: 0, 0
@@ -20,35 +20,42 @@ Snowboardplch_h_std_fx97sb_1_0_1.png
   index: -1
 Snowboardplch_h_std_fx97sb_1_0_3.png
   rotate: false
-  xy: 543, 29
+  xy: 482, 29
   size: 59, 33
   orig: 59, 33
   offset: 0, 0
   index: -1
+Snowboardplch_h_std_fx97sb_1_0_4.png
+  rotate: false
+  xy: 189, 2
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
 Snowboardplch_h_std_fx97sb_1_0_5.png
   rotate: false
-  xy: 123, 24
+  xy: 183, 24
   size: 59, 38
   orig: 59, 38
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_fx97sb_1_1_0.png
   rotate: false
-  xy: 1049, 35
+  xy: 1419, 35
   size: 25, 27
   orig: 25, 27
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_fx97sb_1_1_1.png
   rotate: false
-  xy: 1022, 34
+  xy: 1392, 34
   size: 25, 28
   orig: 25, 28
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_fx97sb_1_1_3.png
   rotate: false
-  xy: 995, 34
+  xy: 1365, 34
   size: 25, 28
   orig: 25, 28
   offset: 0, 0
@@ -62,63 +69,56 @@ Snowboardplch_h_std_fx97sb_1_1_4.png
   index: -1
 Snowboardplch_h_std_fx97sb_1_1_5.png
   rotate: false
-  xy: 961, 33
+  xy: 813, 33
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_fx97sb_1_2_0.png
   rotate: false
-  xy: 303, 25
+  xy: 363, 25
   size: 58, 37
   orig: 58, 37
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_fx97sb_1_2_1.png
   rotate: false
-  xy: 482, 29
+  xy: 543, 29
   size: 59, 33
   orig: 59, 33
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_fx97sb_1_2_3.png
   rotate: false
-  xy: 184, 24
+  xy: 244, 24
   size: 57, 38
   orig: 57, 38
   offset: 0, 0
   index: -1
-Snowboardplch_h_std_fx97sb_1_2_4.png
-  rotate: false
-  xy: 129, 2
-  size: 63, 20
-  orig: 63, 20
-  offset: 0, 0
-  index: -1
 Snowboardplch_h_std_fx97sb_1_2_5.png
   rotate: false
-  xy: 62, 24
+  xy: 122, 24
   size: 59, 38
   orig: 59, 38
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_fx97sb_1_3_4.png
   rotate: false
-  xy: 243, 23
+  xy: 62, 23
   size: 58, 39
   orig: 58, 39
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_fx97sb_1_5_4.png
   rotate: false
-  xy: 1295, 31
+  xy: 1314, 31
   size: 23, 31
   orig: 23, 31
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_fx97sb_1_7_0.png
   rotate: false
-  xy: 62, 2
+  xy: 122, 2
   size: 65, 20
   orig: 65, 20
   offset: 0, 0
@@ -146,35 +146,35 @@ Snowboardplch_h_std_fx97sb_1_7_4.png
   index: -1
 Snowboardplch_h_std_lg_fx97_0_0.png
   rotate: false
-  xy: 1076, 26
+  xy: 1103, 26
   size: 33, 36
   orig: 33, 36
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97_1_0.png
   rotate: false
-  xy: 1369, 29
+  xy: 1469, 29
   size: 19, 33
   orig: 19, 33
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97_2_0.png
   rotate: false
-  xy: 640, 2
+  xy: 604, 2
   size: 34, 34
   orig: 34, 34
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97_3_0.png
   rotate: false
-  xy: 960, 2
+  xy: 710, 2
   size: 35, 29
   orig: 35, 29
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97_7_0.png
   rotate: false
-  xy: 923, 2
+  xy: 776, 33
   size: 35, 29
   orig: 35, 29
   offset: 0, 0
@@ -188,91 +188,91 @@ Snowboardplch_h_std_lg_fx97ollie_0_0.png
   index: -1
 Snowboardplch_h_std_lg_fx97ollie_1_0.png
   rotate: false
-  xy: 1346, 32
+  xy: 1446, 32
   size: 21, 30
   orig: 21, 30
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97ollie_2_0.png
   rotate: false
-  xy: 886, 33
+  xy: 738, 33
   size: 36, 29
   orig: 36, 29
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97ollie_3_0.png
   rotate: false
-  xy: 813, 31
+  xy: 922, 31
   size: 35, 31
   orig: 35, 31
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97ollie_4_0.png
   rotate: false
-  xy: 1111, 25
+  xy: 1138, 25
   size: 31, 37
   orig: 31, 37
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97ollie_5_0.png
   rotate: false
-  xy: 1246, 29
+  xy: 1265, 29
   size: 23, 33
   orig: 23, 33
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97ollie_6_0.png
   rotate: false
-  xy: 1214, 30
+  xy: 1206, 30
   size: 30, 32
   orig: 30, 32
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97ollie_7_0.png
   rotate: false
-  xy: 776, 30
+  xy: 885, 30
   size: 35, 32
   orig: 35, 32
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97sq_0_0.png
   rotate: false
-  xy: 1144, 30
+  xy: 1171, 30
   size: 33, 32
   orig: 33, 32
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97sq_1_0.png
   rotate: false
-  xy: 1320, 32
+  xy: 1339, 32
   size: 24, 30
   orig: 24, 30
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97sq_2_0.png
   rotate: false
-  xy: 850, 31
+  xy: 959, 31
   size: 34, 31
   orig: 34, 31
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97sq_3_0.png
   rotate: false
-  xy: 521, 2
+  xy: 558, 2
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 Snowboardplch_h_std_lg_fx97sq_7_0.png
   rotate: false
-  xy: 558, 2
+  xy: 521, 2
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 Snowboardplch_h_wlk_lg_fx97_0_1.png
   rotate: false
-  xy: 604, 2
+  xy: 640, 2
   size: 34, 34
   orig: 34, 34
   offset: 0, 0
@@ -286,56 +286,56 @@ Snowboardplch_h_wlk_lg_fx97_0_3.png
   index: -1
 Snowboardplch_h_wlk_lg_fx97_1_1.png
   rotate: false
-  xy: 710, 3
+  xy: 1238, 29
   size: 25, 33
   orig: 25, 33
   offset: 0, 0
   index: -1
 Snowboardplch_h_wlk_lg_fx97_1_3.png
   rotate: false
-  xy: 1271, 29
+  xy: 1290, 29
   size: 22, 33
   orig: 22, 33
   offset: 0, 0
   index: -1
 Snowboardplch_h_wlk_lg_fx97_2_1.png
   rotate: false
-  xy: 738, 30
+  xy: 847, 30
   size: 36, 32
   orig: 36, 32
   offset: 0, 0
   index: -1
 Snowboardplch_h_wlk_lg_fx97_2_3.png
   rotate: false
-  xy: 1179, 32
+  xy: 1068, 32
   size: 33, 30
   orig: 33, 30
   offset: 0, 0
   index: -1
 Snowboardplch_h_wlk_lg_fx97_3_1.png
   rotate: false
-  xy: 997, 2
+  xy: 995, 32
   size: 35, 30
   orig: 35, 30
   offset: 0, 0
   index: -1
 Snowboardplch_h_wlk_lg_fx97_3_3.png
   rotate: false
-  xy: 1034, 2
+  xy: 1032, 32
   size: 34, 30
   orig: 34, 30
   offset: 0, 0
   index: -1
 Snowboardplch_h_wlk_lg_fx97_7_1.png
   rotate: false
-  xy: 886, 2
+  xy: 747, 2
   size: 35, 29
   orig: 35, 29
   offset: 0, 0
   index: -1
 Snowboardplch_h_wlk_lg_fx97_7_3.png
   rotate: false
-  xy: 924, 33
+  xy: 784, 2
   size: 35, 29
   orig: 35, 29
   offset: 0, 0

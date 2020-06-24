@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 trousers_F_bik_string_bot_h_lay_lg_2326_2_0.png
   rotate: false
-  xy: 33, 10
+  xy: 2, 10
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
@@ -41,14 +41,14 @@ trousers_F_bik_string_bot_h_std_lg_2326_2_0.png
   index: -1
 trousers_F_bik_string_bot_h_std_lg_2326_3_0.png
   rotate: false
-  xy: 2, 2
+  xy: 26, 17
   size: 29, 13
   orig: 29, 13
   offset: 0, 0
   index: -1
 trousers_F_bik_string_bot_h_std_lg_2326_7_0.png
   rotate: false
-  xy: 2, 17
+  xy: 26, 2
   size: 29, 13
   orig: 29, 13
   offset: 0, 0

@@ -6,35 +6,35 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_collarjumper_h_crr_ls_2499_0_0.png
   rotate: false
-  xy: 501, 5
+  xy: 655, 17
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_crr_ls_2499_1_0.png
   rotate: false
-  xy: 371, 2
+  xy: 830, 46
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_crr_ls_2499_2_0.png
   rotate: false
-  xy: 434, 27
+  xy: 181, 4
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_crr_ls_2499_3_0.png
   rotate: false
-  xy: 424, 3
+  xy: 459, 24
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_crr_ls_2499_7_0.png
   rotate: false
-  xy: 408, 2
+  xy: 619, 13
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
@@ -48,7 +48,7 @@ shirt_F_collarjumper_h_crr_rs_2499_0_0.png
   index: -1
 shirt_F_collarjumper_h_crr_rs_2499_1_0.png
   rotate: false
-  xy: 826, 45
+  xy: 813, 45
   size: 15, 17
   orig: 15, 17
   offset: 0, 0
@@ -62,93 +62,93 @@ shirt_F_collarjumper_h_crr_rs_2499_2_0.png
   index: -1
 shirt_F_collarjumper_h_crr_rs_2499_3_0.png
   rotate: false
-  xy: 816, 38
+  xy: 449, 24
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_crr_rs_2499_4_0.png
   rotate: false
-  xy: 122, 13
+  xy: 497, 31
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_crr_rs_2499_5_0.png
   rotate: false
-  xy: 181, 3
+  xy: 748, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_crr_rs_2499_6_0.png
   rotate: false
-  xy: 488, 3
+  xy: 642, 14
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_crr_rs_2499_7_0.png
   rotate: false
-  xy: 399, 2
+  xy: 571, 21
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_drk_rs_2499_0_0.png
   rotate: false
-  xy: 415, 29
+  xy: 562, 43
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_drk_rs_2499_1_0.png
   rotate: false
-  xy: 394, 50
+  xy: 439, 50
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_drk_rs_2499_2_0.png
   rotate: false
-  xy: 339, 46
+  xy: 357, 46
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_drk_rs_2499_3_0.png
   rotate: false
-  xy: 544, 44
+  xy: 796, 44
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_drk_rs_2499_4_0.png
   rotate: false
-  xy: 522, 23
+  xy: 373, 2
   size: 12, 14
   orig: 12, 14
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_drk_rs_2499_5_0.png
   rotate: false
-  xy: 420, 50
+  xy: 465, 50
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_h_drk_rs_2499_7_0.png
+shirt_F_collarjumper_h_drk_rs_2499_6_0.png
   rotate: false
-  xy: 388, 2
-  size: 9, 16
-  orig: 9, 16
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_h_drk_rs_2500_6_0.png
-  rotate: false
-  xy: 366, 50
+  xy: 384, 50
   size: 26, 12
   orig: 26, 12
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_h_drk_rs_2499_7_0.png
+  rotate: false
+  xy: 560, 25
+  size: 9, 16
+  orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_lay_ch_2499_2_0.png
@@ -160,49 +160,49 @@ shirt_F_collarjumper_h_lay_ch_2499_2_0.png
   index: -1
 shirt_F_collarjumper_h_lay_ch_2500_2_0.png
   rotate: false
-  xy: 864, 51
+  xy: 890, 51
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_lay_ls_2499_2_0.png
   rotate: false
-  xy: 446, 51
+  xy: 412, 51
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_lay_rs_2499_2_0.png
   rotate: false
-  xy: 313, 43
+  xy: 331, 43
   size: 24, 19
   orig: 24, 19
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_sit_ls_2499_0_0.png
   rotate: false
-  xy: 460, 3
+  xy: 598, 13
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_sit_ls_2499_2_0.png
   rotate: false
-  xy: 417, 2
+  xy: 326, 8
   size: 5, 25
   orig: 5, 25
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_sit_rs_2499_0_0.png
   rotate: false
-  xy: 331, 13
+  xy: 706, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_sit_rs_2499_2_0.png
   rotate: false
-  xy: 227, 2
+  xy: 694, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
@@ -244,77 +244,77 @@ shirt_F_collarjumper_h_std_ch_2499_7_0.png
   index: -1
 shirt_F_collarjumper_h_std_ch_2500_0_0.png
   rotate: false
-  xy: 497, 52
+  xy: 491, 52
   size: 23, 10
   orig: 23, 10
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_ch_2500_1_0.png
   rotate: false
-  xy: 843, 52
+  xy: 847, 52
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_ch_2500_2_0.png
   rotate: false
-  xy: 522, 48
+  xy: 540, 48
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_ch_2500_3_0.png
   rotate: false
-  xy: 473, 51
+  xy: 516, 51
   size: 22, 11
   orig: 22, 11
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_ch_2500_7_0.png
   rotate: false
-  xy: 522, 39
+  xy: 868, 55
   size: 20, 7
   orig: 20, 7
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_ls_2499_0_0.png
   rotate: false
-  xy: 467, 3
+  xy: 612, 13
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_ls_2499_1_0.png
   rotate: false
-  xy: 444, 3
+  xy: 589, 13
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_ls_2499_2_0.png
   rotate: false
-  xy: 453, 3
+  xy: 490, 26
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_ls_2499_3_0.png
   rotate: false
-  xy: 686, 34
+  xy: 248, 5
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_ls_2499_7_0.png
   rotate: false
-  xy: 756, 36
+  xy: 218, 2
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_rs_2499_0_0.png
   rotate: false
-  xy: 359, 17
+  xy: 718, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
@@ -328,42 +328,42 @@ shirt_F_collarjumper_h_std_rs_2499_1_0.png
   index: -1
 shirt_F_collarjumper_h_std_rs_2499_2_0.png
   rotate: false
-  xy: 606, 36
+  xy: 194, 2
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_rs_2499_3_0.png
   rotate: false
-  xy: 676, 34
+  xy: 258, 5
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_rs_2499_7_0.png
   rotate: false
-  xy: 746, 36
+  xy: 392, 22
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_rs_2500_1_0.png
   rotate: false
-  xy: 104, 2
+  xy: 357, 43
   size: 4, 1
   orig: 4, 1
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_std_rs_2500_7_0.png
   rotate: false
-  xy: 339, 43
+  xy: 220, 30
   size: 2, 1
   orig: 2, 1
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wav_ls_2499_0_0.png
   rotate: false
-  xy: 212, 2
+  xy: 653, 36
   size: 13, 26
   orig: 13, 26
   offset: 0, 0
@@ -377,70 +377,70 @@ shirt_F_collarjumper_h_wav_ls_2499_0_1.png
   index: -1
 shirt_F_collarjumper_h_wav_ls_2499_1_0.png
   rotate: false
-  xy: 618, 36
+  xy: 206, 2
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wav_ls_2499_1_1.png
   rotate: false
-  xy: 654, 37
+  xy: 314, 8
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wav_ls_2499_2_0.png
   rotate: false
-  xy: 55, 2
+  xy: 38, 2
   size: 15, 26
   orig: 15, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wav_ls_2499_2_1.png
   rotate: false
-  xy: 286, 7
+  xy: 581, 37
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wav_ls_2499_3_0.png
   rotate: false
-  xy: 343, 17
+  xy: 637, 35
   size: 14, 27
   orig: 14, 27
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wav_ls_2499_3_1.png
   rotate: false
-  xy: 104, 5
+  xy: 619, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wav_ls_2499_4_0.png
   rotate: false
-  xy: 267, 7
+  xy: 600, 37
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wav_ls_2499_4_1.png
   rotate: false
-  xy: 38, 2
+  xy: 55, 2
   size: 15, 26
   orig: 15, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wav_ls_2499_5_0.png
   rotate: false
-  xy: 249, 6
+  xy: 313, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wav_ls_2499_5_1.png
   rotate: false
-  xy: 314, 13
+  xy: 104, 4
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
@@ -475,154 +475,154 @@ shirt_F_collarjumper_h_wav_ls_2499_7_1.png
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_0_0.png
   rotate: false
-  xy: 481, 4
+  xy: 635, 12
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_0_1.png
   rotate: false
-  xy: 507, 6
+  xy: 661, 18
   size: 5, 16
   orig: 5, 16
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_0_2.png
   rotate: false
-  xy: 515, 24
+  xy: 432, 23
   size: 5, 26
   orig: 5, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_0_3.png
   rotate: false
-  xy: 434, 3
+  xy: 550, 24
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_h_wlk_ls_2499_1_0.png
+  rotate: false
+  xy: 540, 24
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_1_1.png
   rotate: false
-  xy: 397, 27
+  xy: 730, 41
   size: 16, 21
   orig: 16, 21
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_h_wlk_ls_2499_1_2.png
-  rotate: false
-  xy: 478, 27
-  size: 8, 22
-  orig: 8, 22
-  offset: 0, 0
-  index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_1_3.png
   rotate: false
-  xy: 495, 3
+  xy: 649, 14
   size: 4, 19
   orig: 4, 19
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_2_0.png
   rotate: false
-  xy: 474, 3
+  xy: 605, 13
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_2_1.png
   rotate: false
-  xy: 447, 27
+  xy: 479, 26
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_2_2.png
   rotate: false
-  xy: 536, 16
+  xy: 628, 12
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_2_3.png
   rotate: false
-  xy: 514, 10
+  xy: 668, 20
   size: 4, 12
   orig: 4, 12
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_3_0.png
   rotate: false
-  xy: 239, 2
+  xy: 228, 2
   size: 8, 29
   orig: 8, 29
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_3_1.png
   rotate: false
-  xy: 716, 34
+  xy: 353, 13
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_3_2.png
   rotate: false
-  xy: 726, 33
+  xy: 238, 2
   size: 8, 29
   orig: 8, 29
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_3_3.png
   rotate: false
-  xy: 776, 36
+  xy: 402, 22
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_7_0.png
   rotate: false
-  xy: 506, 24
+  xy: 305, 6
   size: 7, 26
   orig: 7, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_7_1.png
   rotate: false
-  xy: 796, 37
+  xy: 412, 24
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_7_2.png
   rotate: false
-  xy: 497, 24
+  xy: 383, 18
   size: 7, 26
   orig: 7, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_ls_2499_7_3.png
   rotate: false
-  xy: 766, 36
+  xy: 373, 18
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_0_0.png
   rotate: false
-  xy: 642, 37
+  xy: 268, 7
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_0_1.png
   rotate: false
-  xy: 593, 38
+  xy: 280, 8
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_0_2.png
   rotate: false
-  xy: 630, 37
+  xy: 293, 7
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
@@ -636,49 +636,49 @@ shirt_F_collarjumper_h_wlk_rs_2499_0_3.png
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_1_0.png
   rotate: false
-  xy: 468, 27
+  xy: 521, 27
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_1_1.png
   rotate: false
-  xy: 578, 41
+  xy: 781, 41
   size: 13, 21
   orig: 13, 21
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_1_2.png
   rotate: false
-  xy: 458, 27
+  xy: 511, 27
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_1_3.png
   rotate: false
-  xy: 561, 42
+  xy: 764, 42
   size: 15, 20
   orig: 15, 20
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_2_0.png
   rotate: false
-  xy: 371, 20
+  xy: 681, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_2_1.png
   rotate: false
-  xy: 197, 2
+  xy: 121, 6
   size: 13, 26
   orig: 13, 26
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_2_2.png
   rotate: false
-  xy: 384, 20
+  xy: 668, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
@@ -692,637 +692,693 @@ shirt_F_collarjumper_h_wlk_rs_2499_2_3.png
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_3_0.png
   rotate: false
-  xy: 706, 34
+  xy: 333, 13
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_3_1.png
   rotate: false
-  xy: 786, 37
+  xy: 422, 24
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_3_2.png
   rotate: false
-  xy: 696, 34
+  xy: 343, 13
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_3_3.png
   rotate: false
-  xy: 736, 35
+  xy: 363, 17
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_7_0.png
   rotate: false
-  xy: 488, 24
+  xy: 531, 24
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_7_1.png
   rotate: false
-  xy: 666, 37
+  xy: 439, 23
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_7_2.png
   rotate: false
-  xy: 305, 7
+  xy: 580, 10
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 shirt_F_collarjumper_h_wlk_rs_2499_7_3.png
   rotate: false
-  xy: 806, 38
+  xy: 469, 24
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 192, 27
+  xy: 248, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 220, 30
+  xy: 224, 30
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 110, 2
+  xy: 251, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 223, 30
+  xy: 254, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 113, 2
+  xy: 257, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 116, 2
+  xy: 260, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 119, 2
+  xy: 263, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 501, 2
+  xy: 266, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 504, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 397, 24
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 400, 24
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 403, 24
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 406, 24
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 409, 24
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 412, 24
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
   xy: 93, 31
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 122, 10
+  xy: 730, 38
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 366, 47
+  xy: 796, 41
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 249, 3
+  xy: 384, 47
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 314, 10
+  xy: 333, 10
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 343, 14
+  xy: 363, 14
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 826, 42
+  xy: 847, 49
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 544, 41
+  xy: 868, 52
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 843, 49
+  xy: 906, 61
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 880, 61
+  xy: 497, 28
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 507, 3
+  xy: 392, 19
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 514, 7
+  xy: 387, 15
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 589, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 655, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 674, 31
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
   xy: 96, 31
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 122, 7
+  xy: 730, 35
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 125, 10
+  xy: 733, 38
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 252, 3
+  xy: 799, 41
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 314, 7
+  xy: 387, 47
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 317, 10
+  xy: 336, 10
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 346, 14
+  xy: 366, 14
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 826, 39
+  xy: 847, 46
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 829, 42
+  xy: 850, 49
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 547, 41
+  xy: 871, 52
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 843, 46
+  xy: 906, 58
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 846, 49
+  xy: 909, 61
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 880, 58
+  xy: 500, 28
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 883, 61
+  xy: 395, 19
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 510, 3
+  xy: 387, 12
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 517, 7
+  xy: 592, 10
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 658, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 661, 15
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 677, 31
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 674, 28
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
   xy: 99, 31
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 122, 4
+  xy: 733, 35
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 125, 7
+  xy: 736, 38
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 128, 10
+  xy: 802, 41
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 255, 3
+  xy: 339, 10
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 317, 7
+  xy: 369, 14
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 320, 10
+  xy: 850, 46
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 349, 14
+  xy: 853, 49
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 829, 39
+  xy: 874, 52
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 832, 42
+  xy: 906, 55
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 550, 41
+  xy: 909, 58
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 846, 46
+  xy: 912, 61
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 849, 49
+  xy: 503, 28
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 880, 55
+  xy: 398, 19
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 883, 58
+  xy: 387, 9
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 886, 61
+  xy: 595, 10
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 125, 4
+  xy: 664, 15
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 128, 7
+  xy: 680, 31
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 131, 10
+  xy: 674, 25
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 258, 3
+  xy: 677, 28
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 320, 7
+  xy: 736, 35
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 323, 10
+  xy: 739, 38
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 352, 14
+  xy: 805, 41
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 832, 39
+  xy: 342, 10
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 835, 42
+  xy: 853, 46
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 553, 41
+  xy: 856, 49
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 849, 46
+  xy: 877, 52
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 852, 49
+  xy: 906, 52
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 909, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 912, 58
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 915, 61
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 506, 28
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 401, 19
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 387, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 598, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 683, 31
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 674, 22
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 677, 25
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 680, 28
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 739, 35
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 742, 38
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 745, 38
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 808, 41
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 345, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 856, 46
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
+  rotate: false
+  xy: 859, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
   xy: 880, 52
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
+shirt_F_collarjumper_sh_crr_rs_2500_7_0.png
   rotate: false
-  xy: 883, 55
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 886, 58
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 889, 61
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 128, 4
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 131, 7
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 261, 3
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 323, 7
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 326, 10
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 355, 14
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 835, 39
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_collarjumper_sh_wlk_ls_2500_7_3.png
-  rotate: false
-  xy: 838, 42
+  xy: 909, 52
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

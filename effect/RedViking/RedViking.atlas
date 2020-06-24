@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 RedViking_h_std_fx172_1_1_0_0.png
   rotate: false
-  xy: 115, 195
+  xy: 117, 67
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
@@ -48,28 +48,28 @@ RedViking_h_std_fx172_1_1_5_0.png
   index: -1
 RedViking_h_std_fx172_1_1_6_0.png
   rotate: false
-  xy: 104, 195
+  xy: 117, 87
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_2_1_0_0.png
   rotate: false
-  xy: 72, 3
+  xy: 72, 2
   size: 33, 43
   orig: 33, 43
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_2_1_1_0.png
   rotate: false
-  xy: 2, 42
+  xy: 72, 47
   size: 33, 44
   orig: 33, 44
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_2_1_2_0.png
   rotate: false
-  xy: 37, 42
+  xy: 2, 42
   size: 33, 44
   orig: 33, 44
   offset: 0, 0
@@ -83,14 +83,14 @@ RedViking_h_std_fx172_2_1_3_0.png
   index: -1
 RedViking_h_std_fx172_2_1_4_0.png
   rotate: false
-  xy: 72, 48
+  xy: 43, 123
   size: 33, 44
   orig: 33, 44
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_2_1_5_0.png
   rotate: false
-  xy: 43, 123
+  xy: 37, 42
   size: 33, 44
   orig: 33, 44
   offset: 0, 0
@@ -111,77 +111,77 @@ RedViking_h_std_fx172_2_1_7_0.png
   index: -1
 RedViking_h_std_fx172_3_1_0_0.png
   rotate: false
-  xy: 78, 107
+  xy: 107, 74
   size: 8, 31
   orig: 8, 31
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_3_1_1_0.png
   rotate: false
-  xy: 113, 162
+  xy: 45, 178
   size: 8, 31
   orig: 8, 31
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_3_1_2_0.png
   rotate: false
-  xy: 45, 178
+  xy: 92, 107
   size: 8, 31
   orig: 8, 31
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_3_1_3_0.png
   rotate: false
-  xy: 88, 107
+  xy: 102, 107
   size: 8, 31
   orig: 8, 31
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_3_1_4_0.png
   rotate: false
-  xy: 98, 107
+  xy: 112, 107
   size: 8, 31
   orig: 8, 31
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_3_1_5_0.png
   rotate: false
-  xy: 113, 129
+  xy: 107, 41
   size: 8, 31
   orig: 8, 31
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_3_1_7_0.png
   rotate: false
-  xy: 108, 96
+  xy: 107, 8
   size: 8, 31
   orig: 8, 31
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_4_1_0_0.png
   rotate: false
-  xy: 55, 183
+  xy: 76, 93
   size: 14, 28
   orig: 14, 28
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_4_1_0_1.png
   rotate: false
-  xy: 71, 185
+  xy: 55, 185
   size: 15, 26
   orig: 15, 26
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_4_1_0_2.png
   rotate: false
-  xy: 59, 94
+  xy: 43, 94
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
   index: -1
 RedViking_h_std_fx172_4_1_0_3.png
   rotate: false
-  xy: 43, 93
+  xy: 60, 93
   size: 14, 28
   orig: 14, 28
   offset: 0, 0
@@ -195,7 +195,7 @@ RedViking_h_std_fx172_4_1_0_4.png
   index: -1
 RedViking_h_std_fx172_4_1_0_5.png
   rotate: false
-  xy: 88, 185
+  xy: 72, 185
   size: 14, 26
   orig: 14, 26
   offset: 0, 0

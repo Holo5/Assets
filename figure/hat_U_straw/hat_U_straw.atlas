@@ -4,18 +4,18 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hat_U_straw_h_lay_ha_2346_2_0.png
-  rotate: false
-  xy: 120, 12
-  size: 5, 17
-  orig: 5, 17
-  offset: 0, 0
-  index: -1
 hat_U_straw_h_lsp_ha_2345_2_0.png
   rotate: false
   xy: 100, 31
   size: 25, 31
   orig: 25, 31
+  offset: 0, 0
+  index: -1
+hat_U_straw_h_lsp_ha_2346_2_0.png
+  rotate: false
+  xy: 120, 12
+  size: 5, 17
+  orig: 5, 17
   offset: 0, 0
   index: -1
 hat_U_straw_h_spk_ha_2345_0_0.png
@@ -25,13 +25,6 @@ hat_U_straw_h_spk_ha_2345_0_0.png
   orig: 34, 25
   offset: 0, 0
   index: -1
-hat_U_straw_h_spk_ha_2345_1_0.png
-  rotate: false
-  xy: 38, 9
-  size: 33, 25
-  orig: 33, 25
-  offset: 0, 0
-  index: -1
 hat_U_straw_h_spk_ha_2345_2_0.png
   rotate: false
   xy: 34, 36
@@ -39,18 +32,11 @@ hat_U_straw_h_spk_ha_2345_2_0.png
   orig: 32, 26
   offset: 0, 0
   index: -1
-hat_U_straw_h_spk_ha_2345_3_0.png
+hat_U_straw_h_spk_ha_2346_0_0.png
   rotate: false
-  xy: 2, 32
-  size: 30, 30
-  orig: 30, 30
-  offset: 0, 0
-  index: -1
-hat_U_straw_h_spk_ha_2346_1_0.png
-  rotate: false
-  xy: 98, 2
-  size: 23, 8
-  orig: 23, 8
+  xy: 73, 25
+  size: 23, 9
+  orig: 23, 9
   offset: 0, 0
   index: -1
 hat_U_straw_h_spk_ha_2346_2_0.png
@@ -60,18 +46,18 @@ hat_U_straw_h_spk_ha_2346_2_0.png
   orig: 23, 8
   offset: 0, 0
   index: -1
-hat_U_straw_h_spk_ha_2346_3_0.png
+hat_U_straw_h_std_ha_2345_1_0.png
   rotate: false
-  xy: 98, 19
-  size: 20, 10
-  orig: 20, 10
+  xy: 38, 9
+  size: 33, 25
+  orig: 33, 25
   offset: 0, 0
   index: -1
-hat_U_straw_h_spk_ha_2346_7_0.png
+hat_U_straw_h_std_ha_2345_3_0.png
   rotate: false
-  xy: 73, 16
-  size: 20, 7
-  orig: 20, 7
+  xy: 2, 32
+  size: 30, 30
+  orig: 30, 30
   offset: 0, 0
   index: -1
 hat_U_straw_h_std_ha_2345_7_0.png
@@ -81,10 +67,24 @@ hat_U_straw_h_std_ha_2345_7_0.png
   orig: 30, 26
   offset: 0, 0
   index: -1
-hat_U_straw_h_std_ha_2346_0_0.png
+hat_U_straw_h_std_ha_2346_1_0.png
   rotate: false
-  xy: 73, 25
-  size: 23, 9
-  orig: 23, 9
+  xy: 98, 2
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+hat_U_straw_h_std_ha_2346_3_0.png
+  rotate: false
+  xy: 98, 19
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+hat_U_straw_h_std_ha_2346_7_0.png
+  rotate: false
+  xy: 73, 16
+  size: 20, 7
+  orig: 20, 7
   offset: 0, 0
   index: -1

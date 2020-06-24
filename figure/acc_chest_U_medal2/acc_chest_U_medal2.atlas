@@ -6,70 +6,70 @@ filter: Nearest,Nearest
 repeat: none
 acc_chest_U_medal2_h_lay_ca_2743_2_0.png
   rotate: false
-  xy: 2, 8
+  xy: 14, 19
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 acc_chest_U_medal2_h_lay_ca_2743_4_0.png
   rotate: false
-  xy: 2, 20
+  xy: 30, 19
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 acc_chest_U_medal2_h_lay_ca_2744_2_0.png
   rotate: false
-  xy: 43, 15
+  xy: 32, 11
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 acc_chest_U_medal2_h_lay_ca_2744_4_0.png
   rotate: false
-  xy: 18, 8
+  xy: 21, 4
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 acc_chest_U_medal2_h_std_ca_2743_1_0.png
   rotate: false
-  xy: 27, 2
+  xy: 15, 6
   size: 4, 11
   orig: 4, 11
   offset: 0, 0
   index: -1
 acc_chest_U_medal2_h_std_ca_2743_2_0.png
   rotate: false
-  xy: 18, 16
+  xy: 2, 15
   size: 10, 14
   orig: 10, 14
   offset: 0, 0
   index: -1
 acc_chest_U_medal2_h_std_ca_2743_3_0.png
   rotate: false
-  xy: 30, 19
+  xy: 2, 2
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 acc_chest_U_medal2_h_std_ca_2744_1_0.png
   rotate: false
-  xy: 52, 16
+  xy: 56, 24
   size: 1, 5
   orig: 1, 5
   offset: 0, 0
   index: -1
 acc_chest_U_medal2_h_std_ca_2744_2_0.png
   rotate: false
-  xy: 43, 23
+  xy: 46, 22
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 acc_chest_U_medal2_h_std_ca_2744_3_0.png
   rotate: false
-  xy: 53, 25
+  xy: 21, 12
   size: 9, 5
   orig: 9, 5
   offset: 0, 0

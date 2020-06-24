@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 ZombieMask_h_std_fx88_1_1_0_0.png
   rotate: false
-  xy: 35, 7
+  xy: 2, 7
   size: 31, 23
   orig: 31, 23
   offset: 0, 0
@@ -48,7 +48,7 @@ ZombieMask_h_std_fx88_1_1_5_0.png
   index: -1
 ZombieMask_h_std_fx88_1_1_6_0.png
   rotate: false
-  xy: 2, 7
+  xy: 35, 7
   size: 31, 23
   orig: 31, 23
   offset: 0, 0

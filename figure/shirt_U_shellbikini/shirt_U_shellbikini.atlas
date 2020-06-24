@@ -4,6 +4,13 @@ size: 256,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+shirt_U_shellbikini_h_lay_ch_2563_2_0.png
+  rotate: false
+  xy: 71, 10
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
 shirt_U_shellbikini_h_lay_ch_2564_2_0.png
   rotate: false
   xy: 140, 5
@@ -11,11 +18,39 @@ shirt_U_shellbikini_h_lay_ch_2564_2_0.png
   orig: 17, 21
   offset: 0, 0
   index: -1
-shirt_U_shellbikini_h_lay_ch_4848_2_0.png
+shirt_U_shellbikini_h_std_ch_2563_0_0.png
   rotate: false
-  xy: 71, 10
+  xy: 202, 15
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+shirt_U_shellbikini_h_std_ch_2563_1_0.png
+  rotate: false
+  xy: 193, 15
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+shirt_U_shellbikini_h_std_ch_2563_2_0.png
+  rotate: false
+  xy: 93, 10
   size: 20, 16
   orig: 20, 16
+  offset: 0, 0
+  index: -1
+shirt_U_shellbikini_h_std_ch_2563_3_0.png
+  rotate: false
+  xy: 115, 15
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+shirt_U_shellbikini_h_std_ch_2563_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 shirt_U_shellbikini_h_std_ch_2564_0_0.png
@@ -51,40 +86,5 @@ shirt_U_shellbikini_h_std_ch_2564_7_0.png
   xy: 2, 5
   size: 23, 21
   orig: 23, 21
-  offset: 0, 0
-  index: -1
-shirt_U_shellbikini_h_std_ch_4848_0_0.png
-  rotate: false
-  xy: 202, 15
-  size: 5, 11
-  orig: 5, 11
-  offset: 0, 0
-  index: -1
-shirt_U_shellbikini_h_std_ch_4848_1_0.png
-  rotate: false
-  xy: 193, 15
-  size: 7, 11
-  orig: 7, 11
-  offset: 0, 0
-  index: -1
-shirt_U_shellbikini_h_std_ch_4848_2_0.png
-  rotate: false
-  xy: 93, 10
-  size: 20, 16
-  orig: 20, 16
-  offset: 0, 0
-  index: -1
-shirt_U_shellbikini_h_std_ch_4848_3_0.png
-  rotate: false
-  xy: 115, 15
-  size: 23, 11
-  orig: 23, 11
-  offset: 0, 0
-  index: -1
-shirt_U_shellbikini_h_std_ch_4848_7_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1

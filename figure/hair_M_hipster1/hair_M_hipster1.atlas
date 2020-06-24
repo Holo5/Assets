@@ -1,300 +1,244 @@
 
 hair_M_hipster1.png
-size: 128,256
+size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 hair_M_hipster1_h_lay_hr_2481_2_0.png
   rotate: false
-  xy: 100, 227
-  size: 21, 27
-  orig: 21, 27
+  xy: 641, 4
+  size: 22, 26
+  orig: 22, 26
   offset: 0, 0
   index: -1
-hair_M_hipster1_h_lay_hrb_2481_2_0.png
+hair_M_hipster1_h_lay_hrb_2482_2_0.png
   rotate: false
-  xy: 54, 148
-  size: 21, 27
-  orig: 21, 27
-  offset: 0, 0
-  index: -1
-hair_M_hipster1_h_lsp_hr_2481_2_0.png
-  rotate: false
-  xy: 31, 116
-  size: 21, 28
-  orig: 21, 28
+  xy: 686, 7
+  size: 19, 23
+  orig: 19, 23
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_lsp_hr_2482_2_0.png
   rotate: false
-  xy: 54, 122
-  size: 19, 24
-  orig: 19, 24
+  xy: 665, 7
+  size: 19, 23
+  orig: 19, 23
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_lsp_hrb_2481_2_0.png
   rotate: false
-  xy: 31, 146
-  size: 21, 28
-  orig: 21, 28
-  offset: 0, 0
-  index: -1
-hair_M_hipster1_h_lsp_hrb_2482_2_0.png
-  rotate: false
-  xy: 60, 96
-  size: 19, 24
-  orig: 19, 24
+  xy: 617, 4
+  size: 22, 26
+  orig: 22, 26
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hr_2481_0_0.png
   rotate: false
-  xy: 2, 229
+  xy: 35, 5
   size: 31, 25
   orig: 31, 25
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hr_2481_1_0.png
   rotate: false
-  xy: 35, 205
+  xy: 165, 7
   size: 30, 23
   orig: 30, 23
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hr_2481_2_0.png
   rotate: false
-  xy: 2, 69
-  size: 28, 23
-  orig: 28, 23
+  xy: 284, 8
+  size: 28, 22
+  orig: 28, 22
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hr_2481_3_0.png
   rotate: false
-  xy: 31, 94
-  size: 27, 20
-  orig: 27, 20
+  xy: 404, 10
+  size: 28, 20
+  orig: 28, 20
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hr_2481_7_0.png
   rotate: false
-  xy: 35, 177
-  size: 27, 26
-  orig: 27, 26
+  xy: 226, 3
+  size: 27, 27
+  orig: 27, 27
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hr_2482_0_0.png
   rotate: false
-  xy: 84, 10
-  size: 23, 18
-  orig: 23, 18
+  xy: 707, 13
+  size: 21, 17
+  orig: 21, 17
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hr_2482_1_0.png
   rotate: false
-  xy: 87, 85
+  xy: 489, 11
   size: 24, 19
   orig: 24, 19
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hr_2482_2_0.png
   rotate: false
-  xy: 96, 185
-  size: 24, 19
-  orig: 24, 19
+  xy: 779, 16
+  size: 24, 14
+  orig: 24, 14
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hr_2482_3_0.png
   rotate: false
-  xy: 101, 157
-  size: 23, 12
-  orig: 23, 12
+  xy: 831, 2
+  size: 23, 13
+  orig: 23, 13
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hr_2482_7_0.png
   rotate: false
-  xy: 62, 74
+  xy: 567, 10
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
-hair_M_hipster1_h_spk_hrb_2481_0_0.png
-  rotate: false
-  xy: 2, 202
-  size: 31, 25
-  orig: 31, 25
-  offset: 0, 0
-  index: -1
 hair_M_hipster1_h_spk_hrb_2481_1_0.png
   rotate: false
-  xy: 68, 231
+  xy: 101, 7
   size: 30, 23
   orig: 30, 23
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hrb_2481_2_0.png
   rotate: false
-  xy: 2, 44
-  size: 28, 23
-  orig: 28, 23
+  xy: 314, 8
+  size: 28, 22
+  orig: 28, 22
   offset: 0, 0
   index: -1
-hair_M_hipster1_h_spk_hrb_2481_3_0.png
+hair_M_hipster1_h_spk_hrb_2482_0_0.png
   rotate: false
-  xy: 34, 24
-  size: 27, 20
-  orig: 27, 20
-  offset: 0, 0
-  index: -1
-hair_M_hipster1_h_spk_hrb_2481_7_0.png
-  rotate: false
-  xy: 2, 148
-  size: 27, 26
-  orig: 27, 26
-  offset: 0, 0
-  index: -1
-hair_M_hipster1_h_spk_hrb_2482_2_0.png
-  rotate: false
-  xy: 62, 53
-  size: 24, 19
-  orig: 24, 19
+  xy: 856, 13
+  size: 21, 17
+  orig: 21, 17
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_spk_hrb_2482_3_0.png
   rotate: false
-  xy: 101, 171
-  size: 23, 12
-  orig: 23, 12
+  xy: 831, 17
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+hair_M_hipster1_h_spk_hrb_2482_7_0.png
+  rotate: false
+  xy: 464, 10
+  size: 23, 20
+  orig: 23, 20
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hr_2481_0_0.png
   rotate: false
-  xy: 2, 176
-  size: 31, 24
-  orig: 31, 24
+  xy: 68, 5
+  size: 31, 25
+  orig: 31, 25
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hr_2481_1_0.png
   rotate: false
-  xy: 68, 207
-  size: 30, 22
-  orig: 30, 22
+  xy: 133, 7
+  size: 30, 23
+  orig: 30, 23
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hr_2481_2_0.png
   rotate: false
-  xy: 32, 46
+  xy: 344, 8
   size: 28, 22
   orig: 28, 22
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hr_2481_3_0.png
   rotate: false
-  xy: 67, 186
-  size: 27, 19
-  orig: 27, 19
+  xy: 374, 10
+  size: 28, 20
+  orig: 28, 20
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hr_2481_7_0.png
   rotate: false
-  xy: 2, 121
-  size: 27, 25
-  orig: 27, 25
+  xy: 197, 3
+  size: 27, 27
+  orig: 27, 27
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hr_2482_0_0.png
   rotate: false
-  xy: 92, 45
-  size: 23, 18
-  orig: 23, 18
+  xy: 730, 13
+  size: 21, 17
+  orig: 21, 17
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hr_2482_1_0.png
   rotate: false
-  xy: 100, 206
+  xy: 515, 11
   size: 24, 19
   orig: 24, 19
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hr_2482_2_0.png
   rotate: false
-  xy: 81, 106
-  size: 24, 19
-  orig: 24, 19
+  xy: 805, 16
+  size: 24, 14
+  orig: 24, 14
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hr_2482_3_0.png
   rotate: false
-  xy: 2, 5
+  xy: 879, 17
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hr_2482_7_0.png
   rotate: false
-  xy: 34, 2
+  xy: 592, 10
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hrb_2481_0_0.png
   rotate: false
-  xy: 35, 230
-  size: 31, 24
-  orig: 31, 24
-  offset: 0, 0
-  index: -1
-hair_M_hipster1_h_std_hrb_2481_1_0.png
-  rotate: false
-  xy: 2, 20
-  size: 30, 22
-  orig: 30, 22
-  offset: 0, 0
-  index: -1
-hair_M_hipster1_h_std_hrb_2481_2_0.png
-  rotate: false
-  xy: 32, 70
-  size: 28, 22
-  orig: 28, 22
+  xy: 2, 5
+  size: 31, 25
+  orig: 31, 25
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hrb_2481_3_0.png
   rotate: false
-  xy: 63, 32
-  size: 27, 19
-  orig: 27, 19
+  xy: 434, 10
+  size: 28, 20
+  orig: 28, 20
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hrb_2481_7_0.png
   rotate: false
-  xy: 2, 94
-  size: 27, 25
-  orig: 27, 25
-  offset: 0, 0
-  index: -1
-hair_M_hipster1_h_std_hrb_2482_0_0.png
-  rotate: false
-  xy: 88, 65
-  size: 23, 18
-  orig: 23, 18
+  xy: 255, 3
+  size: 27, 27
+  orig: 27, 27
   offset: 0, 0
   index: -1
 hair_M_hipster1_h_std_hrb_2482_1_0.png
   rotate: false
-  xy: 75, 127
+  xy: 541, 11
   size: 24, 19
   orig: 24, 19
   offset: 0, 0
   index: -1
-hair_M_hipster1_h_std_hrb_2482_3_0.png
+hair_M_hipster1_h_std_hrb_2482_2_0.png
   rotate: false
-  xy: 92, 30
-  size: 23, 13
-  orig: 23, 13
-  offset: 0, 0
-  index: -1
-hair_M_hipster1_h_std_hrb_2482_7_0.png
-  rotate: false
-  xy: 59, 2
-  size: 23, 20
-  orig: 23, 20
+  xy: 753, 16
+  size: 24, 14
+  orig: 24, 14
   offset: 0, 0
   index: -1

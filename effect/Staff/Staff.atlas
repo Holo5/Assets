@@ -13,21 +13,21 @@ Staff_h_std_fx102_1_1_0_0.png
   index: -1
 Staff_h_std_fx102_1_1_0_1.png
   rotate: false
-  xy: 77, 38
+  xy: 152, 38
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 Staff_h_std_fx102_1_1_0_2.png
   rotate: false
-  xy: 152, 38
+  xy: 77, 38
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 Staff_h_std_fx102_1_1_0_3.png
   rotate: false
-  xy: 227, 38
+  xy: 377, 38
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
@@ -41,7 +41,7 @@ Staff_h_std_fx102_1_1_0_4.png
   index: -1
 Staff_h_std_fx102_1_1_0_5.png
   rotate: false
-  xy: 377, 38
+  xy: 527, 38
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
@@ -55,7 +55,7 @@ Staff_h_std_fx102_1_1_0_6.png
   index: -1
 Staff_h_std_fx102_1_1_0_7.png
   rotate: false
-  xy: 527, 38
+  xy: 227, 38
   size: 73, 73
   orig: 73, 73
   offset: 0, 0

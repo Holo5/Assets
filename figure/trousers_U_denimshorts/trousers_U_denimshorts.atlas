@@ -48,49 +48,56 @@ trousers_U_denimshorts_h_sit_lg_2909_2_0.png
   index: -1
 trousers_U_denimshorts_h_std_lg_2908_0_0.png
   rotate: false
-  xy: 161, 16
+  xy: 233, 16
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_std_lg_2908_1_0.png
   rotate: false
-  xy: 316, 3
+  xy: 827, 20
   size: 17, 10
   orig: 17, 10
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_std_lg_2908_2_0.png
   rotate: false
-  xy: 185, 16
+  xy: 257, 16
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
   index: -1
+trousers_U_denimshorts_h_std_lg_2908_3_0.png
+  rotate: false
+  xy: 32, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
 trousers_U_denimshorts_h_std_lg_2908_7_0.png
   rotate: false
-  xy: 392, 20
+  xy: 464, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_std_lg_2909_0_0.png
   rotate: false
-  xy: 486, 21
+  xy: 417, 21
   size: 22, 9
   orig: 22, 9
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_std_lg_2909_1_0.png
   rotate: false
-  xy: 901, 25
+  xy: 900, 25
   size: 15, 5
   orig: 15, 5
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_std_lg_2909_2_0.png
   rotate: false
-  xy: 510, 21
+  xy: 556, 21
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
@@ -104,14 +111,14 @@ trousers_U_denimshorts_h_std_lg_2909_3_0.png
   index: -1
 trousers_U_denimshorts_h_std_lg_2909_7_0.png
   rotate: false
-  xy: 739, 25
+  xy: 716, 25
   size: 21, 5
   orig: 21, 5
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2908_0_0.png
   rotate: false
-  xy: 111, 16
+  xy: 136, 16
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
@@ -125,14 +132,14 @@ trousers_U_denimshorts_h_wlk_lg_2908_0_1.png
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2908_0_2.png
   rotate: false
-  xy: 209, 16
+  xy: 161, 16
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2908_0_3.png
   rotate: false
-  xy: 136, 16
+  xy: 111, 16
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
@@ -153,7 +160,7 @@ trousers_U_denimshorts_h_wlk_lg_2908_1_1.png
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2908_1_2.png
   rotate: false
-  xy: 847, 20
+  xy: 846, 20
   size: 17, 10
   orig: 17, 10
   offset: 0, 0
@@ -167,7 +174,7 @@ trousers_U_denimshorts_h_wlk_lg_2908_1_3.png
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2908_2_0.png
   rotate: false
-  xy: 257, 16
+  xy: 185, 16
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
@@ -181,7 +188,7 @@ trousers_U_denimshorts_h_wlk_lg_2908_2_1.png
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2908_2_2.png
   rotate: false
-  xy: 233, 16
+  xy: 209, 16
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
@@ -193,23 +200,16 @@ trousers_U_denimshorts_h_wlk_lg_2908_2_3.png
   orig: 23, 12
   offset: 0, 0
   index: -1
-trousers_U_denimshorts_h_wlk_lg_2908_3_0.png
-  rotate: false
-  xy: 32, 2
-  size: 21, 10
-  orig: 21, 10
-  offset: 0, 0
-  index: -1
 trousers_U_denimshorts_h_wlk_lg_2908_3_1.png
   rotate: false
-  xy: 415, 20
+  xy: 510, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2908_3_2.png
   rotate: false
-  xy: 438, 20
+  xy: 533, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
@@ -223,14 +223,14 @@ trousers_U_denimshorts_h_wlk_lg_2908_3_3.png
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2908_7_0.png
   rotate: false
-  xy: 136, 2
+  xy: 159, 2
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2908_7_1.png
   rotate: false
-  xy: 159, 2
+  xy: 136, 2
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
@@ -244,14 +244,14 @@ trousers_U_denimshorts_h_wlk_lg_2908_7_2.png
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2908_7_3.png
   rotate: false
-  xy: 579, 20
+  xy: 487, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2909_0_0.png
   rotate: false
-  xy: 461, 22
+  xy: 392, 22
   size: 23, 8
   orig: 23, 8
   offset: 0, 0
@@ -265,21 +265,21 @@ trousers_U_denimshorts_h_wlk_lg_2909_0_1.png
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2909_0_2.png
   rotate: false
-  xy: 785, 23
+  xy: 806, 23
   size: 19, 7
   orig: 19, 7
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2909_0_3.png
   rotate: false
-  xy: 806, 22
+  xy: 785, 22
   size: 19, 8
   orig: 19, 8
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2909_1_0.png
   rotate: false
-  xy: 884, 24
+  xy: 883, 24
   size: 15, 6
   orig: 15, 6
   offset: 0, 0
@@ -293,28 +293,28 @@ trousers_U_denimshorts_h_wlk_lg_2909_1_1.png
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2909_1_2.png
   rotate: false
-  xy: 866, 24
+  xy: 865, 24
   size: 16, 6
   orig: 16, 6
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2909_1_3.png
   rotate: false
-  xy: 533, 21
+  xy: 579, 21
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2909_2_0.png
   rotate: false
-  xy: 556, 21
+  xy: 441, 21
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2909_2_1.png
   rotate: false
-  xy: 827, 21
+  xy: 316, 4
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
@@ -370,7 +370,7 @@ trousers_U_denimshorts_h_wlk_lg_2909_7_0.png
   index: -1
 trousers_U_denimshorts_h_wlk_lg_2909_7_1.png
   rotate: false
-  xy: 716, 25
+  xy: 739, 25
   size: 21, 5
   orig: 21, 5
   offset: 0, 0

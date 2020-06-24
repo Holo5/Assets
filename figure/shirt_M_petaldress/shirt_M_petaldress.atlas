@@ -25,11 +25,18 @@ shirt_M_petaldress_h_lay_ch_3319_2_0.png
   orig: 38, 30
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_sit_ch_3319_0_0.png
+shirt_M_petaldress_h_sit_ch_3317_0_0.png
   rotate: false
-  xy: 226, 14
-  size: 40, 34
-  orig: 40, 34
+  xy: 268, 28
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+shirt_M_petaldress_h_sit_ch_3317_2_0.png
+  rotate: false
+  xy: 268, 93
+  size: 42, 33
+  orig: 42, 33
   offset: 0, 0
   index: -1
 shirt_M_petaldress_h_std__0_arms_l.png
@@ -39,34 +46,6 @@ shirt_M_petaldress_h_std__0_arms_l.png
   orig: 222, 122
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_std_ch_3317_0_0.png
-  rotate: false
-  xy: 354, 97
-  size: 42, 29
-  orig: 42, 29
-  offset: 0, 0
-  index: -1
-shirt_M_petaldress_h_std_ch_3317_1_0.png
-  rotate: false
-  xy: 636, 93
-  size: 35, 33
-  orig: 35, 33
-  offset: 0, 0
-  index: -1
-shirt_M_petaldress_h_std_ch_3317_7_0.png
-  rotate: false
-  xy: 521, 94
-  size: 37, 32
-  orig: 37, 32
-  offset: 0, 0
-  index: -1
-shirt_M_petaldress_h_std_ch_3318_0_0.png
-  rotate: false
-  xy: 268, 2
-  size: 38, 11
-  orig: 38, 11
-  offset: 0, 0
-  index: -1
 shirt_M_petaldress_h_std_ch_3318_1_0.png
   rotate: false
   xy: 913, 120
@@ -74,102 +53,137 @@ shirt_M_petaldress_h_std_ch_3318_1_0.png
   orig: 23, 6
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_std_ch_3318_2_0.png
-  rotate: false
-  xy: 268, 15
-  size: 38, 11
-  orig: 38, 11
-  offset: 0, 0
-  index: -1
-shirt_M_petaldress_h_std_ch_3318_3_0.png
+shirt_M_petaldress_h_std_ch_3318_7_0.png
   rotate: false
   xy: 226, 5
   size: 25, 7
   orig: 25, 7
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_wlk_ch_3317_0_0.png
+shirt_M_petaldress_h_std_ch_3319_0_0.png
   rotate: false
-  xy: 268, 28
+  xy: 226, 14
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+shirt_M_petaldress_h_std_ch_3319_1_0.png
+  rotate: false
+  xy: 821, 92
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+shirt_M_petaldress_h_std_ch_3319_2_0.png
+  rotate: false
+  xy: 226, 89
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+shirt_M_petaldress_h_std_ch_3319_3_0.png
+  rotate: false
+  xy: 673, 91
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+shirt_M_petaldress_h_std_ch_3319_7_0.png
+  rotate: false
+  xy: 747, 93
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+shirt_M_petaldress_h_wlk_ch_3317_0_2.png
+  rotate: false
+  xy: 354, 97
   size: 42, 29
   orig: 42, 29
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_wlk_ch_3317_0_1.png
+shirt_M_petaldress_h_wlk_ch_3317_0_3.png
   rotate: false
   xy: 398, 98
   size: 42, 28
   orig: 42, 28
   offset: 0, 0
   index: -1
+shirt_M_petaldress_h_wlk_ch_3317_1_2.png
+  rotate: false
+  xy: 636, 93
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
 shirt_M_petaldress_h_wlk_ch_3317_1_3.png
   rotate: false
-  xy: 784, 94
+  xy: 599, 94
   size: 35, 32
   orig: 35, 32
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_wlk_ch_3317_2_0.png
-  rotate: false
-  xy: 268, 93
-  size: 42, 33
-  orig: 42, 33
-  offset: 0, 0
-  index: -1
-shirt_M_petaldress_h_wlk_ch_3317_2_1.png
+shirt_M_petaldress_h_wlk_ch_3317_2_3.png
   rotate: false
   xy: 268, 59
   size: 42, 32
   orig: 42, 32
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_wlk_ch_3317_3_0.png
+shirt_M_petaldress_h_wlk_ch_3317_3_2.png
   rotate: false
   xy: 312, 58
   size: 37, 33
   orig: 37, 33
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_wlk_ch_3317_3_1.png
+shirt_M_petaldress_h_wlk_ch_3317_3_3.png
   rotate: false
-  xy: 482, 94
+  xy: 560, 94
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+shirt_M_petaldress_h_wlk_ch_3317_7_2.png
+  rotate: false
+  xy: 521, 94
   size: 37, 32
   orig: 37, 32
   offset: 0, 0
   index: -1
 shirt_M_petaldress_h_wlk_ch_3317_7_3.png
   rotate: false
-  xy: 560, 95
+  xy: 482, 95
   size: 37, 31
   orig: 37, 31
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_wlk_ch_3319_0_1.png
+shirt_M_petaldress_h_wlk_ch_3318_0_1.png
+  rotate: false
+  xy: 268, 15
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+shirt_M_petaldress_h_wlk_ch_3318_2_1.png
+  rotate: false
+  xy: 268, 2
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+shirt_M_petaldress_h_wlk_ch_3319_0_3.png
   rotate: false
   xy: 312, 93
   size: 40, 33
   orig: 40, 33
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_wlk_ch_3319_1_2.png
-  rotate: false
-  xy: 856, 92
-  size: 33, 34
-  orig: 33, 34
-  offset: 0, 0
-  index: -1
 shirt_M_petaldress_h_wlk_ch_3319_1_3.png
   rotate: false
-  xy: 821, 93
+  xy: 856, 93
   size: 33, 33
   orig: 33, 33
-  offset: 0, 0
-  index: -1
-shirt_M_petaldress_h_wlk_ch_3319_2_0.png
-  rotate: false
-  xy: 226, 89
-  size: 40, 37
-  orig: 40, 37
   offset: 0, 0
   index: -1
 shirt_M_petaldress_h_wlk_ch_3319_2_3.png
@@ -179,30 +193,16 @@ shirt_M_petaldress_h_wlk_ch_3319_2_3.png
   orig: 40, 37
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_wlk_ch_3319_3_2.png
-  rotate: false
-  xy: 710, 91
-  size: 35, 35
-  orig: 35, 35
-  offset: 0, 0
-  index: -1
 shirt_M_petaldress_h_wlk_ch_3319_3_3.png
   rotate: false
-  xy: 673, 92
+  xy: 710, 92
   size: 35, 34
   orig: 35, 34
   offset: 0, 0
   index: -1
-shirt_M_petaldress_h_wlk_ch_3319_7_2.png
-  rotate: false
-  xy: 599, 93
-  size: 35, 33
-  orig: 35, 33
-  offset: 0, 0
-  index: -1
 shirt_M_petaldress_h_wlk_ch_3319_7_3.png
   rotate: false
-  xy: 747, 94
+  xy: 784, 94
   size: 35, 32
   orig: 35, 32
   offset: 0, 0

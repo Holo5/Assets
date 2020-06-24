@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 Rango_h_std_fx60_1_1_0_0.png
   rotate: false
-  xy: 41, 2
+  xy: 2, 42
   size: 37, 39
   orig: 37, 39
   offset: 0, 0
   index: -1
 Rango_h_std_fx60_1_1_1_0.png
   rotate: false
-  xy: 80, 89
+  xy: 81, 89
   size: 36, 37
   orig: 36, 37
   offset: 0, 0
   index: -1
 Rango_h_std_fx60_1_1_2_0.png
   rotate: false
-  xy: 42, 48
+  xy: 41, 42
   size: 34, 39
   orig: 34, 39
   offset: 0, 0
@@ -34,28 +34,28 @@ Rango_h_std_fx60_1_1_3_0.png
   index: -1
 Rango_h_std_fx60_1_1_4_0.png
   rotate: false
-  xy: 78, 48
+  xy: 77, 46
   size: 34, 39
   orig: 34, 39
   offset: 0, 0
   index: -1
 Rango_h_std_fx60_1_1_5_0.png
   rotate: false
-  xy: 42, 89
+  xy: 42, 3
   size: 36, 37
   orig: 36, 37
   offset: 0, 0
   index: -1
 Rango_h_std_fx60_1_1_6_0.png
   rotate: false
-  xy: 2, 2
+  xy: 42, 87
   size: 37, 39
   orig: 37, 39
   offset: 0, 0
   index: -1
 Rango_h_std_fx60_1_1_7_0.png
   rotate: false
-  xy: 2, 43
+  xy: 2, 2
   size: 38, 38
   orig: 38, 38
   offset: 0, 0

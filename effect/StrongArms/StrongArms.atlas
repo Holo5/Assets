@@ -6,49 +6,49 @@ filter: Nearest,Nearest
 repeat: none
 StrongArms_h_std_fx114_1_1_0_0.png
   rotate: false
-  xy: 17, 2
+  xy: 2, 6
   size: 13, 33
   orig: 13, 33
   offset: 0, 0
   index: -1
+StrongArms_h_std_fx114_1_1_1_0.png
+  rotate: false
+  xy: 2, 154
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
 StrongArms_h_std_fx114_1_1_2_0.png
-  rotate: false
-  xy: 17, 37
-  size: 13, 35
-  orig: 13, 35
-  offset: 0, 0
-  index: -1
-StrongArms_h_std_fx114_1_1_3_0.png
-  rotate: false
-  xy: 18, 112
-  size: 12, 37
-  orig: 12, 37
-  offset: 0, 0
-  index: -1
-StrongArms_h_std_fx114_1_1_4_0.png
   rotate: false
   xy: 2, 41
   size: 13, 35
   orig: 13, 35
   offset: 0, 0
   index: -1
-StrongArms_h_std_fx114_1_1_5_0.png
+StrongArms_h_std_fx114_1_1_3_0.png
   rotate: false
-  xy: 2, 116
-  size: 14, 36
-  orig: 14, 36
+  xy: 18, 190
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+StrongArms_h_std_fx114_1_1_4_0.png
+  rotate: false
+  xy: 17, 37
+  size: 13, 35
+  orig: 13, 35
   offset: 0, 0
   index: -1
 StrongArms_h_std_fx114_1_1_6_0.png
   rotate: false
-  xy: 2, 6
+  xy: 17, 2
   size: 13, 33
   orig: 13, 33
   offset: 0, 0
   index: -1
 StrongArms_h_std_fx114_1_1_7_0.png
   rotate: false
-  xy: 18, 229
+  xy: 18, 112
   size: 12, 37
   orig: 12, 37
   offset: 0, 0
@@ -60,23 +60,16 @@ StrongArms_h_std_fx114_2_1_0_0.png
   orig: 13, 36
   offset: 0, 0
   index: -1
-StrongArms_h_std_fx114_2_1_1_0.png
-  rotate: false
-  xy: 2, 192
-  size: 14, 36
-  orig: 14, 36
-  offset: 0, 0
-  index: -1
 StrongArms_h_std_fx114_2_1_2_0.png
   rotate: false
-  xy: 2, 154
+  xy: 2, 116
   size: 14, 36
   orig: 14, 36
   offset: 0, 0
   index: -1
 StrongArms_h_std_fx114_2_1_3_0.png
   rotate: false
-  xy: 18, 190
+  xy: 18, 229
   size: 12, 37
   orig: 12, 37
   offset: 0, 0
@@ -84,6 +77,13 @@ StrongArms_h_std_fx114_2_1_3_0.png
 StrongArms_h_std_fx114_2_1_4_0.png
   rotate: false
   xy: 2, 230
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+StrongArms_h_std_fx114_2_1_5_0.png
+  rotate: false
+  xy: 2, 192
   size: 14, 36
   orig: 14, 36
   offset: 0, 0

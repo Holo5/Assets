@@ -6,42 +6,35 @@ filter: Nearest,Nearest
 repeat: none
 shirt_U_rainbowstarjumper_h_crr_ls_3360_0_0.png
   rotate: false
-  xy: 27, 3
+  xy: 121, 2
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_crr_ls_3360_2_0.png
   rotate: false
-  xy: 231, 3
+  xy: 717, 15
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_crr_ls_3360_3_0.png
   rotate: false
-  xy: 852, 37
+  xy: 624, 9
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_crr_ls_3360_4_0.png
   rotate: false
-  xy: 623, 35
+  xy: 603, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
-shirt_U_rainbowstarjumper_h_crr_ls_3360_5_0.png
-  rotate: false
-  xy: 137, 2
-  size: 18, 20
-  orig: 18, 20
-  offset: 0, 0
-  index: -1
 shirt_U_rainbowstarjumper_h_crr_ls_3360_6_0.png
   rotate: false
-  xy: 802, 40
+  xy: 758, 40
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
@@ -55,140 +48,147 @@ shirt_U_rainbowstarjumper_h_crr_ls_3360_7_0.png
   index: -1
 shirt_U_rainbowstarjumper_h_crr_rs_3360_0_0.png
   rotate: false
-  xy: 584, 40
+  xy: 703, 40
   size: 18, 22
   orig: 18, 22
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_crr_rs_3360_1_0.png
   rotate: false
-  xy: 157, 2
+  xy: 137, 2
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_crr_rs_3360_2_0.png
   rotate: false
-  xy: 641, 36
+  xy: 621, 36
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_crr_rs_3360_3_0.png
   rotate: false
-  xy: 335, 5
+  xy: 468, 19
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_crr_rs_3360_4_0.png
   rotate: false
-  xy: 219, 2
+  xy: 705, 15
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
+shirt_U_rainbowstarjumper_h_crr_rs_3360_5_0.png
+  rotate: false
+  xy: 157, 2
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
 shirt_U_rainbowstarjumper_h_crr_rs_3360_6_0.png
   rotate: false
-  xy: 199, 2
+  xy: 202, 2
   size: 6, 21
   orig: 6, 21
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_crr_rs_3360_7_0.png
   rotate: false
-  xy: 188, 2
+  xy: 91, 2
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_drk_rs_3360_0_0.png
   rotate: false
-  xy: 79, 2
+  xy: 70, 2
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_drk_rs_3360_1_0.png
   rotate: false
-  xy: 532, 47
+  xy: 512, 47
   size: 25, 15
   orig: 25, 15
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_drk_rs_3360_2_0.png
   rotate: false
-  xy: 559, 45
+  xy: 539, 45
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_drk_rs_3360_3_0.png
   rotate: false
-  xy: 100, 2
+  xy: 102, 2
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_drk_rs_3360_4_0.png
   rotate: false
-  xy: 119, 5
+  xy: 424, 29
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_drk_rs_3360_5_0.png
   rotate: false
-  xy: 504, 47
+  xy: 455, 47
   size: 26, 15
   orig: 26, 15
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_drk_rs_3360_6_0.png
   rotate: false
-  xy: 444, 47
+  xy: 424, 47
   size: 29, 15
   orig: 29, 15
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_drk_rs_3360_7_0.png
   rotate: false
-  xy: 207, 10
+  xy: 210, 10
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_lay_ch_3360_2_0.png
   rotate: false
-  xy: 36, 33
+  xy: 2, 33
   size: 41, 29
   orig: 41, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_lay_ch_3361_2_0.png
   rotate: false
-  xy: 559, 33
+  xy: 747, 2
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_lay_ls_3360_2_0.png
   rotate: false
-  xy: 475, 48
+  xy: 483, 48
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_lay_rs_3360_2_0.png
   rotate: false
-  xy: 2, 2
+  xy: 45, 2
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_sit_ch_3360_0_0.png
   rotate: false
-  xy: 2, 24
+  xy: 45, 24
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
@@ -237,119 +237,119 @@ shirt_U_rainbowstarjumper_h_std_ch_3360_7_0.png
   index: -1
 shirt_U_rainbowstarjumper_h_std_ch_3361_1_0.png
   rotate: false
-  xy: 573, 33
+  xy: 761, 2
   size: 3, 10
   orig: 3, 10
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_ch_3361_2_0.png
   rotate: false
-  xy: 451, 4
+  xy: 188, 2
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_ch_3361_3_0.png
   rotate: false
-  xy: 546, 34
+  xy: 705, 2
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_ls_3360_0_0.png
   rotate: false
-  xy: 504, 21
+  xy: 738, 12
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_ls_3360_1_0.png
   rotate: false
-  xy: 865, 37
+  xy: 564, 9
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_ls_3360_2_0.png
   rotate: false
-  xy: 532, 23
+  xy: 755, 14
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_ls_3360_3_0.png
   rotate: false
-  xy: 964, 33
+  xy: 961, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_ls_3360_7_0.png
   rotate: false
-  xy: 976, 33
+  xy: 973, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_rs_3360_0_0.png
   rotate: false
-  xy: 878, 35
+  xy: 985, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_rs_3360_1_0.png
   rotate: false
-  xy: 322, 7
+  xy: 637, 8
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_rs_3360_2_0.png
   rotate: false
-  xy: 891, 33
+  xy: 852, 33
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_rs_3360_3_0.png
   rotate: false
-  xy: 952, 33
+  xy: 865, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_std_rs_3360_7_0.png
   rotate: false
-  xy: 904, 33
+  xy: 877, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wav_ls_3360_0_0.png
   rotate: false
-  xy: 735, 35
+  xy: 687, 35
   size: 14, 27
   orig: 14, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wav_ls_3360_0_1.png
   rotate: false
-  xy: 604, 35
+  xy: 584, 35
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wav_ls_3360_1_0.png
   rotate: false
-  xy: 836, 39
+  xy: 808, 39
   size: 14, 23
   orig: 14, 23
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wav_ls_3360_1_1.png
   rotate: false
-  xy: 659, 34
+  xy: 639, 34
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
@@ -377,28 +377,28 @@ shirt_U_rainbowstarjumper_h_wav_ls_3360_3_0.png
   index: -1
 shirt_U_rainbowstarjumper_h_wav_ls_3360_3_1.png
   rotate: false
-  xy: 329, 33
+  xy: 349, 33
   size: 18, 29
   orig: 18, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wav_ls_3360_4_0.png
   rotate: false
-  xy: 36, 2
+  xy: 2, 2
   size: 20, 29
   orig: 20, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wav_ls_3360_4_1.png
   rotate: false
-  xy: 349, 33
+  xy: 329, 33
   size: 18, 29
   orig: 18, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wav_ls_3360_5_0.png
   rotate: false
-  xy: 424, 36
+  xy: 564, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
@@ -433,273 +433,273 @@ shirt_U_rainbowstarjumper_h_wav_ls_3360_7_0.png
   index: -1
 shirt_U_rainbowstarjumper_h_wav_ls_3360_7_1.png
   rotate: false
-  xy: 58, 2
+  xy: 24, 2
   size: 19, 29
   orig: 19, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_0_0.png
   rotate: false
-  xy: 279, 9
+  xy: 530, 20
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_0_1.png
   rotate: false
-  xy: 522, 23
+  xy: 728, 15
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_0_2.png
   rotate: false
-  xy: 513, 21
+  xy: 684, 7
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_0_3.png
   rotate: false
-  xy: 469, 20
+  xy: 673, 6
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_1_1.png
   rotate: false
-  xy: 769, 38
+  xy: 741, 38
   size: 15, 24
   orig: 15, 24
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_1_2.png
   rotate: false
-  xy: 456, 20
+  xy: 539, 18
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_2_0.png
   rotate: false
-  xy: 301, 11
+  xy: 747, 14
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_2_1.png
   rotate: false
-  xy: 492, 22
+  xy: 693, 9
   size: 10, 24
   orig: 10, 24
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_2_2.png
   rotate: false
-  xy: 539, 23
+  xy: 762, 16
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_2_3.png
   rotate: false
-  xy: 444, 2
+  xy: 769, 24
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_3_0.png
   rotate: false
-  xy: 1000, 33
+  xy: 949, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_3_1.png
   rotate: false
-  xy: 1012, 33
+  xy: 937, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_3_2.png
   rotate: false
-  xy: 988, 33
+  xy: 925, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_3_3.png
   rotate: false
-  xy: 410, 4
+  xy: 589, 6
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_7_0.png
   rotate: false
-  xy: 254, 2
+  xy: 577, 2
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_7_1.png
   rotate: false
-  xy: 433, 7
+  xy: 662, 4
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_7_2.png
   rotate: false
-  xy: 480, 20
+  xy: 650, 5
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_ls_3360_7_3.png
   rotate: false
-  xy: 444, 18
+  xy: 601, 6
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_0_0.png
   rotate: false
-  xy: 361, 4
+  xy: 481, 18
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_0_1.png
   rotate: false
-  xy: 348, 4
+  xy: 1011, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_0_2.png
   rotate: false
-  xy: 266, 7
+  xy: 998, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_0_3.png
   rotate: false
-  xy: 786, 38
+  xy: 792, 38
   size: 14, 24
   orig: 14, 24
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_1_0.png
   rotate: false
-  xy: 288, 9
+  xy: 455, 21
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_1_1.png
   rotate: false
-  xy: 820, 39
+  xy: 776, 39
   size: 14, 23
   orig: 14, 23
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_1_2.png
   rotate: false
-  xy: 309, 7
+  xy: 442, 21
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_1_3.png
   rotate: false
-  xy: 751, 39
+  xy: 723, 39
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_2_0.png
   rotate: false
-  xy: 707, 33
+  xy: 838, 33
   size: 12, 29
   orig: 12, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_2_1.png
   rotate: false
-  xy: 676, 33
+  xy: 656, 33
   size: 14, 29
   orig: 14, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_2_2.png
   rotate: false
-  xy: 721, 32
+  xy: 824, 32
   size: 12, 30
   orig: 12, 30
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_2_3.png
   rotate: false
-  xy: 692, 33
+  xy: 672, 33
   size: 13, 29
   orig: 13, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_3_0.png
   rotate: false
-  xy: 916, 33
+  xy: 889, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_3_1.png
   rotate: false
-  xy: 374, 4
+  xy: 506, 18
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_3_2.png
   rotate: false
-  xy: 928, 33
+  xy: 913, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_3_3.png
   rotate: false
-  xy: 940, 33
+  xy: 901, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_7_0.png
   rotate: false
-  xy: 242, 2
+  xy: 494, 18
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_7_1.png
   rotate: false
-  xy: 386, 4
+  xy: 552, 16
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_7_2.png
   rotate: false
-  xy: 398, 4
+  xy: 518, 18
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_rainbowstarjumper_h_wlk_rs_3360_7_3.png
   rotate: false
-  xy: 422, 4
+  xy: 613, 6
   size: 9, 27
   orig: 9, 27
   offset: 0, 0

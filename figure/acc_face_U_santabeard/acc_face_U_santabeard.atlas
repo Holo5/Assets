@@ -4,7 +4,7 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_face_U_santabeard_h_lay_fa_2798_2_0.png
+acc_face_U_santabeard_h_lsp_fa_2798_2_0.png
   rotate: false
   xy: 94, 30
   size: 37, 21
@@ -20,7 +20,7 @@ acc_face_U_santabeard_h_spk_fa_2798_0_0.png
   index: -1
 acc_face_U_santabeard_h_spk_fa_2798_1_0.png
   rotate: false
-  xy: 190, 20
+  xy: 163, 20
   size: 25, 31
   orig: 25, 31
   offset: 0, 0
@@ -41,7 +41,7 @@ acc_face_U_santabeard_h_spk_fa_2798_3_0.png
   index: -1
 acc_face_U_santabeard_h_spk_fa_2798_7_0.png
   rotate: false
-  xy: 2, 2
+  xy: 94, 15
   size: 28, 13
   orig: 28, 13
   offset: 0, 0
@@ -55,7 +55,7 @@ acc_face_U_santabeard_h_std_fa_2798_0_0.png
   index: -1
 acc_face_U_santabeard_h_std_fa_2798_1_0.png
   rotate: false
-  xy: 163, 21
+  xy: 190, 21
   size: 25, 30
   orig: 25, 30
   offset: 0, 0
@@ -76,7 +76,7 @@ acc_face_U_santabeard_h_std_fa_2798_3_0.png
   index: -1
 acc_face_U_santabeard_h_std_fa_2798_7_0.png
   rotate: false
-  xy: 94, 15
+  xy: 2, 2
   size: 28, 13
   orig: 28, 13
   offset: 0, 0

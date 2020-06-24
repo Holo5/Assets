@@ -11,7 +11,7 @@ Candle_h_std_fx64_1_1_0_0.png
   orig: 6, 43
   offset: 0, 0
   index: -1
-Candle_h_std_fx64_1_1_2_0.png
+Candle_h_std_fx64_1_1_5_0.png
   rotate: false
   xy: 10, 12
   size: 6, 33
@@ -20,14 +20,14 @@ Candle_h_std_fx64_1_1_2_0.png
   index: -1
 Candle_h_std_fx64_2_1_0_0.png
   rotate: false
-  xy: 78, 47
+  xy: 154, 47
   size: 74, 75
   orig: 74, 75
   offset: 0, 0
   index: -1
 Candle_h_std_fx64_2_1_0_1.png
   rotate: false
-  xy: 154, 47
+  xy: 78, 47
   size: 74, 75
   orig: 74, 75
   offset: 0, 0
@@ -48,14 +48,14 @@ Candle_h_std_fx64_3_1_0_0.png
   index: -1
 Candle_h_std_fx64_3_1_0_1.png
   rotate: false
-  xy: 239, 59
+  xy: 27, 32
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 Candle_h_std_fx64_3_1_0_2.png
   rotate: false
-  xy: 27, 32
+  xy: 239, 59
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
@@ -69,14 +69,14 @@ Candle_h_std_fx64_3_1_0_3.png
   index: -1
 Candle_h_std_fx64_3_1_0_4.png
   rotate: false
-  xy: 18, 32
+  xy: 18, 17
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 Candle_h_std_fx64_3_1_0_5.png
   rotate: false
-  xy: 18, 17
+  xy: 18, 32
   size: 7, 13
   orig: 7, 13
   offset: 0, 0

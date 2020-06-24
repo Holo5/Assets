@@ -20,21 +20,21 @@ SpiderMan_h_std_fx112_1_1_1_0.png
   index: -1
 SpiderMan_h_std_fx112_1_1_2_0.png
   rotate: false
-  xy: 149, 4
+  xy: 120, 4
   size: 27, 31
   orig: 27, 31
   offset: 0, 0
   index: -1
 SpiderMan_h_std_fx112_1_1_3_0.png
   rotate: false
-  xy: 31, 2
+  xy: 2, 2
   size: 27, 33
   orig: 27, 33
   offset: 0, 0
   index: -1
 SpiderMan_h_std_fx112_1_1_4_0.png
   rotate: false
-  xy: 120, 4
+  xy: 149, 4
   size: 27, 31
   orig: 27, 31
   offset: 0, 0
@@ -55,7 +55,7 @@ SpiderMan_h_std_fx112_1_1_6_0.png
   index: -1
 SpiderMan_h_std_fx112_1_1_7_0.png
   rotate: false
-  xy: 2, 2
+  xy: 31, 2
   size: 27, 33
   orig: 27, 33
   offset: 0, 0

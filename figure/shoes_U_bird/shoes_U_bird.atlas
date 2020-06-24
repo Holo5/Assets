@@ -4,37 +4,37 @@ size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shoes_U_bird_h_sit_sh_2590_0_0.png
-  rotate: false
-  xy: 407, 6
-  size: 19, 24
-  orig: 19, 24
-  offset: 0, 0
-  index: -1
-shoes_U_bird_h_sit_sh_2590_2_0.png
-  rotate: false
-  xy: 355, 6
-  size: 24, 24
-  orig: 24, 24
-  offset: 0, 0
-  index: -1
-shoes_U_bird_h_sit_sh_2590_2_0.png
+shoes_U_bird_h_lay_sh_2590_2_0.png
   rotate: false
   xy: 381, 6
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
+shoes_U_bird_h_lay_sh_2590_2_0.png
+  rotate: false
+  xy: 407, 6
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+shoes_U_bird_h_sit_sh_2590_0_0.png
+  rotate: false
+  xy: 433, 6
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
 shoes_U_bird_h_std_sh_2590_0_0.png
   rotate: false
-  xy: 180, 12
+  xy: 240, 12
   size: 28, 18
   orig: 28, 18
   offset: 0, 0
   index: -1
 shoes_U_bird_h_std_sh_2590_1_0.png
   rotate: false
-  xy: 504, 15
+  xy: 454, 15
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
@@ -48,7 +48,7 @@ shoes_U_bird_h_std_sh_2590_2_0.png
   index: -1
 shoes_U_bird_h_std_sh_2590_3_0.png
   rotate: false
-  xy: 554, 16
+  xy: 629, 16
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
@@ -76,21 +76,21 @@ shoes_U_bird_h_wlk_sh_2590_0_1.png
   index: -1
 shoes_U_bird_h_wlk_sh_2590_0_2.png
   rotate: false
-  xy: 210, 13
+  xy: 180, 13
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
 shoes_U_bird_h_wlk_sh_2590_0_3.png
   rotate: false
-  xy: 428, 13
+  xy: 355, 13
   size: 24, 17
   orig: 24, 17
   offset: 0, 0
   index: -1
 shoes_U_bird_h_wlk_sh_2590_1_0.png
   rotate: false
-  xy: 629, 16
+  xy: 554, 16
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
@@ -118,7 +118,7 @@ shoes_U_bird_h_wlk_sh_2590_1_3.png
   index: -1
 shoes_U_bird_h_wlk_sh_2590_2_0.png
   rotate: false
-  xy: 240, 13
+  xy: 210, 13
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
@@ -132,7 +132,7 @@ shoes_U_bird_h_wlk_sh_2590_2_1.png
   index: -1
 shoes_U_bird_h_wlk_sh_2590_2_2.png
   rotate: false
-  xy: 529, 15
+  xy: 479, 15
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
@@ -153,7 +153,7 @@ shoes_U_bird_h_wlk_sh_2590_3_0.png
   index: -1
 shoes_U_bird_h_wlk_sh_2590_3_1.png
   rotate: false
-  xy: 454, 15
+  xy: 504, 15
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
@@ -167,35 +167,35 @@ shoes_U_bird_h_wlk_sh_2590_3_2.png
   index: -1
 shoes_U_bird_h_wlk_sh_2590_3_3.png
   rotate: false
-  xy: 479, 15
+  xy: 529, 15
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
   index: -1
-shoes_U_bird_h_wlk_sh_2590_7_1.png
-  rotate: false
-  xy: 677, 15
-  size: 21, 15
-  orig: 21, 15
-  offset: 0, 0
-  index: -1
-shoes_U_bird_h_wlk_sh_2590_7_2.png
+shoes_U_bird_h_wlk_sh_2590_7_0.png
   rotate: false
   xy: 700, 16
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
-shoes_U_bird_h_wlk_sh_2590_7_2.png
+shoes_U_bird_h_wlk_sh_2590_7_0.png
   rotate: false
   xy: 723, 16
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
-shoes_U_bird_h_wlk_sh_2590_7_3.png
+shoes_U_bird_h_wlk_sh_2590_7_1.png
   rotate: false
   xy: 654, 15
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_bird_h_wlk_sh_2590_7_3.png
+  rotate: false
+  xy: 677, 15
   size: 21, 15
   orig: 21, 15
   offset: 0, 0

@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 acc_head_U_ears_big_h_lay_he_2381_2_0.png
   rotate: false
-  xy: 49, 21
+  xy: 49, 6
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
@@ -20,7 +20,7 @@ acc_head_U_ears_big_h_std_he_2381_0_0.png
   index: -1
 acc_head_U_ears_big_h_std_he_2381_1_0.png
   rotate: false
-  xy: 49, 6
+  xy: 49, 17
   size: 8, 13
   orig: 8, 13
   offset: 0, 0

@@ -6,42 +6,42 @@ filter: Nearest,Nearest
 repeat: none
 acc_eye_U_heromask_h_lay_ea_2138_2_0.png
   rotate: false
-  xy: 2, 3
+  xy: 2, 6
   size: 22, 24
   orig: 22, 24
   offset: 0, 0
   index: -1
 acc_eye_U_heromask_h_std_ea_2138_0_0.png
   rotate: false
-  xy: 26, 14
+  xy: 26, 17
   size: 31, 13
   orig: 31, 13
   offset: 0, 0
   index: -1
 acc_eye_U_heromask_h_std_ea_2138_1_0.png
   rotate: false
-  xy: 89, 16
+  xy: 59, 19
   size: 30, 11
   orig: 30, 11
   offset: 0, 0
   index: -1
 acc_eye_U_heromask_h_std_ea_2138_2_0.png
   rotate: false
-  xy: 59, 12
+  xy: 59, 2
   size: 28, 15
   orig: 28, 15
   offset: 0, 0
   index: -1
 acc_eye_U_heromask_h_std_ea_2138_3_0.png
   rotate: false
-  xy: 89, 2
+  xy: 91, 18
   size: 28, 12
   orig: 28, 12
   offset: 0, 0
   index: -1
 acc_eye_U_heromask_h_std_ea_2138_7_0.png
   rotate: false
-  xy: 26, 2
+  xy: 26, 5
   size: 28, 10
   orig: 28, 10
   offset: 0, 0

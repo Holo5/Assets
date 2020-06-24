@@ -1,2491 +1,1847 @@
 
 hh_human_face.png
-size: 2048,32
+size: 128,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 hh_human_face_h_agr_ey_10_1_0.png
   rotate: false
-  xy: 848, 7
+  xy: 120, 99
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_10_2_0.png
   rotate: false
-  xy: 1140, 21
+  xy: 30, 75
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_10_3_0.png
   rotate: false
-  xy: 210, 17
+  xy: 102, 249
   size: 18, 5
   orig: 18, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_11_1_0.png
   rotate: false
-  xy: 808, 7
+  xy: 120, 107
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_11_2_0.png
   rotate: false
-  xy: 87, 2
+  xy: 16, 64
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_11_3_0.png
   rotate: false
-  xy: 230, 17
+  xy: 76, 241
   size: 18, 5
   orig: 18, 5
   offset: 0, 0
   index: -1
-hh_human_face_h_agr_ey_13_1_0.png
-  rotate: false
-  xy: 912, 17
-  size: 6, 6
-  orig: 6, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_agr_ey_13_2_0.png
-  rotate: false
-  xy: 1695, 21
-  size: 11, 9
-  orig: 11, 9
-  offset: 0, 0
-  index: -1
-hh_human_face_h_agr_ey_13_3_0.png
-  rotate: false
-  xy: 860, 24
-  size: 14, 6
-  orig: 14, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_agr_ey_14_1_0.png
-  rotate: false
-  xy: 873, 15
-  size: 6, 7
-  orig: 6, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_agr_ey_14_2_0.png
-  rotate: false
-  xy: 1266, 20
-  size: 12, 10
-  orig: 12, 10
-  offset: 0, 0
-  index: -1
-hh_human_face_h_agr_ey_14_3_0.png
-  rotate: false
-  xy: 170, 16
-  size: 18, 6
-  orig: 18, 6
-  offset: 0, 0
-  index: -1
 hh_human_face_h_agr_ey_1_1_0.png
   rotate: false
-  xy: 1008, 11
+  xy: 96, 241
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_1_2_0.png
   rotate: false
-  xy: 1822, 21
+  xy: 41, 119
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_1_3_0.png
   rotate: false
-  xy: 422, 2
+  xy: 114, 145
   size: 12, 6
   orig: 12, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_2_1_0.png
   rotate: false
-  xy: 1014, 2
+  xy: 111, 52
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_2_2_0.png
   rotate: false
-  xy: 1084, 21
+  xy: 16, 31
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_2_3_0.png
   rotate: false
-  xy: 636, 23
+  xy: 88, 181
   size: 14, 7
   orig: 14, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_3_1_0.png
   rotate: false
-  xy: 958, 17
+  xy: 98, 40
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_3_2_0.png
   rotate: false
-  xy: 458, 12
+  xy: 16, 143
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_3_3_0.png
   rotate: false
-  xy: 652, 23
+  xy: 72, 191
   size: 14, 7
   orig: 14, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_4_1_0.png
   rotate: false
-  xy: 928, 2
+  xy: 81, 88
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_4_2_0.png
   rotate: false
-  xy: 1873, 22
+  xy: 44, 49
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_4_3_0.png
   rotate: false
-  xy: 534, 26
+  xy: 40, 176
   size: 16, 4
   orig: 16, 4
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_5_1_0.png
   rotate: false
-  xy: 896, 17
+  xy: 104, 151
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_5_2_0.png
   rotate: false
-  xy: 2, 2
+  xy: 58, 210
   size: 13, 9
   orig: 13, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_5_3_0.png
   rotate: false
-  xy: 498, 25
+  xy: 88, 190
   size: 16, 5
   orig: 16, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_6_1_0.png
   rotate: false
-  xy: 1014, 15
+  xy: 118, 64
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_6_2_0.png
   rotate: false
-  xy: 1499, 22
+  xy: 88, 146
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_6_3_0.png
   rotate: false
-  xy: 600, 6
+  xy: 112, 123
   size: 12, 5
   orig: 12, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_7_1_0.png
   rotate: false
-  xy: 994, 2
+  xy: 111, 78
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_7_2_0.png
   rotate: false
-  xy: 463, 2
+  xy: 53, 145
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_7_3_0.png
   rotate: false
-  xy: 604, 25
+  xy: 56, 163
   size: 14, 5
   orig: 14, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_8_1_0.png
   rotate: false
-  xy: 951, 17
+  xy: 98, 64
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_8_2_0.png
   rotate: false
-  xy: 104, 2
+  xy: 42, 221
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_8_3_0.png
   rotate: false
-  xy: 268, 16
+  xy: 40, 198
   size: 16, 6
   orig: 16, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_9_1_0.png
   rotate: false
-  xy: 760, 7
+  xy: 83, 28
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_9_2_0.png
   rotate: false
-  xy: 1112, 21
+  xy: 58, 177
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_ey_9_3_0.png
   rotate: false
-  xy: 370, 25
+  xy: 102, 242
   size: 18, 5
   orig: 18, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_fc_1_1_0.png
   rotate: false
-  xy: 287, 2
+  xy: 30, 177
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_fc_1_2_0.png
   rotate: false
-  xy: 725, 3
+  xy: 81, 119
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_agr_fc_1_3_0.png
   rotate: false
-  xy: 912, 2
+  xy: 102, 92
   size: 6, 5
   orig: 6, 5
-  offset: 0, 0
-  index: -1
-hh_human_face_h_agr_fc_2_1_0.png
-  rotate: false
-  xy: 198, 2
-  size: 8, 12
-  orig: 8, 12
-  offset: 0, 0
-  index: -1
-hh_human_face_h_agr_fc_2_2_0.png
-  rotate: false
-  xy: 670, 2
-  size: 5, 10
-  orig: 5, 10
-  offset: 0, 0
-  index: -1
-hh_human_face_h_agr_fc_2_3_0.png
-  rotate: false
-  xy: 896, 2
-  size: 6, 5
-  orig: 6, 5
-  offset: 0, 0
-  index: -1
-hh_human_face_h_agr_fc_3_1_0.png
-  rotate: false
-  xy: 218, 2
-  size: 8, 13
-  orig: 8, 13
-  offset: 0, 0
-  index: -1
-hh_human_face_h_agr_fc_3_2_0.png
-  rotate: false
-  xy: 684, 2
-  size: 5, 11
-  orig: 5, 11
-  offset: 0, 0
-  index: -1
-hh_human_face_h_agr_fc_3_3_0.png
-  rotate: false
-  xy: 832, 7
-  size: 6, 6
-  orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_blw_fc_1_1_0.png
   rotate: false
-  xy: 481, 12
+  xy: 12, 2
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 hh_human_face_h_blw_fc_1_2_0.png
   rotate: false
-  xy: 325, 2
+  xy: 120, 228
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 hh_human_face_h_blw_fc_1_3_0.png
   rotate: false
-  xy: 667, 14
-  size: 6, 7
-  orig: 6, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_blw_fc_2_2_0.png
-  rotate: false
-  xy: 333, 2
-  size: 6, 12
-  orig: 6, 12
-  offset: 0, 0
-  index: -1
-hh_human_face_h_blw_fc_2_3_0.png
-  rotate: false
-  xy: 777, 15
-  size: 6, 7
-  orig: 6, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_blw_fc_3_2_0.png
-  rotate: false
-  xy: 357, 2
-  size: 6, 12
-  orig: 6, 12
-  offset: 0, 0
-  index: -1
-hh_human_face_h_blw_fc_3_3_0.png
-  rotate: false
-  xy: 865, 15
+  xy: 104, 159
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_10_1_0.png
   rotate: false
-  xy: 784, 7
+  xy: 112, 115
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_10_2_0.png
   rotate: false
-  xy: 31, 2
+  xy: 2, 37
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_10_3_0.png
   rotate: false
-  xy: 104, 15
+  xy: 22, 239
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_11_1_0.png
   rotate: false
-  xy: 881, 16
+  xy: 83, 36
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_11_2_0.png
   rotate: false
-  xy: 1098, 21
+  xy: 58, 199
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_11_3_0.png
   rotate: false
-  xy: 270, 24
+  xy: 22, 215
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
-hh_human_face_h_eyb_ey_13_2_0.png
-  rotate: false
-  xy: 1747, 21
-  size: 11, 9
-  orig: 11, 9
-  offset: 0, 0
-  index: -1
-hh_human_face_h_eyb_ey_13_3_0.png
-  rotate: false
-  xy: 780, 24
-  size: 14, 6
-  orig: 14, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_eyb_ey_14_1_0.png
-  rotate: false
-  xy: 801, 15
-  size: 6, 7
-  orig: 6, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_eyb_ey_14_2_0.png
-  rotate: false
-  xy: 1224, 20
-  size: 12, 10
-  orig: 12, 10
-  offset: 0, 0
-  index: -1
-hh_human_face_h_eyb_ey_14_3_0.png
-  rotate: false
-  xy: 82, 23
-  size: 18, 7
-  orig: 18, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_eyb_ey_1_1_0.png
-  rotate: false
-  xy: 1021, 16
-  size: 5, 4
-  orig: 5, 4
-  offset: 0, 0
-  index: -1
 hh_human_face_h_eyb_ey_1_2_0.png
   rotate: false
-  xy: 1389, 21
+  xy: 115, 217
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_1_3_0.png
   rotate: false
-  xy: 924, 25
+  xy: 88, 174
   size: 14, 5
   orig: 14, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_2_1_0.png
   rotate: false
-  xy: 936, 2
+  xy: 104, 99
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_2_2_0.png
   rotate: false
-  xy: 1760, 21
+  xy: 16, 97
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_2_3_0.png
   rotate: false
-  xy: 716, 24
+  xy: 73, 209
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
   index: -1
+hh_human_face_h_eyb_ey_3_1_0.png
+  rotate: false
+  xy: 97, 104
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
 hh_human_face_h_eyb_ey_3_2_0.png
   rotate: false
-  xy: 1721, 21
+  xy: 16, 108
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_3_3_0.png
   rotate: false
-  xy: 844, 24
+  xy: 46, 11
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_4_1_0.png
   rotate: false
-  xy: 1059, 16
+  xy: 70, 234
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_4_2_0.png
   rotate: false
-  xy: 1977, 22
+  xy: 70, 28
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_4_3_0.png
   rotate: false
-  xy: 620, 20
+  xy: 72, 163
   size: 14, 3
   orig: 14, 3
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_5_1_0.png
   rotate: false
-  xy: 1002, 9
+  xy: 95, 5
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_5_2_0.png
   rotate: false
-  xy: 1321, 21
+  xy: 16, 20
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_5_3_0.png
   rotate: false
-  xy: 390, 25
+  xy: 70, 227
   size: 16, 5
   orig: 16, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_6_1_0.png
   rotate: false
-  xy: 959, 2
+  xy: 118, 92
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_6_2_0.png
   rotate: false
-  xy: 22, 13
+  xy: 74, 217
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_6_3_0.png
   rotate: false
-  xy: 986, 25
+  xy: 88, 129
   size: 12, 5
   orig: 12, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_7_1_0.png
   rotate: false
-  xy: 966, 2
+  xy: 118, 85
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_7_2_0.png
   rotate: false
-  xy: 449, 2
+  xy: 39, 151
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_7_3_0.png
   rotate: false
-  xy: 892, 25
+  xy: 81, 112
   size: 14, 5
   orig: 14, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_8_1_0.png
   rotate: false
-  xy: 965, 17
+  xy: 88, 4
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_8_2_0.png
   rotate: false
-  xy: 522, 2
+  xy: 2, 107
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_8_3_0.png
   rotate: false
-  xy: 286, 16
+  xy: 88, 197
   size: 16, 6
   orig: 16, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_9_1_0.png
   rotate: false
-  xy: 840, 7
+  xy: 112, 99
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_9_2_0.png
   rotate: false
-  xy: 1126, 21
+  xy: 30, 86
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_eyb_ey_9_3_0.png
   rotate: false
-  xy: 310, 24
+  xy: 42, 248
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
-hh_human_face_h_eyeb_ey_13_1_0.png
-  rotate: false
-  xy: 936, 17
-  size: 6, 6
-  orig: 6, 6
-  offset: 0, 0
-  index: -1
 hh_human_face_h_lag_ey_10_2_0.png
   rotate: false
-  xy: 1028, 22
+  xy: 67, 135
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lag_ey_11_2_0.png
   rotate: false
-  xy: 1457, 22
+  xy: 57, 89
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
-hh_human_face_h_lag_ey_13_2_0.png
+hh_human_face_h_lag_ey_2_2_0.png
   rotate: false
-  xy: 73, 2
+  xy: 58, 188
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
-hh_human_face_h_lag_ey_14_2_0.png
-  rotate: false
-  xy: 170, 2
-  size: 12, 12
-  orig: 12, 12
-  offset: 0, 0
-  index: -1
 hh_human_face_h_lag_ey_4_2_0.png
   rotate: false
-  xy: 589, 2
+  xy: 104, 180
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lag_ey_5_2_0.png
   rotate: false
-  xy: 1552, 22
+  xy: 44, 19
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lag_ey_6_2_0.png
   rotate: false
-  xy: 1682, 21
+  xy: 115, 195
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_lag_ey_7_2_0.png
   rotate: false
-  xy: 1402, 21
+  xy: 115, 206
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_lag_ey_8_2_0.png
   rotate: false
-  xy: 1471, 22
+  xy: 30, 33
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lag_fc_1_2_0.png
   rotate: false
-  xy: 624, 2
-  size: 8, 8
-  orig: 8, 8
-  offset: 0, 0
-  index: -1
-hh_human_face_h_lag_fc_3_2_0.png
-  rotate: false
-  xy: 637, 13
+  xy: 34, 13
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lay_ey_10_2_0.png
   rotate: false
-  xy: 1951, 22
+  xy: 70, 58
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lay_ey_11_2_0.png
   rotate: false
-  xy: 1847, 22
+  xy: 44, 89
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
-hh_human_face_h_lay_ey_13_2_0.png
-  rotate: false
-  xy: 491, 2
-  size: 12, 9
-  orig: 12, 9
-  offset: 0, 0
-  index: -1
-hh_human_face_h_lay_ey_14_2_0.png
-  rotate: false
-  xy: 156, 18
-  size: 12, 12
-  orig: 12, 12
-  offset: 0, 0
-  index: -1
 hh_human_face_h_lay_ey_1_2_0.png
   rotate: false
-  xy: 1617, 22
+  xy: 57, 39
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lay_ey_3_2_0.png
   rotate: false
-  xy: 1990, 22
+  xy: 34, 3
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lay_ey_8_2_0.png
   rotate: false
-  xy: 1656, 22
+  xy: 70, 78
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lay_fc_1_2_0.png
   rotate: false
-  xy: 703, 15
-  size: 8, 7
-  orig: 8, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_lay_fc_2_2_0.png
-  rotate: false
-  xy: 693, 15
-  size: 8, 7
-  orig: 8, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_lay_fc_3_2_0.png
-  rotate: false
-  xy: 683, 15
+  xy: 102, 122
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_ley_ey_10_2_0.png
   rotate: false
-  xy: 1925, 22
+  xy: 57, 19
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_ley_ey_11_2_0.png
   rotate: false
-  xy: 1964, 22
+  xy: 70, 48
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_ley_ey_2_2_0.png
   rotate: false
-  xy: 45, 2
+  xy: 2, 15
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
-hh_human_face_h_ley_ey_3_2_0.png
-  rotate: false
-  xy: 1578, 22
-  size: 11, 8
-  orig: 11, 8
-  offset: 0, 0
-  index: -1
 hh_human_face_h_ley_ey_4_2_0.png
   rotate: false
-  xy: 577, 2
+  xy: 102, 131
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
+hh_human_face_h_ley_ey_5_2_0.png
+  rotate: false
+  xy: 44, 59
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
 hh_human_face_h_ley_ey_6_2_0.png
   rotate: false
-  xy: 1834, 22
+  xy: 70, 38
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_ley_ey_7_2_0.png
   rotate: false
-  xy: 1643, 22
+  xy: 115, 175
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_ley_ey_9_2_0.png
   rotate: false
-  xy: 50, 13
+  xy: 115, 185
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsa_ey_10_2_0.png
   rotate: false
-  xy: 1513, 22
+  xy: 44, 69
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsa_ey_11_2_0.png
   rotate: false
-  xy: 1565, 22
+  xy: 68, 115
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
-hh_human_face_h_lsa_ey_13_2_0.png
+hh_human_face_h_lsa_ey_2_2_0.png
   rotate: false
-  xy: 1415, 22
+  xy: 67, 145
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
-hh_human_face_h_lsa_ey_5_2_0.png
-  rotate: false
-  xy: 1526, 22
-  size: 11, 8
-  orig: 11, 8
-  offset: 0, 0
-  index: -1
 hh_human_face_h_lsa_ey_6_2_0.png
   rotate: false
-  xy: 1591, 22
+  xy: 57, 79
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsa_ey_7_2_0.png
   rotate: false
-  xy: 1630, 22
+  xy: 57, 29
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+hh_human_face_h_lsa_ey_9_2_0.png
+  rotate: false
+  xy: 41, 109
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsa_fc_1_2_0.png
   rotate: false
-  xy: 614, 2
-  size: 8, 8
-  orig: 8, 8
-  offset: 0, 0
-  index: -1
-hh_human_face_h_lsa_fc_3_2_0.png
-  rotate: false
-  xy: 634, 2
+  xy: 30, 167
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsm_ey_10_2_0.png
   rotate: false
-  xy: 1886, 22
+  xy: 44, 39
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsm_ey_11_2_0.png
   rotate: false
-  xy: 1912, 22
+  xy: 57, 49
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsm_ey_1_2_0.png
   rotate: false
-  xy: 1669, 22
+  xy: 70, 68
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsm_ey_2_2_0.png
   rotate: false
-  xy: 17, 2
+  xy: 2, 48
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
-hh_human_face_h_lsm_ey_3_2_0.png
+hh_human_face_h_lsm_ey_5_2_0.png
   rotate: false
-  xy: 2002, 22
+  xy: 102, 141
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsm_ey_9_2_0.png
   rotate: false
-  xy: 91, 13
+  xy: 43, 99
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
-hh_human_face_h_lsm_fc_2_2_0.png
+hh_human_face_h_lsm_fc_1_2_0.png
   rotate: false
-  xy: 723, 15
+  xy: 71, 88
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
-hh_human_face_h_lsm_fc_3_2_0.png
+hh_human_face_h_lsp_fc_1_2_0.png
   rotate: false
-  xy: 657, 14
+  xy: 70, 19
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
-hh_human_face_h_lsp_fc_2_2_0.png
+hh_human_face_h_lsp_fc_1_2_1.png
   rotate: false
-  xy: 647, 14
-  size: 8, 7
-  orig: 8, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_lsp_fc_2_2_1.png
-  rotate: false
-  xy: 733, 15
-  size: 7, 7
-  orig: 7, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_lsp_fc_3_2_0.png
-  rotate: false
-  xy: 713, 15
-  size: 8, 7
-  orig: 8, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_lsp_fc_3_2_1.png
-  rotate: false
-  xy: 760, 15
+  xy: 72, 97
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_lsr_ey_10_2_0.png
   rotate: false
-  xy: 1429, 22
+  xy: 88, 119
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsr_ey_11_2_0.png
   rotate: false
-  xy: 1042, 22
+  xy: 88, 136
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
-hh_human_face_h_lsr_ey_14_2_0.png
-  rotate: false
-  xy: 184, 2
-  size: 12, 12
-  orig: 12, 12
-  offset: 0, 0
-  index: -1
 hh_human_face_h_lsr_ey_2_2_0.png
   rotate: false
-  xy: 477, 2
+  xy: 53, 135
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsr_ey_3_2_0.png
   rotate: false
-  xy: 1539, 22
+  xy: 44, 29
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsr_ey_6_2_0.png
   rotate: false
-  xy: 1860, 22
+  xy: 44, 79
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsr_ey_7_2_0.png
   rotate: false
-  xy: 1899, 22
+  xy: 57, 69
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_lsr_ey_8_2_0.png
   rotate: false
-  xy: 1056, 22
+  xy: 54, 115
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
-hh_human_face_h_lsr_fc_2_2_0.png
+hh_human_face_h_lsr_fc_1_2_0.png
   rotate: false
-  xy: 742, 15
-  size: 7, 7
-  orig: 7, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_lsr_fc_3_2_0.png
-  rotate: false
-  xy: 751, 15
+  xy: 72, 106
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_10_1_0.png
   rotate: false
-  xy: 776, 7
+  xy: 80, 4
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_10_2_0.png
   rotate: false
-  xy: 1070, 21
+  xy: 16, 42
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_10_3_0.png
   rotate: false
-  xy: 210, 24
+  xy: 2, 214
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_11_1_0.png
   rotate: false
-  xy: 792, 7
+  xy: 120, 115
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_11_2_0.png
   rotate: false
-  xy: 1154, 21
+  xy: 30, 64
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_11_3_0.png
   rotate: false
-  xy: 230, 24
+  xy: 22, 223
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
-hh_human_face_h_sad_ey_13_1_0.png
-  rotate: false
-  xy: 904, 9
-  size: 6, 6
-  orig: 6, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sad_ey_13_2_0.png
-  rotate: false
-  xy: 1708, 21
-  size: 11, 9
-  orig: 11, 9
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sad_ey_13_3_0.png
-  rotate: false
-  xy: 748, 24
-  size: 14, 6
-  orig: 14, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sad_ey_14_1_0.png
-  rotate: false
-  xy: 841, 15
-  size: 6, 7
-  orig: 6, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sad_ey_14_2_0.png
-  rotate: false
-  xy: 1210, 20
-  size: 12, 10
-  orig: 12, 10
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sad_ey_14_3_0.png
-  rotate: false
-  xy: 102, 23
-  size: 18, 7
-  orig: 18, 7
-  offset: 0, 0
-  index: -1
 hh_human_face_h_sad_ey_1_1_0.png
   rotate: false
-  xy: 998, 17
+  xy: 95, 13
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_1_2_0.png
   rotate: false
-  xy: 1938, 22
+  xy: 81, 95
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_1_3_0.png
   rotate: false
-  xy: 796, 24
+  xy: 40, 168
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_2_1_0.png
   rotate: false
-  xy: 972, 17
+  xy: 88, 12
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_2_2_0.png
   rotate: false
-  xy: 1293, 21
+  xy: 16, 75
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_2_3_0.png
   rotate: false
-  xy: 322, 16
+  xy: 40, 182
   size: 16, 6
   orig: 16, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_3_1_0.png
   rotate: false
-  xy: 987, 2
+  xy: 111, 85
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_3_2_0.png
   rotate: false
-  xy: 1182, 20
+  xy: 16, 169
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_3_3_0.png
   rotate: false
-  xy: 732, 24
+  xy: 72, 174
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_4_1_0.png
   rotate: false
-  xy: 825, 15
+  xy: 83, 70
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_4_2_0.png
   rotate: false
-  xy: 436, 2
+  xy: 59, 2
   size: 11, 7
   orig: 11, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_4_3_0.png
   rotate: false
-  xy: 516, 26
+  xy: 72, 168
   size: 16, 4
   orig: 16, 4
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_5_1_0.png
   rotate: false
-  xy: 875, 6
+  xy: 91, 61
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_5_2_0.png
   rotate: false
-  xy: 1014, 22
+  xy: 53, 125
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_5_3_0.png
   rotate: false
-  xy: 444, 25
+  xy: 97, 213
   size: 16, 5
   orig: 16, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_6_1_0.png
   rotate: false
-  xy: 1014, 8
+  xy: 105, 49
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_6_2_0.png
   rotate: false
-  xy: 77, 13
+  xy: 90, 164
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_6_3_0.png
   rotate: false
-  xy: 1000, 25
+  xy: 114, 130
   size: 12, 5
   orig: 12, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_7_1_0.png
   rotate: false
-  xy: 950, 9
+  xy: 98, 56
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_7_2_0.png
   rotate: false
-  xy: 36, 13
+  xy: 30, 43
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_7_3_0.png
   rotate: false
-  xy: 972, 25
+  xy: 58, 170
   size: 12, 5
   orig: 12, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_8_1_0.png
   rotate: false
-  xy: 943, 9
+  xy: 98, 72
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_8_2_0.png
   rotate: false
-  xy: 1307, 21
+  xy: 16, 53
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_8_3_0.png
   rotate: false
-  xy: 340, 16
+  xy: 97, 220
   size: 16, 6
   orig: 16, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_9_1_0.png
   rotate: false
-  xy: 928, 17
+  xy: 112, 107
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_9_2_0.png
   rotate: false
-  xy: 1349, 21
+  xy: 30, 53
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_ey_9_3_0.png
   rotate: false
-  xy: 350, 24
+  xy: 2, 206
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_fc_1_1_0.png
   rotate: false
-  xy: 316, 2
+  xy: 106, 191
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_fc_1_2_0.png
   rotate: false
-  xy: 677, 2
+  xy: 81, 131
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_sad_fc_1_3_0.png
   rotate: false
-  xy: 904, 2
+  xy: 94, 234
   size: 6, 5
   orig: 6, 5
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sad_fc_2_1_0.png
-  rotate: false
-  xy: 307, 2
-  size: 7, 12
-  orig: 7, 12
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sad_fc_2_2_0.png
-  rotate: false
-  xy: 663, 2
-  size: 5, 10
-  orig: 5, 10
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sad_fc_2_3_0.png
-  rotate: false
-  xy: 944, 2
-  size: 6, 5
-  orig: 6, 5
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sad_fc_3_1_0.png
-  rotate: false
-  xy: 564, 11
-  size: 7, 13
-  orig: 7, 13
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sad_fc_3_2_0.png
-  rotate: false
-  xy: 698, 2
-  size: 5, 11
-  orig: 5, 11
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sad_fc_3_3_0.png
-  rotate: false
-  xy: 920, 9
-  size: 6, 6
-  orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_10_1_0.png
   rotate: false
-  xy: 912, 9
+  xy: 104, 114
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_10_2_0.png
   rotate: false
-  xy: 1196, 20
+  xy: 2, 143
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_10_3_0.png
   rotate: false
-  xy: 290, 24
+  xy: 2, 230
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_11_1_0.png
   rotate: false
-  xy: 904, 17
+  xy: 72, 2
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_11_2_0.png
   rotate: false
-  xy: 1252, 20
+  xy: 2, 71
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_11_3_0.png
   rotate: false
-  xy: 190, 16
+  xy: 56, 240
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
-hh_human_face_h_sml_ey_13_2_0.png
-  rotate: false
-  xy: 1376, 21
-  size: 11, 9
-  orig: 11, 9
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sml_ey_13_3_0.png
-  rotate: false
-  xy: 358, 16
-  size: 14, 6
-  orig: 14, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sml_ey_14_1_0.png
-  rotate: false
-  xy: 785, 15
-  size: 6, 7
-  orig: 6, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sml_ey_14_2_0.png
-  rotate: false
-  xy: 118, 2
-  size: 12, 11
-  orig: 12, 11
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sml_ey_14_3_0.png
-  rotate: false
-  xy: 22, 23
-  size: 18, 7
-  orig: 18, 7
-  offset: 0, 0
-  index: -1
 hh_human_face_h_sml_ey_1_1_0.png
   rotate: false
-  xy: 1008, 4
+  xy: 105, 63
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_1_2_0.png
   rotate: false
-  xy: 1798, 21
+  xy: 29, 119
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_1_3_0.png
   rotate: false
-  xy: 588, 25
+  xy: 42, 214
   size: 14, 5
   orig: 14, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_2_1_0.png
   rotate: false
-  xy: 630, 12
+  xy: 91, 53
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_2_2_0.png
   rotate: false
-  xy: 1810, 21
+  xy: 41, 130
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_2_3_0.png
   rotate: false
-  xy: 684, 24
+  xy: 56, 107
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_3_1_0.png
   rotate: false
-  xy: 980, 2
+  xy: 111, 64
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_3_2_0.png
   rotate: false
-  xy: 1280, 20
+  xy: 16, 131
   size: 11, 10
   orig: 11, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_3_3_0.png
   rotate: false
-  xy: 668, 24
+  xy: 72, 155
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_4_1_0.png
   rotate: false
-  xy: 920, 2
+  xy: 110, 92
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_4_2_0.png
   rotate: false
-  xy: 1485, 22
+  xy: 39, 141
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_4_3_0.png
   rotate: false
-  xy: 552, 26
+  xy: 56, 221
   size: 16, 4
   orig: 16, 4
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_5_1_0.png
   rotate: false
-  xy: 964, 9
+  xy: 98, 48
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_5_2_0.png
   rotate: false
-  xy: 550, 14
+  xy: 16, 181
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_5_3_0.png
   rotate: false
-  xy: 462, 25
+  xy: 102, 235
   size: 16, 5
   orig: 16, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_6_1_0.png
   rotate: false
-  xy: 1041, 15
+  xy: 105, 70
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_6_3_0.png
   rotate: false
-  xy: 956, 25
+  xy: 112, 153
   size: 14, 5
   orig: 14, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_7_1_0.png
   rotate: false
-  xy: 1004, 18
+  xy: 118, 71
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
+hh_human_face_h_sml_ey_7_2_0.png
+  rotate: false
+  xy: 67, 125
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
 hh_human_face_h_sml_ey_7_3_0.png
   rotate: false
-  xy: 940, 25
+  xy: 81, 105
   size: 14, 5
   orig: 14, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_8_1_0.png
   rotate: false
-  xy: 971, 9
+  xy: 94, 21
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_8_2_0.png
   rotate: false
-  xy: 132, 2
+  xy: 2, 193
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_8_3_0.png
   rotate: false
-  xy: 124, 15
+  xy: 40, 206
   size: 16, 6
   orig: 16, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_9_1_0.png
   rotate: false
-  xy: 752, 7
+  xy: 83, 44
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_9_2_0.png
   rotate: false
-  xy: 522, 14
+  xy: 2, 119
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_ey_9_3_0.png
   rotate: false
-  xy: 170, 24
+  xy: 2, 222
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_fc_1_1_0.png
   rotate: false
-  xy: 297, 2
+  xy: 29, 153
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_fc_1_2_0.png
   rotate: false
-  xy: 610, 13
+  xy: 29, 141
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_sml_fc_1_3_0.png
   rotate: false
-  xy: 742, 7
-  size: 8, 6
-  orig: 8, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sml_fc_2_1_0.png
-  rotate: false
-  xy: 277, 2
-  size: 8, 12
-  orig: 8, 12
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sml_fc_2_2_0.png
-  rotate: false
-  xy: 600, 13
-  size: 8, 10
-  orig: 8, 10
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sml_fc_2_3_0.png
-  rotate: false
-  xy: 732, 7
-  size: 8, 6
-  orig: 8, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sml_fc_3_1_0.png
-  rotate: false
-  xy: 228, 2
-  size: 8, 13
-  orig: 8, 13
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sml_fc_3_2_0.png
-  rotate: false
-  xy: 471, 12
-  size: 8, 11
-  orig: 8, 11
-  offset: 0, 0
-  index: -1
-hh_human_face_h_sml_fc_3_3_0.png
-  rotate: false
-  xy: 620, 12
+  xy: 62, 11
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_spk_fc_1_1_0.png
   rotate: false
-  xy: 238, 2
+  xy: 30, 191
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 hh_human_face_h_spk_fc_1_2_0.png
   rotate: false
-  xy: 341, 2
+  xy: 89, 205
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 hh_human_face_h_spk_fc_1_2_1.png
   rotate: false
-  xy: 711, 3
+  xy: 81, 143
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_spk_fc_1_3_0.png
   rotate: false
-  xy: 809, 15
+  xy: 72, 10
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_spk_fc_1_3_1.png
   rotate: false
-  xy: 1035, 15
+  xy: 105, 77
   size: 4, 5
   orig: 4, 5
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_2_1_0.png
-  rotate: false
-  xy: 248, 2
-  size: 8, 13
-  orig: 8, 13
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_2_1_1.png
-  rotate: false
-  xy: 582, 12
-  size: 8, 11
-  orig: 8, 11
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_2_2_0.png
-  rotate: false
-  xy: 349, 2
-  size: 6, 12
-  orig: 6, 12
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_2_2_1.png
-  rotate: false
-  xy: 718, 3
-  size: 5, 10
-  orig: 5, 10
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_2_3_0.png
-  rotate: false
-  xy: 849, 15
-  size: 6, 7
-  orig: 6, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_2_3_1.png
-  rotate: false
-  xy: 1047, 15
-  size: 4, 5
-  orig: 4, 5
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_3_1_0.png
-  rotate: false
-  xy: 146, 2
-  size: 8, 14
-  orig: 8, 14
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_3_1_1.png
-  rotate: false
-  xy: 267, 2
-  size: 8, 12
-  orig: 8, 12
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_3_2_0.png
-  rotate: false
-  xy: 514, 10
-  size: 6, 13
-  orig: 6, 13
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_3_2_1.png
-  rotate: false
-  xy: 691, 2
-  size: 5, 11
-  orig: 5, 11
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_3_3_0.png
-  rotate: false
-  xy: 857, 14
-  size: 6, 8
-  orig: 6, 8
-  offset: 0, 0
-  index: -1
-hh_human_face_h_spk_fc_3_3_1.png
-  rotate: false
-  xy: 996, 9
-  size: 4, 6
-  orig: 4, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_10_1_0.png
   rotate: false
-  xy: 833, 15
+  xy: 83, 61
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_10_2_0.png
   rotate: false
-  xy: 430, 11
+  xy: 56, 227
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_10_3_0.png
   rotate: false
-  xy: 62, 23
+  xy: 2, 247
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_11_1_0.png
   rotate: false
-  xy: 817, 15
+  xy: 83, 79
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_11_2_0.png
   rotate: false
-  xy: 444, 12
+  xy: 2, 167
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_11_3_0.png
   rotate: false
-  xy: 122, 23
+  xy: 22, 247
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
-hh_human_face_h_srp_ey_13_1_0.png
-  rotate: false
-  xy: 928, 9
-  size: 6, 6
-  orig: 6, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_srp_ey_13_2_0.png
-  rotate: false
-  xy: 1363, 21
-  size: 11, 9
-  orig: 11, 9
-  offset: 0, 0
-  index: -1
-hh_human_face_h_srp_ey_13_3_0.png
-  rotate: false
-  xy: 406, 2
-  size: 14, 6
-  orig: 14, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_srp_ey_14_1_0.png
-  rotate: false
-  xy: 675, 14
-  size: 6, 8
-  orig: 6, 8
-  offset: 0, 0
-  index: -1
-hh_human_face_h_srp_ey_14_2_0.png
-  rotate: false
-  xy: 142, 18
-  size: 12, 12
-  orig: 12, 12
-  offset: 0, 0
-  index: -1
-hh_human_face_h_srp_ey_14_3_0.png
-  rotate: false
-  xy: 2, 22
-  size: 18, 8
-  orig: 18, 8
-  offset: 0, 0
-  index: -1
 hh_human_face_h_srp_ey_1_1_0.png
   rotate: false
-  xy: 978, 9
+  xy: 88, 20
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_1_2_0.png
   rotate: false
-  xy: 1786, 20
+  xy: 22, 3
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_1_3_0.png
   rotate: false
-  xy: 700, 24
+  xy: 56, 99
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_2_1_0.png
   rotate: false
-  xy: 868, 6
+  xy: 91, 70
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_2_2_0.png
   rotate: false
-  xy: 536, 2
+  xy: 2, 59
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_2_3_0.png
   rotate: false
-  xy: 374, 16
+  xy: 72, 200
   size: 14, 7
   orig: 14, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_3_1_0.png
   rotate: false
-  xy: 889, 7
+  xy: 91, 45
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_3_2_0.png
   rotate: false
-  xy: 393, 3
+  xy: 16, 156
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_3_3_0.png
   rotate: false
-  xy: 390, 16
+  xy: 72, 182
   size: 14, 7
   orig: 14, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_4_1_0.png
   rotate: false
-  xy: 944, 17
+  xy: 91, 37
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_4_2_0.png
   rotate: false
-  xy: 1604, 22
+  xy: 57, 59
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_4_3_0.png
   rotate: false
-  xy: 480, 25
+  xy: 102, 228
   size: 16, 5
   orig: 16, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_5_1_0.png
   rotate: false
-  xy: 882, 7
+  xy: 97, 110
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_5_2_0.png
   rotate: false
-  xy: 1238, 20
+  xy: 2, 83
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_5_3_0.png
   rotate: false
-  xy: 426, 24
+  xy: 97, 205
   size: 16, 6
   orig: 16, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_6_1_0.png
   rotate: false
-  xy: 984, 9
+  xy: 96, 88
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_6_2_0.png
   rotate: false
-  xy: 1168, 21
+  xy: 2, 26
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_6_3_0.png
   rotate: false
-  xy: 505, 2
+  xy: 114, 137
   size: 12, 6
   orig: 12, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_7_1_0.png
   rotate: false
-  xy: 979, 17
+  xy: 104, 84
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_7_2_0.png
   rotate: false
-  xy: 1335, 21
+  xy: 29, 97
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_7_3_0.png
   rotate: false
-  xy: 828, 24
+  xy: 88, 156
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_8_1_0.png
   rotate: false
-  xy: 889, 15
+  xy: 91, 79
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_8_2_0.png
   rotate: false
-  xy: 156, 4
+  xy: 42, 234
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_8_3_0.png
   rotate: false
-  xy: 408, 23
+  xy: 22, 206
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_9_1_0.png
   rotate: false
-  xy: 769, 15
+  xy: 83, 52
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_9_2_0.png
   rotate: false
-  xy: 365, 3
+  xy: 2, 180
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_ey_9_3_0.png
   rotate: false
-  xy: 2, 13
+  xy: 2, 238
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_fc_1_1_0.png
   rotate: false
-  xy: 573, 12
+  xy: 88, 219
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_fc_1_2_0.png
   rotate: false
-  xy: 856, 2
+  xy: 122, 244
   size: 4, 10
   orig: 4, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_srp_fc_1_3_0.png
   rotate: false
-  xy: 992, 17
-  size: 4, 6
-  orig: 4, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_srp_fc_2_1_0.png
-  rotate: false
-  xy: 258, 2
-  size: 7, 13
-  orig: 7, 13
-  offset: 0, 0
-  index: -1
-hh_human_face_h_srp_fc_2_2_0.png
-  rotate: false
-  xy: 862, 2
-  size: 4, 10
-  orig: 4, 10
-  offset: 0, 0
-  index: -1
-hh_human_face_h_srp_fc_2_3_0.png
-  rotate: false
-  xy: 990, 9
-  size: 4, 6
-  orig: 4, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_srp_fc_3_1_0.png
-  rotate: false
-  xy: 505, 10
-  size: 7, 13
-  orig: 7, 13
-  offset: 0, 0
-  index: -1
-hh_human_face_h_srp_fc_3_2_0.png
-  rotate: false
-  xy: 705, 2
-  size: 4, 11
-  orig: 4, 11
-  offset: 0, 0
-  index: -1
-hh_human_face_h_srp_fc_3_3_0.png
-  rotate: false
-  xy: 986, 17
+  xy: 98, 80
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_10_1_0.png
   rotate: false
-  xy: 768, 7
+  xy: 80, 12
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_10_2_0.png
   rotate: false
-  xy: 491, 13
+  xy: 2, 131
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_10_3_0.png
   rotate: false
-  xy: 190, 24
+  xy: 62, 248
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_11_1_0.png
   rotate: false
-  xy: 800, 7
+  xy: 104, 106
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_11_2_0.png
   rotate: false
-  xy: 536, 14
+  xy: 2, 95
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_11_3_0.png
   rotate: false
-  xy: 250, 24
+  xy: 82, 248
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
-hh_human_face_h_std_ey_13_1_0.png
-  rotate: false
-  xy: 896, 9
-  size: 6, 6
-  orig: 6, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_std_ey_13_2_0.png
-  rotate: false
-  xy: 1734, 21
-  size: 11, 9
-  orig: 11, 9
-  offset: 0, 0
-  index: -1
-hh_human_face_h_std_ey_13_3_0.png
-  rotate: false
-  xy: 764, 24
-  size: 14, 6
-  orig: 14, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_std_ey_14_1_0.png
-  rotate: false
-  xy: 793, 15
-  size: 6, 7
-  orig: 6, 7
-  offset: 0, 0
-  index: -1
-hh_human_face_h_std_ey_14_2_0.png
-  rotate: false
-  xy: 379, 3
-  size: 12, 11
-  orig: 12, 11
-  offset: 0, 0
-  index: -1
-hh_human_face_h_std_ey_14_3_0.png
-  rotate: false
-  xy: 42, 23
-  size: 18, 7
-  orig: 18, 7
-  offset: 0, 0
-  index: -1
 hh_human_face_h_std_ey_1_1_0.png
   rotate: false
-  xy: 1053, 15
+  xy: 105, 56
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_1_2_0.png
   rotate: false
-  xy: 2026, 21
+  xy: 29, 108
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_2_2_0.png
   rotate: false
-  xy: 2014, 21
+  xy: 29, 130
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_2_3_0.png
   rotate: false
-  xy: 876, 24
+  xy: 112, 167
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_3_1_0.png
   rotate: false
-  xy: 1001, 2
+  xy: 111, 71
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_3_2_0.png
   rotate: false
-  xy: 1773, 20
+  xy: 16, 119
   size: 11, 10
   orig: 11, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_3_3_0.png
   rotate: false
-  xy: 812, 24
+  xy: 56, 155
   size: 14, 6
   orig: 14, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_4_1_0.png
   rotate: false
-  xy: 1028, 16
+  xy: 111, 58
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_4_2_0.png
   rotate: false
-  xy: 564, 2
+  xy: 46, 2
   size: 11, 7
   orig: 11, 7
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_4_3_0.png
   rotate: false
-  xy: 570, 27
+  xy: 16, 15
   size: 16, 3
   orig: 16, 3
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_5_1_0.png
   rotate: false
-  xy: 936, 9
+  xy: 91, 29
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_5_2_0.png
   rotate: false
-  xy: 59, 2
+  xy: 16, 86
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_5_3_0.png
   rotate: false
-  xy: 250, 17
+  xy: 76, 234
   size: 16, 5
   orig: 16, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_6_1_0.png
   rotate: false
-  xy: 952, 2
+  xy: 89, 88
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_6_2_0.png
   rotate: false
-  xy: 63, 13
+  xy: 30, 23
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_6_3_0.png
   rotate: false
-  xy: 908, 25
+  xy: 112, 160
   size: 14, 5
   orig: 14, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_7_1_0.png
   rotate: false
-  xy: 973, 2
+  xy: 118, 78
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
-hh_human_face_h_std_ey_7_2_0.png
-  rotate: false
-  xy: 1443, 22
-  size: 12, 8
-  orig: 12, 8
-  offset: 0, 0
-  index: -1
 hh_human_face_h_std_ey_7_3_0.png
   rotate: false
-  xy: 620, 25
+  xy: 40, 161
   size: 14, 5
   orig: 14, 5
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_8_1_0.png
   rotate: false
-  xy: 957, 9
+  xy: 98, 32
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_8_2_0.png
   rotate: false
-  xy: 406, 10
+  xy: 16, 193
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_8_3_0.png
   rotate: false
-  xy: 304, 16
+  xy: 40, 190
   size: 16, 6
   orig: 16, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_9_1_0.png
   rotate: false
-  xy: 920, 17
+  xy: 80, 20
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_9_2_0.png
   rotate: false
-  xy: 550, 2
+  xy: 2, 155
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_std_ey_9_3_0.png
   rotate: false
-  xy: 330, 24
+  xy: 22, 231
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 hh_human_face_h_std_fc_1_1_0.png
   rotate: false
-  xy: 420, 10
+  xy: 2, 2
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 hh_human_face_h_std_fc_1_2_0.png
   rotate: false
-  xy: 655, 2
+  xy: 104, 168
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 hh_human_face_h_std_fc_1_3_0.png
   rotate: false
-  xy: 824, 7
+  xy: 94, 96
   size: 6, 6
   orig: 6, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_std_fc_2_1_0.png
-  rotate: false
-  xy: 2038, 19
-  size: 8, 11
-  orig: 8, 11
-  offset: 0, 0
-  index: -1
-hh_human_face_h_std_fc_2_2_0.png
-  rotate: false
-  xy: 647, 2
-  size: 6, 10
-  orig: 6, 10
-  offset: 0, 0
-  index: -1
-hh_human_face_h_std_fc_2_3_0.png
-  rotate: false
-  xy: 816, 7
-  size: 6, 6
-  orig: 6, 6
-  offset: 0, 0
-  index: -1
-hh_human_face_h_std_fc_3_1_0.png
-  rotate: false
-  xy: 208, 2
-  size: 8, 12
-  orig: 8, 12
-  offset: 0, 0
-  index: -1
-hh_human_face_h_std_fc_3_2_0.png
-  rotate: false
-  xy: 592, 12
-  size: 6, 11
-  orig: 6, 11
   offset: 0, 0
   index: -1

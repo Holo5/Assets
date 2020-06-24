@@ -6,42 +6,42 @@ filter: Nearest,Nearest
 repeat: none
 IceSkatingboys_h_std_fx38_1_1_0_0.png
   rotate: false
-  xy: 244, 4
+  xy: 302, 4
   size: 26, 25
   orig: 26, 25
   offset: 0, 0
   index: -1
 IceSkatingboys_h_std_fx38_1_1_1_0.png
   rotate: false
-  xy: 510, 11
+  xy: 465, 11
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
   index: -1
 IceSkatingboys_h_std_fx38_1_1_2_0.png
   rotate: false
-  xy: 272, 3
+  xy: 274, 3
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
 IceSkatingboys_h_std_fx38_1_1_3_0.png
   rotate: false
-  xy: 534, 10
+  xy: 556, 10
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 IceSkatingboys_h_std_fx38_1_1_7_0.png
   rotate: false
-  xy: 600, 12
+  xy: 623, 12
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_0_0.png
   rotate: false
-  xy: 440, 2
+  xy: 382, 2
   size: 23, 27
   orig: 23, 27
   offset: 0, 0
@@ -55,21 +55,21 @@ IceSkatingboys_h_wlk_fx38_1_1_0_1.png
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_0_2.png
   rotate: false
-  xy: 300, 7
+  xy: 216, 7
   size: 28, 22
   orig: 28, 22
   offset: 0, 0
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_0_3.png
   rotate: false
-  xy: 216, 4
+  xy: 246, 4
   size: 26, 25
   orig: 26, 25
   offset: 0, 0
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_1_0.png
   rotate: false
-  xy: 330, 11
+  xy: 407, 11
   size: 29, 18
   orig: 29, 18
   offset: 0, 0
@@ -83,7 +83,7 @@ IceSkatingboys_h_wlk_fx38_1_1_1_1.png
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_1_2.png
   rotate: false
-  xy: 361, 11
+  xy: 438, 11
   size: 25, 18
   orig: 25, 18
   offset: 0, 0
@@ -104,14 +104,14 @@ IceSkatingboys_h_wlk_fx38_1_1_2_0.png
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_2_1.png
   rotate: false
-  xy: 414, 3
+  xy: 330, 3
   size: 24, 26
   orig: 24, 26
   offset: 0, 0
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_2_2.png
   rotate: false
-  xy: 388, 3
+  xy: 356, 3
   size: 24, 26
   orig: 24, 26
   offset: 0, 0
@@ -125,56 +125,56 @@ IceSkatingboys_h_wlk_fx38_1_1_2_3.png
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_3_0.png
   rotate: false
-  xy: 488, 8
+  xy: 512, 8
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_3_1.png
   rotate: false
-  xy: 557, 9
+  xy: 534, 9
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_3_2.png
   rotate: false
-  xy: 465, 8
+  xy: 489, 8
   size: 21, 21
   orig: 21, 21
   offset: 0, 0
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_3_3.png
   rotate: false
-  xy: 579, 9
+  xy: 646, 9
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_7_0.png
   rotate: false
-  xy: 623, 11
+  xy: 601, 11
   size: 20, 18
   orig: 20, 18
   offset: 0, 0
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_7_1.png
   rotate: false
-  xy: 667, 11
+  xy: 686, 11
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_7_2.png
   rotate: false
-  xy: 645, 11
+  xy: 579, 11
   size: 20, 18
   orig: 20, 18
   offset: 0, 0
   index: -1
 IceSkatingboys_h_wlk_fx38_1_1_7_3.png
   rotate: false
-  xy: 686, 11
+  xy: 667, 11
   size: 17, 18
   orig: 17, 18
   offset: 0, 0

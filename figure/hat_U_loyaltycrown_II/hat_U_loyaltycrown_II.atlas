@@ -4,7 +4,7 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hat_U_loyaltycrown_II_h_lsp_ha_3118_2_0.png
+hat_U_loyaltycrown_II_h_lay_ha_3118_2_0.png
   rotate: false
   xy: 2, 10
   size: 40, 31
@@ -18,7 +18,7 @@ hat_U_loyaltycrown_II_h_spk_ha_3118_1_0.png
   orig: 31, 38
   offset: 0, 0
   index: -1
-hat_U_loyaltycrown_II_h_std_ha_3118_3_0.png
+hat_U_loyaltycrown_II_h_spk_ha_3118_7_0.png
   rotate: false
   xy: 44, 2
   size: 31, 39

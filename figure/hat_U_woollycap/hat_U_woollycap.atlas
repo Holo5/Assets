@@ -20,16 +20,9 @@ hat_U_woollycap_h_lay_ha_2257_2_0.png
   index: -1
 hat_U_woollycap_h_spk_ha_2256_0_0.png
   rotate: false
-  xy: 2, 33
+  xy: 2, 2
   size: 31, 29
   orig: 31, 29
-  offset: 0, 0
-  index: -1
-hat_U_woollycap_h_spk_ha_2256_1_0.png
-  rotate: false
-  xy: 35, 34
-  size: 31, 28
-  orig: 31, 28
   offset: 0, 0
   index: -1
 hat_U_woollycap_h_spk_ha_2256_2_0.png
@@ -37,6 +30,20 @@ hat_U_woollycap_h_spk_ha_2256_2_0.png
   xy: 35, 3
   size: 30, 29
   orig: 30, 29
+  offset: 0, 0
+  index: -1
+hat_U_woollycap_h_spk_ha_2256_7_0.png
+  rotate: false
+  xy: 67, 4
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+hat_U_woollycap_h_spk_ha_2257_0_0.png
+  rotate: false
+  xy: 187, 48
+  size: 28, 14
+  orig: 28, 14
   offset: 0, 0
   index: -1
 hat_U_woollycap_h_spk_ha_2257_1_0.png
@@ -62,9 +69,16 @@ hat_U_woollycap_h_spk_ha_2257_3_0.png
   index: -1
 hat_U_woollycap_h_std_ha_2256_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 33
   size: 31, 29
   orig: 31, 29
+  offset: 0, 0
+  index: -1
+hat_U_woollycap_h_std_ha_2256_1_0.png
+  rotate: false
+  xy: 35, 34
+  size: 31, 28
+  orig: 31, 28
   offset: 0, 0
   index: -1
 hat_U_woollycap_h_std_ha_2256_2_0.png
@@ -79,20 +93,6 @@ hat_U_woollycap_h_std_ha_2256_3_0.png
   xy: 100, 37
   size: 28, 25
   orig: 28, 25
-  offset: 0, 0
-  index: -1
-hat_U_woollycap_h_std_ha_2256_7_0.png
-  rotate: false
-  xy: 67, 4
-  size: 28, 28
-  orig: 28, 28
-  offset: 0, 0
-  index: -1
-hat_U_woollycap_h_std_ha_2257_0_0.png
-  rotate: false
-  xy: 187, 48
-  size: 28, 14
-  orig: 28, 14
   offset: 0, 0
   index: -1
 hat_U_woollycap_h_std_ha_2257_7_0.png

@@ -4,7 +4,7 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-Torch_h_std_fx5_1_1_1_0.png
+Torch_h_std_fx5_1_1_0_0.png
   rotate: false
   xy: 244, 86
   size: 7, 20
@@ -34,7 +34,7 @@ Torch_h_std_fx5_1_1_4_0.png
   index: -1
 Torch_h_std_fx5_2_1_0_0.png
   rotate: false
-  xy: 2, 31
+  xy: 154, 31
   size: 74, 75
   orig: 74, 75
   offset: 0, 0
@@ -48,7 +48,7 @@ Torch_h_std_fx5_2_1_0_1.png
   index: -1
 Torch_h_std_fx5_2_1_0_2.png
   rotate: false
-  xy: 154, 31
+  xy: 2, 31
   size: 74, 75
   orig: 74, 75
   offset: 0, 0
@@ -97,7 +97,7 @@ Torch_h_std_fx5_3_1_0_5.png
   index: -1
 Torch_h_std_fx5_4_1_0_0.png
   rotate: false
-  xy: 94, 10
+  xy: 81, 10
   size: 11, 19
   orig: 11, 19
   offset: 0, 0
@@ -111,7 +111,7 @@ Torch_h_std_fx5_4_1_0_1.png
   index: -1
 Torch_h_std_fx5_4_1_0_2.png
   rotate: false
-  xy: 81, 10
+  xy: 94, 10
   size: 11, 19
   orig: 11, 19
   offset: 0, 0

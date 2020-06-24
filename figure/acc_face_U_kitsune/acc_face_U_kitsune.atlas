@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 acc_face_U_kitsune_h_lay_fa_3202_2_0.png
   rotate: false
-  xy: 76, 9
+  xy: 112, 9
   size: 38, 33
   orig: 38, 33
   offset: 0, 0
   index: -1
 acc_face_U_kitsune_h_std_fa_3202_0_0.png
   rotate: false
-  xy: 116, 4
+  xy: 37, 4
   size: 34, 38
   orig: 34, 38
   offset: 0, 0
   index: -1
 acc_face_U_kitsune_h_std_fa_3202_1_0.png
   rotate: false
-  xy: 37, 7
+  xy: 73, 7
   size: 37, 35
   orig: 37, 35
   offset: 0, 0

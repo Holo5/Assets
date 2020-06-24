@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 hh_human_acc_head_h_lay_he_10_2_0.png
   rotate: false
-  xy: 367, 2
+  xy: 414, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
@@ -20,35 +20,28 @@ hh_human_acc_head_h_lay_he_1_2_0.png
   index: -1
 hh_human_acc_head_h_lay_he_2_2_0.png
   rotate: false
-  xy: 573, 15
-  size: 15, 15
-  orig: 15, 15
-  offset: 0, 0
-  index: -1
-hh_human_acc_head_h_lay_he_3_2_0.png
-  rotate: false
-  xy: 556, 15
+  xy: 581, 2
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_lay_he_4_2_0.png
   rotate: false
-  xy: 523, 14
+  xy: 649, 14
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_lay_he_5_2_0.png
   rotate: false
-  xy: 448, 2
+  xy: 472, 2
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_lay_he_6_2_0.png
   rotate: false
-  xy: 469, 15
+  xy: 493, 15
   size: 17, 15
   orig: 17, 15
   offset: 0, 0
@@ -62,35 +55,35 @@ hh_human_acc_head_h_lay_he_7_2_0.png
   index: -1
 hh_human_acc_head_h_lay_he_9_2_0.png
   rotate: false
-  xy: 348, 2
+  xy: 433, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_10_0_0.png
   rotate: false
-  xy: 688, 17
+  xy: 261, 3
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_10_1_0.png
   rotate: false
-  xy: 463, 2
+  xy: 602, 19
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_10_2_0.png
   rotate: false
-  xy: 448, 17
+  xy: 472, 17
   size: 19, 13
   orig: 19, 13
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_10_3_0.png
   rotate: false
-  xy: 324, 19
+  xy: 348, 19
   size: 22, 11
   orig: 22, 11
   offset: 0, 0
@@ -111,63 +104,70 @@ hh_human_acc_head_h_std_he_1_1_0.png
   index: -1
 hh_human_acc_head_h_std_he_1_2_0.png
   rotate: false
-  xy: 386, 8
+  xy: 394, 8
   size: 18, 22
   orig: 18, 22
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_1_3_0.png
   rotate: false
-  xy: 734, 7
+  xy: 695, 7
   size: 6, 23
   orig: 6, 23
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_1_7_0.png
   rotate: false
-  xy: 726, 7
+  xy: 703, 7
   size: 6, 23
   orig: 6, 23
   offset: 0, 0
   index: -1
-hh_human_acc_head_h_std_he_2_0_0.png
+hh_human_acc_head_h_std_he_2_1_0.png
   rotate: false
-  xy: 675, 15
+  xy: 682, 15
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_2_2_0.png
   rotate: false
-  xy: 641, 15
+  xy: 665, 15
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_2_3_0.png
   rotate: false
-  xy: 539, 15
+  xy: 564, 15
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_3_0_0.png
   rotate: false
-  xy: 590, 15
+  xy: 598, 2
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_3_1_0.png
   rotate: false
-  xy: 607, 15
+  xy: 530, 15
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_3_2_0.png
   rotate: false
-  xy: 624, 15
+  xy: 615, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hh_human_acc_head_h_std_he_3_3_0.png
+  rotate: false
+  xy: 547, 15
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
@@ -188,7 +188,7 @@ hh_human_acc_head_h_std_he_4_1_0.png
   index: -1
 hh_human_acc_head_h_std_he_4_2_0.png
   rotate: false
-  xy: 506, 13
+  xy: 632, 13
   size: 15, 17
   orig: 15, 17
   offset: 0, 0
@@ -209,28 +209,28 @@ hh_human_acc_head_h_std_he_4_7_0.png
   index: -1
 hh_human_acc_head_h_std_he_6_1_0.png
   rotate: false
-  xy: 718, 17
+  xy: 711, 17
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_6_2_0.png
   rotate: false
-  xy: 428, 14
+  xy: 452, 14
   size: 18, 16
   orig: 18, 16
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_6_3_0.png
   rotate: false
-  xy: 406, 2
+  xy: 581, 19
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_7_0_0.png
   rotate: false
-  xy: 658, 18
+  xy: 244, 4
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
@@ -258,19 +258,19 @@ hh_human_acc_head_h_std_he_7_3_0.png
   index: -1
 hh_human_acc_head_h_std_he_7_7_0.png
   rotate: false
-  xy: 699, 18
+  xy: 272, 4
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
-hh_human_acc_head_h_std_he_8_2_0.png
+hh_human_acc_head_h_std_he_8_0_0.png
   rotate: false
   xy: 128, 5
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
-hh_human_acc_head_h_std_he_8_7_0.png
+hh_human_acc_head_h_std_he_8_3_0.png
   rotate: false
   xy: 296, 23
   size: 26, 7
@@ -279,21 +279,21 @@ hh_human_acc_head_h_std_he_8_7_0.png
   index: -1
 hh_human_acc_head_h_std_he_9_0_0.png
   rotate: false
-  xy: 406, 15
+  xy: 372, 15
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_9_1_0.png
   rotate: false
-  xy: 709, 18
+  xy: 282, 4
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 hh_human_acc_head_h_std_he_9_2_0.png
   rotate: false
-  xy: 488, 15
+  xy: 512, 15
   size: 16, 15
   orig: 16, 15
   offset: 0, 0
@@ -307,7 +307,7 @@ hh_human_acc_head_h_std_he_9_3_0.png
   index: -1
 hh_human_acc_head_h_std_he_9_7_0.png
   rotate: false
-  xy: 348, 21
+  xy: 324, 21
   size: 22, 9
   orig: 22, 9
   offset: 0, 0

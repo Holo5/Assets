@@ -4,32 +4,11 @@ size: 256,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_eye_U_gold6_h_lsp_ea_3096_2_0.png
+acc_eye_U_gold6_h_lay_ea_3096_2_0.png
   rotate: false
   xy: 115, 11
   size: 24, 19
   orig: 24, 19
-  offset: 0, 0
-  index: -1
-acc_eye_U_gold6_h_spk_ea_3096_2_0.png
-  rotate: false
-  xy: 87, 15
-  size: 26, 15
-  orig: 26, 15
-  offset: 0, 0
-  index: -1
-acc_eye_U_gold6_h_spk_ea_3096_3_0.png
-  rotate: false
-  xy: 2, 5
-  size: 26, 11
-  orig: 26, 11
-  offset: 0, 0
-  index: -1
-acc_eye_U_gold6_h_spk_ea_3097_2_0.png
-  rotate: false
-  xy: 30, 9
-  size: 7, 7
-  orig: 7, 7
   offset: 0, 0
   index: -1
 acc_eye_U_gold6_h_std_ea_3096_0_0.png
@@ -44,6 +23,27 @@ acc_eye_U_gold6_h_std_ea_3096_1_0.png
   xy: 2, 18
   size: 83, 12
   orig: 83, 12
+  offset: 0, 0
+  index: -1
+acc_eye_U_gold6_h_std_ea_3096_2_0.png
+  rotate: false
+  xy: 87, 15
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+acc_eye_U_gold6_h_std_ea_3096_3_0.png
+  rotate: false
+  xy: 2, 5
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+acc_eye_U_gold6_h_std_ea_3097_2_0.png
+  rotate: false
+  xy: 30, 9
+  size: 7, 7
+  orig: 7, 7
   offset: 0, 0
   index: -1
 acc_eye_U_gold6_h_std_ea_3097_7_0.png

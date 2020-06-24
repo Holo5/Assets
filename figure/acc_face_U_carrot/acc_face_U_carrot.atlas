@@ -4,7 +4,7 @@ size: 128,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_face_U_carrot_h_lsp_fa_2239_2_0.png
+acc_face_U_carrot_h_lay_fa_2239_2_0.png
   rotate: false
   xy: 98, 11
   size: 8, 14
@@ -18,32 +18,32 @@ acc_face_U_carrot_h_spk_fa_2239_0_0.png
   orig: 76, 9
   offset: 0, 0
   index: -1
-acc_face_U_carrot_h_spk_fa_2239_1_0.png
+acc_face_U_carrot_h_std_fa_2239_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 76, 9
+  orig: 76, 9
+  offset: 0, 0
+  index: -1
+acc_face_U_carrot_h_std_fa_2239_1_0.png
   rotate: false
   xy: 80, 6
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
   index: -1
-acc_face_U_carrot_h_spk_fa_2239_2_0.png
+acc_face_U_carrot_h_std_fa_2239_2_0.png
   rotate: false
   xy: 80, 15
   size: 16, 10
   orig: 16, 10
   offset: 0, 0
   index: -1
-acc_face_U_carrot_h_spk_fa_2239_3_0.png
+acc_face_U_carrot_h_std_fa_2239_3_0.png
   rotate: false
   xy: 108, 17
   size: 8, 8
   orig: 8, 8
-  offset: 0, 0
-  index: -1
-acc_face_U_carrot_h_std_fa_2239_0_0.png
-  rotate: false
-  xy: 2, 5
-  size: 76, 9
-  orig: 76, 9
   offset: 0, 0
   index: -1
 acc_face_U_carrot_h_std_fa_2239_7_0.png

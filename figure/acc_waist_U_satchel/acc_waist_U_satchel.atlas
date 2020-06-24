@@ -13,14 +13,14 @@ acc_waist_U_satchel_h_lay_wa_3129_2_0.png
   index: -1
 acc_waist_U_satchel_h_lay_wa_3130_2_0.png
   rotate: false
-  xy: 155, 39
+  xy: 155, 27
   size: 7, 18
   orig: 7, 18
   offset: 0, 0
   index: -1
 acc_waist_U_satchel_h_std_wa_3129_0_0.png
   rotate: false
-  xy: 30, 15
+  xy: 2, 15
   size: 26, 42
   orig: 26, 42
   offset: 0, 0
@@ -34,7 +34,7 @@ acc_waist_U_satchel_h_std_wa_3129_1_0.png
   index: -1
 acc_waist_U_satchel_h_std_wa_3129_2_0.png
   rotate: false
-  xy: 2, 15
+  xy: 30, 15
   size: 26, 42
   orig: 26, 42
   offset: 0, 0
@@ -55,7 +55,7 @@ acc_waist_U_satchel_h_std_wa_3129_7_0.png
   index: -1
 acc_waist_U_satchel_h_std_wa_3130_0_0.png
   rotate: false
-  xy: 164, 49
+  xy: 25, 5
   size: 15, 8
   orig: 15, 8
   offset: 0, 0
@@ -69,21 +69,21 @@ acc_waist_U_satchel_h_std_wa_3130_1_0.png
   index: -1
 acc_waist_U_satchel_h_std_wa_3130_2_0.png
   rotate: false
-  xy: 25, 3
+  xy: 155, 47
   size: 15, 10
   orig: 15, 10
   offset: 0, 0
   index: -1
 acc_waist_U_satchel_h_std_wa_3130_3_0.png
   rotate: false
-  xy: 155, 28
+  xy: 172, 48
   size: 8, 9
   orig: 8, 9
   offset: 0, 0
   index: -1
 acc_waist_U_satchel_h_std_wa_3130_7_0.png
   rotate: false
-  xy: 42, 4
+  xy: 182, 48
   size: 8, 9
   orig: 8, 9
   offset: 0, 0

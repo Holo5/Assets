@@ -4,32 +4,32 @@ size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hair_U_runway_h_lay_hr_2154_2_0.png
+hair_U_runway_h_lay_hr_2155_2_0.png
   rotate: false
-  xy: 228, 31
-  size: 35, 31
-  orig: 35, 31
-  offset: 0, 0
-  index: -1
-hair_U_runway_h_lay_hrb_2154_2_0.png
-  rotate: false
-  xy: 265, 31
-  size: 35, 31
-  orig: 35, 31
-  offset: 0, 0
-  index: -1
-hair_U_runway_h_lsp_hr_2155_2_0.png
-  rotate: false
-  xy: 988, 42
+  xy: 958, 42
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
-hair_U_runway_h_lsp_hrb_2155_2_0.png
+hair_U_runway_h_lay_hrb_2155_2_0.png
   rotate: false
-  xy: 208, 7
+  xy: 982, 42
   size: 22, 20
   orig: 22, 20
+  offset: 0, 0
+  index: -1
+hair_U_runway_h_lsp_hr_2154_2_0.png
+  rotate: false
+  xy: 298, 31
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+hair_U_runway_h_lsp_hrb_2154_2_0.png
+  rotate: false
+  xy: 335, 31
+  size: 35, 31
+  orig: 35, 31
   offset: 0, 0
   index: -1
 hair_U_runway_h_spk_hr_2154_0_0.png
@@ -37,13 +37,6 @@ hair_U_runway_h_spk_hr_2154_0_0.png
   xy: 615, 30
   size: 31, 32
   orig: 31, 32
-  offset: 0, 0
-  index: -1
-hair_U_runway_h_spk_hr_2154_1_0.png
-  rotate: false
-  xy: 78, 28
-  size: 35, 34
-  orig: 35, 34
   offset: 0, 0
   index: -1
 hair_U_runway_h_spk_hr_2154_2_0.png
@@ -55,28 +48,28 @@ hair_U_runway_h_spk_hr_2154_2_0.png
   index: -1
 hair_U_runway_h_spk_hr_2154_3_0.png
   rotate: false
-  xy: 337, 30
+  xy: 477, 30
   size: 33, 32
   orig: 33, 32
   offset: 0, 0
   index: -1
 hair_U_runway_h_spk_hr_2154_7_0.png
   rotate: false
-  xy: 372, 28
+  xy: 263, 28
   size: 33, 34
   orig: 33, 34
   offset: 0, 0
   index: -1
 hair_U_runway_h_spk_hr_2155_0_0.png
   rotate: false
-  xy: 792, 36
+  xy: 505, 2
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
 hair_U_runway_h_spk_hr_2155_2_0.png
   rotate: false
-  xy: 116, 7
+  xy: 930, 43
   size: 26, 19
   orig: 26, 19
   offset: 0, 0
@@ -102,6 +95,13 @@ hair_U_runway_h_spk_hrb_2154_0_0.png
   orig: 31, 32
   offset: 0, 0
   index: -1
+hair_U_runway_h_spk_hrb_2154_1_0.png
+  rotate: false
+  xy: 191, 28
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
 hair_U_runway_h_spk_hrb_2154_2_0.png
   rotate: false
   xy: 2, 28
@@ -111,21 +111,21 @@ hair_U_runway_h_spk_hrb_2154_2_0.png
   index: -1
 hair_U_runway_h_spk_hrb_2154_3_0.png
   rotate: false
-  xy: 302, 30
+  xy: 372, 30
   size: 33, 32
   orig: 33, 32
   offset: 0, 0
   index: -1
 hair_U_runway_h_spk_hrb_2154_7_0.png
   rotate: false
-  xy: 407, 28
+  xy: 228, 28
   size: 33, 34
   orig: 33, 34
   offset: 0, 0
   index: -1
 hair_U_runway_h_spk_hrb_2155_0_0.png
   rotate: false
-  xy: 764, 36
+  xy: 477, 2
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
@@ -139,7 +139,7 @@ hair_U_runway_h_spk_hrb_2155_3_0.png
   index: -1
 hair_U_runway_h_spk_hrb_2155_7_0.png
   rotate: false
-  xy: 870, 41
+  xy: 814, 41
   size: 27, 21
   orig: 27, 21
   offset: 0, 0
@@ -151,16 +151,23 @@ hair_U_runway_h_std_hr_2154_0_0.png
   orig: 31, 31
   offset: 0, 0
   index: -1
+hair_U_runway_h_std_hr_2154_1_0.png
+  rotate: false
+  xy: 78, 28
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
 hair_U_runway_h_std_hr_2154_2_0.png
   rotate: false
-  xy: 152, 29
+  xy: 153, 29
   size: 36, 33
   orig: 36, 33
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hr_2154_3_0.png
   rotate: false
-  xy: 512, 31
+  xy: 547, 31
   size: 33, 31
   orig: 33, 31
   offset: 0, 0
@@ -174,35 +181,35 @@ hair_U_runway_h_std_hr_2154_7_0.png
   index: -1
 hair_U_runway_h_std_hr_2155_0_0.png
   rotate: false
-  xy: 152, 2
+  xy: 143, 2
   size: 26, 25
   orig: 26, 25
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hr_2155_1_0.png
   rotate: false
-  xy: 928, 45
+  xy: 872, 45
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hr_2155_2_0.png
   rotate: false
-  xy: 60, 7
+  xy: 902, 43
   size: 26, 19
   orig: 26, 19
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hr_2155_3_0.png
   rotate: false
-  xy: 820, 34
+  xy: 764, 34
   size: 23, 28
   orig: 23, 28
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hr_2155_7_0.png
   rotate: false
-  xy: 899, 42
+  xy: 31, 6
   size: 27, 20
   orig: 27, 20
   offset: 0, 0
@@ -214,65 +221,58 @@ hair_U_runway_h_std_hrb_2154_0_0.png
   orig: 31, 31
   offset: 0, 0
   index: -1
-hair_U_runway_h_std_hrb_2154_1_0.png
-  rotate: false
-  xy: 115, 28
-  size: 35, 34
-  orig: 35, 34
-  offset: 0, 0
-  index: -1
 hair_U_runway_h_std_hrb_2154_2_0.png
   rotate: false
-  xy: 190, 29
+  xy: 115, 29
   size: 36, 33
   orig: 36, 33
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hrb_2154_3_0.png
   rotate: false
-  xy: 547, 31
+  xy: 512, 31
   size: 33, 31
   orig: 33, 31
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hrb_2154_7_0.png
   rotate: false
-  xy: 477, 29
+  xy: 407, 29
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hrb_2155_0_0.png
   rotate: false
-  xy: 180, 2
+  xy: 115, 2
   size: 26, 25
   orig: 26, 25
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hrb_2155_1_0.png
   rotate: false
-  xy: 958, 45
+  xy: 60, 9
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hrb_2155_2_0.png
   rotate: false
-  xy: 88, 7
+  xy: 533, 10
   size: 26, 19
   orig: 26, 19
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hrb_2155_3_0.png
   rotate: false
-  xy: 845, 34
+  xy: 789, 34
   size: 23, 28
   orig: 23, 28
   offset: 0, 0
   index: -1
 hair_U_runway_h_std_hrb_2155_7_0.png
   rotate: false
-  xy: 31, 6
+  xy: 843, 42
   size: 27, 20
   orig: 27, 20
   offset: 0, 0

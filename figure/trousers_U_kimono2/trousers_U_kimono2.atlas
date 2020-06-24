@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 trousers_U_kimono2_h_lay_lg_2618_2_0.png
   rotate: false
-  xy: 75, 5
+  xy: 40, 5
   size: 33, 25
   orig: 33, 25
   offset: 0, 0
@@ -20,14 +20,14 @@ trousers_U_kimono2_h_sit_lg_2618_0_0.png
   index: -1
 trousers_U_kimono2_h_sit_lg_2618_2_0.png
   rotate: false
-  xy: 40, 4
+  xy: 75, 4
   size: 33, 26
   orig: 33, 26
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_std_lg_2618_0_0.png
   rotate: false
-  xy: 358, 2
+  xy: 310, 2
   size: 22, 28
   orig: 22, 28
   offset: 0, 0
@@ -46,37 +46,37 @@ trousers_U_kimono2_h_std_lg_2618_2_0.png
   orig: 22, 28
   offset: 0, 0
   index: -1
-trousers_U_kimono2_h_std_lg_2618_7_0.png
+trousers_U_kimono2_h_std_lg_2618_3_0.png
   rotate: false
-  xy: 522, 4
+  xy: 430, 4
   size: 21, 26
   orig: 21, 26
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_0_0.png
   rotate: false
-  xy: 334, 2
+  xy: 406, 2
   size: 22, 28
   orig: 22, 28
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_0_1.png
   rotate: false
-  xy: 110, 3
+  xy: 142, 3
   size: 30, 27
   orig: 30, 27
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_0_2.png
   rotate: false
-  xy: 310, 2
+  xy: 382, 2
   size: 22, 28
   orig: 22, 28
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_0_3.png
   rotate: false
-  xy: 236, 2
+  xy: 261, 2
   size: 23, 28
   orig: 23, 28
   offset: 0, 0
@@ -111,84 +111,84 @@ trousers_U_kimono2_h_wlk_lg_2618_1_3.png
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_2_0.png
   rotate: false
-  xy: 382, 2
+  xy: 358, 2
   size: 22, 28
   orig: 22, 28
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_2_1.png
   rotate: false
-  xy: 406, 2
+  xy: 334, 2
   size: 22, 28
   orig: 22, 28
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_2_2.png
   rotate: false
-  xy: 261, 2
+  xy: 236, 2
   size: 23, 28
   orig: 23, 28
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_2_3.png
   rotate: false
-  xy: 142, 4
+  xy: 110, 4
   size: 30, 26
   orig: 30, 26
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_3_0.png
   rotate: false
-  xy: 430, 4
+  xy: 614, 4
   size: 21, 26
   orig: 21, 26
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_3_1.png
   rotate: false
-  xy: 453, 4
+  xy: 591, 4
   size: 21, 26
   orig: 21, 26
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_3_2.png
   rotate: false
-  xy: 476, 4
+  xy: 568, 4
   size: 21, 26
   orig: 21, 26
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_3_3.png
   rotate: false
-  xy: 499, 4
+  xy: 545, 4
   size: 21, 26
   orig: 21, 26
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_7_0.png
   rotate: false
-  xy: 568, 4
+  xy: 522, 4
   size: 21, 26
   orig: 21, 26
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_7_1.png
   rotate: false
-  xy: 545, 4
+  xy: 499, 4
   size: 21, 26
   orig: 21, 26
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_7_2.png
   rotate: false
-  xy: 614, 4
+  xy: 476, 4
   size: 21, 26
   orig: 21, 26
   offset: 0, 0
   index: -1
 trousers_U_kimono2_h_wlk_lg_2618_7_3.png
   rotate: false
-  xy: 591, 4
+  xy: 453, 4
   size: 21, 26
   orig: 21, 26
   offset: 0, 0

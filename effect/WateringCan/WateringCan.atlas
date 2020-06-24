@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 WateringCan_h_std_fx192_1_1_0_0.png
   rotate: false
-  xy: 97, 4
+  xy: 76, 4
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
@@ -34,7 +34,7 @@ WateringCan_h_std_fx192_1_1_3_0.png
   index: -1
 WateringCan_h_std_fx192_1_1_4_0.png
   rotate: false
-  xy: 76, 4
+  xy: 97, 4
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
@@ -46,7 +46,7 @@ WateringCan_h_std_fx192_1_1_5_0.png
   orig: 24, 19
   offset: 0, 0
   index: -1
-WateringCan_h_std_fx192_1_1_6_0.png
+WateringCan_h_std_fx192_1_1_7_0.png
   rotate: false
   xy: 2, 2
   size: 1, 1

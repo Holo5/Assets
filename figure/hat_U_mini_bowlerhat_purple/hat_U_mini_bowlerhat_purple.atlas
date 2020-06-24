@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 hat_U_mini_bowlerhat_purple_h_lay_ha_3112_2_0.png
   rotate: false
-  xy: 2, 61
+  xy: 2, 40
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 hat_U_mini_bowlerhat_purple_h_lsp_ha_3112_2_0.png
   rotate: false
-  xy: 2, 40
+  xy: 2, 61
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 hat_U_mini_bowlerhat_purple_h_spk_ha_3112_0_0.png
   rotate: false
-  xy: 2, 229
+  xy: 2, 103
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
@@ -34,21 +34,21 @@ hat_U_mini_bowlerhat_purple_h_spk_ha_3112_1_0.png
   index: -1
 hat_U_mini_bowlerhat_purple_h_spk_ha_3112_2_0.png
   rotate: false
-  xy: 2, 103
+  xy: 2, 124
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 hat_U_mini_bowlerhat_purple_h_spk_ha_3112_3_0.png
   rotate: false
-  xy: 2, 124
+  xy: 2, 82
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 hat_U_mini_bowlerhat_purple_h_spk_ha_3112_7_0.png
   rotate: false
-  xy: 2, 82
+  xy: 2, 229
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
@@ -69,14 +69,14 @@ hat_U_mini_bowlerhat_purple_h_std_ha_3112_1_0.png
   index: -1
 hat_U_mini_bowlerhat_purple_h_std_ha_3112_2_0.png
   rotate: false
-  xy: 2, 166
+  xy: 2, 145
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 hat_U_mini_bowlerhat_purple_h_std_ha_3112_3_0.png
   rotate: false
-  xy: 2, 145
+  xy: 2, 166
   size: 22, 19
   orig: 22, 19
   offset: 0, 0

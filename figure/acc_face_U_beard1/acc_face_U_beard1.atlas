@@ -4,70 +4,70 @@ size: 256,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_face_U_beard1_h_lay_fa_2587_2_0.png
-  rotate: false
-  xy: 102, 5
-  size: 22, 14
-  orig: 22, 14
-  offset: 0, 0
-  index: -1
-acc_face_U_beard1_h_lsp_fa_2587_2_0.png
+acc_face_U_beard1_h_lay_fa_2585_2_0.png
   rotate: false
   xy: 126, 5
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
   index: -1
-acc_face_U_beard1_h_spk_fa_2587_0_0.png
+acc_face_U_beard1_h_lsp_fa_2585_2_0.png
+  rotate: false
+  xy: 102, 5
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+acc_face_U_beard1_h_spk_fa_2585_0_0.png
   rotate: false
   xy: 190, 6
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
-acc_face_U_beard1_h_spk_fa_2587_1_0.png
+acc_face_U_beard1_h_spk_fa_2585_1_0.png
   rotate: false
   xy: 150, 5
   size: 18, 14
   orig: 18, 14
   offset: 0, 0
   index: -1
-acc_face_U_beard1_h_spk_fa_2587_2_0.png
+acc_face_U_beard1_h_spk_fa_2585_2_0.png
   rotate: false
   xy: 78, 2
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
-acc_face_U_beard1_h_spk_fa_2587_3_0.png
+acc_face_U_beard1_h_spk_fa_2585_3_0.png
   rotate: false
   xy: 2, 2
   size: 24, 17
   orig: 24, 17
   offset: 0, 0
   index: -1
-acc_face_U_beard1_h_std_fa_2587_0_0.png
+acc_face_U_beard1_h_std_fa_2585_0_0.png
   rotate: false
   xy: 199, 7
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
-acc_face_U_beard1_h_std_fa_2587_1_0.png
+acc_face_U_beard1_h_std_fa_2585_1_0.png
   rotate: false
   xy: 170, 6
   size: 18, 13
   orig: 18, 13
   offset: 0, 0
   index: -1
-acc_face_U_beard1_h_std_fa_2587_2_0.png
+acc_face_U_beard1_h_std_fa_2585_2_0.png
   rotate: false
   xy: 54, 3
   size: 22, 16
   orig: 22, 16
   offset: 0, 0
   index: -1
-acc_face_U_beard1_h_std_fa_2587_3_0.png
+acc_face_U_beard1_h_std_fa_2585_3_0.png
   rotate: false
   xy: 28, 3
   size: 24, 16

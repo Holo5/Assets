@@ -41,7 +41,7 @@ trousers_U_feather_h_sit_lg_2361_0_0.png
   index: -1
 trousers_U_feather_h_sit_lg_2361_2_0.png
   rotate: false
-  xy: 204, 13
+  xy: 235, 13
   size: 29, 17
   orig: 29, 17
   offset: 0, 0
@@ -53,9 +53,16 @@ trousers_U_feather_h_std_lg_2360_2_0.png
   orig: 33, 19
   offset: 0, 0
   index: -1
-trousers_U_feather_h_std_lg_2360_7_0.png
+trousers_U_feather_h_std_lg_2360_3_0.png
   rotate: false
   xy: 266, 16
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+trousers_U_feather_h_std_lg_2360_7_0.png
+  rotate: false
+  xy: 299, 16
   size: 31, 14
   orig: 31, 14
   offset: 0, 0
@@ -74,42 +81,35 @@ trousers_U_feather_h_std_lg_2361_1_0.png
   orig: 24, 12
   offset: 0, 0
   index: -1
-trousers_U_feather_h_std_lg_2361_2_0.png
-  rotate: false
-  xy: 235, 13
-  size: 29, 17
-  orig: 29, 17
-  offset: 0, 0
-  index: -1
-trousers_U_feather_h_std_lg_2361_3_0.png
-  rotate: false
-  xy: 297, 2
-  size: 28, 12
-  orig: 28, 12
-  offset: 0, 0
-  index: -1
-trousers_U_feather_h_wlk_lg_2360_0_0.png
+trousers_U_feather_h_wlk_lg_2360_0_3.png
   rotate: false
   xy: 108, 11
   size: 32, 19
   orig: 32, 19
   offset: 0, 0
   index: -1
-trousers_U_feather_h_wlk_lg_2360_1_1.png
+trousers_U_feather_h_wlk_lg_2360_1_2.png
   rotate: false
   xy: 362, 15
   size: 27, 15
   orig: 27, 15
   offset: 0, 0
   index: -1
-trousers_U_feather_h_wlk_lg_2360_3_3.png
+trousers_U_feather_h_wlk_lg_2361_2_0.png
   rotate: false
-  xy: 299, 16
-  size: 31, 14
-  orig: 31, 14
+  xy: 204, 13
+  size: 29, 17
+  orig: 29, 17
   offset: 0, 0
   index: -1
-trousers_U_feather_h_wlk_lg_2361_7_2.png
+trousers_U_feather_h_wlk_lg_2361_3_0.png
+  rotate: false
+  xy: 297, 2
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+trousers_U_feather_h_wlk_lg_2361_7_1.png
   rotate: false
   xy: 266, 2
   size: 29, 12

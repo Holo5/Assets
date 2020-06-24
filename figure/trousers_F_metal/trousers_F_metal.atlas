@@ -27,7 +27,7 @@ trousers_F_metal_h_sit_lg_2272_2_0.png
   index: -1
 trousers_F_metal_h_std_lg_2272_0_0.png
   rotate: false
-  xy: 2, 36
+  xy: 2, 102
   size: 21, 20
   orig: 21, 20
   offset: 0, 0
@@ -41,21 +41,21 @@ trousers_F_metal_h_std_lg_2272_1_0.png
   index: -1
 trousers_F_metal_h_std_lg_2272_2_0.png
   rotate: false
-  xy: 2, 124
+  xy: 2, 168
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 trousers_F_metal_h_std_lg_2272_7_0.png
   rotate: false
-  xy: 26, 147
+  xy: 2, 19
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 trousers_F_metal_h_wlk_lg_2272_0_0.png
   rotate: false
-  xy: 2, 146
+  xy: 2, 124
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
@@ -69,14 +69,14 @@ trousers_F_metal_h_wlk_lg_2272_0_1.png
   index: -1
 trousers_F_metal_h_wlk_lg_2272_0_2.png
   rotate: false
-  xy: 2, 102
+  xy: 2, 80
   size: 21, 20
   orig: 21, 20
   offset: 0, 0
   index: -1
 trousers_F_metal_h_wlk_lg_2272_0_3.png
   rotate: false
-  xy: 2, 168
+  xy: 2, 146
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
@@ -118,7 +118,7 @@ trousers_F_metal_h_wlk_lg_2272_2_0.png
   index: -1
 trousers_F_metal_h_wlk_lg_2272_2_1.png
   rotate: false
-  xy: 2, 80
+  xy: 2, 36
   size: 21, 20
   orig: 21, 20
   offset: 0, 0
@@ -139,7 +139,7 @@ trousers_F_metal_h_wlk_lg_2272_2_3.png
   index: -1
 trousers_F_metal_h_wlk_lg_2272_3_0.png
   rotate: false
-  xy: 26, 130
+  xy: 26, 147
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
@@ -160,35 +160,35 @@ trousers_F_metal_h_wlk_lg_2272_3_2.png
   index: -1
 trousers_F_metal_h_wlk_lg_2272_3_3.png
   rotate: false
-  xy: 26, 113
+  xy: 26, 130
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 trousers_F_metal_h_wlk_lg_2272_7_0.png
   rotate: false
-  xy: 2, 19
+  xy: 26, 113
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 trousers_F_metal_h_wlk_lg_2272_7_1.png
   rotate: false
-  xy: 2, 2
+  xy: 27, 181
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 trousers_F_metal_h_wlk_lg_2272_7_2.png
   rotate: false
-  xy: 27, 181
+  xy: 26, 164
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 trousers_F_metal_h_wlk_lg_2272_7_3.png
   rotate: false
-  xy: 26, 164
+  xy: 2, 2
   size: 21, 15
   orig: 21, 15
   offset: 0, 0

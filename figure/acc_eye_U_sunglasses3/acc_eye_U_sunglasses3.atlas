@@ -48,6 +48,13 @@ acc_eye_U_sunglasses3_h_std_ea_2274_3_0.png
   index: -1
 acc_eye_U_sunglasses3_h_std_ea_2275_0_0.png
   rotate: false
+  xy: 5, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_eye_U_sunglasses3_h_std_ea_2275_1_0.png
+  rotate: false
   xy: 106, 28
   size: 1, 1
   orig: 1, 1
@@ -67,16 +74,16 @@ acc_eye_U_sunglasses3_h_std_ea_2275_3_0.png
   orig: 16, 3
   offset: 0, 0
   index: -1
-acc_eye_U_sunglasses3_h_std_ea_2275_7_0.png
+acc_eye_U_sunglasses3_sh_std_ea_2274_7_0.png
   rotate: false
-  xy: 66, 18
+  xy: 2, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-acc_eye_U_sunglasses3_sh_std_ea_2275_0_0.png
+acc_eye_U_sunglasses3_sh_std_ea_2274_7_0.png
   rotate: false
-  xy: 2, 2
+  xy: 66, 18
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

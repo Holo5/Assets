@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 LiisuTruck_h_std_fx94_1_1_0_0.png
   rotate: false
-  xy: 248, 193
+  xy: 178, 59
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 LiisuTruck_h_std_fx94_1_1_1_0.png
   rotate: false
-  xy: 233, 209
+  xy: 233, 195
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 LiisuTruck_h_std_fx94_1_1_2_0.png
   rotate: false
-  xy: 68, 26
+  xy: 101, 26
   size: 31, 37
   orig: 31, 37
   offset: 0, 0
@@ -34,42 +34,35 @@ LiisuTruck_h_std_fx94_1_1_3_0.png
   index: -1
 LiisuTruck_h_std_fx94_1_1_4_0.png
   rotate: false
-  xy: 101, 26
+  xy: 68, 26
   size: 31, 37
   orig: 31, 37
   offset: 0, 0
   index: -1
 LiisuTruck_h_std_fx94_1_1_5_0.png
   rotate: false
-  xy: 233, 195
+  xy: 233, 209
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 LiisuTruck_h_std_fx94_1_1_6_0.png
   rotate: false
-  xy: 178, 59
+  xy: 248, 193
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
-LiisuTruck_h_std_fx94_1_1_7_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 LiisuTruck_h_std_fx94_2_1_0_0.png
   rotate: false
-  xy: 68, 65
+  xy: 68, 158
   size: 64, 91
   orig: 64, 91
   offset: 0, 0
   index: -1
 LiisuTruck_h_std_fx94_2_1_1_0.png
   rotate: false
-  xy: 134, 69
+  xy: 134, 160
   size: 54, 89
   orig: 54, 89
   offset: 0, 0
@@ -97,14 +90,14 @@ LiisuTruck_h_std_fx94_2_1_4_0.png
   index: -1
 LiisuTruck_h_std_fx94_2_1_5_0.png
   rotate: false
-  xy: 134, 160
+  xy: 134, 69
   size: 54, 89
   orig: 54, 89
   offset: 0, 0
   index: -1
 LiisuTruck_h_std_fx94_2_1_6_0.png
   rotate: false
-  xy: 68, 158
+  xy: 68, 65
   size: 64, 91
   orig: 64, 91
   offset: 0, 0
@@ -118,7 +111,7 @@ LiisuTruck_h_std_fx94_2_1_7_0.png
   index: -1
 LiisuTruck_h_std_fx94_3_1_0_0.png
   rotate: false
-  xy: 248, 227
+  xy: 248, 203
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
@@ -160,8 +153,15 @@ LiisuTruck_h_std_fx94_3_1_5_0.png
   index: -1
 LiisuTruck_h_std_fx94_3_1_6_0.png
   rotate: false
-  xy: 248, 203
+  xy: 248, 227
   size: 6, 22
   orig: 6, 22
+  offset: 0, 0
+  index: -1
+LiisuTruck_h_std_fx94_3_1_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1

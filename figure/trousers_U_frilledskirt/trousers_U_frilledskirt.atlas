@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 trousers_U_frilledskirt_h_lay_lg_3344_2_0.png
   rotate: false
-  xy: 541, 2
+  xy: 575, 2
   size: 32, 25
   orig: 32, 25
   offset: 0, 0
@@ -27,7 +27,7 @@ trousers_U_frilledskirt_h_sit_lg_3344_0_0.png
   index: -1
 trousers_U_frilledskirt_h_sit_lg_3344_2_0.png
   rotate: false
-  xy: 575, 3
+  xy: 609, 3
   size: 30, 24
   orig: 30, 24
   offset: 0, 0
@@ -46,72 +46,79 @@ trousers_U_frilledskirt_h_sit_lg_3345_2_0.png
   orig: 21, 21
   offset: 0, 0
   index: -1
-trousers_U_frilledskirt_h_std_lg_3344_0_0.png
-  rotate: false
-  xy: 41, 2
-  size: 37, 25
-  orig: 37, 25
-  offset: 0, 0
-  index: -1
-trousers_U_frilledskirt_h_std_lg_3344_1_0.png
-  rotate: false
-  xy: 507, 5
-  size: 32, 22
-  orig: 32, 22
-  offset: 0, 0
-  index: -1
-trousers_U_frilledskirt_h_std_lg_3344_2_0.png
-  rotate: false
-  xy: 2, 2
-  size: 37, 25
-  orig: 37, 25
-  offset: 0, 0
-  index: -1
 trousers_U_frilledskirt_h_std_lg_3344_3_0.png
-  rotate: false
-  xy: 158, 5
-  size: 37, 22
-  orig: 37, 22
-  offset: 0, 0
-  index: -1
-trousers_U_frilledskirt_h_std_lg_3344_7_0.png
   rotate: false
   xy: 197, 5
   size: 37, 22
   orig: 37, 22
   offset: 0, 0
   index: -1
-trousers_U_frilledskirt_h_std_lg_3345_7_0.png
+trousers_U_frilledskirt_h_std_lg_3344_7_0.png
   rotate: false
-  xy: 748, 17
-  size: 37, 10
-  orig: 37, 10
+  xy: 236, 5
+  size: 37, 22
+  orig: 37, 22
   offset: 0, 0
   index: -1
-trousers_U_frilledskirt_h_wlk_lg_3344_0_2.png
+trousers_U_frilledskirt_h_std_lg_3345_0_0.png
   rotate: false
-  xy: 80, 3
-  size: 37, 24
-  orig: 37, 24
+  xy: 709, 13
+  size: 37, 14
+  orig: 37, 14
   offset: 0, 0
   index: -1
-trousers_U_frilledskirt_h_wlk_lg_3344_1_2.png
+trousers_U_frilledskirt_h_std_lg_3345_2_0.png
   rotate: false
-  xy: 641, 6
-  size: 32, 21
-  orig: 32, 21
+  xy: 158, 5
+  size: 37, 22
+  orig: 37, 22
   offset: 0, 0
   index: -1
-trousers_U_frilledskirt_h_wlk_lg_3344_2_2.png
+trousers_U_frilledskirt_h_wlk_lg_3344_0_0.png
   rotate: false
   xy: 119, 3
   size: 37, 24
   orig: 37, 24
   offset: 0, 0
   index: -1
-trousers_U_frilledskirt_h_wlk_lg_3344_3_0.png
+trousers_U_frilledskirt_h_wlk_lg_3344_0_1.png
   rotate: false
-  xy: 353, 6
+  xy: 41, 2
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+trousers_U_frilledskirt_h_wlk_lg_3344_1_0.png
+  rotate: false
+  xy: 641, 6
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+trousers_U_frilledskirt_h_wlk_lg_3344_1_3.png
+  rotate: false
+  xy: 541, 5
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+trousers_U_frilledskirt_h_wlk_lg_3344_2_2.png
+  rotate: false
+  xy: 80, 3
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+trousers_U_frilledskirt_h_wlk_lg_3344_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+trousers_U_frilledskirt_h_wlk_lg_3344_3_2.png
+  rotate: false
+  xy: 275, 6
   size: 37, 21
   orig: 37, 21
   offset: 0, 0
@@ -123,13 +130,6 @@ trousers_U_frilledskirt_h_wlk_lg_3344_7_0.png
   orig: 37, 21
   offset: 0, 0
   index: -1
-trousers_U_frilledskirt_h_wlk_lg_3345_0_1.png
-  rotate: false
-  xy: 709, 13
-  size: 37, 14
-  orig: 37, 14
-  offset: 0, 0
-  index: -1
 trousers_U_frilledskirt_h_wlk_lg_3345_1_0.png
   rotate: false
   xy: 675, 7
@@ -139,23 +139,16 @@ trousers_U_frilledskirt_h_wlk_lg_3345_1_0.png
   index: -1
 trousers_U_frilledskirt_h_wlk_lg_3345_1_1.png
   rotate: false
-  xy: 607, 6
+  xy: 507, 6
   size: 32, 21
   orig: 32, 21
   offset: 0, 0
   index: -1
 trousers_U_frilledskirt_h_wlk_lg_3345_2_0.png
   rotate: false
-  xy: 275, 6
+  xy: 353, 6
   size: 37, 21
   orig: 37, 21
-  offset: 0, 0
-  index: -1
-trousers_U_frilledskirt_h_wlk_lg_3345_2_3.png
-  rotate: false
-  xy: 236, 5
-  size: 37, 22
-  orig: 37, 22
   offset: 0, 0
   index: -1
 trousers_U_frilledskirt_h_wlk_lg_3345_3_2.png
@@ -170,5 +163,12 @@ trousers_U_frilledskirt_h_wlk_lg_3345_3_3.png
   xy: 392, 7
   size: 37, 20
   orig: 37, 20
+  offset: 0, 0
+  index: -1
+trousers_U_frilledskirt_h_wlk_lg_3345_7_3.png
+  rotate: false
+  xy: 748, 17
+  size: 37, 10
+  orig: 37, 10
   offset: 0, 0
   index: -1

@@ -6,70 +6,70 @@ filter: Nearest,Nearest
 repeat: none
 Splash_h_std_fx28_1_1_0_1.png
   rotate: false
-  xy: 107, 102
+  xy: 2, 302
   size: 103, 98
   orig: 103, 98
   offset: 0, 0
   index: -1
 Splash_h_std_fx28_1_1_0_10.png
   rotate: false
-  xy: 107, 402
+  xy: 107, 2
   size: 103, 98
   orig: 103, 98
   offset: 0, 0
   index: -1
 Splash_h_std_fx28_1_1_0_2.png
   rotate: false
-  xy: 107, 2
+  xy: 2, 402
   size: 103, 98
   orig: 103, 98
   offset: 0, 0
   index: -1
 Splash_h_std_fx28_1_1_0_3.png
   rotate: false
-  xy: 107, 302
+  xy: 2, 202
   size: 103, 98
   orig: 103, 98
   offset: 0, 0
   index: -1
 Splash_h_std_fx28_1_1_0_4.png
   rotate: false
-  xy: 2, 102
+  xy: 107, 402
   size: 103, 98
   orig: 103, 98
   offset: 0, 0
   index: -1
 Splash_h_std_fx28_1_1_0_5.png
   rotate: false
-  xy: 107, 202
+  xy: 2, 102
   size: 103, 98
   orig: 103, 98
   offset: 0, 0
   index: -1
 Splash_h_std_fx28_1_1_0_6.png
   rotate: false
-  xy: 2, 2
+  xy: 107, 302
   size: 103, 98
   orig: 103, 98
   offset: 0, 0
   index: -1
 Splash_h_std_fx28_1_1_0_7.png
   rotate: false
-  xy: 2, 302
+  xy: 2, 2
   size: 103, 98
   orig: 103, 98
   offset: 0, 0
   index: -1
 Splash_h_std_fx28_1_1_0_8.png
   rotate: false
-  xy: 2, 402
+  xy: 107, 202
   size: 103, 98
   orig: 103, 98
   offset: 0, 0
   index: -1
 Splash_h_std_fx28_1_1_0_9.png
   rotate: false
-  xy: 2, 202
+  xy: 107, 102
   size: 103, 98
   orig: 103, 98
   offset: 0, 0

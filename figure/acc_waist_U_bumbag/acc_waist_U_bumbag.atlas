@@ -74,11 +74,18 @@ acc_waist_U_bumbag_h_std_wa_3385_1_0.png
   orig: 8, 8
   offset: 0, 0
   index: -1
-acc_waist_U_bumbag_h_std_wa_3385_2_0.png
+acc_waist_U_bumbag_h_std_wa_3385_3_0.png
   rotate: false
   xy: 154, 22
   size: 9, 8
   orig: 9, 8
+  offset: 0, 0
+  index: -1
+acc_waist_U_bumbag_h_std_wa_3385_7_0.png
+  rotate: false
+  xy: 118, 14
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 acc_waist_U_bumbag_h_std_wa_3386_0_0.png
@@ -97,22 +104,15 @@ acc_waist_U_bumbag_h_std_wa_3386_1_0.png
   index: -1
 acc_waist_U_bumbag_h_std_wa_3386_2_0.png
   rotate: false
-  xy: 43, 2
+  xy: 27, 2
   size: 14, 9
   orig: 14, 9
   offset: 0, 0
   index: -1
 acc_waist_U_bumbag_h_std_wa_3386_3_0.png
   rotate: false
-  xy: 27, 2
+  xy: 43, 2
   size: 14, 9
   orig: 14, 9
-  offset: 0, 0
-  index: -1
-acc_waist_U_bumbag_h_std_wa_3386_7_0.png
-  rotate: false
-  xy: 118, 14
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1

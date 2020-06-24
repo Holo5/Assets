@@ -4,25 +4,25 @@ size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shoes_U_cyboots_h_sit_sh_2639_0_0.png
-  rotate: false
-  xy: 493, 9
-  size: 19, 21
-  orig: 19, 21
-  offset: 0, 0
-  index: -1
-shoes_U_cyboots_h_sit_sh_2639_2_0.png
-  rotate: false
-  xy: 372, 10
-  size: 23, 20
-  orig: 23, 20
-  offset: 0, 0
-  index: -1
-shoes_U_cyboots_h_sit_sh_2639_2_0.png
+shoes_U_cyboots_h_lay_sh_2639_2_0.png
   rotate: false
   xy: 397, 10
   size: 23, 20
   orig: 23, 20
+  offset: 0, 0
+  index: -1
+shoes_U_cyboots_h_lay_sh_2639_2_0.png
+  rotate: false
+  xy: 422, 10
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+shoes_U_cyboots_h_sit_sh_2639_0_0.png
+  rotate: false
+  xy: 447, 9
+  size: 19, 21
+  orig: 19, 21
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_sit_sh_2640_0_0.png
@@ -34,14 +34,14 @@ shoes_U_cyboots_h_sit_sh_2640_0_0.png
   index: -1
 shoes_U_cyboots_h_sit_sh_2640_2_0.png
   rotate: false
-  xy: 888, 16
+  xy: 952, 16
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_sit_sh_2640_2_0.png
   rotate: false
-  xy: 901, 16
+  xy: 965, 16
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
@@ -62,7 +62,7 @@ shoes_U_cyboots_h_std_sh_2639_1_0.png
   index: -1
 shoes_U_cyboots_h_std_sh_2639_2_0.png
   rotate: false
-  xy: 447, 14
+  xy: 468, 14
   size: 22, 16
   orig: 22, 16
   offset: 0, 0
@@ -83,42 +83,42 @@ shoes_U_cyboots_h_std_sh_2639_7_0.png
   index: -1
 shoes_U_cyboots_h_std_sh_2640_0_0.png
   rotate: false
-  xy: 514, 4
+  xy: 710, 21
   size: 22, 9
   orig: 22, 9
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_std_sh_2640_1_0.png
   rotate: false
-  xy: 251, 2
+  xy: 539, 6
   size: 15, 6
   orig: 15, 6
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_std_sh_2640_2_0.png
   rotate: false
-  xy: 472, 2
+  xy: 518, 2
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_std_sh_2640_3_0.png
   rotate: false
-  xy: 493, 2
+  xy: 232, 2
   size: 19, 5
   orig: 19, 5
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_std_sh_2640_7_0.png
   rotate: false
-  xy: 867, 26
+  xy: 931, 26
   size: 19, 4
   orig: 19, 4
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2639_0_0.png
   rotate: false
-  xy: 422, 14
+  xy: 372, 14
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
@@ -146,7 +146,7 @@ shoes_U_cyboots_h_wlk_sh_2639_0_3.png
   index: -1
 shoes_U_cyboots_h_wlk_sh_2639_1_0.png
   rotate: false
-  xy: 583, 16
+  xy: 625, 16
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
@@ -188,7 +188,7 @@ shoes_U_cyboots_h_wlk_sh_2639_2_1.png
   index: -1
 shoes_U_cyboots_h_wlk_sh_2639_2_2.png
   rotate: false
-  xy: 627, 14
+  xy: 536, 14
   size: 18, 16
   orig: 18, 16
   offset: 0, 0
@@ -202,14 +202,14 @@ shoes_U_cyboots_h_wlk_sh_2639_2_3.png
   index: -1
 shoes_U_cyboots_h_wlk_sh_2639_3_0.png
   rotate: false
-  xy: 560, 16
+  xy: 602, 16
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2639_3_1.png
   rotate: false
-  xy: 537, 15
+  xy: 579, 15
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
@@ -223,42 +223,42 @@ shoes_U_cyboots_h_wlk_sh_2639_3_2.png
   index: -1
 shoes_U_cyboots_h_wlk_sh_2639_3_3.png
   rotate: false
-  xy: 514, 15
+  xy: 556, 15
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2639_7_0.png
   rotate: false
-  xy: 471, 14
+  xy: 514, 14
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2639_7_1.png
   rotate: false
-  xy: 647, 15
+  xy: 668, 15
   size: 19, 15
   orig: 19, 15
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2639_7_2.png
   rotate: false
-  xy: 605, 14
+  xy: 492, 14
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2639_7_3.png
   rotate: false
-  xy: 668, 15
+  xy: 647, 15
   size: 19, 15
   orig: 19, 15
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_0_0.png
   rotate: false
-  xy: 710, 21
+  xy: 734, 21
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
@@ -272,14 +272,14 @@ shoes_U_cyboots_h_wlk_sh_2640_0_1.png
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_0_2.png
   rotate: false
-  xy: 422, 2
+  xy: 468, 2
   size: 24, 10
   orig: 24, 10
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_0_3.png
   rotate: false
-  xy: 448, 2
+  xy: 494, 2
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
@@ -300,7 +300,7 @@ shoes_U_cyboots_h_wlk_sh_2640_1_1.png
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_1_2.png
   rotate: false
-  xy: 794, 22
+  xy: 839, 22
   size: 17, 8
   orig: 17, 8
   offset: 0, 0
@@ -328,7 +328,7 @@ shoes_U_cyboots_h_wlk_sh_2640_2_1.png
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_2_2.png
   rotate: false
-  xy: 813, 22
+  xy: 894, 22
   size: 16, 8
   orig: 16, 8
   offset: 0, 0
@@ -342,56 +342,56 @@ shoes_U_cyboots_h_wlk_sh_2640_2_3.png
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_3_0.png
   rotate: false
-  xy: 753, 23
+  xy: 798, 23
   size: 19, 7
   orig: 19, 7
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_3_1.png
   rotate: false
-  xy: 732, 22
+  xy: 756, 22
   size: 19, 8
   orig: 19, 8
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_3_2.png
   rotate: false
-  xy: 232, 2
+  xy: 912, 24
   size: 17, 6
   orig: 17, 6
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_3_3.png
   rotate: false
-  xy: 538, 5
+  xy: 777, 22
   size: 19, 8
   orig: 19, 8
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_7_0.png
   rotate: false
-  xy: 774, 21
+  xy: 215, 11
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_7_1.png
   rotate: false
-  xy: 849, 22
+  xy: 858, 22
   size: 16, 8
   orig: 16, 8
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_7_2.png
   rotate: false
-  xy: 215, 11
+  xy: 819, 21
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
   index: -1
 shoes_U_cyboots_h_wlk_sh_2640_7_3.png
   rotate: false
-  xy: 831, 22
+  xy: 876, 22
   size: 16, 8
   orig: 16, 8
   offset: 0, 0

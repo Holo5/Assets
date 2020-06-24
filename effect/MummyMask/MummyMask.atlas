@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 MummyMask_h_std_fx84_1_1_0_0.png
   rotate: false
-  xy: 62, 3
+  xy: 92, 3
   size: 28, 31
   orig: 28, 31
   offset: 0, 0
   index: -1
 MummyMask_h_std_fx84_1_1_1_0.png
   rotate: false
-  xy: 178, 6
+  xy: 208, 6
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
@@ -41,14 +41,14 @@ MummyMask_h_std_fx84_1_1_4_0.png
   index: -1
 MummyMask_h_std_fx84_1_1_5_0.png
   rotate: false
-  xy: 208, 6
+  xy: 178, 6
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
   index: -1
 MummyMask_h_std_fx84_1_1_6_0.png
   rotate: false
-  xy: 92, 3
+  xy: 62, 3
   size: 28, 31
   orig: 28, 31
   offset: 0, 0

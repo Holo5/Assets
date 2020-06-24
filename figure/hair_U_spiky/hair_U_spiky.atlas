@@ -41,7 +41,7 @@ hair_U_spiky_h_spk_hr_2033_1_0.png
   index: -1
 hair_U_spiky_h_spk_hr_2033_2_0.png
   rotate: false
-  xy: 416, 14
+  xy: 442, 14
   size: 24, 18
   orig: 24, 18
   offset: 0, 0
@@ -62,7 +62,7 @@ hair_U_spiky_h_spk_hr_2033_7_0.png
   index: -1
 hair_U_spiky_h_spk_hr_2034_0_0.png
   rotate: false
-  xy: 144, 12
+  xy: 143, 12
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
@@ -76,7 +76,7 @@ hair_U_spiky_h_spk_hr_2034_1_0.png
   index: -1
 hair_U_spiky_h_spk_hr_2034_3_0.png
   rotate: false
-  xy: 243, 4
+  xy: 118, 2
   size: 24, 8
   orig: 24, 8
   offset: 0, 0
@@ -90,14 +90,14 @@ hair_U_spiky_h_spk_hr_2034_7_0.png
   index: -1
 hair_U_spiky_h_spk_hrb_2033_0_0.png
   rotate: false
-  xy: 88, 29
+  xy: 170, 29
   size: 39, 33
   orig: 39, 33
   offset: 0, 0
   index: -1
 hair_U_spiky_h_spk_hrb_2033_1_0.png
   rotate: false
-  xy: 129, 29
+  xy: 88, 29
   size: 39, 33
   orig: 39, 33
   offset: 0, 0
@@ -118,21 +118,21 @@ hair_U_spiky_h_spk_hrb_2033_3_0.png
   index: -1
 hair_U_spiky_h_spk_hrb_2033_7_0.png
   rotate: false
-  xy: 290, 28
+  xy: 252, 28
   size: 36, 34
   orig: 36, 34
   offset: 0, 0
   index: -1
 hair_U_spiky_h_spk_hrb_2034_0_0.png
   rotate: false
-  xy: 169, 12
+  xy: 118, 12
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
   index: -1
 hair_U_spiky_h_spk_hrb_2034_1_0.png
   rotate: false
-  xy: 118, 13
+  xy: 168, 13
   size: 24, 14
   orig: 24, 14
   offset: 0, 0
@@ -160,7 +160,7 @@ hair_U_spiky_h_std_hr_2033_1_0.png
   index: -1
 hair_U_spiky_h_std_hr_2033_2_0.png
   rotate: false
-  xy: 442, 14
+  xy: 416, 14
   size: 24, 18
   orig: 24, 18
   offset: 0, 0
@@ -202,7 +202,7 @@ hair_U_spiky_h_std_hr_2034_2_0.png
   index: -1
 hair_U_spiky_h_std_hr_2034_3_0.png
   rotate: false
-  xy: 194, 3
+  xy: 144, 2
   size: 23, 8
   orig: 23, 8
   offset: 0, 0
@@ -216,7 +216,7 @@ hair_U_spiky_h_std_hrb_2033_0_0.png
   index: -1
 hair_U_spiky_h_std_hrb_2033_1_0.png
   rotate: false
-  xy: 170, 29
+  xy: 129, 29
   size: 39, 33
   orig: 39, 33
   offset: 0, 0
@@ -237,14 +237,14 @@ hair_U_spiky_h_std_hrb_2033_3_0.png
   index: -1
 hair_U_spiky_h_std_hrb_2033_7_0.png
   rotate: false
-  xy: 252, 29
+  xy: 290, 29
   size: 36, 33
   orig: 36, 33
   offset: 0, 0
   index: -1
 hair_U_spiky_h_std_hrb_2034_1_0.png
   rotate: false
-  xy: 244, 14
+  xy: 244, 13
   size: 23, 13
   orig: 23, 13
   offset: 0, 0

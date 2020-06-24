@@ -4,39 +4,25 @@ size: 256,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_head_U_gold5_h_lsp_he_3106_2_0.png
+acc_head_U_gold5_h_lay_he_3106_2_0.png
   rotate: false
   xy: 65, 2
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
-acc_head_U_gold5_h_spk_he_3106_0_0.png
-  rotate: false
-  xy: 34, 11
-  size: 29, 19
-  orig: 29, 19
-  offset: 0, 0
-  index: -1
-acc_head_U_gold5_h_spk_he_3106_2_0.png
-  rotate: false
-  xy: 2, 11
-  size: 30, 19
-  orig: 30, 19
-  offset: 0, 0
-  index: -1
-acc_head_U_gold5_h_spk_he_3106_7_0.png
-  rotate: false
-  xy: 99, 15
-  size: 32, 15
-  orig: 32, 15
-  offset: 0, 0
-  index: -1
-acc_head_U_gold5_h_spk_he_3107_0_0.png
+acc_head_U_gold5_h_lsp_he_3107_2_0.png
   rotate: false
   xy: 2, 2
   size: 7, 7
   orig: 7, 7
+  offset: 0, 0
+  index: -1
+acc_head_U_gold5_h_std_he_3106_0_0.png
+  rotate: false
+  xy: 34, 11
+  size: 29, 19
+  orig: 29, 19
   offset: 0, 0
   index: -1
 acc_head_U_gold5_h_std_he_3106_1_0.png
@@ -46,9 +32,23 @@ acc_head_U_gold5_h_std_he_3106_1_0.png
   orig: 12, 15
   offset: 0, 0
   index: -1
+acc_head_U_gold5_h_std_he_3106_2_0.png
+  rotate: false
+  xy: 2, 11
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
 acc_head_U_gold5_h_std_he_3106_3_0.png
   rotate: false
   xy: 65, 15
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+acc_head_U_gold5_h_std_he_3106_7_0.png
+  rotate: false
+  xy: 99, 15
   size: 32, 15
   orig: 32, 15
   offset: 0, 0

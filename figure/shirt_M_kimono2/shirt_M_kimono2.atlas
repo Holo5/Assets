@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 shirt_M_kimono2_h_crr_rs_2633_0_0.png
   rotate: false
-  xy: 483, 38
+  xy: 480, 38
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
@@ -34,56 +34,56 @@ shirt_M_kimono2_h_crr_rs_2633_3_0.png
   index: -1
 shirt_M_kimono2_h_crr_rs_2633_4_0.png
   rotate: false
-  xy: 253, 2
+  xy: 805, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_crr_rs_2633_5_0.png
   rotate: false
-  xy: 806, 42
+  xy: 842, 42
   size: 15, 20
   orig: 15, 20
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_crr_rs_2633_6_0.png
   rotate: false
-  xy: 287, 12
+  xy: 269, 22
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_crr_rs_2633_7_0.png
   rotate: false
-  xy: 933, 38
+  xy: 960, 38
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_crr_rs_2634_0_0.png
   rotate: false
-  xy: 318, 33
+  xy: 270, 6
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_crr_rs_2634_1_0.png
   rotate: false
-  xy: 302, 18
+  xy: 302, 22
   size: 1, 6
   orig: 1, 6
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_crr_rs_2634_2_0.png
   rotate: false
-  xy: 293, 8
+  xy: 284, 24
   size: 3, 7
   orig: 3, 7
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_crr_rs_2634_3_0.png
   rotate: false
-  xy: 331, 40
+  xy: 296, 20
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
@@ -97,112 +97,112 @@ shirt_M_kimono2_h_crr_rs_2634_4_0.png
   index: -1
 shirt_M_kimono2_h_crr_rs_2634_5_0.png
   rotate: false
-  xy: 299, 18
+  xy: 312, 23
   size: 1, 6
   orig: 1, 6
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2633_0_0.png
   rotate: false
-  xy: 422, 42
+  xy: 419, 42
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2633_1_0.png
   rotate: false
-  xy: 348, 47
+  xy: 315, 47
   size: 25, 15
   orig: 25, 15
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2633_2_0.png
   rotate: false
-  xy: 399, 45
+  xy: 396, 45
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2633_3_0.png
   rotate: false
-  xy: 502, 38
+  xy: 535, 38
   size: 16, 24
   orig: 16, 24
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2633_4_0.png
   rotate: false
-  xy: 789, 42
+  xy: 859, 42
   size: 15, 20
   orig: 15, 20
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2633_5_0.png
   rotate: false
-  xy: 375, 46
+  xy: 372, 46
   size: 22, 16
   orig: 22, 16
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2633_6_0.png
   rotate: false
-  xy: 291, 47
+  xy: 288, 47
   size: 25, 15
   orig: 25, 15
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2633_7_0.png
   rotate: false
-  xy: 973, 46
+  xy: 991, 46
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2634_0_0.png
   rotate: false
-  xy: 139, 29
+  xy: 138, 29
   size: 7, 2
   orig: 7, 2
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2634_1_0.png
   rotate: false
-  xy: 985, 47
+  xy: 1003, 47
   size: 6, 3
   orig: 6, 3
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2634_2_0.png
   rotate: false
-  xy: 324, 40
+  xy: 289, 20
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2634_3_0.png
   rotate: false
-  xy: 1011, 53
+  xy: 289, 30
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2634_4_0.png
   rotate: false
-  xy: 1002, 52
+  xy: 275, 21
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2634_5_0.png
   rotate: false
-  xy: 337, 43
+  xy: 270, 11
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_drk_rs_2634_6_0.png
   rotate: false
-  xy: 751, 32
+  xy: 320, 32
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
@@ -216,28 +216,28 @@ shirt_M_kimono2_h_lay_ch_2633_2_0.png
   index: -1
 shirt_M_kimono2_h_lay_ls_2633_2_0.png
   rotate: false
-  xy: 318, 50
+  xy: 342, 50
   size: 28, 12
   orig: 28, 12
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_lay_ls_2634_2_0.png
   rotate: false
-  xy: 343, 46
+  xy: 284, 20
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_lay_rs_2633_2_0.png
   rotate: false
-  xy: 266, 41
+  xy: 263, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_lay_rs_2634_2_0.png
   rotate: false
-  xy: 318, 38
+  xy: 264, 6
   size: 4, 10
   orig: 4, 10
   offset: 0, 0
@@ -279,161 +279,161 @@ shirt_M_kimono2_h_std_ch_2633_7_0.png
   index: -1
 shirt_M_kimono2_h_std_ch_2634_0_0.png
   rotate: false
-  xy: 276, 2
+  xy: 288, 41
   size: 14, 4
   orig: 14, 4
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_ch_2634_2_0.png
   rotate: false
-  xy: 985, 52
+  xy: 1003, 52
   size: 15, 10
   orig: 15, 10
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_ch_2634_3_0.png
   rotate: false
-  xy: 261, 31
+  xy: 275, 33
   size: 12, 6
   orig: 12, 6
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_ch_2634_7_0.png
   rotate: false
-  xy: 243, 33
+  xy: 240, 3
   size: 16, 4
   orig: 16, 4
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_ls_2633_0_0.png
   rotate: false
-  xy: 942, 37
+  xy: 941, 37
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_ls_2633_2_0.png
   rotate: false
-  xy: 958, 40
+  xy: 976, 40
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_ls_2633_3_0.png
   rotate: false
-  xy: 632, 32
+  xy: 685, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_ls_2633_7_0.png
   rotate: false
-  xy: 883, 32
+  xy: 912, 32
   size: 7, 30
   orig: 7, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_ls_2634_2_0.png
   rotate: false
-  xy: 287, 8
+  xy: 269, 18
   size: 4, 2
   orig: 4, 2
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_ls_2634_3_0.png
   rotate: false
-  xy: 993, 48
+  xy: 305, 27
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_rs_2633_0_0.png
   rotate: false
-  xy: 212, 2
+  xy: 615, 32
   size: 11, 30
   orig: 11, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_rs_2633_1_0.png
   rotate: false
-  xy: 850, 36
+  xy: 830, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_rs_2633_2_0.png
   rotate: false
-  xy: 584, 33
+  xy: 628, 33
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_rs_2633_3_0.png
   rotate: false
-  xy: 676, 32
+  xy: 696, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_rs_2633_7_0.png
   rotate: false
-  xy: 892, 32
+  xy: 921, 32
   size: 7, 30
   orig: 7, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_rs_2634_1_0.png
   rotate: false
-  xy: 797, 38
+  xy: 313, 31
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_rs_2634_2_0.png
   rotate: false
-  xy: 901, 32
+  xy: 930, 32
   size: 7, 3
   orig: 7, 3
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_std_rs_2634_3_0.png
   rotate: false
-  xy: 297, 31
+  xy: 342, 46
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_0_0.png
   rotate: false
-  xy: 538, 35
+  xy: 196, 2
   size: 14, 27
   orig: 14, 27
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_0_1.png
   rotate: false
-  xy: 102, 2
+  xy: 221, 35
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_1_0.png
   rotate: false
-  xy: 742, 37
+  xy: 585, 37
   size: 13, 25
   orig: 13, 25
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_1_1.png
   rotate: false
-  xy: 823, 39
+  xy: 876, 39
   size: 12, 23
   orig: 12, 23
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_2_0.png
   rotate: false
-  xy: 443, 39
+  xy: 440, 39
   size: 18, 23
   orig: 18, 23
   offset: 0, 0
@@ -447,14 +447,14 @@ shirt_M_kimono2_h_wav_ls_2633_2_1.png
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_3_0.png
   rotate: false
-  xy: 195, 2
+  xy: 121, 2
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_3_1.png
   rotate: false
-  xy: 121, 2
+  xy: 103, 2
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
@@ -468,252 +468,252 @@ shirt_M_kimono2_h_wav_ls_2633_4_0.png
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_4_1.png
   rotate: false
-  xy: 773, 38
+  xy: 553, 38
   size: 14, 24
   orig: 14, 24
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_5_0.png
   rotate: false
-  xy: 139, 2
+  xy: 177, 2
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_5_1.png
   rotate: false
-  xy: 177, 2
+  xy: 499, 37
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_6_0.png
   rotate: false
-  xy: 243, 39
+  xy: 240, 39
   size: 21, 23
   orig: 21, 23
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_6_1.png
   rotate: false
-  xy: 222, 37
+  xy: 82, 2
   size: 19, 25
   orig: 19, 25
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_7_0.png
   rotate: false
-  xy: 520, 37
+  xy: 517, 37
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2633_7_1.png
   rotate: false
-  xy: 463, 36
+  xy: 460, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_0_0.png
   rotate: false
-  xy: 973, 40
+  xy: 304, 41
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_0_1.png
   rotate: false
-  xy: 292, 2
+  xy: 842, 36
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
-shirt_M_kimono2_h_wav_ls_2634_1_0.png
+shirt_M_kimono2_h_wav_ls_2634_1_1.png
   rotate: false
-  xy: 305, 21
+  xy: 326, 32
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_2_0.png
   rotate: false
-  xy: 311, 37
+  xy: 320, 37
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_2_1.png
   rotate: false
-  xy: 290, 31
+  xy: 327, 37
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_3_0.png
   rotate: false
-  xy: 304, 36
+  xy: 298, 30
   size: 5, 9
   orig: 5, 9
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_3_1.png
   rotate: false
-  xy: 275, 31
+  xy: 305, 31
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_4_0.png
   rotate: false
-  xy: 297, 35
+  xy: 313, 35
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_4_1.png
   rotate: false
-  xy: 283, 31
+  xy: 334, 37
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_5_1.png
   rotate: false
-  xy: 306, 26
+  xy: 332, 32
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_6_0.png
   rotate: false
-  xy: 299, 26
+  xy: 851, 37
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_6_1.png
   rotate: false
-  xy: 757, 34
+  xy: 272, 2
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wav_ls_2634_7_0.png
   rotate: false
-  xy: 789, 38
+  xy: 939, 33
   size: 6, 2
   orig: 6, 2
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_ls_2633_0_1.png
   rotate: false
-  xy: 276, 8
+  xy: 264, 18
   size: 3, 21
   orig: 3, 21
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_ls_2633_0_2.png
   rotate: false
-  xy: 951, 38
+  xy: 969, 38
   size: 5, 24
   orig: 5, 24
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_ls_2633_0_3.png
   rotate: false
-  xy: 923, 38
+  xy: 950, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
-shirt_M_kimono2_h_wlk_ls_2633_1_0.png
-  rotate: false
-  xy: 222, 34
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 shirt_M_kimono2_h_wlk_ls_2633_1_1.png
   rotate: false
-  xy: 1020, 51
+  xy: 872, 36
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
+shirt_M_kimono2_h_wlk_ls_2633_1_2.png
+  rotate: false
+  xy: 275, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 shirt_M_kimono2_h_wlk_ls_2633_1_3.png
   rotate: false
-  xy: 281, 8
+  xy: 258, 16
   size: 4, 21
   orig: 4, 21
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_ls_2633_2_1.png
   rotate: false
-  xy: 912, 38
+  xy: 890, 38
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_ls_2633_2_2.png
   rotate: false
-  xy: 966, 40
+  xy: 984, 40
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_ls_2633_2_3.png
   rotate: false
-  xy: 293, 17
+  xy: 258, 2
   size: 4, 12
   orig: 4, 12
   offset: 0, 0
   index: -1
-shirt_M_kimono2_h_wlk_ls_2633_3_0.png
+shirt_M_kimono2_h_wlk_ls_2633_3_1.png
   rotate: false
-  xy: 698, 32
+  xy: 718, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
-shirt_M_kimono2_h_wlk_ls_2633_3_1.png
+shirt_M_kimono2_h_wlk_ls_2633_3_2.png
   rotate: false
-  xy: 687, 32
+  xy: 707, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_ls_2633_3_3.png
   rotate: false
-  xy: 265, 2
+  xy: 901, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_ls_2633_7_0.png
   rotate: false
-  xy: 621, 31
+  xy: 652, 31
   size: 9, 31
   orig: 9, 31
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_ls_2633_7_1.png
   rotate: false
-  xy: 709, 32
+  xy: 751, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_ls_2633_7_2.png
   rotate: false
-  xy: 720, 32
+  xy: 740, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_ls_2633_7_3.png
   rotate: false
-  xy: 731, 32
+  xy: 729, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
@@ -727,28 +727,28 @@ shirt_M_kimono2_h_wlk_ls_2634_2_0.png
   index: -1
 shirt_M_kimono2_h_wlk_ls_2634_2_1.png
   rotate: false
-  xy: 304, 31
+  xy: 865, 37
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
-shirt_M_kimono2_h_wlk_ls_2634_3_3.png
+shirt_M_kimono2_h_wlk_ls_2634_3_0.png
   rotate: false
-  xy: 233, 2
+  xy: 264, 2
   size: 6, 2
   orig: 6, 2
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_0_0.png
   rotate: false
-  xy: 554, 33
+  xy: 600, 33
   size: 13, 29
   orig: 13, 29
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_0_1.png
   rotate: false
-  xy: 569, 33
+  xy: 212, 2
   size: 13, 29
   orig: 13, 29
   offset: 0, 0
@@ -762,42 +762,42 @@ shirt_M_kimono2_h_wlk_rs_2633_0_2.png
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_0_3.png
   rotate: false
-  xy: 204, 34
+  xy: 240, 9
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_1_1.png
   rotate: false
-  xy: 757, 38
+  xy: 569, 38
   size: 14, 24
   orig: 14, 24
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_1_2.png
   rotate: false
-  xy: 837, 36
+  xy: 817, 36
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_1_3.png
   rotate: false
-  xy: 82, 2
+  xy: 138, 2
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_2_0.png
   rotate: false
-  xy: 597, 31
+  xy: 227, 2
   size: 11, 31
   orig: 11, 31
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_2_1.png
   rotate: false
-  xy: 225, 6
+  xy: 204, 33
   size: 15, 29
   orig: 15, 29
   offset: 0, 0
@@ -818,119 +818,119 @@ shirt_M_kimono2_h_wlk_rs_2633_2_3.png
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_3_0.png
   rotate: false
-  xy: 643, 32
+  xy: 762, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_3_1.png
   rotate: false
-  xy: 901, 37
+  xy: 930, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_3_2.png
   rotate: false
-  xy: 654, 32
+  xy: 674, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_3_3.png
   rotate: false
-  xy: 242, 2
+  xy: 783, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_7_0.png
   rotate: false
-  xy: 873, 32
+  xy: 773, 32
   size: 8, 30
   orig: 8, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_7_1.png
   rotate: false
-  xy: 665, 32
+  xy: 663, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_7_2.png
   rotate: false
-  xy: 610, 31
+  xy: 641, 31
   size: 9, 31
   orig: 9, 31
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2633_7_3.png
   rotate: false
-  xy: 862, 34
+  xy: 794, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
+shirt_M_kimono2_h_wlk_rs_2634_0_0.png
+  rotate: false
+  xy: 349, 46
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
 shirt_M_kimono2_h_wlk_rs_2634_0_1.png
   rotate: false
-  xy: 204, 31
+  xy: 76, 26
   size: 2, 1
   orig: 2, 1
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2634_0_3.png
   rotate: false
-  xy: 291, 41
+  xy: 1020, 51
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2634_1_0.png
   rotate: false
-  xy: 324, 36
+  xy: 305, 23
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2634_1_1.png
   rotate: false
-  xy: 804, 38
+  xy: 1019, 47
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
   index: -1
-shirt_M_kimono2_h_wlk_rs_2634_1_3.png
+shirt_M_kimono2_h_wlk_rs_2634_2_0.png
   rotate: false
-  xy: 764, 34
-  size: 4, 2
-  orig: 4, 2
-  offset: 0, 0
-  index: -1
-shirt_M_kimono2_h_wlk_rs_2634_2_1.png
-  rotate: false
-  xy: 1000, 48
-  size: 4, 2
-  orig: 4, 2
-  offset: 0, 0
-  index: -1
-shirt_M_kimono2_h_wlk_rs_2634_2_2.png
-  rotate: false
-  xy: 742, 32
+  xy: 991, 41
   size: 7, 3
   orig: 7, 3
   offset: 0, 0
   index: -1
+shirt_M_kimono2_h_wlk_rs_2634_2_1.png
+  rotate: false
+  xy: 355, 46
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
 shirt_M_kimono2_h_wlk_rs_2634_2_3.png
   rotate: false
-  xy: 311, 32
+  xy: 858, 37
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 shirt_M_kimono2_h_wlk_rs_2634_3_0.png
   rotate: false
-  xy: 225, 2
+  xy: 1011, 48
   size: 6, 2
   orig: 6, 2
   offset: 0, 0

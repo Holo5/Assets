@@ -6,98 +6,105 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_cypunk_h_lay_hr_2644_2_0.png
   rotate: false
-  xy: 233, 185
+  xy: 325, 185
   size: 41, 34
   orig: 41, 34
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_lay_hr_2645_2_0.png
   rotate: false
-  xy: 2, 182
+  xy: 50, 219
   size: 46, 35
   orig: 46, 35
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_lay_hr_2646_2_0.png
   rotate: false
-  xy: 79, 2
+  xy: 32, 2
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_lay_hrb_2644_2_0.png
   rotate: false
-  xy: 47, 36
+  xy: 282, 185
   size: 41, 34
   orig: 41, 34
   offset: 0, 0
   index: -1
-hair_U_cypunk_h_lay_hrb_2645_2_0.png
-  rotate: false
-  xy: 2, 219
-  size: 46, 35
-  orig: 46, 35
-  offset: 0, 0
-  index: -1
 hair_U_cypunk_h_lay_hrb_2646_2_0.png
   rotate: false
-  xy: 49, 2
+  xy: 2, 2
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_lsp_hr_2644_2_0.png
   rotate: false
-  xy: 319, 186
+  xy: 47, 36
   size: 41, 33
   orig: 41, 33
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_lsp_hr_2645_2_0.png
   rotate: false
-  xy: 50, 219
+  xy: 2, 219
   size: 46, 35
   orig: 46, 35
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_lsp_hr_2646_2_0.png
   rotate: false
-  xy: 138, 4
+  xy: 62, 2
   size: 27, 32
   orig: 27, 32
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_lsp_hrb_2644_2_0.png
   rotate: false
-  xy: 276, 186
+  xy: 368, 185
   size: 41, 33
   orig: 41, 33
   offset: 0, 0
   index: -1
+hair_U_cypunk_h_lsp_hrb_2645_2_0.png
+  rotate: false
+  xy: 2, 182
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
 hair_U_cypunk_h_lsp_hrb_2646_2_0.png
   rotate: false
-  xy: 109, 2
+  xy: 90, 37
   size: 27, 32
   orig: 27, 32
   offset: 0, 0
   index: -1
+hair_U_cypunk_h_spk_hr_2644_0_0.png
+  rotate: false
+  xy: 345, 146
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
 hair_U_cypunk_h_spk_hr_2644_1_0.png
   rotate: false
-  xy: 482, 190
+  xy: 259, 120
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hr_2644_2_0.png
   rotate: false
-  xy: 47, 72
+  xy: 95, 149
   size: 39, 38
   orig: 39, 38
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hr_2644_3_0.png
   rotate: false
-  xy: 50, 152
+  xy: 145, 189
   size: 45, 30
   orig: 45, 30
   offset: 0, 0
@@ -109,107 +116,149 @@ hair_U_cypunk_h_spk_hr_2644_7_0.png
   orig: 45, 33
   offset: 0, 0
   index: -1
+hair_U_cypunk_h_spk_hr_2645_0_0.png
+  rotate: false
+  xy: 92, 111
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+hair_U_cypunk_h_spk_hr_2645_1_0.png
+  rotate: false
+  xy: 494, 157
+  size: 5, 30
+  orig: 5, 30
+  offset: 0, 0
+  index: -1
 hair_U_cypunk_h_spk_hr_2645_2_0.png
   rotate: false
-  xy: 229, 150
+  xy: 411, 185
   size: 40, 33
   orig: 40, 33
   offset: 0, 0
   index: -1
+hair_U_cypunk_h_spk_hr_2645_3_0.png
+  rotate: false
+  xy: 463, 221
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+hair_U_cypunk_h_spk_hr_2645_7_0.png
+  rotate: false
+  xy: 373, 220
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
 hair_U_cypunk_h_spk_hr_2646_0_0.png
   rotate: false
-  xy: 88, 112
+  xy: 88, 71
   size: 31, 38
   orig: 31, 38
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hr_2646_1_0.png
   rotate: false
-  xy: 271, 153
+  xy: 91, 5
   size: 25, 30
   orig: 25, 30
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hr_2646_2_0.png
   rotate: false
-  xy: 162, 112
+  xy: 425, 146
   size: 33, 37
   orig: 33, 37
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hr_2646_3_0.png
   rotate: false
-  xy: 283, 221
+  xy: 49, 147
   size: 44, 33
   orig: 44, 33
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hr_2646_7_0.png
   rotate: false
-  xy: 2, 34
+  xy: 50, 182
   size: 43, 35
   orig: 43, 35
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hrb_2644_0_0.png
   rotate: false
-  xy: 442, 181
+  xy: 385, 146
   size: 38, 37
   orig: 38, 37
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hrb_2644_1_0.png
   rotate: false
-  xy: 197, 121
+  xy: 118, 5
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hrb_2644_2_0.png
   rotate: false
-  xy: 121, 114
+  xy: 136, 149
   size: 39, 38
   orig: 39, 38
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hrb_2644_3_0.png
   rotate: false
-  xy: 2, 2
+  xy: 98, 189
   size: 45, 30
   orig: 45, 30
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hrb_2644_7_0.png
   rotate: false
-  xy: 50, 184
+  xy: 2, 147
   size: 45, 33
   orig: 45, 33
   offset: 0, 0
   index: -1
+hair_U_cypunk_h_spk_hrb_2645_1_0.png
+  rotate: false
+  xy: 487, 157
+  size: 5, 30
+  orig: 5, 30
+  offset: 0, 0
+  index: -1
+hair_U_cypunk_h_spk_hrb_2645_3_0.png
+  rotate: false
+  xy: 283, 221
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
 hair_U_cypunk_h_spk_hrb_2645_7_0.png
   rotate: false
-  xy: 374, 220
+  xy: 47, 111
   size: 43, 34
   orig: 43, 34
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hrb_2646_0_0.png
   rotate: false
-  xy: 88, 72
+  xy: 153, 30
   size: 31, 38
   orig: 31, 38
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hrb_2646_1_0.png
   rotate: false
-  xy: 325, 154
+  xy: 480, 189
   size: 25, 30
   orig: 25, 30
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_spk_hrb_2646_2_0.png
   rotate: false
-  xy: 230, 111
+  xy: 121, 71
   size: 33, 37
   orig: 33, 37
   offset: 0, 0
@@ -223,91 +272,56 @@ hair_U_cypunk_h_spk_hrb_2646_3_0.png
   index: -1
 hair_U_cypunk_h_spk_hrb_2646_7_0.png
   rotate: false
-  xy: 2, 145
+  xy: 2, 36
   size: 43, 35
   orig: 43, 35
   offset: 0, 0
   index: -1
-hair_U_cypunk_h_std_hr_2644_0_0.png
-  rotate: false
-  xy: 402, 181
-  size: 38, 37
-  orig: 38, 37
-  offset: 0, 0
-  index: -1
 hair_U_cypunk_h_std_hr_2644_1_0.png
   rotate: false
-  xy: 482, 160
+  xy: 229, 124
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hr_2644_2_0.png
   rotate: false
-  xy: 47, 112
+  xy: 177, 149
   size: 39, 38
   orig: 39, 38
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hr_2644_3_0.png
   rotate: false
-  xy: 98, 189
+  xy: 192, 189
   size: 43, 30
   orig: 43, 30
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hr_2644_7_0.png
   rotate: false
-  xy: 188, 186
+  xy: 328, 221
   size: 43, 33
   orig: 43, 33
-  offset: 0, 0
-  index: -1
-hair_U_cypunk_h_std_hr_2645_0_0.png
-  rotate: false
-  xy: 90, 36
-  size: 32, 34
-  orig: 32, 34
-  offset: 0, 0
-  index: -1
-hair_U_cypunk_h_std_hr_2645_1_0.png
-  rotate: false
-  xy: 352, 154
-  size: 5, 30
-  orig: 5, 30
-  offset: 0, 0
-  index: -1
-hair_U_cypunk_h_std_hr_2645_3_0.png
-  rotate: false
-  xy: 329, 221
-  size: 43, 33
-  orig: 43, 33
-  offset: 0, 0
-  index: -1
-hair_U_cypunk_h_std_hr_2645_7_0.png
-  rotate: false
-  xy: 419, 220
-  size: 43, 34
-  orig: 43, 34
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hr_2646_0_0.png
   rotate: false
-  xy: 197, 81
+  xy: 156, 70
   size: 31, 38
   orig: 31, 38
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hr_2646_1_0.png
   rotate: false
-  xy: 265, 118
+  xy: 453, 188
   size: 25, 30
   orig: 25, 30
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hr_2646_2_0.png
   rotate: false
-  xy: 162, 73
+  xy: 126, 110
   size: 33, 37
   orig: 33, 37
   offset: 0, 0
@@ -321,98 +335,84 @@ hair_U_cypunk_h_std_hr_2646_3_0.png
   index: -1
 hair_U_cypunk_h_std_hr_2646_7_0.png
   rotate: false
-  xy: 2, 71
+  xy: 2, 110
   size: 43, 35
   orig: 43, 35
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hrb_2644_0_0.png
   rotate: false
-  xy: 362, 181
+  xy: 305, 146
   size: 38, 37
   orig: 38, 37
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hrb_2644_1_0.png
   rotate: false
-  xy: 158, 43
+  xy: 189, 79
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hrb_2644_2_0.png
   rotate: false
-  xy: 121, 74
+  xy: 47, 71
   size: 39, 38
   orig: 39, 38
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hrb_2644_3_0.png
   rotate: false
-  xy: 142, 154
+  xy: 237, 189
   size: 43, 30
   orig: 43, 30
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hrb_2644_7_0.png
   rotate: false
-  xy: 97, 154
+  xy: 218, 154
   size: 43, 33
   orig: 43, 33
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hrb_2645_0_0.png
   rotate: false
-  xy: 124, 38
+  xy: 119, 35
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
-hair_U_cypunk_h_std_hrb_2645_1_0.png
-  rotate: false
-  xy: 292, 121
-  size: 5, 30
-  orig: 5, 30
-  offset: 0, 0
-  index: -1
 hair_U_cypunk_h_std_hrb_2645_2_0.png
   rotate: false
-  xy: 187, 151
+  xy: 263, 150
   size: 40, 33
   orig: 40, 33
   offset: 0, 0
   index: -1
-hair_U_cypunk_h_std_hrb_2645_3_0.png
-  rotate: false
-  xy: 143, 186
-  size: 43, 33
-  orig: 43, 33
-  offset: 0, 0
-  index: -1
 hair_U_cypunk_h_std_hrb_2645_7_0.png
   rotate: false
-  xy: 464, 220
+  xy: 418, 220
   size: 43, 34
   orig: 43, 34
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hrb_2646_0_0.png
   rotate: false
-  xy: 230, 71
+  xy: 196, 109
   size: 31, 38
   orig: 31, 38
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hrb_2646_1_0.png
   rotate: false
-  xy: 298, 154
+  xy: 460, 156
   size: 25, 30
   orig: 25, 30
   offset: 0, 0
   index: -1
 hair_U_cypunk_h_std_hrb_2646_2_0.png
   rotate: false
-  xy: 167, 4
+  xy: 161, 110
   size: 33, 37
   orig: 33, 37
   offset: 0, 0
@@ -426,7 +426,7 @@ hair_U_cypunk_h_std_hrb_2646_3_0.png
   index: -1
 hair_U_cypunk_h_std_hrb_2646_7_0.png
   rotate: false
-  xy: 2, 108
+  xy: 2, 73
   size: 43, 35
   orig: 43, 35
   offset: 0, 0

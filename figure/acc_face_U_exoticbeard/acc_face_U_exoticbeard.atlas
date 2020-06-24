@@ -6,16 +6,23 @@ filter: Nearest,Nearest
 repeat: none
 acc_face_U_exoticbeard_h_lay_fa_2999_2_0.png
   rotate: false
-  xy: 26, 17
+  xy: 50, 17
   size: 24, 13
   orig: 24, 13
   offset: 0, 0
   index: -1
 acc_face_U_exoticbeard_h_lsp_fa_2999_2_0.png
   rotate: false
-  xy: 26, 2
+  xy: 50, 2
   size: 23, 13
   orig: 23, 13
+  offset: 0, 0
+  index: -1
+acc_face_U_exoticbeard_h_spk_fa_2999_0_0.png
+  rotate: false
+  xy: 75, 2
+  size: 8, 11
+  orig: 8, 11
   offset: 0, 0
   index: -1
 acc_face_U_exoticbeard_h_spk_fa_2999_1_0.png
@@ -23,13 +30,6 @@ acc_face_U_exoticbeard_h_spk_fa_2999_1_0.png
   xy: 76, 15
   size: 17, 15
   orig: 17, 15
-  offset: 0, 0
-  index: -1
-acc_face_U_exoticbeard_h_std_fa_2999_0_0.png
-  rotate: false
-  xy: 51, 2
-  size: 8, 11
-  orig: 8, 11
   offset: 0, 0
   index: -1
 acc_face_U_exoticbeard_h_std_fa_2999_2_0.png
@@ -41,7 +41,7 @@ acc_face_U_exoticbeard_h_std_fa_2999_2_0.png
   index: -1
 acc_face_U_exoticbeard_h_std_fa_2999_3_0.png
   rotate: false
-  xy: 52, 15
+  xy: 26, 15
   size: 22, 15
   orig: 22, 15
   offset: 0, 0

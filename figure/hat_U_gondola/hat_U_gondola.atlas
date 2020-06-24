@@ -4,87 +4,87 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hat_U_gondola_h_lay_ha_2440_2_0.png
+hat_U_gondola_h_lsp_ha_2440_2_0.png
   rotate: false
-  xy: 73, 2
+  xy: 107, 2
   size: 25, 31
   orig: 25, 31
   offset: 0, 0
   index: -1
-hat_U_gondola_h_lay_ha_2441_2_0.png
+hat_U_gondola_h_lsp_ha_2441_2_0.png
   rotate: false
-  xy: 100, 4
+  xy: 134, 4
   size: 21, 29
   orig: 21, 29
   offset: 0, 0
   index: -1
-hat_U_gondola_h_spk_ha_2440_1_0.png
+hat_U_gondola_h_spk_ha_2440_0_0.png
   rotate: false
-  xy: 38, 9
-  size: 33, 25
-  orig: 33, 25
-  offset: 0, 0
-  index: -1
-hat_U_gondola_h_spk_ha_2440_7_0.png
-  rotate: false
-  xy: 2, 9
+  xy: 2, 35
   size: 34, 25
   orig: 34, 25
   offset: 0, 0
   index: -1
+hat_U_gondola_h_spk_ha_2440_1_0.png
+  rotate: false
+  xy: 38, 8
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+hat_U_gondola_h_spk_ha_2440_2_0.png
+  rotate: false
+  xy: 108, 35
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+hat_U_gondola_h_spk_ha_2440_3_0.png
+  rotate: false
+  xy: 2, 8
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+hat_U_gondola_h_spk_ha_2440_7_0.png
+  rotate: false
+  xy: 38, 35
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+hat_U_gondola_h_spk_ha_2441_0_0.png
+  rotate: false
+  xy: 74, 35
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+hat_U_gondola_h_spk_ha_2441_1_0.png
+  rotate: false
+  xy: 141, 40
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
 hat_U_gondola_h_spk_ha_2441_2_0.png
   rotate: false
-  xy: 212, 41
+  xy: 178, 40
   size: 33, 20
   orig: 33, 20
   offset: 0, 0
   index: -1
 hat_U_gondola_h_spk_ha_2441_3_0.png
   rotate: false
-  xy: 123, 20
+  xy: 213, 46
   size: 32, 14
   orig: 32, 14
   offset: 0, 0
   index: -1
 hat_U_gondola_h_spk_ha_2441_7_0.png
   rotate: false
-  xy: 74, 35
+  xy: 73, 7
   size: 32, 26
   orig: 32, 26
-  offset: 0, 0
-  index: -1
-hat_U_gondola_h_std_ha_2440_0_0.png
-  rotate: false
-  xy: 38, 36
-  size: 34, 25
-  orig: 34, 25
-  offset: 0, 0
-  index: -1
-hat_U_gondola_h_std_ha_2440_2_0.png
-  rotate: false
-  xy: 142, 36
-  size: 31, 25
-  orig: 31, 25
-  offset: 0, 0
-  index: -1
-hat_U_gondola_h_std_ha_2440_3_0.png
-  rotate: false
-  xy: 2, 36
-  size: 34, 25
-  orig: 34, 25
-  offset: 0, 0
-  index: -1
-hat_U_gondola_h_std_ha_2441_0_0.png
-  rotate: false
-  xy: 108, 36
-  size: 32, 25
-  orig: 32, 25
-  offset: 0, 0
-  index: -1
-hat_U_gondola_h_std_ha_2441_1_0.png
-  rotate: false
-  xy: 175, 41
-  size: 35, 20
-  orig: 35, 20
   offset: 0, 0
   index: -1

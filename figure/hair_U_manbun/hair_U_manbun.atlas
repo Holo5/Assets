@@ -4,6 +4,13 @@ size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+hair_U_manbun_h_lay_hrb_2916_2_0.png
+  rotate: false
+  xy: 291, 9
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
 hair_U_manbun_h_lay_hrb_2917_2_0.png
   rotate: false
   xy: 704, 16
@@ -13,7 +20,7 @@ hair_U_manbun_h_lay_hrb_2917_2_0.png
   index: -1
 hair_U_manbun_h_lsp_hr_2916_2_0.png
   rotate: false
-  xy: 291, 9
+  xy: 264, 9
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
@@ -25,16 +32,9 @@ hair_U_manbun_h_lsp_hr_2917_2_0.png
   orig: 15, 14
   offset: 0, 0
   index: -1
-hair_U_manbun_h_lsp_hrb_2916_2_0.png
-  rotate: false
-  xy: 264, 9
-  size: 25, 21
-  orig: 25, 21
-  offset: 0, 0
-  index: -1
 hair_U_manbun_h_spk_hr_2916_0_0.png
   rotate: false
-  xy: 134, 14
+  xy: 198, 14
   size: 30, 16
   orig: 30, 16
   offset: 0, 0
@@ -48,21 +48,21 @@ hair_U_manbun_h_spk_hr_2916_1_0.png
   index: -1
 hair_U_manbun_h_spk_hr_2916_2_0.png
   rotate: false
-  xy: 35, 14
+  xy: 101, 14
   size: 31, 16
   orig: 31, 16
   offset: 0, 0
   index: -1
 hair_U_manbun_h_spk_hr_2916_3_0.png
   rotate: false
-  xy: 517, 13
+  xy: 491, 13
   size: 24, 17
   orig: 24, 17
   offset: 0, 0
   index: -1
 hair_U_manbun_h_spk_hr_2916_7_0.png
   rotate: false
-  xy: 617, 13
+  xy: 593, 13
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
@@ -76,7 +76,7 @@ hair_U_manbun_h_spk_hr_2917_0_0.png
   index: -1
 hair_U_manbun_h_spk_hr_2917_1_0.png
   rotate: false
-  xy: 641, 13
+  xy: 662, 13
   size: 19, 17
   orig: 19, 17
   offset: 0, 0
@@ -90,9 +90,23 @@ hair_U_manbun_h_spk_hr_2917_2_0.png
   index: -1
 hair_U_manbun_h_spk_hr_2917_3_0.png
   rotate: false
-  xy: 543, 2
+  xy: 517, 2
   size: 24, 9
   orig: 24, 9
+  offset: 0, 0
+  index: -1
+hair_U_manbun_h_spk_hrb_2916_0_0.png
+  rotate: false
+  xy: 134, 14
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+hair_U_manbun_h_spk_hrb_2916_1_0.png
+  rotate: false
+  xy: 230, 2
+  size: 32, 13
+  orig: 32, 13
   offset: 0, 0
   index: -1
 hair_U_manbun_h_spk_hrb_2916_2_0.png
@@ -104,9 +118,16 @@ hair_U_manbun_h_spk_hrb_2916_2_0.png
   index: -1
 hair_U_manbun_h_spk_hrb_2916_3_0.png
   rotate: false
-  xy: 439, 13
+  xy: 517, 13
   size: 24, 17
   orig: 24, 17
+  offset: 0, 0
+  index: -1
+hair_U_manbun_h_spk_hrb_2916_7_0.png
+  rotate: false
+  xy: 617, 13
+  size: 22, 17
+  orig: 22, 17
   offset: 0, 0
   index: -1
 hair_U_manbun_h_spk_hrb_2917_0_0.png
@@ -116,23 +137,16 @@ hair_U_manbun_h_spk_hrb_2917_0_0.png
   orig: 27, 17
   offset: 0, 0
   index: -1
-hair_U_manbun_h_spk_hrb_2917_1_0.png
-  rotate: false
-  xy: 683, 13
-  size: 19, 17
-  orig: 19, 17
-  offset: 0, 0
-  index: -1
 hair_U_manbun_h_spk_hrb_2917_2_0.png
   rotate: false
-  xy: 753, 15
+  xy: 768, 15
   size: 13, 15
   orig: 13, 15
   offset: 0, 0
   index: -1
 hair_U_manbun_h_std_hr_2916_0_0.png
   rotate: false
-  xy: 198, 14
+  xy: 166, 14
   size: 30, 16
   orig: 30, 16
   offset: 0, 0
@@ -146,7 +160,7 @@ hair_U_manbun_h_std_hr_2916_1_0.png
   index: -1
 hair_U_manbun_h_std_hr_2916_2_0.png
   rotate: false
-  xy: 101, 14
+  xy: 35, 14
   size: 31, 16
   orig: 31, 16
   offset: 0, 0
@@ -160,7 +174,7 @@ hair_U_manbun_h_std_hr_2916_3_0.png
   index: -1
 hair_U_manbun_h_std_hr_2916_7_0.png
   rotate: false
-  xy: 593, 13
+  xy: 569, 13
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
@@ -174,21 +188,21 @@ hair_U_manbun_h_std_hr_2917_0_0.png
   index: -1
 hair_U_manbun_h_std_hr_2917_1_0.png
   rotate: false
-  xy: 662, 13
+  xy: 683, 13
   size: 19, 17
   orig: 19, 17
   offset: 0, 0
   index: -1
 hair_U_manbun_h_std_hr_2917_2_0.png
   rotate: false
-  xy: 768, 15
+  xy: 753, 15
   size: 13, 15
   orig: 13, 15
   offset: 0, 0
   index: -1
 hair_U_manbun_h_std_hr_2917_3_0.png
   rotate: false
-  xy: 569, 2
+  xy: 543, 2
   size: 24, 9
   orig: 24, 9
   offset: 0, 0
@@ -200,20 +214,6 @@ hair_U_manbun_h_std_hr_2917_7_0.png
   orig: 24, 19
   offset: 0, 0
   index: -1
-hair_U_manbun_h_std_hrb_2916_0_0.png
-  rotate: false
-  xy: 166, 14
-  size: 30, 16
-  orig: 30, 16
-  offset: 0, 0
-  index: -1
-hair_U_manbun_h_std_hrb_2916_1_0.png
-  rotate: false
-  xy: 230, 2
-  size: 32, 13
-  orig: 32, 13
-  offset: 0, 0
-  index: -1
 hair_U_manbun_h_std_hrb_2916_2_0.png
   rotate: false
   xy: 68, 14
@@ -221,23 +221,23 @@ hair_U_manbun_h_std_hrb_2916_2_0.png
   orig: 31, 16
   offset: 0, 0
   index: -1
-hair_U_manbun_h_std_hrb_2916_7_0.png
+hair_U_manbun_h_std_hrb_2917_1_0.png
   rotate: false
-  xy: 569, 13
-  size: 22, 17
-  orig: 22, 17
+  xy: 641, 13
+  size: 19, 17
+  orig: 19, 17
   offset: 0, 0
   index: -1
 hair_U_manbun_h_std_hrb_2917_3_0.png
   rotate: false
-  xy: 517, 2
+  xy: 491, 2
   size: 24, 9
   orig: 24, 9
   offset: 0, 0
   index: -1
 hair_U_manbun_h_std_hrb_2917_7_0.png
   rotate: false
-  xy: 491, 11
+  xy: 439, 11
   size: 24, 19
   orig: 24, 19
   offset: 0, 0

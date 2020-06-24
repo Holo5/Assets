@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 Hoverplank_h_std_fx191_1_1_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 41, 2
   size: 30, 26
   orig: 30, 26
   offset: 0, 0
@@ -25,9 +25,9 @@ Hoverplank_h_std_fx191_1_1_2_0.png
   orig: 30, 26
   offset: 0, 0
   index: -1
-Hoverplank_h_std_fx191_1_1_3_0.png
+Hoverplank_h_std_fx191_1_1_7_0.png
   rotate: false
-  xy: 34, 9
+  xy: 2, 9
   size: 37, 19
   orig: 37, 19
   offset: 0, 0
@@ -55,7 +55,7 @@ Hoverplank_h_std_fx191_2_1_2_0.png
   index: -1
 Hoverplank_h_std_fx191_2_1_3_0.png
   rotate: false
-  xy: 34, 6
+  xy: 2, 6
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

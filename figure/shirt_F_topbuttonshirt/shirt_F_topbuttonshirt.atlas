@@ -6,147 +6,147 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_topbuttonshirt_h_crr_ls_3370_0_0.png
   rotate: false
-  xy: 443, 35
+  xy: 438, 32
   size: 4, 13
   orig: 4, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_ls_3370_1_0.png
   rotate: false
-  xy: 353, 32
+  xy: 162, 2
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_ls_3370_2_0.png
   rotate: false
-  xy: 415, 35
+  xy: 390, 29
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_ls_3370_3_0.png
   rotate: false
-  xy: 176, 15
+  xy: 143, 16
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_ls_3370_7_0.png
   rotate: false
-  xy: 309, 20
+  xy: 200, 18
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_rs_3370_0_0.png
   rotate: false
-  xy: 283, 36
+  xy: 353, 45
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_rs_3370_1_0.png
   rotate: false
-  xy: 344, 32
+  xy: 144, 2
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_rs_3370_2_0.png
   rotate: false
-  xy: 128, 14
+  xy: 101, 14
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_rs_3370_3_0.png
   rotate: false
-  xy: 166, 14
+  xy: 173, 17
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_rs_3370_4_0.png
   rotate: false
-  xy: 327, 29
+  xy: 333, 31
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_rs_3370_5_0.png
   rotate: false
-  xy: 335, 31
+  xy: 324, 31
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_rs_3370_6_0.png
   rotate: false
-  xy: 449, 37
+  xy: 418, 30
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_crr_rs_3370_7_0.png
   rotate: false
-  xy: 318, 29
+  xy: 359, 29
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_drk_rs_3370_0_0.png
   rotate: false
-  xy: 256, 51
+  xy: 464, 51
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_drk_rs_3370_1_0.png
   rotate: false
-  xy: 290, 55
+  xy: 81, 2
   size: 13, 7
   orig: 13, 7
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_drk_rs_3370_2_0.png
   rotate: false
-  xy: 241, 50
+  xy: 449, 50
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_drk_rs_3370_3_0.png
   rotate: false
-  xy: 448, 51
+  xy: 222, 32
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_drk_rs_3370_4_0.png
   rotate: false
-  xy: 148, 2
+  xy: 375, 26
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_drk_rs_3370_5_0.png
   rotate: false
-  xy: 305, 35
+  xy: 96, 2
   size: 11, 7
   orig: 11, 7
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_drk_rs_3370_6_0.png
   rotate: false
-  xy: 472, 53
+  xy: 23, 2
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_drk_rs_3370_7_0.png
   rotate: false
-  xy: 347, 46
+  xy: 132, 16
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
@@ -167,42 +167,42 @@ shirt_F_topbuttonshirt_h_lay_ch_3371_2_0.png
   index: -1
 shirt_F_topbuttonshirt_h_lay_ls_3370_2_0.png
   rotate: false
-  xy: 271, 55
+  xy: 44, 20
   size: 17, 7
   orig: 17, 7
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_lay_rs_3370_2_0.png
   rotate: false
-  xy: 23, 19
+  xy: 156, 35
   size: 16, 14
   orig: 16, 14
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_sit_ls_3370_0_0.png
   rotate: false
-  xy: 408, 35
+  xy: 383, 26
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_sit_ls_3370_2_0.png
   rotate: false
-  xy: 401, 35
+  xy: 404, 29
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_sit_rs_3370_0_0.png
   rotate: false
-  xy: 74, 10
+  xy: 263, 44
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_sit_rs_3370_2_0.png
   rotate: false
-  xy: 51, 7
+  xy: 23, 13
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
@@ -244,119 +244,119 @@ shirt_F_topbuttonshirt_h_std_ch_3370_7_0.png
   index: -1
 shirt_F_topbuttonshirt_h_std_ch_3371_2_0.png
   rotate: false
-  xy: 263, 29
+  xy: 63, 7
   size: 6, 20
   orig: 6, 20
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_std_ch_3371_3_0.png
   rotate: false
-  xy: 63, 6
+  xy: 375, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_std_ls_3370_0_0.png
   rotate: false
-  xy: 505, 48
+  xy: 193, 17
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_std_ls_3370_1_0.png
   rotate: false
-  xy: 362, 32
+  xy: 153, 2
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_std_ls_3370_2_0.png
   rotate: false
-  xy: 387, 33
+  xy: 201, 2
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_std_ls_3370_3_0.png
   rotate: false
-  xy: 98, 10
+  xy: 386, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_std_ls_3370_7_0.png
   rotate: false
-  xy: 231, 12
+  xy: 122, 15
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_std_rs_3370_0_0.png
   rotate: false
-  xy: 86, 10
+  xy: 239, 44
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_std_rs_3370_1_0.png
   rotate: false
-  xy: 281, 21
+  xy: 181, 2
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_std_rs_3370_2_0.png
   rotate: false
-  xy: 294, 35
+  xy: 364, 44
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_std_rs_3370_3_0.png
   rotate: false
-  xy: 138, 15
+  xy: 81, 11
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_std_rs_3370_7_0.png
   rotate: false
-  xy: 231, 30
+  xy: 153, 16
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wav_ls_3370_0_0.png
   rotate: false
-  xy: 37, 2
+  xy: 289, 47
   size: 12, 15
   orig: 12, 15
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wav_ls_3370_0_1.png
   rotate: false
-  xy: 218, 31
+  xy: 436, 47
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wav_ls_3370_1_0.png
   rotate: false
-  xy: 291, 21
+  xy: 341, 31
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wav_ls_3370_1_1.png
   rotate: false
-  xy: 371, 33
+  xy: 123, 2
   size: 7, 11
   orig: 7, 11
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wav_ls_3370_2_0.png
   rotate: false
-  xy: 195, 49
+  xy: 36, 2
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
@@ -368,317 +368,317 @@ shirt_F_topbuttonshirt_h_wav_ls_3370_2_1.png
   orig: 14, 13
   offset: 0, 0
   index: -1
-shirt_F_topbuttonshirt_h_wav_ls_3370_3_1.png
+shirt_F_topbuttonshirt_h_wav_ls_3370_3_0.png
   rotate: false
-  xy: 156, 32
+  xy: 225, 45
   size: 12, 17
   orig: 12, 17
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wav_ls_3370_4_0.png
   rotate: false
-  xy: 226, 48
+  xy: 210, 48
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wav_ls_3370_4_1.png
   rotate: false
-  xy: 211, 48
+  xy: 195, 48
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wav_ls_3370_5_0.png
   rotate: false
-  xy: 422, 50
+  xy: 493, 50
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wav_ls_3370_5_1.png
   rotate: false
-  xy: 408, 50
+  xy: 174, 35
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wav_ls_3370_6_0.png
   rotate: false
-  xy: 179, 33
+  xy: 209, 32
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wav_ls_3370_6_1.png
   rotate: false
-  xy: 394, 50
+  xy: 479, 50
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
-shirt_F_topbuttonshirt_h_wav_ls_3370_7_1.png
+shirt_F_topbuttonshirt_h_wav_ls_3370_7_0.png
   rotate: false
-  xy: 23, 2
+  xy: 275, 47
   size: 12, 15
   orig: 12, 15
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_0_0.png
   rotate: false
-  xy: 429, 36
+  xy: 425, 30
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_0_1.png
   rotate: false
-  xy: 394, 35
+  xy: 397, 29
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_0_2.png
   rotate: false
-  xy: 186, 18
+  xy: 432, 29
   size: 4, 13
   orig: 4, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_0_3.png
   rotate: false
-  xy: 300, 20
+  xy: 350, 30
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_1_0.png
   rotate: false
-  xy: 485, 49
+  xy: 304, 32
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_1_1.png
   rotate: false
-  xy: 436, 50
+  xy: 132, 2
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_1_2.png
   rotate: false
-  xy: 495, 49
+  xy: 314, 31
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_1_3.png
   rotate: false
-  xy: 156, 5
+  xy: 507, 55
   size: 3, 7
   orig: 3, 7
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_2_0.png
   rotate: false
-  xy: 380, 33
+  xy: 188, 33
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_2_1.png
   rotate: false
-  xy: 148, 17
+  xy: 229, 15
   size: 6, 15
   orig: 6, 15
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_2_2.png
   rotate: false
-  xy: 422, 35
+  xy: 368, 29
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_2_3.png
   rotate: false
-  xy: 436, 36
+  xy: 411, 30
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_3_0.png
   rotate: false
-  xy: 253, 30
+  xy: 426, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_3_1.png
   rotate: false
-  xy: 305, 44
+  xy: 416, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_3_2.png
   rotate: false
-  xy: 315, 44
+  xy: 406, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_3_3.png
   rotate: false
-  xy: 108, 14
+  xy: 91, 11
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
-shirt_F_topbuttonshirt_h_wlk_ls_3370_7_0.png
-  rotate: false
-  xy: 170, 33
-  size: 7, 16
-  orig: 7, 16
-  offset: 0, 0
-  index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_7_1.png
   rotate: false
-  xy: 156, 14
+  xy: 163, 17
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
+shirt_F_topbuttonshirt_h_wlk_ls_3370_7_2.png
+  rotate: false
+  xy: 35, 17
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
 shirt_F_topbuttonshirt_h_wlk_ls_3370_7_3.png
   rotate: false
-  xy: 192, 14
+  xy: 275, 30
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_0_0.png
   rotate: false
-  xy: 358, 46
+  xy: 52, 2
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_0_1.png
   rotate: false
-  xy: 192, 31
+  xy: 316, 46
   size: 11, 16
   orig: 11, 16
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_0_2.png
   rotate: false
-  xy: 369, 46
+  xy: 111, 15
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_0_3.png
   rotate: false
-  xy: 271, 36
+  xy: 341, 45
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_1_0.png
   rotate: false
-  xy: 251, 15
+  xy: 294, 32
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_1_1.png
   rotate: false
-  xy: 380, 49
+  xy: 195, 33
   size: 12, 13
   orig: 12, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_1_2.png
   rotate: false
-  xy: 261, 14
+  xy: 191, 2
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_1_3.png
   rotate: false
-  xy: 460, 51
+  xy: 111, 2
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_2_1.png
   rotate: false
-  xy: 205, 31
+  xy: 303, 47
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_2_2.png
   rotate: false
-  xy: 241, 30
+  xy: 251, 44
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_2_3.png
   rotate: false
-  xy: 335, 46
+  xy: 329, 46
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_3_0.png
   rotate: false
-  xy: 325, 44
+  xy: 396, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_3_1.png
   rotate: false
-  xy: 271, 21
+  xy: 171, 2
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_3_2.png
   rotate: false
-  xy: 118, 14
+  xy: 71, 10
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_3_3.png
   rotate: false
-  xy: 202, 14
+  xy: 209, 15
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
-shirt_F_topbuttonshirt_h_wlk_rs_3370_7_1.png
+shirt_F_topbuttonshirt_h_wlk_rs_3370_7_0.png
   rotate: false
-  xy: 241, 14
-  size: 8, 14
-  orig: 8, 14
-  offset: 0, 0
-  index: -1
-shirt_F_topbuttonshirt_h_wlk_rs_3370_7_2.png
-  rotate: false
-  xy: 222, 14
+  xy: 285, 30
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
+shirt_F_topbuttonshirt_h_wlk_rs_3370_7_1.png
+  rotate: false
+  xy: 183, 17
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
 shirt_F_topbuttonshirt_h_wlk_rs_3370_7_3.png
   rotate: false
-  xy: 212, 14
+  xy: 219, 15
   size: 8, 15
   orig: 8, 15
   offset: 0, 0

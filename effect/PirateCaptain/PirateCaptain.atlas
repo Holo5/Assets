@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 PirateCaptain_h_std_fx160_1_1_0_0.png
   rotate: false
-  xy: 85, 2
+  xy: 79, 4
   size: 16, 18
   orig: 16, 18
   offset: 0, 0
   index: -1
 PirateCaptain_h_std_fx160_1_1_1_0.png
   rotate: false
-  xy: 85, 22
+  xy: 107, 24
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 PirateCaptain_h_std_fx160_1_1_2_0.png
   rotate: false
-  xy: 129, 23
+  xy: 97, 9
   size: 19, 13
   orig: 19, 13
   offset: 0, 0
@@ -34,28 +34,28 @@ PirateCaptain_h_std_fx160_1_1_3_0.png
   index: -1
 PirateCaptain_h_std_fx160_1_1_4_0.png
   rotate: false
-  xy: 103, 7
+  xy: 129, 23
   size: 19, 13
   orig: 19, 13
   offset: 0, 0
   index: -1
 PirateCaptain_h_std_fx160_1_1_5_0.png
   rotate: false
-  xy: 107, 22
+  xy: 85, 24
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 PirateCaptain_h_std_fx160_1_1_7_0.png
   rotate: false
-  xy: 243, 61
+  xy: 206, 35
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 PirateCaptain_h_std_fx160_2_1_0_0.png
   rotate: false
-  xy: 206, 31
+  xy: 48, 31
   size: 35, 31
   orig: 35, 31
   offset: 0, 0
@@ -76,28 +76,28 @@ PirateCaptain_h_std_fx160_2_1_2_0.png
   index: -1
 PirateCaptain_h_std_fx160_2_1_3_0.png
   rotate: false
-  xy: 94, 38
+  xy: 131, 38
   size: 36, 24
   orig: 36, 24
   offset: 0, 0
   index: -1
 PirateCaptain_h_std_fx160_2_1_4_0.png
   rotate: false
-  xy: 132, 38
+  xy: 206, 38
   size: 35, 24
   orig: 35, 24
   offset: 0, 0
   index: -1
 PirateCaptain_h_std_fx160_2_1_5_0.png
   rotate: false
-  xy: 48, 40
+  xy: 85, 40
   size: 44, 22
   orig: 44, 22
   offset: 0, 0
   index: -1
 PirateCaptain_h_std_fx160_2_1_6_0.png
   rotate: false
-  xy: 48, 13
+  xy: 42, 4
   size: 35, 25
   orig: 35, 25
   offset: 0, 0

@@ -18,6 +18,13 @@ acc_face_U_tragedymask_h_spk_fa_3423_0_0.png
   orig: 32, 27
   offset: 0, 0
   index: -1
+acc_face_U_tragedymask_h_spk_fa_3423_1_0.png
+  rotate: false
+  xy: 36, 36
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
 acc_face_U_tragedymask_h_spk_fa_3423_2_0.png
   rotate: false
   xy: 2, 2
@@ -37,12 +44,5 @@ acc_face_U_tragedymask_h_spk_fa_3423_7_0.png
   xy: 36, 26
   size: 26, 8
   orig: 26, 8
-  offset: 0, 0
-  index: -1
-acc_face_U_tragedymask_h_std_fa_3423_1_0.png
-  rotate: false
-  xy: 36, 36
-  size: 30, 24
-  orig: 30, 24
   offset: 0, 0
   index: -1

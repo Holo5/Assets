@@ -4,14 +4,14 @@ size: 128,16
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-Pimple_h_std_fx157_1_1_1_0.png
+Pimple_h_std_fx157_1_1_0_0.png
   rotate: false
   xy: 56, 6
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
-Pimple_h_std_fx157_1_1_1_1.png
+Pimple_h_std_fx157_1_1_0_1.png
   rotate: false
   xy: 13, 5
   size: 9, 9
@@ -32,21 +32,21 @@ Pimple_h_std_fx157_1_1_3_1.png
   orig: 9, 9
   offset: 0, 0
   index: -1
-Pimple_h_std_fx157_1_1_4_0.png
-  rotate: false
-  xy: 46, 6
-  size: 8, 8
-  orig: 8, 8
-  offset: 0, 0
-  index: -1
-Pimple_h_std_fx157_1_1_4_1.png
+Pimple_h_std_fx157_1_1_5_1.png
   rotate: false
   xy: 2, 5
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
-Pimple_h_std_fx157_1_1_7_0.png
+Pimple_h_std_fx157_1_1_6_0.png
+  rotate: false
+  xy: 46, 6
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+Pimple_h_std_fx157_1_1_7_1.png
   rotate: false
   xy: 2, 2
   size: 1, 1

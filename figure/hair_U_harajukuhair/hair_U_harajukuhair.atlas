@@ -6,364 +6,364 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_harajukuhair_h_lay_hr_3212_2_0.png
   rotate: false
-  xy: 736, 26
+  xy: 690, 19
   size: 44, 36
   orig: 44, 36
+  offset: 0, 0
+  index: -1
+hair_U_harajukuhair_h_lay_hr_3213_2_0.png
+  rotate: false
+  xy: 1749, 38
+  size: 27, 17
+  orig: 27, 17
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_lay_hr_3214_2_0.png
   rotate: false
-  xy: 1391, 28
+  xy: 1307, 21
   size: 40, 34
   orig: 40, 34
   offset: 0, 0
   index: -1
-hair_U_harajukuhair_h_lay_hrb_3213_2_0.png
+hair_U_harajukuhair_h_lay_hrb_3214_2_0.png
   rotate: false
-  xy: 1720, 45
-  size: 27, 17
-  orig: 27, 17
+  xy: 1349, 21
+  size: 40, 34
+  orig: 40, 34
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_lsp_hr_3212_2_0.png
   rotate: false
-  xy: 644, 26
+  xy: 782, 19
   size: 44, 36
   orig: 44, 36
   offset: 0, 0
   index: -1
-hair_U_harajukuhair_h_lsp_hr_3213_2_0.png
-  rotate: false
-  xy: 1749, 45
-  size: 27, 17
-  orig: 27, 17
-  offset: 0, 0
-  index: -1
 hair_U_harajukuhair_h_lsp_hr_3214_2_0.png
   rotate: false
-  xy: 1307, 28
+  xy: 1391, 21
   size: 40, 34
   orig: 40, 34
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_lsp_hrb_3212_2_0.png
   rotate: false
-  xy: 828, 26
+  xy: 736, 19
   size: 44, 36
   orig: 44, 36
   offset: 0, 0
   index: -1
-hair_U_harajukuhair_h_lsp_hrb_3214_2_0.png
+hair_U_harajukuhair_h_lsp_hrb_3213_2_0.png
   rotate: false
-  xy: 1349, 28
-  size: 40, 34
-  orig: 40, 34
+  xy: 1720, 38
+  size: 27, 17
+  orig: 27, 17
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3212_0_0.png
   rotate: false
-  xy: 963, 23
+  xy: 963, 16
   size: 41, 39
   orig: 41, 39
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3212_1_0.png
   rotate: false
-  xy: 1472, 26
+  xy: 1433, 19
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3212_2_0.png
   rotate: false
-  xy: 874, 26
+  xy: 828, 19
   size: 44, 36
   orig: 44, 36
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3212_3_0.png
   rotate: false
-  xy: 114, 30
+  xy: 108, 23
   size: 54, 32
   orig: 54, 32
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3212_7_0.png
   rotate: false
-  xy: 332, 27
+  xy: 2, 20
   size: 51, 35
   orig: 51, 35
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3213_0_0.png
   rotate: false
-  xy: 1878, 50
+  xy: 1918, 43
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3213_1_0.png
   rotate: false
-  xy: 122, 2
+  xy: 1890, 43
   size: 26, 12
   orig: 26, 12
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3213_2_0.png
   rotate: false
-  xy: 34, 12
+  xy: 2, 2
   size: 30, 16
   orig: 30, 16
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3213_7_0.png
   rotate: false
-  xy: 1778, 48
+  xy: 1806, 41
   size: 26, 14
   orig: 26, 14
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3214_0_0.png
   rotate: false
-  xy: 1049, 25
+  xy: 1181, 18
   size: 40, 37
   orig: 40, 37
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3214_1_0.png
   rotate: false
-  xy: 1622, 27
+  xy: 1622, 20
   size: 34, 35
   orig: 34, 35
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3214_2_0.png
   rotate: false
-  xy: 1135, 27
+  xy: 1049, 20
   size: 42, 35
   orig: 42, 35
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3214_3_0.png
   rotate: false
-  xy: 278, 31
+  xy: 384, 24
   size: 52, 31
   orig: 52, 31
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hr_3214_7_0.png
   rotate: false
-  xy: 593, 30
+  xy: 593, 23
   size: 49, 32
   orig: 49, 32
   offset: 0, 0
   index: -1
-hair_U_harajukuhair_h_spk_hrb_3212_0_0.png
-  rotate: false
-  xy: 920, 23
-  size: 41, 39
-  orig: 41, 39
-  offset: 0, 0
-  index: -1
 hair_U_harajukuhair_h_spk_hrb_3212_1_0.png
   rotate: false
-  xy: 1433, 26
+  xy: 1472, 19
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_spk_hrb_3212_3_0.png
   rotate: false
-  xy: 2, 30
+  xy: 164, 23
   size: 54, 32
   orig: 54, 32
   offset: 0, 0
   index: -1
+hair_U_harajukuhair_h_spk_hrb_3212_7_0.png
+  rotate: false
+  xy: 55, 20
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
 hair_U_harajukuhair_h_spk_hrb_3213_0_0.png
   rotate: false
-  xy: 1834, 50
+  xy: 1962, 43
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
+hair_U_harajukuhair_h_spk_hrb_3213_1_0.png
+  rotate: false
+  xy: 1862, 43
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+hair_U_harajukuhair_h_spk_hrb_3213_2_0.png
+  rotate: false
+  xy: 34, 2
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
 hair_U_harajukuhair_h_spk_hrb_3213_3_0.png
   rotate: false
-  xy: 1690, 45
+  xy: 1690, 38
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
-hair_U_harajukuhair_h_spk_hrb_3214_0_0.png
-  rotate: false
-  xy: 1265, 25
-  size: 40, 37
-  orig: 40, 37
-  offset: 0, 0
-  index: -1
-hair_U_harajukuhair_h_spk_hrb_3214_3_0.png
-  rotate: false
-  xy: 170, 31
-  size: 52, 31
-  orig: 52, 31
-  offset: 0, 0
-  index: -1
 hair_U_harajukuhair_h_std_hr_3212_0_0.png
   rotate: false
-  xy: 1006, 23
+  xy: 1006, 16
   size: 41, 39
   orig: 41, 39
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3212_1_0.png
   rotate: false
-  xy: 1511, 26
+  xy: 1511, 19
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3212_2_0.png
   rotate: false
-  xy: 690, 26
+  xy: 874, 19
   size: 44, 36
   orig: 44, 36
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3212_3_0.png
   rotate: false
-  xy: 58, 30
+  xy: 220, 23
   size: 54, 32
   orig: 54, 32
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3212_7_0.png
   rotate: false
-  xy: 438, 27
+  xy: 438, 20
   size: 51, 35
   orig: 51, 35
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3213_0_0.png
   rotate: false
-  xy: 1856, 50
+  xy: 1940, 43
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3213_1_0.png
   rotate: false
-  xy: 1806, 50
+  xy: 1834, 43
   size: 26, 12
   orig: 26, 12
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3213_2_0.png
   rotate: false
-  xy: 2, 12
+  xy: 1658, 39
   size: 30, 16
   orig: 30, 16
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3213_3_0.png
   rotate: false
-  xy: 1658, 27
+  xy: 1658, 20
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3213_7_0.png
   rotate: false
-  xy: 94, 14
+  xy: 66, 4
   size: 26, 14
   orig: 26, 14
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3214_0_0.png
   rotate: false
-  xy: 1223, 25
+  xy: 1223, 18
   size: 40, 37
   orig: 40, 37
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3214_1_0.png
   rotate: false
-  xy: 1586, 27
+  xy: 1550, 20
   size: 34, 35
   orig: 34, 35
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3214_2_0.png
   rotate: false
-  xy: 1179, 27
+  xy: 1093, 20
   size: 42, 35
   orig: 42, 35
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3214_3_0.png
   rotate: false
-  xy: 224, 31
+  xy: 276, 24
   size: 52, 31
   orig: 52, 31
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hr_3214_7_0.png
   rotate: false
-  xy: 542, 30
+  xy: 491, 23
   size: 49, 32
   orig: 49, 32
   offset: 0, 0
   index: -1
+hair_U_harajukuhair_h_std_hrb_3212_0_0.png
+  rotate: false
+  xy: 920, 16
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
 hair_U_harajukuhair_h_std_hrb_3212_2_0.png
   rotate: false
-  xy: 782, 26
+  xy: 644, 19
   size: 44, 36
   orig: 44, 36
   offset: 0, 0
   index: -1
-hair_U_harajukuhair_h_std_hrb_3212_7_0.png
-  rotate: false
-  xy: 385, 27
-  size: 51, 35
-  orig: 51, 35
-  offset: 0, 0
-  index: -1
-hair_U_harajukuhair_h_std_hrb_3213_1_0.png
-  rotate: false
-  xy: 122, 16
-  size: 26, 12
-  orig: 26, 12
-  offset: 0, 0
-  index: -1
-hair_U_harajukuhair_h_std_hrb_3213_2_0.png
-  rotate: false
-  xy: 1658, 46
-  size: 30, 16
-  orig: 30, 16
-  offset: 0, 0
-  index: -1
 hair_U_harajukuhair_h_std_hrb_3213_7_0.png
   rotate: false
-  xy: 66, 14
+  xy: 1778, 41
   size: 26, 14
   orig: 26, 14
   offset: 0, 0
   index: -1
+hair_U_harajukuhair_h_std_hrb_3214_0_0.png
+  rotate: false
+  xy: 1265, 18
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
 hair_U_harajukuhair_h_std_hrb_3214_1_0.png
   rotate: false
-  xy: 1550, 27
+  xy: 1586, 20
   size: 34, 35
   orig: 34, 35
   offset: 0, 0
   index: -1
 hair_U_harajukuhair_h_std_hrb_3214_2_0.png
   rotate: false
-  xy: 1091, 27
+  xy: 1137, 20
   size: 42, 35
   orig: 42, 35
   offset: 0, 0
   index: -1
+hair_U_harajukuhair_h_std_hrb_3214_3_0.png
+  rotate: false
+  xy: 330, 24
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
 hair_U_harajukuhair_h_std_hrb_3214_7_0.png
   rotate: false
-  xy: 491, 30
+  xy: 542, 23
   size: 49, 32
   orig: 49, 32
   offset: 0, 0

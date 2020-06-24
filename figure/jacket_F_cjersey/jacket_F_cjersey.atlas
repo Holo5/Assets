@@ -6,63 +6,63 @@ filter: Nearest,Nearest
 repeat: none
 jacket_F_cjersey_h_crr_lc_2680_0_0.png
   rotate: false
-  xy: 180, 2
+  xy: 115, 11
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_lc_2680_1_0.png
   rotate: false
-  xy: 208, 114
+  xy: 211, 92
   size: 14, 20
   orig: 14, 20
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_lc_2680_2_0.png
   rotate: false
-  xy: 116, 2
+  xy: 174, 63
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_lc_2680_3_0.png
   rotate: false
-  xy: 244, 130
+  xy: 244, 115
   size: 10, 24
   orig: 10, 24
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_lc_2680_4_0.png
   rotate: false
-  xy: 67, 28
+  xy: 76, 46
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
+jacket_F_cjersey_h_crr_lc_2680_5_0.png
+  rotate: false
+  xy: 195, 93
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
 jacket_F_cjersey_h_crr_lc_2680_6_0.png
   rotate: false
-  xy: 240, 179
+  xy: 130, 89
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_lc_2680_7_0.png
   rotate: false
-  xy: 199, 4
+  xy: 82, 2
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
-jacket_F_cjersey_h_crr_lc_2681_0_0.png
-  rotate: false
-  xy: 62, 133
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 jacket_F_cjersey_h_crr_lc_2681_1_0.png
   rotate: false
-  xy: 112, 142
+  xy: 249, 29
   size: 3, 9
   orig: 3, 9
   offset: 0, 0
@@ -76,7 +76,7 @@ jacket_F_cjersey_h_crr_lc_2681_2_0.png
   index: -1
 jacket_F_cjersey_h_crr_lc_2681_3_0.png
   rotate: false
-  xy: 115, 110
+  xy: 161, 146
   size: 6, 25
   orig: 6, 25
   offset: 0, 0
@@ -88,72 +88,72 @@ jacket_F_cjersey_h_crr_lc_2681_4_0.png
   orig: 5, 7
   offset: 0, 0
   index: -1
+jacket_F_cjersey_h_crr_lc_2681_6_0.png
+  rotate: false
+  xy: 158, 170
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 jacket_F_cjersey_h_crr_lc_2681_7_0.png
   rotate: false
-  xy: 181, 26
+  xy: 241, 16
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_rc_2680_0_0.png
   rotate: false
-  xy: 240, 156
+  xy: 211, 69
   size: 14, 21
   orig: 14, 21
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_rc_2680_1_0.png
   rotate: false
-  xy: 208, 92
+  xy: 227, 89
   size: 14, 20
   orig: 14, 20
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_rc_2680_2_0.png
   rotate: false
-  xy: 209, 136
+  xy: 43, 65
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_rc_2680_3_0.png
   rotate: false
-  xy: 157, 118
+  xy: 244, 89
   size: 10, 24
   orig: 10, 24
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_rc_2680_4_0.png
   rotate: false
-  xy: 127, 30
+  xy: 198, 67
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
-jacket_F_cjersey_h_crr_rc_2680_5_0.png
-  rotate: false
-  xy: 123, 130
-  size: 14, 20
-  orig: 14, 20
-  offset: 0, 0
-  index: -1
 jacket_F_cjersey_h_crr_rc_2680_6_0.png
   rotate: false
-  xy: 111, 153
+  xy: 138, 65
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_rc_2680_7_0.png
   rotate: false
-  xy: 158, 70
+  xy: 104, 2
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_rc_2681_0_0.png
   rotate: false
-  xy: 63, 2
+  xy: 53, 109
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
@@ -167,7 +167,7 @@ jacket_F_cjersey_h_crr_rc_2681_2_0.png
   index: -1
 jacket_F_cjersey_h_crr_rc_2681_3_0.png
   rotate: false
-  xy: 129, 2
+  xy: 130, 113
   size: 6, 26
   orig: 6, 26
   offset: 0, 0
@@ -181,84 +181,84 @@ jacket_F_cjersey_h_crr_rc_2681_4_0.png
   index: -1
 jacket_F_cjersey_h_crr_rc_2681_6_0.png
   rotate: false
-  xy: 43, 2
+  xy: 214, 136
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_crr_rc_2681_7_0.png
   rotate: false
-  xy: 172, 2
+  xy: 187, 93
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2680_0_0.png
   rotate: false
-  xy: 139, 144
+  xy: 169, 143
   size: 18, 19
   orig: 18, 19
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2680_1_0.png
   rotate: false
-  xy: 33, 147
+  xy: 214, 206
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2680_2_0.png
   rotate: false
-  xy: 56, 163
+  xy: 169, 164
   size: 25, 17
   orig: 25, 17
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2680_3_0.png
   rotate: false
-  xy: 140, 26
+  xy: 196, 115
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2680_4_0.png
   rotate: false
-  xy: 123, 110
+  xy: 227, 69
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2680_5_0.png
   rotate: false
-  xy: 83, 163
+  xy: 90, 183
   size: 26, 12
   orig: 26, 12
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2680_6_0.png
   rotate: false
-  xy: 33, 133
+  xy: 214, 222
   size: 27, 12
   orig: 27, 12
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2680_7_0.png
   rotate: false
-  xy: 213, 50
+  xy: 114, 96
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2681_0_0.png
   rotate: false
-  xy: 119, 152
+  xy: 53, 92
   size: 18, 15
   orig: 18, 15
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2681_1_0.png
   rotate: false
-  xy: 200, 45
+  xy: 57, 25
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
@@ -272,14 +272,14 @@ jacket_F_cjersey_h_drk_rc_2681_2_0.png
   index: -1
 jacket_F_cjersey_h_drk_rc_2681_3_0.png
   rotate: false
-  xy: 239, 91
+  xy: 32, 2
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2681_4_0.png
   rotate: false
-  xy: 200, 38
+  xy: 114, 35
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
@@ -293,14 +293,14 @@ jacket_F_cjersey_h_drk_rc_2681_5_0.png
   index: -1
 jacket_F_cjersey_h_drk_rc_2681_6_0.png
   rotate: false
-  xy: 247, 71
+  xy: 47, 183
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_drk_rc_2681_7_0.png
   rotate: false
-  xy: 175, 203
+  xy: 227, 18
   size: 1, 3
   orig: 1, 3
   offset: 0, 0
@@ -321,28 +321,28 @@ jacket_F_cjersey_h_lay_cc_2681_2_0.png
   index: -1
 jacket_F_cjersey_h_lay_lc_2680_2_0.png
   rotate: false
-  xy: 178, 161
+  xy: 94, 115
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_lay_lc_2681_2_0.png
   rotate: false
-  xy: 247, 79
+  xy: 48, 26
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_lay_rc_2680_2_0.png
   rotate: false
-  xy: 203, 163
+  xy: 91, 96
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_lay_rc_2681_2_0.png
   rotate: false
-  xy: 90, 177
+  xy: 214, 236
   size: 27, 18
   orig: 27, 18
   offset: 0, 0
@@ -356,7 +356,7 @@ jacket_F_cjersey_h_std_cc_2680_0_0.png
   index: -1
 jacket_F_cjersey_h_std_cc_2680_1_0.png
   rotate: false
-  xy: 31, 110
+  xy: 94, 134
   size: 22, 21
   orig: 22, 21
   offset: 0, 0
@@ -419,98 +419,98 @@ jacket_F_cjersey_h_std_cc_2681_7_0.png
   index: -1
 jacket_F_cjersey_h_std_lc_2680_0_0.png
   rotate: false
-  xy: 189, 27
+  xy: 71, 2
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_lc_2680_1_0.png
   rotate: false
-  xy: 225, 49
+  xy: 230, 24
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_lc_2680_2_0.png
   rotate: false
-  xy: 169, 125
+  xy: 218, 2
   size: 7, 19
   orig: 7, 19
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_lc_2680_7_0.png
   rotate: false
-  xy: 116, 55
+  xy: 174, 36
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_lc_2681_0_0.png
   rotate: false
-  xy: 182, 50
+  xy: 227, 12
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_lc_2681_2_0.png
   rotate: false
-  xy: 204, 58
+  xy: 115, 5
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_lc_2681_3_0.png
   rotate: false
-  xy: 56, 22
+  xy: 157, 202
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_lc_2681_7_0.png
   rotate: false
-  xy: 84, 80
+  xy: 31, 117
   size: 6, 27
   orig: 6, 27
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_rc_2680_0_0.png
   rotate: false
-  xy: 137, 2
+  xy: 161, 36
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_rc_2680_2_0.png
   rotate: false
-  xy: 226, 156
+  xy: 218, 44
   size: 12, 23
   orig: 12, 23
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_rc_2680_7_0.png
   rotate: false
-  xy: 116, 28
+  xy: 185, 36
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_rc_2681_0_0.png
   rotate: false
-  xy: 226, 204
+  xy: 39, 121
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_rc_2681_1_0.png
   rotate: false
-  xy: 67, 22
+  xy: 207, 5
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_std_rc_2681_2_0.png
   rotate: false
-  xy: 140, 165
+  xy: 118, 196
   size: 17, 31
   orig: 17, 31
   offset: 0, 0
@@ -524,42 +524,42 @@ jacket_F_cjersey_h_std_rc_2681_3_0.png
   index: -1
 jacket_F_cjersey_h_std_rc_2681_7_0.png
   rotate: false
-  xy: 108, 28
+  xy: 122, 68
   size: 6, 26
   orig: 6, 26
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_0_0.png
   rotate: false
-  xy: 101, 2
+  xy: 170, 117
   size: 13, 24
   orig: 13, 24
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_0_1.png
   rotate: false
-  xy: 83, 2
+  xy: 73, 73
   size: 16, 24
   orig: 16, 24
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_2_0.png
   rotate: false
-  xy: 139, 117
+  xy: 73, 99
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_2_1.png
   rotate: false
-  xy: 85, 112
+  xy: 194, 207
   size: 18, 24
   orig: 18, 24
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_3_0.png
   rotate: false
-  xy: 118, 197
+  xy: 119, 164
   size: 16, 30
   orig: 16, 30
   offset: 0, 0
@@ -573,98 +573,98 @@ jacket_F_cjersey_h_wav_lc_2680_3_1.png
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_4_0.png
   rotate: false
-  xy: 201, 182
+  xy: 169, 183
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_4_1.png
   rotate: false
-  xy: 85, 138
+  xy: 53, 129
   size: 20, 23
   orig: 20, 23
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_5_0.png
   rotate: false
-  xy: 159, 169
+  xy: 75, 153
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_5_1.png
   rotate: false
-  xy: 66, 82
+  xy: 196, 158
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_6_0.png
   rotate: false
-  xy: 178, 180
+  xy: 52, 154
   size: 21, 26
   orig: 21, 26
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_6_1.png
   rotate: false
-  xy: 201, 207
+  xy: 94, 157
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_7_0.png
   rotate: false
-  xy: 67, 55
+  xy: 43, 38
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2680_7_1.png
   rotate: false
-  xy: 66, 109
+  xy: 75, 126
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_0_0.png
   rotate: false
-  xy: 32, 6
+  xy: 207, 11
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_0_1.png
   rotate: false
-  xy: 32, 13
+  xy: 31, 110
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_2_0.png
   rotate: false
-  xy: 200, 31
+  xy: 124, 36
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_2_1.png
   rotate: false
-  xy: 221, 37
+  xy: 123, 24
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_3_0.png
   rotate: false
-  xy: 226, 134
+  xy: 196, 136
   size: 16, 20
   orig: 16, 20
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_3_1.png
   rotate: false
-  xy: 178, 139
+  xy: 194, 185
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
@@ -678,222 +678,215 @@ jacket_F_cjersey_h_wav_lc_2681_4_0.png
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_4_1.png
   rotate: false
-  xy: 214, 233
+  xy: 214, 183
   size: 24, 21
   orig: 24, 21
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_5_0.png
   rotate: false
-  xy: 159, 146
+  xy: 91, 73
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_5_1.png
   rotate: false
-  xy: 140, 70
+  xy: 214, 114
   size: 16, 20
   orig: 16, 20
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_6_0.png
   rotate: false
-  xy: 62, 136
+  xy: 214, 156
   size: 21, 25
   orig: 21, 25
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_6_1.png
   rotate: false
-  xy: 175, 208
+  xy: 168, 208
   size: 24, 23
   orig: 24, 23
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_7_0.png
   rotate: false
-  xy: 37, 163
+  xy: 237, 141
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wav_lc_2681_7_1.png
   rotate: false
-  xy: 119, 169
+  xy: 137, 170
   size: 19, 26
   orig: 19, 26
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_0_0.png
   rotate: false
-  xy: 225, 69
+  xy: 103, 25
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_0_1.png
   rotate: false
-  xy: 236, 68
+  xy: 93, 2
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_0_2.png
   rotate: false
-  xy: 150, 2
+  xy: 207, 18
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_0_3.png
   rotate: false
-  xy: 84, 28
+  xy: 243, 40
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_1_1.png
   rotate: false
-  xy: 224, 92
+  xy: 146, 21
   size: 13, 18
   orig: 13, 18
   offset: 0, 0
   index: -1
-jacket_F_cjersey_h_wlk_lc_2680_1_2.png
-  rotate: false
-  xy: 158, 26
-  size: 10, 19
-  orig: 10, 19
-  offset: 0, 0
-  index: -1
 jacket_F_cjersey_h_wlk_lc_2680_1_3.png
   rotate: false
-  xy: 107, 138
+  xy: 43, 23
   size: 3, 13
   orig: 3, 13
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_2_0.png
   rotate: false
-  xy: 236, 47
+  xy: 130, 68
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_2_1.png
   rotate: false
-  xy: 188, 3
+  xy: 60, 2
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_2_3.png
   rotate: false
-  xy: 206, 64
+  xy: 189, 141
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
-jacket_F_cjersey_h_wlk_lc_2680_3_1.png
+jacket_F_cjersey_h_wlk_lc_2680_3_0.png
   rotate: false
-  xy: 169, 75
+  xy: 134, 40
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
-jacket_F_cjersey_h_wlk_lc_2680_3_2.png
+jacket_F_cjersey_h_wlk_lc_2680_3_1.png
   rotate: false
-  xy: 169, 100
+  xy: 206, 42
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_3_3.png
   rotate: false
-  xy: 157, 47
+  xy: 48, 2
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_7_0.png
   rotate: false
-  xy: 105, 56
+  xy: 119, 115
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_7_1.png
   rotate: false
-  xy: 198, 137
+  xy: 174, 12
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_7_2.png
   rotate: false
-  xy: 158, 93
+  xy: 232, 44
   size: 9, 23
   orig: 9, 23
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2680_7_3.png
   rotate: false
-  xy: 55, 80
+  xy: 185, 12
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2681_0_0.png
   rotate: false
-  xy: 210, 38
+  xy: 196, 7
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2681_0_1.png
   rotate: false
-  xy: 221, 31
+  xy: 124, 30
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2681_0_2.png
   rotate: false
-  xy: 221, 43
+  xy: 227, 6
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2681_0_3.png
   rotate: false
-  xy: 210, 44
+  xy: 57, 32
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
-jacket_F_cjersey_h_wlk_lc_2681_2_0.png
-  rotate: false
-  xy: 204, 52
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
 jacket_F_cjersey_h_wlk_lc_2681_2_1.png
   rotate: false
-  xy: 247, 64
+  xy: 67, 25
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
-jacket_F_cjersey_h_wlk_lc_2681_3_0.png
+jacket_F_cjersey_h_wlk_lc_2681_2_2.png
   rotate: false
-  xy: 42, 80
+  xy: 114, 42
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+jacket_F_cjersey_h_wlk_lc_2681_3_1.png
+  rotate: false
+  xy: 30, 49
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
-jacket_F_cjersey_h_wlk_lc_2681_3_1.png
+jacket_F_cjersey_h_wlk_lc_2681_3_2.png
   rotate: false
   xy: 29, 79
   size: 11, 28
@@ -902,224 +895,231 @@ jacket_F_cjersey_h_wlk_lc_2681_3_1.png
   index: -1
 jacket_F_cjersey_h_wlk_lc_2681_3_3.png
   rotate: false
-  xy: 43, 22
+  xy: 174, 89
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2681_7_0.png
   rotate: false
-  xy: 97, 28
+  xy: 187, 65
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2681_7_1.png
   rotate: false
-  xy: 105, 110
+  xy: 160, 114
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2681_7_2.png
   rotate: false
-  xy: 56, 51
+  xy: 42, 92
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_lc_2681_7_3.png
   rotate: false
-  xy: 94, 56
+  xy: 149, 113
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2680_0_0.png
   rotate: false
-  xy: 193, 65
+  xy: 161, 14
   size: 11, 20
   orig: 11, 20
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2680_0_1.png
   rotate: false
-  xy: 226, 181
+  xy: 136, 141
   size: 12, 21
   orig: 12, 21
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2680_0_2.png
   rotate: false
-  xy: 169, 50
+  xy: 243, 64
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2680_0_3.png
   rotate: false
-  xy: 224, 112
+  xy: 146, 41
   size: 13, 20
   orig: 13, 20
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2680_1_0.png
   rotate: false
-  xy: 244, 43
+  xy: 218, 23
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2680_1_1.png
   rotate: false
-  xy: 239, 109
+  xy: 76, 25
   size: 13, 19
   orig: 13, 19
   offset: 0, 0
   index: -1
+jacket_F_cjersey_h_wlk_rc_2680_1_2.png
+  rotate: false
+  xy: 91, 25
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
 jacket_F_cjersey_h_wlk_rc_2680_1_3.png
   rotate: false
-  xy: 140, 47
+  xy: 119, 141
   size: 15, 21
   orig: 15, 21
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2680_2_0.png
   rotate: false
-  xy: 181, 89
+  xy: 146, 88
   size: 13, 23
   orig: 13, 23
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2680_2_1.png
   rotate: false
-  xy: 140, 92
+  xy: 93, 48
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2680_2_2.png
   rotate: false
-  xy: 181, 114
+  xy: 146, 63
   size: 13, 23
   orig: 13, 23
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2680_2_3.png
   rotate: false
-  xy: 240, 229
+  xy: 240, 169
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
   index: -1
+jacket_F_cjersey_h_wlk_rc_2680_3_0.png
+  rotate: false
+  xy: 232, 111
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
 jacket_F_cjersey_h_wlk_rc_2680_3_1.png
   rotate: false
-  xy: 213, 69
+  xy: 110, 73
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
-jacket_F_cjersey_h_wlk_rc_2680_3_2.png
-  rotate: false
-  xy: 196, 87
-  size: 10, 23
-  orig: 10, 23
-  offset: 0, 0
-  index: -1
 jacket_F_cjersey_h_wlk_rc_2680_3_3.png
   rotate: false
-  xy: 196, 112
+  xy: 122, 43
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
-jacket_F_cjersey_h_wlk_rc_2680_7_1.png
+jacket_F_cjersey_h_wlk_rc_2680_7_0.png
   rotate: false
-  xy: 170, 26
-  size: 9, 22
-  orig: 9, 22
-  offset: 0, 0
-  index: -1
-jacket_F_cjersey_h_wlk_rc_2680_7_2.png
-  rotate: false
-  xy: 182, 64
+  xy: 111, 48
   size: 9, 23
   orig: 9, 23
   offset: 0, 0
   index: -1
+jacket_F_cjersey_h_wlk_rc_2680_7_1.png
+  rotate: false
+  xy: 185, 117
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
 jacket_F_cjersey_h_wlk_rc_2680_7_3.png
   rotate: false
-  xy: 161, 2
+  xy: 196, 13
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_0_0.png
   rotate: false
-  xy: 127, 83
+  xy: 161, 60
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_0_1.png
   rotate: false
-  xy: 116, 82
+  xy: 138, 113
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_0_2.png
   rotate: false
-  xy: 127, 56
+  xy: 161, 87
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_0_3.png
   rotate: false
-  xy: 240, 203
+  xy: 60, 38
   size: 14, 24
   orig: 14, 24
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_1_0.png
   rotate: false
-  xy: 210, 33
+  xy: 134, 35
   size: 9, 3
   orig: 9, 3
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_1_1.png
   rotate: false
-  xy: 193, 59
+  xy: 230, 18
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_1_2.png
   rotate: false
-  xy: 193, 53
+  xy: 137, 164
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_1_3.png
   rotate: false
-  xy: 182, 56
+  xy: 37, 183
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_2_1.png
   rotate: false
-  xy: 136, 198
+  xy: 137, 198
   size: 18, 31
   orig: 18, 31
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_2_2.png
   rotate: false
-  xy: 156, 198
+  xy: 33, 150
   size: 17, 31
   orig: 17, 31
   offset: 0, 0
@@ -1133,42 +1133,42 @@ jacket_F_cjersey_h_wlk_rc_2681_2_3.png
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_3_0.png
   rotate: false
-  xy: 30, 49
+  xy: 243, 226
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_3_1.png
   rotate: false
-  xy: 92, 84
+  xy: 60, 64
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 jacket_F_cjersey_h_wlk_rc_2681_3_3.png
   rotate: false
-  xy: 43, 50
+  xy: 243, 196
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
-jacket_F_cjersey_h_wlk_rc_2681_7_1.png
+jacket_F_cjersey_h_wlk_rc_2681_7_0.png
   rotate: false
-  xy: 105, 82
-  size: 9, 26
-  orig: 9, 26
-  offset: 0, 0
-  index: -1
-jacket_F_cjersey_h_wlk_rc_2681_7_2.png
-  rotate: false
-  xy: 55, 104
+  xy: 158, 173
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
+jacket_F_cjersey_h_wlk_rc_2681_7_1.png
+  rotate: false
+  xy: 150, 142
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
 jacket_F_cjersey_h_wlk_rc_2681_7_3.png
   rotate: false
-  xy: 84, 52
+  xy: 196, 37
   size: 8, 26
   orig: 8, 26
   offset: 0, 0

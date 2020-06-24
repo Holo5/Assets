@@ -34,7 +34,7 @@ trousers_U_bikinibottomstars_h_sit_lg_2224_2_0.png
   index: -1
 trousers_U_bikinibottomstars_h_sit_lg_2225_0_0.png
   rotate: false
-  xy: 397, 22
+  xy: 328, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
@@ -48,14 +48,14 @@ trousers_U_bikinibottomstars_h_sit_lg_2225_2_0.png
   index: -1
 trousers_U_bikinibottomstars_h_std_lg_2224_0_0.png
   rotate: false
-  xy: 101, 2
+  xy: 124, 2
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 trousers_U_bikinibottomstars_h_std_lg_2224_1_0.png
   rotate: false
-  xy: 438, 23
+  xy: 187, 3
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
@@ -69,16 +69,23 @@ trousers_U_bikinibottomstars_h_std_lg_2224_2_0.png
   index: -1
 trousers_U_bikinibottomstars_h_std_lg_2224_3_0.png
   rotate: false
-  xy: 167, 22
+  xy: 190, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottomstars_h_std_lg_2224_7_0.png
   rotate: false
-  xy: 374, 22
+  xy: 167, 22
   size: 21, 8
   orig: 21, 8
+  offset: 0, 0
+  index: -1
+trousers_U_bikinibottomstars_h_std_lg_2225_0_0.png
+  rotate: false
+  xy: 167, 12
+  size: 18, 8
+  orig: 18, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottomstars_h_std_lg_2225_3_0.png
@@ -88,16 +95,23 @@ trousers_U_bikinibottomstars_h_std_lg_2225_3_0.png
   orig: 16, 6
   offset: 0, 0
   index: -1
+trousers_U_bikinibottomstars_h_std_lg_2225_7_0.png
+  rotate: false
+  xy: 205, 6
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2224_0_1.png
   rotate: false
-  xy: 77, 2
+  xy: 101, 17
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2224_0_3.png
   rotate: false
-  xy: 101, 17
+  xy: 77, 2
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
@@ -111,7 +125,7 @@ trousers_U_bikinibottomstars_h_wlk_lg_2224_1_1.png
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2224_1_2.png
   rotate: false
-  xy: 187, 3
+  xy: 438, 23
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
@@ -123,7 +137,7 @@ trousers_U_bikinibottomstars_h_wlk_lg_2224_1_3.png
   orig: 16, 8
   offset: 0, 0
   index: -1
-trousers_U_bikinibottomstars_h_wlk_lg_2224_2_2.png
+trousers_U_bikinibottomstars_h_wlk_lg_2224_2_1.png
   rotate: false
   xy: 125, 17
   size: 20, 13
@@ -132,35 +146,35 @@ trousers_U_bikinibottomstars_h_wlk_lg_2224_2_2.png
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2224_2_3.png
   rotate: false
-  xy: 124, 2
+  xy: 101, 2
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2224_3_0.png
   rotate: false
-  xy: 236, 22
+  xy: 213, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2224_3_1.png
   rotate: false
-  xy: 259, 22
+  xy: 236, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2224_3_2.png
   rotate: false
-  xy: 190, 22
+  xy: 259, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2224_3_3.png
   rotate: false
-  xy: 213, 22
+  xy: 282, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
@@ -174,30 +188,23 @@ trousers_U_bikinibottomstars_h_wlk_lg_2224_7_0.png
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2224_7_1.png
   rotate: false
-  xy: 282, 22
+  xy: 351, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2224_7_2.png
   rotate: false
-  xy: 351, 22
+  xy: 374, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2224_7_3.png
   rotate: false
-  xy: 328, 22
+  xy: 397, 22
   size: 21, 8
   orig: 21, 8
-  offset: 0, 0
-  index: -1
-trousers_U_bikinibottomstars_h_wlk_lg_2225_0_0.png
-  rotate: false
-  xy: 167, 12
-  size: 18, 8
-  orig: 18, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2225_0_1.png
@@ -216,7 +223,7 @@ trousers_U_bikinibottomstars_h_wlk_lg_2225_1_0.png
   index: -1
 trousers_U_bikinibottomstars_h_wlk_lg_2225_1_3.png
   rotate: false
-  xy: 205, 6
+  xy: 456, 24
   size: 12, 6
   orig: 12, 6
   offset: 0, 0
@@ -233,12 +240,5 @@ trousers_U_bikinibottomstars_h_wlk_lg_2225_2_2.png
   xy: 26, 2
   size: 18, 10
   orig: 18, 10
-  offset: 0, 0
-  index: -1
-trousers_U_bikinibottomstars_h_wlk_lg_2225_7_3.png
-  rotate: false
-  xy: 456, 24
-  size: 12, 6
-  orig: 12, 6
   offset: 0, 0
   index: -1

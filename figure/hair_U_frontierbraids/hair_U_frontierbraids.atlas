@@ -4,51 +4,51 @@ size: 128,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hair_U_frontierbraids_h_lay_hr_3071_2_0.png
+hair_U_frontierbraids_h_lay_hrb_3071_2_0.png
   rotate: false
   xy: 66, 34
   size: 22, 36
   orig: 22, 36
   offset: 0, 0
   index: -1
-hair_U_frontierbraids_h_lay_hr_3072_2_0.png
-  rotate: false
-  xy: 90, 40
-  size: 8, 6
-  orig: 8, 6
-  offset: 0, 0
-  index: -1
-hair_U_frontierbraids_h_lsp_hrb_3071_2_0.png
+hair_U_frontierbraids_h_lsp_hr_3071_2_0.png
   rotate: false
   xy: 66, 72
   size: 22, 36
   orig: 22, 36
   offset: 0, 0
   index: -1
+hair_U_frontierbraids_h_lsp_hr_3072_2_0.png
+  rotate: false
+  xy: 90, 40
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
 hair_U_frontierbraids_h_spk_hr_3071_0_0.png
   rotate: false
-  xy: 96, 158
+  xy: 96, 119
   size: 30, 37
   orig: 30, 37
   offset: 0, 0
   index: -1
 hair_U_frontierbraids_h_spk_hr_3071_1_0.png
   rotate: false
-  xy: 34, 152
+  xy: 66, 197
   size: 30, 42
   orig: 30, 42
   offset: 0, 0
   index: -1
 hair_U_frontierbraids_h_spk_hr_3071_2_0.png
   rotate: false
-  xy: 98, 197
+  xy: 66, 153
   size: 28, 42
   orig: 28, 42
   offset: 0, 0
   index: -1
 hair_U_frontierbraids_h_spk_hr_3071_3_0.png
   rotate: false
-  xy: 2, 195
+  xy: 2, 149
   size: 30, 44
   orig: 30, 44
   offset: 0, 0
@@ -60,37 +60,30 @@ hair_U_frontierbraids_h_spk_hr_3071_7_0.png
   orig: 30, 31
   offset: 0, 0
   index: -1
-hair_U_frontierbraids_h_spk_hr_3072_3_0.png
-  rotate: false
-  xy: 2, 12
-  size: 18, 4
-  orig: 18, 4
-  offset: 0, 0
-  index: -1
 hair_U_frontierbraids_h_spk_hrb_3071_0_0.png
   rotate: false
-  xy: 96, 119
+  xy: 96, 158
   size: 30, 37
   orig: 30, 37
   offset: 0, 0
   index: -1
 hair_U_frontierbraids_h_spk_hrb_3071_1_0.png
   rotate: false
-  xy: 66, 197
+  xy: 34, 152
   size: 30, 42
   orig: 30, 42
   offset: 0, 0
   index: -1
 hair_U_frontierbraids_h_spk_hrb_3071_2_0.png
   rotate: false
-  xy: 66, 153
+  xy: 98, 197
   size: 28, 42
   orig: 28, 42
   offset: 0, 0
   index: -1
 hair_U_frontierbraids_h_spk_hrb_3071_3_0.png
   rotate: false
-  xy: 2, 149
+  xy: 2, 195
   size: 30, 44
   orig: 30, 44
   offset: 0, 0
@@ -102,30 +95,30 @@ hair_U_frontierbraids_h_spk_hrb_3071_7_0.png
   orig: 30, 31
   offset: 0, 0
   index: -1
-hair_U_frontierbraids_h_spk_hrb_3072_0_0.png
+hair_U_frontierbraids_h_spk_hrb_3072_1_0.png
   rotate: false
-  xy: 90, 107
-  size: 1, 1
-  orig: 1, 1
+  xy: 2, 5
+  size: 5, 5
+  orig: 5, 5
   offset: 0, 0
   index: -1
-hair_U_frontierbraids_h_spk_hrb_3072_2_0.png
+hair_U_frontierbraids_h_spk_hrb_3072_3_0.png
   rotate: false
-  xy: 22, 10
-  size: 8, 6
-  orig: 8, 6
+  xy: 2, 12
+  size: 18, 4
+  orig: 18, 4
   offset: 0, 0
   index: -1
 hair_U_frontierbraids_h_std_hr_3071_0_0.png
   rotate: false
-  xy: 96, 81
+  xy: 34, 71
   size: 30, 36
   orig: 30, 36
   offset: 0, 0
   index: -1
 hair_U_frontierbraids_h_std_hr_3071_1_0.png
   rotate: false
-  xy: 2, 61
+  xy: 34, 109
   size: 30, 41
   orig: 30, 41
   offset: 0, 0
@@ -146,28 +139,21 @@ hair_U_frontierbraids_h_std_hr_3071_3_0.png
   index: -1
 hair_U_frontierbraids_h_std_hr_3071_7_0.png
   rotate: false
-  xy: 32, 6
+  xy: 64, 2
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-hair_U_frontierbraids_h_std_hr_3072_1_0.png
-  rotate: false
-  xy: 2, 5
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
 hair_U_frontierbraids_h_std_hrb_3071_0_0.png
   rotate: false
-  xy: 34, 71
+  xy: 96, 81
   size: 30, 36
   orig: 30, 36
   offset: 0, 0
   index: -1
 hair_U_frontierbraids_h_std_hrb_3071_1_0.png
   rotate: false
-  xy: 34, 109
+  xy: 2, 61
   size: 30, 41
   orig: 30, 41
   offset: 0, 0
@@ -188,8 +174,22 @@ hair_U_frontierbraids_h_std_hrb_3071_3_0.png
   index: -1
 hair_U_frontierbraids_h_std_hrb_3071_7_0.png
   rotate: false
-  xy: 64, 2
+  xy: 32, 6
   size: 30, 30
   orig: 30, 30
+  offset: 0, 0
+  index: -1
+hair_U_frontierbraids_h_std_hrb_3072_0_0.png
+  rotate: false
+  xy: 90, 107
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hair_U_frontierbraids_h_std_hrb_3072_2_0.png
+  rotate: false
+  xy: 22, 10
+  size: 8, 6
+  orig: 8, 6
   offset: 0, 0
   index: -1

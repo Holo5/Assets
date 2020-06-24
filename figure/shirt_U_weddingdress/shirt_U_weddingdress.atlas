@@ -4,51 +4,51 @@ size: 512,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shirt_U_weddingdress_h_crr_ls_2960_3_0.png
+shirt_U_weddingdress_h_crr_ls_2961_3_0.png
   rotate: false
-  xy: 43, 14
+  xy: 115, 114
   size: 21, 3
   orig: 21, 3
   offset: 0, 0
   index: -1
-shirt_U_weddingdress_h_crr_rs_2961_3_0.png
-  rotate: false
-  xy: 302, 101
-  size: 3, 4
-  orig: 3, 4
-  offset: 0, 0
-  index: -1
 shirt_U_weddingdress_h_drk_rs_2960_2_0.png
   rotate: false
-  xy: 499, 122
+  xy: 43, 9
   size: 3, 9
   orig: 3, 9
   offset: 0, 0
   index: -1
+shirt_U_weddingdress_h_drk_rs_2961_3_0.png
+  rotate: false
+  xy: 60, 14
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
 shirt_U_weddingdress_h_lay_ch_2960_2_0.png
   rotate: false
-  xy: 308, 175
+  xy: 219, 177
   size: 46, 33
   orig: 46, 33
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_lay_ch_2961_2_0.png
   rotate: false
-  xy: 273, 88
+  xy: 116, 5
   size: 27, 27
   orig: 27, 27
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_sit_ch_2960_0_0.png
   rotate: false
-  xy: 234, 86
+  xy: 116, 34
   size: 37, 32
   orig: 37, 32
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_sit_ch_2960_2_0.png
   rotate: false
-  xy: 389, 91
+  xy: 232, 137
   size: 33, 38
   orig: 33, 38
   offset: 0, 0
@@ -62,428 +62,428 @@ shirt_U_weddingdress_h_sit_ch_2961_0_0.png
   index: -1
 shirt_U_weddingdress_h_sit_ch_2961_2_0.png
   rotate: false
-  xy: 115, 2
+  xy: 145, 6
   size: 23, 26
   orig: 23, 26
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_std_ch_2960_0_0.png
   rotate: false
-  xy: 156, 163
+  xy: 2, 67
   size: 36, 46
   orig: 36, 46
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_std_ch_2960_1_0.png
   rotate: false
-  xy: 44, 115
+  xy: 114, 68
   size: 33, 44
   orig: 33, 44
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_std_ch_2960_2_0.png
   rotate: false
-  xy: 2, 19
+  xy: 76, 66
   size: 36, 46
   orig: 36, 46
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_std_ch_2960_3_0.png
   rotate: false
-  xy: 47, 207
+  xy: 47, 210
   size: 40, 44
   orig: 40, 44
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_std_ch_2960_7_0.png
   rotate: false
-  xy: 220, 209
+  xy: 221, 212
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_std_ch_2961_0_0.png
   rotate: false
-  xy: 194, 120
+  xy: 429, 127
   size: 38, 41
   orig: 38, 41
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_std_ch_2961_1_0.png
   rotate: false
-  xy: 424, 92
+  xy: 152, 124
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_std_ch_2961_2_0.png
   rotate: false
-  xy: 194, 83
+  xy: 307, 94
   size: 38, 35
   orig: 38, 35
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_std_ch_2961_3_0.png
   rotate: false
-  xy: 356, 173
+  xy: 347, 130
   size: 40, 35
   orig: 40, 35
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_std_ch_2961_7_0.png
   rotate: false
-  xy: 304, 210
+  xy: 347, 167
   size: 40, 41
   orig: 40, 41
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_std_ls_2960_3_0.png
   rotate: false
-  xy: 302, 107
+  xy: 48, 10
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
+shirt_U_weddingdress_h_std_rs_2960_3_0.png
+  rotate: false
+  xy: 145, 2
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
 shirt_U_weddingdress_h_wav_ls_2960_0_1.png
   rotate: false
-  xy: 140, 22
+  xy: 51, 2
   size: 3, 6
   orig: 3, 6
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wav_ls_2960_3_1.png
   rotate: false
-  xy: 504, 163
+  xy: 43, 2
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
-shirt_U_weddingdress_h_wav_ls_2960_4_0.png
+shirt_U_weddingdress_h_wav_ls_2960_4_1.png
   rotate: false
-  xy: 43, 7
+  xy: 54, 13
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
-shirt_U_weddingdress_h_wav_ls_2960_7_1.png
+shirt_U_weddingdress_h_wav_ls_2960_7_0.png
   rotate: false
-  xy: 504, 157
+  xy: 65, 14
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
-shirt_U_weddingdress_h_wav_ls_2961_5_1.png
-  rotate: false
-  xy: 469, 207
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_0_0.png
   rotate: false
-  xy: 120, 114
+  xy: 116, 163
   size: 34, 46
   orig: 34, 46
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_0_1.png
   rotate: false
-  xy: 2, 206
+  xy: 2, 209
   size: 43, 45
   orig: 43, 45
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_0_2.png
   rotate: false
-  xy: 77, 17
+  xy: 152, 166
   size: 36, 46
   orig: 36, 46
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_0_3.png
   rotate: false
-  xy: 120, 162
+  xy: 40, 66
   size: 34, 47
   orig: 34, 47
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_1_0.png
   rotate: false
-  xy: 273, 163
+  xy: 44, 163
   size: 33, 44
   orig: 33, 44
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_1_1.png
   rotate: false
-  xy: 2, 161
+  xy: 89, 211
   size: 41, 43
   orig: 41, 43
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_1_2.png
   rotate: false
-  xy: 274, 117
+  xy: 459, 81
   size: 33, 44
   orig: 33, 44
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_1_3.png
   rotate: false
-  xy: 472, 207
+  xy: 346, 210
   size: 38, 44
   orig: 38, 44
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_2_0.png
   rotate: false
-  xy: 40, 19
+  xy: 79, 162
   size: 35, 46
   orig: 35, 46
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_2_1.png
   rotate: false
-  xy: 42, 67
+  xy: 42, 115
   size: 33, 46
   orig: 33, 46
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_2_2.png
   rotate: false
-  xy: 83, 159
+  xy: 79, 18
   size: 35, 46
   orig: 35, 46
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_2_3.png
   rotate: false
-  xy: 77, 65
+  xy: 77, 114
   size: 36, 46
   orig: 36, 46
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_3_0.png
   rotate: false
-  xy: 2, 115
+  xy: 2, 163
   size: 40, 44
   orig: 40, 44
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_3_1.png
   rotate: false
-  xy: 156, 115
+  xy: 2, 19
   size: 36, 46
   orig: 36, 46
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_3_2.png
   rotate: false
-  xy: 79, 113
+  xy: 305, 210
   size: 39, 44
   orig: 39, 44
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_3_3.png
   rotate: false
-  xy: 2, 67
+  xy: 2, 115
   size: 38, 46
   orig: 38, 46
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_7_0.png
   rotate: false
-  xy: 430, 210
+  xy: 429, 170
   size: 40, 41
   orig: 40, 41
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_7_1.png
   rotate: false
-  xy: 194, 163
+  xy: 386, 210
   size: 38, 44
   orig: 38, 44
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_7_2.png
   rotate: false
-  xy: 262, 209
+  xy: 263, 212
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2960_7_3.png
   rotate: false
-  xy: 234, 163
+  xy: 40, 20
   size: 37, 44
   orig: 37, 44
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_0_0.png
   rotate: false
-  xy: 462, 90
+  xy: 115, 119
   size: 35, 41
   orig: 35, 41
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_0_1.png
   rotate: false
-  xy: 89, 211
+  xy: 132, 214
   size: 43, 40
   orig: 43, 40
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_0_2.png
   rotate: false
-  xy: 234, 120
+  xy: 389, 167
   size: 38, 41
   orig: 38, 41
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_0_3.png
   rotate: false
-  xy: 115, 69
+  xy: 423, 83
   size: 34, 42
   orig: 34, 42
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_1_0.png
   rotate: false
-  xy: 385, 131
+  xy: 267, 128
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_1_1.png
   rotate: false
-  xy: 134, 212
+  xy: 177, 215
   size: 42, 39
   orig: 42, 39
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_1_2.png
   rotate: false
-  xy: 347, 131
+  xy: 267, 170
   size: 36, 40
   orig: 36, 40
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_1_3.png
   rotate: false
-  xy: 178, 211
+  xy: 305, 168
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_2_0.png
   rotate: false
-  xy: 464, 133
+  xy: 267, 91
   size: 38, 35
   orig: 38, 35
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_2_1.png
   rotate: false
-  xy: 440, 172
+  xy: 190, 177
   size: 27, 36
   orig: 27, 36
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_2_2.png
   rotate: false
-  xy: 309, 93
+  xy: 190, 103
   size: 38, 35
   orig: 38, 35
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_2_3.png
   rotate: false
-  xy: 423, 134
+  xy: 471, 175
   size: 39, 36
   orig: 39, 36
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_3_0.png
   rotate: false
-  xy: 469, 170
+  xy: 305, 131
   size: 40, 35
   orig: 40, 35
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_3_1.png
   rotate: false
-  xy: 115, 30
+  xy: 230, 98
   size: 35, 37
   orig: 35, 37
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_3_2.png
   rotate: false
-  xy: 398, 173
+  xy: 190, 140
   size: 40, 35
   orig: 40, 35
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_3_3.png
   rotate: false
-  xy: 349, 92
+  xy: 389, 128
   size: 38, 37
   orig: 38, 37
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_7_0.png
   rotate: false
-  xy: 346, 210
+  xy: 468, 213
   size: 40, 41
   orig: 40, 41
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_7_1.png
   rotate: false
-  xy: 45, 161
+  xy: 385, 83
   size: 36, 43
   orig: 36, 43
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_7_2.png
   rotate: false
-  xy: 388, 210
+  xy: 426, 213
   size: 40, 41
   orig: 40, 41
   offset: 0, 0
   index: -1
 shirt_U_weddingdress_h_wlk_ch_2961_7_3.png
   rotate: false
-  xy: 309, 130
+  xy: 347, 85
   size: 36, 43
   orig: 36, 43
   offset: 0, 0
   index: -1
+shirt_U_weddingdress_h_wlk_ls_2960_3_2.png
+  rotate: false
+  xy: 149, 2
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
 shirt_U_weddingdress_h_wlk_rs_2960_2_3.png
   rotate: false
-  xy: 509, 158
+  xy: 142, 114
   size: 1, 3
   orig: 1, 3
   offset: 0, 0
   index: -1
-shirt_U_weddingdress_h_wlk_rs_2960_3_0.png
-  rotate: false
-  xy: 89, 207
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
 shirt_U_weddingdress_h_wlk_rs_2960_3_1.png
   rotate: false
-  xy: 66, 14
+  xy: 138, 114
   size: 2, 3
   orig: 2, 3
   offset: 0, 0
   index: -1
-shirt_U_weddingdress_h_wlk_rs_2960_3_3.png
+shirt_U_weddingdress_h_wlk_rs_2961_0_3.png
   rotate: false
-  xy: 93, 207
-  size: 1, 2
-  orig: 1, 2
+  xy: 426, 210
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1

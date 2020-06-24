@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 FossilHammer_h_std_fx183_1_1_0_0.png
   rotate: false
-  xy: 114, 11
+  xy: 146, 11
   size: 13, 19
   orig: 13, 19
   offset: 0, 0
@@ -34,14 +34,14 @@ FossilHammer_h_std_fx183_1_1_1_1.png
   index: -1
 FossilHammer_h_std_fx183_1_1_2_0.png
   rotate: false
-  xy: 145, 12
+  xy: 114, 12
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 FossilHammer_h_std_fx183_1_1_2_1.png
   rotate: false
-  xy: 61, 16
+  xy: 42, 16
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
@@ -62,14 +62,14 @@ FossilHammer_h_std_fx183_1_1_3_1.png
   index: -1
 FossilHammer_h_std_fx183_1_1_4_0.png
   rotate: false
-  xy: 129, 12
+  xy: 130, 12
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 FossilHammer_h_std_fx183_1_1_4_1.png
   rotate: false
-  xy: 42, 16
+  xy: 61, 16
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
@@ -88,7 +88,7 @@ FossilHammer_h_std_fx183_1_1_5_1.png
   orig: 18, 11
   offset: 0, 0
   index: -1
-FossilHammer_h_std_fx183_1_1_7_0.png
+FossilHammer_h_std_fx183_1_1_7_1.png
   rotate: false
   xy: 22, 12
   size: 1, 1

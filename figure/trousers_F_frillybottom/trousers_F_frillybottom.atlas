@@ -34,28 +34,28 @@ trousers_F_frillybottom_h_sit_lg_2861_2_0.png
   index: -1
 trousers_F_frillybottom_h_sit_lg_2862_0_0.png
   rotate: false
-  xy: 337, 20
+  xy: 418, 20
   size: 25, 10
   orig: 25, 10
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_sit_lg_2862_2_0.png
   rotate: false
-  xy: 309, 20
+  xy: 390, 20
   size: 26, 10
   orig: 26, 10
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_std_lg_2861_0_0.png
   rotate: false
-  xy: 88, 2
+  xy: 115, 2
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_std_lg_2861_1_0.png
   rotate: false
-  xy: 568, 20
+  xy: 738, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
@@ -69,14 +69,21 @@ trousers_F_frillybottom_h_std_lg_2861_2_0.png
   index: -1
 trousers_F_frillybottom_h_std_lg_2861_3_0.png
   rotate: false
-  xy: 280, 19
+  xy: 193, 19
   size: 27, 11
   orig: 27, 11
   offset: 0, 0
   index: -1
+trousers_F_frillybottom_h_std_lg_2861_7_0.png
+  rotate: false
+  xy: 309, 19
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
 trousers_F_frillybottom_h_std_lg_2862_0_0.png
   rotate: false
-  xy: 520, 21
+  xy: 568, 21
   size: 22, 9
   orig: 22, 9
   offset: 0, 0
@@ -90,23 +97,9 @@ trousers_F_frillybottom_h_std_lg_2862_1_0.png
   index: -1
 trousers_F_frillybottom_h_std_lg_2862_2_0.png
   rotate: false
-  xy: 496, 21
+  xy: 520, 21
   size: 22, 9
   orig: 22, 9
-  offset: 0, 0
-  index: -1
-trousers_F_frillybottom_h_std_lg_2862_3_0.png
-  rotate: false
-  xy: 615, 23
-  size: 23, 7
-  orig: 23, 7
-  offset: 0, 0
-  index: -1
-trousers_F_frillybottom_h_std_lg_2862_7_0.png
-  rotate: false
-  xy: 737, 23
-  size: 22, 7
-  orig: 22, 7
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_0_0.png
@@ -125,7 +118,7 @@ trousers_F_frillybottom_h_wlk_lg_2861_0_1.png
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_0_2.png
   rotate: false
-  xy: 115, 2
+  xy: 88, 2
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
@@ -139,14 +132,14 @@ trousers_F_frillybottom_h_wlk_lg_2861_0_3.png
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_1_0.png
   rotate: false
-  xy: 876, 19
+  xy: 853, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_1_1.png
   rotate: false
-  xy: 853, 19
+  xy: 807, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
@@ -160,49 +153,49 @@ trousers_F_frillybottom_h_wlk_lg_2861_1_2.png
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_1_3.png
   rotate: false
-  xy: 807, 19
+  xy: 876, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_2_0.png
   rotate: false
-  xy: 445, 17
+  xy: 116, 17
   size: 24, 13
   orig: 24, 13
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_2_1.png
   rotate: false
-  xy: 166, 16
+  xy: 33, 16
   size: 25, 14
   orig: 25, 14
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_2_2.png
   rotate: false
-  xy: 116, 17
+  xy: 445, 17
   size: 24, 13
   orig: 24, 13
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_2_3.png
   rotate: false
-  xy: 33, 16
+  xy: 166, 16
   size: 25, 14
   orig: 25, 14
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_3_0.png
   rotate: false
-  xy: 193, 19
+  xy: 222, 19
   size: 27, 11
   orig: 27, 11
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_3_1.png
   rotate: false
-  xy: 222, 19
+  xy: 280, 19
   size: 27, 11
   orig: 27, 11
   offset: 0, 0
@@ -216,61 +209,54 @@ trousers_F_frillybottom_h_wlk_lg_2861_3_3.png
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_7_0.png
   rotate: false
-  xy: 364, 19
-  size: 25, 11
-  orig: 25, 11
-  offset: 0, 0
-  index: -1
-trousers_F_frillybottom_h_wlk_lg_2861_7_1.png
-  rotate: false
-  xy: 418, 19
+  xy: 336, 19
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2861_7_3.png
   rotate: false
-  xy: 391, 19
+  xy: 363, 19
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2862_0_0.png
   rotate: false
-  xy: 591, 21
+  xy: 544, 21
   size: 22, 9
   orig: 22, 9
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2862_0_1.png
   rotate: false
-  xy: 544, 20
+  xy: 471, 20
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2862_0_3.png
   rotate: false
-  xy: 471, 21
+  xy: 495, 21
   size: 23, 9
   orig: 23, 9
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2862_1_0.png
   rotate: false
-  xy: 142, 2
+  xy: 943, 22
   size: 16, 8
   orig: 16, 8
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2862_1_1.png
   rotate: false
-  xy: 943, 22
+  xy: 142, 2
   size: 16, 8
   orig: 16, 8
   offset: 0, 0
   index: -1
-trousers_F_frillybottom_h_wlk_lg_2862_1_2.png
+trousers_F_frillybottom_h_wlk_lg_2862_1_3.png
   rotate: false
   xy: 961, 22
   size: 16, 8
@@ -286,7 +272,7 @@ trousers_F_frillybottom_h_wlk_lg_2862_2_0.png
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2862_2_1.png
   rotate: false
-  xy: 784, 20
+  xy: 761, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
@@ -300,35 +286,49 @@ trousers_F_frillybottom_h_wlk_lg_2862_2_2.png
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2862_2_3.png
   rotate: false
-  xy: 761, 20
+  xy: 784, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
+trousers_F_frillybottom_h_wlk_lg_2862_3_0.png
+  rotate: false
+  xy: 617, 23
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
 trousers_F_frillybottom_h_wlk_lg_2862_3_1.png
   rotate: false
-  xy: 640, 23
+  xy: 592, 23
   size: 23, 7
   orig: 23, 7
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2862_7_0.png
   rotate: false
-  xy: 665, 23
+  xy: 666, 23
   size: 22, 7
   orig: 22, 7
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2862_7_1.png
   rotate: false
-  xy: 689, 23
+  xy: 642, 23
   size: 22, 7
   orig: 22, 7
   offset: 0, 0
   index: -1
 trousers_F_frillybottom_h_wlk_lg_2862_7_2.png
   rotate: false
-  xy: 713, 23
+  xy: 714, 23
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+trousers_F_frillybottom_h_wlk_lg_2862_7_3.png
+  rotate: false
+  xy: 690, 23
   size: 22, 7
   orig: 22, 7
   offset: 0, 0

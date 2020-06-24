@@ -6,37 +6,30 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_exotictop_h_crr_ls_3009_1_0.png
   rotate: false
-  xy: 186, 12
+  xy: 191, 12
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_crr_ls_3009_3_0.png
+shirt_F_exotictop_h_crr_ls_3009_2_0.png
   rotate: false
-  xy: 164, 10
-  size: 7, 7
-  orig: 7, 7
+  xy: 153, 12
+  size: 5, 7
+  orig: 5, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_crr_rs_3009_0_0.png
   rotate: false
-  xy: 440, 23
+  xy: 462, 23
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_crr_rs_3009_3_0.png
   rotate: false
-  xy: 115, 2
+  xy: 107, 12
   size: 8, 7
   orig: 8, 7
-  offset: 0, 0
-  index: -1
-shirt_F_exotictop_h_crr_rs_3009_7_0.png
-  rotate: false
-  xy: 137, 11
-  size: 7, 8
-  orig: 7, 8
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_drk_rs_3009_0_0.png
@@ -62,28 +55,28 @@ shirt_F_exotictop_h_drk_rs_3009_2_0.png
   index: -1
 shirt_F_exotictop_h_drk_rs_3009_3_0.png
   rotate: false
-  xy: 104, 2
+  xy: 473, 23
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_drk_rs_3009_4_0.png
   rotate: false
-  xy: 166, 2
+  xy: 192, 2
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_drk_rs_3009_5_0.png
   rotate: false
-  xy: 371, 11
+  xy: 368, 11
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_drk_rs_3009_6_0.png
   rotate: false
-  xy: 77, 2
+  xy: 506, 18
   size: 4, 12
   orig: 4, 12
   offset: 0, 0
@@ -97,28 +90,28 @@ shirt_F_exotictop_h_drk_rs_3009_7_0.png
   index: -1
 shirt_F_exotictop_h_lay_ch_3008_2_0.png
   rotate: false
-  xy: 2, 6
+  xy: 28, 6
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_lay_ch_3009_2_0.png
   rotate: false
-  xy: 28, 6
+  xy: 2, 6
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_lay_ch_3010_2_0.png
   rotate: false
-  xy: 195, 12
+  xy: 200, 12
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_lay_ls_3009_2_0.png
   rotate: false
-  xy: 155, 2
+  xy: 154, 2
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
@@ -188,58 +181,79 @@ shirt_F_exotictop_h_std_ch_3009_2_0.png
   index: -1
 shirt_F_exotictop_h_std_ch_3009_3_0.png
   rotate: false
-  xy: 54, 7
+  xy: 233, 23
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_std_ch_3009_7_0.png
   rotate: false
-  xy: 233, 23
+  xy: 54, 7
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_std_ch_3010_1_0.png
   rotate: false
-  xy: 215, 12
+  xy: 208, 12
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_std_ch_3010_3_0.png
+shirt_F_exotictop_h_std_ch_3010_2_0.png
   rotate: false
-  xy: 504, 15
+  xy: 201, 2
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
+shirt_F_exotictop_h_std_ls_3009_0_0.png
+  rotate: false
+  xy: 175, 11
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+shirt_F_exotictop_h_std_ls_3009_3_0.png
+  rotate: false
+  xy: 174, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
 shirt_F_exotictop_h_std_ls_3009_7_0.png
   rotate: false
-  xy: 146, 11
+  xy: 183, 2
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_std_rs_3009_0_0.png
   rotate: false
-  xy: 451, 23
+  xy: 484, 23
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_std_rs_3009_2_0.png
   rotate: false
-  xy: 135, 2
+  xy: 124, 2
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_std_rs_3009_3_0.png
   rotate: false
-  xy: 155, 10
+  xy: 165, 2
   size: 7, 7
   orig: 7, 7
+  offset: 0, 0
+  index: -1
+shirt_F_exotictop_h_std_rs_3009_7_0.png
+  rotate: false
+  xy: 144, 11
+  size: 7, 8
+  orig: 7, 8
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wav_ls_3009_0_1.png
@@ -256,28 +270,28 @@ shirt_F_exotictop_h_wav_ls_3009_2_1.png
   orig: 6, 14
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_wav_ls_3009_3_1.png
+shirt_F_exotictop_h_wav_ls_3009_3_0.png
   rotate: false
   xy: 351, 10
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_wav_ls_3009_4_0.png
+shirt_F_exotictop_h_wav_ls_3009_4_1.png
   rotate: false
   xy: 342, 11
   size: 7, 19
   orig: 7, 19
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_wav_ls_3009_5_1.png
+shirt_F_exotictop_h_wav_ls_3009_5_0.png
   rotate: false
-  xy: 203, 6
+  xy: 117, 8
   size: 5, 11
   orig: 5, 11
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_wav_ls_3009_6_0.png
+shirt_F_exotictop_h_wav_ls_3009_6_1.png
   rotate: false
   xy: 368, 14
   size: 6, 16
@@ -291,116 +305,102 @@ shirt_F_exotictop_h_wav_ls_3009_7_1.png
   orig: 6, 19
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_wlk_ls_3009_0_0.png
-  rotate: false
-  xy: 182, 2
-  size: 4, 7
-  orig: 4, 7
-  offset: 0, 0
-  index: -1
 shirt_F_exotictop_h_wlk_ls_3009_0_1.png
   rotate: false
-  xy: 210, 11
+  xy: 215, 2
   size: 3, 6
   orig: 3, 6
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_ls_3009_0_3.png
   rotate: false
-  xy: 173, 11
+  xy: 168, 11
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_wlk_ls_3009_1_2.png
+shirt_F_exotictop_h_wlk_ls_3009_1_3.png
   rotate: false
-  xy: 368, 11
+  xy: 371, 11
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_wlk_ls_3009_2_0.png
-  rotate: false
-  xy: 175, 2
-  size: 5, 7
-  orig: 5, 7
-  offset: 0, 0
-  index: -1
 shirt_F_exotictop_h_wlk_ls_3009_2_1.png
   rotate: false
-  xy: 504, 23
+  xy: 160, 11
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_ls_3009_2_3.png
   rotate: false
-  xy: 180, 11
+  xy: 209, 2
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_wlk_ls_3009_3_1.png
+shirt_F_exotictop_h_wlk_ls_3009_3_2.png
   rotate: false
-  xy: 125, 2
+  xy: 144, 2
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_ls_3009_3_3.png
   rotate: false
-  xy: 484, 22
+  xy: 107, 2
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+shirt_F_exotictop_h_wlk_ls_3009_7_0.png
+  rotate: false
+  xy: 124, 11
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_ls_3009_7_1.png
   rotate: false
-  xy: 117, 11
-  size: 8, 8
-  orig: 8, 8
-  offset: 0, 0
-  index: -1
-shirt_F_exotictop_h_wlk_ls_3009_7_2.png
-  rotate: false
-  xy: 127, 11
+  xy: 134, 11
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_rs_3009_0_0.png
   rotate: false
-  xy: 429, 23
+  xy: 495, 23
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_rs_3009_0_1.png
   rotate: false
-  xy: 360, 2
+  xy: 391, 23
   size: 11, 7
   orig: 11, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_rs_3009_0_2.png
   rotate: false
-  xy: 404, 23
+  xy: 417, 23
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_wlk_rs_3009_1_1.png
+shirt_F_exotictop_h_wlk_rs_3009_1_0.png
   rotate: false
-  xy: 391, 23
-  size: 11, 7
-  orig: 11, 7
-  offset: 0, 0
-  index: -1
-shirt_F_exotictop_h_wlk_rs_3009_1_2.png
-  rotate: false
-  xy: 402, 16
+  xy: 181, 12
   size: 8, 5
   orig: 8, 5
+  offset: 0, 0
+  index: -1
+shirt_F_exotictop_h_wlk_rs_3009_1_1.png
+  rotate: false
+  xy: 360, 2
+  size: 11, 7
+  orig: 11, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_rs_3009_1_3.png
@@ -412,56 +412,56 @@ shirt_F_exotictop_h_wlk_rs_3009_1_3.png
   index: -1
 shirt_F_exotictop_h_wlk_rs_3009_2_0.png
   rotate: false
-  xy: 93, 2
+  xy: 451, 23
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_rs_3009_2_1.png
   rotate: false
-  xy: 473, 22
+  xy: 440, 22
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_rs_3009_2_2.png
   rotate: false
-  xy: 462, 22
+  xy: 429, 22
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_rs_3009_2_3.png
   rotate: false
-  xy: 416, 24
+  xy: 404, 24
   size: 11, 6
   orig: 11, 6
   offset: 0, 0
   index: -1
-shirt_F_exotictop_h_wlk_rs_3009_3_0.png
-  rotate: false
-  xy: 145, 2
-  size: 8, 7
-  orig: 8, 7
-  offset: 0, 0
-  index: -1
 shirt_F_exotictop_h_wlk_rs_3009_3_1.png
   rotate: false
-  xy: 107, 11
+  xy: 77, 2
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
+shirt_F_exotictop_h_wlk_rs_3009_3_2.png
+  rotate: false
+  xy: 134, 2
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
 shirt_F_exotictop_h_wlk_rs_3009_7_0.png
   rotate: false
-  xy: 494, 22
+  xy: 87, 2
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 shirt_F_exotictop_h_wlk_rs_3009_7_3.png
   rotate: false
-  xy: 83, 2
+  xy: 97, 2
   size: 8, 8
   orig: 8, 8
   offset: 0, 0

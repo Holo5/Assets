@@ -34,7 +34,7 @@ trousers_F_bowskirt_h_sit_lg_2484_2_0.png
   index: -1
 trousers_F_bowskirt_h_sit_lg_2485_0_0.png
   rotate: false
-  xy: 808, 113
+  xy: 92, 6
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
@@ -48,16 +48,9 @@ trousers_F_bowskirt_h_sit_lg_2485_2_0.png
   index: -1
 trousers_F_bowskirt_h_std_lg_2484_0_0.png
   rotate: false
-  xy: 521, 3
+  xy: 640, 108
   size: 28, 18
   orig: 28, 18
-  offset: 0, 0
-  index: -1
-trousers_F_bowskirt_h_std_lg_2484_1_0.png
-  rotate: false
-  xy: 610, 25
-  size: 22, 15
-  orig: 22, 15
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_std_lg_2484_2_0.png
@@ -76,42 +69,49 @@ trousers_F_bowskirt_h_std_lg_2484_3_0.png
   index: -1
 trousers_F_bowskirt_h_std_lg_2484_7_0.png
   rotate: false
-  xy: 253, 6
+  xy: 806, 113
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_std_lg_2485_0_0.png
   rotate: false
-  xy: 280, 6
+  xy: 200, 6
   size: 24, 13
   orig: 24, 13
   offset: 0, 0
   index: -1
+trousers_F_bowskirt_h_std_lg_2485_1_0.png
+  rotate: false
+  xy: 638, 84
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
 trousers_F_bowskirt_h_std_lg_2485_2_0.png
   rotate: false
-  xy: 781, 113
+  xy: 173, 6
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_std_lg_2485_3_0.png
   rotate: false
-  xy: 670, 102
+  xy: 993, 117
   size: 25, 9
   orig: 25, 9
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_std_lg_2485_7_0.png
   rotate: false
-  xy: 909, 107
+  xy: 964, 107
   size: 23, 8
   orig: 23, 8
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2484_0_0.png
   rotate: false
-  xy: 640, 108
+  xy: 521, 3
   size: 28, 18
   orig: 28, 18
   offset: 0, 0
@@ -137,23 +137,30 @@ trousers_F_bowskirt_h_wlk_lg_2484_0_3.png
   orig: 24, 19
   offset: 0, 0
   index: -1
+trousers_F_bowskirt_h_wlk_lg_2484_1_0.png
+  rotate: false
+  xy: 610, 25
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
 trousers_F_bowskirt_h_wlk_lg_2484_1_1.png
   rotate: false
-  xy: 173, 4
+  xy: 699, 111
   size: 25, 15
   orig: 25, 15
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2484_1_2.png
   rotate: false
-  xy: 860, 111
+  xy: 610, 8
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2484_1_3.png
   rotate: false
-  xy: 200, 4
+  xy: 726, 111
   size: 24, 15
   orig: 24, 15
   offset: 0, 0
@@ -188,7 +195,7 @@ trousers_F_bowskirt_h_wlk_lg_2484_2_3.png
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2484_3_0.png
   rotate: false
-  xy: 580, 7
+  xy: 670, 112
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
@@ -216,84 +223,77 @@ trousers_F_bowskirt_h_wlk_lg_2484_3_3.png
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2484_7_0.png
   rotate: false
-  xy: 226, 6
+  xy: 860, 113
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2484_7_1.png
   rotate: false
-  xy: 146, 5
+  xy: 779, 112
   size: 25, 14
   orig: 25, 14
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2484_7_2.png
   rotate: false
-  xy: 754, 113
+  xy: 146, 6
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2484_7_3.png
   rotate: false
-  xy: 119, 5
+  xy: 752, 112
   size: 25, 14
   orig: 25, 14
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_0_0.png
   rotate: false
-  xy: 700, 113
+  xy: 887, 113
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_0_1.png
   rotate: false
-  xy: 34, 6
+  xy: 580, 8
   size: 28, 13
   orig: 28, 13
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_0_2.png
   rotate: false
-  xy: 835, 113
+  xy: 914, 113
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_0_3.png
   rotate: false
-  xy: 885, 112
+  xy: 226, 5
   size: 22, 14
   orig: 22, 14
   offset: 0, 0
   index: -1
-trousers_F_bowskirt_h_wlk_lg_2485_1_0.png
-  rotate: false
-  xy: 934, 105
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_1_1.png
   rotate: false
-  xy: 771, 101
+  xy: 640, 96
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_1_3.png
   rotate: false
-  xy: 747, 101
+  xy: 989, 105
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_2_0.png
   rotate: false
-  xy: 92, 6
+  xy: 833, 113
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
@@ -307,70 +307,70 @@ trousers_F_bowskirt_h_wlk_lg_2485_2_1.png
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_2_2.png
   rotate: false
-  xy: 727, 113
+  xy: 119, 6
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_2_3.png
   rotate: false
-  xy: 670, 113
+  xy: 34, 6
   size: 28, 13
   orig: 28, 13
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_3_0.png
   rotate: false
-  xy: 990, 117
+  xy: 277, 10
   size: 25, 9
   orig: 25, 9
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_3_1.png
   rotate: false
-  xy: 936, 117
+  xy: 250, 10
   size: 25, 9
   orig: 25, 9
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_3_2.png
   rotate: false
-  xy: 909, 117
+  xy: 966, 117
   size: 25, 9
   orig: 25, 9
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_3_3.png
   rotate: false
-  xy: 963, 117
+  xy: 939, 117
   size: 25, 9
   orig: 25, 9
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_7_0.png
   rotate: false
-  xy: 820, 103
+  xy: 670, 102
   size: 23, 8
   orig: 23, 8
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_7_1.png
   rotate: false
-  xy: 697, 102
+  xy: 720, 100
   size: 23, 9
   orig: 23, 9
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_7_2.png
   rotate: false
-  xy: 795, 103
+  xy: 939, 107
   size: 23, 8
   orig: 23, 8
   offset: 0, 0
   index: -1
 trousers_F_bowskirt_h_wlk_lg_2485_7_3.png
   rotate: false
-  xy: 722, 102
+  xy: 695, 100
   size: 23, 9
   orig: 23, 9
   offset: 0, 0

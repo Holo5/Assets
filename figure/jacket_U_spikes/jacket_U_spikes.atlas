@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 jacket_U_spikes_h_drk_rc_2385_0_0.png
   rotate: false
-  xy: 308, 14
+  xy: 254, 14
   size: 17, 16
   orig: 17, 16
   offset: 0, 0
@@ -20,350 +20,350 @@ jacket_U_spikes_h_drk_rc_2385_1_0.png
   index: -1
 jacket_U_spikes_h_drk_rc_2385_2_0.png
   rotate: false
-  xy: 178, 12
+  xy: 291, 12
   size: 16, 18
   orig: 16, 18
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2385_3_0.png
   rotate: false
-  xy: 289, 14
+  xy: 216, 14
   size: 17, 16
   orig: 17, 16
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2385_4_0.png
   rotate: false
-  xy: 655, 14
+  xy: 662, 14
   size: 12, 16
   orig: 12, 16
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2385_5_0.png
   rotate: false
-  xy: 23, 13
+  xy: 63, 13
   size: 18, 17
   orig: 18, 17
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2385_6_0.png
   rotate: false
-  xy: 327, 13
+  xy: 361, 13
   size: 15, 17
   orig: 15, 17
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2385_7_0.png
   rotate: false
-  xy: 196, 13
+  xy: 159, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2386_0_0.png
   rotate: false
-  xy: 510, 18
+  xy: 558, 18
   size: 17, 12
   orig: 17, 12
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2386_1_0.png
   rotate: false
-  xy: 491, 17
+  xy: 378, 17
   size: 17, 13
   orig: 17, 13
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2386_2_0.png
   rotate: false
-  xy: 565, 18
+  xy: 631, 18
   size: 14, 12
   orig: 14, 12
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2386_3_0.png
   rotate: false
-  xy: 563, 3
+  xy: 557, 2
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2386_4_0.png
   rotate: false
-  xy: 475, 19
+  xy: 462, 19
   size: 7, 11
   orig: 7, 11
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2386_5_0.png
   rotate: false
-  xy: 491, 2
+  xy: 378, 2
   size: 17, 13
   orig: 17, 13
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2386_6_0.png
   rotate: false
-  xy: 641, 14
+  xy: 676, 14
   size: 12, 16
   orig: 12, 16
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_drk_rc_2386_7_0.png
   rotate: false
-  xy: 430, 2
+  xy: 433, 2
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_lay_lc_2385_2_0.png
   rotate: false
-  xy: 510, 3
+  xy: 540, 17
   size: 16, 13
   orig: 16, 13
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_lay_lc_2386_2_0.png
   rotate: false
-  xy: 451, 19
+  xy: 438, 19
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_lay_rc_2385_2_0.png
   rotate: false
-  xy: 361, 13
+  xy: 327, 13
   size: 15, 17
   orig: 15, 17
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_lay_rc_2386_2_0.png
   rotate: false
-  xy: 410, 2
+  xy: 397, 2
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
-jacket_U_spikes_h_std_lc_2385_0_0.png
-  rotate: false
-  xy: 344, 13
-  size: 15, 17
-  orig: 15, 17
-  offset: 0, 0
-  index: -1
 jacket_U_spikes_h_std_lc_2385_3_0.png
   rotate: false
-  xy: 83, 13
+  xy: 178, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_std_lc_2385_7_0.png
   rotate: false
-  xy: 140, 13
-  size: 17, 17
-  orig: 17, 17
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_std_lc_2386_0_0.png
-  rotate: false
-  xy: 477, 2
-  size: 12, 15
-  orig: 12, 15
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_std_lc_2386_2_0.png
-  rotate: false
-  xy: 464, 19
-  size: 9, 11
-  orig: 9, 11
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_std_rc_2385_3_0.png
-  rotate: false
   xy: 121, 13
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
-jacket_U_spikes_h_std_rc_2385_7_0.png
+jacket_U_spikes_h_std_lc_2386_1_0.png
   rotate: false
-  xy: 102, 13
-  size: 17, 17
-  orig: 17, 17
+  xy: 417, 19
+  size: 19, 11
+  orig: 19, 11
   offset: 0, 0
   index: -1
-jacket_U_spikes_h_wav_lc_2385_0_0.png
+jacket_U_spikes_h_std_lc_2386_2_0.png
   rotate: false
-  xy: 596, 14
-  size: 13, 16
-  orig: 13, 16
+  xy: 451, 19
+  size: 9, 11
+  orig: 9, 11
   offset: 0, 0
   index: -1
-jacket_U_spikes_h_wav_lc_2385_1_0.png
-  rotate: false
-  xy: 270, 14
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2385_2_0.png
-  rotate: false
-  xy: 626, 14
-  size: 13, 16
-  orig: 13, 16
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2385_3_1.png
-  rotate: false
-  xy: 394, 14
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2385_4_1.png
-  rotate: false
-  xy: 233, 13
-  size: 16, 17
-  orig: 16, 17
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2385_5_0.png
-  rotate: false
-  xy: 251, 14
-  size: 17, 16
-  orig: 17, 16
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2385_6_0.png
-  rotate: false
-  xy: 215, 13
-  size: 16, 17
-  orig: 16, 17
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2385_7_0.png
-  rotate: false
-  xy: 378, 14
-  size: 14, 16
-  orig: 14, 16
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2386_0_1.png
-  rotate: false
-  xy: 251, 2
-  size: 10, 10
-  orig: 10, 10
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2386_1_1.png
-  rotate: false
-  xy: 529, 18
-  size: 16, 12
-  orig: 16, 12
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2386_2_0.png
-  rotate: false
-  xy: 263, 2
-  size: 10, 10
-  orig: 10, 10
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2386_3_1.png
-  rotate: false
-  xy: 578, 3
-  size: 11, 13
-  orig: 11, 13
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2386_4_0.png
-  rotate: false
-  xy: 581, 18
-  size: 13, 12
-  orig: 13, 12
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2386_5_0.png
-  rotate: false
-  xy: 547, 18
-  size: 16, 12
-  orig: 16, 12
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2386_6_1.png
-  rotate: false
-  xy: 528, 4
-  size: 16, 12
-  orig: 16, 12
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wav_lc_2386_7_0.png
-  rotate: false
-  xy: 669, 17
-  size: 11, 13
-  orig: 11, 13
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wlk_lc_2385_1_2.png
+jacket_U_spikes_h_std_rc_2385_1_0.png
   rotate: false
   xy: 2, 13
   size: 19, 17
   orig: 19, 17
   offset: 0, 0
   index: -1
-jacket_U_spikes_h_wlk_lc_2385_2_0.png
+jacket_U_spikes_h_std_rc_2385_2_0.png
   rotate: false
-  xy: 611, 14
-  size: 13, 16
-  orig: 13, 16
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wlk_lc_2386_3_2.png
-  rotate: false
-  xy: 446, 2
-  size: 14, 15
-  orig: 14, 15
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wlk_lc_2386_7_1.png
-  rotate: false
-  xy: 462, 2
-  size: 13, 15
-  orig: 13, 15
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wlk_rc_2385_0_2.png
-  rotate: false
-  xy: 63, 13
-  size: 18, 17
-  orig: 18, 17
-  offset: 0, 0
-  index: -1
-jacket_U_spikes_h_wlk_rc_2385_2_3.png
-  rotate: false
-  xy: 159, 12
+  xy: 102, 12
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
-jacket_U_spikes_h_wlk_rc_2386_0_1.png
+jacket_U_spikes_h_std_rc_2386_0_0.png
   rotate: false
-  xy: 410, 18
+  xy: 397, 18
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
-jacket_U_spikes_h_wlk_rc_2386_1_0.png
+jacket_U_spikes_h_std_rc_2386_7_0.png
   rotate: false
-  xy: 430, 19
-  size: 19, 11
-  orig: 19, 11
+  xy: 417, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2385_0_1.png
+  rotate: false
+  xy: 647, 14
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2385_1_1.png
+  rotate: false
+  xy: 235, 14
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2385_2_1.png
+  rotate: false
+  xy: 525, 14
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2385_3_1.png
+  rotate: false
+  xy: 478, 14
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2385_4_0.png
+  rotate: false
+  xy: 273, 13
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2385_5_1.png
+  rotate: false
+  xy: 197, 14
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2385_6_1.png
+  rotate: false
+  xy: 309, 13
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2385_7_1.png
+  rotate: false
+  xy: 494, 14
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2386_0_1.png
+  rotate: false
+  xy: 209, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2386_1_0.png
+  rotate: false
+  xy: 577, 18
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2386_2_1.png
+  rotate: false
+  xy: 197, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2386_3_0.png
+  rotate: false
+  xy: 572, 3
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2386_4_1.png
+  rotate: false
+  xy: 690, 18
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2386_5_0.png
+  rotate: false
+  xy: 613, 18
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2386_6_1.png
+  rotate: false
+  xy: 595, 18
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wav_lc_2386_7_1.png
+  rotate: false
+  xy: 585, 3
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wlk_lc_2385_0_1.png
+  rotate: false
+  xy: 344, 13
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wlk_lc_2385_2_0.png
+  rotate: false
+  xy: 510, 14
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wlk_lc_2386_0_0.png
+  rotate: false
+  xy: 464, 2
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wlk_lc_2386_7_0.png
+  rotate: false
+  xy: 449, 2
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wlk_rc_2385_0_3.png
+  rotate: false
+  xy: 23, 13
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wlk_rc_2385_3_2.png
+  rotate: false
+  xy: 140, 13
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+jacket_U_spikes_h_wlk_rc_2385_7_0.png
+  rotate: false
+  xy: 83, 13
+  size: 17, 17
+  orig: 17, 17
   offset: 0, 0
   index: -1
 jacket_U_spikes_h_wlk_rc_2386_2_2.png
   rotate: false
-  xy: 546, 3
+  xy: 540, 2
   size: 15, 13
   orig: 15, 13
   offset: 0, 0

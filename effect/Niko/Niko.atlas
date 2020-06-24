@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 Niko_h_std_fx99_1_1_0_0.png
   rotate: false
-  xy: 123, 5
+  xy: 148, 5
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
@@ -48,7 +48,7 @@ Niko_h_std_fx99_1_1_5_0.png
   index: -1
 Niko_h_std_fx99_1_1_6_0.png
   rotate: false
-  xy: 148, 5
+  xy: 123, 5
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
@@ -62,14 +62,14 @@ Niko_h_std_fx99_1_1_7_0.png
   index: -1
 Niko_h_std_fx99_2_1_0_0.png
   rotate: false
-  xy: 40, 25
+  xy: 2, 25
   size: 36, 30
   orig: 36, 30
   offset: 0, 0
   index: -1
 Niko_h_std_fx99_2_1_1_0.png
   rotate: false
-  xy: 113, 25
+  xy: 78, 25
   size: 33, 30
   orig: 33, 30
   offset: 0, 0
@@ -97,14 +97,14 @@ Niko_h_std_fx99_2_1_4_0.png
   index: -1
 Niko_h_std_fx99_2_1_5_0.png
   rotate: false
-  xy: 78, 25
+  xy: 113, 25
   size: 33, 30
   orig: 33, 30
   offset: 0, 0
   index: -1
 Niko_h_std_fx99_2_1_6_0.png
   rotate: false
-  xy: 2, 25
+  xy: 40, 25
   size: 36, 30
   orig: 36, 30
   offset: 0, 0

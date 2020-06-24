@@ -4,73 +4,73 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_eye_U_nightvision_h_lay_ea_2337_2_0.png
+acc_eye_U_nightvision_h_lay_ea_2534_2_0.png
   rotate: false
-  xy: 2, 26
+  xy: 81, 22
   size: 28, 36
   orig: 28, 36
   offset: 0, 0
   index: -1
 acc_eye_U_nightvision_h_lay_ea_2535_2_0.png
   rotate: false
-  xy: 113, 54
+  xy: 111, 50
   size: 13, 8
   orig: 13, 8
   offset: 0, 0
   index: -1
-acc_eye_U_nightvision_h_std_ea_2337_0_0.png
+acc_eye_U_nightvision_h_std_ea_2534_0_0.png
   rotate: false
-  xy: 32, 11
+  xy: 43, 34
   size: 36, 24
   orig: 36, 24
   offset: 0, 0
   index: -1
-acc_eye_U_nightvision_h_std_ea_2337_1_0.png
+acc_eye_U_nightvision_h_std_ea_2534_1_0.png
   rotate: false
-  xy: 32, 37
+  xy: 2, 33
   size: 39, 25
   orig: 39, 25
   offset: 0, 0
   index: -1
-acc_eye_U_nightvision_h_std_ea_2337_2_0.png
+acc_eye_U_nightvision_h_std_ea_2534_2_0.png
   rotate: false
-  xy: 73, 37
+  xy: 2, 6
   size: 38, 25
   orig: 38, 25
   offset: 0, 0
   index: -1
-acc_eye_U_nightvision_h_std_ea_2337_3_0.png
+acc_eye_U_nightvision_h_std_ea_2534_3_0.png
   rotate: false
-  xy: 2, 3
+  xy: 42, 2
   size: 26, 21
   orig: 26, 21
   offset: 0, 0
   index: -1
-acc_eye_U_nightvision_h_std_ea_2337_7_0.png
+acc_eye_U_nightvision_h_std_ea_2534_7_0.png
   rotate: false
-  xy: 30, 2
+  xy: 43, 25
   size: 26, 7
   orig: 26, 7
   offset: 0, 0
   index: -1
-acc_eye_U_nightvision_h_std_ea_2535_0_0.png
-  rotate: false
-  xy: 58, 8
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 acc_eye_U_nightvision_h_std_ea_2535_2_0.png
   rotate: false
-  xy: 70, 21
+  xy: 91, 6
   size: 16, 14
   orig: 16, 14
   offset: 0, 0
   index: -1
 acc_eye_U_nightvision_h_std_ea_2535_3_0.png
   rotate: false
-  xy: 88, 24
+  xy: 70, 9
   size: 19, 11
   orig: 19, 11
+  offset: 0, 0
+  index: -1
+acc_eye_U_nightvision_h_std_ea_2535_7_0.png
+  rotate: false
+  xy: 70, 22
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1

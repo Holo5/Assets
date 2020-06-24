@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 acc_head_U_gold8_h_std_he_3296_0_0.png
   rotate: false
-  xy: 42, 5
+  xy: 2, 5
   size: 18, 21
   orig: 18, 21
   offset: 0, 0
   index: -1
 acc_head_U_gold8_h_std_he_3296_1_0.png
   rotate: false
-  xy: 22, 5
+  xy: 42, 5
   size: 18, 21
   orig: 18, 21
   offset: 0, 0
   index: -1
 acc_head_U_gold8_h_std_he_3296_2_0.png
   rotate: false
-  xy: 2, 5
+  xy: 22, 5
   size: 18, 21
   orig: 18, 21
   offset: 0, 0

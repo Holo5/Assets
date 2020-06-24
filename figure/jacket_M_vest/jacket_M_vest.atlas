@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 jacket_M_vest_h_lay_cc_2459_2_0.png
   rotate: false
-  xy: 2, 10
+  xy: 2, 37
   size: 38, 25
   orig: 38, 25
   offset: 0, 0
   index: -1
 jacket_M_vest_h_lay_cc_2460_2_0.png
   rotate: false
-  xy: 2, 37
+  xy: 2, 10
   size: 38, 25
   orig: 38, 25
   offset: 0, 0
@@ -34,7 +34,7 @@ jacket_M_vest_h_std_cc_2459_0_0.png
   index: -1
 jacket_M_vest_h_std_cc_2459_1_0.png
   rotate: false
-  xy: 96, 2
+  xy: 233, 34
   size: 18, 28
   orig: 18, 28
   offset: 0, 0
@@ -48,7 +48,7 @@ jacket_M_vest_h_std_cc_2459_2_0.png
   index: -1
 jacket_M_vest_h_std_cc_2459_3_0.png
   rotate: false
-  xy: 124, 32
+  xy: 96, 32
   size: 26, 30
   orig: 26, 30
   offset: 0, 0
@@ -69,7 +69,7 @@ jacket_M_vest_h_std_cc_2460_0_0.png
   index: -1
 jacket_M_vest_h_std_cc_2460_1_0.png
   rotate: false
-  xy: 233, 34
+  xy: 96, 2
   size: 18, 28
   orig: 18, 28
   offset: 0, 0
@@ -83,7 +83,7 @@ jacket_M_vest_h_std_cc_2460_2_0.png
   index: -1
 jacket_M_vest_h_std_cc_2460_3_0.png
   rotate: false
-  xy: 96, 32
+  xy: 124, 32
   size: 26, 30
   orig: 26, 30
   offset: 0, 0

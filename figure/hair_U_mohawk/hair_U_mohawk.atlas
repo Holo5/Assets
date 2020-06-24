@@ -4,11 +4,11 @@ size: 2048,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hair_U_mohawk_h_lay_hr_2081_2_0.png
+hair_U_mohawk_h_lay_hr_2080_2_0.png
   rotate: false
-  xy: 1069, 22
-  size: 21, 40
-  orig: 21, 40
+  xy: 1317, 37
+  size: 19, 25
+  orig: 19, 25
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_lay_hr_2082_2_0.png
@@ -25,11 +25,11 @@ hair_U_mohawk_h_lay_hrb_2080_2_0.png
   orig: 19, 25
   offset: 0, 0
   index: -1
-hair_U_mohawk_h_lsp_hr_2080_2_0.png
+hair_U_mohawk_h_lsp_hr_2081_2_0.png
   rotate: false
-  xy: 1317, 37
-  size: 19, 25
-  orig: 19, 25
+  xy: 1069, 22
+  size: 21, 40
+  orig: 21, 40
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_lsp_hrb_2081_2_0.png
@@ -48,7 +48,7 @@ hair_U_mohawk_h_lsp_hrb_2082_2_0.png
   index: -1
 hair_U_mohawk_h_spk_hr_2080_0_0.png
   rotate: false
-  xy: 815, 2
+  xy: 787, 2
   size: 26, 27
   orig: 26, 27
   offset: 0, 0
@@ -62,7 +62,7 @@ hair_U_mohawk_h_spk_hr_2080_1_0.png
   index: -1
 hair_U_mohawk_h_spk_hr_2080_2_0.png
   rotate: false
-  xy: 1464, 43
+  xy: 671, 7
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
@@ -76,7 +76,7 @@ hair_U_mohawk_h_spk_hr_2080_3_0.png
   index: -1
 hair_U_mohawk_h_spk_hr_2080_7_0.png
   rotate: false
-  xy: 843, 2
+  xy: 869, 3
   size: 24, 27
   orig: 24, 27
   offset: 0, 0
@@ -90,7 +90,7 @@ hair_U_mohawk_h_spk_hr_2081_0_0.png
   index: -1
 hair_U_mohawk_h_spk_hr_2081_1_0.png
   rotate: false
-  xy: 2, 21
+  xy: 52, 21
   size: 48, 41
   orig: 48, 41
   offset: 0, 0
@@ -104,35 +104,28 @@ hair_U_mohawk_h_spk_hr_2081_2_0.png
   index: -1
 hair_U_mohawk_h_spk_hr_2081_3_0.png
   rotate: false
-  xy: 1399, 36
+  xy: 1379, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_spk_hr_2081_7_0.png
   rotate: false
-  xy: 1178, 17
+  xy: 1136, 17
   size: 19, 45
   orig: 19, 45
   offset: 0, 0
   index: -1
-hair_U_mohawk_h_spk_hr_2082_0_0.png
-  rotate: false
-  xy: 709, 28
-  size: 37, 34
-  orig: 37, 34
-  offset: 0, 0
-  index: -1
 hair_U_mohawk_h_spk_hr_2082_1_0.png
   rotate: false
-  xy: 378, 25
+  xy: 334, 25
   size: 42, 37
   orig: 42, 37
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_spk_hr_2082_2_0.png
   rotate: false
-  xy: 823, 31
+  xy: 787, 31
   size: 34, 31
   orig: 34, 31
   offset: 0, 0
@@ -153,7 +146,7 @@ hair_U_mohawk_h_spk_hr_2082_7_0.png
   index: -1
 hair_U_mohawk_h_spk_hrb_2080_0_0.png
   rotate: false
-  xy: 787, 2
+  xy: 815, 2
   size: 26, 27
   orig: 26, 27
   offset: 0, 0
@@ -167,7 +160,7 @@ hair_U_mohawk_h_spk_hrb_2080_1_0.png
   index: -1
 hair_U_mohawk_h_spk_hrb_2080_2_0.png
   rotate: false
-  xy: 671, 7
+  xy: 646, 7
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
@@ -181,21 +174,21 @@ hair_U_mohawk_h_spk_hrb_2080_3_0.png
   index: -1
 hair_U_mohawk_h_spk_hrb_2080_7_0.png
   rotate: false
-  xy: 869, 3
+  xy: 843, 2
   size: 24, 27
   orig: 24, 27
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_spk_hrb_2081_0_0.png
   rotate: false
-  xy: 290, 24
+  xy: 246, 24
   size: 42, 38
   orig: 42, 38
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_spk_hrb_2081_1_0.png
   rotate: false
-  xy: 52, 21
+  xy: 2, 21
   size: 48, 41
   orig: 48, 41
   offset: 0, 0
@@ -209,14 +202,14 @@ hair_U_mohawk_h_spk_hrb_2081_2_0.png
   index: -1
 hair_U_mohawk_h_spk_hrb_2081_3_0.png
   rotate: false
-  xy: 1419, 36
+  xy: 1399, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_spk_hrb_2081_7_0.png
   rotate: false
-  xy: 1115, 17
+  xy: 1157, 17
   size: 19, 45
   orig: 19, 45
   offset: 0, 0
@@ -230,35 +223,35 @@ hair_U_mohawk_h_spk_hrb_2082_0_0.png
   index: -1
 hair_U_mohawk_h_spk_hrb_2082_1_0.png
   rotate: false
-  xy: 334, 25
+  xy: 378, 25
   size: 42, 37
   orig: 42, 37
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_spk_hrb_2082_2_0.png
   rotate: false
-  xy: 787, 31
+  xy: 823, 31
   size: 34, 31
   orig: 34, 31
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_spk_hrb_2082_3_0.png
   rotate: false
-  xy: 334, 2
+  xy: 354, 2
   size: 18, 21
   orig: 18, 21
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_spk_hrb_2082_7_0.png
   rotate: false
-  xy: 1199, 21
+  xy: 1218, 21
   size: 17, 41
   orig: 17, 41
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_std_hr_2080_0_0.png
   rotate: false
-  xy: 931, 36
+  xy: 959, 36
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
@@ -272,14 +265,14 @@ hair_U_mohawk_h_std_hr_2080_1_0.png
   index: -1
 hair_U_mohawk_h_std_hr_2080_2_0.png
   rotate: false
-  xy: 646, 7
+  xy: 1464, 43
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_std_hr_2080_3_0.png
   rotate: false
-  xy: 154, 4
+  xy: 2, 3
   size: 24, 16
   orig: 24, 16
   offset: 0, 0
@@ -300,23 +293,30 @@ hair_U_mohawk_h_std_hr_2081_1_0.png
   index: -1
 hair_U_mohawk_h_std_hr_2081_2_0.png
   rotate: false
-  xy: 590, 28
+  xy: 630, 28
   size: 38, 34
   orig: 38, 34
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_std_hr_2081_3_0.png
   rotate: false
-  xy: 1359, 36
+  xy: 1419, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_std_hr_2081_7_0.png
   rotate: false
-  xy: 1136, 17
+  xy: 1178, 17
   size: 19, 45
   orig: 19, 45
+  offset: 0, 0
+  index: -1
+hair_U_mohawk_h_std_hr_2082_0_0.png
+  rotate: false
+  xy: 670, 28
+  size: 37, 34
+  orig: 37, 34
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_std_hr_2082_1_0.png
@@ -335,21 +335,21 @@ hair_U_mohawk_h_std_hr_2082_2_0.png
   index: -1
 hair_U_mohawk_h_std_hr_2082_3_0.png
   rotate: false
-  xy: 354, 2
+  xy: 334, 2
   size: 18, 21
   orig: 18, 21
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_std_hr_2082_7_0.png
   rotate: false
-  xy: 1237, 21
+  xy: 1199, 21
   size: 17, 41
   orig: 17, 41
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_std_hrb_2080_0_0.png
   rotate: false
-  xy: 959, 36
+  xy: 931, 36
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
@@ -370,7 +370,7 @@ hair_U_mohawk_h_std_hrb_2080_2_0.png
   index: -1
 hair_U_mohawk_h_std_hrb_2080_3_0.png
   rotate: false
-  xy: 2, 3
+  xy: 154, 4
   size: 24, 16
   orig: 24, 16
   offset: 0, 0
@@ -384,7 +384,7 @@ hair_U_mohawk_h_std_hrb_2080_7_0.png
   index: -1
 hair_U_mohawk_h_std_hrb_2081_0_0.png
   rotate: false
-  xy: 246, 24
+  xy: 290, 24
   size: 42, 38
   orig: 42, 38
   offset: 0, 0
@@ -398,28 +398,28 @@ hair_U_mohawk_h_std_hrb_2081_1_0.png
   index: -1
 hair_U_mohawk_h_std_hrb_2081_2_0.png
   rotate: false
-  xy: 630, 28
+  xy: 590, 28
   size: 38, 34
   orig: 38, 34
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_std_hrb_2081_3_0.png
   rotate: false
-  xy: 1379, 36
+  xy: 1359, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_std_hrb_2081_7_0.png
   rotate: false
-  xy: 1157, 17
+  xy: 1115, 17
   size: 19, 45
   orig: 19, 45
   offset: 0, 0
   index: -1
 hair_U_mohawk_h_std_hrb_2082_0_0.png
   rotate: false
-  xy: 670, 28
+  xy: 709, 28
   size: 37, 34
   orig: 37, 34
   offset: 0, 0
@@ -447,7 +447,7 @@ hair_U_mohawk_h_std_hrb_2082_3_0.png
   index: -1
 hair_U_mohawk_h_std_hrb_2082_7_0.png
   rotate: false
-  xy: 1218, 21
+  xy: 1237, 21
   size: 17, 41
   orig: 17, 41
   offset: 0, 0

@@ -11,14 +11,14 @@ hair_U_bohobraids_h_lay_hr_3136_2_0.png
   orig: 43, 35
   offset: 0, 0
   index: -1
-hair_U_bohobraids_h_lay_hrb_3136_2_0.png
+hair_U_bohobraids_h_lsp_hr_3136_2_0.png
   rotate: false
   xy: 47, 77
   size: 43, 35
   orig: 43, 35
   offset: 0, 0
   index: -1
-hair_U_bohobraids_h_lsp_hr_3136_2_0.png
+hair_U_bohobraids_h_lsp_hrb_3136_2_0.png
   rotate: false
   xy: 2, 40
   size: 43, 35
@@ -27,7 +27,7 @@ hair_U_bohobraids_h_lsp_hr_3136_2_0.png
   index: -1
 hair_U_bohobraids_h_spk_hr_3136_0_0.png
   rotate: false
-  xy: 90, 3
+  xy: 215, 41
   size: 35, 36
   orig: 35, 36
   offset: 0, 0
@@ -41,7 +41,7 @@ hair_U_bohobraids_h_spk_hr_3136_1_0.png
   index: -1
 hair_U_bohobraids_h_spk_hr_3136_2_0.png
   rotate: false
-  xy: 135, 45
+  xy: 90, 41
   size: 38, 33
   orig: 38, 33
   offset: 0, 0
@@ -60,18 +60,25 @@ hair_U_bohobraids_h_spk_hr_3136_7_0.png
   orig: 41, 36
   offset: 0, 0
   index: -1
-hair_U_bohobraids_h_spk_hrb_3136_3_0.png
+hair_U_bohobraids_h_spk_hrb_3136_1_0.png
   rotate: false
-  xy: 45, 5
-  size: 41, 32
-  orig: 41, 32
+  xy: 164, 10
+  size: 32, 33
+  orig: 32, 33
   offset: 0, 0
   index: -1
-hair_U_bohobraids_h_spk_hrb_3136_7_0.png
+hair_U_bohobraids_h_spk_hrb_3136_2_0.png
   rotate: false
-  xy: 92, 76
-  size: 41, 36
-  orig: 41, 36
+  xy: 135, 45
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+hair_U_bohobraids_h_spk_hrb_3136_3_0.png
+  rotate: false
+  xy: 178, 80
+  size: 41, 32
+  orig: 41, 32
   offset: 0, 0
   index: -1
 hair_U_bohobraids_h_std_hr_3136_0_0.png
@@ -97,36 +104,29 @@ hair_U_bohobraids_h_std_hr_3136_2_0.png
   index: -1
 hair_U_bohobraids_h_std_hr_3136_3_0.png
   rotate: false
-  xy: 178, 80
+  xy: 45, 5
   size: 41, 32
   orig: 41, 32
   offset: 0, 0
   index: -1
 hair_U_bohobraids_h_std_hr_3136_7_0.png
   rotate: false
-  xy: 47, 39
+  xy: 92, 76
   size: 41, 36
   orig: 41, 36
   offset: 0, 0
   index: -1
 hair_U_bohobraids_h_std_hrb_3136_0_0.png
   rotate: false
-  xy: 215, 41
+  xy: 90, 3
   size: 35, 36
   orig: 35, 36
   offset: 0, 0
   index: -1
-hair_U_bohobraids_h_std_hrb_3136_1_0.png
+hair_U_bohobraids_h_std_hrb_3136_7_0.png
   rotate: false
-  xy: 164, 10
-  size: 32, 33
-  orig: 32, 33
-  offset: 0, 0
-  index: -1
-hair_U_bohobraids_h_std_hrb_3136_2_0.png
-  rotate: false
-  xy: 90, 41
-  size: 38, 33
-  orig: 38, 33
+  xy: 47, 39
+  size: 41, 36
+  orig: 41, 36
   offset: 0, 0
   index: -1

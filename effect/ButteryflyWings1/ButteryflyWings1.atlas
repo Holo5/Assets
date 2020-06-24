@@ -4,13 +4,6 @@ size: 128,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-ButteryflyWings1_h_std_fx90_1_1_0_0.png
-  rotate: false
-  xy: 60, 55
-  size: 56, 64
-  orig: 56, 64
-  offset: 0, 0
-  index: -1
 ButteryflyWings1_h_std_fx90_1_1_1_0.png
   rotate: false
   xy: 90, 2
@@ -18,11 +11,11 @@ ButteryflyWings1_h_std_fx90_1_1_1_0.png
   orig: 23, 51
   offset: 0, 0
   index: -1
-ButteryflyWings1_h_std_fx90_1_1_3_0.png
+ButteryflyWings1_h_std_fx90_1_1_4_0.png
   rotate: false
-  xy: 2, 2
-  size: 61, 51
-  orig: 61, 51
+  xy: 60, 55
+  size: 56, 64
+  orig: 56, 64
   offset: 0, 0
   index: -1
 ButteryflyWings1_h_std_fx90_1_1_5_0.png
@@ -37,5 +30,12 @@ ButteryflyWings1_h_std_fx90_1_1_6_0.png
   xy: 2, 55
   size: 56, 64
   orig: 56, 64
+  offset: 0, 0
+  index: -1
+ButteryflyWings1_h_std_fx90_1_1_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 51
+  orig: 61, 51
   offset: 0, 0
   index: -1

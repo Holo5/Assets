@@ -13,7 +13,7 @@ hair_M_jimmy_h_lay_hr_2477_2_0.png
   index: -1
 hair_M_jimmy_h_lay_hrb_2476_2_0.png
   rotate: false
-  xy: 31, 2
+  xy: 48, 114
   size: 14, 12
   orig: 14, 12
   offset: 0, 0
@@ -41,7 +41,7 @@ hair_M_jimmy_h_lsp_hr_2477_2_0.png
   index: -1
 hair_M_jimmy_h_lsp_hrb_2476_2_0.png
   rotate: false
-  xy: 48, 114
+  xy: 31, 2
   size: 14, 12
   orig: 14, 12
   offset: 0, 0
@@ -62,28 +62,28 @@ hair_M_jimmy_h_spk_hr_2476_0_0.png
   index: -1
 hair_M_jimmy_h_spk_hr_2476_1_0.png
   rotate: false
-  xy: 2, 8
+  xy: 2, 24
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 hair_M_jimmy_h_spk_hr_2476_2_0.png
   rotate: false
-  xy: 24, 143
+  xy: 24, 128
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hair_M_jimmy_h_spk_hr_2476_3_0.png
   rotate: false
-  xy: 38, 45
+  xy: 44, 87
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 hair_M_jimmy_h_spk_hr_2476_7_0.png
   rotate: false
-  xy: 2, 76
+  xy: 2, 145
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
@@ -95,32 +95,32 @@ hair_M_jimmy_h_spk_hr_2477_0_0.png
   orig: 24, 19
   offset: 0, 0
   index: -1
+hair_M_jimmy_h_spk_hr_2477_1_0.png
+  rotate: false
+  xy: 24, 85
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
 hair_M_jimmy_h_spk_hr_2477_2_0.png
   rotate: false
-  xy: 50, 31
+  xy: 47, 16
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
-hair_M_jimmy_h_spk_hr_2477_3_0.png
-  rotate: false
-  xy: 24, 114
-  size: 22, 12
-  orig: 22, 12
-  offset: 0, 0
-  index: -1
-hair_M_jimmy_h_spk_hr_2477_7_0.png
-  rotate: false
-  xy: 2, 40
-  size: 22, 16
-  orig: 22, 16
-  offset: 0, 0
-  index: -1
 hair_M_jimmy_h_spk_hrb_2476_0_0.png
   rotate: false
-  xy: 2, 210
+  xy: 2, 231
   size: 27, 19
   orig: 27, 19
+  offset: 0, 0
+  index: -1
+hair_M_jimmy_h_spk_hrb_2476_1_0.png
+  rotate: false
+  xy: 27, 173
+  size: 27, 14
+  orig: 27, 14
   offset: 0, 0
   index: -1
 hair_M_jimmy_h_spk_hrb_2476_2_0.png
@@ -132,14 +132,14 @@ hair_M_jimmy_h_spk_hrb_2476_2_0.png
   index: -1
 hair_M_jimmy_h_spk_hrb_2476_3_0.png
   rotate: false
-  xy: 44, 87
+  xy: 38, 44
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 hair_M_jimmy_h_spk_hrb_2476_7_0.png
   rotate: false
-  xy: 2, 145
+  xy: 2, 99
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
@@ -151,44 +151,51 @@ hair_M_jimmy_h_spk_hrb_2477_0_0.png
   orig: 24, 19
   offset: 0, 0
   index: -1
-hair_M_jimmy_h_spk_hrb_2477_1_0.png
-  rotate: false
-  xy: 24, 85
-  size: 18, 14
-  orig: 18, 14
-  offset: 0, 0
-  index: -1
 hair_M_jimmy_h_spk_hrb_2477_2_0.png
   rotate: false
-  xy: 47, 16
+  xy: 51, 30
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
+hair_M_jimmy_h_spk_hrb_2477_3_0.png
+  rotate: false
+  xy: 24, 114
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+hair_M_jimmy_h_spk_hrb_2477_7_0.png
+  rotate: false
+  xy: 2, 40
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
 hair_M_jimmy_h_std_hr_2476_0_0.png
   rotate: false
-  xy: 2, 231
+  xy: 2, 210
   size: 27, 19
   orig: 27, 19
   offset: 0, 0
   index: -1
 hair_M_jimmy_h_std_hr_2476_1_0.png
   rotate: false
-  xy: 2, 24
+  xy: 2, 8
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 hair_M_jimmy_h_std_hr_2476_2_0.png
   rotate: false
-  xy: 24, 128
+  xy: 24, 143
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hair_M_jimmy_h_std_hr_2476_3_0.png
   rotate: false
-  xy: 38, 59
+  xy: 44, 73
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
@@ -207,37 +214,30 @@ hair_M_jimmy_h_std_hr_2477_0_0.png
   orig: 23, 19
   offset: 0, 0
   index: -1
+hair_M_jimmy_h_std_hr_2477_1_0.png
+  rotate: false
+  xy: 38, 58
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
 hair_M_jimmy_h_std_hr_2477_2_0.png
   rotate: false
-  xy: 48, 101
+  xy: 53, 197
   size: 9, 11
   orig: 9, 11
   offset: 0, 0
   index: -1
-hair_M_jimmy_h_std_hr_2477_3_0.png
-  rotate: false
-  xy: 24, 101
-  size: 22, 11
-  orig: 22, 11
-  offset: 0, 0
-  index: -1
-hair_M_jimmy_h_std_hrb_2476_1_0.png
-  rotate: false
-  xy: 27, 173
-  size: 27, 14
-  orig: 27, 14
-  offset: 0, 0
-  index: -1
 hair_M_jimmy_h_std_hrb_2476_3_0.png
   rotate: false
-  xy: 44, 73
+  xy: 31, 30
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 hair_M_jimmy_h_std_hrb_2476_7_0.png
   rotate: false
-  xy: 2, 99
+  xy: 2, 76
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
@@ -249,18 +249,18 @@ hair_M_jimmy_h_std_hrb_2477_0_0.png
   orig: 23, 19
   offset: 0, 0
   index: -1
-hair_M_jimmy_h_std_hrb_2477_1_0.png
-  rotate: false
-  xy: 31, 30
-  size: 17, 13
-  orig: 17, 13
-  offset: 0, 0
-  index: -1
 hair_M_jimmy_h_std_hrb_2477_2_0.png
   rotate: false
-  xy: 53, 197
+  xy: 48, 101
   size: 9, 11
   orig: 9, 11
+  offset: 0, 0
+  index: -1
+hair_M_jimmy_h_std_hrb_2477_3_0.png
+  rotate: false
+  xy: 24, 101
+  size: 22, 11
+  orig: 22, 11
   offset: 0, 0
   index: -1
 hair_M_jimmy_h_std_hrb_2477_7_0.png

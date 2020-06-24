@@ -4,37 +4,37 @@ size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hair_U_floppyhair_h_lay_hr_3135_2_0.png
-  rotate: false
-  xy: 507, 3
-  size: 26, 26
-  orig: 26, 26
-  offset: 0, 0
-  index: -1
-hair_U_floppyhair_h_lsp_hrb_3135_2_0.png
+hair_U_floppyhair_h_lay_hrb_3135_2_0.png
   rotate: false
   xy: 479, 3
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
+hair_U_floppyhair_h_lsp_hr_3135_2_0.png
+  rotate: false
+  xy: 507, 3
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
 hair_U_floppyhair_h_spk_hr_3135_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 165, 2
   size: 30, 27
   orig: 30, 27
   offset: 0, 0
   index: -1
 hair_U_floppyhair_h_spk_hr_3135_1_0.png
   rotate: false
-  xy: 67, 3
+  xy: 2, 3
   size: 31, 26
   orig: 31, 26
   offset: 0, 0
   index: -1
 hair_U_floppyhair_h_spk_hr_3135_2_0.png
   rotate: false
-  xy: 165, 3
+  xy: 101, 3
   size: 30, 26
   orig: 30, 26
   offset: 0, 0
@@ -48,16 +48,23 @@ hair_U_floppyhair_h_spk_hr_3135_3_0.png
   index: -1
 hair_U_floppyhair_h_spk_hr_3135_7_0.png
   rotate: false
-  xy: 355, 2
+  xy: 292, 2
   size: 29, 27
   orig: 29, 27
   offset: 0, 0
   index: -1
 hair_U_floppyhair_h_spk_hrb_3135_0_0.png
   rotate: false
-  xy: 261, 2
+  xy: 197, 2
   size: 30, 27
   orig: 30, 27
+  offset: 0, 0
+  index: -1
+hair_U_floppyhair_h_spk_hrb_3135_1_0.png
+  rotate: false
+  xy: 35, 3
+  size: 31, 26
+  orig: 31, 26
   offset: 0, 0
   index: -1
 hair_U_floppyhair_h_spk_hrb_3135_2_0.png
@@ -76,7 +83,7 @@ hair_U_floppyhair_h_spk_hrb_3135_3_0.png
   index: -1
 hair_U_floppyhair_h_spk_hrb_3135_7_0.png
   rotate: false
-  xy: 324, 2
+  xy: 261, 2
   size: 29, 27
   orig: 29, 27
   offset: 0, 0
@@ -90,14 +97,14 @@ hair_U_floppyhair_h_std_hr_3135_0_0.png
   index: -1
 hair_U_floppyhair_h_std_hr_3135_1_0.png
   rotate: false
-  xy: 34, 3
+  xy: 68, 3
   size: 31, 26
   orig: 31, 26
   offset: 0, 0
   index: -1
 hair_U_floppyhair_h_std_hr_3135_2_0.png
   rotate: false
-  xy: 197, 3
+  xy: 354, 3
   size: 30, 26
   orig: 30, 26
   offset: 0, 0
@@ -111,15 +118,8 @@ hair_U_floppyhair_h_std_hr_3135_3_0.png
   index: -1
 hair_U_floppyhair_h_std_hr_3135_7_0.png
   rotate: false
-  xy: 293, 2
+  xy: 323, 2
   size: 29, 27
   orig: 29, 27
-  offset: 0, 0
-  index: -1
-hair_U_floppyhair_h_std_hrb_3135_1_0.png
-  rotate: false
-  xy: 100, 3
-  size: 31, 26
-  orig: 31, 26
   offset: 0, 0
   index: -1

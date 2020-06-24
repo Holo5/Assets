@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 Goatmask3_h_std_fx152_1_1_0_0.png
   rotate: false
-  xy: 2, 38
+  xy: 2, 86
   size: 51, 46
   orig: 51, 46
   offset: 0, 0
@@ -48,7 +48,7 @@ Goatmask3_h_std_fx152_1_1_5_0.png
   index: -1
 Goatmask3_h_std_fx152_1_1_6_0.png
   rotate: false
-  xy: 2, 86
+  xy: 2, 38
   size: 51, 46
   orig: 51, 46
   offset: 0, 0

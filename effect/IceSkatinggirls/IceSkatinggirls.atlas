@@ -13,28 +13,28 @@ IceSkatinggirls_h_std_fx39_1_1_0_0.png
   index: -1
 IceSkatinggirls_h_std_fx39_1_1_1_0.png
   rotate: false
-  xy: 508, 12
+  xy: 531, 12
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
   index: -1
 IceSkatinggirls_h_std_fx39_1_1_2_0.png
   rotate: false
-  xy: 273, 3
+  xy: 217, 3
   size: 26, 27
   orig: 26, 27
   offset: 0, 0
   index: -1
 IceSkatinggirls_h_std_fx39_1_1_3_0.png
   rotate: false
-  xy: 532, 11
+  xy: 508, 11
   size: 21, 19
   orig: 21, 19
   offset: 0, 0
   index: -1
 IceSkatinggirls_h_std_fx39_1_1_7_0.png
   rotate: false
-  xy: 599, 13
+  xy: 555, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
@@ -55,21 +55,21 @@ IceSkatinggirls_h_wlk_fx39_1_1_0_1.png
   index: -1
 IceSkatinggirls_h_wlk_fx39_1_1_0_2.png
   rotate: false
-  xy: 327, 8
+  xy: 301, 8
   size: 28, 22
   orig: 28, 22
   offset: 0, 0
   index: -1
 IceSkatinggirls_h_wlk_fx39_1_1_0_3.png
   rotate: false
-  xy: 217, 5
+  xy: 273, 5
   size: 26, 25
   orig: 26, 25
   offset: 0, 0
   index: -1
 IceSkatinggirls_h_wlk_fx39_1_1_1_0.png
   rotate: false
-  xy: 357, 12
+  xy: 331, 12
   size: 29, 18
   orig: 29, 18
   offset: 0, 0
@@ -83,7 +83,7 @@ IceSkatinggirls_h_wlk_fx39_1_1_1_1.png
   index: -1
 IceSkatinggirls_h_wlk_fx39_1_1_1_2.png
   rotate: false
-  xy: 388, 12
+  xy: 362, 12
   size: 25, 18
   orig: 25, 18
   offset: 0, 0
@@ -104,7 +104,7 @@ IceSkatinggirls_h_wlk_fx39_1_1_2_0.png
   index: -1
 IceSkatinggirls_h_wlk_fx39_1_1_2_1.png
   rotate: false
-  xy: 301, 4
+  xy: 389, 4
   size: 24, 26
   orig: 24, 26
   offset: 0, 0
@@ -125,35 +125,35 @@ IceSkatinggirls_h_wlk_fx39_1_1_2_3.png
   index: -1
 IceSkatinggirls_h_wlk_fx39_1_1_3_0.png
   rotate: false
-  xy: 464, 9
+  xy: 486, 9
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
   index: -1
 IceSkatinggirls_h_wlk_fx39_1_1_3_1.png
   rotate: false
-  xy: 643, 10
+  xy: 622, 10
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 IceSkatinggirls_h_wlk_fx39_1_1_3_2.png
   rotate: false
-  xy: 486, 9
+  xy: 464, 9
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
   index: -1
 IceSkatinggirls_h_wlk_fx39_1_1_3_3.png
   rotate: false
-  xy: 622, 10
+  xy: 643, 10
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 IceSkatinggirls_h_wlk_fx39_1_1_7_0.png
   rotate: false
-  xy: 555, 11
+  xy: 600, 11
   size: 20, 19
   orig: 20, 19
   offset: 0, 0
@@ -167,7 +167,7 @@ IceSkatinggirls_h_wlk_fx39_1_1_7_1.png
   index: -1
 IceSkatinggirls_h_wlk_fx39_1_1_7_2.png
   rotate: false
-  xy: 577, 12
+  xy: 578, 12
   size: 20, 18
   orig: 20, 18
   offset: 0, 0

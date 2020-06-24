@@ -6,70 +6,70 @@ filter: Nearest,Nearest
 repeat: none
 jacket_F_bolero_h_crr_lc_0_0_0.png
   rotate: false
-  xy: 59, 11
+  xy: 122, 132
   size: 4, 15
   orig: 4, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_crr_lc_0_1_0.png
   rotate: false
-  xy: 54, 28
+  xy: 112, 149
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_crr_lc_0_2_0.png
   rotate: false
-  xy: 94, 188
+  xy: 104, 130
   size: 6, 18
   orig: 6, 18
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_crr_lc_0_3_0.png
   rotate: false
-  xy: 34, 18
+  xy: 34, 19
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_crr_lc_0_7_0.png
   rotate: false
-  xy: 119, 175
+  xy: 85, 124
   size: 7, 18
   orig: 7, 18
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_crr_rc_0_0_0.png
   rotate: false
-  xy: 35, 88
+  xy: 44, 43
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_crr_rc_0_1_0.png
   rotate: false
-  xy: 41, 135
+  xy: 90, 150
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_crr_rc_0_2_0.png
   rotate: false
-  xy: 38, 178
+  xy: 80, 144
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_crr_rc_0_3_0.png
   rotate: false
-  xy: 36, 111
+  xy: 26, 111
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_crr_rc_0_4_0.png
   rotate: false
-  xy: 51, 135
+  xy: 77, 115
   size: 6, 18
   orig: 6, 18
   offset: 0, 0
@@ -83,49 +83,49 @@ jacket_F_bolero_h_crr_rc_0_5_0.png
   index: -1
 jacket_F_bolero_h_crr_rc_0_6_0.png
   rotate: false
-  xy: 44, 42
+  xy: 44, 139
   size: 6, 21
   orig: 6, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_crr_rc_0_7_0.png
   rotate: false
-  xy: 59, 136
+  xy: 58, 118
   size: 7, 18
   orig: 7, 18
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_drk_rc_0_0_0.png
   rotate: false
-  xy: 84, 225
+  xy: 84, 205
   size: 17, 11
   orig: 17, 11
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_drk_rc_0_1_0.png
   rotate: false
-  xy: 66, 204
+  xy: 68, 135
   size: 15, 7
   orig: 15, 7
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_drk_rc_0_2_0.png
   rotate: false
-  xy: 103, 220
+  xy: 84, 188
   size: 16, 15
   orig: 16, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_drk_rc_0_3_0.png
   rotate: false
-  xy: 116, 139
+  xy: 100, 150
   size: 10, 15
   orig: 10, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_drk_rc_0_4_0.png
   rotate: false
-  xy: 110, 120
+  xy: 86, 99
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
@@ -139,14 +139,14 @@ jacket_F_bolero_h_drk_rc_0_5_0.png
   index: -1
 jacket_F_bolero_h_drk_rc_0_6_0.png
   rotate: false
-  xy: 101, 154
+  xy: 69, 166
   size: 13, 9
   orig: 13, 9
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_drk_rc_0_7_0.png
   rotate: false
-  xy: 85, 117
+  xy: 94, 116
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
@@ -167,35 +167,35 @@ jacket_F_bolero_h_lay_lc_0_2_0.png
   index: -1
 jacket_F_bolero_h_lay_rc_0_2_0.png
   rotate: false
-  xy: 83, 208
+  xy: 43, 2
   size: 17, 15
   orig: 17, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_sit_lc_0_0_0.png
   rotate: false
-  xy: 109, 137
+  xy: 56, 72
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_sit_lc_0_2_0.png
   rotate: false
-  xy: 121, 218
+  xy: 52, 97
   size: 5, 17
   orig: 5, 17
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_sit_rc_0_0_0.png
   rotate: false
-  xy: 48, 178
+  xy: 46, 116
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_sit_rc_0_2_0.png
   rotate: false
-  xy: 2, 35
+  xy: 2, 60
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
@@ -237,35 +237,35 @@ jacket_F_bolero_h_std_cc_0_7_0.png
   index: -1
 jacket_F_bolero_h_std_lc_0_0_0.png
   rotate: false
-  xy: 24, 135
+  xy: 115, 112
   size: 5, 16
   orig: 5, 16
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_std_lc_0_1_0.png
   rotate: false
-  xy: 119, 123
+  xy: 77, 99
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_std_lc_0_2_0.png
   rotate: false
-  xy: 91, 100
+  xy: 56, 55
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_std_lc_0_3_0.png
   rotate: false
-  xy: 31, 205
+  xy: 15, 85
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_std_lc_0_7_0.png
   rotate: false
-  xy: 24, 39
+  xy: 24, 16
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
@@ -279,14 +279,14 @@ jacket_F_bolero_h_std_rc_0_0_0.png
   index: -1
 jacket_F_bolero_h_std_rc_0_1_0.png
   rotate: false
-  xy: 68, 144
+  xy: 34, 135
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_std_rc_0_2_0.png
   rotate: false
-  xy: 2, 60
+  xy: 2, 35
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
@@ -300,63 +300,63 @@ jacket_F_bolero_h_std_rc_0_3_0.png
   index: -1
 jacket_F_bolero_h_std_rc_0_7_0.png
   rotate: false
-  xy: 44, 19
+  xy: 57, 209
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_0_0.png
   rotate: false
-  xy: 78, 132
+  xy: 103, 201
   size: 13, 15
   orig: 13, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_0_1.png
   rotate: false
-  xy: 94, 137
+  xy: 52, 192
   size: 13, 15
   orig: 13, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_1_0.png
   rotate: false
-  xy: 65, 118
+  xy: 24, 135
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_1_1.png
   rotate: false
-  xy: 81, 100
+  xy: 67, 118
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_2_0.png
   rotate: false
-  xy: 43, 2
+  xy: 102, 185
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_2_1.png
   rotate: false
-  xy: 102, 165
+  xy: 52, 156
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_3_0.png
   rotate: false
-  xy: 102, 200
+  xy: 67, 213
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_3_1.png
   rotate: false
-  xy: 66, 213
+  xy: 84, 218
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
@@ -370,147 +370,147 @@ jacket_F_bolero_h_wav_lc_0_4_0.png
   index: -1
 jacket_F_bolero_h_wav_lc_0_4_1.png
   rotate: false
-  xy: 60, 185
+  xy: 101, 218
   size: 15, 17
   orig: 15, 17
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_5_0.png
   rotate: false
-  xy: 78, 149
+  xy: 84, 170
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_5_1.png
   rotate: false
-  xy: 78, 167
+  xy: 52, 138
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_6_0.png
   rotate: false
-  xy: 84, 238
+  xy: 2, 135
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_6_1.png
   rotate: false
-  xy: 2, 135
+  xy: 84, 238
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_7_0.png
   rotate: false
-  xy: 102, 182
+  xy: 67, 195
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wav_lc_0_7_1.png
   rotate: false
-  xy: 77, 185
+  xy: 52, 173
   size: 15, 17
   orig: 15, 17
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_0_0.png
   rotate: false
-  xy: 71, 83
+  xy: 56, 21
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_0_1.png
   rotate: false
-  xy: 94, 154
+  xy: 104, 97
   size: 5, 16
   orig: 5, 16
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_0_2.png
   rotate: false
-  xy: 64, 80
+  xy: 56, 38
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_0_3.png
   rotate: false
-  xy: 56, 116
+  xy: 95, 97
   size: 7, 17
   orig: 7, 17
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_1_0.png
   rotate: false
-  xy: 31, 135
+  xy: 94, 131
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_1_1.png
   rotate: false
-  xy: 98, 104
+  xy: 104, 115
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_1_2.png
   rotate: false
-  xy: 75, 118
+  xy: 111, 98
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_1_3.png
   rotate: false
-  xy: 64, 68
+  xy: 122, 106
   size: 4, 10
   orig: 4, 10
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_2_0.png
   rotate: false
-  xy: 116, 103
+  xy: 121, 89
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_2_1.png
   rotate: false
-  xy: 94, 172
+  xy: 69, 102
   size: 6, 14
   orig: 6, 14
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_2_2.png
   rotate: false
-  xy: 109, 103
+  xy: 63, 73
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_2_3.png
   rotate: false
-  xy: 78, 86
+  xy: 122, 118
   size: 4, 12
   orig: 4, 12
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_3_0.png
   rotate: false
-  xy: 15, 85
+  xy: 31, 205
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_3_1.png
   rotate: false
-  xy: 14, 36
+  xy: 14, 12
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
@@ -524,91 +524,91 @@ jacket_F_bolero_h_wlk_lc_0_3_2.png
   index: -1
 jacket_F_bolero_h_wlk_lc_0_3_3.png
   rotate: false
-  xy: 14, 12
+  xy: 14, 36
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_7_0.png
   rotate: false
-  xy: 43, 65
+  xy: 34, 88
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_7_1.png
   rotate: false
-  xy: 34, 41
+  xy: 24, 62
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_7_2.png
   rotate: false
-  xy: 119, 195
+  xy: 25, 87
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_lc_0_7_3.png
   rotate: false
-  xy: 33, 64
+  xy: 36, 112
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_0_0.png
   rotate: false
-  xy: 52, 156
+  xy: 44, 21
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_0_1.png
   rotate: false
-  xy: 52, 46
+  xy: 39, 162
   size: 11, 19
   orig: 11, 19
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_0_2.png
   rotate: false
-  xy: 52, 67
+  xy: 68, 144
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_0_3.png
   rotate: false
-  xy: 64, 163
+  xy: 38, 183
   size: 12, 20
   orig: 12, 20
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_1_0.png
   rotate: false
-  xy: 57, 97
+  xy: 112, 130
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_1_1.png
   rotate: false
-  xy: 95, 119
+  xy: 69, 177
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_1_2.png
   rotate: false
-  xy: 118, 156
+  xy: 59, 99
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_1_3.png
   rotate: false
-  xy: 67, 100
+  xy: 100, 167
   size: 12, 16
   orig: 12, 16
   offset: 0, 0
@@ -636,63 +636,63 @@ jacket_F_bolero_h_wlk_rc_0_2_2.png
   index: -1
 jacket_F_bolero_h_wlk_rc_0_2_3.png
   rotate: false
-  xy: 39, 155
+  xy: 43, 66
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_3_0.png
   rotate: false
-  xy: 26, 111
+  xy: 29, 154
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_3_1.png
   rotate: false
-  xy: 47, 89
+  xy: 118, 167
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_3_2.png
   rotate: false
-  xy: 29, 154
+  xy: 118, 213
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_3_3.png
   rotate: false
-  xy: 46, 112
+  xy: 118, 190
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_7_0.png
   rotate: false
-  xy: 24, 62
+  xy: 43, 89
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_7_1.png
   rotate: false
-  xy: 25, 87
+  xy: 34, 42
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_7_2.png
   rotate: false
-  xy: 57, 209
+  xy: 34, 65
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 jacket_F_bolero_h_wlk_rc_0_7_3.png
   rotate: false
-  xy: 24, 16
+  xy: 24, 39
   size: 8, 21
   orig: 8, 21
   offset: 0, 0

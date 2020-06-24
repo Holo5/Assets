@@ -6,42 +6,42 @@ filter: Nearest,Nearest
 repeat: none
 shirt_M_wetsuit_h_drk_rs_3159_0_0.png
   rotate: false
-  xy: 146, 20
+  xy: 94, 7
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_drk_rs_3159_1_0.png
   rotate: false
-  xy: 52, 13
+  xy: 41, 13
   size: 9, 12
   orig: 9, 12
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_drk_rs_3159_2_0.png
   rotate: false
-  xy: 73, 8
+  xy: 65, 19
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_drk_rs_3160_0_0.png
   rotate: false
-  xy: 138, 20
+  xy: 86, 7
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_drk_rs_3160_1_0.png
   rotate: false
-  xy: 41, 13
+  xy: 78, 19
   size: 9, 12
   orig: 9, 12
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_drk_rs_3160_2_0.png
   rotate: false
-  xy: 73, 22
+  xy: 52, 13
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
@@ -62,14 +62,14 @@ shirt_M_wetsuit_h_lay_ch_3160_2_0.png
   index: -1
 shirt_M_wetsuit_h_lay_rs_3159_2_0.png
   rotate: false
-  xy: 73, 2
+  xy: 214, 36
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_std_ch_3159_0_0.png
   rotate: false
-  xy: 165, 32
+  xy: 140, 32
   size: 22, 30
   orig: 22, 30
   offset: 0, 0
@@ -90,21 +90,21 @@ shirt_M_wetsuit_h_std_ch_3159_2_0.png
   index: -1
 shirt_M_wetsuit_h_std_ch_3159_3_0.png
   rotate: false
-  xy: 91, 33
+  xy: 66, 33
   size: 23, 29
   orig: 23, 29
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_std_ch_3159_7_0.png
   rotate: false
-  xy: 66, 36
+  xy: 164, 36
   size: 23, 26
   orig: 23, 26
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_std_ch_3160_0_0.png
   rotate: false
-  xy: 141, 32
+  xy: 116, 32
   size: 22, 30
   orig: 22, 30
   offset: 0, 0
@@ -125,7 +125,7 @@ shirt_M_wetsuit_h_std_ch_3160_2_0.png
   index: -1
 shirt_M_wetsuit_h_std_ch_3160_3_0.png
   rotate: false
-  xy: 116, 33
+  xy: 91, 33
   size: 23, 29
   orig: 23, 29
   offset: 0, 0
@@ -137,165 +137,165 @@ shirt_M_wetsuit_h_std_ch_3160_7_0.png
   orig: 23, 26
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_std_ls_3160_2_0.png
-  rotate: false
-  xy: 2, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 shirt_M_wetsuit_h_std_ls_3160_3_0.png
   rotate: false
-  xy: 117, 2
+  xy: 77, 2
   size: 2, 3
   orig: 2, 3
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_std_ls_3160_7_0.png
   rotate: false
-  xy: 238, 33
+  xy: 65, 2
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_std_rs_3159_0_0.png
   rotate: false
-  xy: 222, 32
+  xy: 186, 26
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_std_rs_3159_2_0.png
   rotate: false
-  xy: 162, 20
+  xy: 123, 20
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
+shirt_M_wetsuit_h_std_rs_3159_3_0.png
+  rotate: false
+  xy: 158, 21
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: -1
 shirt_M_wetsuit_h_std_rs_3160_0_0.png
   rotate: false
-  xy: 214, 32
+  xy: 178, 26
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_std_rs_3160_1_0.png
   rotate: false
-  xy: 40, 27
+  xy: 118, 11
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_std_rs_3160_2_0.png
   rotate: false
-  xy: 189, 30
+  xy: 231, 36
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_std_rs_3160_3_0.png
   rotate: false
-  xy: 112, 2
+  xy: 214, 30
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_wav_ls_3159_3_0.png
+shirt_M_wetsuit_h_wav_ls_3159_3_1.png
   rotate: false
-  xy: 86, 23
+  xy: 194, 23
   size: 3, 11
   orig: 3, 11
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_wav_ls_3159_4_1.png
   rotate: false
-  xy: 103, 19
+  xy: 89, 19
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_wav_ls_3159_5_0.png
+shirt_M_wetsuit_h_wav_ls_3159_5_1.png
   rotate: false
-  xy: 170, 22
+  xy: 131, 22
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_wav_ls_3159_6_1.png
+shirt_M_wetsuit_h_wav_ls_3159_6_0.png
   rotate: false
-  xy: 121, 19
+  xy: 102, 5
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
+shirt_M_wetsuit_h_wav_ls_3159_7_1.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 shirt_M_wetsuit_h_wav_ls_3160_3_1.png
   rotate: false
-  xy: 86, 10
+  xy: 199, 23
   size: 3, 11
   orig: 3, 11
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_wav_ls_3160_4_1.png
   rotate: false
-  xy: 63, 13
+  xy: 99, 19
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_wav_ls_3160_5_1.png
   rotate: false
-  xy: 230, 33
+  xy: 118, 2
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_wav_ls_3160_6_1.png
   rotate: false
-  xy: 113, 19
+  xy: 110, 6
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_wlk_ls_3160_3_2.png
   rotate: false
-  xy: 123, 9
+  xy: 209, 26
   size: 3, 8
   orig: 3, 8
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_wlk_ls_3160_3_3.png
   rotate: false
-  xy: 118, 7
+  xy: 204, 24
   size: 3, 10
   orig: 3, 10
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_wlk_rs_3159_0_0.png
+shirt_M_wetsuit_h_wlk_rs_3159_0_1.png
   rotate: false
-  xy: 179, 22
+  xy: 49, 2
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+shirt_M_wetsuit_h_wlk_rs_3159_0_2.png
+  rotate: false
+  xy: 140, 22
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_wlk_rs_3159_0_1.png
-  rotate: false
-  xy: 65, 2
-  size: 6, 9
-  orig: 6, 9
-  offset: 0, 0
-  index: -1
 shirt_M_wetsuit_h_wlk_rs_3159_0_3.png
   rotate: false
-  xy: 57, 2
+  xy: 41, 2
   size: 6, 9
   orig: 6, 9
-  offset: 0, 0
-  index: -1
-shirt_M_wetsuit_h_wlk_rs_3159_1_0.png
-  rotate: false
-  xy: 62, 27
-  size: 9, 7
-  orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_wlk_rs_3159_1_1.png
@@ -305,79 +305,79 @@ shirt_M_wetsuit_h_wlk_rs_3159_1_1.png
   orig: 12, 11
   offset: 0, 0
   index: -1
+shirt_M_wetsuit_h_wlk_rs_3159_1_3.png
+  rotate: false
+  xy: 40, 27
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
 shirt_M_wetsuit_h_wlk_rs_3159_2_2.png
   rotate: false
-  xy: 154, 20
+  xy: 115, 20
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 shirt_M_wetsuit_h_wlk_rs_3159_2_3.png
   rotate: false
-  xy: 129, 21
+  xy: 77, 7
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_wlk_rs_3160_0_1.png
+shirt_M_wetsuit_h_wlk_rs_3159_3_1.png
   rotate: false
-  xy: 49, 2
-  size: 6, 9
-  orig: 6, 9
+  xy: 109, 20
+  size: 4, 11
+  orig: 4, 11
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_wlk_rs_3160_0_2.png
+shirt_M_wetsuit_h_wlk_rs_3160_0_0.png
   rotate: false
-  xy: 91, 10
+  xy: 149, 22
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_wlk_rs_3160_0_3.png
+shirt_M_wetsuit_h_wlk_rs_3160_0_1.png
   rotate: false
-  xy: 41, 2
+  xy: 170, 25
   size: 6, 9
   orig: 6, 9
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_wlk_rs_3160_1_0.png
+shirt_M_wetsuit_h_wlk_rs_3160_0_3.png
+  rotate: false
+  xy: 57, 2
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+shirt_M_wetsuit_h_wlk_rs_3160_1_1.png
+  rotate: false
+  xy: 65, 6
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+shirt_M_wetsuit_h_wlk_rs_3160_1_3.png
   rotate: false
   xy: 51, 27
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_wlk_rs_3160_1_1.png
+shirt_M_wetsuit_h_wlk_rs_3160_2_2.png
   rotate: false
-  xy: 91, 20
-  size: 10, 11
-  orig: 10, 11
-  offset: 0, 0
-  index: -1
-shirt_M_wetsuit_h_wlk_rs_3160_2_3.png
-  rotate: false
-  xy: 82, 2
+  xy: 223, 36
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
-shirt_M_wetsuit_h_wlk_rs_3160_3_0.png
-  rotate: false
-  xy: 112, 8
-  size: 4, 9
-  orig: 4, 9
-  offset: 0, 0
-  index: -1
-shirt_M_wetsuit_h_wlk_rs_3160_3_1.png
-  rotate: false
-  xy: 100, 6
-  size: 4, 11
-  orig: 4, 11
-  offset: 0, 0
-  index: -1
 shirt_M_wetsuit_h_wlk_rs_3160_3_3.png
   rotate: false
-  xy: 106, 6
+  xy: 164, 23
   size: 4, 11
   orig: 4, 11
   offset: 0, 0

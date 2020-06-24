@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 acc_chest_U_rank1_h_lay_ca_2723_2_0.png
   rotate: false
-  xy: 2, 8
+  xy: 2, 2
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
@@ -20,7 +20,7 @@ acc_chest_U_rank1_h_std_ca_2723_1_0.png
   index: -1
 acc_chest_U_rank1_h_std_ca_2723_2_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 8
   size: 6, 4
   orig: 6, 4
   offset: 0, 0

@@ -6,133 +6,126 @@ filter: Nearest,Nearest
 repeat: none
 shirt_M_football2_h_crr_ls_2165_0_0.png
   rotate: false
-  xy: 268, 18
+  xy: 412, 16
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
-shirt_M_football2_h_crr_ls_2165_2_0.png
-  rotate: false
-  xy: 311, 2
-  size: 5, 13
-  orig: 5, 13
-  offset: 0, 0
-  index: -1
 shirt_M_football2_h_crr_ls_2165_3_0.png
   rotate: false
-  xy: 447, 29
+  xy: 412, 30
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_ls_2165_6_0.png
   rotate: false
-  xy: 83, 2
+  xy: 144, 8
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_ls_2165_7_0.png
   rotate: false
-  xy: 467, 29
+  xy: 274, 2
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_ls_2166_0_0.png
   rotate: false
-  xy: 447, 2
+  xy: 498, 39
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_ls_2166_3_0.png
   rotate: false
-  xy: 430, 2
+  xy: 478, 24
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_ls_2166_6_0.png
   rotate: false
-  xy: 184, 6
+  xy: 446, 12
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2165_0_0.png
   rotate: false
-  xy: 173, 13
+  xy: 132, 8
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2165_1_0.png
   rotate: false
-  xy: 350, 10
+  xy: 422, 33
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2165_2_0.png
   rotate: false
-  xy: 250, 16
+  xy: 78, 2
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2165_3_0.png
   rotate: false
-  xy: 437, 29
+  xy: 353, 9
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2165_4_0.png
   rotate: false
-  xy: 261, 18
+  xy: 505, 47
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2165_5_0.png
   rotate: false
-  xy: 426, 30
+  xy: 401, 31
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2165_6_0.png
   rotate: false
-  xy: 456, 12
+  xy: 392, 31
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2165_7_0.png
   rotate: false
-  xy: 477, 29
+  xy: 284, 2
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2166_0_0.png
   rotate: false
-  xy: 481, 13
+  xy: 446, 19
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2166_2_0.png
   rotate: false
-  xy: 194, 2
+  xy: 436, 19
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2166_3_0.png
   rotate: false
-  xy: 421, 8
+  xy: 443, 2
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
@@ -146,21 +139,28 @@ shirt_M_football2_h_crr_rs_2166_4_0.png
   index: -1
 shirt_M_football2_h_crr_rs_2166_5_0.png
   rotate: false
-  xy: 328, 9
+  xy: 109, 2
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_crr_rs_2166_6_0.png
   rotate: false
-  xy: 499, 16
+  xy: 434, 2
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
+shirt_M_football2_h_crr_rs_2166_7_0.png
+  rotate: false
+  xy: 456, 11
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
 shirt_M_football2_h_drk_rs_2165_0_0.png
   rotate: false
-  xy: 79, 22
+  xy: 285, 19
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
@@ -174,98 +174,98 @@ shirt_M_football2_h_drk_rs_2165_1_0.png
   index: -1
 shirt_M_football2_h_drk_rs_2165_2_0.png
   rotate: false
-  xy: 53, 2
+  xy: 366, 32
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2165_3_0.png
   rotate: false
-  xy: 149, 12
+  xy: 246, 18
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2165_4_0.png
   rotate: false
-  xy: 253, 2
+  xy: 211, 2
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2165_5_0.png
   rotate: false
-  xy: 395, 49
+  xy: 398, 49
   size: 15, 13
   orig: 15, 13
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2165_6_0.png
   rotate: false
-  xy: 63, 26
+  xy: 269, 19
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2165_7_0.png
   rotate: false
-  xy: 415, 31
+  xy: 355, 28
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2166_0_0.png
   rotate: false
-  xy: 481, 20
+  xy: 426, 2
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2166_1_0.png
   rotate: false
-  xy: 148, 2
+  xy: 470, 3
   size: 3, 8
   orig: 3, 8
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2166_2_0.png
   rotate: false
-  xy: 286, 2
+  xy: 419, 16
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2166_3_0.png
   rotate: false
-  xy: 206, 8
+  xy: 488, 39
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2166_4_0.png
   rotate: false
-  xy: 168, 3
+  xy: 471, 39
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2166_5_0.png
   rotate: false
-  xy: 153, 2
+  xy: 500, 29
   size: 3, 8
   orig: 3, 8
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2166_6_0.png
   rotate: false
-  xy: 142, 2
+  xy: 402, 2
   size: 4, 9
   orig: 4, 9
   offset: 0, 0
   index: -1
 shirt_M_football2_h_drk_rs_2166_7_0.png
   rotate: false
-  xy: 499, 5
+  xy: 505, 26
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
@@ -286,35 +286,35 @@ shirt_M_football2_h_lay_ch_2166_2_0.png
   index: -1
 shirt_M_football2_h_lay_ls_2165_2_0.png
   rotate: false
-  xy: 307, 34
+  xy: 166, 2
   size: 15, 7
   orig: 15, 7
   offset: 0, 0
   index: -1
 shirt_M_football2_h_lay_ls_2166_2_0.png
   rotate: false
-  xy: 460, 3
+  xy: 505, 11
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_lay_rs_2165_2_0.png
   rotate: false
-  xy: 412, 49
+  xy: 431, 49
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
   index: -1
 shirt_M_football2_h_lay_rs_2166_2_0.png
   rotate: false
-  xy: 95, 4
+  xy: 375, 2
   size: 8, 9
   orig: 8, 9
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_ch_2165_0_0.png
   rotate: false
-  xy: 134, 29
+  xy: 107, 29
   size: 25, 33
   orig: 25, 33
   offset: 0, 0
@@ -328,7 +328,7 @@ shirt_M_football2_h_std_ch_2165_1_0.png
   index: -1
 shirt_M_football2_h_std_ch_2165_2_0.png
   rotate: false
-  xy: 107, 28
+  xy: 134, 28
   size: 25, 34
   orig: 25, 34
   offset: 0, 0
@@ -363,7 +363,7 @@ shirt_M_football2_h_std_ch_2166_1_0.png
   index: -1
 shirt_M_football2_h_std_ch_2166_2_0.png
   rotate: false
-  xy: 242, 35
+  xy: 215, 35
   size: 25, 27
   orig: 25, 27
   offset: 0, 0
@@ -377,28 +377,35 @@ shirt_M_football2_h_std_ch_2166_3_0.png
   index: -1
 shirt_M_football2_h_std_ch_2166_7_0.png
   rotate: false
-  xy: 215, 35
+  xy: 242, 35
   size: 25, 27
   orig: 25, 27
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_ls_2165_1_0.png
   rotate: false
-  xy: 295, 2
+  xy: 403, 16
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
+shirt_M_football2_h_std_ls_2165_2_0.png
+  rotate: false
+  xy: 446, 33
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
 shirt_M_football2_h_std_ls_2165_3_0.png
   rotate: false
-  xy: 405, 29
+  xy: 310, 22
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_ls_2165_7_0.png
   rotate: false
-  xy: 457, 29
+  xy: 259, 18
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
@@ -412,588 +419,588 @@ shirt_M_football2_h_std_ls_2166_0_0.png
   index: -1
 shirt_M_football2_h_std_ls_2166_1_0.png
   rotate: false
-  xy: 436, 8
+  xy: 496, 24
   size: 7, 3
   orig: 7, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_ls_2166_2_0.png
   rotate: false
-  xy: 454, 2
+  xy: 506, 16
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_ls_2166_7_0.png
   rotate: false
-  xy: 491, 5
+  xy: 481, 14
   size: 6, 3
   orig: 6, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_rs_2165_0_0.png
   rotate: false
-  xy: 95, 15
+  xy: 120, 9
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_rs_2165_1_0.png
   rotate: false
-  xy: 436, 13
+  xy: 264, 2
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_rs_2165_2_0.png
   rotate: false
-  xy: 162, 12
+  xy: 109, 8
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_rs_2165_3_0.png
   rotate: false
-  xy: 340, 15
+  xy: 89, 2
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_rs_2165_7_0.png
   rotate: false
-  xy: 446, 12
+  xy: 294, 2
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_rs_2166_0_0.png
   rotate: false
-  xy: 174, 6
+  xy: 433, 26
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_rs_2166_1_0.png
   rotate: false
-  xy: 318, 10
+  xy: 436, 14
   size: 8, 3
   orig: 8, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_std_rs_2166_2_0.png
   rotate: false
-  xy: 411, 6
+  xy: 459, 24
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
-shirt_M_football2_h_std_rs_2166_7_0.png
+shirt_M_football2_h_wav_ls_2165_0_0.png
   rotate: false
-  xy: 483, 8
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
-shirt_M_football2_h_wav_ls_2165_0_1.png
-  rotate: false
-  xy: 262, 2
+  xy: 53, 2
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2165_1_0.png
   rotate: false
-  xy: 122, 14
+  xy: 94, 21
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2165_1_1.png
   rotate: false
-  xy: 113, 3
+  xy: 385, 2
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2165_2_0.png
   rotate: false
-  xy: 107, 14
+  xy: 79, 21
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2165_2_1.png
   rotate: false
-  xy: 238, 2
+  xy: 196, 2
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
-shirt_M_football2_h_wav_ls_2165_3_1.png
+shirt_M_football2_h_wav_ls_2165_3_0.png
   rotate: false
-  xy: 474, 46
+  xy: 66, 21
   size: 11, 16
   orig: 11, 16
   offset: 0, 0
   index: -1
-shirt_M_football2_h_wav_ls_2165_4_1.png
+shirt_M_football2_h_wav_ls_2165_4_0.png
   rotate: false
-  xy: 459, 46
+  xy: 477, 46
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2165_5_0.png
   rotate: false
-  xy: 487, 49
+  xy: 415, 49
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2165_5_1.png
   rotate: false
-  xy: 68, 2
+  xy: 340, 31
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2165_6_0.png
   rotate: false
-  xy: 379, 47
+  xy: 366, 47
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2165_6_1.png
   rotate: false
-  xy: 428, 48
+  xy: 382, 48
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2165_7_0.png
   rotate: false
-  xy: 363, 46
+  xy: 334, 46
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2165_7_1.png
   rotate: false
-  xy: 347, 46
+  xy: 350, 46
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
-shirt_M_football2_h_wav_ls_2166_0_1.png
+shirt_M_football2_h_wav_ls_2166_0_0.png
   rotate: false
-  xy: 380, 2
+  xy: 427, 17
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_1_0.png
   rotate: false
-  xy: 204, 2
+  xy: 436, 8
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_1_1.png
   rotate: false
-  xy: 389, 2
+  xy: 446, 8
   size: 6, 2
   orig: 6, 2
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_2_0.png
   rotate: false
-  xy: 498, 22
+  xy: 491, 30
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_2_1.png
   rotate: false
-  xy: 489, 21
+  xy: 416, 7
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
-shirt_M_football2_h_wav_ls_2166_3_0.png
+shirt_M_football2_h_wav_ls_2166_3_1.png
   rotate: false
-  xy: 318, 2
+  xy: 456, 16
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_4_0.png
   rotate: false
-  xy: 275, 2
+  xy: 460, 38
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_4_1.png
   rotate: false
-  xy: 63, 17
+  xy: 183, 2
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_5_0.png
   rotate: false
-  xy: 337, 2
+  xy: 477, 39
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_5_1.png
   rotate: false
-  xy: 348, 2
+  xy: 364, 2
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_6_0.png
   rotate: false
-  xy: 105, 2
+  xy: 408, 4
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_6_1.png
   rotate: false
-  xy: 134, 2
+  xy: 394, 2
   size: 6, 9
   orig: 6, 9
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_7_0.png
   rotate: false
-  xy: 158, 3
+  xy: 481, 30
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wav_ls_2166_7_1.png
   rotate: false
-  xy: 324, 34
+  xy: 471, 30
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
-shirt_M_football2_h_wlk_ls_2165_0_0.png
-  rotate: false
-  xy: 411, 13
-  size: 5, 14
-  orig: 5, 14
-  offset: 0, 0
-  index: -1
 shirt_M_football2_h_wlk_ls_2165_0_1.png
   rotate: false
-  xy: 503, 47
+  xy: 304, 2
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
+shirt_M_football2_h_wlk_ls_2165_0_2.png
+  rotate: false
+  xy: 505, 31
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
 shirt_M_football2_h_wlk_ls_2165_0_3.png
   rotate: false
-  xy: 465, 13
+  xy: 301, 19
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_1_0.png
   rotate: false
-  xy: 497, 31
+  xy: 253, 2
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_1_1.png
   rotate: false
-  xy: 307, 17
+  xy: 233, 18
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_1_2.png
   rotate: false
-  xy: 389, 13
+  xy: 242, 2
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_1_3.png
   rotate: false
-  xy: 444, 48
+  xy: 462, 48
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_2_0.png
   rotate: false
-  xy: 418, 15
+  xy: 439, 33
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_2_1.png
   rotate: false
-  xy: 380, 11
+  xy: 383, 31
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_2_2.png
   rotate: false
-  xy: 474, 13
+  xy: 432, 33
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_2_3.png
   rotate: false
-  xy: 304, 2
+  xy: 453, 33
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_3_0.png
   rotate: false
-  xy: 350, 26
+  xy: 320, 23
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_3_1.png
   rotate: false
-  xy: 228, 13
+  xy: 166, 11
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_3_2.png
   rotate: false
-  xy: 218, 13
+  xy: 43, 14
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_3_3.png
   rotate: false
-  xy: 285, 12
+  xy: 313, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_7_0.png
   rotate: false
-  xy: 360, 10
+  xy: 343, 4
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_7_1.png
   rotate: false
-  xy: 370, 10
+  xy: 383, 13
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_7_2.png
   rotate: false
-  xy: 487, 30
+  xy: 99, 2
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2165_7_3.png
   rotate: false
-  xy: 395, 29
+  xy: 156, 8
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_0_0.png
   rotate: false
-  xy: 454, 7
+  xy: 500, 19
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_0_1.png
   rotate: false
-  xy: 506, 5
+  xy: 506, 21
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_0_3.png
   rotate: false
-  xy: 223, 2
+  xy: 427, 11
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_1_0.png
   rotate: false
-  xy: 122, 2
+  xy: 416, 2
   size: 8, 3
   orig: 8, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_1_1.png
   rotate: false
-  xy: 359, 3
+  xy: 443, 26
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_1_3.png
   rotate: false
-  xy: 389, 6
+  xy: 353, 2
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_2_0.png
   rotate: false
-  xy: 232, 2
+  xy: 453, 27
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_2_1.png
   rotate: false
-  xy: 214, 2
+  xy: 452, 2
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_2_2.png
   rotate: false
-  xy: 430, 9
+  xy: 464, 8
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
+shirt_M_football2_h_wlk_ls_2166_2_3.png
+  rotate: false
+  xy: 310, 19
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 shirt_M_football2_h_wlk_ls_2166_3_0.png
   rotate: false
-  xy: 491, 10
+  xy: 489, 14
   size: 6, 3
   orig: 6, 3
   offset: 0, 0
   index: -1
-shirt_M_football2_h_wlk_ls_2166_3_2.png
+shirt_M_football2_h_wlk_ls_2166_3_1.png
   rotate: false
-  xy: 74, 17
+  xy: 464, 19
   size: 7, 3
   orig: 7, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_3_3.png
   rotate: false
-  xy: 491, 15
+  xy: 464, 13
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_7_0.png
   rotate: false
-  xy: 225, 8
+  xy: 472, 14
   size: 7, 3
   orig: 7, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_7_1.png
   rotate: false
-  xy: 499, 10
+  xy: 487, 24
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_ls_2166_7_2.png
   rotate: false
-  xy: 216, 8
+  xy: 491, 19
   size: 7, 3
   orig: 7, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_0_0.png
   rotate: false
-  xy: 383, 29
+  xy: 208, 16
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_0_1.png
   rotate: false
-  xy: 195, 15
+  xy: 492, 45
   size: 11, 17
   orig: 11, 17
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_0_2.png
   rotate: false
-  xy: 295, 17
+  xy: 196, 16
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_0_3.png
   rotate: false
-  xy: 238, 16
+  xy: 66, 2
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_1_0.png
   rotate: false
-  xy: 425, 14
+  xy: 220, 2
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_1_1.png
   rotate: false
-  xy: 134, 13
+  xy: 447, 48
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_1_2.png
   rotate: false
-  xy: 400, 13
+  xy: 231, 2
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_1_3.png
   rotate: false
-  xy: 360, 29
+  xy: 220, 18
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_2_0.png
   rotate: false
-  xy: 334, 42
+  xy: 307, 42
   size: 11, 20
   orig: 11, 20
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_2_1.png
   rotate: false
-  xy: 307, 43
+  xy: 320, 43
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_2_2.png
   rotate: false
-  xy: 321, 43
+  xy: 53, 18
   size: 11, 19
   orig: 11, 19
   offset: 0, 0
@@ -1007,141 +1014,134 @@ shirt_M_football2_h_wlk_rs_2165_2_3.png
   index: -1
 shirt_M_football2_h_wlk_rs_2165_3_0.png
   rotate: false
-  xy: 43, 14
+  xy: 186, 11
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_3_1.png
   rotate: false
-  xy: 185, 13
+  xy: 333, 3
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_3_2.png
   rotate: false
-  xy: 208, 14
+  xy: 330, 23
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_3_3.png
   rotate: false
-  xy: 53, 17
+  xy: 176, 11
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_7_0.png
   rotate: false
-  xy: 330, 15
+  xy: 373, 13
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_7_1.png
   rotate: false
-  xy: 275, 12
+  xy: 323, 3
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_7_2.png
   rotate: false
-  xy: 320, 15
+  xy: 363, 9
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2165_7_3.png
   rotate: false
-  xy: 373, 28
+  xy: 393, 13
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2166_0_0.png
   rotate: false
-  xy: 369, 4
+  xy: 143, 2
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2166_0_1.png
   rotate: false
-  xy: 122, 7
+  xy: 120, 2
   size: 10, 5
   orig: 10, 5
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2166_0_3.png
   rotate: false
-  xy: 195, 9
+  xy: 154, 2
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2166_2_0.png
   rotate: false
-  xy: 339, 9
+  xy: 132, 2
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2166_2_1.png
   rotate: false
-  xy: 334, 34
+  xy: 340, 23
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2166_2_2.png
   rotate: false
-  xy: 400, 6
+  xy: 460, 31
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2166_2_3.png
   rotate: false
-  xy: 326, 2
+  xy: 422, 26
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2166_3_1.png
   rotate: false
-  xy: 439, 2
+  xy: 497, 13
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2166_7_0.png
   rotate: false
-  xy: 474, 8
+  xy: 473, 19
   size: 7, 3
   orig: 7, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2166_7_2.png
   rotate: false
-  xy: 465, 8
+  xy: 482, 19
   size: 7, 3
   orig: 7, 3
   offset: 0, 0
   index: -1
 shirt_M_football2_h_wlk_rs_2166_7_3.png
   rotate: false
-  xy: 421, 2
+  xy: 469, 24
   size: 7, 4
   orig: 7, 4
-  offset: 0, 0
-  index: -1
-shirt_M_football2_sh_drk_rs_2166_7_0.png
-  rotate: false
-  xy: 44, 36
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1

@@ -6,322 +6,322 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_polkadress_h_lay_ch_2892_2_0.png
   rotate: false
-  xy: 2, 215
+  xy: 2, 217
   size: 45, 37
   orig: 45, 37
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_lay_ch_2893_2_0.png
   rotate: false
-  xy: 49, 219
+  xy: 49, 221
   size: 39, 33
   orig: 39, 33
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_sit_ch_2892_0_0.png
   rotate: false
-  xy: 90, 214
+  xy: 90, 216
   size: 35, 38
   orig: 35, 38
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_sit_ch_2892_2_0.png
   rotate: false
-  xy: 2, 26
+  xy: 35, 169
   size: 29, 46
   orig: 29, 46
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_sit_ch_2893_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 117, 188
   size: 33, 22
   orig: 33, 22
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_sit_ch_2893_2_0.png
   rotate: false
-  xy: 120, 146
+  xy: 126, 63
   size: 24, 36
   orig: 24, 36
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_std_ch_2892_1_0.png
   rotate: false
-  xy: 66, 137
+  xy: 95, 139
   size: 23, 44
   orig: 23, 44
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_std_ch_2892_2_0.png
   rotate: false
-  xy: 2, 74
+  xy: 2, 30
   size: 31, 44
   orig: 31, 44
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_std_ch_2892_3_0.png
   rotate: false
-  xy: 35, 168
+  xy: 35, 122
   size: 29, 45
   orig: 29, 45
   offset: 0, 0
   index: -1
-shirt_F_polkadress_h_std_ch_2893_0_0.png
+shirt_F_polkadress_h_std_ch_2892_7_0.png
   rotate: false
-  xy: 126, 77
-  size: 27, 30
-  orig: 27, 30
+  xy: 66, 138
+  size: 27, 45
+  orig: 27, 45
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_std_ch_2893_1_0.png
   rotate: false
-  xy: 66, 183
+  xy: 66, 185
   size: 20, 34
   orig: 20, 34
   offset: 0, 0
   index: -1
+shirt_F_polkadress_h_std_ch_2893_3_0.png
+  rotate: false
+  xy: 138, 4
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+shirt_F_polkadress_h_std_ch_2893_7_0.png
+  rotate: false
+  xy: 31, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
 shirt_F_polkadress_h_wlk_ch_2892_0_0.png
   rotate: false
-  xy: 2, 167
+  xy: 2, 169
   size: 31, 46
   orig: 31, 46
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_0_1.png
   rotate: false
-  xy: 2, 120
+  xy: 2, 122
   size: 31, 45
   orig: 31, 45
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_0_2.png
   rotate: false
-  xy: 127, 209
+  xy: 193, 211
   size: 31, 43
   orig: 31, 43
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_0_3.png
   rotate: false
-  xy: 160, 208
+  xy: 2, 76
   size: 31, 44
   orig: 31, 44
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_1_1.png
   rotate: false
-  xy: 93, 3
+  xy: 87, 2
   size: 24, 43
   orig: 24, 43
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_1_2.png
   rotate: false
-  xy: 119, 4
+  xy: 113, 6
   size: 23, 42
   orig: 23, 42
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_1_3.png
   rotate: false
-  xy: 99, 92
+  xy: 95, 94
   size: 25, 43
   orig: 25, 43
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_2_1.png
   rotate: false
-  xy: 193, 209
+  xy: 160, 211
   size: 31, 43
   orig: 31, 43
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_2_2.png
   rotate: false
-  xy: 66, 94
+  xy: 120, 145
   size: 31, 41
   orig: 31, 41
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_2_3.png
   rotate: false
-  xy: 193, 165
+  xy: 127, 212
   size: 31, 42
   orig: 31, 42
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_3_1.png
   rotate: false
-  xy: 35, 122
+  xy: 35, 76
   size: 29, 44
   orig: 29, 44
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_3_2.png
   rotate: false
-  xy: 33, 30
+  xy: 95, 50
   size: 29, 42
   orig: 29, 42
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_3_3.png
   rotate: false
-  xy: 64, 49
+  xy: 35, 31
   size: 29, 43
   orig: 29, 43
   offset: 0, 0
   index: -1
-shirt_F_polkadress_h_wlk_ch_2892_7_0.png
-  rotate: false
-  xy: 35, 75
-  size: 27, 45
-  orig: 27, 45
-  offset: 0, 0
-  index: -1
 shirt_F_polkadress_h_wlk_ch_2892_7_1.png
   rotate: false
-  xy: 91, 137
+  xy: 66, 92
   size: 27, 44
   orig: 27, 44
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_7_2.png
   rotate: false
-  xy: 95, 48
+  xy: 122, 101
   size: 27, 42
   orig: 27, 42
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2892_7_3.png
   rotate: false
-  xy: 64, 4
+  xy: 66, 47
   size: 27, 43
   orig: 27, 43
   offset: 0, 0
   index: -1
+shirt_F_polkadress_h_wlk_ch_2893_0_0.png
+  rotate: false
+  xy: 152, 40
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
 shirt_F_polkadress_h_wlk_ch_2893_0_1.png
   rotate: false
-  xy: 88, 183
+  xy: 88, 185
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_0_2.png
   rotate: false
-  xy: 207, 87
+  xy: 2, 2
   size: 27, 26
   orig: 27, 26
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_0_3.png
   rotate: false
-  xy: 124, 48
+  xy: 58, 2
   size: 27, 27
   orig: 27, 27
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_1_1.png
   rotate: false
-  xy: 182, 114
+  xy: 165, 5
   size: 21, 33
   orig: 21, 33
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_1_2.png
   rotate: false
-  xy: 205, 115
+  xy: 181, 48
   size: 21, 32
   orig: 21, 32
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_1_3.png
   rotate: false
-  xy: 182, 79
+  xy: 153, 152
   size: 23, 33
   orig: 23, 33
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_2_0.png
   rotate: false
-  xy: 126, 109
+  xy: 151, 108
   size: 27, 35
   orig: 27, 35
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_2_1.png
   rotate: false
-  xy: 226, 149
+  xy: 152, 72
   size: 27, 34
   orig: 27, 34
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_2_2.png
   rotate: false
-  xy: 226, 185
+  xy: 226, 187
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_2_3.png
   rotate: false
-  xy: 226, 219
+  xy: 226, 221
   size: 28, 33
   orig: 28, 33
   offset: 0, 0
   index: -1
-shirt_F_polkadress_h_wlk_ch_2893_3_0.png
-  rotate: false
-  xy: 144, 12
-  size: 25, 34
-  orig: 25, 34
-  offset: 0, 0
-  index: -1
 shirt_F_polkadress_h_wlk_ch_2893_3_1.png
   rotate: false
-  xy: 146, 149
+  xy: 180, 176
   size: 25, 33
   orig: 25, 33
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_3_2.png
   rotate: false
-  xy: 155, 80
+  xy: 181, 82
   size: 25, 32
   orig: 25, 32
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_3_3.png
   rotate: false
-  xy: 155, 114
+  xy: 180, 116
   size: 25, 33
   orig: 25, 33
   offset: 0, 0
   index: -1
-shirt_F_polkadress_h_wlk_ch_2893_7_0.png
-  rotate: false
-  xy: 37, 2
-  size: 25, 26
-  orig: 25, 26
-  offset: 0, 0
-  index: -1
 shirt_F_polkadress_h_wlk_ch_2893_7_1.png
   rotate: false
-  xy: 228, 122
+  xy: 188, 21
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_7_2.png
   rotate: false
-  xy: 144, 184
+  xy: 153, 187
   size: 25, 22
   orig: 25, 22
   offset: 0, 0
   index: -1
 shirt_F_polkadress_h_wlk_ch_2893_7_3.png
   rotate: false
-  xy: 117, 184
+  xy: 178, 151
   size: 25, 23
   orig: 25, 23
   offset: 0, 0

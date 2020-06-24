@@ -13,7 +13,7 @@ hat_U_incahat_h_lay_ha_2243_2_0.png
   index: -1
 hat_U_incahat_h_lay_ha_2244_2_0.png
   rotate: false
-  xy: 221, 38
+  xy: 194, 23
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
@@ -67,23 +67,23 @@ hat_U_incahat_h_spk_ha_2244_1_0.png
   orig: 25, 13
   offset: 0, 0
   index: -1
-hat_U_incahat_h_spk_ha_2244_7_0.png
-  rotate: false
-  xy: 31, 20
-  size: 24, 6
-  orig: 24, 6
-  offset: 0, 0
-  index: -1
-hat_U_incahat_h_std_ha_2244_2_0.png
+hat_U_incahat_h_spk_ha_2244_2_0.png
   rotate: false
   xy: 2, 2
   size: 24, 9
   orig: 24, 9
   offset: 0, 0
   index: -1
-hat_U_incahat_h_std_ha_2244_3_0.png
+hat_U_incahat_h_spk_ha_2244_3_0.png
   rotate: false
-  xy: 194, 40
+  xy: 221, 55
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+hat_U_incahat_h_spk_ha_2244_7_0.png
+  rotate: false
+  xy: 31, 20
   size: 24, 6
   orig: 24, 6
   offset: 0, 0

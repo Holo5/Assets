@@ -4,7 +4,7 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_eye_U_gold11_h_lay_ea_3294_2_0.png
+acc_eye_U_gold11_h_lsp_ea_3294_2_0.png
   rotate: false
   xy: 2, 23
   size: 29, 32
@@ -18,7 +18,7 @@ acc_eye_U_gold11_h_spk_ea_3294_0_0.png
   orig: 30, 17
   offset: 0, 0
   index: -1
-acc_eye_U_gold11_h_std_ea_3294_1_0.png
+acc_eye_U_gold11_h_spk_ea_3294_1_0.png
   rotate: false
   xy: 68, 36
   size: 35, 19

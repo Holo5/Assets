@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 hair_F_neat_h_lay_hr_2066_2_0.png
   rotate: false
-  xy: 920, 17
+  xy: 921, 17
   size: 31, 41
   orig: 31, 41
   offset: 0, 0
@@ -18,6 +18,13 @@ hair_F_neat_h_lay_hr_2067_2_0.png
   orig: 27, 39
   offset: 0, 0
   index: -1
+hair_F_neat_h_lay_hrb_2066_2_0.png
+  rotate: false
+  xy: 888, 17
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
 hair_F_neat_h_lay_hrb_2067_2_0.png
   rotate: false
   xy: 1545, 19
@@ -27,70 +34,63 @@ hair_F_neat_h_lay_hrb_2067_2_0.png
   index: -1
 hair_F_neat_h_lsp_hr_2067_2_0.png
   rotate: false
-  xy: 1574, 43
+  xy: 2, 2
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
-hair_F_neat_h_lsp_hrb_2066_2_0.png
-  rotate: false
-  xy: 887, 17
-  size: 31, 41
-  orig: 31, 41
-  offset: 0, 0
-  index: -1
 hair_F_neat_h_lsp_hrb_2067_2_0.png
   rotate: false
-  xy: 2, 2
+  xy: 1574, 43
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hr_2066_0_0.png
   rotate: false
-  xy: 568, 22
+  xy: 531, 22
   size: 35, 36
   orig: 35, 36
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hr_2066_1_0.png
   rotate: false
-  xy: 678, 22
+  xy: 750, 22
   size: 34, 36
   orig: 34, 36
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hr_2066_2_0.png
   rotate: false
-  xy: 209, 21
+  xy: 84, 21
   size: 40, 37
   orig: 40, 37
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hr_2066_3_0.png
   rotate: false
-  xy: 43, 19
+  xy: 2, 19
   size: 39, 39
   orig: 39, 39
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hr_2066_7_0.png
   rotate: false
-  xy: 786, 21
+  xy: 820, 21
   size: 32, 37
   orig: 32, 37
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hr_2067_0_0.png
   rotate: false
-  xy: 1221, 24
+  xy: 1188, 24
   size: 31, 34
   orig: 31, 34
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hr_2067_1_0.png
   rotate: false
-  xy: 1154, 24
+  xy: 1120, 24
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
@@ -104,7 +104,7 @@ hair_F_neat_h_spk_hr_2067_2_0.png
   index: -1
 hair_F_neat_h_spk_hr_2067_3_0.png
   rotate: false
-  xy: 1021, 21
+  xy: 987, 21
   size: 31, 37
   orig: 31, 37
   offset: 0, 0
@@ -118,49 +118,49 @@ hair_F_neat_h_spk_hr_2067_7_0.png
   index: -1
 hair_F_neat_h_spk_hrb_2066_0_0.png
   rotate: false
-  xy: 531, 22
+  xy: 494, 22
   size: 35, 36
   orig: 35, 36
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hrb_2066_1_0.png
   rotate: false
-  xy: 605, 22
+  xy: 568, 22
   size: 34, 36
   orig: 34, 36
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hrb_2066_2_0.png
   rotate: false
-  xy: 125, 21
+  xy: 210, 21
   size: 40, 37
   orig: 40, 37
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hrb_2066_3_0.png
   rotate: false
-  xy: 2, 19
+  xy: 43, 19
   size: 39, 39
   orig: 39, 39
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hrb_2066_7_0.png
   rotate: false
-  xy: 820, 21
+  xy: 854, 21
   size: 32, 37
   orig: 32, 37
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hrb_2067_0_0.png
   rotate: false
-  xy: 1188, 24
+  xy: 1355, 24
   size: 31, 34
   orig: 31, 34
   offset: 0, 0
   index: -1
 hair_F_neat_h_spk_hrb_2067_1_0.png
   rotate: false
-  xy: 1120, 24
+  xy: 1154, 24
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
@@ -174,7 +174,7 @@ hair_F_neat_h_spk_hrb_2067_2_0.png
   index: -1
 hair_F_neat_h_spk_hrb_2067_3_0.png
   rotate: false
-  xy: 854, 21
+  xy: 954, 21
   size: 31, 37
   orig: 31, 37
   offset: 0, 0
@@ -202,42 +202,42 @@ hair_F_neat_h_std_hr_2066_1_0.png
   index: -1
 hair_F_neat_h_std_hr_2066_2_0.png
   rotate: false
-  xy: 167, 21
+  xy: 168, 21
   size: 40, 37
   orig: 40, 37
   offset: 0, 0
   index: -1
 hair_F_neat_h_std_hr_2066_3_0.png
   rotate: false
-  xy: 84, 20
+  xy: 252, 20
   size: 39, 38
   orig: 39, 38
   offset: 0, 0
   index: -1
 hair_F_neat_h_std_hr_2066_7_0.png
   rotate: false
-  xy: 987, 22
+  xy: 786, 22
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 hair_F_neat_h_std_hr_2067_0_0.png
   rotate: false
-  xy: 1355, 25
+  xy: 1322, 25
   size: 31, 33
   orig: 31, 33
   offset: 0, 0
   index: -1
 hair_F_neat_h_std_hr_2067_1_0.png
   rotate: false
-  xy: 1288, 25
+  xy: 1221, 25
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 hair_F_neat_h_std_hr_2067_2_0.png
   rotate: false
-  xy: 414, 24
+  xy: 454, 24
   size: 38, 34
   orig: 38, 34
   offset: 0, 0
@@ -258,21 +258,21 @@ hair_F_neat_h_std_hr_2067_7_0.png
   index: -1
 hair_F_neat_h_std_hrb_2066_0_0.png
   rotate: false
-  xy: 494, 23
+  xy: 604, 23
   size: 35, 35
   orig: 35, 35
   offset: 0, 0
   index: -1
 hair_F_neat_h_std_hrb_2066_1_0.png
   rotate: false
-  xy: 750, 23
+  xy: 678, 23
   size: 34, 35
   orig: 34, 35
   offset: 0, 0
   index: -1
 hair_F_neat_h_std_hrb_2066_2_0.png
   rotate: false
-  xy: 251, 21
+  xy: 126, 21
   size: 40, 37
   orig: 40, 37
   offset: 0, 0
@@ -286,28 +286,28 @@ hair_F_neat_h_std_hrb_2066_3_0.png
   index: -1
 hair_F_neat_h_std_hrb_2066_7_0.png
   rotate: false
-  xy: 953, 22
+  xy: 1020, 22
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 hair_F_neat_h_std_hrb_2067_0_0.png
   rotate: false
-  xy: 1322, 25
+  xy: 1289, 25
   size: 31, 33
   orig: 31, 33
   offset: 0, 0
   index: -1
 hair_F_neat_h_std_hrb_2067_1_0.png
   rotate: false
-  xy: 1254, 25
+  xy: 1255, 25
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 hair_F_neat_h_std_hrb_2067_2_0.png
   rotate: false
-  xy: 454, 24
+  xy: 414, 24
   size: 38, 34
   orig: 38, 34
   offset: 0, 0
