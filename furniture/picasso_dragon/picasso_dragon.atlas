@@ -1,0 +1,62 @@
+
+picasso_dragon.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+picasso_dragon_picasso_dragon_64_a_2_0.png
+  rotate: false
+  xy: 415, 42
+  size: 67, 82
+  orig: 67, 82
+  offset: 0, 0
+  index: -1
+picasso_dragon_picasso_dragon_64_a_2_1.png
+  rotate: false
+  xy: 346, 36
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+picasso_dragon_picasso_dragon_64_a_2_2.png
+  rotate: false
+  xy: 277, 36
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+picasso_dragon_picasso_dragon_64_a_2_3.png
+  rotate: false
+  xy: 208, 26
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+picasso_dragon_picasso_dragon_64_a_2_4.png
+  rotate: false
+  xy: 139, 20
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+picasso_dragon_picasso_dragon_64_a_2_5.png
+  rotate: false
+  xy: 70, 20
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+picasso_dragon_picasso_dragon_64_a_2_6.png
+  rotate: false
+  xy: 2, 14
+  size: 66, 110
+  orig: 66, 110
+  offset: 0, 0
+  index: -1
+picasso_dragon_picasso_dragon_icon_a.png
+  rotate: false
+  xy: 277, 2
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1

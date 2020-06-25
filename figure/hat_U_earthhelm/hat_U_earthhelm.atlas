@@ -41,7 +41,7 @@ hat_U_earthhelm_h_spk_ha_2789_2_0.png
   index: -1
 hat_U_earthhelm_h_spk_ha_2789_3_0.png
   rotate: false
-  xy: 218, 2
+  xy: 332, 2
   size: 36, 47
   orig: 36, 47
   offset: 0, 0
@@ -55,7 +55,7 @@ hat_U_earthhelm_h_spk_ha_2789_7_0.png
   index: -1
 hat_U_earthhelm_h_std_ha_2789_0_0.png
   rotate: false
-  xy: 294, 3
+  xy: 218, 3
   size: 36, 46
   orig: 36, 46
   offset: 0, 0
@@ -76,7 +76,7 @@ hat_U_earthhelm_h_std_ha_2789_2_0.png
   index: -1
 hat_U_earthhelm_h_std_ha_2789_3_0.png
   rotate: false
-  xy: 332, 3
+  xy: 294, 3
   size: 36, 46
   orig: 36, 46
   offset: 0, 0

@@ -1,0 +1,27 @@
+
+rare18_autumnminimite.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare18_autumnminimite_rare18_autumnminimite_64_a_2_0.png
+  rotate: false
+  xy: 2, 56
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+rare18_autumnminimite_rare18_autumnminimite_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+rare18_autumnminimite_rare18_autumnminimite_icon_a.png
+  rotate: false
+  xy: 2, 21
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1

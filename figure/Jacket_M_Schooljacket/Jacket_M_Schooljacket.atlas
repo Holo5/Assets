@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 Jacket_M_Schooljacket_h_crr_lc_2122_0_0.png
   rotate: false
-  xy: 354, 16
+  xy: 936, 45
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_crr_lc_2122_1_0.png
   rotate: false
-  xy: 525, 46
+  xy: 660, 46
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_crr_lc_2122_2_0.png
   rotate: false
-  xy: 641, 41
+  xy: 705, 41
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
@@ -34,28 +34,28 @@ Jacket_M_Schooljacket_h_crr_lc_2122_3_0.png
   index: -1
 Jacket_M_Schooljacket_h_crr_lc_2122_7_0.png
   rotate: false
-  xy: 949, 42
+  xy: 845, 42
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_crr_rc_2122_0_0.png
   rotate: false
-  xy: 252, 12
+  xy: 212, 12
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_crr_rc_2122_1_0.png
   rotate: false
-  xy: 542, 44
+  xy: 643, 44
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_crr_rc_2122_2_0.png
   rotate: false
-  xy: 29, 7
+  xy: 109, 2
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
@@ -69,42 +69,42 @@ Jacket_M_Schooljacket_h_crr_rc_2122_3_0.png
   index: -1
 Jacket_M_Schooljacket_h_crr_rc_2122_4_0.png
   rotate: false
-  xy: 848, 42
+  xy: 692, 42
   size: 11, 20
   orig: 11, 20
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_crr_rc_2122_5_0.png
   rotate: false
-  xy: 593, 40
+  xy: 595, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_crr_rc_2122_6_0.png
   rotate: false
-  xy: 958, 41
+  xy: 854, 41
   size: 6, 21
   orig: 6, 21
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_crr_rc_2122_7_0.png
   rotate: false
-  xy: 940, 42
+  xy: 836, 42
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_drk_rc_2122_0_0.png
   rotate: false
-  xy: 335, 14
+  xy: 542, 43
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_drk_rc_2122_1_0.png
   rotate: false
-  xy: 446, 50
+  xy: 490, 50
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
@@ -118,35 +118,35 @@ Jacket_M_Schooljacket_h_drk_rc_2122_2_0.png
   index: -1
 Jacket_M_Schooljacket_h_drk_rc_2122_3_0.png
   rotate: false
-  xy: 624, 44
+  xy: 626, 44
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_drk_rc_2122_4_0.png
   rotate: false
-  xy: 861, 46
+  xy: 677, 46
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_drk_rc_2122_5_0.png
   rotate: false
-  xy: 499, 50
+  xy: 516, 50
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_drk_rc_2122_6_0.png
   rotate: false
-  xy: 419, 49
+  xy: 436, 49
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_drk_rc_2122_7_0.png
   rotate: false
-  xy: 876, 46
+  xy: 918, 46
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
@@ -160,35 +160,35 @@ Jacket_M_Schooljacket_h_lay_cc_2122_2_0.png
   index: -1
 Jacket_M_Schooljacket_h_lay_lc_2122_2_0.png
   rotate: false
-  xy: 472, 51
+  xy: 463, 51
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_lay_rc_2122_2_0.png
   rotate: false
-  xy: 394, 44
+  xy: 411, 44
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_sit_lc_2122_0_0.png
   rotate: false
-  xy: 994, 40
+  xy: 862, 40
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_sit_lc_2122_2_0.png
   rotate: false
-  xy: 980, 37
+  xy: 876, 37
   size: 5, 25
   orig: 5, 25
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_sit_rc_2122_0_0.png
   rotate: false
-  xy: 311, 5
+  xy: 284, 5
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
@@ -209,7 +209,7 @@ Jacket_M_Schooljacket_h_std_cc_2122_0_0.png
   index: -1
 Jacket_M_Schooljacket_h_std_cc_2122_1_0.png
   rotate: false
-  xy: 271, 33
+  xy: 307, 33
   size: 16, 29
   orig: 16, 29
   offset: 0, 0
@@ -237,119 +237,119 @@ Jacket_M_Schooljacket_h_std_cc_2122_7_0.png
   index: -1
 Jacket_M_Schooljacket_h_std_lc_2122_0_0.png
   rotate: false
-  xy: 973, 40
+  xy: 897, 40
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_std_lc_2122_1_0.png
   rotate: false
-  xy: 917, 40
+  xy: 827, 40
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_std_lc_2122_2_0.png
   rotate: false
-  xy: 933, 40
+  xy: 904, 40
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_std_lc_2122_3_0.png
   rotate: false
-  xy: 177, 2
+  xy: 328, 2
   size: 8, 30
   orig: 8, 30
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_std_lc_2122_7_0.png
   rotate: false
-  xy: 770, 36
+  xy: 749, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_std_rc_2122_0_0.png
   rotate: false
-  xy: 229, 2
+  xy: 231, 2
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_std_rc_2122_1_0.png
   rotate: false
-  xy: 827, 39
+  xy: 777, 39
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_std_rc_2122_2_0.png
   rotate: false
-  xy: 241, 2
+  xy: 243, 2
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_std_rc_2122_3_0.png
   rotate: false
-  xy: 187, 2
+  xy: 177, 2
   size: 8, 30
   orig: 8, 30
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_std_rc_2122_7_0.png
   rotate: false
-  xy: 690, 36
+  xy: 318, 5
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_0_0.png
   rotate: false
-  xy: 214, 7
+  xy: 197, 6
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_0_1.png
   rotate: false
-  xy: 306, 35
+  xy: 289, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_1_0.png
   rotate: false
-  xy: 666, 36
+  xy: 360, 7
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_1_1.png
   rotate: false
-  xy: 678, 37
+  xy: 372, 8
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_2_0.png
   rotate: false
-  xy: 341, 35
+  xy: 359, 35
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_2_1.png
   rotate: false
-  xy: 214, 36
+  xy: 252, 36
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_3_0.png
   rotate: false
-  xy: 324, 35
+  xy: 376, 35
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
@@ -363,28 +363,28 @@ Jacket_M_Schooljacket_h_wav_lc_2122_3_1.png
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_4_0.png
   rotate: false
-  xy: 233, 37
+  xy: 232, 37
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_4_1.png
   rotate: false
-  xy: 376, 37
+  xy: 393, 37
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_5_0.png
   rotate: false
-  xy: 253, 35
+  xy: 214, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_5_1.png
   rotate: false
-  xy: 289, 34
+  xy: 325, 34
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
@@ -405,7 +405,7 @@ Jacket_M_Schooljacket_h_wav_lc_2122_6_1.png
   index: -1
 Jacket_M_Schooljacket_h_wav_lc_2122_7_0.png
   rotate: false
-  xy: 358, 36
+  xy: 271, 36
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
@@ -419,133 +419,133 @@ Jacket_M_Schooljacket_h_wav_lc_2122_7_1.png
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_0_0.png
   rotate: false
-  xy: 926, 40
+  xy: 883, 40
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_0_1.png
   rotate: false
-  xy: 1014, 46
+  xy: 929, 46
   size: 5, 16
   orig: 5, 16
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_0_2.png
   rotate: false
-  xy: 966, 40
+  xy: 890, 40
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_0_3.png
   rotate: false
-  xy: 817, 39
+  xy: 787, 39
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
-Jacket_M_Schooljacket_h_wlk_lc_2122_1_1.png
+Jacket_M_Schooljacket_h_wlk_lc_2122_1_0.png
   rotate: false
-  xy: 559, 41
-  size: 15, 21
-  orig: 15, 21
-  offset: 0, 0
-  index: -1
-Jacket_M_Schooljacket_h_wlk_lc_2122_1_2.png
-  rotate: false
-  xy: 887, 40
+  xy: 797, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
+Jacket_M_Schooljacket_h_wlk_lc_2122_1_1.png
+  rotate: false
+  xy: 561, 41
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_1_3.png
   rotate: false
-  xy: 1008, 43
+  xy: 942, 43
   size: 4, 19
   orig: 4, 19
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_2_0.png
   rotate: false
-  xy: 987, 40
+  xy: 869, 40
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_2_1.png
   rotate: false
-  xy: 837, 40
+  xy: 718, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_2_2.png
   rotate: false
-  xy: 1001, 41
+  xy: 911, 41
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_2_3.png
   rotate: false
-  xy: 360, 22
+  xy: 948, 50
   size: 4, 12
   orig: 4, 12
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_3_0.png
   rotate: false
-  xy: 301, 2
+  xy: 274, 4
   size: 8, 30
   orig: 8, 30
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_3_1.png
   rotate: false
-  xy: 730, 34
+  xy: 338, 4
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_3_2.png
   rotate: false
-  xy: 291, 2
+  xy: 187, 2
   size: 8, 30
   orig: 8, 30
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_3_3.png
   rotate: false
-  xy: 720, 35
+  xy: 413, 15
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_7_1.png
   rotate: false
-  xy: 750, 36
+  xy: 739, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_7_2.png
   rotate: false
-  xy: 790, 36
+  xy: 768, 36
   size: 7, 26
   orig: 7, 26
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_lc_2122_7_3.png
   rotate: false
-  xy: 700, 35
+  xy: 403, 8
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_0_0.png
   rotate: false
-  xy: 654, 36
+  xy: 306, 5
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
@@ -559,7 +559,7 @@ Jacket_M_Schooljacket_h_wlk_rc_2122_0_1.png
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_0_2.png
   rotate: false
-  xy: 323, 6
+  xy: 348, 6
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
@@ -573,28 +573,28 @@ Jacket_M_Schooljacket_h_wlk_rc_2122_0_3.png
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_1_0.png
   rotate: false
-  xy: 907, 40
+  xy: 817, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_1_1.png
   rotate: false
-  xy: 609, 40
+  xy: 611, 40
   size: 13, 22
   orig: 13, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_1_2.png
   rotate: false
-  xy: 897, 40
+  xy: 807, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_1_3.png
   rotate: false
-  xy: 576, 41
+  xy: 578, 41
   size: 15, 21
   orig: 15, 21
   offset: 0, 0
@@ -608,7 +608,7 @@ Jacket_M_Schooljacket_h_wlk_rc_2122_2_0.png
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_2_1.png
   rotate: false
-  xy: 197, 6
+  xy: 342, 35
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
@@ -622,63 +622,63 @@ Jacket_M_Schooljacket_h_wlk_rc_2122_2_2.png
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_2_3.png
   rotate: false
-  xy: 109, 2
+  xy: 29, 7
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_3_0.png
   rotate: false
-  xy: 281, 2
+  xy: 254, 2
   size: 8, 29
   orig: 8, 29
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_3_1.png
   rotate: false
-  xy: 780, 36
+  xy: 729, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_3_2.png
   rotate: false
-  xy: 271, 2
+  xy: 264, 2
   size: 8, 29
   orig: 8, 29
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_3_3.png
   rotate: false
-  xy: 740, 34
+  xy: 296, 5
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_7_0.png
   rotate: false
-  xy: 808, 36
+  xy: 759, 36
   size: 7, 26
   orig: 7, 26
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_7_1.png
   rotate: false
-  xy: 710, 35
+  xy: 393, 8
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_7_2.png
   rotate: false
-  xy: 799, 36
+  xy: 384, 7
   size: 7, 26
   orig: 7, 26
   offset: 0, 0
   index: -1
 Jacket_M_Schooljacket_h_wlk_rc_2122_7_3.png
   rotate: false
-  xy: 760, 36
+  xy: 423, 16
   size: 8, 26
   orig: 8, 26
   offset: 0, 0

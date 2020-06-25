@@ -1,0 +1,27 @@
+
+adobe_b_poster.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+adobe_b_poster_adobe_b_poster_64_a_2_0.png
+  rotate: false
+  xy: 116, 104
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+adobe_b_poster_adobe_b_poster_64_b_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 112, 93
+  orig: 112, 93
+  offset: 0, 0
+  index: -1
+adobe_b_poster_adobe_b_poster_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1

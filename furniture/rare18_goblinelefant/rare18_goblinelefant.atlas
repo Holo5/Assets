@@ -1,0 +1,27 @@
+
+rare18_goblinelefant.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare18_goblinelefant_rare18_goblinelefant_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+rare18_goblinelefant_rare18_goblinelefant_64_sd_2_0.png
+  rotate: false
+  xy: 72, 34
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+rare18_goblinelefant_rare18_goblinelefant_icon_a.png
+  rotate: false
+  xy: 47, 23
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1

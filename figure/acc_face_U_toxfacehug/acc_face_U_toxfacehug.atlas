@@ -20,7 +20,7 @@ acc_face_U_toxfacehug_h_spk_fa_3007_0_0.png
   index: -1
 acc_face_U_toxfacehug_h_spk_fa_3007_1_0.png
   rotate: false
-  xy: 185, 17
+  xy: 160, 17
   size: 23, 33
   orig: 23, 33
   offset: 0, 0
@@ -34,16 +34,9 @@ acc_face_U_toxfacehug_h_spk_fa_3007_2_0.png
   index: -1
 acc_face_U_toxfacehug_h_spk_fa_3007_3_0.png
   rotate: false
-  xy: 96, 15
+  xy: 66, 15
   size: 28, 35
   orig: 28, 35
-  offset: 0, 0
-  index: -1
-acc_face_U_toxfacehug_h_spk_fa_3007_7_0.png
-  rotate: false
-  xy: 2, 2
-  size: 28, 12
-  orig: 28, 12
   offset: 0, 0
   index: -1
 acc_face_U_toxfacehug_h_std_fa_3007_0_0.png
@@ -55,7 +48,7 @@ acc_face_U_toxfacehug_h_std_fa_3007_0_0.png
   index: -1
 acc_face_U_toxfacehug_h_std_fa_3007_1_0.png
   rotate: false
-  xy: 160, 18
+  xy: 185, 18
   size: 23, 32
   orig: 23, 32
   offset: 0, 0
@@ -69,8 +62,15 @@ acc_face_U_toxfacehug_h_std_fa_3007_2_0.png
   index: -1
 acc_face_U_toxfacehug_h_std_fa_3007_3_0.png
   rotate: false
-  xy: 66, 16
+  xy: 96, 16
   size: 28, 34
   orig: 28, 34
+  offset: 0, 0
+  index: -1
+acc_face_U_toxfacehug_h_std_fa_3007_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 12
+  orig: 28, 12
   offset: 0, 0
   index: -1

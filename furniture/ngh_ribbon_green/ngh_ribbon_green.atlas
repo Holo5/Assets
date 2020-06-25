@@ -1,0 +1,20 @@
+
+ngh_ribbon_green.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngh_ribbon_green_ngh_ribbon_green_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+ngh_ribbon_green_ngh_ribbon_green_icon_a.png
+  rotate: false
+  xy: 2, 22
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

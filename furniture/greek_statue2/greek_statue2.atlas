@@ -1,0 +1,48 @@
+
+greek_statue2.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greek_statue2_greek_statue2_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 110
+  orig: 44, 110
+  offset: 0, 0
+  index: -1
+greek_statue2_greek_statue2_64_a_0_1.png
+  rotate: false
+  xy: 48, 2
+  size: 44, 110
+  orig: 44, 110
+  offset: 0, 0
+  index: -1
+greek_statue2_greek_statue2_64_a_0_2.png
+  rotate: false
+  xy: 140, 2
+  size: 44, 110
+  orig: 44, 110
+  offset: 0, 0
+  index: -1
+greek_statue2_greek_statue2_64_a_0_3.png
+  rotate: false
+  xy: 186, 2
+  size: 44, 110
+  orig: 44, 110
+  offset: 0, 0
+  index: -1
+greek_statue2_greek_statue2_64_a_0_4.png
+  rotate: false
+  xy: 94, 2
+  size: 44, 110
+  orig: 44, 110
+  offset: 0, 0
+  index: -1
+greek_statue2_greek_statue2_icon_a.png
+  rotate: false
+  xy: 232, 79
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1

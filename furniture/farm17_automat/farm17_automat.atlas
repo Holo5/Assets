@@ -1,0 +1,20 @@
+
+farm17_automat.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+farm17_automat_farm17_automat_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 76, 114
+  orig: 76, 114
+  offset: 0, 0
+  index: -1
+farm17_automat_farm17_automat_icon_a.png
+  rotate: false
+  xy: 80, 83
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1

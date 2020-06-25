@@ -1,0 +1,27 @@
+
+club_armchair2.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+club_armchair2_club_armchair2_64_a_2_0.png
+  rotate: false
+  xy: 2, 51
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+club_armchair2_club_armchair2_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+club_armchair2_club_armchair2_icon_a.png
+  rotate: false
+  xy: 87, 97
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1

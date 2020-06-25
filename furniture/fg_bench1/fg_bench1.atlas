@@ -1,0 +1,34 @@
+
+fg_bench1.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fg_bench1_fg_bench1_64_a_2_0.png
+  rotate: false
+  xy: 53, 69
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+fg_bench1_fg_bench1_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+fg_bench1_fg_bench1_64_sd_2_0.png
+  rotate: false
+  xy: 2, 44
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+fg_bench1_fg_bench1_icon_a.png
+  rotate: false
+  xy: 53, 31
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

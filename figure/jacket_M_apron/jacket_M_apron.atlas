@@ -6,35 +6,35 @@ filter: Nearest,Nearest
 repeat: none
 jacket_M_apron_h_lay_cc_2972_2_0.png
   rotate: false
-  xy: 2, 12
+  xy: 48, 12
   size: 44, 32
   orig: 44, 32
   offset: 0, 0
   index: -1
 jacket_M_apron_h_lay_cc_2973_2_0.png
   rotate: false
-  xy: 48, 12
+  xy: 2, 12
   size: 44, 32
   orig: 44, 32
   offset: 0, 0
   index: -1
 jacket_M_apron_h_std_cc_2972_0_0.png
   rotate: false
-  xy: 269, 3
+  xy: 169, 3
   size: 23, 41
   orig: 23, 41
   offset: 0, 0
   index: -1
 jacket_M_apron_h_std_cc_2972_1_0.png
   rotate: false
-  xy: 244, 3
+  xy: 94, 3
   size: 23, 41
   orig: 23, 41
   offset: 0, 0
   index: -1
 jacket_M_apron_h_std_cc_2972_2_0.png
   rotate: false
-  xy: 144, 2
+  xy: 119, 2
   size: 23, 42
   orig: 23, 42
   offset: 0, 0
@@ -55,21 +55,21 @@ jacket_M_apron_h_std_cc_2972_7_0.png
   index: -1
 jacket_M_apron_h_std_cc_2973_0_0.png
   rotate: false
-  xy: 194, 3
+  xy: 269, 3
   size: 23, 41
   orig: 23, 41
   offset: 0, 0
   index: -1
 jacket_M_apron_h_std_cc_2973_1_0.png
   rotate: false
-  xy: 169, 3
+  xy: 244, 3
   size: 23, 41
   orig: 23, 41
   offset: 0, 0
   index: -1
 jacket_M_apron_h_std_cc_2973_2_0.png
   rotate: false
-  xy: 119, 2
+  xy: 144, 2
   size: 23, 42
   orig: 23, 42
   offset: 0, 0
@@ -83,7 +83,7 @@ jacket_M_apron_h_std_cc_2973_3_0.png
   index: -1
 jacket_M_apron_h_std_cc_2973_7_0.png
   rotate: false
-  xy: 94, 3
+  xy: 194, 3
   size: 23, 41
   orig: 23, 41
   offset: 0, 0

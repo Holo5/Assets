@@ -1,0 +1,34 @@
+
+hp_bluewater.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_bluewater_hp_bluewater_64_a_2_0.png
+  rotate: false
+  xy: 258, 24
+  size: 126, 64
+  orig: 126, 64
+  offset: 0, 0
+  index: -1
+hp_bluewater_hp_bluewater_64_a_2_1.png
+  rotate: false
+  xy: 130, 24
+  size: 126, 64
+  orig: 126, 64
+  offset: 0, 0
+  index: -1
+hp_bluewater_hp_bluewater_64_a_2_2.png
+  rotate: false
+  xy: 2, 24
+  size: 126, 64
+  orig: 126, 64
+  offset: 0, 0
+  index: -1
+hp_bluewater_hp_bluewater_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1

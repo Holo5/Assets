@@ -6,399 +6,385 @@ filter: Nearest,Nearest
 repeat: none
 jacket_M_cyzipped_h_crr_lc_2653_0_0.png
   rotate: false
-  xy: 536, 18
+  xy: 452, 2
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_lc_2653_1_0.png
   rotate: false
-  xy: 772, 44
+  xy: 798, 44
   size: 16, 18
   orig: 16, 18
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_lc_2653_2_0.png
   rotate: false
-  xy: 274, 12
+  xy: 344, 23
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_lc_2653_3_0.png
   rotate: false
-  xy: 990, 37
+  xy: 136, 5
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_lc_2653_7_0.png
   rotate: false
-  xy: 448, 27
+  xy: 370, 2
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
+jacket_M_cyzipped_h_crr_lc_2654_1_0.png
+  rotate: false
+  xy: 660, 10
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
 jacket_M_cyzipped_h_crr_lc_2654_2_0.png
   rotate: false
-  xy: 524, 2
+  xy: 585, 17
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_lc_2654_3_0.png
   rotate: false
-  xy: 969, 29
+  xy: 686, 26
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_lc_2655_0_0.png
   rotate: false
-  xy: 302, 37
+  xy: 673, 22
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_lc_2655_1_0.png
   rotate: false
-  xy: 340, 2
+  xy: 406, 26
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_lc_2655_2_0.png
   rotate: false
-  xy: 519, 2
+  xy: 530, 2
   size: 3, 13
   orig: 3, 13
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_lc_2655_3_0.png
   rotate: false
-  xy: 562, 13
+  xy: 469, 2
   size: 6, 20
   orig: 6, 20
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2653_0_0.png
   rotate: false
-  xy: 529, 40
+  xy: 722, 40
   size: 17, 22
   orig: 17, 22
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2653_1_0.png
   rotate: false
-  xy: 734, 42
+  xy: 760, 42
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2653_2_0.png
   rotate: false
-  xy: 266, 35
+  xy: 548, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2653_3_0.png
   rotate: false
-  xy: 977, 37
+  xy: 1004, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2653_4_0.png
   rotate: false
-  xy: 260, 12
+  xy: 301, 10
   size: 12, 21
   orig: 12, 21
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2653_5_0.png
   rotate: false
-  xy: 753, 42
+  xy: 779, 42
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2653_6_0.png
   rotate: false
-  xy: 509, 16
+  xy: 381, 2
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2653_7_0.png
   rotate: false
-  xy: 437, 27
+  xy: 359, 2
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2654_0_0.png
   rotate: false
-  xy: 562, 3
+  xy: 665, 24
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_crr_rc_2654_1_0.png
-  rotate: false
-  xy: 634, 2
-  size: 4, 8
-  orig: 4, 8
-  offset: 0, 0
-  index: -1
 jacket_M_cyzipped_h_crr_rc_2654_2_0.png
   rotate: false
-  xy: 618, 2
+  xy: 620, 17
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2654_3_0.png
   rotate: false
-  xy: 994, 30
+  xy: 769, 35
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2654_4_0.png
   rotate: false
-  xy: 626, 2
+  xy: 577, 17
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2654_5_0.png
   rotate: false
-  xy: 640, 2
+  xy: 604, 9
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_crr_rc_2654_7_0.png
-  rotate: false
-  xy: 46, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 jacket_M_cyzipped_h_crr_rc_2655_0_0.png
   rotate: false
-  xy: 370, 2
+  xy: 391, 26
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2655_1_0.png
   rotate: false
-  xy: 355, 2
+  xy: 376, 26
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2655_2_0.png
   rotate: false
-  xy: 233, 11
+  xy: 846, 40
   size: 12, 22
   orig: 12, 22
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2655_3_0.png
   rotate: false
-  xy: 459, 2
+  xy: 461, 2
   size: 6, 20
   orig: 6, 20
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2655_4_0.png
   rotate: false
-  xy: 545, 19
+  xy: 547, 18
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2655_5_0.png
   rotate: false
-  xy: 325, 2
+  xy: 474, 32
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_crr_rc_2655_6_0.png
   rotate: false
-  xy: 618, 11
+  xy: 724, 27
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_crr_rc_2655_7_0.png
-  rotate: false
-  xy: 868, 29
-  size: 3, 4
-  orig: 3, 4
-  offset: 0, 0
-  index: -1
 jacket_M_cyzipped_h_drk_rc_2653_0_0.png
   rotate: false
-  xy: 488, 41
+  xy: 489, 41
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2653_1_0.png
   rotate: false
-  xy: 411, 49
+  xy: 386, 49
   size: 24, 13
   orig: 24, 13
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2653_2_0.png
   rotate: false
-  xy: 328, 46
+  xy: 329, 46
   size: 27, 16
   orig: 27, 16
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2653_3_0.png
   rotate: false
-  xy: 510, 40
+  xy: 741, 40
   size: 17, 22
   orig: 17, 22
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2653_4_0.png
   rotate: false
-  xy: 409, 31
+  xy: 344, 5
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2653_5_0.png
   rotate: false
-  xy: 385, 49
+  xy: 412, 49
   size: 24, 13
   orig: 24, 13
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2653_6_0.png
   rotate: false
-  xy: 357, 50
+  xy: 358, 50
   size: 26, 12
   orig: 26, 12
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2653_7_0.png
   rotate: false
-  xy: 448, 9
+  xy: 526, 17
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2654_0_0.png
   rotate: false
-  xy: 570, 5
+  xy: 546, 2
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2654_1_0.png
   rotate: false
-  xy: 543, 10
+  xy: 586, 2
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2654_2_0.png
   rotate: false
-  xy: 622, 11
+  xy: 576, 2
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2654_3_0.png
   rotate: false
-  xy: 587, 26
+  xy: 584, 26
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2654_4_0.png
   rotate: false
-  xy: 580, 2
+  xy: 734, 33
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2654_5_0.png
   rotate: false
-  xy: 589, 9
+  xy: 595, 2
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2654_6_0.png
   rotate: false
-  xy: 1002, 30
+  xy: 678, 26
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2655_0_0.png
   rotate: false
-  xy: 622, 19
+  xy: 510, 2
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2655_1_0.png
   rotate: false
-  xy: 283, 2
+  xy: 358, 40
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2655_2_0.png
   rotate: false
-  xy: 233, 2
+  xy: 381, 40
   size: 20, 7
   orig: 20, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2655_3_0.png
   rotate: false
-  xy: 570, 13
+  xy: 500, 3
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2655_4_0.png
   rotate: false
-  xy: 545, 37
+  xy: 344, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2655_5_0.png
   rotate: false
-  xy: 260, 2
+  xy: 303, 33
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2655_6_0.png
   rotate: false
-  xy: 609, 3
+  xy: 593, 19
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_drk_rc_2655_7_0.png
   rotate: false
-  xy: 222, 2
+  xy: 224, 2
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
@@ -412,37 +398,44 @@ jacket_M_cyzipped_h_lay_cc_2653_2_0.png
   index: -1
 jacket_M_cyzipped_h_lay_cc_2655_2_0.png
   rotate: false
-  xy: 464, 46
+  xy: 465, 46
   size: 22, 16
   orig: 22, 16
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_lay_lc_2653_2_0.png
   rotate: false
-  xy: 437, 51
+  xy: 438, 51
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_lay_lc_2654_2_0.png
   rotate: false
-  xy: 726, 33
+  xy: 569, 17
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_lay_rc_2653_2_0.png
   rotate: false
-  xy: 302, 43
+  xy: 303, 43
   size: 24, 19
   orig: 24, 19
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_lay_rc_2654_2_0.png
   rotate: false
-  xy: 482, 4
+  xy: 562, 23
   size: 9, 10
   orig: 9, 10
+  offset: 0, 0
+  index: -1
+jacket_M_cyzipped_h_lay_rc_2655_2_0.png
+  rotate: false
+  xy: 46, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_cc_2653_0_0.png
@@ -489,14 +482,14 @@ jacket_M_cyzipped_h_std_cc_2654_0_0.png
   index: -1
 jacket_M_cyzipped_h_std_cc_2654_1_0.png
   rotate: false
-  xy: 191, 2
+  xy: 193, 2
   size: 7, 30
   orig: 7, 30
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_cc_2654_2_0.png
   rotate: false
-  xy: 200, 2
+  xy: 136, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -510,189 +503,196 @@ jacket_M_cyzipped_h_std_cc_2654_7_0.png
   index: -1
 jacket_M_cyzipped_h_std_cc_2655_0_0.png
   rotate: false
-  xy: 570, 26
+  xy: 403, 40
   size: 15, 7
   orig: 15, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_cc_2655_1_0.png
   rotate: false
-  xy: 805, 40
+  xy: 816, 40
   size: 13, 22
   orig: 13, 22
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_cc_2655_2_0.png
   rotate: false
-  xy: 548, 36
+  xy: 284, 36
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_cc_2655_3_0.png
   rotate: false
-  xy: 306, 2
+  xy: 357, 26
   size: 17, 12
   orig: 17, 12
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_cc_2655_7_0.png
   rotate: false
-  xy: 357, 16
+  xy: 266, 2
   size: 16, 5
   orig: 16, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_lc_2653_0_0.png
   rotate: false
-  xy: 376, 23
+  xy: 257, 8
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_lc_2653_2_0.png
   rotate: false
-  xy: 385, 2
+  xy: 422, 3
   size: 6, 21
   orig: 6, 21
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_lc_2653_3_0.png
   rotate: false
-  xy: 885, 33
+  xy: 943, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_lc_2653_7_0.png
   rotate: false
-  xy: 147, 2
+  xy: 224, 7
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_lc_2654_0_0.png
   rotate: false
-  xy: 770, 31
+  xy: 754, 33
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_std_lc_2654_1_0.png
-  rotate: false
-  xy: 552, 2
-  size: 8, 4
-  orig: 8, 4
-  offset: 0, 0
-  index: -1
 jacket_M_cyzipped_h_std_lc_2654_2_0.png
   rotate: false
-  xy: 742, 28
+  xy: 660, 3
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_lc_2654_3_0.png
   rotate: false
-  xy: 860, 29
+  xy: 604, 2
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_lc_2655_0_0.png
   rotate: false
-  xy: 503, 4
+  xy: 800, 34
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_lc_2655_1_0.png
   rotate: false
-  xy: 287, 12
+  xy: 403, 3
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_lc_2655_2_0.png
   rotate: false
-  xy: 424, 29
+  xy: 331, 2
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_lc_2655_3_0.png
   rotate: false
-  xy: 412, 2
+  xy: 458, 24
   size: 4, 25
   orig: 4, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_lc_2655_7_0.png
   rotate: false
-  xy: 400, 2
+  xy: 520, 12
   size: 4, 23
   orig: 4, 23
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_rc_2653_0_0.png
   rotate: false
-  xy: 847, 33
+  xy: 678, 33
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_rc_2653_1_0.png
   rotate: false
-  xy: 328, 21
+  xy: 278, 9
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_rc_2653_2_0.png
   rotate: false
-  xy: 873, 34
+  xy: 887, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_rc_2653_3_0.png
   rotate: false
-  xy: 896, 33
+  xy: 899, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_rc_2653_7_0.png
   rotate: false
-  xy: 158, 2
+  xy: 125, 2
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_rc_2654_0_0.png
   rotate: false
-  xy: 532, 2
+  xy: 556, 2
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
+jacket_M_cyzipped_h_std_rc_2654_1_0.png
+  rotate: false
+  xy: 235, 2
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
 jacket_M_cyzipped_h_std_rc_2654_2_0.png
   rotate: false
-  xy: 532, 10
+  xy: 489, 33
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
+jacket_M_cyzipped_h_std_rc_2654_3_0.png
+  rotate: false
+  xy: 612, 2
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
 jacket_M_cyzipped_h_std_rc_2654_7_0.png
   rotate: false
-  xy: 524, 11
+  xy: 620, 2
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_rc_2655_0_0.png
   rotate: false
-  xy: 357, 23
+  xy: 439, 24
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
@@ -706,70 +706,70 @@ jacket_M_cyzipped_h_std_rc_2655_2_0.png
   index: -1
 jacket_M_cyzipped_h_std_rc_2655_3_0.png
   rotate: false
-  xy: 503, 14
+  xy: 639, 6
   size: 4, 25
   orig: 4, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_std_rc_2655_7_0.png
   rotate: false
-  xy: 406, 2
+  xy: 633, 8
   size: 4, 23
   orig: 4, 23
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2653_0_0.png
   rotate: false
-  xy: 686, 35
+  xy: 601, 35
   size: 14, 27
   orig: 14, 27
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2653_0_1.png
   rotate: false
-  xy: 284, 35
+  xy: 530, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2653_1_0.png
   rotate: false
-  xy: 951, 36
+  xy: 965, 36
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2653_1_1.png
   rotate: false
-  xy: 1003, 37
+  xy: 991, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2653_2_0.png
   rotate: false
-  xy: 585, 35
+  xy: 230, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2653_2_1.png
   rotate: false
-  xy: 620, 37
+  xy: 511, 37
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2653_3_0.png
   rotate: false
-  xy: 603, 35
+  xy: 584, 35
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2653_3_1.png
   rotate: false
-  xy: 567, 35
+  xy: 566, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
@@ -790,14 +790,14 @@ jacket_M_cyzipped_h_wav_lc_2653_4_1.png
   index: -1
 jacket_M_cyzipped_h_wav_lc_2653_5_0.png
   rotate: false
-  xy: 229, 35
+  xy: 211, 35
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2653_5_1.png
   rotate: false
-  xy: 211, 34
+  xy: 266, 34
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
@@ -832,609 +832,602 @@ jacket_M_cyzipped_h_wav_lc_2653_7_1.png
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_0_0.png
   rotate: false
-  xy: 552, 8
+  xy: 566, 2
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_0_1.png
   rotate: false
-  xy: 608, 10
+  xy: 567, 10
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_1_0.png
   rotate: false
-  xy: 1010, 30
+  xy: 785, 35
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_1_1.png
   rotate: false
-  xy: 734, 28
+  xy: 777, 35
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_2_0.png
   rotate: false
-  xy: 613, 17
+  xy: 715, 30
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_2_1.png
   rotate: false
-  xy: 600, 3
+  xy: 577, 10
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_3_0.png
   rotate: false
-  xy: 951, 30
+  xy: 255, 2
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_3_1.png
   rotate: false
-  xy: 743, 35
+  xy: 595, 10
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_4_0.png
   rotate: false
-  xy: 580, 17
+  xy: 595, 26
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_4_1.png
   rotate: false
-  xy: 375, 16
+  xy: 744, 33
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_5_0.png
   rotate: false
-  xy: 761, 35
+  xy: 586, 10
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_5_1.png
   rotate: false
-  xy: 986, 30
+  xy: 620, 10
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_6_0.png
   rotate: false
-  xy: 542, 2
+  xy: 548, 10
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_6_1.png
   rotate: false
-  xy: 609, 26
+  xy: 573, 26
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_7_0.png
   rotate: false
-  xy: 590, 2
+  xy: 650, 2
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wav_lc_2654_7_1.png
   rotate: false
-  xy: 598, 10
+  xy: 724, 33
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_0_0.png
   rotate: false
-  xy: 494, 14
+  xy: 449, 24
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_0_1.png
   rotate: false
-  xy: 518, 17
+  xy: 413, 3
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_0_2.png
   rotate: false
-  xy: 1016, 37
+  xy: 477, 5
   size: 6, 25
   orig: 6, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_0_3.png
   rotate: false
-  xy: 964, 36
+  xy: 978, 36
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_lc_2653_1_1.png
+jacket_M_cyzipped_h_wlk_lc_2653_1_0.png
   rotate: false
-  xy: 716, 39
-  size: 16, 23
-  orig: 16, 23
-  offset: 0, 0
-  index: -1
-jacket_M_cyzipped_h_wlk_lc_2653_1_2.png
-  rotate: false
-  xy: 340, 21
+  xy: 266, 9
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
+jacket_M_cyzipped_h_wlk_lc_2653_1_1.png
+  rotate: false
+  xy: 704, 39
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_1_3.png
   rotate: false
-  xy: 790, 40
+  xy: 831, 40
   size: 13, 22
   orig: 13, 22
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_2_1.png
   rotate: false
-  xy: 385, 25
+  xy: 315, 9
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_2_2.png
   rotate: false
-  xy: 393, 2
+  xy: 1017, 41
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_2_3.png
   rotate: false
-  xy: 632, 12
+  xy: 556, 18
   size: 4, 15
   orig: 4, 15
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_lc_2653_3_1.png
+jacket_M_cyzipped_h_wlk_lc_2653_3_0.png
   rotate: false
-  xy: 907, 33
+  xy: 910, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_lc_2653_3_2.png
+jacket_M_cyzipped_h_wlk_lc_2653_3_1.png
   rotate: false
-  xy: 918, 33
+  xy: 921, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_3_3.png
   rotate: false
-  xy: 125, 2
+  xy: 149, 2
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_7_1.png
   rotate: false
-  xy: 306, 16
+  xy: 235, 8
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_7_2.png
   rotate: false
-  xy: 169, 2
+  xy: 171, 2
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2653_7_3.png
   rotate: false
-  xy: 200, 5
+  xy: 202, 5
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2654_0_0.png
   rotate: false
-  xy: 646, 5
+  xy: 793, 35
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2654_0_2.png
   rotate: false
-  xy: 1018, 30
+  xy: 972, 29
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2654_0_3.png
   rotate: false
-  xy: 328, 16
+  xy: 562, 18
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2654_1_1.png
   rotate: false
-  xy: 598, 26
+  xy: 606, 26
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2654_1_3.png
   rotate: false
-  xy: 448, 2
+  xy: 313, 2
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2654_2_1.png
   rotate: false
-  xy: 580, 9
+  xy: 558, 10
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2654_2_2.png
   rotate: false
-  xy: 763, 29
+  xy: 806, 32
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_lc_2654_3_0.png
-  rotate: false
-  xy: 873, 28
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
 jacket_M_cyzipped_h_wlk_lc_2654_3_1.png
   rotate: false
-  xy: 960, 29
+  xy: 760, 35
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_lc_2654_3_3.png
+jacket_M_cyzipped_h_wlk_lc_2654_3_2.png
   rotate: false
-  xy: 756, 28
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
-jacket_M_cyzipped_h_wlk_lc_2654_7_0.png
-  rotate: false
-  xy: 772, 38
+  xy: 806, 38
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
+jacket_M_cyzipped_h_wlk_lc_2654_3_3.png
+  rotate: false
+  xy: 965, 29
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
 jacket_M_cyzipped_h_wlk_lc_2654_7_1.png
   rotate: false
-  xy: 776, 34
+  xy: 213, 2
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
   index: -1
+jacket_M_cyzipped_h_wlk_lc_2654_7_2.png
+  rotate: false
+  xy: 628, 2
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
 jacket_M_cyzipped_h_wlk_lc_2654_7_3.png
   rotate: false
-  xy: 734, 35
+  xy: 610, 12
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2655_0_0.png
   rotate: false
-  xy: 341, 16
+  xy: 984, 31
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2655_0_1.png
   rotate: false
-  xy: 632, 29
+  xy: 1017, 33
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2655_0_2.png
   rotate: false
-  xy: 255, 5
+  xy: 645, 2
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2655_0_3.png
   rotate: false
-  xy: 335, 16
+  xy: 978, 31
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_lc_2655_2_1.png
+jacket_M_cyzipped_h_wlk_lc_2655_2_0.png
   rotate: false
-  xy: 554, 16
-  size: 6, 18
-  orig: 6, 18
-  offset: 0, 0
-  index: -1
-jacket_M_cyzipped_h_wlk_lc_2655_2_2.png
-  rotate: false
-  xy: 467, 4
+  xy: 438, 2
   size: 3, 18
   orig: 3, 18
   offset: 0, 0
   index: -1
+jacket_M_cyzipped_h_wlk_lc_2655_2_1.png
+  rotate: false
+  xy: 430, 2
+  size: 6, 18
+  orig: 6, 18
+  offset: 0, 0
+  index: -1
 jacket_M_cyzipped_h_wlk_lc_2655_2_3.png
   rotate: false
-  xy: 255, 2
+  xy: 474, 29
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_lc_2655_3_1.png
+jacket_M_cyzipped_h_wlk_lc_2655_3_0.png
   rotate: false
-  xy: 418, 2
+  xy: 490, 6
   size: 3, 25
   orig: 3, 25
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_lc_2655_3_2.png
+jacket_M_cyzipped_h_wlk_lc_2655_3_1.png
   rotate: false
-  xy: 423, 2
+  xy: 495, 6
   size: 3, 25
   orig: 3, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_lc_2655_3_3.png
   rotate: false
-  xy: 514, 2
+  xy: 660, 20
   size: 3, 12
   orig: 3, 12
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_lc_2655_7_1.png
+jacket_M_cyzipped_h_wlk_lc_2655_7_0.png
   rotate: false
-  xy: 783, 32
-  size: 3, 4
-  orig: 3, 4
-  offset: 0, 0
-  index: -1
-jacket_M_cyzipped_h_wlk_lc_2655_7_2.png
-  rotate: false
-  xy: 433, 2
+  xy: 628, 10
   size: 3, 23
   orig: 3, 23
   offset: 0, 0
   index: -1
+jacket_M_cyzipped_h_wlk_lc_2655_7_1.png
+  rotate: false
+  xy: 296, 3
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
 jacket_M_cyzipped_h_wlk_lc_2655_7_3.png
   rotate: false
-  xy: 428, 4
+  xy: 655, 9
   size: 3, 23
   orig: 3, 23
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2653_0_0.png
   rotate: false
-  xy: 860, 35
+  xy: 874, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2653_0_1.png
   rotate: false
-  xy: 702, 35
+  xy: 860, 35
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2653_0_2.png
   rotate: false
-  xy: 834, 33
+  xy: 691, 33
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2653_0_3.png
   rotate: false
-  xy: 639, 35
+  xy: 617, 35
   size: 14, 27
   orig: 14, 27
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2653_1_0.png
   rotate: false
-  xy: 247, 11
+  xy: 331, 22
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2653_2_1.png
   rotate: false
-  xy: 671, 34
+  xy: 649, 34
   size: 13, 28
   orig: 13, 28
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2653_2_2.png
   rotate: false
-  xy: 820, 34
+  xy: 664, 34
   size: 12, 28
   orig: 12, 28
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2653_2_3.png
   rotate: false
-  xy: 655, 33
+  xy: 633, 33
   size: 14, 29
   orig: 14, 29
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_rc_2653_3_1.png
+jacket_M_cyzipped_h_wlk_rc_2653_3_0.png
   rotate: false
-  xy: 136, 2
-  size: 9, 26
-  orig: 9, 26
-  offset: 0, 0
-  index: -1
-jacket_M_cyzipped_h_wlk_rc_2653_3_2.png
-  rotate: false
-  xy: 940, 33
+  xy: 932, 33
   size: 9, 29
   orig: 9, 29
+  offset: 0, 0
+  index: -1
+jacket_M_cyzipped_h_wlk_rc_2653_3_1.png
+  rotate: false
+  xy: 160, 2
+  size: 9, 26
+  orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2653_3_3.png
   rotate: false
-  xy: 929, 33
+  xy: 954, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_rc_2653_7_1.png
+jacket_M_cyzipped_h_wlk_rc_2653_7_0.png
   rotate: false
-  xy: 211, 5
-  size: 9, 27
-  orig: 9, 27
-  offset: 0, 0
-  index: -1
-jacket_M_cyzipped_h_wlk_rc_2653_7_2.png
-  rotate: false
-  xy: 180, 2
+  xy: 182, 2
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
+jacket_M_cyzipped_h_wlk_rc_2653_7_1.png
+  rotate: false
+  xy: 213, 6
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
 jacket_M_cyzipped_h_wlk_rc_2653_7_3.png
   rotate: false
-  xy: 317, 16
+  xy: 290, 9
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2654_0_0.png
   rotate: false
-  xy: 591, 17
+  xy: 617, 26
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2654_0_1.png
   rotate: false
-  xy: 620, 29
+  xy: 301, 2
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2654_0_2.png
   rotate: false
-  xy: 602, 17
+  xy: 704, 30
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2654_0_3.png
   rotate: false
-  xy: 493, 4
+  xy: 520, 2
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2654_1_0.png
   rotate: false
-  xy: 716, 33
+  xy: 245, 2
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_rc_2654_2_0.png
+jacket_M_cyzipped_h_wlk_rc_2654_2_1.png
   rotate: false
-  xy: 638, 20
+  xy: 535, 2
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_rc_2654_2_1.png
+jacket_M_cyzipped_h_wlk_rc_2654_2_2.png
   rotate: false
-  xy: 638, 12
+  xy: 537, 10
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2654_2_3.png
   rotate: false
-  xy: 639, 28
+  xy: 284, 2
   size: 10, 5
   orig: 10, 5
   offset: 0, 0
   index: -1
-jacket_M_cyzipped_h_wlk_rc_2654_3_0.png
-  rotate: false
-  xy: 780, 38
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
 jacket_M_cyzipped_h_wlk_rc_2654_3_1.png
   rotate: false
-  xy: 749, 28
+  xy: 694, 26
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2654_3_3.png
   rotate: false
-  xy: 752, 35
+  xy: 602, 19
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2654_7_1.png
   rotate: false
-  xy: 977, 30
+  xy: 611, 19
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2654_7_3.png
   rotate: false
-  xy: 776, 30
+  xy: 490, 2
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_0_0.png
   rotate: false
-  xy: 474, 21
+  xy: 510, 12
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_0_1.png
   rotate: false
-  xy: 484, 16
+  xy: 500, 16
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
@@ -1448,14 +1441,14 @@ jacket_M_cyzipped_h_wlk_rc_2655_0_2.png
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_0_3.png
   rotate: false
-  xy: 472, 4
+  xy: 537, 18
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_1_0.png
   rotate: false
-  xy: 527, 18
+  xy: 443, 2
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
@@ -1469,23 +1462,16 @@ jacket_M_cyzipped_h_wlk_rc_2655_1_1.png
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_1_2.png
   rotate: false
-  xy: 297, 12
+  xy: 421, 26
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_1_3.png
   rotate: false
-  xy: 396, 27
+  xy: 390, 4
   size: 11, 20
   orig: 11, 20
-  offset: 0, 0
-  index: -1
-jacket_M_cyzipped_h_wlk_rc_2655_2_0.png
-  rotate: false
-  xy: 222, 7
-  size: 9, 25
-  orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_2_1.png
@@ -1495,45 +1481,59 @@ jacket_M_cyzipped_h_wlk_rc_2655_2_1.png
   orig: 11, 24
   offset: 0, 0
   index: -1
+jacket_M_cyzipped_h_wlk_rc_2655_2_2.png
+  rotate: false
+  xy: 246, 8
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_2_3.png
   rotate: false
-  xy: 367, 23
+  xy: 430, 22
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_3_1.png
   rotate: false
-  xy: 509, 2
+  xy: 326, 2
   size: 3, 12
   orig: 3, 12
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_3_2.png
   rotate: false
-  xy: 459, 24
+  xy: 485, 5
   size: 3, 25
   orig: 3, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_3_3.png
   rotate: false
-  xy: 352, 19
+  xy: 326, 16
   size: 3, 25
   orig: 3, 25
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_7_1.png
   rotate: false
-  xy: 438, 2
+  xy: 650, 9
   size: 3, 23
   orig: 3, 23
   offset: 0, 0
   index: -1
 jacket_M_cyzipped_h_wlk_rc_2655_7_2.png
   rotate: false
-  xy: 443, 2
+  xy: 645, 8
   size: 3, 23
   orig: 3, 23
+  offset: 0, 0
+  index: -1
+jacket_M_cyzipped_h_wlk_rc_2655_7_3.png
+  rotate: false
+  xy: 673, 28
+  size: 3, 4
+  orig: 3, 4
   offset: 0, 0
   index: -1

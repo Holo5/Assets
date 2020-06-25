@@ -1,0 +1,20 @@
+
+kitchen19_deco2.png
+size: 32,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+kitchen19_deco2_kitchen19_deco2_64_a_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+kitchen19_deco2_kitchen19_deco2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1

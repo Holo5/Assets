@@ -1,0 +1,27 @@
+
+haunted_dj.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+haunted_dj_haunted_dj_64_a_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+haunted_dj_haunted_dj_64_sd_2_0.png
+  rotate: false
+  xy: 66, 41
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+haunted_dj_haunted_dj_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

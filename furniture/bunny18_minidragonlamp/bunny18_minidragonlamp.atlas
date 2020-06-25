@@ -1,0 +1,20 @@
+
+bunny18_minidragonlamp.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bunny18_minidragonlamp_bunny18_minidragonlamp_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+bunny18_minidragonlamp_bunny18_minidragonlamp_icon_a.png
+  rotate: false
+  xy: 49, 26
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1

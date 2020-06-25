@@ -1,0 +1,62 @@
+
+fuma18_winterdragonlamp.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fuma18_winterdragonlamp_fuma18_winterdragonlamp_32_b_4_0.png
+  rotate: false
+  xy: 53, 250
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fuma18_winterdragonlamp_fuma18_winterdragonlamp_64_a_4_0.png
+  rotate: false
+  xy: 2, 112
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+fuma18_winterdragonlamp_fuma18_winterdragonlamp_64_a_4_1.png
+  rotate: false
+  xy: 2, 178
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+fuma18_winterdragonlamp_fuma18_winterdragonlamp_64_b_4_1.png
+  rotate: false
+  xy: 2, 28
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+fuma18_winterdragonlamp_fuma18_winterdragonlamp_64_b_4_2.png
+  rotate: false
+  xy: 23, 34
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+fuma18_winterdragonlamp_fuma18_winterdragonlamp_64_b_4_3.png
+  rotate: false
+  xy: 26, 73
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+fuma18_winterdragonlamp_fuma18_winterdragonlamp_64_b_4_4.png
+  rotate: false
+  xy: 2, 71
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+fuma18_winterdragonlamp_fuma18_winterdragonlamp_icon_a.png
+  rotate: false
+  xy: 23, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

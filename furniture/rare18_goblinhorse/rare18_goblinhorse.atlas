@@ -1,0 +1,27 @@
+
+rare18_goblinhorse.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare18_goblinhorse_rare18_goblinhorse_64_a_2_0.png
+  rotate: false
+  xy: 2, 21
+  size: 62, 105
+  orig: 62, 105
+  offset: 0, 0
+  index: -1
+rare18_goblinhorse_rare18_goblinhorse_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+rare18_goblinhorse_rare18_goblinhorse_icon_a.png
+  rotate: false
+  xy: 66, 101
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1

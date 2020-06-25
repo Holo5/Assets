@@ -6,42 +6,42 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_longtwotone_h_lay_hr_3362_2_0.png
   rotate: false
-  xy: 539, 28
+  xy: 577, 28
   size: 36, 34
   orig: 36, 34
   offset: 0, 0
   index: -1
 hair_U_longtwotone_h_lay_hr_3363_2_0.png
   rotate: false
-  xy: 647, 28
+  xy: 615, 28
   size: 30, 34
   orig: 30, 34
   offset: 0, 0
   index: -1
 hair_U_longtwotone_h_lay_hrb_3362_2_0.png
   rotate: false
-  xy: 577, 28
+  xy: 539, 28
   size: 36, 34
   orig: 36, 34
   offset: 0, 0
   index: -1
 hair_U_longtwotone_h_lay_hrb_3363_2_0.png
   rotate: false
-  xy: 615, 28
+  xy: 647, 28
   size: 30, 34
   orig: 30, 34
   offset: 0, 0
   index: -1
 hair_U_longtwotone_h_spk_hr_3362_0_0.png
   rotate: false
-  xy: 78, 20
+  xy: 2, 20
   size: 36, 42
   orig: 36, 42
   offset: 0, 0
   index: -1
 hair_U_longtwotone_h_spk_hr_3362_1_0.png
   rotate: false
-  xy: 393, 17
+  xy: 361, 17
   size: 30, 45
   orig: 30, 45
   offset: 0, 0
@@ -62,7 +62,7 @@ hair_U_longtwotone_h_spk_hr_3362_3_0.png
   index: -1
 hair_U_longtwotone_h_spk_hr_3362_7_0.png
   rotate: false
-  xy: 463, 26
+  xy: 425, 26
   size: 36, 36
   orig: 36, 36
   offset: 0, 0
@@ -76,7 +76,7 @@ hair_U_longtwotone_h_spk_hr_3363_0_0.png
   index: -1
 hair_U_longtwotone_h_spk_hr_3363_1_0.png
   rotate: false
-  xy: 707, 36
+  xy: 679, 36
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
@@ -97,58 +97,9 @@ hair_U_longtwotone_h_spk_hr_3363_3_0.png
   index: -1
 hair_U_longtwotone_h_spk_hr_3363_7_0.png
   rotate: false
-  xy: 937, 44
+  xy: 602, 8
   size: 13, 18
   orig: 13, 18
-  offset: 0, 0
-  index: -1
-hair_U_longtwotone_h_spk_hrb_3362_0_0.png
-  rotate: false
-  xy: 40, 20
-  size: 36, 42
-  orig: 36, 42
-  offset: 0, 0
-  index: -1
-hair_U_longtwotone_h_spk_hrb_3362_1_0.png
-  rotate: false
-  xy: 361, 17
-  size: 30, 45
-  orig: 30, 45
-  offset: 0, 0
-  index: -1
-hair_U_longtwotone_h_spk_hrb_3362_2_0.png
-  rotate: false
-  xy: 261, 17
-  size: 32, 45
-  orig: 32, 45
-  offset: 0, 0
-  index: -1
-hair_U_longtwotone_h_spk_hrb_3362_3_0.png
-  rotate: false
-  xy: 153, 21
-  size: 35, 41
-  orig: 35, 41
-  offset: 0, 0
-  index: -1
-hair_U_longtwotone_h_spk_hrb_3362_7_0.png
-  rotate: false
-  xy: 425, 26
-  size: 36, 36
-  orig: 36, 36
-  offset: 0, 0
-  index: -1
-hair_U_longtwotone_h_spk_hrb_3363_0_0.png
-  rotate: false
-  xy: 539, 2
-  size: 19, 24
-  orig: 19, 24
-  offset: 0, 0
-  index: -1
-hair_U_longtwotone_h_spk_hrb_3363_1_0.png
-  rotate: false
-  xy: 679, 36
-  size: 26, 26
-  orig: 26, 26
   offset: 0, 0
   index: -1
 hair_U_longtwotone_h_spk_hrb_3363_2_0.png
@@ -165,16 +116,9 @@ hair_U_longtwotone_h_spk_hrb_3363_3_0.png
   orig: 24, 21
   offset: 0, 0
   index: -1
-hair_U_longtwotone_h_spk_hrb_3363_7_0.png
-  rotate: false
-  xy: 602, 8
-  size: 13, 18
-  orig: 13, 18
-  offset: 0, 0
-  index: -1
 hair_U_longtwotone_h_std_hr_3362_0_0.png
   rotate: false
-  xy: 2, 20
+  xy: 78, 20
   size: 36, 42
   orig: 36, 42
   offset: 0, 0
@@ -236,6 +180,62 @@ hair_U_longtwotone_h_std_hr_3363_3_0.png
   offset: 0, 0
   index: -1
 hair_U_longtwotone_h_std_hr_3363_7_0.png
+  rotate: false
+  xy: 937, 44
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+hair_U_longtwotone_h_std_hrb_3362_0_0.png
+  rotate: false
+  xy: 40, 20
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+hair_U_longtwotone_h_std_hrb_3362_1_0.png
+  rotate: false
+  xy: 393, 17
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+hair_U_longtwotone_h_std_hrb_3362_2_0.png
+  rotate: false
+  xy: 261, 17
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+hair_U_longtwotone_h_std_hrb_3362_3_0.png
+  rotate: false
+  xy: 153, 21
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+hair_U_longtwotone_h_std_hrb_3362_7_0.png
+  rotate: false
+  xy: 463, 26
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+hair_U_longtwotone_h_std_hrb_3363_0_0.png
+  rotate: false
+  xy: 539, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+hair_U_longtwotone_h_std_hrb_3363_1_0.png
+  rotate: false
+  xy: 707, 36
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hair_U_longtwotone_h_std_hrb_3363_7_0.png
   rotate: false
   xy: 922, 44
   size: 13, 18

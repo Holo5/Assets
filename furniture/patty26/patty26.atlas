@@ -1,0 +1,41 @@
+
+patty26.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+patty26_patty26_64_a_2_0.png
+  rotate: false
+  xy: 1052, 1091
+  size: 672, 815
+  orig: 672, 815
+  offset: 0, 0
+  index: -1
+patty26_patty26_64_a_2_1.png
+  rotate: false
+  xy: 378, 1091
+  size: 672, 815
+  orig: 672, 815
+  offset: 0, 0
+  index: -1
+patty26_patty26_64_a_2_2.png
+  rotate: false
+  xy: 2, 726
+  size: 374, 1180
+  orig: 374, 1180
+  offset: 0, 0
+  index: -1
+patty26_patty26_64_a_2_3.png
+  rotate: false
+  xy: 378, 2
+  size: 328, 1087
+  orig: 328, 1087
+  offset: 0, 0
+  index: -1
+patty26_patty26_icon_a.png
+  rotate: false
+  xy: 1726, 1881
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

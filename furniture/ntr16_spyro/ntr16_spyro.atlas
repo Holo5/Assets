@@ -1,0 +1,20 @@
+
+ntr16_spyro.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ntr16_spyro_ntr16_spyro_32_a_0_0.png
+  rotate: false
+  xy: 58, 29
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+ntr16_spyro_ntr16_spyro_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1

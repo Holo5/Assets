@@ -1,0 +1,34 @@
+
+Royalred_Throne.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Royalred_Throne_Royalred_Throne_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+Royalred_Throne_Royalred_Throne_64_b_2_0.png
+  rotate: false
+  xy: 77, 82
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Royalred_Throne_Royalred_Throne_64_sd_2_0.png
+  rotate: false
+  xy: 77, 26
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+Royalred_Throne_Royalred_Throne_icon_a.png
+  rotate: false
+  xy: 77, 45
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+moodboard.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+moodboard_moodboard_64_a_2_0.png
+  rotate: false
+  xy: 76, 2
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+moodboard_moodboard_64_a_2_1.png
+  rotate: false
+  xy: 150, 2
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+moodboard_moodboard_64_a_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+moodboard_moodboard_icon_a.png
+  rotate: false
+  xy: 224, 71
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1

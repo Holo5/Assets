@@ -1,0 +1,20 @@
+
+st_lottoeisi.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_lottoeisi_st_lottoeisi_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 104
+  orig: 64, 104
+  offset: 0, 0
+  index: -1
+st_lottoeisi_st_lottoeisi_icon_a.png
+  rotate: false
+  xy: 68, 73
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1

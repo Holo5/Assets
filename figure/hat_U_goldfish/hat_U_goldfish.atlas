@@ -11,6 +11,13 @@ hat_U_goldfish_h_lsp_ha_3151_2_0.png
   orig: 45, 41
   offset: 0, 0
   index: -1
+hat_U_goldfish_h_spk_ha_3151_3_0.png
+  rotate: false
+  xy: 166, 5
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
 hat_U_goldfish_h_std_ha_3151_0_0.png
   rotate: false
   xy: 130, 2
@@ -32,16 +39,9 @@ hat_U_goldfish_h_std_ha_3151_2_0.png
   orig: 38, 47
   offset: 0, 0
   index: -1
-hat_U_goldfish_h_std_ha_3151_3_0.png
-  rotate: false
-  xy: 200, 5
-  size: 32, 46
-  orig: 32, 46
-  offset: 0, 0
-  index: -1
 hat_U_goldfish_h_std_ha_3151_7_0.png
   rotate: false
-  xy: 166, 5
+  xy: 200, 5
   size: 32, 46
   orig: 32, 46
   offset: 0, 0

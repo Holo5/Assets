@@ -4,6 +4,20 @@ size: 128,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+shoes_U_training_h_lay_sh_2058_2_0.png
+  rotate: false
+  xy: 2, 82
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+shoes_U_training_h_lay_sh_2058_2_0.png
+  rotate: false
+  xy: 2, 58
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
 shoes_U_training_h_sit_sh_2057_0_0.png
   rotate: false
   xy: 25, 130
@@ -13,112 +27,98 @@ shoes_U_training_h_sit_sh_2057_0_0.png
   index: -1
 shoes_U_training_h_sit_sh_2057_2_0.png
   rotate: false
-  xy: 2, 106
+  xy: 2, 130
   size: 21, 22
   orig: 21, 22
   offset: 0, 0
   index: -1
 shoes_U_training_h_sit_sh_2057_2_0.png
   rotate: false
-  xy: 2, 82
+  xy: 2, 106
   size: 21, 22
   orig: 21, 22
   offset: 0, 0
   index: -1
 shoes_U_training_h_sit_sh_2058_0_0.png
   rotate: false
-  xy: 2, 58
+  xy: 2, 34
   size: 18, 22
   orig: 18, 22
   offset: 0, 0
   index: -1
-shoes_U_training_h_sit_sh_2058_2_0.png
-  rotate: false
-  xy: 91, 232
-  size: 21, 22
-  orig: 21, 22
-  offset: 0, 0
-  index: -1
-shoes_U_training_h_sit_sh_2058_2_0.png
-  rotate: false
-  xy: 2, 130
-  size: 21, 22
-  orig: 21, 22
-  offset: 0, 0
-  index: -1
 shoes_U_training_h_std_sh_2057_0_0.png
   rotate: false
-  xy: 47, 158
+  xy: 45, 130
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 shoes_U_training_h_std_sh_2057_1_0.png
   rotate: false
-  xy: 45, 130
+  xy: 31, 2
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 shoes_U_training_h_std_sh_2057_2_0.png
   rotate: false
-  xy: 44, 190
+  xy: 25, 111
   size: 26, 17
   orig: 26, 17
   offset: 0, 0
   index: -1
 shoes_U_training_h_std_sh_2057_3_0.png
   rotate: false
-  xy: 99, 165
+  xy: 76, 85
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 shoes_U_training_h_std_sh_2057_7_0.png
   rotate: false
-  xy: 96, 180
+  xy: 76, 59
   size: 23, 10
   orig: 23, 10
   offset: 0, 0
   index: -1
 shoes_U_training_h_std_sh_2058_0_0.png
   rotate: false
-  xy: 47, 174
+  xy: 28, 28
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 shoes_U_training_h_std_sh_2058_1_0.png
   rotate: false
-  xy: 52, 2
+  xy: 75, 208
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 shoes_U_training_h_std_sh_2058_2_0.png
   rotate: false
-  xy: 25, 111
+  xy: 44, 193
   size: 26, 17
   orig: 26, 17
   offset: 0, 0
   index: -1
 shoes_U_training_h_std_sh_2058_3_0.png
   rotate: false
-  xy: 52, 31
+  xy: 72, 146
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 shoes_U_training_h_std_sh_2058_7_0.png
   rotate: false
-  xy: 98, 205
+  xy: 28, 16
   size: 23, 10
   orig: 23, 10
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_0_0.png
   rotate: false
-  xy: 25, 80
+  xy: 46, 212
   size: 27, 12
   orig: 27, 12
   offset: 0, 0
@@ -139,14 +139,14 @@ shoes_U_training_h_wlk_sh_2057_0_2.png
   index: -1
 shoes_U_training_h_wlk_sh_2057_0_3.png
   rotate: false
-  xy: 2, 40
+  xy: 25, 59
   size: 24, 16
   orig: 24, 16
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_1_0.png
   rotate: false
-  xy: 98, 192
+  xy: 47, 146
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
@@ -160,7 +160,7 @@ shoes_U_training_h_wlk_sh_2057_1_1.png
   index: -1
 shoes_U_training_h_wlk_sh_2057_1_2.png
   rotate: false
-  xy: 52, 16
+  xy: 25, 44
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
@@ -174,91 +174,91 @@ shoes_U_training_h_wlk_sh_2057_1_3.png
   index: -1
 shoes_U_training_h_wlk_sh_2057_2_0.png
   rotate: false
-  xy: 22, 63
+  xy: 91, 239
   size: 28, 15
   orig: 28, 15
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_2_1.png
   rotate: false
-  xy: 76, 80
+  xy: 101, 208
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_2_2.png
   rotate: false
-  xy: 28, 29
+  xy: 47, 176
   size: 22, 15
   orig: 22, 15
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_2_3.png
   rotate: false
-  xy: 2, 182
+  xy: 2, 199
   size: 40, 15
   orig: 40, 15
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_3_0.png
   rotate: false
-  xy: 76, 194
+  xy: 71, 177
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_3_1.png
   rotate: false
-  xy: 52, 63
+  xy: 53, 113
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_3_2.png
   rotate: false
-  xy: 30, 13
+  xy: 57, 32
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_3_3.png
   rotate: false
-  xy: 52, 46
+  xy: 53, 96
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_7_0.png
   rotate: false
-  xy: 76, 94
+  xy: 53, 65
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_7_1.png
   rotate: false
-  xy: 99, 150
+  xy: 72, 193
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_7_2.png
   rotate: false
-  xy: 76, 108
+  xy: 76, 71
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2057_7_3.png
   rotate: false
-  xy: 76, 122
+  xy: 57, 17
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_0_0.png
   rotate: false
-  xy: 47, 144
+  xy: 2, 2
   size: 27, 12
   orig: 27, 12
   offset: 0, 0
@@ -272,21 +272,21 @@ shoes_U_training_h_wlk_sh_2058_0_1.png
   index: -1
 shoes_U_training_h_wlk_sh_2058_0_2.png
   rotate: false
-  xy: 2, 5
+  xy: 25, 77
   size: 26, 15
   orig: 26, 15
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_0_3.png
   rotate: false
-  xy: 2, 22
+  xy: 2, 16
   size: 24, 16
   orig: 24, 16
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_1_0.png
   rotate: false
-  xy: 76, 137
+  xy: 95, 195
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
@@ -300,7 +300,7 @@ shoes_U_training_h_wlk_sh_2058_1_1.png
   index: -1
 shoes_U_training_h_wlk_sh_2058_1_2.png
   rotate: false
-  xy: 101, 217
+  xy: 57, 2
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
@@ -314,84 +314,84 @@ shoes_U_training_h_wlk_sh_2058_1_3.png
   index: -1
 shoes_U_training_h_wlk_sh_2058_2_0.png
   rotate: false
-  xy: 46, 209
+  xy: 91, 222
   size: 28, 15
   orig: 28, 15
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_2_1.png
   rotate: false
-  xy: 76, 180
+  xy: 95, 153
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_2_2.png
   rotate: false
-  xy: 28, 46
+  xy: 47, 159
   size: 22, 15
   orig: 22, 15
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_2_3.png
   rotate: false
-  xy: 2, 199
+  xy: 2, 182
   size: 40, 15
   orig: 40, 15
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_3_0.png
   rotate: false
-  xy: 76, 210
+  xy: 74, 130
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_3_1.png
   rotate: false
-  xy: 53, 96
+  xy: 52, 48
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_3_2.png
   rotate: false
-  xy: 54, 80
+  xy: 71, 161
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_3_3.png
   rotate: false
-  xy: 53, 113
+  xy: 53, 79
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_7_0.png
   rotate: false
-  xy: 101, 136
+  xy: 95, 181
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_7_1.png
   rotate: false
-  xy: 76, 150
+  xy: 76, 115
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_7_2.png
   rotate: false
-  xy: 78, 2
+  xy: 93, 167
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_U_training_h_wlk_sh_2058_7_3.png
   rotate: false
-  xy: 76, 165
+  xy: 76, 100
   size: 21, 13
   orig: 21, 13
   offset: 0, 0

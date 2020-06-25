@@ -11,25 +11,25 @@ hat_U_sharkmask_h_lay_ha_3601_2_0.png
   orig: 37, 38
   offset: 0, 0
   index: -1
+hat_U_sharkmask_h_spk_ha_3601_0_0.png
+  rotate: false
+  xy: 141, 2
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+hat_U_sharkmask_h_spk_ha_3601_2_0.png
+  rotate: false
+  xy: 174, 2
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
 hat_U_sharkmask_h_spk_ha_3601_3_0.png
   rotate: false
   xy: 37, 2
   size: 33, 47
   orig: 33, 47
-  offset: 0, 0
-  index: -1
-hat_U_sharkmask_h_spk_ha_3601_7_0.png
-  rotate: false
-  xy: 2, 2
-  size: 33, 47
-  orig: 33, 47
-  offset: 0, 0
-  index: -1
-hat_U_sharkmask_h_std_ha_3601_0_0.png
-  rotate: false
-  xy: 141, 2
-  size: 31, 47
-  orig: 31, 47
   offset: 0, 0
   index: -1
 hat_U_sharkmask_h_std_ha_3601_1_0.png
@@ -39,17 +39,17 @@ hat_U_sharkmask_h_std_ha_3601_1_0.png
   orig: 32, 46
   offset: 0, 0
   index: -1
-hat_U_sharkmask_h_std_ha_3601_2_0.png
-  rotate: false
-  xy: 174, 2
-  size: 30, 47
-  orig: 30, 47
-  offset: 0, 0
-  index: -1
 hat_U_sharkmask_h_std_ha_3601_3_0.png
   rotate: false
   xy: 72, 3
   size: 33, 46
   orig: 33, 46
+  offset: 0, 0
+  index: -1
+hat_U_sharkmask_h_std_ha_3601_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 47
+  orig: 33, 47
   offset: 0, 0
   index: -1

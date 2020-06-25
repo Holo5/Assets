@@ -1,0 +1,48 @@
+
+caldero_hirviendo.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+caldero_hirviendo_caldero_hirviendo_64_a_2_0.png
+  rotate: false
+  xy: 58, 2
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+caldero_hirviendo_caldero_hirviendo_64_a_2_1.png
+  rotate: false
+  xy: 86, 2
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+caldero_hirviendo_caldero_hirviendo_64_a_2_2.png
+  rotate: false
+  xy: 114, 2
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+caldero_hirviendo_caldero_hirviendo_64_a_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+caldero_hirviendo_caldero_hirviendo_64_sd_2_0.png
+  rotate: false
+  xy: 142, 40
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+caldero_hirviendo_caldero_hirviendo_icon_a.png
+  rotate: false
+  xy: 30, 2
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1

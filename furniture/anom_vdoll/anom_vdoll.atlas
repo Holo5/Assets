@@ -1,0 +1,48 @@
+
+anom_vdoll.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anom_vdoll_anom_vdoll_64_a_2_10.png
+  rotate: false
+  xy: 2, 21
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+anom_vdoll_anom_vdoll_64_a_2_11.png
+  rotate: false
+  xy: 89, 21
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+anom_vdoll_anom_vdoll_64_a_2_12.png
+  rotate: false
+  xy: 176, 21
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+anom_vdoll_anom_vdoll_64_a_2_13.png
+  rotate: false
+  xy: 263, 21
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+anom_vdoll_anom_vdoll_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+anom_vdoll_anom_vdoll_icon_a.png
+  rotate: false
+  xy: 350, 84
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1

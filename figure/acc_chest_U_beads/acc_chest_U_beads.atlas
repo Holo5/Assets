@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 acc_chest_U_beads_h_lay_ca_2583_2_0.png
   rotate: false
-  xy: 82, 17
+  xy: 84, 17
   size: 24, 13
   orig: 24, 13
   offset: 0, 0
   index: -1
 acc_chest_U_beads_h_lay_ca_2584_2_0.png
   rotate: false
-  xy: 176, 21
+  xy: 178, 21
   size: 19, 9
   orig: 19, 9
   offset: 0, 0
   index: -1
 acc_chest_U_beads_h_std_ca_2583_0_0.png
   rotate: false
-  xy: 57, 2
+  xy: 57, 18
   size: 25, 12
   orig: 25, 12
   offset: 0, 0
   index: -1
 acc_chest_U_beads_h_std_ca_2583_1_0.png
   rotate: false
-  xy: 57, 16
+  xy: 57, 2
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
@@ -55,35 +55,35 @@ acc_chest_U_beads_h_std_ca_2583_7_0.png
   index: -1
 acc_chest_U_beads_h_std_ca_2584_0_0.png
   rotate: false
-  xy: 155, 20
+  xy: 157, 20
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 acc_chest_U_beads_h_std_ca_2584_1_0.png
   rotate: false
-  xy: 131, 20
+  xy: 133, 20
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
   index: -1
 acc_chest_U_beads_h_std_ca_2584_2_0.png
   rotate: false
-  xy: 197, 21
+  xy: 199, 21
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
   index: -1
 acc_chest_U_beads_h_std_ca_2584_3_0.png
   rotate: false
-  xy: 108, 19
+  xy: 110, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 acc_chest_U_beads_h_std_ca_2584_7_0.png
   rotate: false
-  xy: 84, 3
+  xy: 82, 3
   size: 19, 12
   orig: 19, 12
   offset: 0, 0

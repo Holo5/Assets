@@ -1,0 +1,27 @@
+
+panda.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+panda_panda_64_a_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+panda_panda_64_sd_2_0.png
+  rotate: false
+  xy: 2, 19
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+panda_panda_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1

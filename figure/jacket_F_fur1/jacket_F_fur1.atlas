@@ -6,28 +6,42 @@ filter: Nearest,Nearest
 repeat: none
 jacket_F_fur1_h_crr_lc_2414_0_0.png
   rotate: false
-  xy: 368, 15
+  xy: 388, 15
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_crr_lc_2414_3_0.png
   rotate: false
-  xy: 209, 11
+  xy: 169, 10
   size: 8, 16
   orig: 8, 16
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_crr_lc_2414_7_0.png
+  rotate: false
+  xy: 138, 10
+  size: 9, 16
+  orig: 9, 16
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_crr_lc_2415_3_0.png
   rotate: false
-  xy: 239, 13
+  xy: 199, 11
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
+jacket_F_fur1_h_crr_lc_2416_3_0.png
+  rotate: false
+  xy: 445, 4
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
 jacket_F_fur1_h_crr_lc_2416_7_0.png
   rotate: false
-  xy: 441, 34
+  xy: 434, 17
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
@@ -39,16 +53,9 @@ jacket_F_fur1_h_crr_rc_2414_0_0.png
   orig: 15, 14
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_crr_rc_2414_4_0.png
-  rotate: false
-  xy: 424, 16
-  size: 8, 14
-  orig: 8, 14
-  offset: 0, 0
-  index: -1
 jacket_F_fur1_h_crr_rc_2415_2_0.png
   rotate: false
-  xy: 418, 32
+  xy: 402, 32
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
@@ -58,20 +65,6 @@ jacket_F_fur1_h_crr_rc_2415_5_0.png
   xy: 376, 2
   size: 16, 11
   orig: 16, 11
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_crr_rc_2415_6_0.png
-  rotate: false
-  xy: 398, 15
-  size: 8, 15
-  orig: 8, 15
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_crr_rc_2415_7_0.png
-  rotate: false
-  xy: 138, 10
-  size: 9, 16
-  orig: 9, 16
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_crr_rc_2416_4_0.png
@@ -90,16 +83,9 @@ jacket_F_fur1_h_crr_rc_2416_5_0.png
   index: -1
 jacket_F_fur1_h_crr_rc_2416_6_0.png
   rotate: false
-  xy: 451, 19
+  xy: 452, 4
   size: 5, 13
   orig: 5, 13
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_crr_rc_2416_7_0.png
-  rotate: false
-  xy: 434, 17
-  size: 7, 13
-  orig: 7, 13
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_drk_rc_2414_0_0.png
@@ -111,44 +97,58 @@ jacket_F_fur1_h_drk_rc_2414_0_0.png
   index: -1
 jacket_F_fur1_h_drk_rc_2414_1_0.png
   rotate: false
-  xy: 469, 8
+  xy: 472, 22
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_drk_rc_2414_2_0.png
-  rotate: false
-  xy: 458, 35
-  size: 14, 12
-  orig: 14, 12
-  offset: 0, 0
-  index: -1
 jacket_F_fur1_h_drk_rc_2414_3_0.png
   rotate: false
-  xy: 367, 32
+  xy: 379, 32
   size: 10, 13
   orig: 10, 13
   offset: 0, 0
   index: -1
+jacket_F_fur1_h_drk_rc_2414_4_0.png
+  rotate: false
+  xy: 424, 16
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
 jacket_F_fur1_h_drk_rc_2414_5_0.png
   rotate: false
-  xy: 472, 22
+  xy: 469, 8
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_drk_rc_2414_6_0.png
   rotate: false
-  xy: 384, 47
+  xy: 368, 15
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
+jacket_F_fur1_h_drk_rc_2415_2_0.png
+  rotate: false
+  xy: 458, 35
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
 jacket_F_fur1_h_drk_rc_2415_3_0.png
   rotate: false
-  xy: 379, 32
+  xy: 367, 32
   size: 10, 13
   orig: 10, 13
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_drk_rc_2415_6_0.png
+  rotate: false
+  xy: 398, 15
+  size: 8, 15
+  orig: 8, 15
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_drk_rc_2416_0_0.png
@@ -198,6 +198,13 @@ jacket_F_fur1_h_drk_rc_2416_6_0.png
   xy: 443, 19
   size: 6, 13
   orig: 6, 13
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_drk_rc_2416_7_0.png
+  rotate: false
+  xy: 441, 34
+  size: 7, 13
+  orig: 7, 13
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_lay_cc_2414_2_0.png
@@ -354,16 +361,16 @@ jacket_F_fur1_h_std_cc_2416_7_0.png
   orig: 19, 15
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_std_lc_2414_7_0.png
+jacket_F_fur1_h_std_lc_2415_0_0.png
   rotate: false
-  xy: 50, 6
-  size: 9, 16
-  orig: 9, 16
+  xy: 378, 15
+  size: 8, 15
+  orig: 8, 15
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_std_lc_2415_3_0.png
   rotate: false
-  xy: 268, 13
+  xy: 259, 13
   size: 7, 16
   orig: 7, 16
   offset: 0, 0
@@ -375,23 +382,9 @@ jacket_F_fur1_h_std_lc_2416_2_0.png
   orig: 5, 10
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_std_lc_2416_3_0.png
-  rotate: false
-  xy: 445, 4
-  size: 5, 13
-  orig: 5, 13
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_std_rc_2414_2_0.png
-  rotate: false
-  xy: 402, 32
-  size: 14, 14
-  orig: 14, 14
-  offset: 0, 0
-  index: -1
 jacket_F_fur1_h_std_rc_2414_3_0.png
   rotate: false
-  xy: 149, 10
+  xy: 189, 11
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
@@ -403,9 +396,16 @@ jacket_F_fur1_h_std_rc_2415_0_0.png
   orig: 15, 15
   offset: 0, 0
   index: -1
+jacket_F_fur1_h_std_rc_2415_2_0.png
+  rotate: false
+  xy: 411, 48
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
 jacket_F_fur1_h_std_rc_2415_3_0.png
   rotate: false
-  xy: 259, 13
+  xy: 268, 13
   size: 7, 16
   orig: 7, 16
   offset: 0, 0
@@ -424,77 +424,84 @@ jacket_F_fur1_h_std_rc_2416_2_0.png
   orig: 12, 12
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_std_rc_2416_3_0.png
+jacket_F_fur1_h_wav_lc_2414_0_1.png
   rotate: false
-  xy: 452, 4
-  size: 5, 13
-  orig: 5, 13
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_wav_lc_2414_0_0.png
-  rotate: false
-  xy: 351, 47
+  xy: 362, 47
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wav_lc_2414_3_0.png
-  rotate: false
-  xy: 14, 5
-  size: 7, 17
-  orig: 7, 17
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_wav_lc_2414_4_0.png
-  rotate: false
-  xy: 332, 15
-  size: 11, 15
-  orig: 11, 15
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_wav_lc_2414_5_1.png
+jacket_F_fur1_h_wav_lc_2414_1_1.png
   rotate: false
   xy: 358, 2
   size: 16, 11
   orig: 16, 11
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wav_lc_2414_7_0.png
+jacket_F_fur1_h_wav_lc_2414_2_1.png
   rotate: false
-  xy: 229, 12
-  size: 8, 16
-  orig: 8, 16
+  xy: 427, 48
+  size: 8, 14
+  orig: 8, 14
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wav_lc_2415_0_0.png
+jacket_F_fur1_h_wav_lc_2414_3_1.png
   rotate: false
-  xy: 357, 15
-  size: 9, 15
-  orig: 9, 15
+  xy: 14, 5
+  size: 7, 17
+  orig: 7, 17
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wav_lc_2415_6_1.png
+jacket_F_fur1_h_wav_lc_2414_5_1.png
+  rotate: false
+  xy: 340, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_wav_lc_2414_6_0.png
   rotate: false
   xy: 2, 4
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wav_lc_2415_7_1.png
+jacket_F_fur1_h_wav_lc_2414_7_1.png
   rotate: false
-  xy: 249, 13
+  xy: 149, 10
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wav_lc_2416_0_1.png
+jacket_F_fur1_h_wav_lc_2415_0_0.png
+  rotate: false
+  xy: 351, 47
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_wav_lc_2415_4_1.png
+  rotate: false
+  xy: 332, 15
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_wav_lc_2415_7_0.png
+  rotate: false
+  xy: 229, 12
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_wav_lc_2416_0_0.png
   rotate: false
   xy: 447, 49
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wav_lc_2416_3_0.png
+jacket_F_fur1_h_wav_lc_2416_3_1.png
   rotate: false
   xy: 434, 32
   size: 5, 14
@@ -515,116 +522,74 @@ jacket_F_fur1_h_wav_lc_2416_5_0.png
   orig: 14, 8
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wav_lc_2416_6_1.png
+jacket_F_fur1_h_wav_lc_2416_6_0.png
   rotate: false
   xy: 437, 49
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wav_lc_2416_7_0.png
+jacket_F_fur1_h_wav_lc_2416_7_1.png
   rotate: false
   xy: 450, 34
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wlk_lc_2414_0_2.png
+jacket_F_fur1_h_wlk_lc_2414_0_0.png
   rotate: false
-  xy: 388, 15
+  xy: 384, 47
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_wlk_lc_2414_0_3.png
   rotate: false
-  xy: 373, 47
+  xy: 357, 15
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_wlk_lc_2414_3_0.png
   rotate: false
-  xy: 189, 11
+  xy: 159, 10
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_wlk_lc_2414_3_1.png
   rotate: false
-  xy: 199, 11
+  xy: 179, 10
   size: 8, 16
   orig: 8, 16
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_wlk_lc_2415_0_0.png
-  rotate: false
-  xy: 378, 15
-  size: 8, 15
-  orig: 8, 15
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_wlk_lc_2415_0_3.png
   rotate: false
-  xy: 362, 47
+  xy: 373, 47
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wlk_lc_2415_2_0.png
+jacket_F_fur1_h_wlk_lc_2415_3_3.png
   rotate: false
-  xy: 427, 48
-  size: 8, 14
-  orig: 8, 14
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_wlk_lc_2415_3_1.png
-  rotate: false
-  xy: 159, 10
+  xy: 209, 11
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wlk_lc_2416_0_3.png
+jacket_F_fur1_h_wlk_lc_2416_0_2.png
   rotate: false
-  xy: 456, 49
+  xy: 451, 19
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
-jacket_F_fur1_h_wlk_lc_2416_1_3.png
+jacket_F_fur1_h_wlk_lc_2416_1_0.png
   rotate: false
   xy: 255, 3
   size: 13, 8
   orig: 13, 8
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_wlk_rc_2414_0_1.png
-  rotate: false
-  xy: 411, 2
-  size: 15, 12
-  orig: 15, 12
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_wlk_rc_2414_0_3.png
-  rotate: false
-  xy: 298, 14
-  size: 15, 15
-  orig: 15, 15
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_wlk_rc_2414_1_1.png
-  rotate: false
-  xy: 394, 2
-  size: 15, 11
-  orig: 15, 11
-  offset: 0, 0
-  index: -1
-jacket_F_fur1_h_wlk_rc_2414_1_3.png
-  rotate: false
-  xy: 340, 2
-  size: 16, 11
-  orig: 16, 11
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_wlk_rc_2414_2_1.png
@@ -636,7 +601,7 @@ jacket_F_fur1_h_wlk_rc_2414_2_1.png
   index: -1
 jacket_F_fur1_h_wlk_rc_2414_2_2.png
   rotate: false
-  xy: 411, 48
+  xy: 418, 32
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
@@ -650,16 +615,44 @@ jacket_F_fur1_h_wlk_rc_2414_2_3.png
   index: -1
 jacket_F_fur1_h_wlk_rc_2414_3_1.png
   rotate: false
-  xy: 179, 10
+  xy: 239, 13
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_wlk_rc_2414_3_3.png
   rotate: false
-  xy: 169, 10
+  xy: 249, 13
   size: 8, 16
   orig: 8, 16
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_wlk_rc_2414_7_3.png
+  rotate: false
+  xy: 50, 6
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_wlk_rc_2415_0_0.png
+  rotate: false
+  xy: 298, 14
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_wlk_rc_2415_0_1.png
+  rotate: false
+  xy: 411, 2
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_wlk_rc_2415_1_1.png
+  rotate: false
+  xy: 394, 2
+  size: 15, 11
+  orig: 15, 11
   offset: 0, 0
   index: -1
 jacket_F_fur1_h_wlk_rc_2415_3_3.png
@@ -688,5 +681,12 @@ jacket_F_fur1_h_wlk_rc_2416_2_3.png
   xy: 315, 2
   size: 12, 10
   orig: 12, 10
+  offset: 0, 0
+  index: -1
+jacket_F_fur1_h_wlk_rc_2416_3_0.png
+  rotate: false
+  xy: 456, 49
+  size: 5, 13
+  orig: 5, 13
   offset: 0, 0
   index: -1

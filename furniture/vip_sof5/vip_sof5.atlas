@@ -1,0 +1,62 @@
+
+vip_sof5.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vip_sof5_vip_sof5_32_f_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+vip_sof5_vip_sof5_32_f_2_0.png
+  rotate: false
+  xy: 72, 12
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+vip_sof5_vip_sof5_32_f_2_0.png
+  rotate: false
+  xy: 107, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+vip_sof5_vip_sof5_64_a_6_0.png
+  rotate: false
+  xy: 2, 5
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+vip_sof5_vip_sof5_64_b_6_0.png
+  rotate: false
+  xy: 131, 79
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+vip_sof5_vip_sof5_64_e_6_0.png
+  rotate: false
+  xy: 72, 15
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+vip_sof5_vip_sof5_64_f_6_0.png
+  rotate: false
+  xy: 192, 78
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+vip_sof5_vip_sof5_64_sd_0_0.png
+  rotate: false
+  xy: 2, 58
+  size: 127, 61
+  orig: 127, 61
+  offset: 0, 0
+  index: -1

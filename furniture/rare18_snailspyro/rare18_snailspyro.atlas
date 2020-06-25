@@ -1,0 +1,27 @@
+
+rare18_snailspyro.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare18_snailspyro_rare18_snailspyro_64_a_2_0.png
+  rotate: false
+  xy: 2, 31
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+rare18_snailspyro_rare18_snailspyro_64_sd_2_0.png
+  rotate: false
+  xy: 66, 82
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+rare18_snailspyro_rare18_snailspyro_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1

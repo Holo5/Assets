@@ -1,0 +1,55 @@
+
+petites_plantes2_frogg.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+petites_plantes2_frogg_petites_plantes2_frogg_64_a_2_0.png
+  rotate: false
+  xy: 146, 18
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+petites_plantes2_frogg_petites_plantes2_frogg_64_a_2_1.png
+  rotate: false
+  xy: 120, 17
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+petites_plantes2_frogg_petites_plantes2_frogg_64_a_2_2.png
+  rotate: false
+  xy: 64, 13
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+petites_plantes2_frogg_petites_plantes2_frogg_64_a_2_3.png
+  rotate: false
+  xy: 2, 9
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+petites_plantes2_frogg_petites_plantes2_frogg_64_a_2_4.png
+  rotate: false
+  xy: 35, 10
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+petites_plantes2_frogg_petites_plantes2_frogg_64_a_2_5.png
+  rotate: false
+  xy: 95, 2
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+petites_plantes2_frogg_petites_plantes2_frogg_icon_a.png
+  rotate: false
+  xy: 172, 26
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1

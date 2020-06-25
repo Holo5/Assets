@@ -1,0 +1,41 @@
+
+bylacrapul_plateau1.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bylacrapul_plateau1_bylacrapul_plateau1_64_a_2_0.png
+  rotate: false
+  xy: 68, 34
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+bylacrapul_plateau1_bylacrapul_plateau1_64_a_2_1.png
+  rotate: false
+  xy: 2, 34
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+bylacrapul_plateau1_bylacrapul_plateau1_64_a_2_2.png
+  rotate: false
+  xy: 200, 34
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+bylacrapul_plateau1_bylacrapul_plateau1_64_a_2_3.png
+  rotate: false
+  xy: 134, 34
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+bylacrapul_plateau1_bylacrapul_plateau1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

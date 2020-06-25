@@ -1,0 +1,34 @@
+
+pociones_weyko.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pociones_weyko_pociones_weyko_64_a_0_0.png
+  rotate: false
+  xy: 2, 37
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+pociones_weyko_pociones_weyko_64_a_0_1.png
+  rotate: false
+  xy: 59, 37
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+pociones_weyko_pociones_weyko_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+pociones_weyko_pociones_weyko_icon_a.png
+  rotate: false
+  xy: 70, 6
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

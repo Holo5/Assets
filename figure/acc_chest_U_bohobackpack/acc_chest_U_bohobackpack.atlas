@@ -32,6 +32,13 @@ acc_chest_U_bohobackpack_h_std_ca_3392_2_0.png
   orig: 9, 26
   offset: 0, 0
   index: -1
+acc_chest_U_bohobackpack_h_std_ca_3392_3_0.png
+  rotate: false
+  xy: 2, 19
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 acc_chest_U_bohobackpack_h_std_ca_3392_7_0.png
   rotate: false
   xy: 134, 32
@@ -41,7 +48,7 @@ acc_chest_U_bohobackpack_h_std_ca_3392_7_0.png
   index: -1
 acc_chest_U_bohobackpack_h_std_ca_3393_0_0.png
   rotate: false
-  xy: 103, 19
+  xy: 69, 19
   size: 29, 43
   orig: 29, 43
   offset: 0, 0
@@ -55,7 +62,7 @@ acc_chest_U_bohobackpack_h_std_ca_3393_1_0.png
   index: -1
 acc_chest_U_bohobackpack_h_std_ca_3393_2_0.png
   rotate: false
-  xy: 69, 26
+  xy: 100, 26
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
@@ -76,7 +83,7 @@ acc_chest_U_bohobackpack_h_std_ca_3393_7_0.png
   index: -1
 acc_chest_U_bohobackpack_h_std_ca_3394_0_0.png
   rotate: false
-  xy: 65, 2
+  xy: 195, 24
   size: 25, 19
   orig: 25, 19
   offset: 0, 0
@@ -90,16 +97,9 @@ acc_chest_U_bohobackpack_h_std_ca_3394_1_0.png
   index: -1
 acc_chest_U_bohobackpack_h_std_ca_3394_2_0.png
   rotate: false
-  xy: 2, 16
+  xy: 188, 26
   size: 5, 4
   orig: 5, 4
-  offset: 0, 0
-  index: -1
-acc_chest_U_bohobackpack_h_std_ca_3394_3_0.png
-  rotate: false
-  xy: 69, 23
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 acc_chest_U_bohobackpack_h_std_ca_3394_7_0.png

@@ -1,0 +1,69 @@
+
+fu_fouhu_holoheart.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fu_fouhu_holoheart_fu_fouhu_holoheart_64_a_0_0.png
+  rotate: false
+  xy: 2, 135
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+fu_fouhu_holoheart_fu_fouhu_holoheart_64_a_0_1.png
+  rotate: false
+  xy: 2, 101
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+fu_fouhu_holoheart_fu_fouhu_holoheart_64_b_0_0.png
+  rotate: false
+  xy: 44, 132
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fu_fouhu_holoheart_fu_fouhu_holoheart_64_b_0_1.png
+  rotate: false
+  xy: 33, 30
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+fu_fouhu_holoheart_fu_fouhu_holoheart_64_b_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fu_fouhu_holoheart_fu_fouhu_holoheart_64_b_0_3.png
+  rotate: false
+  xy: 38, 219
+  size: 6, 31
+  orig: 6, 31
+  offset: 0, 0
+  index: -1
+fu_fouhu_holoheart_fu_fouhu_holoheart_64_b_0_4.png
+  rotate: false
+  xy: 2, 30
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+fu_fouhu_holoheart_fu_fouhu_holoheart_64_c_0_1.png
+  rotate: false
+  xy: 2, 183
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+fu_fouhu_holoheart_fu_fouhu_holoheart_icon_a.png
+  rotate: false
+  xy: 2, 61
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1

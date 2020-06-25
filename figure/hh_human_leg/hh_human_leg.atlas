@@ -6,574 +6,574 @@ filter: Nearest,Nearest
 repeat: none
 hh_human_leg_h_lay_lg_1007_2_0.png
   rotate: false
-  xy: 3965, 9
+  xy: 750, 2
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 hh_human_leg_h_lay_lg_1_2_0.png
   rotate: false
-  xy: 983, 37
+  xy: 904, 37
   size: 31, 25
   orig: 31, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_lay_lg_200_2_0.png
   rotate: false
-  xy: 1081, 38
+  xy: 1002, 38
   size: 30, 24
   orig: 30, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_lay_lg_201_2_0.png
   rotate: false
-  xy: 1339, 40
+  xy: 1315, 40
   size: 28, 22
   orig: 28, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_lay_lg_2_2_0.png
   rotate: false
-  xy: 1369, 40
+  xy: 1285, 40
   size: 28, 22
   orig: 28, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_lay_lg_3_2_0.png
   rotate: false
-  xy: 1016, 37
+  xy: 937, 37
   size: 31, 25
   orig: 31, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_lay_lg_4_2_0.png
   rotate: false
-  xy: 1049, 36
+  xy: 970, 36
   size: 30, 26
   orig: 30, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_lay_lg_5_2_0.png
   rotate: false
-  xy: 1399, 40
+  xy: 1255, 40
   size: 28, 22
   orig: 28, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_lay_lg_6_2_0.png
   rotate: false
-  xy: 1113, 38
+  xy: 1034, 38
   size: 29, 24
   orig: 29, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_lay_lg_7_2_0.png
   rotate: false
-  xy: 1429, 40
+  xy: 1435, 40
   size: 26, 22
   orig: 26, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_1007_0_0.png
   rotate: false
-  xy: 3093, 48
+  xy: 2921, 48
   size: 29, 14
   orig: 29, 14
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_1007_2_0.png
   rotate: false
-  xy: 3865, 2
+  xy: 853, 21
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_1_0_0.png
   rotate: false
-  xy: 267, 37
+  xy: 375, 37
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_1_2_0.png
   rotate: false
-  xy: 741, 40
+  xy: 664, 40
   size: 32, 22
   orig: 32, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_200_0_0.png
   rotate: false
-  xy: 230, 37
+  xy: 300, 37
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_200_2_0.png
   rotate: false
-  xy: 775, 40
+  xy: 630, 40
   size: 32, 22
   orig: 32, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_201_0_0.png
   rotate: false
-  xy: 1578, 42
+  xy: 1225, 42
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_201_2_0.png
   rotate: false
-  xy: 1243, 42
+  xy: 1098, 42
   size: 31, 20
   orig: 31, 20
   offset: 0, 0
   index: -1
-hh_human_leg_h_sit_lg_2_0_0.png
-  rotate: false
-  xy: 1309, 42
-  size: 28, 20
-  orig: 28, 20
-  offset: 0, 0
-  index: -1
 hh_human_leg_h_sit_lg_2_2_0.png
   rotate: false
-  xy: 1276, 42
+  xy: 1065, 42
   size: 31, 20
   orig: 31, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_3_0_0.png
   rotate: false
-  xy: 341, 37
+  xy: 191, 37
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_3_2_0.png
   rotate: false
-  xy: 843, 40
+  xy: 698, 40
   size: 32, 22
   orig: 32, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_4_0_0.png
   rotate: false
-  xy: 78, 10
+  xy: 116, 37
   size: 36, 25
   orig: 36, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_4_2_0.png
   rotate: false
-  xy: 596, 38
+  xy: 521, 38
   size: 33, 24
   orig: 33, 24
   offset: 0, 0
   index: -1
+hh_human_leg_h_sit_lg_5_0_0.png
+  rotate: false
+  xy: 1345, 42
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
 hh_human_leg_h_sit_lg_5_2_0.png
   rotate: false
-  xy: 1210, 42
+  xy: 1131, 42
   size: 31, 20
   orig: 31, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_6_0_0.png
   rotate: false
-  xy: 304, 37
+  xy: 412, 37
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_6_2_0.png
   rotate: false
-  xy: 809, 40
+  xy: 264, 12
   size: 32, 22
   orig: 32, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_7_0_0.png
   rotate: false
-  xy: 1177, 41
+  xy: 838, 41
   size: 31, 21
   orig: 31, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_sit_lg_7_2_0.png
   rotate: false
-  xy: 949, 42
+  xy: 804, 42
   size: 32, 20
   orig: 32, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_1007_0_0.png
   rotate: false
-  xy: 402, 2
+  xy: 1275, 2
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_1007_1_0.png
   rotate: false
-  xy: 575, 5
+  xy: 767, 12
   size: 13, 5
   orig: 13, 5
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_1007_2_0.png
   rotate: false
-  xy: 3592, 4
+  xy: 1298, 2
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_1007_3_0.png
   rotate: false
-  xy: 3395, 2
+  xy: 3258, 29
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_1007_7_0.png
   rotate: false
-  xy: 3884, 27
+  xy: 3106, 27
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_1_0_0.png
   rotate: false
-  xy: 2520, 36
+  xy: 2471, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_1_1_0.png
   rotate: false
-  xy: 4065, 22
+  xy: 3317, 20
   size: 15, 19
   orig: 15, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_1_2_0.png
   rotate: false
-  xy: 2688, 36
+  xy: 2663, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_1_3_0.png
   rotate: false
-  xy: 3788, 42
+  xy: 3772, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_1_7_0.png
   rotate: false
-  xy: 3613, 42
+  xy: 3722, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_200_0_0.png
   rotate: false
-  xy: 2544, 36
+  xy: 2519, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_200_1_0.png
   rotate: false
-  xy: 191, 2
+  xy: 1388, 17
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_200_2_0.png
   rotate: false
-  xy: 2472, 36
+  xy: 2495, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_200_3_0.png
   rotate: false
-  xy: 3288, 42
+  xy: 3422, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_200_7_0.png
   rotate: false
-  xy: 3738, 42
+  xy: 3522, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_201_0_0.png
   rotate: false
-  xy: 428, 17
+  xy: 970, 16
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_201_1_0.png
   rotate: false
-  xy: 3456, 2
+  xy: 1474, 2
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_201_2_0.png
   rotate: false
-  xy: 3627, 21
+  xy: 1163, 4
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_201_3_0.png
   rotate: false
-  xy: 3840, 12
+  xy: 1426, 25
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_201_7_0.png
   rotate: false
-  xy: 3567, 4
+  xy: 920, 21
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_2_0_0.png
   rotate: false
-  xy: 551, 17
+  xy: 829, 21
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
   index: -1
+hh_human_leg_h_std_lg_2_1_0.png
+  rotate: false
+  xy: 2971, 30
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
 hh_human_leg_h_std_lg_2_2_0.png
   rotate: false
-  xy: 353, 16
+  xy: 718, 19
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_2_3_0.png
   rotate: false
-  xy: 475, 2
+  xy: 3037, 15
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_2_7_0.png
   rotate: false
-  xy: 377, 2
+  xy: 895, 21
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_3_0_0.png
   rotate: false
-  xy: 2784, 36
+  xy: 2639, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_3_1_0.png
   rotate: false
-  xy: 172, 2
+  xy: 549, 12
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_3_2_0.png
   rotate: false
-  xy: 2424, 36
+  xy: 2543, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_3_3_0.png
   rotate: false
-  xy: 3638, 42
+  xy: 3697, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_3_7_0.png
   rotate: false
-  xy: 3838, 42
+  xy: 3747, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_4_0_0.png
   rotate: false
-  xy: 1717, 36
+  xy: 1679, 36
   size: 24, 26
   orig: 24, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_4_1_0.png
   rotate: false
-  xy: 3076, 2
+  xy: 763, 19
   size: 17, 22
   orig: 17, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_4_2_0.png
   rotate: false
-  xy: 1769, 36
+  xy: 1653, 36
   size: 24, 26
   orig: 24, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_4_3_0.png
   rotate: false
-  xy: 2140, 41
+  xy: 2090, 41
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_4_7_0.png
   rotate: false
-  xy: 2059, 41
+  xy: 2063, 41
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_5_0_0.png
   rotate: false
-  xy: 527, 17
+  xy: 1187, 2
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
   index: -1
-hh_human_leg_h_std_lg_5_1_0.png
-  rotate: false
-  xy: 3474, 2
-  size: 16, 16
-  orig: 16, 16
-  offset: 0, 0
-  index: -1
 hh_human_leg_h_std_lg_5_2_0.png
   rotate: false
-  xy: 329, 16
+  xy: 1253, 19
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_5_3_0.png
   rotate: false
-  xy: 3790, 27
+  xy: 3037, 30
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_5_7_0.png
   rotate: false
-  xy: 3542, 4
+  xy: 1250, 2
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_6_0_0.png
   rotate: false
-  xy: 2736, 36
+  xy: 2591, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_6_1_0.png
   rotate: false
-  xy: 3982, 5
+  xy: 3300, 20
   size: 15, 19
   orig: 15, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_6_2_0.png
   rotate: false
-  xy: 2808, 36
+  xy: 2615, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_6_3_0.png
   rotate: false
-  xy: 3263, 42
+  xy: 3497, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_6_7_0.png
   rotate: false
-  xy: 3713, 42
+  xy: 3147, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_7_0_0.png
   rotate: false
-  xy: 3095, 2
+  xy: 337, 15
   size: 22, 21
   orig: 22, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_7_1_0.png
   rotate: false
-  xy: 3865, 22
+  xy: 1215, 22
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_7_2_0.png
   rotate: false
-  xy: 2005, 39
+  xy: 2276, 39
   size: 24, 23
   orig: 24, 23
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_7_3_0.png
   rotate: false
-  xy: 477, 17
+  xy: 782, 2
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_std_lg_7_7_0.png
   rotate: false
-  xy: 3280, 24
+  xy: 568, 2
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_0_0.png
   rotate: false
-  xy: 3884, 11
+  xy: 3172, 25
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_0_1.png
   rotate: false
-  xy: 2949, 28
+  xy: 2983, 50
   size: 27, 12
   orig: 27, 12
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_0_2.png
   rotate: false
-  xy: 4024, 26
+  xy: 3194, 25
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_0_3.png
   rotate: false
-  xy: 3652, 5
+  xy: 3154, 26
   size: 16, 14
   orig: 16, 14
   offset: 0, 0
@@ -587,665 +587,665 @@ hh_human_leg_h_wlk_lg_1007_1_0.png
   index: -1
 hh_human_leg_h_wlk_lg_1007_1_1.png
   rotate: false
-  xy: 175, 29
+  xy: 190, 2
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_1_2.png
   rotate: false
-  xy: 3690, 7
+  xy: 213, 6
   size: 15, 3
   orig: 15, 3
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_1_3.png
   rotate: false
-  xy: 328, 5
+  xy: 1006, 5
   size: 22, 9
   orig: 22, 9
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_2_0.png
   rotate: false
-  xy: 3908, 27
+  xy: 3130, 27
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_2_1.png
   rotate: false
-  xy: 3906, 12
+  xy: 3216, 26
   size: 19, 13
   orig: 19, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_2_2.png
   rotate: false
-  xy: 304, 2
+  xy: 982, 2
   size: 22, 12
   orig: 22, 12
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_2_3.png
   rotate: false
-  xy: 3124, 48
+  xy: 2952, 48
   size: 29, 14
   orig: 29, 14
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_3_0.png
   rotate: false
-  xy: 352, 5
+  xy: 3279, 30
   size: 19, 9
   orig: 19, 9
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_3_1.png
   rotate: false
-  xy: 154, 28
+  xy: 264, 2
   size: 19, 8
   orig: 19, 8
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_3_2.png
   rotate: false
-  xy: 3416, 2
+  xy: 482, 2
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_3_3.png
   rotate: false
-  xy: 877, 31
+  xy: 3237, 29
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_7_0.png
   rotate: false
-  xy: 3932, 27
+  xy: 2989, 35
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_7_1.png
   rotate: false
-  xy: 3955, 26
+  xy: 1321, 2
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_7_2.png
   rotate: false
-  xy: 3978, 26
+  xy: 1344, 2
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1007_7_3.png
   rotate: false
-  xy: 4001, 27
+  xy: 2989, 20
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_0_0.png
   rotate: false
-  xy: 2349, 38
+  xy: 2302, 38
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_0_1.png
   rotate: false
-  xy: 192, 38
+  xy: 337, 38
   size: 36, 24
   orig: 36, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_0_2.png
   rotate: false
-  xy: 2712, 36
+  xy: 2567, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_0_3.png
   rotate: false
-  xy: 2856, 37
+  xy: 2734, 37
   size: 22, 25
   orig: 22, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_1_0.png
   rotate: false
-  xy: 3276, 2
+  xy: 1369, 20
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_1_1.png
   rotate: false
-  xy: 704, 41
+  xy: 593, 41
   size: 35, 21
   orig: 35, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_1_2.png
   rotate: false
-  xy: 3651, 21
+  xy: 3062, 21
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_1_3.png
   rotate: false
-  xy: 913, 43
+  xy: 768, 43
   size: 34, 19
   orig: 34, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_2_0.png
   rotate: false
-  xy: 1876, 38
+  xy: 1804, 38
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_2_1.png
   rotate: false
-  xy: 2568, 35
+  xy: 2327, 35
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_2_2.png
   rotate: false
-  xy: 1743, 36
+  xy: 1627, 36
   size: 24, 26
   orig: 24, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_2_3.png
   rotate: false
-  xy: 2, 37
+  xy: 2, 10
   size: 36, 25
   orig: 36, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_3_0.png
   rotate: false
-  xy: 3370, 2
+  xy: 4052, 43
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_3_1.png
   rotate: false
-  xy: 3463, 41
+  xy: 3222, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_3_2.png
   rotate: false
-  xy: 3433, 20
+  xy: 457, 16
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_3_3.png
   rotate: false
-  xy: 3488, 41
+  xy: 3247, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_7_0.png
   rotate: false
-  xy: 279, 16
+  xy: 693, 19
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_7_1.png
   rotate: false
-  xy: 3863, 42
+  xy: 3647, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_7_2.png
   rotate: false
-  xy: 304, 16
+  xy: 945, 16
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_1_7_3.png
   rotate: false
-  xy: 3888, 42
+  xy: 3672, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_0_0.png
   rotate: false
-  xy: 2374, 38
+  xy: 1933, 38
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_0_1.png
   rotate: false
-  xy: 378, 37
+  xy: 153, 10
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_0_2.png
   rotate: false
-  xy: 2760, 36
+  xy: 1780, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_0_3.png
   rotate: false
-  xy: 2903, 37
+  xy: 2781, 37
   size: 21, 25
   orig: 21, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_1_0.png
   rotate: false
-  xy: 3414, 14
+  xy: 318, 10
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_1_1.png
   rotate: false
-  xy: 488, 36
+  xy: 264, 36
   size: 34, 26
   orig: 34, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_1_2.png
   rotate: false
-  xy: 210, 2
+  xy: 1407, 17
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_1_3.png
   rotate: false
-  xy: 560, 37
+  xy: 485, 37
   size: 34, 25
   orig: 34, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_2_0.png
   rotate: false
-  xy: 1954, 38
+  xy: 1856, 38
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_2_1.png
   rotate: false
-  xy: 2664, 35
+  xy: 2399, 35
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_2_2.png
   rotate: false
-  xy: 1690, 36
+  xy: 1600, 36
   size: 25, 26
   orig: 25, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_2_3.png
   rotate: false
-  xy: 116, 37
+  xy: 78, 37
   size: 36, 25
   orig: 36, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_3_0.png
   rotate: false
-  xy: 3508, 20
+  xy: 1038, 17
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_3_1.png
   rotate: false
-  xy: 3538, 41
+  xy: 3322, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_3_2.png
   rotate: false
-  xy: 3483, 20
+  xy: 1063, 6
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_3_3.png
   rotate: false
-  xy: 3513, 41
+  xy: 3347, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_7_0.png
   rotate: false
-  xy: 3107, 27
+  xy: 618, 19
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_7_1.png
   rotate: false
-  xy: 3313, 42
+  xy: 3572, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_7_2.png
   rotate: false
-  xy: 4057, 43
+  xy: 568, 20
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_200_7_3.png
   rotate: false
-  xy: 3338, 42
+  xy: 3547, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_0_0.png
   rotate: false
-  xy: 3583, 20
+  xy: 1113, 6
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_0_1.png
   rotate: false
-  xy: 3063, 45
+  xy: 2891, 45
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_0_2.png
   rotate: false
-  xy: 3167, 2
+  xy: 1301, 18
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_0_3.png
   rotate: false
-  xy: 3235, 2
+  xy: 1347, 20
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_1_0.png
   rotate: false
-  xy: 3437, 2
+  xy: 1231, 2
   size: 17, 16
   orig: 17, 16
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_1_1.png
   rotate: false
-  xy: 377, 18
+  xy: 3924, 45
   size: 24, 17
   orig: 24, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_1_2.png
   rotate: false
-  xy: 3946, 9
+  xy: 712, 2
   size: 17, 15
   orig: 17, 15
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_1_3.png
   rotate: false
-  xy: 3055, 26
+  xy: 3039, 45
   size: 25, 17
   orig: 25, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_2_0.png
   rotate: false
-  xy: 3961, 42
+  xy: 433, 15
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_2_1.png
   rotate: false
-  xy: 3985, 42
+  xy: 409, 15
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_2_2.png
   rotate: false
-  xy: 2220, 40
+  xy: 2250, 40
   size: 24, 22
   orig: 24, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_2_3.png
   rotate: false
-  xy: 1518, 43
+  xy: 1405, 43
   size: 28, 19
   orig: 28, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_3_0.png
   rotate: false
-  xy: 450, 2
+  xy: 3081, 27
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_3_1.png
   rotate: false
-  xy: 229, 2
+  xy: 957, 2
   size: 23, 12
   orig: 23, 12
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_3_2.png
   rotate: false
-  xy: 425, 2
+  xy: 3012, 15
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_3_3.png
   rotate: false
-  xy: 2978, 25
+  xy: 668, 2
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_7_0.png
   rotate: false
-  xy: 3715, 27
-  size: 23, 13
-  orig: 23, 13
-  offset: 0, 0
-  index: -1
-hh_human_leg_h_wlk_lg_201_7_1.png
-  rotate: false
-  xy: 3690, 12
+  xy: 1411, 2
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_201_7_2.png
   rotate: false
-  xy: 3715, 12
+  xy: 1386, 2
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+hh_human_leg_h_wlk_lg_201_7_3.png
+  rotate: false
+  xy: 1140, 27
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_0_0.png
   rotate: false
-  xy: 3155, 24
+  xy: 1088, 6
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_0_1.png
   rotate: false
-  xy: 3003, 45
+  xy: 2861, 45
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_0_2.png
   rotate: false
-  xy: 3119, 2
+  xy: 1277, 18
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_0_3.png
   rotate: false
-  xy: 3191, 2
+  xy: 1325, 18
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_1_0.png
   rotate: false
-  xy: 3357, 23
+  xy: 1455, 2
   size: 17, 16
   orig: 17, 16
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_1_1.png
   rotate: false
-  xy: 3305, 23
+  xy: 3976, 45
   size: 24, 17
   orig: 24, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_1_2.png
   rotate: false
-  xy: 4046, 25
+  xy: 731, 2
   size: 17, 15
   orig: 17, 15
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_1_3.png
   rotate: false
-  xy: 3155, 45
+  xy: 3897, 45
   size: 25, 17
   orig: 25, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_2_0.png
   rotate: false
-  xy: 3913, 42
+  xy: 385, 15
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_2_1.png
   rotate: false
-  xy: 3937, 42
+  xy: 361, 15
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_2_2.png
   rotate: false
-  xy: 2194, 40
+  xy: 2224, 40
   size: 24, 22
   orig: 24, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_2_3.png
   rotate: false
-  xy: 1488, 43
+  xy: 1375, 43
   size: 28, 19
   orig: 28, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_3_0.png
   rotate: false
-  xy: 525, 2
+  xy: 2946, 33
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_3_1.png
   rotate: false
-  xy: 254, 2
+  xy: 932, 2
   size: 23, 12
   orig: 23, 12
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_3_2.png
   rotate: false
-  xy: 500, 2
+  xy: 2921, 33
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_3_3.png
   rotate: false
-  xy: 3492, 3
+  xy: 643, 2
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_7_0.png
   rotate: false
-  xy: 3765, 27
+  xy: 1090, 27
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_7_1.png
   rotate: false
-  xy: 3740, 27
+  xy: 524, 2
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_7_2.png
   rotate: false
-  xy: 3740, 12
+  xy: 1038, 2
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_2_7_3.png
   rotate: false
-  xy: 3765, 12
+  xy: 2804, 27
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_0_0.png
   rotate: false
-  xy: 1980, 38
+  xy: 1908, 38
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
@@ -1259,686 +1259,686 @@ hh_human_leg_h_wlk_lg_3_0_1.png
   index: -1
 hh_human_leg_h_wlk_lg_3_0_2.png
   rotate: false
-  xy: 2448, 36
+  xy: 1756, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_0_3.png
   rotate: false
-  xy: 2880, 37
+  xy: 2758, 37
   size: 21, 25
   orig: 21, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_1_0.png
   rotate: false
-  xy: 3395, 14
+  xy: 4077, 37
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_1_1.png
   rotate: false
-  xy: 452, 36
+  xy: 228, 36
   size: 34, 26
   orig: 34, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_1_2.png
   rotate: false
-  xy: 153, 2
+  xy: 505, 11
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_1_3.png
   rotate: false
-  xy: 524, 37
+  xy: 449, 37
   size: 34, 25
   orig: 34, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_2_0.png
   rotate: false
-  xy: 1928, 38
+  xy: 1830, 38
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_2_1.png
   rotate: false
-  xy: 2640, 35
+  xy: 2351, 35
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_2_2.png
   rotate: false
-  xy: 1663, 36
+  xy: 1546, 36
   size: 25, 26
   orig: 25, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_2_3.png
   rotate: false
-  xy: 40, 10
+  xy: 40, 37
   size: 36, 25
   orig: 36, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_3_0.png
   rotate: false
-  xy: 229, 16
+  xy: 593, 20
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_3_1.png
   rotate: false
-  xy: 3563, 41
+  xy: 3297, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_3_2.png
   rotate: false
-  xy: 254, 16
+  xy: 524, 17
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_3_3.png
   rotate: false
-  xy: 3588, 41
+  xy: 3272, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_7_0.png
   rotate: false
-  xy: 3320, 2
+  xy: 668, 19
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_7_1.png
   rotate: false
-  xy: 3663, 42
+  xy: 3622, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_7_2.png
   rotate: false
-  xy: 3345, 2
+  xy: 643, 19
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_3_7_3.png
   rotate: false
-  xy: 3688, 42
+  xy: 3597, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_0_0.png
   rotate: false
-  xy: 1849, 38
+  xy: 1519, 38
   size: 25, 24
   orig: 25, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_0_1.png
   rotate: false
-  xy: 78, 37
+  xy: 2, 37
   size: 36, 25
   orig: 36, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_0_2.png
   rotate: false
-  xy: 2399, 36
+  xy: 1731, 36
   size: 23, 26
   orig: 23, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_0_3.png
   rotate: false
-  xy: 2926, 36
+  xy: 2687, 36
   size: 21, 26
   orig: 21, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_1_0.png
   rotate: false
-  xy: 575, 12
+  xy: 298, 2
   size: 18, 23
   orig: 18, 23
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_1_1.png
   rotate: false
-  xy: 415, 37
+  xy: 154, 37
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_1_2.png
   rotate: false
-  xy: 3055, 2
+  xy: 742, 19
   size: 19, 22
   orig: 19, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_1_3.png
   rotate: false
-  xy: 631, 39
+  xy: 228, 11
   size: 34, 23
   orig: 34, 23
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_2_0.png
   rotate: false
-  xy: 1608, 38
+  xy: 1491, 38
   size: 26, 24
   orig: 26, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_2_1.png
   rotate: false
-  xy: 2616, 35
+  xy: 2375, 35
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_2_2.png
   rotate: false
-  xy: 1636, 36
+  xy: 1573, 36
   size: 25, 26
   orig: 25, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_2_3.png
   rotate: false
-  xy: 40, 37
+  xy: 40, 10
   size: 36, 25
   orig: 36, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_3_0.png
   rotate: false
-  xy: 3236, 42
+  xy: 3120, 42
   size: 25, 20
   orig: 25, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_3_1.png
   rotate: false
-  xy: 2167, 41
+  xy: 2171, 41
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_3_2.png
   rotate: false
-  xy: 3209, 42
+  xy: 3093, 42
   size: 25, 20
   orig: 25, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_3_3.png
   rotate: false
-  xy: 2031, 41
+  xy: 2035, 41
   size: 26, 21
   orig: 26, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_7_0.png
   rotate: false
-  xy: 2976, 42
+  xy: 3066, 42
   size: 25, 20
   orig: 25, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_7_1.png
   rotate: false
-  xy: 2113, 41
+  xy: 2144, 41
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_7_2.png
   rotate: false
-  xy: 2949, 42
+  xy: 2804, 42
   size: 25, 20
   orig: 25, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_4_7_3.png
   rotate: false
-  xy: 2086, 41
+  xy: 2117, 41
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_0_0.png
   rotate: false
-  xy: 3458, 20
+  xy: 804, 21
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_0_1.png
   rotate: false
-  xy: 3033, 45
+  xy: 2831, 45
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_0_2.png
   rotate: false
-  xy: 3143, 2
+  xy: 1014, 16
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_0_3.png
   rotate: false
-  xy: 3213, 2
+  xy: 782, 21
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_1_0.png
   rotate: false
-  xy: 3376, 23
+  xy: 1367, 2
   size: 17, 16
   orig: 17, 16
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_1_1.png
   rotate: false
-  xy: 3331, 23
+  xy: 3950, 45
   size: 24, 17
   orig: 24, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_1_2.png
   rotate: false
-  xy: 3927, 10
+  xy: 693, 2
   size: 17, 15
   orig: 17, 15
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_1_3.png
   rotate: false
-  xy: 3182, 45
+  xy: 3012, 45
   size: 25, 17
   orig: 25, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_2_0.png
   rotate: false
-  xy: 4033, 42
+  xy: 3821, 42
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_2_1.png
   rotate: false
-  xy: 4009, 42
+  xy: 3797, 42
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_2_2.png
   rotate: false
-  xy: 2246, 40
+  xy: 2198, 40
   size: 24, 22
   orig: 24, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_2_3.png
   rotate: false
-  xy: 1548, 43
+  xy: 1195, 43
   size: 28, 19
   orig: 28, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_3_0.png
   rotate: false
-  xy: 550, 2
+  xy: 1115, 27
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_3_1.png
   rotate: false
-  xy: 279, 2
+  xy: 457, 2
   size: 23, 12
   orig: 23, 12
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_3_2.png
   rotate: false
-  xy: 3690, 27
+  xy: 1065, 27
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_3_3.png
   rotate: false
-  xy: 3517, 3
+  xy: 618, 2
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_7_0.png
   rotate: false
-  xy: 3790, 12
+  xy: 2881, 30
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_7_1.png
   rotate: false
-  xy: 3815, 27
+  xy: 3012, 30
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_7_2.png
   rotate: false
-  xy: 3815, 12
+  xy: 2831, 30
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_5_7_3.png
   rotate: false
-  xy: 3840, 27
+  xy: 2856, 30
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_0_0.png
   rotate: false
-  xy: 2324, 38
+  xy: 1958, 38
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_0_1.png
   rotate: false
-  xy: 154, 38
+  xy: 190, 11
   size: 36, 24
   orig: 36, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_0_2.png
   rotate: false
-  xy: 2496, 36
+  xy: 2447, 36
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_0_3.png
   rotate: false
-  xy: 2832, 37
+  xy: 2710, 37
   size: 22, 25
   orig: 22, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_1_0.png
   rotate: false
-  xy: 3257, 2
+  xy: 1234, 20
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_1_1.png
   rotate: false
-  xy: 667, 41
+  xy: 556, 41
   size: 35, 21
   orig: 35, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_1_2.png
   rotate: false
-  xy: 3608, 20
+  xy: 1436, 4
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_1_3.png
   rotate: false
-  xy: 877, 43
+  xy: 732, 43
   size: 34, 19
   orig: 34, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_2_0.png
   rotate: false
-  xy: 1902, 38
+  xy: 1882, 38
   size: 24, 24
   orig: 24, 24
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_2_1.png
   rotate: false
-  xy: 2592, 35
+  xy: 2423, 35
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_2_2.png
   rotate: false
-  xy: 1795, 36
+  xy: 1705, 36
   size: 24, 26
   orig: 24, 26
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_2_3.png
   rotate: false
-  xy: 2, 10
+  xy: 78, 10
   size: 36, 25
   orig: 36, 25
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_3_0.png
   rotate: false
-  xy: 3295, 2
+  xy: 1190, 22
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_3_1.png
   rotate: false
-  xy: 3363, 41
+  xy: 3372, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_3_2.png
   rotate: false
-  xy: 3180, 24
+  xy: 1138, 6
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_3_3.png
   rotate: false
-  xy: 3388, 41
+  xy: 3397, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_7_0.png
   rotate: false
-  xy: 3558, 20
+  xy: 4027, 43
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_7_1.png
   rotate: false
-  xy: 3763, 42
+  xy: 3447, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_7_2.png
   rotate: false
-  xy: 3533, 20
+  xy: 4002, 43
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_6_7_3.png
   rotate: false
-  xy: 3813, 42
+  xy: 3472, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_0_0.png
   rotate: false
-  xy: 3438, 41
+  xy: 3197, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_0_1.png
   rotate: false
-  xy: 1457, 43
+  xy: 1164, 43
   size: 29, 19
   orig: 29, 19
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_0_2.png
   rotate: false
-  xy: 3413, 41
+  xy: 3172, 41
   size: 23, 21
   orig: 23, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_0_3.png
   rotate: false
-  xy: 3132, 25
+  xy: 482, 14
   size: 21, 21
   orig: 21, 21
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_1_0.png
   rotate: false
-  xy: 3670, 22
+  xy: 994, 16
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_1_1.png
   rotate: false
-  xy: 3003, 25
+  xy: 3845, 44
   size: 24, 18
   orig: 24, 18
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_1_2.png
   rotate: false
-  xy: 3670, 2
+  xy: 1211, 2
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_1_3.png
   rotate: false
-  xy: 3029, 25
+  xy: 3871, 44
   size: 24, 18
   orig: 24, 18
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_2_0.png
   rotate: false
-  xy: 2272, 39
+  xy: 2009, 39
   size: 24, 23
   orig: 24, 23
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_2_1.png
   rotate: false
-  xy: 2298, 39
+  xy: 1983, 39
   size: 24, 23
   orig: 24, 23
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_2_2.png
   rotate: false
-  xy: 1821, 39
+  xy: 1463, 39
   size: 26, 23
   orig: 26, 23
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_2_3.png
   rotate: false
-  xy: 1144, 40
+  xy: 871, 40
   size: 31, 22
   orig: 31, 22
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_3_0.png
   rotate: false
-  xy: 3230, 24
+  xy: 907, 3
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_3_1.png
   rotate: false
-  xy: 502, 17
+  xy: 832, 2
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_3_2.png
   rotate: false
-  xy: 3255, 24
+  xy: 593, 2
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_3_3.png
   rotate: false
-  xy: 3627, 2
+  xy: 807, 2
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_7_0.png
   rotate: false
-  xy: 3205, 24
+  xy: 1165, 25
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_7_1.png
   rotate: false
-  xy: 3082, 26
+  xy: 882, 2
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_7_2.png
   rotate: false
-  xy: 452, 17
+  xy: 870, 21
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 hh_human_leg_h_wlk_lg_7_7_3.png
   rotate: false
-  xy: 403, 18
+  xy: 857, 2
   size: 23, 17
   orig: 23, 17
   offset: 0, 0

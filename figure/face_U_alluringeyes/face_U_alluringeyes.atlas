@@ -6,469 +6,469 @@ filter: Nearest,Nearest
 repeat: none
 face_U_alluringeyes_h_agr_ey_3016_1_0.png
   rotate: false
-  xy: 461, 26
+  xy: 145, 2
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_agr_ey_3016_2_0.png
   rotate: false
-  xy: 170, 20
+  xy: 85, 14
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_agr_ey_3016_3_0.png
   rotate: false
-  xy: 78, 24
+  xy: 58, 24
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_agr_fc_3014_1_0.png
   rotate: false
-  xy: 289, 18
+  xy: 117, 3
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_agr_fc_3014_2_0.png
   rotate: false
-  xy: 384, 20
+  xy: 302, 20
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_agr_fc_3014_3_0.png
   rotate: false
-  xy: 135, 18
+  xy: 192, 2
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_agr_fc_3015_1_0.png
   rotate: false
-  xy: 471, 26
+  xy: 323, 26
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_agr_fc_3015_2_0.png
   rotate: false
-  xy: 34, 2
+  xy: 213, 23
   size: 12, 7
   orig: 12, 7
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_agr_fc_3015_3_0.png
   rotate: false
-  xy: 118, 26
+  xy: 98, 26
   size: 16, 4
   orig: 16, 4
   offset: 0, 0
   index: -1
+face_U_alluringeyes_h_blw_fc_3014_1_0.png
+  rotate: false
+  xy: 155, 8
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
 face_U_alluringeyes_h_blw_fc_3014_2_0.png
   rotate: false
-  xy: 363, 18
+  xy: 184, 7
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_blw_fc_3014_3_0.png
   rotate: false
-  xy: 495, 24
+  xy: 262, 15
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_eyb_ey_3016_1_0.png
   rotate: false
-  xy: 289, 13
+  xy: 135, 2
   size: 8, 3
   orig: 8, 3
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_eyb_ey_3016_2_0.png
   rotate: false
-  xy: 65, 2
+  xy: 40, 14
   size: 14, 8
   orig: 14, 8
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_eyb_ey_3016_3_0.png
   rotate: false
-  xy: 98, 26
+  xy: 78, 26
   size: 18, 4
   orig: 18, 4
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_eyb_fc_3015_1_0.png
   rotate: false
-  xy: 479, 26
+  xy: 155, 2
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_eyb_fc_3015_2_0.png
   rotate: false
-  xy: 186, 21
+  xy: 130, 21
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_eyb_fc_3015_3_0.png
   rotate: false
-  xy: 136, 25
+  xy: 66, 2
   size: 16, 5
   orig: 16, 5
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_lag_ey_3016_2_0.png
   rotate: false
-  xy: 18, 11
+  xy: 2, 2
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_lag_fc_3014_2_0.png
   rotate: false
-  xy: 81, 2
+  xy: 56, 14
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_lag_fc_3015_2_0.png
   rotate: false
-  xy: 228, 21
+  xy: 172, 21
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
+face_U_alluringeyes_h_lay_ey_3016_2_0.png
+  rotate: false
+  xy: 34, 2
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
 face_U_alluringeyes_h_lay_fc_3015_2_0.png
   rotate: false
-  xy: 200, 21
+  xy: 116, 21
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_ley_ey_3016_2_0.png
   rotate: false
-  xy: 50, 11
+  xy: 101, 14
   size: 13, 10
   orig: 13, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_ley_fc_3014_2_0.png
   rotate: false
-  xy: 411, 23
+  xy: 241, 23
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_ley_fc_3015_2_0.png
   rotate: false
-  xy: 214, 21
+  xy: 158, 21
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_lsa_ey_3016_2_0.png
   rotate: false
-  xy: 65, 12
+  xy: 18, 2
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_lsa_fc_3014_2_0.png
   rotate: false
-  xy: 91, 2
+  xy: 199, 13
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_lsa_fc_3015_2_0.png
   rotate: false
-  xy: 242, 21
+  xy: 144, 21
   size: 12, 9
   orig: 12, 9
   offset: 0, 0
   index: -1
-face_U_alluringeyes_h_lsm_ey_3016_2_0.png
-  rotate: false
-  xy: 154, 20
-  size: 14, 10
-  orig: 14, 10
-  offset: 0, 0
-  index: -1
 face_U_alluringeyes_h_lsm_fc_3014_2_0.png
   rotate: false
-  xy: 401, 23
+  xy: 251, 23
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_lsp_fc_3014_2_0.png
   rotate: false
-  xy: 391, 23
+  xy: 209, 14
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_lsp_fc_3014_2_1.png
   rotate: false
-  xy: 112, 17
+  xy: 219, 14
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_lsr_ey_3016_2_0.png
   rotate: false
-  xy: 2, 7
+  xy: 101, 2
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_lsr_fc_3014_2_0.png
   rotate: false
-  xy: 103, 17
+  xy: 261, 23
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_lsr_fc_3015_2_0.png
   rotate: false
-  xy: 256, 21
+  xy: 186, 21
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sad_ey_3016_1_0.png
   rotate: false
-  xy: 421, 24
+  xy: 270, 24
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sad_ey_3016_2_0.png
   rotate: false
-  xy: 81, 12
+  xy: 85, 2
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sad_ey_3016_3_0.png
   rotate: false
-  xy: 18, 23
+  xy: 2, 14
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sad_fc_3014_1_0.png
   rotate: false
-  xy: 318, 18
+  xy: 165, 7
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sad_fc_3014_2_0.png
   rotate: false
-  xy: 370, 20
+  xy: 295, 20
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sad_fc_3014_3_0.png
   rotate: false
-  xy: 143, 18
+  xy: 315, 25
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sad_fc_3015_1_0.png
   rotate: false
-  xy: 101, 7
+  xy: 184, 2
   size: 6, 3
   orig: 6, 3
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sad_fc_3015_2_0.png
   rotate: false
-  xy: 48, 2
+  xy: 227, 23
   size: 12, 7
   orig: 12, 7
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sad_fc_3015_3_0.png
   rotate: false
-  xy: 2, 2
+  xy: 22, 14
   size: 16, 3
   orig: 16, 3
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sml_fc_3014_1_0.png
   rotate: false
-  xy: 299, 18
+  xy: 135, 7
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sml_fc_3014_2_0.png
   rotate: false
-  xy: 337, 20
+  xy: 174, 9
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_sml_fc_3014_3_0.png
   rotate: false
-  xy: 431, 24
+  xy: 228, 15
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_spk_fc_3014_1_0.png
   rotate: false
-  xy: 279, 13
+  xy: 66, 9
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
-face_U_alluringeyes_h_spk_fc_3014_1_1.png
-  rotate: false
-  xy: 269, 15
-  size: 8, 11
-  orig: 8, 11
-  offset: 0, 0
-  index: -1
 face_U_alluringeyes_h_spk_fc_3014_2_0.png
   rotate: false
-  xy: 355, 18
+  xy: 127, 3
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_spk_fc_3014_2_1.png
   rotate: false
-  xy: 377, 20
+  xy: 288, 20
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_spk_fc_3014_3_0.png
   rotate: false
-  xy: 121, 17
+  xy: 280, 23
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_spk_fc_3014_3_1.png
   rotate: false
-  xy: 501, 25
+  xy: 331, 25
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_srp_ey_3016_1_0.png
   rotate: false
-  xy: 441, 24
+  xy: 238, 15
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_srp_ey_3016_2_0.png
   rotate: false
-  xy: 2, 19
+  xy: 22, 19
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_srp_ey_3016_3_0.png
   rotate: false
-  xy: 38, 23
+  xy: 2, 23
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_srp_fc_3014_1_0.png
   rotate: false
-  xy: 309, 17
+  xy: 76, 9
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_srp_fc_3014_2_0.png
   rotate: false
-  xy: 97, 12
+  xy: 309, 20
   size: 4, 10
   orig: 4, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_srp_fc_3014_3_0.png
   rotate: false
-  xy: 129, 18
+  xy: 256, 15
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
+face_U_alluringeyes_h_srp_fc_3015_1_0.png
+  rotate: false
+  xy: 163, 2
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
 face_U_alluringeyes_h_std_ey_3016_1_0.png
   rotate: false
-  xy: 451, 25
+  xy: 174, 2
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_std_ey_3016_2_0.png
   rotate: false
-  xy: 34, 11
+  xy: 50, 2
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_std_ey_3016_3_0.png
   rotate: false
-  xy: 58, 24
+  xy: 38, 24
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_std_fc_3014_1_0.png
   rotate: false
-  xy: 327, 19
+  xy: 145, 8
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_std_fc_3014_2_0.png
   rotate: false
-  xy: 347, 20
+  xy: 191, 9
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_std_fc_3014_3_0.png
   rotate: false
-  xy: 487, 24
+  xy: 248, 15
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
-face_U_alluringeyes_h_std_fc_3015_1_0.png
-  rotate: false
-  xy: 103, 12
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
 face_U_alluringeyes_h_std_fc_3015_2_0.png
   rotate: false
-  xy: 20, 2
+  xy: 199, 23
   size: 12, 7
   orig: 12, 7
   offset: 0, 0
   index: -1
 face_U_alluringeyes_h_std_fc_3015_3_0.png
   rotate: false
-  xy: 269, 28
+  xy: 116, 17
   size: 16, 2
   orig: 16, 2
   offset: 0, 0

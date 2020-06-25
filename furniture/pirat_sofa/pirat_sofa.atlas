@@ -1,0 +1,34 @@
+
+pirat_sofa.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirat_sofa_pirat_sofa_64_a_0_0.png
+  rotate: false
+  xy: 116, 15
+  size: 110, 93
+  orig: 110, 93
+  offset: 0, 0
+  index: -1
+pirat_sofa_pirat_sofa_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+pirat_sofa_pirat_sofa_64_sd_2_0.png
+  rotate: false
+  xy: 228, 73
+  size: 105, 35
+  orig: 105, 35
+  offset: 0, 0
+  index: -1
+pirat_sofa_pirat_sofa_icon_a.png
+  rotate: false
+  xy: 228, 37
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1

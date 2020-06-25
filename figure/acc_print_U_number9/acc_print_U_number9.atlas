@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 acc_print_U_number9_h_std_cp_2205_0_0.png
   rotate: false
-  xy: 13, 15
+  xy: 2, 15
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 acc_print_U_number9_h_std_cp_2205_6_0.png
   rotate: false
-  xy: 2, 15
+  xy: 13, 15
   size: 9, 15
   orig: 9, 15
   offset: 0, 0

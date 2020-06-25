@@ -1,0 +1,34 @@
+
+rarespring17_thron.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rarespring17_thron_rarespring17_thron_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 82, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
+rarespring17_thron_rarespring17_thron_64_b_2_0.png
+  rotate: false
+  xy: 86, 27
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+rarespring17_thron_rarespring17_thron_64_sd_2_0.png
+  rotate: false
+  xy: 86, 72
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+rarespring17_thron_rarespring17_thron_icon_a.png
+  rotate: false
+  xy: 118, 36
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1

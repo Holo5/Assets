@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 jacket_U_snow_cape_h_crr_lc_2409_0_0.png
   rotate: false
-  xy: 390, 10
+  xy: 254, 2
   size: 6, 14
   orig: 6, 14
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_lc_2409_2_0.png
   rotate: false
-  xy: 495, 22
+  xy: 562, 30
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_lc_2409_3_0.png
   rotate: false
-  xy: 724, 54
+  xy: 353, 16
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
@@ -48,119 +48,119 @@ jacket_U_snow_cape_h_crr_lc_2409_6_0.png
   index: -1
 jacket_U_snow_cape_h_crr_lc_2410_0_0.png
   rotate: false
-  xy: 468, 20
+  xy: 436, 20
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_lc_2410_2_0.png
   rotate: false
-  xy: 561, 27
+  xy: 118, 16
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_crr_lc_2410_3_0.png
-  rotate: false
-  xy: 842, 58
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
 jacket_U_snow_cape_h_crr_lc_2410_4_0.png
   rotate: false
-  xy: 76, 11
+  xy: 562, 38
   size: 6, 3
   orig: 6, 3
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_lc_2410_5_0.png
   rotate: false
-  xy: 541, 26
+  xy: 400, 15
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_lc_2410_6_0.png
   rotate: false
-  xy: 355, 2
+  xy: 325, 2
   size: 7, 18
   orig: 7, 18
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_rc_2409_0_0.png
   rotate: false
-  xy: 612, 40
+  xy: 601, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_rc_2409_1_0.png
   rotate: false
-  xy: 702, 52
+  xy: 262, 2
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_rc_2409_2_0.png
   rotate: false
-  xy: 61, 2
+  xy: 49, 2
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_rc_2409_3_0.png
   rotate: false
-  xy: 736, 54
+  xy: 729, 54
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_rc_2409_4_0.png
   rotate: false
-  xy: 413, 2
+  xy: 394, 13
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_rc_2410_0_0.png
   rotate: false
-  xy: 364, 2
+  xy: 334, 2
   size: 7, 18
   orig: 7, 18
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_crr_rc_2410_1_0.png
   rotate: false
-  xy: 422, 15
+  xy: 284, 3
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
+jacket_U_snow_cape_h_crr_rc_2410_3_0.png
+  rotate: false
+  xy: 110, 16
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
 jacket_U_snow_cape_h_crr_rc_2410_4_0.png
   rotate: false
-  xy: 566, 36
+  xy: 820, 57
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_drk_rc_2409_0_0.png
   rotate: false
-  xy: 682, 49
+  xy: 695, 49
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_drk_rc_2409_1_0.png
   rotate: false
-  xy: 49, 2
+  xy: 37, 2
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_drk_rc_2409_2_0.png
   rotate: false
-  xy: 789, 56
+  xy: 762, 56
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
@@ -174,42 +174,42 @@ jacket_U_snow_cape_h_drk_rc_2409_3_0.png
   index: -1
 jacket_U_snow_cape_h_drk_rc_2409_4_0.png
   rotate: false
-  xy: 489, 22
+  xy: 814, 56
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_drk_rc_2409_5_0.png
   rotate: false
-  xy: 100, 16
+  xy: 353, 2
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_drk_rc_2410_0_0.png
   rotate: false
-  xy: 669, 35
+  xy: 659, 29
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_drk_rc_2410_1_0.png
   rotate: false
-  xy: 812, 56
+  xy: 774, 56
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_drk_rc_2410_2_0.png
   rotate: false
-  xy: 850, 59
+  xy: 76, 11
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_drk_rc_2410_5_0.png
   rotate: false
-  xy: 376, 2
+  xy: 73, 2
   size: 4, 1
   orig: 4, 1
   offset: 0, 0
@@ -223,7 +223,7 @@ jacket_U_snow_cape_h_lay_cc_2409_2_0.png
   index: -1
 jacket_U_snow_cape_h_lay_cc_2410_2_0.png
   rotate: false
-  xy: 325, 2
+  xy: 295, 2
   size: 28, 17
   orig: 28, 17
   offset: 0, 0
@@ -237,21 +237,21 @@ jacket_U_snow_cape_h_lay_cc_2411_2_0.png
   index: -1
 jacket_U_snow_cape_h_lay_rc_2409_2_0.png
   rotate: false
-  xy: 659, 48
+  xy: 240, 2
   size: 12, 14
   orig: 12, 14
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_lay_rc_2410_2_0.png
   rotate: false
-  xy: 406, 11
+  xy: 705, 49
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_lay_rc_2411_2_0.png
   rotate: false
-  xy: 460, 20
+  xy: 428, 16
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
@@ -265,21 +265,21 @@ jacket_U_snow_cape_h_sit_cc_2409_0_0.png
   index: -1
 jacket_U_snow_cape_h_sit_cc_2409_2_0.png
   rotate: false
-  xy: 270, 15
+  xy: 211, 15
   size: 27, 47
   orig: 27, 47
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_sit_cc_2410_0_0.png
   rotate: false
-  xy: 380, 26
+  xy: 353, 26
   size: 28, 36
   orig: 28, 36
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_sit_cc_2410_2_0.png
   rotate: false
-  xy: 353, 22
+  xy: 383, 22
   size: 25, 40
   orig: 25, 40
   offset: 0, 0
@@ -293,21 +293,21 @@ jacket_U_snow_cape_h_sit_cc_2411_0_0.png
   index: -1
 jacket_U_snow_cape_h_sit_cc_2411_2_0.png
   rotate: false
-  xy: 692, 49
+  xy: 685, 49
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_std_cc_2409_0_0.png
   rotate: false
-  xy: 241, 18
+  xy: 240, 18
   size: 27, 44
   orig: 27, 44
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_std_cc_2409_1_0.png
   rotate: false
-  xy: 299, 14
+  xy: 269, 14
   size: 24, 48
   orig: 24, 48
   offset: 0, 0
@@ -349,7 +349,7 @@ jacket_U_snow_cape_h_std_cc_2410_1_0.png
   index: -1
 jacket_U_snow_cape_h_std_cc_2410_2_0.png
   rotate: false
-  xy: 325, 21
+  xy: 295, 21
   size: 26, 41
   orig: 26, 41
   offset: 0, 0
@@ -363,7 +363,7 @@ jacket_U_snow_cape_h_std_cc_2410_3_0.png
   index: -1
 jacket_U_snow_cape_h_std_cc_2410_7_0.png
   rotate: false
-  xy: 211, 24
+  xy: 323, 24
   size: 28, 38
   orig: 28, 38
   offset: 0, 0
@@ -384,7 +384,7 @@ jacket_U_snow_cape_h_std_cc_2411_1_0.png
   index: -1
 jacket_U_snow_cape_h_std_cc_2411_2_0.png
   rotate: false
-  xy: 376, 5
+  xy: 346, 7
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
@@ -405,203 +405,210 @@ jacket_U_snow_cape_h_std_cc_2411_7_0.png
   index: -1
 jacket_U_snow_cape_h_std_lc_2409_3_0.png
   rotate: false
-  xy: 556, 33
+  xy: 752, 54
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
+jacket_U_snow_cape_h_std_lc_2410_3_0.png
+  rotate: false
+  xy: 806, 58
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
 jacket_U_snow_cape_h_std_rc_2409_0_0.png
   rotate: false
-  xy: 714, 52
+  xy: 274, 2
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_std_rc_2409_1_0.png
   rotate: false
-  xy: 551, 27
+  xy: 100, 16
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_std_rc_2409_2_0.png
   rotate: false
-  xy: 801, 56
+  xy: 785, 56
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_std_rc_2409_3_0.png
   rotate: false
-  xy: 759, 53
+  xy: 365, 15
   size: 8, 9
   orig: 8, 9
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_std_rc_2410_1_0.png
   rotate: false
-  xy: 823, 57
+  xy: 796, 57
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_std_rc_2410_3_0.png
+jacket_U_snow_cape_h_std_rc_2410_2_0.png
   rotate: false
-  xy: 669, 29
-  size: 6, 4
-  orig: 6, 4
+  xy: 68, 11
+  size: 6, 3
+  orig: 6, 3
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wav_lc_2409_0_1.png
+jacket_U_snow_cape_h_wav_lc_2409_0_0.png
   rotate: false
-  xy: 833, 57
+  xy: 541, 26
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wav_lc_2409_2_1.png
   rotate: false
-  xy: 451, 20
+  xy: 419, 16
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wav_lc_2409_3_0.png
+jacket_U_snow_cape_h_wav_lc_2409_3_1.png
   rotate: false
-  xy: 422, 2
+  xy: 375, 13
   size: 6, 11
   orig: 6, 11
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wav_lc_2409_4_1.png
   rotate: false
-  xy: 433, 15
+  xy: 392, 2
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wav_lc_2409_5_0.png
   rotate: false
-  xy: 437, 4
+  xy: 401, 4
   size: 4, 9
   orig: 4, 9
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wav_lc_2409_6_1.png
+jacket_U_snow_cape_h_wav_lc_2409_6_0.png
   rotate: false
-  xy: 414, 11
+  xy: 713, 49
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wav_lc_2409_7_0.png
   rotate: false
-  xy: 442, 18
+  xy: 410, 14
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wav_lc_2410_0_1.png
+jacket_U_snow_cape_h_wav_lc_2410_0_0.png
   rotate: false
-  xy: 678, 41
+  xy: 73, 5
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wav_lc_2410_2_1.png
+jacket_U_snow_cape_h_wav_lc_2410_2_0.png
   rotate: false
-  xy: 121, 17
+  xy: 729, 49
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wav_lc_2410_3_1.png
+jacket_U_snow_cape_h_wav_lc_2410_3_0.png
   rotate: false
-  xy: 476, 20
+  xy: 556, 33
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wav_lc_2410_4_1.png
   rotate: false
-  xy: 482, 22
+  xy: 550, 25
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wav_lc_2410_5_1.png
+jacket_U_snow_cape_h_wav_lc_2410_5_0.png
   rotate: false
-  xy: 501, 22
+  xy: 557, 25
   size: 3, 6
   orig: 3, 6
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wav_lc_2410_6_1.png
+jacket_U_snow_cape_h_wav_lc_2410_6_0.png
   rotate: false
-  xy: 430, 2
+  xy: 365, 2
   size: 5, 11
   orig: 5, 11
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wav_lc_2410_7_1.png
+jacket_U_snow_cape_h_wav_lc_2410_7_0.png
   rotate: false
-  xy: 398, 11
+  xy: 721, 49
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wav_lc_2411_7_1.png
+jacket_U_snow_cape_h_wav_lc_2411_7_0.png
   rotate: false
-  xy: 506, 25
+  xy: 346, 2
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wlk_lc_2409_2_0.png
   rotate: false
-  xy: 73, 5
+  xy: 454, 24
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wlk_lc_2409_3_0.png
   rotate: false
-  xy: 769, 53
+  xy: 372, 2
   size: 8, 9
   orig: 8, 9
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wlk_lc_2410_2_2.png
+jacket_U_snow_cape_h_wlk_lc_2410_2_3.png
   rotate: false
-  xy: 436, 26
+  xy: 262, 14
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wlk_rc_2409_0_0.png
   rotate: false
-  xy: 592, 37
+  xy: 591, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wlk_rc_2409_0_1.png
   rotate: false
-  xy: 602, 37
+  xy: 581, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wlk_rc_2409_0_3.png
   rotate: false
-  xy: 659, 29
+  xy: 666, 45
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wlk_rc_2409_1_0.png
   rotate: false
-  xy: 402, 2
+  xy: 383, 13
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
@@ -620,100 +627,93 @@ jacket_U_snow_cape_h_wlk_rc_2409_1_3.png
   orig: 9, 9
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wlk_rc_2409_2_2.png
+jacket_U_snow_cape_h_wlk_rc_2409_2_0.png
   rotate: false
-  xy: 37, 2
-  size: 10, 7
-  orig: 10, 7
-  offset: 0, 0
-  index: -1
-jacket_U_snow_cape_h_wlk_rc_2409_2_3.png
-  rotate: false
-  xy: 390, 2
+  xy: 353, 8
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
+jacket_U_snow_cape_h_wlk_rc_2409_2_2.png
+  rotate: false
+  xy: 61, 2
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
 jacket_U_snow_cape_h_wlk_rc_2409_3_1.png
   rotate: false
-  xy: 779, 53
+  xy: 382, 2
   size: 8, 9
   orig: 8, 9
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wlk_rc_2410_0_0.png
   rotate: false
-  xy: 642, 40
+  xy: 633, 40
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wlk_rc_2410_0_1.png
   rotate: false
-  xy: 581, 37
+  xy: 570, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wlk_rc_2410_0_2.png
   rotate: false
-  xy: 633, 40
+  xy: 642, 40
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wlk_rc_2410_0_3.png
   rotate: false
-  xy: 673, 47
+  xy: 676, 47
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wlk_rc_2410_1_1.png
+jacket_U_snow_cape_h_wlk_rc_2410_1_0.png
   rotate: false
-  xy: 570, 41
-  size: 9, 21
-  orig: 9, 21
-  offset: 0, 0
-  index: -1
-jacket_U_snow_cape_h_wlk_rc_2410_1_2.png
-  rotate: false
-  xy: 111, 16
+  xy: 444, 24
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
+jacket_U_snow_cape_h_wlk_rc_2410_1_1.png
+  rotate: false
+  xy: 612, 41
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
 jacket_U_snow_cape_h_wlk_rc_2410_1_3.png
   rotate: false
-  xy: 748, 54
+  xy: 741, 54
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_h_wlk_rc_2410_2_2.png
-  rotate: false
-  xy: 68, 11
-  size: 6, 3
-  orig: 6, 3
-  offset: 0, 0
-  index: -1
 jacket_U_snow_cape_h_wlk_rc_2411_0_1.png
   rotate: false
-  xy: 373, 2
+  xy: 343, 2
   size: 1, 18
   orig: 1, 18
   offset: 0, 0
   index: -1
 jacket_U_snow_cape_h_wlk_rc_2411_1_1.png
   rotate: false
-  xy: 383, 3
+  xy: 659, 41
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
-jacket_U_snow_cape_sh_std_rc_2410_3_0.png
+jacket_U_snow_cape_sh_wav_lc_2410_3_1.png
   rotate: false
-  xy: 380, 23
+  xy: 407, 12
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

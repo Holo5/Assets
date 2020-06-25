@@ -1,0 +1,27 @@
+
+hp_windowpiece1.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_windowpiece1_hp_windowpiece1_64_a_2_2.png
+  rotate: false
+  xy: 71, 2
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+hp_windowpiece1_hp_windowpiece1_64_a_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 98
+  orig: 67, 98
+  offset: 0, 0
+  index: -1
+hp_windowpiece1_hp_windowpiece1_icon_a.png
+  rotate: false
+  xy: 140, 75
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+hp_puffskein2.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_puffskein2_hp_puffskein2_64_a_2_6.png
+  rotate: false
+  xy: 2, 2
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+hp_puffskein2_hp_puffskein2_64_a_2_7.png
+  rotate: false
+  xy: 46, 2
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+hp_puffskein2_hp_puffskein2_icon_a.png
+  rotate: false
+  xy: 90, 13
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1

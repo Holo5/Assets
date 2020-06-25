@@ -1,0 +1,20 @@
+
+zirconium17_pillar.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zirconium17_pillar_zirconium17_pillar_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 54, 135
+  orig: 54, 135
+  offset: 0, 0
+  index: -1
+zirconium17_pillar_zirconium17_pillar_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+pirat_throne.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirat_throne_pirat_throne_64_a_0_0.png
+  rotate: false
+  xy: 79, 17
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+pirat_throne_pirat_throne_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 75, 98
+  orig: 75, 98
+  offset: 0, 0
+  index: -1
+pirat_throne_pirat_throne_64_sd_0_0.png
+  rotate: false
+  xy: 147, 68
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+pirat_throne_pirat_throne_icon_a.png
+  rotate: false
+  xy: 147, 34
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1

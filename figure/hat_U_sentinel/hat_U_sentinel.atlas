@@ -11,13 +11,6 @@ hat_U_sentinel_h_lay_ha_2995_2_0.png
   orig: 34, 29
   offset: 0, 0
   index: -1
-hat_U_sentinel_h_spk_ha_2995_0_0.png
-  rotate: false
-  xy: 140, 32
-  size: 31, 30
-  orig: 31, 30
-  offset: 0, 0
-  index: -1
 hat_U_sentinel_h_spk_ha_2995_1_0.png
   rotate: false
   xy: 104, 2
@@ -32,14 +25,21 @@ hat_U_sentinel_h_spk_ha_2995_2_0.png
   orig: 32, 34
   offset: 0, 0
   index: -1
-hat_U_sentinel_h_spk_ha_2995_3_0.png
+hat_U_sentinel_h_std_ha_2995_0_0.png
+  rotate: false
+  xy: 140, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+hat_U_sentinel_h_std_ha_2995_3_0.png
   rotate: false
   xy: 2, 27
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
-hat_U_sentinel_h_spk_ha_2995_7_0.png
+hat_U_sentinel_h_std_ha_2995_7_0.png
   rotate: false
   xy: 70, 29
   size: 32, 33

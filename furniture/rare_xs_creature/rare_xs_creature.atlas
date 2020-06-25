@@ -1,0 +1,27 @@
+
+rare_xs_creature.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_xs_creature_rare_xs_creature_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+rare_xs_creature_rare_xs_creature_64_sd_2_0.png
+  rotate: false
+  xy: 50, 42
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+rare_xs_creature_rare_xs_creature_icon_a.png
+  rotate: false
+  xy: 50, 12
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1

@@ -11,6 +11,13 @@ acc_head_U_earring_gem_h_lay_he_2113_2_0.png
   orig: 7, 8
   offset: 0, 0
   index: -1
+acc_head_U_earring_gem_h_lay_he_2114_2_0.png
+  rotate: false
+  xy: 112, 8
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
 acc_head_U_earring_gem_h_std_he_2113_2_0.png
   rotate: false
   xy: 73, 5
@@ -30,13 +37,6 @@ acc_head_U_earring_gem_h_std_he_2113_7_0.png
   xy: 34, 4
   size: 28, 8
   orig: 28, 8
-  offset: 0, 0
-  index: -1
-acc_head_U_earring_gem_h_std_he_2114_2_0.png
-  rotate: false
-  xy: 112, 8
-  size: 3, 4
-  orig: 3, 4
   offset: 0, 0
   index: -1
 acc_head_U_earring_gem_h_std_he_2114_3_0.png

@@ -1,0 +1,48 @@
+
+mlobby_sofa4.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mlobby_sofa4_mlobby_sofa4_64_a_2_0.png
+  rotate: false
+  xy: 2, 20
+  size: 118, 86
+  orig: 118, 86
+  offset: 0, 0
+  index: -1
+mlobby_sofa4_mlobby_sofa4_64_b_2_0.png
+  rotate: false
+  xy: 302, 57
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+mlobby_sofa4_mlobby_sofa4_64_c_0_0.png
+  rotate: false
+  xy: 122, 20
+  size: 106, 86
+  orig: 106, 86
+  offset: 0, 0
+  index: -1
+mlobby_sofa4_mlobby_sofa4_64_d_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+mlobby_sofa4_mlobby_sofa4_64_sd_2_0.png
+  rotate: false
+  xy: 230, 29
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+mlobby_sofa4_mlobby_sofa4_icon_a.png
+  rotate: false
+  xy: 230, 26
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+mlobby_tv.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mlobby_tv_mlobby_tv_64_a_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+mlobby_tv_mlobby_tv_64_sd_2_0.png
+  rotate: false
+  xy: 118, 43
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+mlobby_tv_mlobby_tv_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

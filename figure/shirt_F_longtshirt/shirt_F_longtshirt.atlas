@@ -6,182 +6,189 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_longtshirt_h_crr_ls_2855_0_0.png
   rotate: false
-  xy: 926, 41
+  xy: 614, 13
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_crr_ls_2855_1_0.png
   rotate: false
-  xy: 977, 48
+  xy: 567, 11
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
+shirt_F_longtshirt_h_crr_ls_2855_2_0.png
+  rotate: false
+  xy: 621, 12
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
 shirt_F_longtshirt_h_crr_ls_2855_3_0.png
   rotate: false
-  xy: 453, 2
+  xy: 280, 2
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_crr_ls_2855_6_0.png
   rotate: false
-  xy: 141, 2
+  xy: 107, 2
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_crr_ls_2855_7_0.png
   rotate: false
-  xy: 997, 47
+  xy: 490, 6
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_crr_rs_2855_0_0.png
   rotate: false
-  xy: 117, 2
+  xy: 119, 2
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_crr_rs_2855_2_0.png
   rotate: false
-  xy: 358, 4
+  xy: 239, 2
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_crr_rs_2855_3_0.png
   rotate: false
-  xy: 443, 2
+  xy: 270, 2
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_crr_rs_2855_4_0.png
   rotate: false
-  xy: 1017, 47
+  xy: 57, 2
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_crr_rs_2855_5_0.png
   rotate: false
-  xy: 392, 5
+  xy: 364, 5
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_crr_rs_2855_6_0.png
   rotate: false
-  xy: 837, 31
+  xy: 530, 6
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_crr_rs_2855_7_0.png
   rotate: false
-  xy: 493, 4
+  xy: 500, 6
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_drk_rs_2855_0_0.png
   rotate: false
-  xy: 905, 51
+  xy: 1001, 51
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_drk_rs_2855_1_0.png
   rotate: false
-  xy: 938, 54
+  xy: 408, 13
   size: 14, 8
   orig: 14, 8
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_drk_rs_2855_2_0.png
   rotate: false
-  xy: 890, 49
+  xy: 956, 49
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_drk_rs_2855_3_0.png
   rotate: false
-  xy: 78, 2
+  xy: 18, 2
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_drk_rs_2855_4_0.png
   rotate: false
-  xy: 882, 35
+  xy: 605, 13
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_drk_rs_2855_5_0.png
   rotate: false
-  xy: 841, 49
+  xy: 32, 19
   size: 15, 13
   orig: 15, 13
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_drk_rs_2855_6_0.png
   rotate: false
-  xy: 305, 10
+  xy: 375, 10
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_drk_rs_2855_7_0.png
   rotate: false
-  xy: 381, 5
+  xy: 353, 5
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_lay_ch_2855_2_0.png
   rotate: false
-  xy: 2, 34
+  xy: 32, 34
   size: 43, 28
   orig: 43, 28
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_lay_ls_2855_2_0.png
   rotate: false
-  xy: 921, 55
+  xy: 391, 14
   size: 15, 7
   orig: 15, 7
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_lay_rs_2855_2_0.png
   rotate: false
-  xy: 858, 49
+  xy: 895, 49
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_sit_ch_2855_0_0.png
   rotate: false
-  xy: 47, 24
+  xy: 77, 24
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_sit_ch_2855_2_0.png
   rotate: false
-  xy: 81, 19
+  xy: 2, 19
   size: 28, 43
   orig: 28, 43
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_std_ch_2855_0_0.png
   rotate: false
-  xy: 169, 22
+  xy: 198, 22
   size: 27, 40
   orig: 27, 40
   offset: 0, 0
@@ -195,7 +202,7 @@ shirt_F_longtshirt_h_std_ch_2855_1_0.png
   index: -1
 shirt_F_longtshirt_h_std_ch_2855_2_0.png
   rotate: false
-  xy: 509, 21
+  xy: 311, 21
   size: 26, 41
   orig: 26, 41
   offset: 0, 0
@@ -209,273 +216,266 @@ shirt_F_longtshirt_h_std_ch_2855_3_0.png
   index: -1
 shirt_F_longtshirt_h_std_ch_2855_7_0.png
   rotate: false
-  xy: 645, 27
+  xy: 537, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_std_ls_2855_1_0.png
   rotate: false
-  xy: 873, 34
+  xy: 596, 12
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
-shirt_F_longtshirt_h_std_ls_2855_2_0.png
-  rotate: false
-  xy: 891, 34
-  size: 5, 13
-  orig: 5, 13
-  offset: 0, 0
-  index: -1
 shirt_F_longtshirt_h_std_ls_2855_3_0.png
   rotate: false
-  xy: 213, 2
+  xy: 181, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_std_ls_2855_7_0.png
   rotate: false
-  xy: 827, 31
+  xy: 510, 6
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_std_rs_2855_0_0.png
   rotate: false
-  xy: 129, 2
+  xy: 65, 14
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_std_rs_2855_1_0.png
   rotate: false
-  xy: 987, 48
+  xy: 577, 11
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_std_rs_2855_2_0.png
   rotate: false
-  xy: 236, 2
+  xy: 342, 2
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_std_rs_2855_3_0.png
   rotate: false
-  xy: 463, 2
+  xy: 290, 2
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_std_rs_2855_7_0.png
   rotate: false
-  xy: 1007, 47
+  xy: 480, 6
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
-shirt_F_longtshirt_h_wav_ls_2855_0_1.png
+shirt_F_longtshirt_h_wav_ls_2855_0_0.png
   rotate: false
-  xy: 321, 7
+  xy: 779, 24
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wav_ls_2855_1_0.png
   rotate: false
-  xy: 954, 50
+  xy: 424, 9
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wav_ls_2855_1_1.png
   rotate: false
-  xy: 537, 16
+  xy: 649, 16
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wav_ls_2855_2_0.png
   rotate: false
-  xy: 43, 2
+  xy: 986, 50
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wav_ls_2855_2_1.png
   rotate: false
-  xy: 28, 2
+  xy: 971, 50
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
-shirt_F_longtshirt_h_wav_ls_2855_3_1.png
+shirt_F_longtshirt_h_wav_ls_2855_3_0.png
   rotate: false
-  xy: 247, 5
+  xy: 214, 4
   size: 11, 16
   orig: 11, 16
   offset: 0, 0
   index: -1
-shirt_F_longtshirt_h_wav_ls_2855_4_1.png
+shirt_F_longtshirt_h_wav_ls_2855_4_0.png
   rotate: false
-  xy: 779, 25
+  xy: 864, 46
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wav_ls_2855_5_0.png
   rotate: false
-  xy: 874, 49
+  xy: 49, 19
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wav_ls_2855_5_1.png
   rotate: false
-  xy: 290, 8
+  xy: 911, 49
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wav_ls_2855_6_0.png
   rotate: false
-  xy: 809, 47
+  xy: 2, 2
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wav_ls_2855_6_1.png
   rotate: false
-  xy: 825, 48
+  xy: 879, 48
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wav_ls_2855_7_0.png
   rotate: false
-  xy: 28, 16
+  xy: 848, 46
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wav_ls_2855_7_1.png
   rotate: false
-  xy: 793, 46
+  xy: 832, 46
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_0_0.png
   rotate: false
-  xy: 227, 23
+  xy: 339, 23
   size: 27, 39
   orig: 27, 39
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_0_1.png
   rotate: false
-  xy: 256, 23
+  xy: 368, 23
   size: 27, 39
   orig: 27, 39
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_0_2.png
   rotate: false
-  xy: 140, 22
+  xy: 169, 22
   size: 27, 40
   orig: 27, 40
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_0_3.png
   rotate: false
-  xy: 111, 22
+  xy: 140, 22
   size: 27, 40
   orig: 27, 40
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_1_0.png
   rotate: false
-  xy: 758, 25
+  xy: 737, 25
   size: 19, 37
   orig: 19, 37
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_1_1.png
   rotate: false
-  xy: 694, 25
+  xy: 672, 25
   size: 20, 37
   orig: 20, 37
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_1_2.png
   rotate: false
-  xy: 737, 25
+  xy: 758, 25
   size: 19, 37
   orig: 19, 37
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_1_3.png
   rotate: false
-  xy: 672, 25
+  xy: 694, 25
   size: 20, 37
   orig: 20, 37
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_2_0.png
   rotate: false
-  xy: 481, 21
+  xy: 227, 21
   size: 26, 41
   orig: 26, 41
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_2_1.png
   rotate: false
-  xy: 453, 21
+  xy: 283, 21
   size: 26, 41
   orig: 26, 41
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_2_2.png
   rotate: false
-  xy: 425, 21
+  xy: 255, 21
   size: 26, 41
   orig: 26, 41
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_2_3.png
   rotate: false
-  xy: 198, 22
+  xy: 111, 22
   size: 27, 40
   orig: 27, 40
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_3_0.png
   rotate: false
-  xy: 313, 23
+  xy: 509, 23
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_3_1.png
   rotate: false
-  xy: 285, 23
+  xy: 481, 23
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_3_2.png
   rotate: false
-  xy: 369, 23
+  xy: 453, 23
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_3_3.png
   rotate: false
-  xy: 341, 23
+  xy: 425, 23
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
@@ -489,294 +489,294 @@ shirt_F_longtshirt_h_wlk_ch_2855_7_0.png
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_7_1.png
   rotate: false
-  xy: 618, 27
+  xy: 564, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_7_2.png
   rotate: false
-  xy: 564, 27
+  xy: 618, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ch_2855_7_7.png
   rotate: false
-  xy: 537, 27
+  xy: 645, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_0_1.png
   rotate: false
-  xy: 846, 32
+  xy: 549, 10
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_0_2.png
   rotate: false
-  xy: 898, 33
+  xy: 1017, 48
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_0_3.png
   rotate: false
-  xy: 864, 33
+  xy: 587, 11
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_1_0.png
   rotate: false
-  xy: 514, 5
+  xy: 447, 7
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_1_1.png
   rotate: false
-  xy: 91, 2
+  xy: 31, 2
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_1_2.png
   rotate: false
-  xy: 503, 5
+  xy: 436, 7
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_1_3.png
   rotate: false
-  xy: 260, 7
+  xy: 926, 48
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_2_0.png
   rotate: false
-  xy: 912, 35
+  xy: 628, 11
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_2_1.png
   rotate: false
-  xy: 855, 32
+  xy: 558, 10
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_2_2.png
   rotate: false
-  xy: 905, 35
+  xy: 635, 11
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_2_3.png
   rotate: false
-  xy: 919, 36
+  xy: 642, 12
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_3_0.png
   rotate: false
-  xy: 163, 2
+  xy: 141, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_3_1.png
   rotate: false
-  xy: 68, 2
+  xy: 77, 2
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_3_2.png
   rotate: false
-  xy: 58, 2
+  xy: 87, 2
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_3_3.png
   rotate: false
-  xy: 153, 2
+  xy: 151, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_7_0.png
   rotate: false
-  xy: 413, 4
+  xy: 300, 2
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_7_1.png
   rotate: false
-  xy: 473, 3
+  xy: 520, 5
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_7_2.png
   rotate: false
-  xy: 403, 4
+  xy: 310, 2
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_ls_2855_7_3.png
   rotate: false
-  xy: 173, 2
+  xy: 191, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_0_0.png
   rotate: false
-  xy: 334, 5
+  xy: 320, 3
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_0_1.png
   rotate: false
-  xy: 223, 2
+  xy: 201, 2
   size: 11, 17
   orig: 11, 17
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_0_2.png
   rotate: false
-  xy: 369, 5
+  xy: 792, 24
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_0_3.png
   rotate: false
-  xy: 346, 4
+  xy: 227, 2
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_1_0.png
   rotate: false
-  xy: 966, 48
+  xy: 458, 7
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_1_1.png
   rotate: false
-  xy: 275, 7
+  xy: 941, 48
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_1_2.png
   rotate: false
-  xy: 525, 5
+  xy: 469, 7
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_1_3.png
   rotate: false
-  xy: 104, 2
+  xy: 44, 2
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_2_0.png
   rotate: false
-  xy: 15, 12
+  xy: 792, 42
   size: 11, 20
   orig: 11, 20
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_2_1.png
   rotate: false
-  xy: 779, 43
+  xy: 805, 43
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_2_2.png
   rotate: false
-  xy: 794, 25
+  xy: 819, 43
   size: 11, 19
   orig: 11, 19
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_2_3.png
   rotate: false
-  xy: 2, 10
+  xy: 779, 40
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_3_0.png
   rotate: false
-  xy: 807, 24
+  xy: 539, 5
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_3_1.png
   rotate: false
-  xy: 183, 2
+  xy: 171, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_3_2.png
   rotate: false
-  xy: 203, 2
+  xy: 161, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_3_3.png
   rotate: false
-  xy: 817, 25
+  xy: 97, 2
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_7_0.png
   rotate: false
-  xy: 423, 2
+  xy: 250, 2
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_7_1.png
   rotate: false
-  xy: 193, 2
+  xy: 131, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_7_2.png
   rotate: false
-  xy: 433, 2
+  xy: 260, 2
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_longtshirt_h_wlk_rs_2855_7_3.png
   rotate: false
-  xy: 483, 3
+  xy: 332, 3
   size: 8, 16
   orig: 8, 16
   offset: 0, 0

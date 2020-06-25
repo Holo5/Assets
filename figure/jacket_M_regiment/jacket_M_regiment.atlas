@@ -6,203 +6,189 @@ filter: Nearest,Nearest
 repeat: none
 jacket_M_regiment_h_crr_lc_3272_0_0.png
   rotate: false
-  xy: 2038, 43
+  xy: 1456, 43
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_lc_3272_2_0.png
   rotate: false
-  xy: 1970, 41
+  xy: 1372, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_lc_3272_3_0.png
   rotate: false
-  xy: 1810, 40
+  xy: 1189, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_lc_3272_4_0.png
   rotate: false
-  xy: 160, 2
+  xy: 142, 2
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_crr_lc_3272_5_0.png
-  rotate: false
-  xy: 1223, 42
-  size: 12, 20
-  orig: 12, 20
-  offset: 0, 0
-  index: -1
 jacket_M_regiment_h_crr_lc_3272_6_0.png
   rotate: false
-  xy: 948, 39
+  xy: 774, 29
   size: 14, 23
   orig: 14, 23
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_lc_3272_7_0.png
   rotate: false
-  xy: 1882, 42
+  xy: 1360, 42
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_crr_lc_3273_1_0.png
-  rotate: false
-  xy: 1090, 43
-  size: 15, 19
-  orig: 15, 19
-  offset: 0, 0
-  index: -1
 jacket_M_regiment_h_crr_lc_3273_2_0.png
   rotate: false
-  xy: 326, 2
+  xy: 376, 33
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_lc_3273_3_0.png
   rotate: false
-  xy: 259, 2
+  xy: 252, 2
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_lc_3273_4_0.png
   rotate: false
-  xy: 429, 36
+  xy: 470, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_crr_lc_3273_5_0.png
-  rotate: false
-  xy: 1056, 43
-  size: 15, 19
-  orig: 15, 19
-  offset: 0, 0
-  index: -1
 jacket_M_regiment_h_crr_lc_3273_6_0.png
   rotate: false
-  xy: 1123, 43
+  xy: 883, 43
   size: 14, 19
   orig: 14, 19
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_lc_3273_7_0.png
   rotate: false
-  xy: 1149, 40
+  xy: 549, 2
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_rc_3272_0_0.png
   rotate: false
-  xy: 1006, 39
+  xy: 840, 39
   size: 14, 23
   orig: 14, 23
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_rc_3272_1_0.png
   rotate: false
-  xy: 1237, 42
+  xy: 957, 42
   size: 12, 20
   orig: 12, 20
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_rc_3272_2_0.png
   rotate: false
-  xy: 142, 2
+  xy: 160, 2
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_rc_3272_3_0.png
   rotate: false
-  xy: 1834, 40
+  xy: 646, 6
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_rc_3272_4_0.png
   rotate: false
-  xy: 1605, 41
+  xy: 984, 41
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_crr_rc_3272_6_0.png
+jacket_M_regiment_h_crr_rc_3272_5_0.png
   rotate: false
-  xy: 1208, 44
-  size: 13, 18
-  orig: 13, 18
+  xy: 943, 42
+  size: 12, 20
+  orig: 12, 20
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_rc_3272_7_0.png
   rotate: false
-  xy: 1894, 42
+  xy: 1279, 42
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_rc_3273_0_0.png
   rotate: false
-  xy: 1107, 43
+  xy: 899, 43
   size: 14, 19
   orig: 14, 19
   offset: 0, 0
   index: -1
+jacket_M_regiment_h_crr_rc_3273_1_0.png
+  rotate: false
+  xy: 748, 2
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
 jacket_M_regiment_h_crr_rc_3273_2_0.png
   rotate: false
-  xy: 469, 36
+  xy: 490, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_rc_3273_3_0.png
   rotate: false
-  xy: 272, 2
+  xy: 265, 2
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_rc_3273_4_0.png
   rotate: false
-  xy: 697, 43
+  xy: 407, 30
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_crr_rc_3273_6_0.png
+jacket_M_regiment_h_crr_rc_3273_5_0.png
   rotate: false
-  xy: 335, 2
-  size: 6, 9
-  orig: 6, 9
+  xy: 709, 29
+  size: 15, 19
+  orig: 15, 19
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_crr_rc_3273_7_0.png
   rotate: false
-  xy: 1509, 34
+  xy: 440, 11
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_drk_rc_3272_0_0.png
   rotate: false
-  xy: 825, 42
+  xy: 430, 18
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_drk_rc_3272_1_0.png
   rotate: false
-  xy: 706, 51
+  xy: 686, 51
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
@@ -223,70 +209,84 @@ jacket_M_regiment_h_drk_rc_3272_3_0.png
   index: -1
 jacket_M_regiment_h_drk_rc_3272_4_0.png
   rotate: false
-  xy: 1175, 47
+  xy: 489, 2
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_drk_rc_3272_5_0.png
   rotate: false
-  xy: 1536, 42
+  xy: 929, 42
   size: 12, 20
   orig: 12, 20
   offset: 0, 0
   index: -1
+jacket_M_regiment_h_drk_rc_3272_6_0.png
+  rotate: false
+  xy: 1240, 44
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
 jacket_M_regiment_h_drk_rc_3272_7_0.png
   rotate: false
-  xy: 378, 26
+  xy: 361, 30
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_drk_rc_3273_0_0.png
   rotate: false
-  xy: 1192, 46
+  xy: 726, 2
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_drk_rc_3273_1_0.png
   rotate: false
-  xy: 733, 50
+  xy: 713, 50
   size: 23, 12
   orig: 23, 12
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_drk_rc_3273_2_0.png
   rotate: false
-  xy: 676, 53
+  xy: 656, 53
   size: 28, 9
   orig: 28, 9
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_drk_rc_3273_3_0.png
   rotate: false
-  xy: 804, 46
+  xy: 468, 18
   size: 19, 16
   orig: 19, 16
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_drk_rc_3273_4_0.png
   rotate: false
-  xy: 1179, 41
+  xy: 798, 34
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_drk_rc_3273_5_0.png
   rotate: false
-  xy: 1073, 43
+  xy: 765, 2
   size: 15, 19
   orig: 15, 19
   offset: 0, 0
   index: -1
+jacket_M_regiment_h_drk_rc_3273_6_0.png
+  rotate: false
+  xy: 790, 29
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
 jacket_M_regiment_h_drk_rc_3273_7_0.png
   rotate: false
-  xy: 343, 5
+  xy: 417, 2
   size: 13, 6
   orig: 13, 6
   offset: 0, 0
@@ -314,21 +314,21 @@ jacket_M_regiment_h_lay_cc_3274_2_0.png
   index: -1
 jacket_M_regiment_h_lay_lc_3272_2_0.png
   rotate: false
-  xy: 676, 40
+  xy: 308, 30
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_lay_lc_3273_2_0.png
   rotate: false
-  xy: 758, 49
+  xy: 738, 49
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_lay_rc_3272_2_0.png
   rotate: false
-  xy: 782, 45
+  xy: 629, 30
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
@@ -363,7 +363,7 @@ jacket_M_regiment_h_std_cc_3272_2_0.png
   index: -1
 jacket_M_regiment_h_std_cc_3272_3_0.png
   rotate: false
-  xy: 159, 31
+  xy: 132, 31
   size: 25, 31
   orig: 25, 31
   offset: 0, 0
@@ -405,217 +405,210 @@ jacket_M_regiment_h_std_cc_3273_3_0.png
   index: -1
 jacket_M_regiment_h_std_cc_3273_7_0.png
   rotate: false
-  xy: 132, 31
+  xy: 159, 31
   size: 25, 31
   orig: 25, 31
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_cc_3274_0_0.png
   rotate: false
-  xy: 649, 49
+  xy: 602, 49
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_cc_3274_1_0.png
   rotate: false
-  xy: 309, 2
+  xy: 508, 25
   size: 15, 9
   orig: 15, 9
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_cc_3274_2_0.png
   rotate: false
-  xy: 622, 49
+  xy: 629, 49
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_cc_3274_3_0.png
   rotate: false
-  xy: 622, 39
+  xy: 602, 39
   size: 25, 8
   orig: 25, 8
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_cc_3274_7_0.png
   rotate: false
-  xy: 649, 39
+  xy: 762, 54
   size: 25, 8
   orig: 25, 8
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_lc_3272_0_0.png
   rotate: false
-  xy: 368, 4
+  xy: 1497, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_lc_3272_1_0.png
   rotate: false
-  xy: 2016, 43
+  xy: 1445, 43
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_lc_3272_2_0.png
   rotate: false
-  xy: 368, 24
+  xy: 1487, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_lc_3272_3_0.png
   rotate: false
-  xy: 1678, 39
+  xy: 1057, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_lc_3272_7_0.png
   rotate: false
-  xy: 1798, 40
+  xy: 1177, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_lc_3273_1_0.png
   rotate: false
-  xy: 706, 43
+  xy: 573, 2
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_std_lc_3273_2_0.png
-  rotate: false
-  xy: 717, 42
-  size: 8, 7
-  orig: 8, 7
-  offset: 0, 0
-  index: -1
 jacket_M_regiment_h_std_lc_3273_3_0.png
   rotate: false
-  xy: 178, 2
+  xy: 738, 20
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_lc_3273_7_0.png
   rotate: false
-  xy: 1499, 36
+  xy: 367, 2
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_rc_3272_0_0.png
   rotate: false
-  xy: 1291, 38
+  xy: 748, 23
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_rc_3272_1_0.png
   rotate: false
-  xy: 2005, 43
+  xy: 1434, 43
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_rc_3272_2_0.png
   rotate: false
-  xy: 1939, 39
+  xy: 618, 14
   size: 9, 23
   orig: 9, 23
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_rc_3272_3_0.png
   rotate: false
-  xy: 1690, 39
+  xy: 1033, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_rc_3272_7_0.png
   rotate: false
-  xy: 1822, 40
+  xy: 1081, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_rc_3273_0_0.png
   rotate: false
-  xy: 297, 4
+  xy: 561, 9
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_rc_3273_1_0.png
   rotate: false
-  xy: 1928, 41
+  xy: 1315, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_rc_3273_2_0.png
   rotate: false
-  xy: 346, 13
+  xy: 726, 20
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_rc_3273_3_0.png
   rotate: false
-  xy: 1469, 35
+  xy: 1404, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_std_rc_3273_7_0.png
   rotate: false
-  xy: 1429, 36
+  xy: 397, 2
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3272_0_0.png
   rotate: false
-  xy: 863, 40
+  xy: 450, 15
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3272_0_1.png
   rotate: false
-  xy: 527, 40
+  xy: 429, 40
   size: 19, 22
   orig: 19, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3272_1_0.png
   rotate: false
-  xy: 1592, 42
+  xy: 1213, 42
   size: 11, 20
   orig: 11, 20
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3272_1_1.png
   rotate: false
-  xy: 1550, 42
+  xy: 695, 29
   size: 12, 20
   orig: 12, 20
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3272_2_0.png
   rotate: false
-  xy: 489, 36
+  xy: 510, 36
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3272_2_1.png
   rotate: false
-  xy: 449, 36
+  xy: 217, 5
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
@@ -636,35 +629,35 @@ jacket_M_regiment_h_wav_lc_3272_3_1.png
   index: -1
 jacket_M_regiment_h_wav_lc_3272_4_0.png
   rotate: false
-  xy: 568, 39
+  xy: 545, 39
   size: 17, 23
   orig: 17, 23
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3272_4_1.png
   rotate: false
-  xy: 605, 39
+  xy: 583, 14
   size: 15, 23
   orig: 15, 23
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3272_5_0.png
   rotate: false
-  xy: 881, 40
+  xy: 807, 40
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3272_5_1.png
   rotate: false
-  xy: 932, 40
+  xy: 824, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3272_6_0.png
   rotate: false
-  xy: 385, 40
+  xy: 407, 40
   size: 20, 22
   orig: 20, 22
   offset: 0, 0
@@ -678,91 +671,91 @@ jacket_M_regiment_h_wav_lc_3272_6_1.png
   index: -1
 jacket_M_regiment_h_wav_lc_3272_7_0.png
   rotate: false
-  xy: 845, 40
+  xy: 600, 15
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3272_7_1.png
   rotate: false
-  xy: 548, 40
+  xy: 564, 40
   size: 18, 22
   orig: 18, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3273_0_0.png
   rotate: false
-  xy: 1169, 41
+  xy: 508, 19
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3273_0_1.png
   rotate: false
-  xy: 1159, 41
+  xy: 329, 37
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_wav_lc_3273_1_1.png
+jacket_M_regiment_h_wav_lc_3273_1_0.png
   rotate: false
-  xy: 393, 26
+  xy: 762, 49
   size: 8, 3
   orig: 8, 3
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3273_2_0.png
   rotate: false
-  xy: 1139, 41
+  xy: 1434, 37
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3273_2_1.png
   rotate: false
-  xy: 378, 2
+  xy: 1515, 58
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3273_3_0.png
   rotate: false
-  xy: 1158, 47
+  xy: 506, 2
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3273_3_1.png
   rotate: false
-  xy: 1139, 47
+  xy: 489, 19
   size: 17, 15
   orig: 17, 15
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3273_4_1.png
   rotate: false
-  xy: 1519, 34
+  xy: 430, 11
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3273_5_0.png
   rotate: false
-  xy: 188, 2
+  xy: 178, 2
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3273_5_1.png
   rotate: false
-  xy: 208, 2
+  xy: 198, 2
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3273_6_0.png
   rotate: false
-  xy: 407, 39
+  xy: 385, 39
   size: 20, 23
   orig: 20, 23
   offset: 0, 0
@@ -776,476 +769,483 @@ jacket_M_regiment_h_wav_lc_3273_6_1.png
   index: -1
 jacket_M_regiment_h_wav_lc_3273_7_0.png
   rotate: false
-  xy: 587, 39
+  xy: 584, 39
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wav_lc_3273_7_1.png
   rotate: false
-  xy: 507, 39
+  xy: 450, 39
   size: 18, 23
   orig: 18, 23
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_wlk_lc_3272_0_1.png
+jacket_M_regiment_h_wlk_lc_3272_0_0.png
   rotate: false
-  xy: 358, 4
-  size: 8, 17
-  orig: 8, 17
-  offset: 0, 0
-  index: -1
-jacket_M_regiment_h_wlk_lc_3272_0_2.png
-  rotate: false
-  xy: 358, 23
+  xy: 1477, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
+jacket_M_regiment_h_wlk_lc_3272_0_1.png
+  rotate: false
+  xy: 651, 30
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
 jacket_M_regiment_h_wlk_lc_3272_0_3.png
   rotate: false
-  xy: 1523, 41
+  xy: 971, 41
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
   index: -1
+jacket_M_regiment_h_wlk_lc_3272_1_0.png
+  rotate: false
+  xy: 1267, 43
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
 jacket_M_regiment_h_wlk_lc_3272_1_1.png
   rotate: false
-  xy: 1039, 42
+  xy: 629, 8
   size: 15, 20
   orig: 15, 20
   offset: 0, 0
   index: -1
+jacket_M_regiment_h_wlk_lc_3272_1_2.png
+  rotate: false
+  xy: 1255, 43
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
 jacket_M_regiment_h_wlk_lc_3272_1_3.png
   rotate: false
-  xy: 1578, 43
+  xy: 915, 43
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3272_2_0.png
   rotate: false
-  xy: 2027, 44
+  xy: 1466, 44
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3272_2_1.png
   rotate: false
-  xy: 1870, 42
+  xy: 1348, 42
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3272_2_3.png
   rotate: false
-  xy: 378, 8
+  xy: 1507, 46
   size: 6, 16
   orig: 6, 16
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3272_3_1.png
   rotate: false
-  xy: 1666, 39
+  xy: 1069, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3272_3_2.png
   rotate: false
-  xy: 285, 2
+  xy: 278, 2
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3272_3_3.png
   rotate: false
-  xy: 1618, 41
+  xy: 1291, 41
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3272_7_0.png
   rotate: false
-  xy: 1762, 40
+  xy: 1129, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3272_7_1.png
   rotate: false
-  xy: 1750, 40
+  xy: 1117, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3272_7_2.png
   rotate: false
-  xy: 1738, 40
+  xy: 1105, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3272_7_3.png
   rotate: false
-  xy: 1726, 40
+  xy: 1093, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_wlk_lc_3273_0_1.png
+jacket_M_regiment_h_wlk_lc_3273_0_0.png
   rotate: false
-  xy: 105, 25
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jacket_M_regiment_h_wlk_lc_3273_0_2.png
-  rotate: false
-  xy: 393, 31
+  xy: 385, 30
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3273_0_3.png
   rotate: false
-  xy: 386, 10
+  xy: 559, 2
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3273_1_0.png
   rotate: false
-  xy: 1917, 41
+  xy: 1326, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3273_1_1.png
   rotate: false
-  xy: 898, 40
+  xy: 661, 29
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3273_1_2.png
   rotate: false
-  xy: 1906, 41
+  xy: 1337, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3273_1_3.png
   rotate: false
-  xy: 1630, 40
+  xy: 1141, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3273_2_1.png
   rotate: false
-  xy: 386, 17
+  xy: 395, 30
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_wlk_lc_3273_3_1.png
+jacket_M_regiment_h_wlk_lc_3273_2_2.png
   rotate: false
-  xy: 1407, 37
-  size: 9, 25
-  orig: 9, 25
+  xy: 525, 25
+  size: 8, 7
+  orig: 8, 7
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_wlk_lc_3273_3_2.png
+jacket_M_regiment_h_wlk_lc_3273_2_3.png
   rotate: false
-  xy: 1479, 34
+  xy: 105, 25
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_M_regiment_h_wlk_lc_3273_3_0.png
+  rotate: false
+  xy: 573, 10
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
+jacket_M_regiment_h_wlk_lc_3273_3_1.png
+  rotate: false
+  xy: 704, 2
+  size: 9, 25
+  orig: 9, 25
+  offset: 0, 0
+  index: -1
 jacket_M_regiment_h_wlk_lc_3273_3_3.png
   rotate: false
-  xy: 1396, 37
+  xy: 715, 2
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3273_7_0.png
   rotate: false
-  xy: 1439, 36
+  xy: 407, 2
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3273_7_1.png
   rotate: false
-  xy: 1374, 37
+  xy: 782, 2
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3273_7_2.png
   rotate: false
-  xy: 1340, 36
+  xy: 356, 2
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_lc_3273_7_3.png
   rotate: false
-  xy: 1363, 37
+  xy: 1383, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_0_0.png
   rotate: false
-  xy: 1265, 40
+  xy: 870, 40
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_0_1.png
   rotate: false
-  xy: 1251, 40
+  xy: 856, 40
   size: 12, 22
   orig: 12, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_0_2.png
   rotate: false
-  xy: 1278, 38
+  xy: 761, 23
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_0_3.png
   rotate: false
-  xy: 1509, 41
+  xy: 523, 2
   size: 12, 21
   orig: 12, 21
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_wlk_rc_3272_1_0.png
-  rotate: false
-  xy: 1981, 43
-  size: 10, 19
-  orig: 10, 19
-  offset: 0, 0
-  index: -1
 jacket_M_regiment_h_wlk_rc_3272_1_1.png
   rotate: false
-  xy: 1564, 43
+  xy: 1226, 43
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
   index: -1
-jacket_M_regiment_h_wlk_rc_3272_1_2.png
-  rotate: false
-  xy: 1993, 43
-  size: 10, 19
-  orig: 10, 19
-  offset: 0, 0
-  index: -1
 jacket_M_regiment_h_wlk_rc_3272_1_3.png
   rotate: false
-  xy: 1022, 42
+  xy: 678, 29
   size: 15, 20
   orig: 15, 20
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_2_0.png
   rotate: false
-  xy: 980, 36
+  xy: 319, 2
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_2_1.png
   rotate: false
-  xy: 227, 2
+  xy: 237, 2
   size: 13, 25
   orig: 13, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_2_2.png
   rotate: false
-  xy: 993, 36
+  xy: 306, 2
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_2_3.png
   rotate: false
-  xy: 964, 36
+  xy: 290, 6
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_3_0.png
   rotate: false
-  xy: 1702, 39
+  xy: 1045, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_3_1.png
   rotate: false
-  xy: 1774, 40
+  xy: 1153, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_3_3.png
   rotate: false
-  xy: 1858, 41
+  xy: 1303, 41
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_7_0.png
   rotate: false
-  xy: 1642, 40
+  xy: 997, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_7_1.png
   rotate: false
-  xy: 1846, 41
+  xy: 1201, 41
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_7_2.png
   rotate: false
-  xy: 1714, 40
+  xy: 1009, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3272_7_3.png
   rotate: false
-  xy: 1654, 39
+  xy: 1021, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_0_0.png
   rotate: false
-  xy: 1328, 36
+  xy: 344, 2
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_0_1.png
   rotate: false
-  xy: 1351, 37
+  xy: 670, 2
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_0_2.png
   rotate: false
-  xy: 1316, 36
+  xy: 332, 2
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_0_3.png
   rotate: false
-  xy: 1304, 37
+  xy: 658, 2
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_1_1.png
   rotate: false
-  xy: 1786, 40
+  xy: 1165, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_1_3.png
   rotate: false
-  xy: 915, 40
+  xy: 790, 40
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_2_0.png
   rotate: false
-  xy: 334, 13
+  xy: 549, 9
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_2_1.png
   rotate: false
-  xy: 309, 13
+  xy: 417, 10
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_2_2.png
   rotate: false
-  xy: 322, 13
+  xy: 537, 4
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_2_3.png
   rotate: false
-  xy: 242, 4
+  xy: 528, 34
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_3_1.png
   rotate: false
-  xy: 1960, 37
+  xy: 1414, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_3_2.png
   rotate: false
-  xy: 1489, 35
+  xy: 1394, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_3_3.png
   rotate: false
-  xy: 1418, 37
+  xy: 682, 2
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_7_0.png
   rotate: false
-  xy: 1459, 36
+  xy: 377, 2
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_7_1.png
   rotate: false
-  xy: 1385, 37
+  xy: 693, 2
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_7_2.png
   rotate: false
-  xy: 1449, 36
+  xy: 387, 2
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_M_regiment_h_wlk_rc_3273_7_3.png
   rotate: false
-  xy: 1950, 37
+  xy: 1424, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0

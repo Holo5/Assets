@@ -1,0 +1,20 @@
+
+chess16_GFloor.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess16_GFloor_chess16_GFloor_64_a_2_0.png
+  rotate: false
+  xy: 2, 22
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+chess16_GFloor_chess16_GFloor_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1

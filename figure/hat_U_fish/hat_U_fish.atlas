@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 hat_U_fish_h_lay_ha_2591_2_0.png
   rotate: false
-  xy: 81, 29
+  xy: 116, 29
   size: 39, 33
   orig: 39, 33
   offset: 0, 0
   index: -1
 hat_U_fish_h_lay_ha_2592_2_0.png
   rotate: false
-  xy: 541, 41
+  xy: 470, 8
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
   index: -1
 hat_U_fish_h_lsp_ha_2591_2_0.png
   rotate: false
-  xy: 38, 28
+  xy: 73, 28
   size: 41, 34
   orig: 41, 34
   offset: 0, 0
   index: -1
 hat_U_fish_h_lsp_ha_2592_2_0.png
   rotate: false
-  xy: 470, 6
+  xy: 541, 39
   size: 27, 23
   orig: 27, 23
   offset: 0, 0
@@ -41,21 +41,21 @@ hat_U_fish_h_lsp_ha_2593_2_0.png
   index: -1
 hat_U_fish_h_spk_ha_2591_0_0.png
   rotate: false
-  xy: 336, 24
+  xy: 300, 24
   size: 32, 38
   orig: 32, 38
   offset: 0, 0
   index: -1
 hat_U_fish_h_spk_ha_2591_1_0.png
   rotate: false
-  xy: 264, 23
+  xy: 228, 23
   size: 34, 39
   orig: 34, 39
   offset: 0, 0
   index: -1
 hat_U_fish_h_spk_ha_2591_2_0.png
   rotate: false
-  xy: 229, 20
+  xy: 38, 20
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
@@ -69,7 +69,7 @@ hat_U_fish_h_spk_ha_2591_3_0.png
   index: -1
 hat_U_fish_h_spk_ha_2591_7_0.png
   rotate: false
-  xy: 404, 28
+  xy: 368, 28
   size: 34, 34
   orig: 34, 34
   offset: 0, 0
@@ -104,42 +104,70 @@ hat_U_fish_h_spk_ha_2592_3_0.png
   index: -1
 hat_U_fish_h_spk_ha_2592_7_0.png
   rotate: false
-  xy: 300, 2
+  xy: 264, 2
   size: 32, 21
   orig: 32, 21
   offset: 0, 0
   index: -1
+hat_U_fish_h_spk_ha_2593_0_0.png
+  rotate: false
+  xy: 626, 49
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+hat_U_fish_h_spk_ha_2593_1_0.png
+  rotate: false
+  xy: 23, 8
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+hat_U_fish_h_spk_ha_2593_2_0.png
+  rotate: false
+  xy: 2, 6
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+hat_U_fish_h_spk_ha_2593_3_0.png
+  rotate: false
+  xy: 570, 11
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
 hat_U_fish_h_std_ha_2591_0_0.png
   rotate: false
-  xy: 370, 26
+  xy: 334, 26
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 hat_U_fish_h_std_ha_2591_1_0.png
   rotate: false
-  xy: 300, 25
+  xy: 264, 25
   size: 34, 37
   orig: 34, 37
   offset: 0, 0
   index: -1
 hat_U_fish_h_std_ha_2591_2_0.png
   rotate: false
-  xy: 194, 22
+  xy: 193, 22
   size: 33, 40
   orig: 33, 40
   offset: 0, 0
   index: -1
 hat_U_fish_h_std_ha_2591_3_0.png
   rotate: false
-  xy: 158, 22
+  xy: 157, 22
   size: 34, 40
   orig: 34, 40
   offset: 0, 0
   index: -1
 hat_U_fish_h_std_ha_2591_7_0.png
   rotate: false
-  xy: 122, 29
+  xy: 404, 29
   size: 34, 33
   orig: 34, 33
   offset: 0, 0
@@ -174,37 +202,9 @@ hat_U_fish_h_std_ha_2592_3_0.png
   index: -1
 hat_U_fish_h_std_ha_2592_7_0.png
   rotate: false
-  xy: 334, 2
+  xy: 298, 2
   size: 32, 20
   orig: 32, 20
-  offset: 0, 0
-  index: -1
-hat_U_fish_h_std_ha_2593_0_0.png
-  rotate: false
-  xy: 626, 49
-  size: 17, 13
-  orig: 17, 13
-  offset: 0, 0
-  index: -1
-hat_U_fish_h_std_ha_2593_1_0.png
-  rotate: false
-  xy: 23, 8
-  size: 11, 10
-  orig: 11, 10
-  offset: 0, 0
-  index: -1
-hat_U_fish_h_std_ha_2593_2_0.png
-  rotate: false
-  xy: 2, 6
-  size: 19, 12
-  orig: 19, 12
-  offset: 0, 0
-  index: -1
-hat_U_fish_h_std_ha_2593_3_0.png
-  rotate: false
-  xy: 570, 11
-  size: 22, 9
-  orig: 22, 9
   offset: 0, 0
   index: -1
 hat_U_fish_h_std_ha_2593_7_0.png

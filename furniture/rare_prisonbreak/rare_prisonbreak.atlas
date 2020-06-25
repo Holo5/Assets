@@ -1,0 +1,76 @@
+
+rare_prisonbreak.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_prisonbreak_rare_prisonbreak_64_a_2_0.png
+  rotate: false
+  xy: 2, 170
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+rare_prisonbreak_rare_prisonbreak_64_a_2_1.png
+  rotate: false
+  xy: 2, 86
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+rare_prisonbreak_rare_prisonbreak_64_a_2_2.png
+  rotate: false
+  xy: 40, 170
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+rare_prisonbreak_rare_prisonbreak_64_a_2_3.png
+  rotate: false
+  xy: 78, 170
+  size: 30, 82
+  orig: 30, 82
+  offset: 0, 0
+  index: -1
+rare_prisonbreak_rare_prisonbreak_64_a_2_4.png
+  rotate: false
+  xy: 40, 2
+  size: 30, 82
+  orig: 30, 82
+  offset: 0, 0
+  index: -1
+rare_prisonbreak_rare_prisonbreak_64_a_2_5.png
+  rotate: false
+  xy: 78, 86
+  size: 30, 82
+  orig: 30, 82
+  offset: 0, 0
+  index: -1
+rare_prisonbreak_rare_prisonbreak_64_a_2_6.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+rare_prisonbreak_rare_prisonbreak_64_a_2_7.png
+  rotate: false
+  xy: 40, 86
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+rare_prisonbreak_rare_prisonbreak_64_sd_2_0.png
+  rotate: false
+  xy: 72, 67
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+rare_prisonbreak_rare_prisonbreak_icon_a.png
+  rotate: false
+  xy: 72, 41
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1

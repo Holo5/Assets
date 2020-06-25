@@ -1,0 +1,27 @@
+
+colamachine.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+colamachine_colamachine_64_a_2_0.png
+  rotate: false
+  xy: 2, 143
+  size: 57, 109
+  orig: 57, 109
+  offset: 0, 0
+  index: -1
+colamachine_colamachine_64_a_4_0.png
+  rotate: false
+  xy: 2, 32
+  size: 57, 109
+  orig: 57, 109
+  offset: 0, 0
+  index: -1
+colamachine_colamachine_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1

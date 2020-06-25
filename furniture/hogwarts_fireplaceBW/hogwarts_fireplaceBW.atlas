@@ -1,0 +1,62 @@
+
+hogwarts_fireplaceBW.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hogwarts_fireplaceBW_hogwarts_fireplaceBW_64_a_4_0.png
+  rotate: false
+  xy: 148, 620
+  size: 84, 246
+  orig: 84, 246
+  offset: 0, 0
+  index: -1
+hogwarts_fireplaceBW_hogwarts_fireplaceBW_64_b_4_0.png
+  rotate: false
+  xy: 75, 312
+  size: 71, 276
+  orig: 71, 276
+  offset: 0, 0
+  index: -1
+hogwarts_fireplaceBW_hogwarts_fireplaceBW_64_b_4_1.png
+  rotate: false
+  xy: 2, 590
+  size: 71, 276
+  orig: 71, 276
+  offset: 0, 0
+  index: -1
+hogwarts_fireplaceBW_hogwarts_fireplaceBW_64_b_4_2.png
+  rotate: false
+  xy: 2, 312
+  size: 71, 276
+  orig: 71, 276
+  offset: 0, 0
+  index: -1
+hogwarts_fireplaceBW_hogwarts_fireplaceBW_64_b_4_3.png
+  rotate: false
+  xy: 75, 590
+  size: 71, 276
+  orig: 71, 276
+  offset: 0, 0
+  index: -1
+hogwarts_fireplaceBW_hogwarts_fireplaceBW_64_b_4_4.png
+  rotate: false
+  xy: 2, 34
+  size: 71, 276
+  orig: 71, 276
+  offset: 0, 0
+  index: -1
+hogwarts_fireplaceBW_hogwarts_fireplaceBW_64_c_4_0.png
+  rotate: false
+  xy: 75, 64
+  size: 40, 246
+  orig: 40, 246
+  offset: 0, 0
+  index: -1
+hogwarts_fireplaceBW_hogwarts_fireplaceBW_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

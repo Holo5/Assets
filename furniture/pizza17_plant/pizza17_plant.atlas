@@ -1,0 +1,48 @@
+
+pizza17_plant.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pizza17_plant_pizza17_plant_64_a_2_0.png
+  rotate: false
+  xy: 164, 32
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+pizza17_plant_pizza17_plant_64_a_2_1.png
+  rotate: false
+  xy: 110, 32
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+pizza17_plant_pizza17_plant_64_a_2_2.png
+  rotate: false
+  xy: 2, 21
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+pizza17_plant_pizza17_plant_64_a_2_3.png
+  rotate: false
+  xy: 56, 21
+  size: 52, 77
+  orig: 52, 77
+  offset: 0, 0
+  index: -1
+pizza17_plant_pizza17_plant_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+pizza17_plant_pizza17_plant_icon_a.png
+  rotate: false
+  xy: 218, 77
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1

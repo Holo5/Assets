@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 jacket_U_camo_h_crr_lc_2501_0_0.png
   rotate: false
-  xy: 547, 10
+  xy: 505, 18
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_U_camo_h_crr_lc_2501_1_0.png
   rotate: false
-  xy: 801, 42
+  xy: 797, 42
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 jacket_U_camo_h_crr_lc_2501_2_0.png
   rotate: false
-  xy: 919, 37
+  xy: 764, 37
   size: 12, 25
   orig: 12, 25
   offset: 0, 0
   index: -1
 jacket_U_camo_h_crr_lc_2501_3_0.png
   rotate: false
-  xy: 725, 35
+  xy: 738, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
@@ -41,42 +41,42 @@ jacket_U_camo_h_crr_lc_2501_4_0.png
   index: -1
 jacket_U_camo_h_crr_lc_2501_5_0.png
   rotate: false
-  xy: 782, 42
+  xy: 778, 42
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 jacket_U_camo_h_crr_lc_2501_6_0.png
   rotate: false
-  xy: 115, 2
+  xy: 95, 2
   size: 18, 23
   orig: 18, 23
   offset: 0, 0
   index: -1
 jacket_U_camo_h_crr_lc_2501_7_0.png
   rotate: false
-  xy: 493, 20
+  xy: 449, 29
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 jacket_U_camo_h_crr_rc_2501_0_0.png
   rotate: false
-  xy: 95, 2
+  xy: 115, 2
   size: 18, 23
   orig: 18, 23
   offset: 0, 0
   index: -1
 jacket_U_camo_h_crr_rc_2501_1_0.png
   rotate: false
-  xy: 820, 42
+  xy: 504, 42
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 jacket_U_camo_h_crr_rc_2501_2_0.png
   rotate: false
-  xy: 161, 2
+  xy: 169, 2
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
@@ -90,21 +90,21 @@ jacket_U_camo_h_crr_rc_2501_3_0.png
   index: -1
 jacket_U_camo_h_crr_rc_2501_4_0.png
   rotate: false
-  xy: 905, 37
+  xy: 882, 37
   size: 12, 25
   orig: 12, 25
   offset: 0, 0
   index: -1
 jacket_U_camo_h_crr_rc_2501_6_0.png
   rotate: false
-  xy: 539, 10
+  xy: 497, 18
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_U_camo_h_crr_rc_2501_7_0.png
   rotate: false
-  xy: 470, 26
+  xy: 473, 26
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
@@ -118,49 +118,49 @@ jacket_U_camo_h_drk_rc_2501_0_0.png
   index: -1
 jacket_U_camo_h_drk_rc_2501_1_0.png
   rotate: false
-  xy: 345, 47
+  xy: 318, 47
   size: 27, 15
   orig: 27, 15
   offset: 0, 0
   index: -1
 jacket_U_camo_h_drk_rc_2501_2_0.png
   rotate: false
-  xy: 318, 45
+  xy: 406, 45
   size: 25, 17
   orig: 25, 17
   offset: 0, 0
   index: -1
 jacket_U_camo_h_drk_rc_2501_3_0.png
   rotate: false
-  xy: 504, 41
+  xy: 523, 41
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 jacket_U_camo_h_drk_rc_2501_4_0.png
   rotate: false
-  xy: 454, 28
+  xy: 433, 31
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 jacket_U_camo_h_drk_rc_2501_5_0.png
   rotate: false
-  xy: 404, 48
+  xy: 347, 48
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 jacket_U_camo_h_drk_rc_2501_6_0.png
   rotate: false
-  xy: 374, 49
+  xy: 376, 49
   size: 28, 13
   orig: 28, 13
   offset: 0, 0
   index: -1
 jacket_U_camo_h_drk_rc_2501_7_0.png
   rotate: false
-  xy: 481, 24
+  xy: 1012, 17
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
@@ -195,7 +195,7 @@ jacket_U_camo_h_lay_rc_2501_2_0.png
   index: -1
 jacket_U_camo_h_std_cc_2501_0_0.png
   rotate: false
-  xy: 123, 27
+  xy: 96, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
@@ -216,7 +216,7 @@ jacket_U_camo_h_std_cc_2501_2_0.png
   index: -1
 jacket_U_camo_h_std_cc_2501_3_0.png
   rotate: false
-  xy: 96, 27
+  xy: 123, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
@@ -230,21 +230,21 @@ jacket_U_camo_h_std_cc_2501_7_0.png
   index: -1
 jacket_U_camo_h_std_cc_2502_0_0.png
   rotate: false
-  xy: 555, 27
+  xy: 531, 34
   size: 11, 5
   orig: 11, 5
   offset: 0, 0
   index: -1
 jacket_U_camo_h_std_cc_2502_1_0.png
   rotate: false
-  xy: 232, 31
+  xy: 455, 24
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 jacket_U_camo_h_std_cc_2502_2_0.png
   rotate: false
-  xy: 873, 40
+  xy: 850, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
@@ -258,42 +258,42 @@ jacket_U_camo_h_std_cc_2502_3_0.png
   index: -1
 jacket_U_camo_h_std_cc_2502_7_0.png
   rotate: false
-  xy: 764, 35
+  xy: 292, 37
   size: 13, 4
   orig: 13, 4
   offset: 0, 0
   index: -1
 jacket_U_camo_h_std_lc_2501_0_0.png
   rotate: false
-  xy: 514, 14
+  xy: 386, 4
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_U_camo_h_std_lc_2501_2_0.png
   rotate: false
-  xy: 1016, 10
+  xy: 395, 4
   size: 6, 25
   orig: 6, 25
   offset: 0, 0
   index: -1
 jacket_U_camo_h_std_lc_2501_3_0.png
   rotate: false
-  xy: 287, 5
+  xy: 921, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 jacket_U_camo_h_std_lc_2501_7_0.png
   rotate: false
-  xy: 265, 2
+  xy: 246, 2
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_U_camo_h_std_rc_2501_0_0.png
   rotate: false
-  xy: 194, 2
+  xy: 202, 2
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
@@ -307,91 +307,91 @@ jacket_U_camo_h_std_rc_2501_1_0.png
   index: -1
 jacket_U_camo_h_std_rc_2501_2_0.png
   rotate: false
-  xy: 946, 31
+  xy: 909, 31
   size: 10, 31
   orig: 10, 31
   offset: 0, 0
   index: -1
 jacket_U_camo_h_std_rc_2501_3_0.png
   rotate: false
-  xy: 207, 2
+  xy: 932, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 jacket_U_camo_h_std_rc_2501_7_0.png
   rotate: false
-  xy: 254, 2
+  xy: 268, 2
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wav_lc_2501_0_0.png
   rotate: false
-  xy: 696, 35
+  xy: 631, 35
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wav_lc_2501_0_1.png
   rotate: false
-  xy: 613, 35
+  xy: 578, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wav_lc_2501_1_0.png
   rotate: false
-  xy: 664, 37
+  xy: 679, 37
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wav_lc_2501_1_1.png
   rotate: false
-  xy: 631, 37
+  xy: 646, 37
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wav_lc_2501_2_0.png
   rotate: false
-  xy: 595, 35
+  xy: 560, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wav_lc_2501_2_1.png
   rotate: false
-  xy: 253, 36
+  xy: 272, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wav_lc_2501_3_0.png
   rotate: false
-  xy: 578, 34
+  xy: 614, 34
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wav_lc_2501_3_1.png
   rotate: false
-  xy: 523, 34
+  xy: 232, 34
   size: 17, 28
   orig: 17, 28
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wav_lc_2501_4_0.png
   rotate: false
-  xy: 232, 36
+  xy: 251, 36
   size: 19, 26
   orig: 19, 26
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wav_lc_2501_4_1.png
   rotate: false
-  xy: 273, 36
+  xy: 150, 2
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
@@ -405,7 +405,7 @@ jacket_U_camo_h_wav_lc_2501_5_0.png
   index: -1
 jacket_U_camo_h_wav_lc_2501_5_1.png
   rotate: false
-  xy: 542, 34
+  xy: 228, 4
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
@@ -426,7 +426,7 @@ jacket_U_camo_h_wav_lc_2501_6_1.png
   index: -1
 jacket_U_camo_h_wav_lc_2501_7_0.png
   rotate: false
-  xy: 560, 34
+  xy: 596, 34
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
@@ -440,147 +440,147 @@ jacket_U_camo_h_wav_lc_2501_7_1.png
   index: -1
 jacket_U_camo_h_wlk_lc_2501_0_0.png
   rotate: false
-  xy: 445, 24
+  xy: 412, 4
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_0_1.png
   rotate: false
-  xy: 504, 20
+  xy: 513, 21
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_0_2.png
   rotate: false
-  xy: 436, 24
+  xy: 403, 4
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_0_3.png
   rotate: false
-  xy: 243, 2
+  xy: 279, 2
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_1_0.png
   rotate: false
-  xy: 423, 24
+  xy: 460, 24
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_1_1.png
   rotate: false
-  xy: 764, 41
+  xy: 542, 41
   size: 16, 21
   orig: 16, 21
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_1_2.png
   rotate: false
-  xy: 410, 24
+  xy: 442, 5
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_1_3.png
   rotate: false
-  xy: 857, 40
+  xy: 834, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_2_0.png
   rotate: false
-  xy: 1016, 37
+  xy: 378, 4
   size: 6, 25
   orig: 6, 25
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_2_1.png
   rotate: false
-  xy: 933, 37
+  xy: 896, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_2_2.png
   rotate: false
-  xy: 531, 8
+  xy: 421, 5
   size: 6, 24
   orig: 6, 24
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_2_3.png
   rotate: false
-  xy: 523, 13
+  xy: 523, 20
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_3_0.png
   rotate: false
-  xy: 982, 34
+  xy: 967, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_3_1.png
   rotate: false
-  xy: 970, 34
+  xy: 955, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_3_2.png
   rotate: false
-  xy: 958, 34
+  xy: 943, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_3_3.png
   rotate: false
-  xy: 231, 2
+  xy: 1012, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_7_0.png
   rotate: false
-  xy: 386, 21
+  xy: 367, 3
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_7_1.png
   rotate: false
-  xy: 375, 21
+  xy: 356, 3
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_7_2.png
   rotate: false
-  xy: 364, 19
+  xy: 345, 3
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_lc_2501_7_3.png
   rotate: false
-  xy: 353, 19
+  xy: 334, 3
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_0_0.png
   rotate: false
-  xy: 179, 2
+  xy: 187, 2
   size: 13, 29
   orig: 13, 29
   offset: 0, 0
@@ -594,42 +594,42 @@ jacket_U_camo_h_wlk_rc_2501_0_1.png
   index: -1
 jacket_U_camo_h_wlk_rc_2501_0_2.png
   rotate: false
-  xy: 738, 34
+  xy: 725, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_0_3.png
   rotate: false
-  xy: 648, 37
+  xy: 663, 37
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_1_0.png
   rotate: false
-  xy: 148, 2
+  xy: 429, 6
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_1_1.png
   rotate: false
-  xy: 889, 40
+  xy: 866, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_1_2.png
   rotate: false
-  xy: 397, 23
+  xy: 484, 17
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_1_3.png
   rotate: false
-  xy: 839, 41
+  xy: 816, 41
   size: 16, 21
   orig: 16, 21
   offset: 0, 0
@@ -650,70 +650,70 @@ jacket_U_camo_h_wlk_rc_2501_2_1.png
   index: -1
 jacket_U_camo_h_wlk_rc_2501_2_2.png
   rotate: false
-  xy: 218, 2
+  xy: 215, 2
   size: 11, 30
   orig: 11, 30
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_2_3.png
   rotate: false
-  xy: 680, 36
+  xy: 695, 36
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_3_0.png
   rotate: false
-  xy: 298, 13
+  xy: 1001, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_3_1.png
   rotate: false
-  xy: 276, 2
+  xy: 257, 2
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_3_2.png
   rotate: false
-  xy: 994, 34
+  xy: 979, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_3_3.png
   rotate: false
-  xy: 1005, 34
+  xy: 990, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_7_0.png
   rotate: false
-  xy: 342, 17
+  xy: 323, 3
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_7_1.png
   rotate: false
-  xy: 309, 15
+  xy: 301, 3
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_7_2.png
   rotate: false
-  xy: 320, 17
+  xy: 312, 3
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_U_camo_h_wlk_rc_2501_7_3.png
   rotate: false
-  xy: 331, 17
+  xy: 290, 3
   size: 9, 26
   orig: 9, 26
   offset: 0, 0

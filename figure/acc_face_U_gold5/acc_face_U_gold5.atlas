@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 acc_face_U_gold5_h_lay_fa_2813_2_0.png
   rotate: false
-  xy: 66, 2
+  xy: 122, 2
   size: 26, 21
   orig: 26, 21
   offset: 0, 0
@@ -27,21 +27,21 @@ acc_face_U_gold5_h_spk_fa_2813_0_0.png
   index: -1
 acc_face_U_gold5_h_spk_fa_2813_1_0.png
   rotate: false
-  xy: 178, 6
+  xy: 207, 6
   size: 27, 17
   orig: 27, 17
   offset: 0, 0
   index: -1
 acc_face_U_gold5_h_spk_fa_2813_2_0.png
   rotate: false
-  xy: 2, 4
+  xy: 34, 4
   size: 30, 19
   orig: 30, 19
   offset: 0, 0
   index: -1
 acc_face_U_gold5_h_spk_fa_2813_3_0.png
   rotate: false
-  xy: 122, 2
+  xy: 66, 2
   size: 26, 21
   orig: 26, 21
   offset: 0, 0
@@ -55,14 +55,14 @@ acc_face_U_gold5_h_std_fa_2813_0_0.png
   index: -1
 acc_face_U_gold5_h_std_fa_2813_1_0.png
   rotate: false
-  xy: 207, 6
+  xy: 178, 6
   size: 27, 17
   orig: 27, 17
   offset: 0, 0
   index: -1
 acc_face_U_gold5_h_std_fa_2813_2_0.png
   rotate: false
-  xy: 34, 4
+  xy: 2, 4
   size: 30, 19
   orig: 30, 19
   offset: 0, 0

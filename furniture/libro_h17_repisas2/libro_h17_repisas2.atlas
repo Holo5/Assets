@@ -1,0 +1,27 @@
+
+libro_h17_repisas2.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+libro_h17_repisas2_libro_h17_repisas2_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 66, 156
+  orig: 66, 156
+  offset: 0, 0
+  index: -1
+libro_h17_repisas2_libro_h17_repisas2_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+libro_h17_repisas2_libro_h17_repisas2_icon_a.png
+  rotate: false
+  xy: 70, 160
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

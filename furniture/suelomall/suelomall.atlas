@@ -1,0 +1,27 @@
+
+suelomall.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suelomall_suelomall_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 128, 67
+  orig: 128, 67
+  offset: 0, 0
+  index: -1
+suelomall_suelomall_64_a_0_1.png
+  rotate: false
+  xy: 132, 2
+  size: 128, 67
+  orig: 128, 67
+  offset: 0, 0
+  index: -1
+suelomall_suelomall_64_a_0_2.png
+  rotate: false
+  xy: 262, 2
+  size: 128, 67
+  orig: 128, 67
+  offset: 0, 0
+  index: -1

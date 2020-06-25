@@ -1,0 +1,20 @@
+
+iceage_egg.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+iceage_egg_iceage_egg_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+iceage_egg_iceage_egg_icon_a.png
+  rotate: false
+  xy: 62, 29
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

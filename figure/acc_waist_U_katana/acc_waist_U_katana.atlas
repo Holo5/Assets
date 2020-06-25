@@ -1,0 +1,90 @@
+
+acc_waist_U_katana.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_waist_U_katana_h_lay_wa_9004_2_0.png
+  rotate: false
+  xy: 220, 33
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+acc_waist_U_katana_h_lay_wa_9005_2_0.png
+  rotate: false
+  xy: 193, 33
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+acc_waist_U_katana_h_std_wa_9004_0_0.png
+  rotate: false
+  xy: 2, 30
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+acc_waist_U_katana_h_std_wa_9004_1_0.png
+  rotate: false
+  xy: 85, 2
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+acc_waist_U_katana_h_std_wa_9004_2_0.png
+  rotate: false
+  xy: 58, 33
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+acc_waist_U_katana_h_std_wa_9004_3_0.png
+  rotate: false
+  xy: 31, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+acc_waist_U_katana_h_std_wa_9004_7_0.png
+  rotate: false
+  xy: 31, 33
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+acc_waist_U_katana_h_std_wa_9005_0_0.png
+  rotate: false
+  xy: 112, 33
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+acc_waist_U_katana_h_std_wa_9005_1_0.png
+  rotate: false
+  xy: 166, 33
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+acc_waist_U_katana_h_std_wa_9005_2_0.png
+  rotate: false
+  xy: 139, 33
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+acc_waist_U_katana_h_std_wa_9005_3_0.png
+  rotate: false
+  xy: 58, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+acc_waist_U_katana_h_std_wa_9005_7_0.png
+  rotate: false
+  xy: 85, 33
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1

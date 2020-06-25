@@ -1,0 +1,83 @@
+
+hat_U_hgold.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_hgold_h_lay_ha_8450_2_0.png
+  rotate: false
+  xy: 321, 16
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+hat_U_hgold_h_lsp_ha_8450_2_0.png
+  rotate: false
+  xy: 276, 16
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+hat_U_hgold_h_spk_ha_8450_0_0.png
+  rotate: false
+  xy: 228, 17
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+hat_U_hgold_h_spk_ha_8450_1_0.png
+  rotate: false
+  xy: 131, 16
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+hat_U_hgold_h_spk_ha_8450_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+hat_U_hgold_h_spk_ha_8450_3_0.png
+  rotate: false
+  xy: 396, 2
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+hat_U_hgold_h_spk_ha_8450_7_0.png
+  rotate: false
+  xy: 428, 13
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+hat_U_hgold_h_std_ha_8450_0_0.png
+  rotate: false
+  xy: 180, 17
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+hat_U_hgold_h_std_ha_8450_1_0.png
+  rotate: false
+  xy: 82, 16
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+hat_U_hgold_h_std_ha_8450_2_0.png
+  rotate: false
+  xy: 42, 6
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+hat_U_hgold_h_std_ha_8450_3_0.png
+  rotate: false
+  xy: 364, 4
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1

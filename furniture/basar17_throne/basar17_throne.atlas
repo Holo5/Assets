@@ -1,0 +1,27 @@
+
+basar17_throne.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+basar17_throne_basar17_throne_64_a_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+basar17_throne_basar17_throne_64_b_2_0.png
+  rotate: false
+  xy: 67, 81
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+basar17_throne_basar17_throne_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1

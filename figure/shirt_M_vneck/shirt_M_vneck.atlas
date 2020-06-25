@@ -4,93 +4,93 @@ size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shirt_M_vneck_h_crr_ls_2359_1_0.png
+shirt_M_vneck_h_crr_ls_2359_0_0.png
   rotate: false
-  xy: 303, 33
-  size: 8, 14
-  orig: 8, 14
-  offset: 0, 0
-  index: -1
-shirt_M_vneck_h_crr_ls_2359_2_0.png
-  rotate: false
-  xy: 366, 30
-  size: 5, 13
-  orig: 5, 13
+  xy: 311, 18
+  size: 5, 12
+  orig: 5, 12
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_crr_ls_2359_3_0.png
   rotate: false
-  xy: 217, 7
+  xy: 208, 27
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_crr_ls_2359_6_0.png
   rotate: false
-  xy: 382, 44
+  xy: 460, 44
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_crr_ls_2359_7_0.png
   rotate: false
-  xy: 81, 2
+  xy: 332, 31
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_crr_rs_2359_0_0.png
   rotate: false
-  xy: 406, 44
+  xy: 448, 44
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
+shirt_M_vneck_h_crr_rs_2359_1_0.png
+  rotate: false
+  xy: 322, 32
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
 shirt_M_vneck_h_crr_rs_2359_2_0.png
   rotate: false
-  xy: 172, 24
+  xy: 218, 28
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_crr_rs_2359_3_0.png
   rotate: false
-  xy: 173, 5
+  xy: 249, 30
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_crr_rs_2359_4_0.png
   rotate: false
-  xy: 359, 29
+  xy: 236, 11
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_crr_rs_2359_5_0.png
   rotate: false
-  xy: 244, 31
+  xy: 186, 28
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_crr_rs_2359_6_0.png
   rotate: false
-  xy: 332, 31
+  xy: 243, 12
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_crr_rs_2359_7_0.png
   rotate: false
-  xy: 267, 15
+  xy: 226, 11
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_drk_rs_2359_0_0.png
   rotate: false
-  xy: 46, 2
+  xy: 30, 2
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
@@ -104,42 +104,42 @@ shirt_M_vneck_h_drk_rs_2359_1_0.png
   index: -1
 shirt_M_vneck_h_drk_rs_2359_2_0.png
   rotate: false
-  xy: 296, 49
+  xy: 343, 49
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_drk_rs_2359_3_0.png
   rotate: false
-  xy: 473, 47
+  xy: 71, 2
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_drk_rs_2359_4_0.png
   rotate: false
-  xy: 309, 19
+  xy: 295, 19
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_drk_rs_2359_5_0.png
   rotate: false
-  xy: 231, 49
+  xy: 249, 49
   size: 15, 13
   orig: 15, 13
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_drk_rs_2359_6_0.png
   rotate: false
-  xy: 30, 2
+  xy: 46, 2
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_drk_rs_2359_7_0.png
   rotate: false
-  xy: 233, 31
+  xy: 197, 28
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
@@ -160,7 +160,7 @@ shirt_M_vneck_h_lay_ls_2359_2_0.png
   index: -1
 shirt_M_vneck_h_lay_rs_2359_2_0.png
   rotate: false
-  xy: 248, 49
+  xy: 282, 49
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
@@ -200,72 +200,72 @@ shirt_M_vneck_h_std_ch_2359_7_0.png
   orig: 25, 29
   offset: 0, 0
   index: -1
-shirt_M_vneck_h_std_ls_2359_0_0.png
-  rotate: false
-  xy: 380, 30
-  size: 5, 12
-  orig: 5, 12
-  offset: 0, 0
-  index: -1
 shirt_M_vneck_h_std_ls_2359_1_0.png
   rotate: false
-  xy: 341, 31
+  xy: 358, 35
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
+shirt_M_vneck_h_std_ls_2359_2_0.png
+  rotate: false
+  xy: 304, 18
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
 shirt_M_vneck_h_std_ls_2359_3_0.png
   rotate: false
-  xy: 183, 26
+  xy: 104, 3
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_std_ls_2359_7_0.png
   rotate: false
-  xy: 71, 2
+  xy: 84, 2
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_std_rs_2359_0_0.png
   rotate: false
-  xy: 394, 44
+  xy: 436, 44
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_std_rs_2359_1_0.png
   rotate: false
-  xy: 313, 33
+  xy: 262, 14
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_std_rs_2359_2_0.png
   rotate: false
-  xy: 91, 2
+  xy: 425, 43
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_std_rs_2359_3_0.png
   rotate: false
-  xy: 207, 7
+  xy: 239, 29
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_std_rs_2359_7_0.png
   rotate: false
-  xy: 282, 32
+  xy: 252, 13
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
-shirt_M_vneck_h_wav_ls_2359_0_1.png
+shirt_M_vneck_h_wav_ls_2359_0_0.png
   rotate: false
-  xy: 445, 48
+  xy: 373, 48
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
@@ -286,7 +286,7 @@ shirt_M_vneck_h_wav_ls_2359_1_1.png
   index: -1
 shirt_M_vneck_h_wav_ls_2359_2_0.png
   rotate: false
-  xy: 458, 50
+  xy: 358, 50
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
@@ -298,254 +298,254 @@ shirt_M_vneck_h_wav_ls_2359_2_1.png
   orig: 13, 12
   offset: 0, 0
   index: -1
-shirt_M_vneck_h_wav_ls_2359_3_1.png
+shirt_M_vneck_h_wav_ls_2359_3_0.png
   rotate: false
-  xy: 356, 46
+  xy: 386, 46
   size: 11, 16
   orig: 11, 16
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wav_ls_2359_4_1.png
   rotate: false
-  xy: 341, 46
+  xy: 202, 46
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wav_ls_2359_5_0.png
   rotate: false
-  xy: 280, 49
+  xy: 266, 49
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wav_ls_2359_5_1.png
   rotate: false
-  xy: 311, 49
+  xy: 298, 49
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wav_ls_2359_6_0.png
   rotate: false
-  xy: 215, 47
+  xy: 217, 47
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wav_ls_2359_6_1.png
   rotate: false
-  xy: 264, 48
+  xy: 233, 48
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wav_ls_2359_7_0.png
   rotate: false
-  xy: 199, 46
+  xy: 186, 46
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wav_ls_2359_7_1.png
   rotate: false
-  xy: 183, 46
+  xy: 170, 46
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_0_0.png
   rotate: false
-  xy: 275, 32
+  xy: 351, 33
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_0_1.png
   rotate: false
-  xy: 255, 32
+  xy: 217, 10
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_0_2.png
   rotate: false
-  xy: 288, 16
+  xy: 272, 14
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_0_3.png
   rotate: false
-  xy: 323, 32
+  xy: 342, 32
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_1_0.png
   rotate: false
-  xy: 277, 16
+  xy: 144, 2
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_1_1.png
   rotate: false
-  xy: 499, 47
+  xy: 484, 47
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_1_2.png
   rotate: false
-  xy: 292, 33
+  xy: 289, 33
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_1_3.png
   rotate: false
-  xy: 430, 48
+  xy: 313, 48
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_2_0.png
   rotate: false
-  xy: 302, 17
+  xy: 325, 16
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_2_1.png
   rotate: false
-  xy: 350, 29
+  xy: 279, 14
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_2_2.png
   rotate: false
-  xy: 295, 17
+  xy: 288, 15
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_2_3.png
   rotate: false
-  xy: 373, 30
+  xy: 318, 17
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_3_0.png
   rotate: false
-  xy: 162, 22
+  xy: 94, 3
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_3_1.png
   rotate: false
-  xy: 152, 18
+  xy: 124, 10
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_3_2.png
   rotate: false
-  xy: 142, 10
+  xy: 114, 11
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_3_3.png
   rotate: false
-  xy: 203, 26
+  xy: 177, 8
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_7_0.png
   rotate: false
-  xy: 223, 28
+  xy: 269, 30
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_7_1.png
   rotate: false
-  xy: 247, 13
+  xy: 279, 31
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_7_2.png
   rotate: false
-  xy: 213, 26
+  xy: 259, 30
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_ls_2359_7_3.png
   rotate: false
-  xy: 163, 2
+  xy: 187, 8
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_0_0.png
   rotate: false
-  xy: 195, 8
+  xy: 174, 28
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_0_1.png
   rotate: false
-  xy: 369, 45
+  xy: 399, 45
   size: 11, 17
   orig: 11, 17
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_0_2.png
   rotate: false
-  xy: 183, 8
+  xy: 155, 2
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_0_3.png
   rotate: false
-  xy: 418, 45
+  xy: 472, 45
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_1_0.png
   rotate: false
-  xy: 264, 32
+  xy: 311, 32
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_1_1.png
   rotate: false
-  xy: 326, 48
+  xy: 328, 48
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_1_2.png
   rotate: false
-  xy: 152, 2
+  xy: 300, 33
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_1_3.png
   rotate: false
-  xy: 486, 47
+  xy: 497, 47
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
@@ -566,7 +566,7 @@ shirt_M_vneck_h_wlk_rs_2359_2_1.png
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_2_2.png
   rotate: false
-  xy: 170, 43
+  xy: 412, 43
   size: 11, 19
   orig: 11, 19
   offset: 0, 0
@@ -580,56 +580,56 @@ shirt_M_vneck_h_wlk_rs_2359_2_3.png
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_3_0.png
   rotate: false
-  xy: 132, 10
+  xy: 144, 18
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_3_1.png
   rotate: false
-  xy: 112, 3
+  xy: 154, 20
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_3_2.png
   rotate: false
-  xy: 102, 3
+  xy: 164, 22
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_3_3.png
   rotate: false
-  xy: 122, 10
+  xy: 134, 10
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_7_0.png
   rotate: false
-  xy: 227, 9
+  xy: 197, 9
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_7_1.png
   rotate: false
-  xy: 193, 26
+  xy: 167, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_7_2.png
   rotate: false
-  xy: 237, 12
+  xy: 229, 28
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_vneck_h_wlk_rs_2359_7_3.png
   rotate: false
-  xy: 257, 14
+  xy: 207, 9
   size: 8, 16
   orig: 8, 16
   offset: 0, 0

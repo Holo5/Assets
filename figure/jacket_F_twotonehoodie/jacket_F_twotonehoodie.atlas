@@ -1,1195 +1,1188 @@
 
 jacket_F_twotonehoodie.png
-size: 256,256
+size: 2048,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 jacket_F_twotonehoodie_h_crr_lc_2903_0_0.png
   rotate: false
-  xy: 187, 39
+  xy: 1725, 40
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
+jacket_F_twotonehoodie_h_crr_lc_2903_1_0.png
+  rotate: false
+  xy: 1146, 42
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
 jacket_F_twotonehoodie_h_crr_lc_2903_2_0.png
   rotate: false
-  xy: 86, 2
+  xy: 1258, 38
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_lc_2903_3_0.png
   rotate: false
-  xy: 112, 2
+  xy: 1334, 38
   size: 10, 24
   orig: 10, 24
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_lc_2903_4_0.png
   rotate: false
-  xy: 108, 84
+  xy: 893, 37
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
+jacket_F_twotonehoodie_h_crr_lc_2903_5_0.png
+  rotate: false
+  xy: 1130, 42
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
 jacket_F_twotonehoodie_h_crr_lc_2903_6_0.png
   rotate: false
-  xy: 96, 139
+  xy: 1027, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_lc_2903_7_0.png
   rotate: false
-  xy: 188, 16
+  xy: 1586, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_lc_2904_0_0.png
   rotate: false
-  xy: 96, 136
+  xy: 45, 22
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_lc_2904_2_0.png
   rotate: false
-  xy: 9, 2
+  xy: 314, 31
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_lc_2904_3_0.png
   rotate: false
-  xy: 156, 198
+  xy: 1733, 37
   size: 6, 25
   orig: 6, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_lc_2904_4_0.png
   rotate: false
-  xy: 2, 2
+  xy: 1791, 47
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_lc_2904_7_0.png
   rotate: false
-  xy: 182, 87
+  xy: 1741, 40
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_rc_2903_0_0.png
   rotate: false
-  xy: 240, 128
+  xy: 1096, 41
   size: 14, 21
   orig: 14, 21
   offset: 0, 0
   index: -1
-jacket_F_twotonehoodie_h_crr_rc_2903_1_0.png
-  rotate: false
-  xy: 85, 28
-  size: 14, 20
-  orig: 14, 20
-  offset: 0, 0
-  index: -1
 jacket_F_twotonehoodie_h_crr_rc_2903_2_0.png
   rotate: false
-  xy: 235, 176
+  xy: 928, 37
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_rc_2903_3_0.png
   rotate: false
-  xy: 95, 50
+  xy: 1346, 38
   size: 10, 24
   orig: 10, 24
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_rc_2903_4_0.png
   rotate: false
-  xy: 99, 2
+  xy: 1321, 38
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
-jacket_F_twotonehoodie_h_crr_rc_2903_5_0.png
-  rotate: false
-  xy: 69, 28
-  size: 14, 20
-  orig: 14, 20
-  offset: 0, 0
-  index: -1
 jacket_F_twotonehoodie_h_crr_rc_2903_6_0.png
   rotate: false
-  xy: 214, 90
+  xy: 1749, 40
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_rc_2903_7_0.png
   rotate: false
-  xy: 206, 44
+  xy: 1685, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_rc_2904_0_0.png
   rotate: false
-  xy: 32, 2
+  xy: 89, 2
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_rc_2904_1_0.png
   rotate: false
-  xy: 234, 88
+  xy: 40, 22
   size: 3, 9
   orig: 3, 9
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_rc_2904_2_0.png
   rotate: false
-  xy: 97, 196
+  xy: 555, 31
   size: 19, 31
   orig: 19, 31
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_rc_2904_3_0.png
   rotate: false
-  xy: 131, 56
+  xy: 451, 2
   size: 6, 26
   orig: 6, 26
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_rc_2904_4_0.png
   rotate: false
-  xy: 56, 197
+  xy: 282, 4
   size: 19, 31
   orig: 19, 31
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_rc_2904_6_0.png
   rotate: false
-  xy: 194, 160
+  xy: 69, 2
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_crr_rc_2904_7_0.png
   rotate: false
-  xy: 200, 114
+  xy: 1717, 40
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2903_0_0.png
   rotate: false
-  xy: 203, 180
+  xy: 779, 43
   size: 18, 19
   orig: 18, 19
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2903_1_0.png
   rotate: false
-  xy: 207, 215
+  xy: 55, 22
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2903_2_0.png
   rotate: false
-  xy: 85, 163
+  xy: 480, 45
   size: 25, 17
   orig: 25, 17
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2903_3_0.png
   rotate: false
-  xy: 119, 175
+  xy: 1112, 43
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2903_4_0.png
   rotate: false
-  xy: 158, 128
+  xy: 423, 30
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2903_5_0.png
   rotate: false
-  xy: 207, 201
+  xy: 452, 50
   size: 26, 12
   orig: 26, 12
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2903_6_0.png
   rotate: false
-  xy: 90, 182
+  xy: 423, 50
   size: 27, 12
   orig: 27, 12
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2903_7_0.png
   rotate: false
-  xy: 199, 2
+  xy: 1696, 45
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2904_0_0.png
   rotate: false
-  xy: 174, 163
+  xy: 1178, 47
   size: 18, 15
   orig: 18, 15
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2904_1_0.png
   rotate: false
-  xy: 164, 202
+  xy: 485, 31
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2904_2_0.png
   rotate: false
-  xy: 56, 182
+  xy: 389, 49
   size: 32, 13
   orig: 32, 13
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2904_3_0.png
   rotate: false
-  xy: 158, 110
+  xy: 1198, 46
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2904_4_0.png
   rotate: false
-  xy: 146, 138
+  xy: 505, 31
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2904_5_0.png
   rotate: false
-  xy: 186, 2
+  xy: 389, 42
   size: 10, 5
   orig: 10, 5
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2904_6_0.png
   rotate: false
-  xy: 177, 2
+  xy: 1791, 56
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_drk_rc_2904_7_0.png
   rotate: false
-  xy: 184, 58
+  xy: 203, 27
   size: 1, 3
   orig: 1, 3
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_lay_cc_2903_2_0.png
   rotate: false
-  xy: 55, 230
+  xy: 55, 38
   size: 40, 24
   orig: 40, 24
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_lay_cc_2904_2_0.png
   rotate: false
-  xy: 2, 225
+  xy: 2, 33
   size: 51, 29
   orig: 51, 29
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_lay_lc_2903_2_0.png
   rotate: false
-  xy: 119, 156
+  xy: 754, 45
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_lay_lc_2904_2_0.png
   rotate: false
-  xy: 135, 144
+  xy: 84, 26
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_lay_rc_2903_2_0.png
   rotate: false
-  xy: 112, 138
+  xy: 109, 4
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_lay_rc_2904_2_0.png
   rotate: false
-  xy: 56, 162
+  xy: 40, 2
   size: 27, 18
   orig: 27, 18
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_cc_2903_0_0.png
   rotate: false
-  xy: 128, 231
+  xy: 132, 2
   size: 27, 23
   orig: 27, 23
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_cc_2903_1_0.png
   rotate: false
-  xy: 164, 209
+  xy: 733, 40
   size: 19, 22
   orig: 19, 22
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_cc_2903_2_0.png
   rotate: false
-  xy: 2, 43
+  xy: 222, 32
   size: 26, 30
   orig: 26, 30
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_cc_2903_3_0.png
   rotate: false
-  xy: 97, 229
+  xy: 277, 37
   size: 29, 25
   orig: 29, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_cc_2903_7_0.png
   rotate: false
-  xy: 185, 232
+  xy: 308, 40
   size: 25, 22
   orig: 25, 22
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_cc_2904_0_0.png
   rotate: false
-  xy: 2, 109
+  xy: 163, 27
   size: 27, 35
   orig: 27, 35
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_cc_2904_1_0.png
   rotate: false
-  xy: 2, 11
+  xy: 192, 32
   size: 28, 30
   orig: 28, 30
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_cc_2904_2_0.png
   rotate: false
-  xy: 2, 183
+  xy: 97, 22
   size: 33, 40
   orig: 33, 40
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_cc_2904_3_0.png
   rotate: false
-  xy: 2, 146
+  xy: 132, 27
   size: 29, 35
   orig: 29, 35
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_cc_2904_7_0.png
   rotate: false
-  xy: 2, 75
+  xy: 250, 30
   size: 25, 32
   orig: 25, 32
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_lc_2903_0_0.png
   rotate: false
-  xy: 195, 42
+  xy: 1575, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
+jacket_F_twotonehoodie_h_std_lc_2903_1_0.png
+  rotate: false
+  xy: 454, 30
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
 jacket_F_twotonehoodie_h_std_lc_2903_2_0.png
   rotate: false
-  xy: 214, 159
+  xy: 1708, 43
   size: 7, 19
   orig: 7, 19
   offset: 0, 0
   index: -1
-jacket_F_twotonehoodie_h_std_lc_2903_3_0.png
-  rotate: false
-  xy: 159, 58
-  size: 10, 23
-  orig: 10, 23
-  offset: 0, 0
-  index: -1
 jacket_F_twotonehoodie_h_std_lc_2903_7_0.png
   rotate: false
-  xy: 171, 83
+  xy: 1480, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_lc_2904_0_0.png
   rotate: false
-  xy: 216, 11
+  xy: 1780, 46
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_lc_2904_2_0.png
   rotate: false
-  xy: 238, 10
+  xy: 1810, 58
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_lc_2904_3_0.png
   rotate: false
-  xy: 163, 168
-  size: 9, 28
-  orig: 9, 28
+  xy: 387, 2
+  size: 9, 27
+  orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_lc_2904_7_0.png
   rotate: false
-  xy: 244, 99
+  xy: 494, 25
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_rc_2903_0_0.png
   rotate: false
-  xy: 210, 135
+  xy: 1395, 40
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
-jacket_F_twotonehoodie_h_std_rc_2903_1_0.png
-  rotate: false
-  xy: 163, 148
-  size: 9, 18
-  orig: 9, 18
-  offset: 0, 0
-  index: -1
 jacket_F_twotonehoodie_h_std_rc_2903_2_0.png
   rotate: false
-  xy: 186, 113
+  xy: 1244, 39
   size: 12, 23
   orig: 12, 23
   offset: 0, 0
   index: -1
+jacket_F_twotonehoodie_h_std_rc_2903_3_0.png
+  rotate: false
+  xy: 1371, 39
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
 jacket_F_twotonehoodie_h_std_rc_2903_7_0.png
   rotate: false
-  xy: 165, 31
+  xy: 1469, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_rc_2904_0_0.png
   rotate: false
-  xy: 81, 80
+  xy: 303, 2
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_rc_2904_1_0.png
   rotate: false
-  xy: 216, 17
+  xy: 303, 31
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_rc_2904_2_0.png
   rotate: false
-  xy: 118, 196
+  xy: 634, 31
   size: 17, 31
   orig: 17, 31
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_rc_2904_3_0.png
   rotate: false
-  xy: 70, 80
+  xy: 365, 2
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_std_rc_2904_7_0.png
   rotate: false
-  xy: 156, 225
+  xy: 485, 18
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_0_0.png
   rotate: false
-  xy: 81, 136
+  xy: 1012, 38
   size: 13, 24
   orig: 13, 24
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_0_1.png
   rotate: false
-  xy: 52, 2
+  xy: 910, 38
   size: 16, 24
   orig: 16, 24
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_2_0.png
   rotate: false
-  xy: 185, 180
+  xy: 857, 37
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_2_1.png
   rotate: false
-  xy: 49, 55
+  xy: 713, 38
   size: 18, 24
   orig: 18, 24
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_3_0.png
   rotate: false
-  xy: 238, 225
+  xy: 22, 2
   size: 16, 29
   orig: 16, 29
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_3_1.png
   rotate: false
-  xy: 29, 78
+  xy: 2, 2
   size: 18, 29
   orig: 18, 29
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_4_0.png
   rotate: false
-  xy: 31, 110
+  xy: 187, 2
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_4_1.png
   rotate: false
-  xy: 185, 207
+  xy: 691, 39
   size: 20, 23
   orig: 20, 23
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_5_0.png
   rotate: false
-  xy: 30, 49
+  xy: 653, 35
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_5_1.png
   rotate: false
-  xy: 32, 22
+  xy: 875, 37
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_6_0.png
   rotate: false
-  xy: 33, 135
+  xy: 238, 2
   size: 21, 26
   orig: 21, 26
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_6_1.png
   rotate: false
-  xy: 56, 136
+  xy: 507, 38
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_7_0.png
   rotate: false
-  xy: 108, 111
+  xy: 945, 37
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2903_7_1.png
   rotate: false
-  xy: 50, 28
+  xy: 838, 37
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_0_0.png
   rotate: false
-  xy: 144, 145
+  xy: 496, 38
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_0_1.png
   rotate: false
-  xy: 188, 9
+  xy: 485, 38
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_2_0.png
   rotate: false
-  xy: 227, 16
+  xy: 495, 31
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_2_1.png
   rotate: false
-  xy: 239, 93
+  xy: 1800, 58
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_3_0.png
   rotate: false
-  xy: 223, 154
+  xy: 1061, 42
   size: 16, 20
   orig: 16, 20
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_3_1.png
   rotate: false
-  xy: 236, 203
+  xy: 799, 42
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_4_0.png
   rotate: false
-  xy: 157, 233
+  xy: 335, 41
   size: 26, 21
   orig: 26, 21
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_4_1.png
   rotate: false
-  xy: 137, 175
+  xy: 363, 41
   size: 24, 21
   orig: 24, 21
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_5_0.png
   rotate: false
-  xy: 144, 152
+  xy: 819, 41
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_5_1.png
   rotate: false
-  xy: 192, 138
+  xy: 1043, 42
   size: 16, 20
   orig: 16, 20
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_6_0.png
   rotate: false
-  xy: 56, 109
+  xy: 532, 37
   size: 21, 25
   orig: 21, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_6_1.png
   rotate: false
-  xy: 212, 231
+  xy: 161, 2
   size: 24, 23
   orig: 24, 23
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_7_0.png
   rotate: false
-  xy: 37, 163
+  xy: 672, 36
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wav_lc_2904_7_1.png
   rotate: false
-  xy: 49, 81
+  xy: 261, 2
   size: 19, 26
   orig: 19, 26
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_0_0.png
   rotate: false
-  xy: 228, 44
+  xy: 1597, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_0_1.png
   rotate: false
-  xy: 217, 44
+  xy: 1663, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_0_2.png
   rotate: false
-  xy: 195, 65
+  xy: 1608, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_0_3.png
   rotate: false
-  xy: 201, 90
+  xy: 1408, 40
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_1_0.png
   rotate: false
-  xy: 219, 23
+  xy: 1527, 43
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_1_1.png
   rotate: false
-  xy: 223, 111
+  xy: 439, 30
   size: 13, 18
   orig: 13, 18
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_1_2.png
   rotate: false
-  xy: 231, 23
+  xy: 1539, 43
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_1_3.png
   rotate: false
-  xy: 211, 8
+  xy: 480, 30
   size: 3, 13
   orig: 3, 13
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_2_0.png
   rotate: false
-  xy: 229, 67
+  xy: 1772, 43
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_2_1.png
   rotate: false
-  xy: 206, 67
+  xy: 1674, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_2_2.png
   rotate: false
-  xy: 199, 21
+  xy: 1764, 43
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_2_3.png
   rotate: false
-  xy: 112, 158
-  size: 5, 22
-  orig: 5, 22
+  xy: 1757, 41
+  size: 5, 21
+  orig: 5, 21
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_3_1.png
   rotate: false
-  xy: 159, 83
+  xy: 1309, 37
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_3_2.png
   rotate: false
-  xy: 174, 111
+  xy: 1297, 37
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_3_3.png
   rotate: false
-  xy: 147, 85
+  xy: 1383, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_7_0.png
   rotate: false
-  xy: 107, 50
+  xy: 1458, 38
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_7_1.png
   rotate: false
-  xy: 184, 63
+  xy: 1641, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_7_2.png
   rotate: false
-  xy: 136, 85
+  xy: 1491, 39
   size: 9, 23
   orig: 9, 23
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2903_7_3.png
   rotate: false
-  xy: 190, 89
+  xy: 1652, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_0_0.png
   rotate: false
-  xy: 211, 2
+  xy: 1780, 52
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_0_1.png
   rotate: false
-  xy: 222, 5
+  xy: 321, 34
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_0_2.png
   rotate: false
-  xy: 234, 99
+  xy: 515, 32
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_0_3.png
   rotate: false
-  xy: 16, 5
+  xy: 412, 43
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+jacket_F_twotonehoodie_h_wlk_lc_2904_1_0.png
+  rotate: false
+  xy: 1780, 58
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+jacket_F_twotonehoodie_h_wlk_lc_2904_1_1.png
+  rotate: false
+  xy: 401, 43
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_2_0.png
   rotate: false
-  xy: 239, 87
+  xy: 1819, 58
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_2_1.png
   rotate: false
-  xy: 237, 16
+  xy: 485, 24
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_3_0.png
   rotate: false
-  xy: 95, 106
+  xy: 212, 2
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_3_1.png
   rotate: false
-  xy: 95, 76
+  xy: 225, 2
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_3_3.png
   rotate: false
-  xy: 141, 29
+  xy: 317, 2
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_7_0.png
   rotate: false
-  xy: 147, 110
+  xy: 420, 2
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_7_1.png
   rotate: false
-  xy: 149, 57
+  xy: 441, 2
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_7_2.png
   rotate: false
-  xy: 125, 109
+  xy: 376, 2
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_lc_2904_7_3.png
   rotate: false
-  xy: 154, 29
+  xy: 409, 2
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_0_0.png
   rotate: false
-  xy: 101, 28
+  xy: 1514, 42
   size: 11, 20
   orig: 11, 20
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_0_1.png
   rotate: false
-  xy: 238, 105
+  xy: 1421, 41
   size: 12, 21
   orig: 12, 21
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_0_2.png
   rotate: false
-  xy: 171, 58
+  xy: 1358, 39
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_0_3.png
   rotate: false
-  xy: 114, 28
+  xy: 1162, 42
   size: 14, 20
   orig: 14, 20
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_1_0.png
   rotate: false
-  xy: 207, 23
+  xy: 1563, 43
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_1_1.png
   rotate: false
-  xy: 208, 114
+  xy: 465, 29
   size: 13, 19
   orig: 13, 19
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_1_2.png
   rotate: false
-  xy: 217, 67
+  xy: 1551, 43
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_1_3.png
   rotate: false
-  xy: 223, 131
+  xy: 1079, 41
   size: 15, 21
   orig: 15, 21
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_2_0.png
   rotate: false
-  xy: 136, 3
+  xy: 1229, 39
   size: 13, 23
   orig: 13, 23
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_2_1.png
   rotate: false
-  xy: 174, 138
+  xy: 978, 39
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_2_2.png
   rotate: false
-  xy: 241, 151
+  xy: 1214, 39
   size: 13, 23
   orig: 13, 23
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_2_3.png
   rotate: false
-  xy: 79, 109
+  xy: 962, 37
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_3_1.png
   rotate: false
-  xy: 222, 88
+  xy: 1502, 41
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
-jacket_F_twotonehoodie_h_wlk_rc_2903_3_2.png
-  rotate: false
-  xy: 223, 176
-  size: 10, 23
-  orig: 10, 23
-  offset: 0, 0
-  index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_3_3.png
   rotate: false
-  xy: 124, 3
+  xy: 1435, 39
   size: 10, 23
   orig: 10, 23
-  offset: 0, 0
-  index: -1
-jacket_F_twotonehoodie_h_wlk_rc_2903_7_0.png
-  rotate: false
-  xy: 125, 84
-  size: 9, 23
-  orig: 9, 23
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_7_1.png
   rotate: false
-  xy: 176, 34
+  xy: 1630, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
+jacket_F_twotonehoodie_h_wlk_rc_2903_7_2.png
+  rotate: false
+  xy: 1447, 39
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2903_7_3.png
   rotate: false
-  xy: 177, 10
+  xy: 1619, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_0_0.png
   rotate: false
-  xy: 151, 2
+  xy: 459, 2
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_0_1.png
   rotate: false
-  xy: 130, 28
+  xy: 398, 2
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_0_2.png
   rotate: false
-  xy: 164, 2
+  xy: 472, 2
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_0_3.png
   rotate: false
-  xy: 70, 2
+  xy: 996, 38
   size: 14, 24
   orig: 14, 24
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_1_0.png
   rotate: false
-  xy: 227, 11
+  xy: 192, 27
   size: 9, 3
   orig: 9, 3
   offset: 0, 0
   index: -1
-jacket_F_twotonehoodie_h_wlk_rc_2904_1_1.png
-  rotate: false
-  xy: 118, 50
-  size: 9, 4
-  orig: 9, 4
-  offset: 0, 0
-  index: -1
-jacket_F_twotonehoodie_h_wlk_rc_2904_1_2.png
-  rotate: false
-  xy: 135, 138
-  size: 9, 4
-  orig: 9, 4
-  offset: 0, 0
-  index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_1_3.png
   rotate: false
-  xy: 108, 76
+  xy: 45, 25
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
-jacket_F_twotonehoodie_h_wlk_rc_2904_2_1.png
+jacket_F_twotonehoodie_h_wlk_rc_2904_2_0.png
   rotate: false
-  xy: 77, 197
-  size: 18, 31
-  orig: 18, 31
-  offset: 0, 0
-  index: -1
-jacket_F_twotonehoodie_h_wlk_rc_2904_2_2.png
-  rotate: false
-  xy: 137, 198
+  xy: 596, 31
   size: 17, 31
   orig: 17, 31
   offset: 0, 0
   index: -1
+jacket_F_twotonehoodie_h_wlk_rc_2904_2_1.png
+  rotate: false
+  xy: 576, 31
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_2_3.png
   rotate: false
-  xy: 37, 191
+  xy: 615, 30
   size: 17, 32
   orig: 17, 32
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_3_1.png
   rotate: false
-  xy: 118, 56
+  xy: 330, 2
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_3_2.png
   rotate: false
-  xy: 69, 50
+  xy: 1284, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_3_3.png
   rotate: false
-  xy: 82, 50
+  xy: 1271, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_7_1.png
   rotate: false
-  xy: 136, 110
+  xy: 343, 2
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_7_2.png
   rotate: false
-  xy: 174, 180
+  xy: 354, 2
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_twotonehoodie_h_wlk_rc_2904_7_3.png
   rotate: false
-  xy: 139, 57
+  xy: 431, 2
   size: 8, 26
   orig: 8, 26
   offset: 0, 0

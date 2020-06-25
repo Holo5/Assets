@@ -1,0 +1,202 @@
+
+shoes_U_mari.png
+size: 1024,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shoes_U_mari_h_sit_sh_6262_0_0.png
+  rotate: false
+  xy: 769, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_sit_sh_6262_2_0.png
+  rotate: false
+  xy: 298, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_sit_sh_6262_2_0.png
+  rotate: false
+  xy: 324, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_std_sh_6262_0_0.png
+  rotate: false
+  xy: 180, 8
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_std_sh_6262_1_0.png
+  rotate: false
+  xy: 629, 12
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_std_sh_6262_2_0.png
+  rotate: false
+  xy: 270, 6
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_std_sh_6262_3_0.png
+  rotate: false
+  xy: 404, 10
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_std_sh_6262_7_0.png
+  rotate: false
+  xy: 654, 11
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_0_0.png
+  rotate: false
+  xy: 240, 9
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_0_1.png
+  rotate: false
+  xy: 2, 8
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_0_2.png
+  rotate: false
+  xy: 210, 9
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_0_3.png
+  rotate: false
+  xy: 378, 9
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_1_0.png
+  rotate: false
+  xy: 529, 11
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_1_1.png
+  rotate: false
+  xy: 90, 12
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_1_2.png
+  rotate: false
+  xy: 554, 11
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_1_3.png
+  rotate: false
+  xy: 135, 12
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_2_0.png
+  rotate: false
+  xy: 350, 8
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_2_1.png
+  rotate: false
+  xy: 604, 11
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_2_2.png
+  rotate: false
+  xy: 579, 11
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_2_3.png
+  rotate: false
+  xy: 46, 10
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_3_0.png
+  rotate: false
+  xy: 429, 10
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_3_1.png
+  rotate: false
+  xy: 479, 11
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_3_2.png
+  rotate: false
+  xy: 504, 11
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_3_3.png
+  rotate: false
+  xy: 454, 10
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_7_1.png
+  rotate: false
+  xy: 700, 11
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_7_2.png
+  rotate: false
+  xy: 723, 12
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_7_2.png
+  rotate: false
+  xy: 746, 12
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+shoes_U_mari_h_wlk_sh_6262_7_3.png
+  rotate: false
+  xy: 677, 11
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1

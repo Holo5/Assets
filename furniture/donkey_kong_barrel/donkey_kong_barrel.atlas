@@ -1,0 +1,27 @@
+
+donkey_kong_barrel.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+donkey_kong_barrel_donkey_kong_barrel_64_a_2_0.png
+  rotate: false
+  xy: 2, 53
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+donkey_kong_barrel_donkey_kong_barrel_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+donkey_kong_barrel_donkey_kong_barrel_icon_a.png
+  rotate: false
+  xy: 2, 21
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

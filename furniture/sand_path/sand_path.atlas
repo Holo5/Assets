@@ -1,0 +1,27 @@
+
+sand_path.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sand_path_sand_path_64_a_2_0.png
+  rotate: false
+  xy: 191, 2
+  size: 187, 96
+  orig: 187, 96
+  offset: 0, 0
+  index: -1
+sand_path_sand_path_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 187, 96
+  orig: 187, 96
+  offset: 0, 0
+  index: -1
+sand_path_sand_path_icon_a.png
+  rotate: false
+  xy: 380, 58
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

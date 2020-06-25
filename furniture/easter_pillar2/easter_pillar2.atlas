@@ -1,0 +1,20 @@
+
+easter_pillar2.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_pillar2_easter_pillar2_64_a_2_0.png
+  rotate: false
+  xy: 2, 35
+  size: 41, 134
+  orig: 41, 134
+  offset: 0, 0
+  index: -1
+easter_pillar2_easter_pillar2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1

@@ -6,308 +6,308 @@ filter: Nearest,Nearest
 repeat: none
 jacket_F_80svintage_h_crr_lc_3226_0_0.png
   rotate: false
-  xy: 790, 20
+  xy: 854, 18
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_lc_3226_1_0.png
   rotate: false
-  xy: 960, 43
+  xy: 665, 28
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_lc_3226_2_0.png
   rotate: false
-  xy: 630, 16
+  xy: 755, 18
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_lc_3226_3_0.png
   rotate: false
-  xy: 1012, 18
+  xy: 731, 19
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_lc_3226_4_0.png
   rotate: false
-  xy: 727, 40
+  xy: 905, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_crr_lc_3226_5_0.png
-  rotate: false
-  xy: 946, 43
-  size: 12, 19
-  orig: 12, 19
-  offset: 0, 0
-  index: -1
 jacket_F_80svintage_h_crr_lc_3226_6_0.png
   rotate: false
-  xy: 570, 21
+  xy: 706, 22
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_lc_3226_7_0.png
   rotate: false
-  xy: 694, 19
+  xy: 812, 19
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_lc_3227_1_0.png
   rotate: false
-  xy: 532, 42
+  xy: 745, 42
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_lc_3227_2_0.png
   rotate: false
-  xy: 810, 11
+  xy: 303, 4
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_lc_3227_3_0.png
   rotate: false
-  xy: 386, 21
+  xy: 494, 19
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_lc_3227_4_0.png
   rotate: false
-  xy: 226, 2
+  xy: 223, 2
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_crr_lc_3227_5_0.png
+  rotate: false
+  xy: 726, 42
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_crr_lc_3227_6_0.png
   rotate: false
-  xy: 693, 41
+  xy: 837, 41
   size: 16, 21
   orig: 16, 21
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_lc_3227_7_0.png
   rotate: false
-  xy: 677, 4
+  xy: 643, 30
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_rc_3226_0_0.png
   rotate: false
-  xy: 583, 20
+  xy: 551, 30
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_rc_3226_1_0.png
   rotate: false
-  xy: 932, 43
+  xy: 679, 28
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_rc_3226_2_0.png
   rotate: false
-  xy: 711, 40
+  xy: 889, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_rc_3226_3_0.png
   rotate: false
-  xy: 1012, 41
+  xy: 743, 19
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_rc_3226_4_0.png
   rotate: false
-  xy: 842, 21
+  xy: 1015, 43
   size: 7, 19
   orig: 7, 19
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_crr_rc_3226_5_0.png
+  rotate: false
+  xy: 512, 2
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_crr_rc_3226_6_0.png
   rotate: false
-  xy: 780, 19
+  xy: 864, 18
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_rc_3226_7_0.png
   rotate: false
-  xy: 683, 19
+  xy: 801, 19
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_rc_3227_0_0.png
   rotate: false
-  xy: 453, 31
+  xy: 783, 41
   size: 16, 21
   orig: 16, 21
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_rc_3227_1_0.png
   rotate: false
-  xy: 513, 42
+  xy: 707, 42
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_rc_3227_2_0.png
   rotate: false
-  xy: 274, 2
+  xy: 239, 2
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_rc_3227_3_0.png
   rotate: false
-  xy: 449, 2
+  xy: 282, 4
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_crr_rc_3227_4_0.png
   rotate: false
-  xy: 515, 4
+  xy: 945, 2
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_crr_rc_3227_5_0.png
-  rotate: false
-  xy: 551, 42
-  size: 17, 20
-  orig: 17, 20
-  offset: 0, 0
-  index: -1
 jacket_F_80svintage_h_crr_rc_3227_7_0.png
   rotate: false
-  xy: 606, 2
+  xy: 994, 5
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3226_0_0.png
   rotate: false
-  xy: 354, 2
+  xy: 667, 49
   size: 18, 13
   orig: 18, 13
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3226_1_0.png
   rotate: false
-  xy: 271, 30
+  xy: 247, 31
   size: 23, 10
   orig: 23, 10
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3226_2_0.png
   rotate: false
-  xy: 247, 29
+  xy: 539, 50
   size: 22, 12
   orig: 22, 12
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3226_3_0.png
   rotate: false
-  xy: 759, 39
+  xy: 937, 39
   size: 13, 23
   orig: 13, 23
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3226_4_0.png
   rotate: false
-  xy: 866, 47
+  xy: 494, 2
   size: 16, 15
   orig: 16, 15
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3226_5_0.png
   rotate: false
-  xy: 389, 52
+  xy: 563, 52
   size: 23, 10
   orig: 23, 10
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3226_6_0.png
   rotate: false
-  xy: 337, 48
+  xy: 487, 48
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3226_7_0.png
   rotate: false
-  xy: 491, 2
+  xy: 579, 2
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3227_0_0.png
   rotate: false
-  xy: 493, 49
+  xy: 687, 49
   size: 18, 13
   orig: 18, 13
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3227_1_0.png
   rotate: false
-  xy: 414, 55
+  xy: 588, 55
   size: 26, 7
   orig: 26, 7
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3227_2_0.png
   rotate: false
-  xy: 468, 54
+  xy: 642, 54
   size: 23, 8
   orig: 23, 8
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3227_3_0.png
   rotate: false
-  xy: 850, 44
+  xy: 516, 30
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3227_4_0.png
   rotate: false
-  xy: 641, 8
+  xy: 548, 22
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3227_5_0.png
   rotate: false
-  xy: 491, 23
+  xy: 292, 4
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3227_6_0.png
   rotate: false
-  xy: 661, 9
+  xy: 975, 2
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_drk_rc_3227_7_0.png
   rotate: false
-  xy: 669, 2
+  xy: 588, 23
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
@@ -328,35 +328,35 @@ jacket_F_80svintage_h_lay_cc_3227_2_0.png
   index: -1
 jacket_F_80svintage_h_lay_cc_3228_2_0.png
   rotate: false
-  xy: 301, 2
+  xy: 1010, 26
   size: 12, 7
   orig: 12, 7
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_lay_lc_3226_2_0.png
   rotate: false
-  xy: 334, 2
+  xy: 272, 33
   size: 18, 8
   orig: 18, 8
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_lay_lc_3227_2_0.png
   rotate: false
-  xy: 679, 11
+  xy: 1015, 35
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_lay_rc_3226_2_0.png
   rotate: false
-  xy: 315, 2
+  xy: 532, 34
   size: 17, 14
   orig: 17, 14
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_lay_rc_3227_2_0.png
   rotate: false
-  xy: 315, 43
+  xy: 271, 43
   size: 20, 19
   orig: 20, 19
   offset: 0, 0
@@ -398,7 +398,7 @@ jacket_F_80svintage_h_std_cc_3226_7_0.png
   index: -1
 jacket_F_80svintage_h_std_cc_3227_0_0.png
   rotate: false
-  xy: 362, 50
+  xy: 512, 50
   size: 25, 12
   orig: 25, 12
   offset: 0, 0
@@ -426,147 +426,140 @@ jacket_F_80svintage_h_std_cc_3227_3_0.png
   index: -1
 jacket_F_80svintage_h_std_cc_3227_7_0.png
   rotate: false
-  xy: 442, 54
+  xy: 616, 54
   size: 24, 8
   orig: 24, 8
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_std_cc_3228_0_0.png
+  rotate: false
+  xy: 949, 36
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_std_cc_3228_1_0.png
   rotate: false
-  xy: 757, 3
+  xy: 937, 3
   size: 6, 15
   orig: 6, 15
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_std_cc_3228_2_0.png
   rotate: false
-  xy: 582, 2
+  xy: 592, 2
   size: 6, 14
   orig: 6, 14
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_std_cc_3228_3_0.png
   rotate: false
-  xy: 390, 5
+  xy: 607, 2
   size: 4, 14
   orig: 4, 14
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_std_lc_3226_0_0.png
+jacket_F_80svintage_h_std_lc_3226_1_0.png
   rotate: false
-  xy: 871, 26
-  size: 8, 19
-  orig: 8, 19
+  xy: 925, 21
+  size: 10, 17
+  orig: 10, 17
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_std_lc_3226_2_0.png
   rotate: false
-  xy: 901, 27
+  xy: 547, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_std_lc_3226_3_0.png
   rotate: false
-  xy: 861, 23
+  xy: 885, 19
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_std_lc_3226_7_0.png
   rotate: false
-  xy: 608, 17
+  xy: 766, 19
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_std_lc_3227_0_0.png
   rotate: false
-  xy: 661, 2
+  xy: 643, 23
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_std_lc_3227_1_0.png
+  rotate: false
+  xy: 472, 15
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_std_lc_3227_2_0.png
   rotate: false
-  xy: 618, 2
+  xy: 619, 7
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_std_lc_3227_3_0.png
   rotate: false
-  xy: 515, 14
+  xy: 420, 12
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_std_rc_3226_0_0.png
   rotate: false
-  xy: 661, 19
+  xy: 789, 20
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_std_rc_3226_1_0.png
-  rotate: false
-  xy: 758, 20
-  size: 10, 17
-  orig: 10, 17
-  offset: 0, 0
-  index: -1
 jacket_F_80svintage_h_std_rc_3226_2_0.png
   rotate: false
-  xy: 558, 20
+  xy: 719, 20
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_std_rc_3226_3_0.png
   rotate: false
-  xy: 726, 19
+  xy: 915, 19
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_std_rc_3226_7_0.png
   rotate: false
-  xy: 641, 16
+  xy: 834, 18
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_std_rc_3227_0_0.png
   rotate: false
-  xy: 334, 12
+  xy: 979, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_std_rc_3227_1_0.png
-  rotate: false
-  xy: 262, 4
-  size: 10, 23
-  orig: 10, 23
-  offset: 0, 0
-  index: -1
 jacket_F_80svintage_h_std_rc_3227_2_0.png
   rotate: false
-  xy: 160, 2
+  xy: 171, 2
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_std_rc_3227_3_0.png
-  rotate: false
-  xy: 504, 2
-  size: 9, 26
-  orig: 9, 26
-  offset: 0, 0
-  index: -1
 jacket_F_80svintage_h_std_rc_3227_7_0.png
   rotate: false
-  xy: 597, 2
+  xy: 516, 23
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
@@ -587,28 +580,28 @@ jacket_F_80svintage_h_wav_lc_3226_0_1.png
   index: -1
 jacket_F_80svintage_h_wav_lc_3226_1_0.png
   rotate: false
-  xy: 805, 42
+  xy: 431, 17
   size: 14, 20
   orig: 14, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3226_1_1.png
   rotate: false
-  xy: 789, 42
+  xy: 372, 17
   size: 14, 20
   orig: 14, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3226_2_0.png
   rotate: false
-  xy: 743, 40
+  xy: 921, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3226_2_1.png
   rotate: false
-  xy: 675, 41
+  xy: 819, 41
   size: 16, 21
   orig: 16, 21
   offset: 0, 0
@@ -629,35 +622,35 @@ jacket_F_80svintage_h_wav_lc_3226_3_1.png
   index: -1
 jacket_F_80svintage_h_wav_lc_3226_4_0.png
   rotate: false
-  xy: 193, 3
+  xy: 357, 39
   size: 18, 23
   orig: 18, 23
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3226_4_1.png
   rotate: false
-  xy: 396, 2
+  xy: 451, 39
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3226_5_0.png
   rotate: false
-  xy: 414, 31
+  xy: 396, 40
   size: 17, 22
   orig: 17, 22
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3226_5_1.png
   rotate: false
-  xy: 570, 41
+  xy: 801, 41
   size: 16, 21
   orig: 16, 21
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3226_6_0.png
   rotate: false
-  xy: 271, 42
+  xy: 293, 42
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
@@ -671,247 +664,247 @@ jacket_F_80svintage_h_wav_lc_3226_6_1.png
   index: -1
 jacket_F_80svintage_h_wav_lc_3226_7_0.png
   rotate: false
-  xy: 396, 27
+  xy: 433, 39
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3226_7_1.png
   rotate: false
-  xy: 658, 40
+  xy: 872, 40
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_0_0.png
   rotate: false
-  xy: 597, 9
+  xy: 324, 5
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_0_1.png
   rotate: false
-  xy: 630, 8
+  xy: 537, 22
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_wav_lc_3227_1_0.png
+jacket_F_80svintage_h_wav_lc_3227_1_1.png
   rotate: false
-  xy: 669, 11
+  xy: 568, 22
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_2_0.png
   rotate: false
-  xy: 919, 35
+  xy: 965, 2
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_2_1.png
   rotate: false
-  xy: 525, 5
+  xy: 313, 5
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_3_0.png
   rotate: false
-  xy: 641, 39
+  xy: 193, 3
   size: 15, 23
   orig: 15, 23
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_3_1.png
   rotate: false
-  xy: 315, 18
+  xy: 377, 39
   size: 17, 23
   orig: 17, 23
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_4_0.png
   rotate: false
-  xy: 293, 42
+  xy: 315, 42
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_4_1.png
   rotate: false
-  xy: 471, 32
+  xy: 764, 42
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_5_0.png
   rotate: false
-  xy: 651, 8
+  xy: 578, 22
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_5_1.png
   rotate: false
-  xy: 619, 9
+  xy: 526, 22
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_6_0.png
   rotate: false
-  xy: 919, 27
+  xy: 558, 22
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_6_1.png
   rotate: false
-  xy: 608, 9
+  xy: 983, 4
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_7_0.png
   rotate: false
-  xy: 606, 40
+  xy: 415, 40
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wav_lc_3227_7_1.png
   rotate: false
-  xy: 433, 31
+  xy: 337, 41
   size: 18, 21
   orig: 18, 21
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3226_0_0.png
   rotate: false
-  xy: 881, 26
+  xy: 895, 19
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3226_0_1.png
   rotate: false
-  xy: 911, 22
+  xy: 1002, 11
   size: 6, 20
   orig: 6, 20
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_wlk_lc_3226_0_2.png
+  rotate: false
+  xy: 905, 19
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_wlk_lc_3226_0_3.png
   rotate: false
-  xy: 800, 20
+  xy: 578, 30
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_wlk_lc_3226_1_1.png
+jacket_F_80svintage_h_wlk_lc_3226_1_0.png
   rotate: false
-  xy: 765, 12
-  size: 3, 6
-  orig: 3, 6
-  offset: 0, 0
-  index: -1
-jacket_F_80svintage_h_wlk_lc_3226_1_2.png
-  rotate: false
-  xy: 490, 32
+  xy: 567, 2
   size: 10, 15
   orig: 10, 15
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_wlk_lc_3226_1_1.png
+  rotate: false
+  xy: 487, 40
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_wlk_lc_3226_1_3.png
   rotate: false
-  xy: 884, 47
+  xy: 632, 37
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3226_2_1.png
   rotate: false
-  xy: 770, 19
+  xy: 537, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3226_2_2.png
   rotate: false
-  xy: 736, 19
+  xy: 982, 12
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3226_2_3.png
   rotate: false
-  xy: 590, 2
+  xy: 600, 2
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3226_3_0.png
   rotate: false
-  xy: 673, 19
+  xy: 1010, 5
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3226_3_1.png
   rotate: false
-  xy: 502, 30
+  xy: 960, 14
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3226_3_2.png
   rotate: false
-  xy: 716, 19
+  xy: 992, 12
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3226_3_3.png
   rotate: false
-  xy: 746, 2
+  xy: 949, 14
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_wlk_lc_3226_7_0.png
-  rotate: false
-  xy: 619, 17
-  size: 9, 21
-  orig: 9, 21
-  offset: 0, 0
-  index: -1
 jacket_F_80svintage_h_wlk_lc_3226_7_1.png
   rotate: false
-  xy: 851, 23
+  xy: 633, 16
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_wlk_lc_3226_7_2.png
+  rotate: false
+  xy: 823, 18
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_wlk_lc_3226_7_3.png
   rotate: false
-  xy: 705, 19
+  xy: 874, 19
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3227_0_0.png
   rotate: false
-  xy: 612, 2
+  xy: 649, 30
   size: 4, 5
   orig: 4, 5
-  offset: 0, 0
-  index: -1
-jacket_F_80svintage_h_wlk_lc_3227_0_1.png
-  rotate: false
-  xy: 371, 18
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3227_0_3.png
@@ -923,231 +916,231 @@ jacket_F_80svintage_h_wlk_lc_3227_0_3.png
   index: -1
 jacket_F_80svintage_h_wlk_lc_3227_1_0.png
   rotate: false
-  xy: 213, 3
+  xy: 210, 3
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3227_1_1.png
   rotate: false
-  xy: 296, 34
+  xy: 596, 24
   size: 3, 6
   orig: 3, 6
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3227_1_3.png
   rotate: false
-  xy: 624, 40
+  xy: 855, 40
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_wlk_lc_3227_2_0.png
-  rotate: false
-  xy: 624, 2
-  size: 4, 5
-  orig: 4, 5
-  offset: 0, 0
-  index: -1
 jacket_F_80svintage_h_wlk_lc_3227_2_1.png
   rotate: false
-  xy: 536, 5
+  xy: 955, 2
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_wlk_lc_3227_2_2.png
+  rotate: false
+  xy: 613, 7
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_wlk_lc_3227_3_0.png
   rotate: false
-  xy: 290, 2
+  xy: 325, 14
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3227_3_1.png
   rotate: false
-  xy: 480, 4
+  xy: 398, 12
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3227_3_2.png
   rotate: false
-  xy: 459, 3
+  xy: 336, 13
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_lc_3227_3_3.png
   rotate: false
-  xy: 171, 2
+  xy: 160, 2
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_wlk_lc_3227_7_0.png
-  rotate: false
-  xy: 438, 2
-  size: 9, 27
-  orig: 9, 27
-  offset: 0, 0
-  index: -1
 jacket_F_80svintage_h_wlk_lc_3227_7_1.png
   rotate: false
-  xy: 252, 2
+  xy: 484, 13
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_wlk_lc_3227_7_2.png
+  rotate: false
+  xy: 292, 13
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_wlk_lc_3227_7_3.png
   rotate: false
-  xy: 537, 14
+  xy: 409, 12
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_0_0.png
   rotate: false
-  xy: 596, 18
+  xy: 777, 19
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_0_1.png
   rotate: false
-  xy: 974, 43
+  xy: 693, 28
   size: 11, 19
   orig: 11, 19
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_0_2.png
   rotate: false
-  xy: 836, 42
+  xy: 564, 30
   size: 12, 20
   orig: 12, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_0_3.png
   rotate: false
-  xy: 917, 44
+  xy: 601, 35
   size: 13, 18
   orig: 13, 18
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_1_0.png
   rotate: false
-  xy: 746, 21
+  xy: 925, 2
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_1_1.png
   rotate: false
-  xy: 901, 47
+  xy: 649, 37
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_1_2.png
   rotate: false
-  xy: 570, 2
+  xy: 937, 20
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_1_3.png
   rotate: false
-  xy: 374, 2
+  xy: 616, 35
   size: 14, 17
   orig: 14, 17
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_2_0.png
   rotate: false
-  xy: 235, 30
+  xy: 223, 30
   size: 10, 32
   orig: 10, 32
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_2_1.png
   rotate: false
-  xy: 821, 42
+  xy: 447, 17
   size: 13, 20
   orig: 13, 20
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_2_2.png
   rotate: false
-  xy: 223, 30
+  xy: 235, 30
   size: 10, 32
   orig: 10, 32
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_2_3.png
   rotate: false
-  xy: 987, 41
+  xy: 588, 32
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_3_1.png
   rotate: false
-  xy: 820, 22
+  xy: 526, 2
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_3_2.png
   rotate: false
-  xy: 810, 21
+  xy: 613, 14
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3226_3_3.png
   rotate: false
-  xy: 831, 23
+  xy: 971, 14
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_wlk_rc_3226_7_1.png
+jacket_F_80svintage_h_wlk_rc_3226_7_0.png
   rotate: false
-  xy: 891, 26
-  size: 8, 19
-  orig: 8, 19
-  offset: 0, 0
-  index: -1
-jacket_F_80svintage_h_wlk_rc_3226_7_2.png
-  rotate: false
-  xy: 651, 16
+  xy: 844, 18
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_wlk_rc_3226_7_1.png
+  rotate: false
+  xy: 623, 14
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_wlk_rc_3226_7_3.png
   rotate: false
-  xy: 820, 2
+  xy: 557, 2
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3227_0_0.png
   rotate: false
-  xy: 359, 17
+  xy: 991, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3227_0_1.png
   rotate: false
-  xy: 414, 2
+  xy: 1003, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3227_0_2.png
   rotate: false
-  xy: 301, 11
+  xy: 952, 33
   size: 12, 29
   orig: 12, 29
   offset: 0, 0
@@ -1159,44 +1152,44 @@ jacket_F_80svintage_h_wlk_rc_3227_0_3.png
   orig: 16, 24
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_wlk_rc_3227_1_1.png
+jacket_F_80svintage_h_wlk_rc_3227_1_0.png
   rotate: false
-  xy: 774, 41
-  size: 13, 21
-  orig: 13, 21
-  offset: 0, 0
-  index: -1
-jacket_F_80svintage_h_wlk_rc_3227_1_2.png
-  rotate: false
-  xy: 1000, 39
+  xy: 504, 23
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_wlk_rc_3227_1_1.png
+  rotate: false
+  xy: 357, 16
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_wlk_rc_3227_1_3.png
   rotate: false
-  xy: 588, 40
+  xy: 469, 40
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3227_2_1.png
   rotate: false
-  xy: 371, 21
+  xy: 255, 2
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3227_2_2.png
   rotate: false
-  xy: 426, 2
+  xy: 270, 2
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_F_80svintage_h_wlk_rc_3227_2_3.png
   rotate: false
-  xy: 346, 17
+  xy: 966, 33
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
@@ -1208,30 +1201,37 @@ jacket_F_80svintage_h_wlk_rc_3227_3_1.png
   orig: 9, 24
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_wlk_rc_3227_3_3.png
+jacket_F_80svintage_h_wlk_rc_3227_3_2.png
   rotate: false
-  xy: 526, 14
+  xy: 303, 14
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_wlk_rc_3227_7_1.png
+jacket_F_80svintage_h_wlk_rc_3227_3_3.png
   rotate: false
-  xy: 242, 2
-  size: 8, 25
-  orig: 8, 25
+  xy: 314, 14
+  size: 9, 26
+  orig: 9, 26
   offset: 0, 0
   index: -1
-jacket_F_80svintage_h_wlk_rc_3227_7_2.png
+jacket_F_80svintage_h_wlk_rc_3227_7_0.png
   rotate: false
-  xy: 470, 3
+  xy: 347, 13
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
+jacket_F_80svintage_h_wlk_rc_3227_7_1.png
+  rotate: false
+  xy: 388, 12
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
 jacket_F_80svintage_h_wlk_rc_3227_7_3.png
   rotate: false
-  xy: 548, 17
+  xy: 462, 14
   size: 8, 23
   orig: 8, 23
   offset: 0, 0

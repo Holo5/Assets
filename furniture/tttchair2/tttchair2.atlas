@@ -1,0 +1,55 @@
+
+tttchair2.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tttchair2_tttchair2_64_a_0_0.png
+  rotate: false
+  xy: 204, 227
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+tttchair2_tttchair2_64_a_4_0.png
+  rotate: false
+  xy: 204, 203
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+tttchair2_tttchair2_64_a_6_0.png
+  rotate: false
+  xy: 2, 49
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+tttchair2_tttchair2_64_b_2_0.png
+  rotate: false
+  xy: 46, 25
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+tttchair2_tttchair2_64_b_6_0.png
+  rotate: false
+  xy: 2, 5
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+tttchair2_tttchair2_64_sd_2_0.png
+  rotate: false
+  xy: 46, 6
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+tttchair2_tttchair2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

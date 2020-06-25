@@ -6,98 +6,98 @@ filter: Nearest,Nearest
 repeat: none
 Shirt_F_Schoolshirt_h_crr_ls_2110_0_0.png
   rotate: false
-  xy: 167, 2
+  xy: 1009, 45
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_ls_2110_1_0.png
   rotate: false
-  xy: 577, 46
+  xy: 231, 2
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_ls_2110_2_0.png
   rotate: false
-  xy: 760, 41
+  xy: 553, 41
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_ls_2110_3_0.png
   rotate: false
-  xy: 967, 38
+  xy: 820, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_ls_2110_7_0.png
   rotate: false
-  xy: 237, 25
+  xy: 936, 42
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_rs_2110_0_0.png
   rotate: false
-  xy: 320, 41
+  xy: 301, 41
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_rs_2110_1_0.png
   rotate: false
-  xy: 560, 44
+  xy: 474, 44
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_rs_2110_2_0.png
   rotate: false
-  xy: 391, 36
+  xy: 113, 7
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_rs_2110_3_0.png
   rotate: false
-  xy: 957, 38
+  xy: 660, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_rs_2110_4_0.png
   rotate: false
-  xy: 773, 43
+  xy: 848, 43
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_rs_2110_5_0.png
   rotate: false
-  xy: 511, 40
+  xy: 507, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_rs_2110_6_0.png
   rotate: false
-  xy: 288, 31
+  xy: 994, 43
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_crr_rs_2110_7_0.png
   rotate: false
-  xy: 228, 25
+  xy: 927, 42
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_drk_rs_2110_0_0.png
   rotate: false
-  xy: 301, 43
+  xy: 438, 43
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
@@ -118,14 +118,14 @@ Shirt_F_Schoolshirt_h_drk_rs_2110_2_0.png
   index: -1
 Shirt_F_Schoolshirt_h_drk_rs_2110_3_0.png
   rotate: false
-  xy: 543, 43
+  xy: 457, 43
   size: 15, 19
   orig: 15, 19
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_drk_rs_2110_4_0.png
   rotate: false
-  xy: 594, 46
+  xy: 862, 46
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
@@ -146,7 +146,7 @@ Shirt_F_Schoolshirt_h_drk_rs_2110_6_0.png
   index: -1
 Shirt_F_Schoolshirt_h_drk_rs_2110_7_0.png
   rotate: false
-  xy: 1013, 46
+  xy: 877, 46
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
@@ -174,21 +174,21 @@ Shirt_F_Schoolshirt_h_lay_rs_2110_2_0.png
   index: -1
 Shirt_F_Schoolshirt_h_sit_ls_2110_0_0.png
   rotate: false
-  xy: 253, 26
+  xy: 966, 40
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_sit_ls_2110_2_0.png
   rotate: false
-  xy: 147, 13
+  xy: 248, 20
   size: 5, 25
   orig: 5, 25
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_sit_rs_2110_0_0.png
   rotate: false
-  xy: 678, 34
+  xy: 146, 10
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
@@ -237,140 +237,140 @@ Shirt_F_Schoolshirt_h_std_ch_2110_7_0.png
   index: -1
 Shirt_F_Schoolshirt_h_std_ls_2110_0_0.png
   rotate: false
-  xy: 246, 25
+  xy: 945, 42
   size: 5, 20
   orig: 5, 20
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_std_ls_2110_1_0.png
   rotate: false
-  xy: 163, 22
+  xy: 282, 26
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_std_ls_2110_2_0.png
   rotate: false
-  xy: 221, 22
+  xy: 973, 41
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_std_ls_2110_3_0.png
   rotate: false
-  xy: 725, 36
+  xy: 730, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_std_ls_2110_7_0.png
   rotate: false
-  xy: 937, 38
+  xy: 790, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_std_rs_2110_0_0.png
   rotate: false
-  xy: 666, 36
+  xy: 579, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_std_rs_2110_1_0.png
   rotate: false
-  xy: 1004, 38
+  xy: 255, 24
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_std_rs_2110_2_0.png
   rotate: false
-  xy: 917, 38
+  xy: 770, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_std_rs_2110_3_0.png
   rotate: false
-  xy: 847, 36
+  xy: 221, 17
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_std_rs_2110_7_0.png
   rotate: false
-  xy: 977, 38
+  xy: 830, 38
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_0_0.png
   rotate: false
-  xy: 639, 38
+  xy: 424, 38
   size: 12, 24
   orig: 12, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_0_1.png
   rotate: false
-  xy: 423, 38
+  xy: 320, 38
   size: 15, 24
   orig: 15, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_1_0.png
   rotate: false
-  xy: 653, 38
+  xy: 566, 38
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_1_1.png
   rotate: false
-  xy: 498, 36
+  xy: 411, 36
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_2_0.png
   rotate: false
-  xy: 440, 37
+  xy: 368, 37
   size: 13, 25
   orig: 13, 25
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_2_1.png
   rotate: false
-  xy: 113, 8
+  xy: 231, 20
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_3_0.png
   rotate: false
-  xy: 455, 37
+  xy: 353, 37
   size: 13, 25
   orig: 13, 25
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_3_1.png
   rotate: false
-  xy: 357, 37
+  xy: 176, 19
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_4_0.png
   rotate: false
-  xy: 339, 37
+  xy: 158, 21
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_4_1.png
   rotate: false
-  xy: 407, 37
+  xy: 337, 37
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
@@ -384,7 +384,7 @@ Shirt_F_Schoolshirt_h_wav_ls_2110_5_0.png
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_5_1.png
   rotate: false
-  xy: 374, 36
+  xy: 204, 17
   size: 15, 26
   orig: 15, 26
   offset: 0, 0
@@ -405,7 +405,7 @@ Shirt_F_Schoolshirt_h_wav_ls_2110_6_1.png
   index: -1
 Shirt_F_Schoolshirt_h_wav_ls_2110_7_0.png
   rotate: false
-  xy: 130, 11
+  xy: 129, 11
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
@@ -419,273 +419,273 @@ Shirt_F_Schoolshirt_h_wav_ls_2110_7_1.png
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_0_0.png
   rotate: false
-  xy: 274, 28
+  xy: 980, 42
   size: 5, 20
   orig: 5, 20
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_0_1.png
   rotate: false
-  xy: 154, 2
+  xy: 1001, 44
   size: 6, 18
   orig: 6, 18
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_0_2.png
   rotate: false
-  xy: 281, 30
+  xy: 987, 42
   size: 5, 20
   orig: 5, 20
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_0_3.png
   rotate: false
-  xy: 202, 22
+  xy: 908, 41
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_1_0.png
   rotate: false
-  xy: 995, 38
+  xy: 273, 24
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
-Shirt_F_Schoolshirt_h_wlk_ls_2110_1_2.png
+Shirt_F_Schoolshirt_h_wlk_ls_2110_1_1.png
   rotate: false
-  xy: 986, 38
+  xy: 264, 24
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_1_3.png
   rotate: false
-  xy: 162, 2
+  xy: 1015, 44
   size: 3, 18
   orig: 3, 18
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_2_0.png
   rotate: false
-  xy: 267, 27
+  xy: 959, 41
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_2_1.png
   rotate: false
-  xy: 212, 22
+  xy: 918, 41
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_2_2.png
   rotate: false
-  xy: 260, 27
+  xy: 952, 41
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_2_3.png
   rotate: false
-  xy: 173, 8
+  xy: 248, 6
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_3_0.png
   rotate: false
-  xy: 817, 35
+  xy: 710, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_3_1.png
   rotate: false
-  xy: 837, 36
+  xy: 720, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_3_2.png
   rotate: false
-  xy: 827, 35
+  xy: 700, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_3_3.png
   rotate: false
-  xy: 927, 38
+  xy: 780, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_7_0.png
   rotate: false
-  xy: 787, 37
+  xy: 740, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_7_1.png
   rotate: false
-  xy: 887, 38
+  xy: 800, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_7_2.png
   rotate: false
-  xy: 797, 37
+  xy: 750, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_ls_2110_7_3.png
   rotate: false
-  xy: 897, 38
+  xy: 810, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_0_0.png
   rotate: false
-  xy: 748, 39
+  xy: 648, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_0_1.png
   rotate: false
-  xy: 735, 39
+  xy: 635, 39
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_0_2.png
   rotate: false
-  xy: 701, 36
+  xy: 603, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_0_3.png
   rotate: false
-  xy: 527, 40
+  xy: 491, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_1_0.png
   rotate: false
-  xy: 182, 21
+  xy: 291, 27
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_1_1.png
   rotate: false
-  xy: 609, 41
+  xy: 523, 41
   size: 13, 21
   orig: 13, 21
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_1_2.png
   rotate: false
-  xy: 192, 21
+  xy: 898, 39
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_1_3.png
   rotate: false
-  xy: 624, 42
+  xy: 538, 42
   size: 13, 20
   orig: 13, 20
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_2_0.png
   rotate: false
-  xy: 713, 36
+  xy: 591, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_2_1.png
   rotate: false
-  xy: 470, 36
+  xy: 397, 36
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_2_2.png
   rotate: false
-  xy: 690, 34
+  xy: 193, 16
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_2_3.png
   rotate: false
-  xy: 484, 35
+  xy: 383, 35
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_3_0.png
   rotate: false
-  xy: 857, 36
+  xy: 615, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_3_1.png
   rotate: false
-  xy: 947, 38
+  xy: 760, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_3_2.png
   rotate: false
-  xy: 867, 36
+  xy: 625, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_3_3.png
   rotate: false
-  xy: 877, 37
+  xy: 690, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_7_0.png
   rotate: false
-  xy: 154, 22
+  xy: 839, 38
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_7_1.png
   rotate: false
-  xy: 907, 38
+  xy: 670, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_7_2.png
   rotate: false
-  xy: 807, 37
+  xy: 680, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 Shirt_F_Schoolshirt_h_wlk_rs_2110_7_3.png
   rotate: false
-  xy: 172, 22
+  xy: 888, 40
   size: 8, 22
   orig: 8, 22
   offset: 0, 0

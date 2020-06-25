@@ -1,0 +1,783 @@
+
+shirt_M_longtbaily.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_M_longtbaily_h_crr_ls_8520_0_0.png
+  rotate: false
+  xy: 813, 35
+  size: 5, 12
+  orig: 5, 12
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_ls_8520_2_0.png
+  rotate: false
+  xy: 799, 32
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_ls_8520_3_0.png
+  rotate: false
+  xy: 286, 4
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_ls_8520_6_0.png
+  rotate: false
+  xy: 142, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_ls_8520_7_0.png
+  rotate: false
+  xy: 417, 4
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_rs_8520_0_0.png
+  rotate: false
+  xy: 154, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_rs_8520_1_0.png
+  rotate: false
+  xy: 438, 5
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_rs_8520_2_0.png
+  rotate: false
+  xy: 265, 4
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_rs_8520_3_0.png
+  rotate: false
+  xy: 276, 4
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_rs_8520_4_0.png
+  rotate: false
+  xy: 792, 29
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_rs_8520_5_0.png
+  rotate: false
+  xy: 254, 5
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_rs_8520_6_0.png
+  rotate: false
+  xy: 608, 10
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_crr_rs_8520_7_0.png
+  rotate: false
+  xy: 407, 4
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_drk_rs_8520_0_0.png
+  rotate: false
+  xy: 936, 51
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_drk_rs_8520_1_0.png
+  rotate: false
+  xy: 952, 54
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_drk_rs_8520_2_0.png
+  rotate: false
+  xy: 905, 49
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_drk_rs_8520_3_0.png
+  rotate: false
+  xy: 78, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_drk_rs_8520_4_0.png
+  rotate: false
+  xy: 635, 13
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_drk_rs_8520_5_0.png
+  rotate: false
+  xy: 810, 49
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_drk_rs_8520_6_0.png
+  rotate: false
+  xy: 920, 51
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_drk_rs_8520_7_0.png
+  rotate: false
+  xy: 366, 3
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_lay_ch_8520_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_lay_ls_8520_2_0.png
+  rotate: false
+  xy: 968, 55
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_lay_rs_8520_2_0.png
+  rotate: false
+  xy: 874, 49
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_sit_ch_8520_0_0.png
+  rotate: false
+  xy: 47, 24
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_sit_ch_8520_2_0.png
+  rotate: false
+  xy: 81, 19
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_ch_8520_0_0.png
+  rotate: false
+  xy: 500, 22
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_ch_8520_1_0.png
+  rotate: false
+  xy: 745, 25
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_ch_8520_2_0.png
+  rotate: false
+  xy: 392, 21
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_ch_8520_3_0.png
+  rotate: false
+  xy: 197, 23
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_ch_8520_7_0.png
+  rotate: false
+  xy: 635, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_ls_8520_1_0.png
+  rotate: false
+  xy: 626, 12
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_ls_8520_3_0.png
+  rotate: false
+  xy: 458, 2
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_ls_8520_7_0.png
+  rotate: false
+  xy: 547, 10
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_rs_8520_0_0.png
+  rotate: false
+  xy: 166, 2
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_rs_8520_1_0.png
+  rotate: false
+  xy: 568, 11
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_rs_8520_2_0.png
+  rotate: false
+  xy: 178, 2
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_rs_8520_3_0.png
+  rotate: false
+  xy: 356, 2
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_std_rs_8520_7_0.png
+  rotate: false
+  xy: 397, 4
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_0_0.png
+  rotate: false
+  xy: 204, 7
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_1_0.png
+  rotate: false
+  xy: 578, 13
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_1_1.png
+  rotate: false
+  xy: 635, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_2_0.png
+  rotate: false
+  xy: 43, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_2_1.png
+  rotate: false
+  xy: 28, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_3_1.png
+  rotate: false
+  xy: 217, 5
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_4_0.png
+  rotate: false
+  xy: 764, 25
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_5_0.png
+  rotate: false
+  xy: 827, 49
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_5_1.png
+  rotate: false
+  xy: 890, 49
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_6_0.png
+  rotate: false
+  xy: 794, 47
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_6_1.png
+  rotate: false
+  xy: 843, 48
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_7_0.png
+  rotate: false
+  xy: 778, 46
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wav_ls_8520_7_1.png
+  rotate: false
+  xy: 28, 16
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_0_0.png
+  rotate: false
+  xy: 337, 23
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_0_1.png
+  rotate: false
+  xy: 168, 23
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_0_2.png
+  rotate: false
+  xy: 473, 22
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_0_3.png
+  rotate: false
+  xy: 446, 22
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_1_0.png
+  rotate: false
+  xy: 725, 25
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_1_1.png
+  rotate: false
+  xy: 662, 25
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_1_2.png
+  rotate: false
+  xy: 705, 25
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_1_3.png
+  rotate: false
+  xy: 684, 25
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_2_0.png
+  rotate: false
+  xy: 419, 21
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_2_1.png
+  rotate: false
+  xy: 365, 21
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_2_2.png
+  rotate: false
+  xy: 111, 21
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_2_3.png
+  rotate: false
+  xy: 139, 22
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_3_0.png
+  rotate: false
+  xy: 253, 23
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_3_1.png
+  rotate: false
+  xy: 225, 23
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_3_2.png
+  rotate: false
+  xy: 309, 23
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_3_3.png
+  rotate: false
+  xy: 281, 23
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_7_0.png
+  rotate: false
+  xy: 527, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_7_1.png
+  rotate: false
+  xy: 554, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_7_2.png
+  rotate: false
+  xy: 581, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ch_8520_7_7.png
+  rotate: false
+  xy: 608, 27
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_0_0.png
+  rotate: false
+  xy: 651, 11
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_0_1.png
+  rotate: false
+  xy: 599, 10
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_0_3.png
+  rotate: false
+  xy: 617, 11
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_1_0.png
+  rotate: false
+  xy: 427, 5
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_1_1.png
+  rotate: false
+  xy: 91, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_1_2.png
+  rotate: false
+  xy: 498, 6
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_1_3.png
+  rotate: false
+  xy: 859, 48
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_2_0.png
+  rotate: false
+  xy: 520, 6
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_2_1.png
+  rotate: false
+  xy: 590, 10
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_2_2.png
+  rotate: false
+  xy: 644, 11
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_2_3.png
+  rotate: false
+  xy: 806, 32
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_3_0.png
+  rotate: false
+  xy: 468, 2
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_3_1.png
+  rotate: false
+  xy: 68, 2
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_3_2.png
+  rotate: false
+  xy: 58, 2
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_3_3.png
+  rotate: false
+  xy: 448, 2
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_7_0.png
+  rotate: false
+  xy: 296, 4
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_7_1.png
+  rotate: false
+  xy: 377, 3
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_7_2.png
+  rotate: false
+  xy: 316, 4
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_ls_8520_7_3.png
+  rotate: false
+  xy: 336, 3
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_0_0.png
+  rotate: false
+  xy: 230, 5
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_0_1.png
+  rotate: false
+  xy: 117, 2
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_0_2.png
+  rotate: false
+  xy: 242, 5
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_0_3.png
+  rotate: false
+  xy: 130, 2
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_1_0.png
+  rotate: false
+  xy: 509, 6
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_1_1.png
+  rotate: false
+  xy: 189, 7
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_1_2.png
+  rotate: false
+  xy: 557, 11
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_1_3.png
+  rotate: false
+  xy: 104, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_2_0.png
+  rotate: false
+  xy: 15, 12
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_2_1.png
+  rotate: false
+  xy: 764, 43
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_2_2.png
+  rotate: false
+  xy: 779, 25
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_2_3.png
+  rotate: false
+  xy: 2, 10
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_3_0.png
+  rotate: false
+  xy: 537, 5
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_3_1.png
+  rotate: false
+  xy: 488, 2
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_3_2.png
+  rotate: false
+  xy: 478, 2
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_3_3.png
+  rotate: false
+  xy: 527, 5
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_7_0.png
+  rotate: false
+  xy: 326, 4
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_7_1.png
+  rotate: false
+  xy: 346, 3
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_7_2.png
+  rotate: false
+  xy: 306, 4
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+shirt_M_longtbaily_h_wlk_rs_8520_7_3.png
+  rotate: false
+  xy: 387, 3
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+calippo_chest.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+calippo_chest_calippo_chest_64_a_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+calippo_chest_calippo_chest_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1

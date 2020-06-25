@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 face_U_vamp_h_agr_ey_3248_1_0.png
   rotate: false
-  xy: 45, 6
+  xy: 208, 24
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 face_U_vamp_h_agr_ey_3248_2_0.png
   rotate: false
-  xy: 230, 50
+  xy: 200, 36
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
@@ -27,56 +27,49 @@ face_U_vamp_h_agr_ey_3248_3_0.png
   index: -1
 face_U_vamp_h_blw_fc_3234_1_0.png
   rotate: false
-  xy: 126, 21
+  xy: 68, 9
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 face_U_vamp_h_blw_fc_3234_2_0.png
   rotate: false
-  xy: 38, 2
+  xy: 193, 22
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 face_U_vamp_h_blw_fc_3234_3_0.png
   rotate: false
-  xy: 36, 16
+  xy: 78, 2
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
-face_U_vamp_h_blw_fc_3248_1_0.png
-  rotate: false
-  xy: 179, 28
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 face_U_vamp_h_eyb_ey_3248_1_0.png
   rotate: false
-  xy: 53, 11
+  xy: 216, 25
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 face_U_vamp_h_eyb_ey_3248_2_0.png
   rotate: false
-  xy: 200, 50
+  xy: 215, 37
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 face_U_vamp_h_eyb_ey_3248_3_0.png
   rotate: false
-  xy: 94, 22
+  xy: 62, 22
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 face_U_vamp_h_lag_ey_3248_2_0.png
   rotate: false
-  xy: 182, 36
+  xy: 2, 2
   size: 16, 12
   orig: 16, 12
   offset: 0, 0
@@ -90,14 +83,14 @@ face_U_vamp_h_lay_ey_3248_2_0.png
   index: -1
 face_U_vamp_h_lay_fc_3234_2_0.png
   rotate: false
-  xy: 136, 23
+  xy: 122, 23
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 face_U_vamp_h_lay_fc_3248_2_0.png
   rotate: false
-  xy: 42, 18
+  xy: 38, 2
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
@@ -111,35 +104,35 @@ face_U_vamp_h_lay_hd_3234_2_0.png
   index: -1
 face_U_vamp_h_ley_ey_3248_2_0.png
   rotate: false
-  xy: 2, 2
+  xy: 182, 50
   size: 16, 12
   orig: 16, 12
   offset: 0, 0
   index: -1
 face_U_vamp_h_lsa_ey_3248_2_0.png
   rotate: false
-  xy: 182, 50
+  xy: 182, 36
   size: 16, 12
   orig: 16, 12
   offset: 0, 0
   index: -1
 face_U_vamp_h_lsm_fc_3234_2_0.png
   rotate: false
-  xy: 182, 25
+  xy: 110, 23
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 face_U_vamp_h_lsp_fc_3234_2_0.png
   rotate: false
-  xy: 237, 25
+  xy: 90, 13
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 face_U_vamp_h_lsp_fc_3234_2_1.png
   rotate: false
-  xy: 53, 2
+  xy: 100, 13
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
@@ -153,112 +146,126 @@ face_U_vamp_h_lsr_ey_3248_2_0.png
   index: -1
 face_U_vamp_h_lsr_fc_3234_2_0.png
   rotate: false
-  xy: 247, 25
+  xy: 146, 25
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 face_U_vamp_h_sad_ey_3248_1_0.png
   rotate: false
-  xy: 69, 10
+  xy: 163, 19
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 face_U_vamp_h_sad_ey_3248_2_0.png
   rotate: false
-  xy: 200, 36
+  xy: 200, 50
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 face_U_vamp_h_sad_ey_3248_3_0.png
   rotate: false
-  xy: 36, 24
+  xy: 215, 51
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
+face_U_vamp_h_sml_ey_3248_1_0.png
+  rotate: false
+  xy: 171, 19
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
 face_U_vamp_h_sml_ey_3248_2_0.png
   rotate: false
-  xy: 215, 50
+  xy: 230, 37
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
+face_U_vamp_h_sml_ey_3248_3_0.png
+  rotate: false
+  xy: 94, 22
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
 face_U_vamp_h_sml_fc_3234_1_0.png
   rotate: false
-  xy: 245, 49
+  xy: 245, 34
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
 face_U_vamp_h_sml_fc_3234_2_0.png
   rotate: false
-  xy: 230, 36
+  xy: 51, 23
   size: 9, 12
   orig: 9, 12
   offset: 0, 0
   index: -1
 face_U_vamp_h_sml_fc_3234_3_0.png
   rotate: false
-  xy: 167, 22
+  xy: 78, 13
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
   index: -1
-face_U_vamp_h_sml_fc_3248_2_0.png
+face_U_vamp_h_sml_fc_3248_1_0.png
   rotate: false
-  xy: 89, 17
-  size: 6, 3
-  orig: 6, 3
+  xy: 182, 33
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 face_U_vamp_h_sml_fc_3248_3_0.png
   rotate: false
-  xy: 97, 19
+  xy: 78, 10
   size: 7, 1
   orig: 7, 1
   offset: 0, 0
   index: -1
 face_U_vamp_h_spk_fc_3234_1_0.png
   rotate: false
-  xy: 194, 21
+  xy: 48, 8
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 face_U_vamp_h_spk_fc_3234_2_0.png
   rotate: false
-  xy: 213, 22
+  xy: 185, 22
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 face_U_vamp_h_spk_fc_3234_2_1.png
   rotate: false
-  xy: 148, 22
+  xy: 224, 25
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
   index: -1
 face_U_vamp_h_spk_fc_3234_3_0.png
   rotate: false
-  xy: 61, 13
+  xy: 155, 22
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 face_U_vamp_h_spk_fc_3234_3_1.png
   rotate: false
-  xy: 62, 6
+  xy: 68, 2
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 face_U_vamp_h_srp_ey_3248_1_0.png
   rotate: false
-  xy: 221, 23
+  xy: 200, 23
   size: 6, 11
   orig: 6, 11
   offset: 0, 0
@@ -272,91 +279,84 @@ face_U_vamp_h_srp_ey_3248_2_0.png
   index: -1
 face_U_vamp_h_srp_ey_3248_3_0.png
   rotate: false
-  xy: 110, 21
+  xy: 231, 51
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
 face_U_vamp_h_srp_fc_3234_1_0.png
   rotate: false
-  xy: 204, 21
+  xy: 247, 49
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 face_U_vamp_h_srp_fc_3234_2_0.png
   rotate: false
-  xy: 77, 10
+  xy: 179, 19
   size: 4, 10
   orig: 4, 10
   offset: 0, 0
   index: -1
 face_U_vamp_h_srp_fc_3234_3_0.png
   rotate: false
-  xy: 83, 13
+  xy: 231, 28
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
-face_U_vamp_h_std_ey_3248_1_0.png
-  rotate: false
-  xy: 229, 24
-  size: 6, 10
-  orig: 6, 10
-  offset: 0, 0
-  index: -1
-face_U_vamp_h_std_ey_3248_2_0.png
-  rotate: false
-  xy: 215, 36
-  size: 13, 12
-  orig: 13, 12
-  offset: 0, 0
-  index: -1
-face_U_vamp_h_std_ey_3248_3_0.png
-  rotate: false
-  xy: 62, 22
-  size: 14, 10
-  orig: 14, 10
-  offset: 0, 0
-  index: -1
-face_U_vamp_h_std_fc_3234_1_0.png
-  rotate: false
-  xy: 241, 34
-  size: 8, 13
-  orig: 8, 13
-  offset: 0, 0
-  index: -1
-face_U_vamp_h_std_fc_3234_2_0.png
-  rotate: false
-  xy: 52, 23
-  size: 8, 12
-  orig: 8, 12
-  offset: 0, 0
-  index: -1
-face_U_vamp_h_std_fc_3234_3_0.png
-  rotate: false
-  xy: 155, 22
-  size: 10, 7
-  orig: 10, 7
-  offset: 0, 0
-  index: -1
-face_U_vamp_h_std_fc_3248_1_0.png
+face_U_vamp_h_srp_fc_3248_1_0.png
   rotate: false
   xy: 62, 34
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
+face_U_vamp_h_std_ey_3248_2_0.png
+  rotate: false
+  xy: 36, 23
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+face_U_vamp_h_std_fc_3234_1_0.png
+  rotate: false
+  xy: 38, 8
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+face_U_vamp_h_std_fc_3234_2_0.png
+  rotate: false
+  xy: 58, 8
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+face_U_vamp_h_std_fc_3234_3_0.png
+  rotate: false
+  xy: 134, 25
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+face_U_vamp_h_std_fc_3248_2_0.png
+  rotate: false
+  xy: 237, 32
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
 face_U_vamp_h_std_fc_3248_3_0.png
   rotate: false
-  xy: 45, 3
+  xy: 185, 19
   size: 6, 1
   orig: 6, 1
   offset: 0, 0
   index: -1
 face_U_vamp_h_std_hd_3234_0_0.png
   rotate: false
-  xy: 66, 34
+  xy: 96, 34
   size: 28, 28
   orig: 28, 28
   offset: 0, 0
@@ -384,7 +384,7 @@ face_U_vamp_h_std_hd_3234_3_0.png
   index: -1
 face_U_vamp_h_std_hd_3234_7_0.png
   rotate: false
-  xy: 96, 34
+  xy: 66, 34
   size: 28, 28
   orig: 28, 28
   offset: 0, 0

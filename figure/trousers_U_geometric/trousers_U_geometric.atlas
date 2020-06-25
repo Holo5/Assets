@@ -4,32 +4,18 @@ size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-trousers_U_geometric_h_lay_lg_2579_2_0.png
-  rotate: false
-  xy: 2, 8
-  size: 26, 22
-  orig: 26, 22
-  offset: 0, 0
-  index: -1
 trousers_U_geometric_h_lay_lg_2580_2_0.png
   rotate: false
-  xy: 522, 13
+  xy: 546, 13
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
-trousers_U_geometric_h_sit_lg_2579_0_0.png
+trousers_U_geometric_h_lay_lg_7102_2_0.png
   rotate: false
-  xy: 318, 15
-  size: 25, 15
-  orig: 25, 15
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_sit_lg_2579_2_0.png
-  rotate: false
-  xy: 61, 12
-  size: 28, 18
-  orig: 28, 18
+  xy: 2, 8
+  size: 26, 22
+  orig: 26, 22
   offset: 0, 0
   index: -1
 trousers_U_geometric_h_sit_lg_2580_0_0.png
@@ -46,168 +32,70 @@ trousers_U_geometric_h_sit_lg_2580_2_0.png
   orig: 24, 15
   offset: 0, 0
   index: -1
-trousers_U_geometric_h_std_lg_2579_0_0.png
+trousers_U_geometric_h_sit_lg_7102_0_0.png
   rotate: false
-  xy: 198, 10
-  size: 23, 20
-  orig: 23, 20
+  xy: 318, 15
+  size: 25, 15
+  orig: 25, 15
   offset: 0, 0
   index: -1
-trousers_U_geometric_h_std_lg_2579_1_0.png
+trousers_U_geometric_h_sit_lg_7102_2_0.png
   rotate: false
-  xy: 833, 15
-  size: 17, 15
-  orig: 17, 15
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_std_lg_2579_2_0.png
-  rotate: false
-  xy: 172, 10
-  size: 24, 20
-  orig: 24, 20
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_std_lg_2579_3_0.png
-  rotate: false
-  xy: 471, 15
-  size: 23, 15
-  orig: 23, 15
+  xy: 61, 12
+  size: 28, 18
+  orig: 28, 18
   offset: 0, 0
   index: -1
 trousers_U_geometric_h_std_lg_2580_0_0.png
   rotate: false
-  xy: 593, 14
+  xy: 659, 14
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
 trousers_U_geometric_h_std_lg_2580_1_0.png
   rotate: false
-  xy: 757, 2
+  xy: 847, 18
   size: 14, 12
   orig: 14, 12
   offset: 0, 0
   index: -1
 trousers_U_geometric_h_std_lg_2580_2_0.png
   rotate: false
-  xy: 615, 14
+  xy: 637, 14
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
-trousers_U_geometric_h_std_lg_2580_7_0.png
+trousers_U_geometric_h_std_lg_2580_3_0.png
   rotate: false
-  xy: 360, 2
+  xy: 402, 2
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
-trousers_U_geometric_h_wlk_lg_2579_0_0.png
+trousers_U_geometric_h_std_lg_7102_0_0.png
   rotate: false
-  xy: 146, 10
+  xy: 198, 10
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_std_lg_7102_1_0.png
+  rotate: false
+  xy: 828, 15
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_std_lg_7102_2_0.png
+  rotate: false
+  xy: 172, 10
   size: 24, 20
   orig: 24, 20
   offset: 0, 0
   index: -1
-trousers_U_geometric_h_wlk_lg_2579_0_1.png
-  rotate: false
-  xy: 91, 11
-  size: 26, 19
-  orig: 26, 19
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_0_2.png
-  rotate: false
-  xy: 247, 10
-  size: 22, 20
-  orig: 22, 20
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_0_3.png
-  rotate: false
-  xy: 271, 10
-  size: 22, 20
-  orig: 22, 20
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_1_0.png
-  rotate: false
-  xy: 793, 15
-  size: 18, 15
-  orig: 18, 15
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_1_1.png
-  rotate: false
-  xy: 723, 16
-  size: 21, 14
-  orig: 21, 14
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_1_2.png
-  rotate: false
-  xy: 813, 15
-  size: 18, 15
-  orig: 18, 15
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_1_3.png
-  rotate: false
-  xy: 746, 16
-  size: 20, 14
-  orig: 20, 14
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_2_0.png
-  rotate: false
-  xy: 223, 10
-  size: 22, 20
-  orig: 22, 20
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_2_1.png
-  rotate: false
-  xy: 295, 10
-  size: 21, 20
-  orig: 21, 20
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_2_2.png
-  rotate: false
-  xy: 119, 10
-  size: 25, 20
-  orig: 25, 20
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_2_3.png
-  rotate: false
-  xy: 30, 12
-  size: 29, 18
-  orig: 29, 18
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_7_0.png
-  rotate: false
-  xy: 446, 15
-  size: 23, 15
-  orig: 23, 15
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_7_1.png
-  rotate: false
-  xy: 421, 15
-  size: 23, 15
-  orig: 23, 15
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_7_2.png
-  rotate: false
-  xy: 396, 15
-  size: 23, 15
-  orig: 23, 15
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2579_7_3.png
+trousers_U_geometric_h_std_lg_7102_7_0.png
   rotate: false
   xy: 371, 15
   size: 23, 15
@@ -216,35 +104,35 @@ trousers_U_geometric_h_wlk_lg_2579_7_3.png
   index: -1
 trousers_U_geometric_h_wlk_lg_2580_0_0.png
   rotate: false
-  xy: 637, 14
+  xy: 593, 14
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
 trousers_U_geometric_h_wlk_lg_2580_0_1.png
   rotate: false
-  xy: 546, 15
+  xy: 522, 15
   size: 22, 15
   orig: 22, 15
   offset: 0, 0
   index: -1
 trousers_U_geometric_h_wlk_lg_2580_0_2.png
   rotate: false
-  xy: 681, 14
+  xy: 702, 14
   size: 19, 16
   orig: 19, 16
   offset: 0, 0
   index: -1
 trousers_U_geometric_h_wlk_lg_2580_0_3.png
   rotate: false
-  xy: 659, 14
+  xy: 615, 14
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
   index: -1
 trousers_U_geometric_h_wlk_lg_2580_1_0.png
   rotate: false
-  xy: 723, 2
+  xy: 740, 2
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
@@ -258,7 +146,7 @@ trousers_U_geometric_h_wlk_lg_2580_1_1.png
   index: -1
 trousers_U_geometric_h_wlk_lg_2580_1_2.png
   rotate: false
-  xy: 740, 2
+  xy: 723, 2
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
@@ -272,14 +160,14 @@ trousers_U_geometric_h_wlk_lg_2580_1_3.png
   index: -1
 trousers_U_geometric_h_wlk_lg_2580_2_0.png
   rotate: false
-  xy: 773, 14
+  xy: 768, 14
   size: 18, 16
   orig: 18, 16
   offset: 0, 0
   index: -1
 trousers_U_geometric_h_wlk_lg_2580_2_1.png
   rotate: false
-  xy: 702, 14
+  xy: 681, 14
   size: 19, 16
   orig: 19, 16
   offset: 0, 0
@@ -298,31 +186,143 @@ trousers_U_geometric_h_wlk_lg_2580_2_3.png
   orig: 24, 14
   offset: 0, 0
   index: -1
-trousers_U_geometric_h_wlk_lg_2580_7_0.png
-  rotate: false
-  xy: 402, 2
-  size: 19, 11
-  orig: 19, 11
-  offset: 0, 0
-  index: -1
-trousers_U_geometric_h_wlk_lg_2580_7_1.png
+trousers_U_geometric_h_wlk_lg_2580_3_0.png
   rotate: false
   xy: 381, 2
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
-trousers_U_geometric_h_wlk_lg_2580_7_2.png
+trousers_U_geometric_h_wlk_lg_2580_3_1.png
+  rotate: false
+  xy: 360, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_2580_3_2.png
   rotate: false
   xy: 339, 2
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
-trousers_U_geometric_h_wlk_lg_2580_7_3.png
+trousers_U_geometric_h_wlk_lg_2580_3_3.png
   rotate: false
   xy: 318, 2
   size: 19, 11
   orig: 19, 11
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_0_0.png
+  rotate: false
+  xy: 146, 10
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_0_1.png
+  rotate: false
+  xy: 91, 11
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_0_2.png
+  rotate: false
+  xy: 223, 10
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_0_3.png
+  rotate: false
+  xy: 247, 10
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_1_0.png
+  rotate: false
+  xy: 788, 15
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_1_1.png
+  rotate: false
+  xy: 723, 16
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_1_2.png
+  rotate: false
+  xy: 808, 15
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_1_3.png
+  rotate: false
+  xy: 746, 16
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_2_0.png
+  rotate: false
+  xy: 271, 10
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_2_1.png
+  rotate: false
+  xy: 295, 10
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_2_2.png
+  rotate: false
+  xy: 119, 10
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_2_3.png
+  rotate: false
+  xy: 30, 12
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_7_0.png
+  rotate: false
+  xy: 396, 15
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_7_1.png
+  rotate: false
+  xy: 421, 15
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_7_2.png
+  rotate: false
+  xy: 446, 15
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+trousers_U_geometric_h_wlk_lg_7102_7_3.png
+  rotate: false
+  xy: 471, 15
+  size: 23, 15
+  orig: 23, 15
   offset: 0, 0
   index: -1

@@ -1,0 +1,27 @@
+
+zelda_ganondorf.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zelda_ganondorf_zelda_ganondorf_64_a_2_0.png
+  rotate: false
+  xy: 29, 2
+  size: 32, 82
+  orig: 32, 82
+  offset: 0, 0
+  index: -1
+zelda_ganondorf_zelda_ganondorf_64_sd_2_0.png
+  rotate: false
+  xy: 2, 86
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+zelda_ganondorf_zelda_ganondorf_icon_a.png
+  rotate: false
+  xy: 2, 52
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1

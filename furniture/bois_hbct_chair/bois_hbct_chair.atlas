@@ -1,0 +1,41 @@
+
+bois_hbct_chair.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bois_hbct_chair_bois_hbct_chair_64_a_0_0.png
+  rotate: false
+  xy: 2, 52
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+bois_hbct_chair_bois_hbct_chair_64_b_0_0.png
+  rotate: false
+  xy: 2, 17
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+bois_hbct_chair_bois_hbct_chair_64_b_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+bois_hbct_chair_bois_hbct_chair_64_sd_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+bois_hbct_chair_bois_hbct_chair_icon_a.png
+  rotate: false
+  xy: 41, 92
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

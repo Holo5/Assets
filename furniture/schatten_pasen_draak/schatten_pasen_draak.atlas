@@ -1,0 +1,62 @@
+
+schatten_pasen_draak.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+schatten_pasen_draak_schatten_pasen_draak_64_a_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+schatten_pasen_draak_schatten_pasen_draak_64_b_4_0.png
+  rotate: false
+  xy: 101, 11
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1
+schatten_pasen_draak_schatten_pasen_draak_64_b_4_1.png
+  rotate: false
+  xy: 316, 58
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+schatten_pasen_draak_schatten_pasen_draak_64_b_4_2.png
+  rotate: false
+  xy: 337, 64
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+schatten_pasen_draak_schatten_pasen_draak_64_b_4_3.png
+  rotate: false
+  xy: 292, 62
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+schatten_pasen_draak_schatten_pasen_draak_64_b_4_4.png
+  rotate: false
+  xy: 260, 25
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+schatten_pasen_draak_schatten_pasen_draak_64_c_4_1.png
+  rotate: false
+  xy: 200, 27
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+schatten_pasen_draak_schatten_pasen_draak_icon_a.png
+  rotate: false
+  xy: 260, 66
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1

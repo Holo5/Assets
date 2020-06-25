@@ -6,252 +6,252 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_sailor_h_crr_ls_3165_0_0.png
   rotate: false
-  xy: 358, 13
+  xy: 326, 7
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_ls_3165_1_0.png
   rotate: false
-  xy: 395, 35
+  xy: 297, 20
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_ls_3165_2_0.png
   rotate: false
-  xy: 405, 32
+  xy: 319, 5
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_ls_3165_3_0.png
   rotate: false
-  xy: 198, 2
+  xy: 194, 20
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_ls_3165_6_0.png
   rotate: false
-  xy: 624, 44
+  xy: 437, 44
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_ls_3165_7_0.png
   rotate: false
-  xy: 226, 35
+  xy: 288, 32
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_ls_3166_0_0.png
   rotate: false
-  xy: 462, 41
+  xy: 395, 23
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
+shirt_F_sailor_h_crr_ls_3166_1_0.png
+  rotate: false
+  xy: 660, 41
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
 shirt_F_sailor_h_crr_ls_3166_2_0.png
   rotate: false
-  xy: 228, 2
+  xy: 344, 9
   size: 4, 11
   orig: 4, 11
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_ls_3166_3_0.png
   rotate: false
-  xy: 340, 25
+  xy: 343, 31
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_ls_3166_6_0.png
   rotate: false
-  xy: 354, 2
+  xy: 644, 41
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
-shirt_F_sailor_h_crr_ls_3166_7_0.png
-  rotate: false
-  xy: 441, 34
-  size: 4, 5
-  orig: 4, 5
-  offset: 0, 0
-  index: -1
 shirt_F_sailor_h_crr_rs_3165_0_0.png
   rotate: false
-  xy: 612, 44
+  xy: 449, 44
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_rs_3165_1_0.png
   rotate: false
-  xy: 304, 2
+  xy: 268, 34
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_rs_3165_2_0.png
   rotate: false
-  xy: 994, 45
+  xy: 153, 13
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_rs_3165_3_0.png
   rotate: false
-  xy: 1005, 45
+  xy: 926, 45
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_rs_3165_4_0.png
   rotate: false
-  xy: 119, 16
+  xy: 274, 2
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_rs_3165_5_0.png
   rotate: false
-  xy: 972, 46
+  xy: 202, 2
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_rs_3165_6_0.png
   rotate: false
-  xy: 365, 25
+  xy: 325, 31
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_rs_3165_7_0.png
   rotate: false
-  xy: 255, 13
+  xy: 1005, 47
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_rs_3166_0_0.png
   rotate: false
-  xy: 215, 35
+  xy: 167, 2
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
-shirt_F_sailor_h_crr_rs_3166_1_0.png
-  rotate: false
-  xy: 350, 16
-  size: 6, 7
-  orig: 6, 7
-  offset: 0, 0
-  index: -1
 shirt_F_sailor_h_crr_rs_3166_2_0.png
   rotate: false
-  xy: 184, 21
+  xy: 224, 5
   size: 7, 16
   orig: 7, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_rs_3166_3_0.png
   rotate: false
-  xy: 304, 17
+  xy: 233, 20
   size: 7, 16
   orig: 7, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_rs_3166_4_0.png
   rotate: false
-  xy: 435, 32
+  xy: 356, 23
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_crr_rs_3166_5_0.png
   rotate: false
-  xy: 412, 32
+  xy: 618, 43
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
+shirt_F_sailor_h_crr_rs_3166_7_0.png
+  rotate: false
+  xy: 356, 16
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
 shirt_F_sailor_h_drk_rs_3165_0_0.png
   rotate: false
-  xy: 470, 51
+  xy: 614, 51
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3165_1_0.png
   rotate: false
-  xy: 848, 54
+  xy: 690, 54
   size: 14, 8
   orig: 14, 8
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3165_2_0.png
   rotate: false
-  xy: 455, 49
+  xy: 516, 49
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3165_3_0.png
   rotate: false
-  xy: 757, 47
+  xy: 572, 47
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3165_4_0.png
   rotate: false
-  xy: 152, 2
+  xy: 269, 20
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3165_5_0.png
   rotate: false
-  xy: 259, 49
+  xy: 292, 49
   size: 15, 13
   orig: 15, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3165_6_0.png
   rotate: false
-  xy: 486, 51
+  xy: 598, 51
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3165_7_0.png
   rotate: false
-  xy: 983, 46
+  xy: 213, 2
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3166_0_0.png
   rotate: false
-  xy: 864, 54
+  xy: 706, 54
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3166_1_0.png
   rotate: false
-  xy: 878, 55
+  xy: 109, 2
   size: 12, 7
   orig: 12, 7
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3166_2_0.png
   rotate: false
-  xy: 259, 2
+  xy: 326, 21
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
@@ -265,28 +265,28 @@ shirt_F_sailor_h_drk_rs_3166_3_0.png
   index: -1
 shirt_F_sailor_h_drk_rs_3166_4_0.png
   rotate: false
-  xy: 362, 2
+  xy: 652, 41
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3166_5_0.png
   rotate: false
-  xy: 455, 41
+  xy: 675, 44
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3166_6_0.png
   rotate: false
-  xy: 279, 2
+  xy: 636, 41
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_drk_rs_3166_7_0.png
   rotate: false
-  xy: 340, 11
+  xy: 99, 2
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
@@ -300,7 +300,7 @@ shirt_F_sailor_h_lay_ch_3165_2_0.png
   index: -1
 shirt_F_sailor_h_lay_ch_3166_2_0.png
   rotate: false
-  xy: 217, 52
+  xy: 233, 52
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
@@ -321,14 +321,14 @@ shirt_F_sailor_h_lay_ls_3166_2_0.png
   index: -1
 shirt_F_sailor_h_lay_rs_3165_2_0.png
   rotate: false
-  xy: 293, 49
+  xy: 500, 49
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_lay_rs_3166_2_0.png
   rotate: false
-  xy: 269, 2
+  xy: 316, 20
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
@@ -370,7 +370,7 @@ shirt_F_sailor_h_std_ch_3165_7_0.png
   index: -1
 shirt_F_sailor_h_std_ch_3166_0_0.png
   rotate: false
-  xy: 171, 48
+  xy: 187, 48
   size: 20, 14
   orig: 20, 14
   offset: 0, 0
@@ -398,42 +398,42 @@ shirt_F_sailor_h_std_ch_3166_3_0.png
   index: -1
 shirt_F_sailor_h_std_ch_3166_7_0.png
   rotate: false
-  xy: 193, 52
+  xy: 209, 52
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_ls_3165_0_0.png
   rotate: false
-  xy: 365, 11
+  xy: 296, 4
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_ls_3165_1_0.png
   rotate: false
-  xy: 156, 16
+  xy: 253, 18
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_ls_3165_2_0.png
   rotate: false
-  xy: 381, 31
+  xy: 352, 31
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_ls_3165_3_0.png
   rotate: false
-  xy: 636, 44
+  xy: 130, 12
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_ls_3165_7_0.png
   rotate: false
-  xy: 178, 2
+  xy: 995, 47
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
@@ -447,175 +447,175 @@ shirt_F_sailor_h_std_ls_3166_0_0.png
   index: -1
 shirt_F_sailor_h_std_ls_3166_1_0.png
   rotate: false
-  xy: 440, 41
+  xy: 347, 2
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_ls_3166_2_0.png
   rotate: false
-  xy: 309, 35
+  xy: 362, 25
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_ls_3166_3_0.png
   rotate: false
-  xy: 295, 12
+  xy: 233, 2
   size: 7, 16
   orig: 7, 16
   offset: 0, 0
   index: -1
-shirt_F_sailor_h_std_ls_3166_7_0.png
-  rotate: false
-  xy: 447, 34
-  size: 4, 5
-  orig: 4, 5
-  offset: 0, 0
-  index: -1
 shirt_F_sailor_h_std_rs_3165_0_0.png
   rotate: false
-  xy: 599, 44
+  xy: 424, 44
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_rs_3165_1_0.png
   rotate: false
-  xy: 142, 2
+  xy: 247, 38
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_rs_3165_2_0.png
   rotate: false
-  xy: 659, 43
+  xy: 119, 11
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_rs_3165_3_0.png
   rotate: false
-  xy: 188, 2
+  xy: 184, 20
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_rs_3165_7_0.png
   rotate: false
-  xy: 245, 13
+  xy: 985, 47
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_rs_3166_0_0.png
   rotate: false
-  xy: 808, 48
+  xy: 745, 48
   size: 10, 14
   orig: 10, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_rs_3166_1_0.png
   rotate: false
-  xy: 200, 21
+  xy: 288, 4
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_std_rs_3166_3_0.png
   rotate: false
-  xy: 313, 24
+  xy: 976, 46
   size: 7, 16
   orig: 7, 16
   offset: 0, 0
   index: -1
-shirt_F_sailor_h_wav_ls_3165_0_0.png
+shirt_F_sailor_h_std_rs_3166_7_0.png
   rotate: false
-  xy: 783, 48
+  xy: 356, 9
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+shirt_F_sailor_h_wav_ls_3165_0_1.png
+  rotate: false
+  xy: 720, 48
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_1_0.png
   rotate: false
-  xy: 120, 2
+  xy: 235, 38
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_1_1.png
   rotate: false
-  xy: 250, 2
+  xy: 367, 32
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_2_0.png
   rotate: false
-  xy: 517, 50
+  xy: 660, 50
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_2_1.png
   rotate: false
-  xy: 532, 50
+  xy: 645, 50
   size: 13, 12
   orig: 13, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_3_0.png
   rotate: false
-  xy: 573, 46
+  xy: 474, 46
   size: 11, 16
   orig: 11, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_3_1.png
   rotate: false
-  xy: 560, 46
+  xy: 487, 46
   size: 11, 16
   orig: 11, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_4_0.png
   rotate: false
-  xy: 378, 46
+  xy: 356, 46
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_5_0.png
   rotate: false
-  xy: 241, 49
+  xy: 257, 49
   size: 16, 13
   orig: 16, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_5_1.png
   rotate: false
-  xy: 276, 49
+  xy: 275, 49
   size: 15, 13
   orig: 15, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_6_0.png
   rotate: false
-  xy: 393, 47
+  xy: 309, 47
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_6_1.png
   rotate: false
-  xy: 409, 48
+  xy: 325, 48
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3165_7_0.png
   rotate: false
-  xy: 309, 42
+  xy: 171, 42
   size: 14, 20
   orig: 14, 20
   offset: 0, 0
@@ -629,581 +629,588 @@ shirt_F_sailor_h_wav_ls_3165_7_1.png
   index: -1
 shirt_F_sailor_h_wav_ls_3166_0_0.png
   rotate: false
-  xy: 240, 2
+  xy: 157, 2
   size: 8, 9
   orig: 8, 9
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_0_1.png
   rotate: false
-  xy: 322, 11
+  xy: 307, 20
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_1_0.png
   rotate: false
-  xy: 422, 40
+  xy: 376, 26
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_1_1.png
   rotate: false
-  xy: 298, 4
+  xy: 395, 31
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_2_0.png
   rotate: false
-  xy: 796, 48
+  xy: 733, 48
   size: 10, 14
   orig: 10, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_2_1.png
   rotate: false
-  xy: 770, 48
+  xy: 546, 48
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_3_0.png
   rotate: false
-  xy: 892, 54
+  xy: 134, 2
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_3_1.png
   rotate: false
-  xy: 904, 54
+  xy: 223, 42
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_4_0.png
   rotate: false
-  xy: 287, 3
+  xy: 198, 39
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_4_1.png
   rotate: false
-  xy: 109, 2
+  xy: 146, 2
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_5_0.png
   rotate: false
-  xy: 171, 39
+  xy: 187, 39
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_5_1.png
   rotate: false
-  xy: 182, 39
+  xy: 123, 2
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_6_0.png
   rotate: false
-  xy: 502, 51
+  xy: 630, 51
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_6_1.png
   rotate: false
-  xy: 833, 52
+  xy: 675, 52
   size: 13, 10
   orig: 13, 10
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_7_0.png
   rotate: false
-  xy: 334, 2
+  xy: 346, 22
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wav_ls_3166_7_1.png
   rotate: false
-  xy: 344, 2
+  xy: 336, 22
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_0_0.png
   rotate: false
-  xy: 193, 21
+  xy: 267, 2
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_0_1.png
   rotate: false
-  xy: 331, 22
+  xy: 316, 30
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_0_2.png
   rotate: false
-  xy: 238, 15
+  xy: 262, 18
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_0_3.png
   rotate: false
-  xy: 147, 16
+  xy: 307, 31
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_1_0.png
   rotate: false
-  xy: 950, 48
+  xy: 793, 48
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_1_1.png
   rotate: false
-  xy: 744, 47
+  xy: 559, 47
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_1_2.png
   rotate: false
-  xy: 961, 48
+  xy: 782, 48
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_1_3.png
   rotate: false
-  xy: 440, 48
+  xy: 341, 48
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_2_0.png
   rotate: false
-  xy: 374, 26
+  xy: 260, 2
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_2_1.png
   rotate: false
-  xy: 349, 25
+  xy: 298, 32
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_2_2.png
   rotate: false
-  xy: 358, 27
+  xy: 253, 2
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_2_3.png
   rotate: false
-  xy: 388, 31
+  xy: 281, 4
   size: 5, 13
   orig: 5, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_3_0.png
   rotate: false
-  xy: 208, 15
+  xy: 826, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_3_1.png
   rotate: false
-  xy: 700, 42
+  xy: 109, 11
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_3_2.png
   rotate: false
-  xy: 690, 42
+  xy: 99, 7
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_3_3.png
   rotate: false
-  xy: 218, 15
+  xy: 836, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_7_0.png
   rotate: false
-  xy: 291, 30
+  xy: 214, 20
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_7_1.png
   rotate: false
-  xy: 285, 12
+  xy: 936, 46
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_7_2.png
   rotate: false
-  xy: 281, 30
+  xy: 204, 20
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3165_7_3.png
   rotate: false
-  xy: 228, 15
+  xy: 846, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_0_0.png
   rotate: false
-  xy: 314, 10
+  xy: 303, 6
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_0_1.png
   rotate: false
-  xy: 301, 35
+  xy: 311, 6
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_0_2.png
   rotate: false
-  xy: 234, 2
+  xy: 350, 9
   size: 4, 11
   orig: 4, 11
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_0_3.png
   rotate: false
-  xy: 208, 2
+  xy: 209, 39
   size: 6, 11
   orig: 6, 11
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_1_0.png
   rotate: false
-  xy: 99, 2
+  xy: 338, 2
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_1_1.png
   rotate: false
-  xy: 314, 2
+  xy: 385, 31
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_1_3.png
   rotate: false
-  xy: 412, 40
+  xy: 385, 23
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_2_0.png
   rotate: false
-  xy: 216, 2
+  xy: 217, 39
   size: 4, 11
   orig: 4, 11
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_2_1.png
   rotate: false
-  xy: 170, 2
+  xy: 359, 32
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_2_2.png
   rotate: false
-  xy: 222, 2
+  xy: 338, 9
   size: 4, 11
   orig: 4, 11
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_2_3.png
   rotate: false
-  xy: 236, 39
+  xy: 333, 8
   size: 3, 11
   orig: 3, 11
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_3_0.png
   rotate: false
-  xy: 251, 30
+  xy: 896, 45
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_3_1.png
   rotate: false
-  xy: 710, 44
+  xy: 856, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_3_3.png
   rotate: false
-  xy: 265, 12
+  xy: 946, 46
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_ls_3166_7_1.png
   rotate: false
-  xy: 428, 32
+  xy: 668, 42
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
+shirt_F_sailor_h_wlk_ls_3166_7_2.png
+  rotate: false
+  xy: 355, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
 shirt_F_sailor_h_wlk_rs_3165_0_0.png
   rotate: false
-  xy: 732, 46
+  xy: 190, 2
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_0_1.png
   rotate: false
-  xy: 586, 45
+  xy: 461, 45
   size: 11, 17
   orig: 11, 17
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_0_2.png
   rotate: false
-  xy: 720, 46
+  xy: 178, 2
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_0_3.png
   rotate: false
-  xy: 647, 45
+  xy: 141, 13
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_1_0.png
   rotate: false
-  xy: 939, 48
+  xy: 242, 6
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_1_1.png
   rotate: false
-  xy: 425, 48
+  xy: 531, 48
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_1_2.png
   rotate: false
-  xy: 928, 48
+  xy: 242, 22
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_1_3.png
   rotate: false
-  xy: 547, 47
+  xy: 585, 47
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_2_0.png
   rotate: false
-  xy: 365, 42
+  xy: 411, 42
   size: 11, 20
   orig: 11, 20
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_2_1.png
   rotate: false
-  xy: 351, 43
+  xy: 371, 43
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_2_2.png
   rotate: false
-  xy: 338, 42
+  xy: 398, 42
   size: 11, 20
   orig: 11, 20
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_2_3.png
   rotate: false
-  xy: 325, 39
+  xy: 385, 39
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_3_0.png
   rotate: false
-  xy: 680, 42
+  xy: 164, 19
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_3_1.png
   rotate: false
-  xy: 174, 19
+  xy: 886, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_3_2.png
   rotate: false
-  xy: 109, 13
+  xy: 876, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_3_3.png
   rotate: false
-  xy: 670, 42
+  xy: 174, 20
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_7_0.png
   rotate: false
-  xy: 271, 30
+  xy: 906, 45
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_7_1.png
   rotate: false
-  xy: 99, 9
+  xy: 866, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_7_2.png
   rotate: false
-  xy: 261, 30
+  xy: 916, 45
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3165_7_3.png
   rotate: false
-  xy: 275, 12
+  xy: 966, 46
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_0_0.png
   rotate: false
-  xy: 193, 37
+  xy: 257, 34
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_0_1.png
   rotate: false
-  xy: 204, 35
+  xy: 815, 47
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_0_2.png
   rotate: false
-  xy: 126, 16
+  xy: 804, 48
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_0_3.png
   rotate: false
-  xy: 137, 16
+  xy: 278, 33
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_1_0.png
   rotate: false
-  xy: 161, 2
+  xy: 288, 18
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_1_1.png
   rotate: false
-  xy: 820, 49
+  xy: 757, 49
   size: 11, 13
   orig: 11, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_1_2.png
   rotate: false
-  xy: 132, 2
+  xy: 278, 19
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_1_3.png
   rotate: false
-  xy: 916, 49
+  xy: 770, 49
   size: 10, 13
   orig: 10, 13
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_2_0.png
   rotate: false
-  xy: 431, 40
+  xy: 627, 43
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_2_1.png
   rotate: false
-  xy: 324, 2
+  xy: 598, 42
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_2_2.png
   rotate: false
-  xy: 331, 13
+  xy: 376, 34
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_2_3.png
   rotate: false
-  xy: 340, 16
+  xy: 608, 42
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
@@ -1217,35 +1224,28 @@ shirt_F_sailor_h_wlk_rs_3166_3_0.png
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_3_1.png
   rotate: false
-  xy: 322, 22
+  xy: 334, 31
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_3_2.png
   rotate: false
-  xy: 241, 31
+  xy: 956, 46
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_F_sailor_h_wlk_rs_3166_3_3.png
   rotate: false
-  xy: 165, 16
+  xy: 224, 23
   size: 7, 17
   orig: 7, 17
   offset: 0, 0
   index: -1
-shirt_F_sailor_h_wlk_rs_3166_7_1.png
-  rotate: false
-  xy: 448, 41
-  size: 5, 5
-  orig: 5, 5
-  offset: 0, 0
-  index: -1
 shirt_F_sailor_h_wlk_rs_3166_7_3.png
   rotate: false
-  xy: 421, 32
+  xy: 682, 44
   size: 5, 6
   orig: 5, 6
   offset: 0, 0

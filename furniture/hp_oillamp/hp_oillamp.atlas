@@ -1,0 +1,27 @@
+
+hp_oillamp.png
+size: 32,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_oillamp_hp_oillamp_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 26, 70
+  orig: 26, 70
+  offset: 0, 0
+  index: -1
+hp_oillamp_hp_oillamp_64_a_2_1.png
+  rotate: false
+  xy: 2, 101
+  size: 26, 70
+  orig: 26, 70
+  offset: 0, 0
+  index: -1
+hp_oillamp_hp_oillamp_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1

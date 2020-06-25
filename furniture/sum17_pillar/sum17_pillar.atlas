@@ -1,0 +1,20 @@
+
+sum17_pillar.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sum17_pillar_sum17_pillar_64_a_2_0.png
+  rotate: false
+  xy: 2, 39
+  size: 73, 138
+  orig: 73, 138
+  offset: 0, 0
+  index: -1
+sum17_pillar_sum17_pillar_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1

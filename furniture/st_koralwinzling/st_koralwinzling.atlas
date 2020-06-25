@@ -1,0 +1,27 @@
+
+st_koralwinzling.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_koralwinzling_st_koralwinzling_64_a_2_0.png
+  rotate: false
+  xy: 2, 40
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+st_koralwinzling_st_koralwinzling_64_a_2_1.png
+  rotate: false
+  xy: 69, 40
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+st_koralwinzling_st_koralwinzling_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1

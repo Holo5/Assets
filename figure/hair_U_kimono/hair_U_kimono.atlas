@@ -6,56 +6,56 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_kimono_h_lay_hr_2627_2_0.png
   rotate: false
-  xy: 239, 29
-  size: 34, 33
-  orig: 34, 33
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_lsp_hr_2628_2_0.png
-  rotate: false
-  xy: 142, 2
-  size: 21, 31
-  orig: 21, 31
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_lsp_hrb_2627_2_0.png
-  rotate: false
   xy: 275, 29
   size: 34, 33
   orig: 34, 33
   offset: 0, 0
   index: -1
-hair_U_kimono_h_lsp_hrb_2628_2_0.png
+hair_U_kimono_h_lay_hrb_2627_2_0.png
   rotate: false
-  xy: 119, 2
+  xy: 2, 29
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_lay_hrb_2628_2_0.png
+  rotate: false
+  xy: 178, 2
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_lsp_hr_2628_2_0.png
+  rotate: false
+  xy: 155, 2
   size: 21, 31
   orig: 21, 31
   offset: 0, 0
   index: -1
 hair_U_kimono_h_spk_hr_2627_0_0.png
   rotate: false
-  xy: 346, 33
+  xy: 311, 33
   size: 33, 29
   orig: 33, 29
   offset: 0, 0
   index: -1
 hair_U_kimono_h_spk_hr_2627_1_0.png
   rotate: false
-  xy: 72, 2
+  xy: 38, 2
   size: 33, 28
   orig: 33, 28
   offset: 0, 0
   index: -1
 hair_U_kimono_h_spk_hr_2627_2_0.png
   rotate: false
-  xy: 80, 32
+  xy: 38, 32
   size: 37, 30
   orig: 37, 30
   offset: 0, 0
   index: -1
 hair_U_kimono_h_spk_hr_2627_3_0.png
   rotate: false
-  xy: 199, 35
+  xy: 235, 35
   size: 38, 27
   orig: 38, 27
   offset: 0, 0
@@ -67,157 +67,157 @@ hair_U_kimono_h_spk_hr_2627_7_0.png
   orig: 30, 29
   offset: 0, 0
   index: -1
-hair_U_kimono_h_spk_hr_2628_1_0.png
-  rotate: false
-  xy: 271, 2
-  size: 14, 25
-  orig: 14, 25
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_spk_hr_2628_3_0.png
-  rotate: false
-  xy: 165, 15
-  size: 36, 18
-  orig: 36, 18
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_spk_hr_2628_7_0.png
-  rotate: false
-  xy: 203, 14
-  size: 28, 19
-  orig: 28, 19
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_spk_hrb_2627_1_0.png
-  rotate: false
-  xy: 37, 2
-  size: 33, 28
-  orig: 33, 28
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_spk_hrb_2627_3_0.png
-  rotate: false
-  xy: 119, 35
-  size: 38, 27
-  orig: 38, 27
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_spk_hrb_2627_7_0.png
-  rotate: false
-  xy: 346, 2
-  size: 30, 29
-  orig: 30, 29
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_spk_hrb_2628_3_0.png
-  rotate: false
-  xy: 413, 20
-  size: 36, 18
-  orig: 36, 18
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_spk_hrb_2628_7_0.png
-  rotate: false
-  xy: 451, 19
-  size: 28, 19
-  orig: 28, 19
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_std_hr_2627_0_0.png
-  rotate: false
-  xy: 311, 2
-  size: 33, 29
-  orig: 33, 29
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_std_hr_2627_1_0.png
+hair_U_kimono_h_spk_hr_2628_0_0.png
   rotate: false
   xy: 2, 2
-  size: 33, 28
-  orig: 33, 28
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_std_hr_2627_2_0.png
-  rotate: false
-  xy: 41, 32
-  size: 37, 30
-  orig: 37, 30
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_std_hr_2627_3_0.png
-  rotate: false
-  xy: 159, 35
-  size: 38, 27
-  orig: 38, 27
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_std_hr_2627_7_0.png
-  rotate: false
-  xy: 378, 2
-  size: 30, 29
-  orig: 30, 29
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_std_hr_2628_0_0.png
-  rotate: false
-  xy: 233, 2
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
-hair_U_kimono_h_std_hr_2628_1_0.png
+hair_U_kimono_h_spk_hr_2628_1_0.png
   rotate: false
-  xy: 487, 37
+  xy: 21, 2
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
   index: -1
-hair_U_kimono_h_std_hr_2628_2_0.png
+hair_U_kimono_h_spk_hr_2628_2_0.png
   rotate: false
   xy: 413, 40
   size: 35, 22
   orig: 35, 22
   offset: 0, 0
   index: -1
+hair_U_kimono_h_spk_hr_2628_3_0.png
+  rotate: false
+  xy: 269, 9
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_spk_hr_2628_7_0.png
+  rotate: false
+  xy: 443, 19
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_spk_hrb_2627_1_0.png
+  rotate: false
+  xy: 108, 2
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_spk_hrb_2627_3_0.png
+  rotate: false
+  xy: 155, 35
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_spk_hrb_2627_7_0.png
+  rotate: false
+  xy: 378, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_spk_hrb_2628_0_0.png
+  rotate: false
+  xy: 487, 37
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_spk_hrb_2628_1_0.png
+  rotate: false
+  xy: 473, 10
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_spk_hrb_2628_2_0.png
+  rotate: false
+  xy: 450, 40
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_spk_hrb_2628_7_0.png
+  rotate: false
+  xy: 413, 19
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_std_hr_2627_0_0.png
+  rotate: false
+  xy: 346, 33
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_std_hr_2627_1_0.png
+  rotate: false
+  xy: 73, 2
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_std_hr_2627_2_0.png
+  rotate: false
+  xy: 116, 32
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_std_hr_2627_3_0.png
+  rotate: false
+  xy: 195, 35
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_std_hr_2627_7_0.png
+  rotate: false
+  xy: 346, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+hair_U_kimono_h_std_hr_2628_1_0.png
+  rotate: false
+  xy: 489, 10
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
 hair_U_kimono_h_std_hr_2628_7_0.png
   rotate: false
-  xy: 481, 16
+  xy: 239, 14
   size: 28, 19
   orig: 28, 19
   offset: 0, 0
   index: -1
 hair_U_kimono_h_std_hrb_2627_0_0.png
   rotate: false
-  xy: 311, 33
+  xy: 311, 2
   size: 33, 29
   orig: 33, 29
   offset: 0, 0
   index: -1
 hair_U_kimono_h_std_hrb_2627_2_0.png
   rotate: false
-  xy: 2, 32
+  xy: 77, 32
   size: 37, 30
   orig: 37, 30
   offset: 0, 0
   index: -1
-hair_U_kimono_h_std_hrb_2628_0_0.png
+hair_U_kimono_h_std_hrb_2628_3_0.png
   rotate: false
-  xy: 252, 2
-  size: 17, 25
-  orig: 17, 25
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_std_hrb_2628_1_0.png
-  rotate: false
-  xy: 287, 2
-  size: 14, 25
-  orig: 14, 25
-  offset: 0, 0
-  index: -1
-hair_U_kimono_h_std_hrb_2628_2_0.png
-  rotate: false
-  xy: 450, 40
-  size: 35, 22
-  orig: 35, 22
+  xy: 201, 15
+  size: 36, 18
+  orig: 36, 18
   offset: 0, 0
   index: -1

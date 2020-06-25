@@ -4,34 +4,6 @@ size: 512,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shoes_f_bowshoes_h_lay_sh_2474_2_0.png
-  rotate: false
-  xy: 239, 2
-  size: 20, 19
-  orig: 20, 19
-  offset: 0, 0
-  index: -1
-shoes_f_bowshoes_h_lay_sh_2474_2_0.png
-  rotate: false
-  xy: 261, 3
-  size: 20, 19
-  orig: 20, 19
-  offset: 0, 0
-  index: -1
-shoes_f_bowshoes_h_lay_sh_2475_2_0.png
-  rotate: false
-  xy: 142, 2
-  size: 3, 4
-  orig: 3, 4
-  offset: 0, 0
-  index: -1
-shoes_f_bowshoes_h_lay_sh_2475_2_0.png
-  rotate: false
-  xy: 147, 2
-  size: 3, 4
-  orig: 3, 4
-  offset: 0, 0
-  index: -1
 shoes_f_bowshoes_h_sit_sh_2474_0_0.png
   rotate: false
   xy: 283, 4
@@ -39,11 +11,39 @@ shoes_f_bowshoes_h_sit_sh_2474_0_0.png
   orig: 17, 19
   offset: 0, 0
   index: -1
+shoes_f_bowshoes_h_sit_sh_2474_2_0.png
+  rotate: false
+  xy: 239, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+shoes_f_bowshoes_h_sit_sh_2474_2_0.png
+  rotate: false
+  xy: 261, 3
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
 shoes_f_bowshoes_h_sit_sh_2475_0_0.png
   rotate: false
   xy: 452, 21
   size: 14, 9
   orig: 14, 9
+  offset: 0, 0
+  index: -1
+shoes_f_bowshoes_h_sit_sh_2475_2_0.png
+  rotate: false
+  xy: 142, 2
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shoes_f_bowshoes_h_sit_sh_2475_2_0.png
+  rotate: false
+  xy: 147, 2
+  size: 3, 4
+  orig: 3, 4
   offset: 0, 0
   index: -1
 shoes_f_bowshoes_h_std_sh_2474_0_0.png
@@ -81,6 +81,20 @@ shoes_f_bowshoes_h_std_sh_2474_7_0.png
   orig: 21, 7
   offset: 0, 0
   index: -1
+shoes_f_bowshoes_h_std_sh_2475_0_0.png
+  rotate: false
+  xy: 318, 25
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+shoes_f_bowshoes_h_std_sh_2475_0_0.png
+  rotate: false
+  xy: 324, 12
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
 shoes_f_bowshoes_h_std_sh_2475_1_0.png
   rotate: false
   xy: 468, 23
@@ -100,41 +114,6 @@ shoes_f_bowshoes_h_std_sh_2475_3_0.png
   xy: 109, 2
   size: 19, 4
   orig: 19, 4
-  offset: 0, 0
-  index: -1
-shoes_f_bowshoes_h_std_sh_2475_7_0.png
-  rotate: false
-  xy: 40, 3
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shoes_f_bowshoes_h_std_sh_2475_7_0.png
-  rotate: false
-  xy: 43, 3
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shoes_f_bowshoes_h_std_sh_2475_7_0.png
-  rotate: false
-  xy: 46, 3
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shoes_f_bowshoes_h_std_sh_2475_7_0.png
-  rotate: false
-  xy: 49, 3
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shoes_f_bowshoes_h_std_sh_2475_7_0.png
-  rotate: false
-  xy: 52, 3
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2474_0_0.png
@@ -223,14 +202,14 @@ shoes_f_bowshoes_h_wlk_sh_2474_2_3.png
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2474_3_0.png
   rotate: false
-  xy: 369, 20
+  xy: 376, 8
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2474_3_1.png
   rotate: false
-  xy: 354, 8
+  xy: 369, 20
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
@@ -244,65 +223,51 @@ shoes_f_bowshoes_h_wlk_sh_2474_3_2.png
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2474_3_3.png
   rotate: false
-  xy: 376, 8
+  xy: 354, 8
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2474_7_0.png
   rotate: false
-  xy: 324, 19
+  xy: 302, 12
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2474_7_1.png
   rotate: false
-  xy: 412, 20
+  xy: 398, 8
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2474_7_2.png
   rotate: false
-  xy: 302, 12
+  xy: 324, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2474_7_3.png
   rotate: false
-  xy: 398, 8
+  xy: 412, 20
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2475_0_0.png
   rotate: false
-  xy: 136, 2
+  xy: 130, 2
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2475_0_1.png
   rotate: false
-  xy: 149, 22
+  xy: 119, 22
   size: 28, 8
   orig: 28, 8
-  offset: 0, 0
-  index: -1
-shoes_f_bowshoes_h_wlk_sh_2475_0_2.png
-  rotate: false
-  xy: 318, 25
-  size: 4, 5
-  orig: 4, 5
-  offset: 0, 0
-  index: -1
-shoes_f_bowshoes_h_wlk_sh_2475_0_2.png
-  rotate: false
-  xy: 324, 12
-  size: 4, 5
-  orig: 4, 5
   offset: 0, 0
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2475_0_3.png
@@ -328,14 +293,14 @@ shoes_f_bowshoes_h_wlk_sh_2475_1_1.png
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2475_1_2.png
   rotate: false
-  xy: 130, 2
+  xy: 136, 2
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2475_1_3.png
   rotate: false
-  xy: 119, 22
+  xy: 149, 22
   size: 28, 8
   orig: 28, 8
   offset: 0, 0
@@ -377,7 +342,7 @@ shoes_f_bowshoes_h_wlk_sh_2475_3_0.png
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2475_3_1.png
   rotate: false
-  xy: 268, 25
+  xy: 288, 25
   size: 18, 5
   orig: 18, 5
   offset: 0, 0
@@ -391,8 +356,43 @@ shoes_f_bowshoes_h_wlk_sh_2475_3_2.png
   index: -1
 shoes_f_bowshoes_h_wlk_sh_2475_3_3.png
   rotate: false
-  xy: 288, 25
+  xy: 268, 25
   size: 18, 5
   orig: 18, 5
+  offset: 0, 0
+  index: -1
+shoes_f_bowshoes_sh_std_sh_2475_7_0.png
+  rotate: false
+  xy: 40, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_f_bowshoes_sh_std_sh_2475_7_0.png
+  rotate: false
+  xy: 43, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_f_bowshoes_sh_std_sh_2475_7_0.png
+  rotate: false
+  xy: 46, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_f_bowshoes_sh_std_sh_2475_7_0.png
+  rotate: false
+  xy: 49, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_f_bowshoes_sh_std_sh_2475_7_0.png
+  rotate: false
+  xy: 52, 3
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1

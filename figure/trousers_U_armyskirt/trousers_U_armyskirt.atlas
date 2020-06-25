@@ -48,7 +48,7 @@ trousers_U_armyskirt_h_sit_lg_2719_2_0.png
   index: -1
 trousers_U_armyskirt_h_std_lg_2718_0_0.png
   rotate: false
-  xy: 294, 3
+  xy: 246, 3
   size: 22, 23
   orig: 22, 23
   offset: 0, 0
@@ -62,7 +62,7 @@ trousers_U_armyskirt_h_std_lg_2718_1_0.png
   index: -1
 trousers_U_armyskirt_h_std_lg_2718_2_0.png
   rotate: false
-  xy: 172, 2
+  xy: 197, 2
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
@@ -76,7 +76,7 @@ trousers_U_armyskirt_h_std_lg_2718_3_0.png
   index: -1
 trousers_U_armyskirt_h_std_lg_2718_7_0.png
   rotate: false
-  xy: 365, 9
+  xy: 342, 9
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
@@ -97,14 +97,14 @@ trousers_U_armyskirt_h_std_lg_2719_2_0.png
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_0_0.png
   rotate: false
-  xy: 221, 3
+  xy: 147, 3
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_0_1.png
   rotate: false
-  xy: 92, 7
+  xy: 64, 7
   size: 26, 19
   orig: 26, 19
   offset: 0, 0
@@ -118,7 +118,7 @@ trousers_U_armyskirt_h_wlk_lg_2718_0_2.png
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_0_3.png
   rotate: false
-  xy: 246, 3
+  xy: 294, 3
   size: 22, 23
   orig: 22, 23
   offset: 0, 0
@@ -132,7 +132,7 @@ trousers_U_armyskirt_h_wlk_lg_2718_1_0.png
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_1_1.png
   rotate: false
-  xy: 595, 11
+  xy: 572, 11
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
@@ -146,14 +146,14 @@ trousers_U_armyskirt_h_wlk_lg_2718_1_2.png
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_1_3.png
   rotate: false
-  xy: 572, 11
+  xy: 595, 11
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_2_0.png
   rotate: false
-  xy: 197, 2
+  xy: 222, 2
   size: 22, 24
   orig: 22, 24
   offset: 0, 0
@@ -167,42 +167,42 @@ trousers_U_armyskirt_h_wlk_lg_2718_2_1.png
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_2_2.png
   rotate: false
-  xy: 147, 2
+  xy: 172, 2
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_2_3.png
   rotate: false
-  xy: 64, 7
+  xy: 92, 7
   size: 26, 19
   orig: 26, 19
   offset: 0, 0
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_3_0.png
   rotate: false
-  xy: 480, 9
+  xy: 434, 9
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_3_1.png
   rotate: false
-  xy: 457, 9
+  xy: 411, 9
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_3_2.png
   rotate: false
-  xy: 434, 9
+  xy: 480, 9
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_3_3.png
   rotate: false
-  xy: 411, 9
+  xy: 457, 9
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
@@ -223,7 +223,7 @@ trousers_U_armyskirt_h_wlk_lg_2718_7_1.png
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2718_7_2.png
   rotate: false
-  xy: 342, 9
+  xy: 365, 9
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
@@ -263,18 +263,18 @@ trousers_U_armyskirt_h_wlk_lg_2719_0_3.png
   orig: 5, 12
   offset: 0, 0
   index: -1
-trousers_U_armyskirt_h_wlk_lg_2719_1_0.png
-  rotate: false
-  xy: 751, 14
-  size: 3, 12
-  orig: 3, 12
-  offset: 0, 0
-  index: -1
 trousers_U_armyskirt_h_wlk_lg_2719_1_1.png
   rotate: false
   xy: 713, 16
   size: 6, 10
   orig: 6, 10
+  offset: 0, 0
+  index: -1
+trousers_U_armyskirt_h_wlk_lg_2719_1_2.png
+  rotate: false
+  xy: 751, 14
+  size: 3, 12
+  orig: 3, 12
   offset: 0, 0
   index: -1
 trousers_U_armyskirt_h_wlk_lg_2719_1_3.png

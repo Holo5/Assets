@@ -1,0 +1,34 @@
+
+silver_habberge_staffje.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+silver_habberge_staffje_silver_habberge_staffje_64_a_2_0.png
+  rotate: false
+  xy: 129, 83
+  size: 72, 150
+  orig: 72, 150
+  offset: 0, 0
+  index: -1
+silver_habberge_staffje_silver_habberge_staffje_64_a_2_1.png
+  rotate: false
+  xy: 2, 21
+  size: 125, 212
+  orig: 125, 212
+  offset: 0, 0
+  index: -1
+silver_habberge_staffje_silver_habberge_staffje_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+silver_habberge_staffje_silver_habberge_staffje_icon_a.png
+  rotate: false
+  xy: 129, 40
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1

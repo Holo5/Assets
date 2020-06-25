@@ -6,70 +6,70 @@ filter: Nearest,Nearest
 repeat: none
 acc_print_U_cherrybomb_h_lay_cp_2708_2_0.png
   rotate: false
-  xy: 24, 12
+  xy: 2, 15
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
   index: -1
 acc_print_U_cherrybomb_h_lay_cp_2708_4_0.png
   rotate: false
-  xy: 2, 12
+  xy: 24, 15
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
   index: -1
 acc_print_U_cherrybomb_h_lay_cp_2709_2_0.png
   rotate: false
-  xy: 2, 4
+  xy: 14, 7
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
 acc_print_U_cherrybomb_h_lay_cp_2709_4_0.png
   rotate: false
-  xy: 91, 21
+  xy: 2, 7
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
 acc_print_U_cherrybomb_h_std_cp_2708_2_0.png
   rotate: false
-  xy: 63, 6
+  xy: 63, 9
   size: 12, 21
   orig: 12, 21
   offset: 0, 0
   index: -1
 acc_print_U_cherrybomb_h_std_cp_2708_3_0.png
   rotate: false
-  xy: 46, 8
+  xy: 46, 11
   size: 15, 19
   orig: 15, 19
   offset: 0, 0
   index: -1
 acc_print_U_cherrybomb_h_std_cp_2708_4_0.png
   rotate: false
-  xy: 77, 6
+  xy: 77, 9
   size: 12, 21
   orig: 12, 21
   offset: 0, 0
   index: -1
 acc_print_U_cherrybomb_h_std_cp_2709_2_0.png
   rotate: false
-  xy: 14, 2
+  xy: 91, 12
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
 acc_print_U_cherrybomb_h_std_cp_2709_3_0.png
   rotate: false
-  xy: 91, 11
+  xy: 91, 22
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 acc_print_U_cherrybomb_h_std_cp_2709_4_0.png
   rotate: false
-  xy: 23, 2
+  xy: 91, 2
   size: 7, 8
   orig: 7, 8
   offset: 0, 0

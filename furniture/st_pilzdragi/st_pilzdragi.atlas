@@ -1,0 +1,55 @@
+
+st_pilzdragi.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_pilzdragi_st_pilzdragi_64_a_2_0.png
+  rotate: false
+  xy: 321, 124
+  size: 64, 93
+  orig: 64, 93
+  offset: 0, 0
+  index: -1
+st_pilzdragi_st_pilzdragi_64_a_2_1.png
+  rotate: false
+  xy: 192, 80
+  size: 66, 137
+  orig: 66, 137
+  offset: 0, 0
+  index: -1
+st_pilzdragi_st_pilzdragi_64_a_2_2.png
+  rotate: false
+  xy: 260, 73
+  size: 59, 144
+  orig: 59, 144
+  offset: 0, 0
+  index: -1
+st_pilzdragi_st_pilzdragi_64_a_2_3.png
+  rotate: false
+  xy: 127, 74
+  size: 63, 143
+  orig: 63, 143
+  offset: 0, 0
+  index: -1
+st_pilzdragi_st_pilzdragi_64_a_2_4.png
+  rotate: false
+  xy: 2, 44
+  size: 63, 173
+  orig: 63, 173
+  offset: 0, 0
+  index: -1
+st_pilzdragi_st_pilzdragi_64_a_2_5.png
+  rotate: false
+  xy: 67, 68
+  size: 58, 149
+  orig: 58, 149
+  offset: 0, 0
+  index: -1
+st_pilzdragi_st_pilzdragi_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+gingerbread_egg.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gingerbread_egg_gingerbread_egg_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+gingerbread_egg_gingerbread_egg_icon_a.png
+  rotate: false
+  xy: 58, 27
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

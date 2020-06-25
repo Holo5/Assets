@@ -6,239 +6,239 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_messybun_h_lay_hr_3346_2_0.png
   rotate: false
-  xy: 50, 31
+  xy: 50, 27
   size: 46, 31
   orig: 46, 31
   offset: 0, 0
   index: -1
-hair_U_messybun_h_lay_hr_3347_2_0.png
+hair_U_messybun_h_lay_hrb_3346_2_0.png
   rotate: false
-  xy: 647, 2
-  size: 31, 23
-  orig: 31, 23
+  xy: 98, 27
+  size: 46, 31
+  orig: 46, 31
   offset: 0, 0
   index: -1
 hair_U_messybun_h_lsp_hr_3346_2_0.png
   rotate: false
-  xy: 98, 31
+  xy: 2, 27
   size: 46, 31
   orig: 46, 31
   offset: 0, 0
   index: -1
-hair_U_messybun_h_lsp_hrb_3346_2_0.png
+hair_U_messybun_h_lsp_hr_3347_2_0.png
   rotate: false
-  xy: 2, 31
-  size: 46, 31
-  orig: 46, 31
+  xy: 2, 2
+  size: 31, 23
+  orig: 31, 23
   offset: 0, 0
   index: -1
 hair_U_messybun_h_lsp_hrb_3347_2_0.png
   rotate: false
-  xy: 614, 2
+  xy: 809, 35
   size: 31, 23
   orig: 31, 23
   offset: 0, 0
   index: -1
 hair_U_messybun_h_spk_hr_3346_0_0.png
   rotate: false
-  xy: 309, 18
+  xy: 277, 14
   size: 30, 44
   orig: 30, 44
   offset: 0, 0
   index: -1
 hair_U_messybun_h_spk_hr_3346_1_0.png
   rotate: false
-  xy: 146, 18
+  xy: 146, 14
   size: 31, 44
   orig: 31, 44
   offset: 0, 0
   index: -1
 hair_U_messybun_h_spk_hr_3346_2_0.png
   rotate: false
-  xy: 403, 19
+  xy: 493, 15
   size: 29, 43
   orig: 29, 43
   offset: 0, 0
   index: -1
 hair_U_messybun_h_spk_hr_3346_3_0.png
   rotate: false
-  xy: 524, 20
+  xy: 584, 16
   size: 28, 42
   orig: 28, 42
   offset: 0, 0
   index: -1
 hair_U_messybun_h_spk_hr_3346_7_0.png
   rotate: false
-  xy: 434, 17
+  xy: 341, 13
   size: 28, 45
   orig: 28, 45
   offset: 0, 0
   index: -1
 hair_U_messybun_h_spk_hr_3347_0_0.png
   rotate: false
-  xy: 834, 32
+  xy: 892, 28
   size: 23, 30
   orig: 23, 30
   offset: 0, 0
   index: -1
-hair_U_messybun_h_spk_hr_3347_1_0.png
-  rotate: false
-  xy: 614, 27
-  size: 22, 35
-  orig: 22, 35
-  offset: 0, 0
-  index: -1
 hair_U_messybun_h_spk_hr_3347_2_0.png
   rotate: false
-  xy: 763, 26
+  xy: 786, 22
   size: 21, 36
   orig: 21, 36
   offset: 0, 0
   index: -1
 hair_U_messybun_h_spk_hr_3347_3_0.png
   rotate: false
-  xy: 662, 29
+  xy: 712, 25
   size: 24, 33
   orig: 24, 33
   offset: 0, 0
   index: -1
 hair_U_messybun_h_spk_hr_3347_7_0.png
   rotate: false
-  xy: 884, 34
+  xy: 953, 30
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
   index: -1
+hair_U_messybun_h_spk_hrb_3346_1_0.png
+  rotate: false
+  xy: 179, 14
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+hair_U_messybun_h_spk_hrb_3346_2_0.png
+  rotate: false
+  xy: 462, 15
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
 hair_U_messybun_h_spk_hrb_3346_7_0.png
   rotate: false
-  xy: 494, 17
+  xy: 371, 13
   size: 28, 45
   orig: 28, 45
   offset: 0, 0
   index: -1
+hair_U_messybun_h_spk_hrb_3347_7_0.png
+  rotate: false
+  xy: 917, 30
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
 hair_U_messybun_h_std_hr_3346_0_0.png
   rotate: false
-  xy: 277, 18
+  xy: 309, 14
   size: 30, 44
   orig: 30, 44
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hr_3346_1_0.png
   rotate: false
-  xy: 212, 18
+  xy: 212, 14
   size: 31, 44
   orig: 31, 44
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hr_3346_2_0.png
   rotate: false
-  xy: 372, 19
+  xy: 431, 15
   size: 29, 43
   orig: 29, 43
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hr_3346_3_0.png
   rotate: false
-  xy: 584, 20
+  xy: 554, 16
   size: 28, 42
   orig: 28, 42
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hr_3346_7_0.png
   rotate: false
-  xy: 464, 17
+  xy: 401, 13
   size: 28, 45
   orig: 28, 45
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hr_3347_0_0.png
   rotate: false
-  xy: 859, 32
+  xy: 867, 28
   size: 23, 30
   orig: 23, 30
   offset: 0, 0
   index: -1
+hair_U_messybun_h_std_hr_3347_1_0.png
+  rotate: false
+  xy: 738, 23
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
 hair_U_messybun_h_std_hr_3347_2_0.png
   rotate: false
-  xy: 786, 26
+  xy: 637, 22
   size: 21, 36
   orig: 21, 36
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hr_3347_3_0.png
   rotate: false
-  xy: 688, 29
+  xy: 660, 25
   size: 24, 33
   orig: 24, 33
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hr_3347_7_0.png
   rotate: false
-  xy: 902, 34
+  xy: 935, 30
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hrb_3346_0_0.png
   rotate: false
-  xy: 245, 18
+  xy: 245, 14
   size: 30, 44
   orig: 30, 44
   offset: 0, 0
   index: -1
-hair_U_messybun_h_std_hrb_3346_1_0.png
-  rotate: false
-  xy: 179, 18
-  size: 31, 44
-  orig: 31, 44
-  offset: 0, 0
-  index: -1
-hair_U_messybun_h_std_hrb_3346_2_0.png
-  rotate: false
-  xy: 341, 19
-  size: 29, 43
-  orig: 29, 43
-  offset: 0, 0
-  index: -1
 hair_U_messybun_h_std_hrb_3346_3_0.png
   rotate: false
-  xy: 554, 20
+  xy: 524, 16
   size: 28, 42
   orig: 28, 42
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hrb_3347_0_0.png
   rotate: false
-  xy: 809, 32
+  xy: 842, 28
   size: 23, 30
   orig: 23, 30
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hrb_3347_1_0.png
   rotate: false
-  xy: 638, 27
+  xy: 762, 23
   size: 22, 35
   orig: 22, 35
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hrb_3347_2_0.png
   rotate: false
-  xy: 740, 26
+  xy: 614, 22
   size: 21, 36
   orig: 21, 36
   offset: 0, 0
   index: -1
 hair_U_messybun_h_std_hrb_3347_3_0.png
   rotate: false
-  xy: 714, 29
+  xy: 686, 25
   size: 24, 33
   orig: 24, 33
-  offset: 0, 0
-  index: -1
-hair_U_messybun_h_std_hrb_3347_7_0.png
-  rotate: false
-  xy: 920, 34
-  size: 16, 28
-  orig: 16, 28
   offset: 0, 0
   index: -1

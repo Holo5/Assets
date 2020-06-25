@@ -1,0 +1,34 @@
+
+madera22_cerca.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+madera22_cerca_madera22_cerca_64_a_0_0.png
+  rotate: false
+  xy: 2, 37
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+madera22_cerca_madera22_cerca_64_a_0_1.png
+  rotate: false
+  xy: 70, 37
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+madera22_cerca_madera22_cerca_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+madera22_cerca_madera22_cerca_icon_a.png
+  rotate: false
+  xy: 138, 85
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

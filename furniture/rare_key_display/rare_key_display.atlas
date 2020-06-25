@@ -1,0 +1,20 @@
+
+rare_key_display.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_key_display_rare_key_display_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+rare_key_display_rare_key_display_icon_a.png
+  rotate: false
+  xy: 68, 36
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+table_battleships.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+table_battleships_table_battleships_64_a_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+table_battleships_table_battleships_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1

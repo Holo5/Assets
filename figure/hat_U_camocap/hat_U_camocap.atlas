@@ -6,16 +6,23 @@ filter: Nearest,Nearest
 repeat: none
 hat_U_camocap_h_lay_ha_2728_2_0.png
   rotate: false
-  xy: 221, 33
+  xy: 167, 33
   size: 22, 29
   orig: 22, 29
   offset: 0, 0
   index: -1
-hat_U_camocap_h_lsp_ha_2729_2_0.png
+hat_U_camocap_h_lay_ha_2729_2_0.png
   rotate: false
-  xy: 71, 15
+  xy: 191, 36
   size: 20, 26
   orig: 20, 26
+  offset: 0, 0
+  index: -1
+hat_U_camocap_h_spk_ha_2729_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 16
+  orig: 24, 16
   offset: 0, 0
   index: -1
 hat_U_camocap_h_std_ha_2728_0_0.png
@@ -48,7 +55,7 @@ hat_U_camocap_h_std_ha_2728_3_0.png
   index: -1
 hat_U_camocap_h_std_ha_2728_7_0.png
   rotate: false
-  xy: 167, 44
+  xy: 213, 44
   size: 26, 18
   orig: 26, 18
   offset: 0, 0
@@ -76,15 +83,8 @@ hat_U_camocap_h_std_ha_2729_2_0.png
   index: -1
 hat_U_camocap_h_std_ha_2729_3_0.png
   rotate: false
-  xy: 195, 42
+  xy: 213, 22
   size: 24, 20
   orig: 24, 20
-  offset: 0, 0
-  index: -1
-hat_U_camocap_h_std_ha_2729_7_0.png
-  rotate: false
-  xy: 2, 2
-  size: 24, 16
-  orig: 24, 16
   offset: 0, 0
   index: -1

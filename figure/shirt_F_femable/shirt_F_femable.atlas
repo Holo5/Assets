@@ -1,0 +1,83 @@
+
+shirt_F_femable.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_F_femable_h_lay_ch_8453_2_0.png
+  rotate: false
+  xy: 2, 37
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+shirt_F_femable_h_lay_ch_8454_2_0.png
+  rotate: false
+  xy: 30, 12
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+shirt_F_femable_h_std_ch_8453_0_0.png
+  rotate: false
+  xy: 41, 30
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+shirt_F_femable_h_std_ch_8453_1_0.png
+  rotate: false
+  xy: 92, 3
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+shirt_F_femable_h_std_ch_8453_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+shirt_F_femable_h_std_ch_8453_3_0.png
+  rotate: false
+  xy: 69, 31
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+shirt_F_femable_h_std_ch_8453_7_0.png
+  rotate: false
+  xy: 92, 33
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+shirt_F_femable_h_std_ch_8454_0_0.png
+  rotate: false
+  xy: 50, 19
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+shirt_F_femable_h_std_ch_8454_1_0.png
+  rotate: false
+  xy: 53, 2
+  size: 17, 4
+  orig: 17, 4
+  offset: 0, 0
+  index: -1
+shirt_F_femable_h_std_ch_8454_2_0.png
+  rotate: false
+  xy: 50, 8
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+shirt_F_femable_h_std_ch_8454_7_0.png
+  rotate: false
+  xy: 30, 2
+  size: 21, 4
+  orig: 21, 4
+  offset: 0, 0
+  index: -1

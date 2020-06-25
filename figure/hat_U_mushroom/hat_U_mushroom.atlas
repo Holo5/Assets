@@ -11,38 +11,38 @@ hat_U_mushroom_h_lsp_ha_3332_2_0.png
   orig: 32, 39
   offset: 0, 0
   index: -1
-hat_U_mushroom_h_spk_ha_3332_7_0.png
+hat_U_mushroom_h_spk_ha_3332_0_0.png
   rotate: false
-  xy: 2, 2
-  size: 44, 33
-  orig: 44, 33
-  offset: 0, 0
-  index: -1
-hat_U_mushroom_h_std_ha_3332_0_0.png
-  rotate: false
-  xy: 2, 73
+  xy: 2, 75
   size: 46, 34
   orig: 46, 34
   offset: 0, 0
   index: -1
-hat_U_mushroom_h_std_ha_3332_1_0.png
+hat_U_mushroom_h_spk_ha_3332_2_0.png
   rotate: false
-  xy: 50, 76
-  size: 46, 31
-  orig: 46, 31
-  offset: 0, 0
-  index: -1
-hat_U_mushroom_h_std_ha_3332_2_0.png
-  rotate: false
-  xy: 2, 37
+  xy: 2, 39
   size: 46, 34
   orig: 46, 34
   offset: 0, 0
   index: -1
-hat_U_mushroom_h_std_ha_3332_3_0.png
+hat_U_mushroom_h_spk_ha_3332_3_0.png
   rotate: false
   xy: 50, 43
   size: 44, 31
   orig: 44, 31
+  offset: 0, 0
+  index: -1
+hat_U_mushroom_h_spk_ha_3332_7_0.png
+  rotate: false
+  xy: 50, 76
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+hat_U_mushroom_h_std_ha_3332_1_0.png
+  rotate: false
+  xy: 2, 6
+  size: 46, 31
+  orig: 46, 31
   offset: 0, 0
   index: -1

@@ -4,16 +4,16 @@ size: 128,16
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_head_U_earring_ring_h_lay_he_2115_2_0.png
+acc_head_U_earring_ring_h_std_he_2115_0_0.png
   rotate: false
-  xy: 92, 7
+  xy: 101, 7
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
-acc_head_U_earring_ring_h_std_he_2115_0_0.png
+acc_head_U_earring_ring_h_std_he_2115_1_0.png
   rotate: false
-  xy: 101, 7
+  xy: 92, 7
   size: 7, 7
   orig: 7, 7
   offset: 0, 0

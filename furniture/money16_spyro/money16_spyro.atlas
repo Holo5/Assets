@@ -1,0 +1,20 @@
+
+money16_spyro.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+money16_spyro_money16_spyro_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+money16_spyro_money16_spyro_icon_a.png
+  rotate: false
+  xy: 61, 29
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

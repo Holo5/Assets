@@ -1,0 +1,20 @@
+
+ngh_glitter_dark.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngh_glitter_dark_ngh_glitter_dark_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+ngh_glitter_dark_ngh_glitter_dark_icon_a.png
+  rotate: false
+  xy: 2, 25
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

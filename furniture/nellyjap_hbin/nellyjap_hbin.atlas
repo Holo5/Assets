@@ -1,0 +1,20 @@
+
+nellyjap_hbin.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nellyjap_hbin_nellyjap_hbin_64_a_0_0.png
+  rotate: false
+  xy: 2, 40
+  size: 72, 154
+  orig: 72, 154
+  offset: 0, 0
+  index: -1
+nellyjap_hbin_nellyjap_hbin_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

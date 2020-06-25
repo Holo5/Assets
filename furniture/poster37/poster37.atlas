@@ -1,0 +1,20 @@
+
+poster37.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+poster37_poster37_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 110
+  orig: 39, 110
+  offset: 0, 0
+  index: -1
+poster37_poster37_icon_a.png
+  rotate: false
+  xy: 43, 82
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

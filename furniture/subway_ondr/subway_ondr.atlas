@@ -1,0 +1,20 @@
+
+subway_ondr.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+subway_ondr_subway_ondr_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+subway_ondr_subway_ondr_icon_a.png
+  rotate: false
+  xy: 32, 13
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

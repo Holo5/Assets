@@ -1,0 +1,27 @@
+
+vistas_paisaje.png
+size: 128,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vistas_paisaje_vistas_paisaje_64_a_2_0.png
+  rotate: false
+  xy: 2, 311
+  size: 64, 307
+  orig: 64, 307
+  offset: 0, 0
+  index: -1
+vistas_paisaje_vistas_paisaje_64_a_2_1.png
+  rotate: false
+  xy: 2, 620
+  size: 64, 307
+  orig: 64, 307
+  offset: 0, 0
+  index: -1
+vistas_paisaje_vistas_paisaje_64_a_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 307
+  orig: 64, 307
+  offset: 0, 0
+  index: -1

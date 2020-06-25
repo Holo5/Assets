@@ -6,42 +6,42 @@ filter: Nearest,Nearest
 repeat: none
 acc_print_M_pixelskull_h_lay_cp_2488_2_0.png
   rotate: false
-  xy: 53, 8
+  xy: 2, 2
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
 acc_print_M_pixelskull_h_lay_cp_2488_4_0.png
   rotate: false
-  xy: 32, 8
+  xy: 2, 16
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
 acc_print_M_pixelskull_h_std_cp_2488_2_0.png
   rotate: false
-  xy: 17, 2
+  xy: 23, 10
   size: 13, 18
   orig: 13, 18
   offset: 0, 0
   index: -1
 acc_print_M_pixelskull_h_std_cp_2488_3_0.png
   rotate: false
-  xy: 74, 5
+  xy: 53, 13
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 acc_print_M_pixelskull_h_std_cp_2488_4_0.png
   rotate: false
-  xy: 2, 2
+  xy: 38, 10
   size: 13, 18
   orig: 13, 18
   offset: 0, 0
   index: -1
 acc_print_M_pixelskull_h_std_cp_2488_5_0.png
   rotate: false
-  xy: 91, 11
+  xy: 70, 19
   size: 3, 9
   orig: 3, 9
   offset: 0, 0

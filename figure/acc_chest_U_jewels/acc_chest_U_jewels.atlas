@@ -53,6 +53,13 @@ acc_chest_U_jewels_h_std_ca_2285_7_0.png
   orig: 22, 9
   offset: 0, 0
   index: -1
+acc_chest_U_jewels_h_std_ca_2286_0_0.png
+  rotate: false
+  xy: 94, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 acc_chest_U_jewels_h_std_ca_2286_1_0.png
   rotate: false
   xy: 2, 2
@@ -72,12 +79,5 @@ acc_chest_U_jewels_h_std_ca_2286_3_0.png
   xy: 53, 2
   size: 22, 12
   orig: 22, 12
-  offset: 0, 0
-  index: -1
-acc_chest_U_jewels_h_std_ca_2286_7_0.png
-  rotate: false
-  xy: 94, 11
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1

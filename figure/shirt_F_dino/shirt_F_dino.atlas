@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_dino_h_crr_rs_2763_0_0.png
   rotate: false
-  xy: 536, 39
+  xy: 415, 39
   size: 18, 23
   orig: 18, 23
   offset: 0, 0
   index: -1
 shirt_F_dino_h_crr_rs_2763_1_0.png
   rotate: false
-  xy: 815, 44
+  xy: 169, 12
   size: 16, 18
   orig: 16, 18
   offset: 0, 0
@@ -27,91 +27,91 @@ shirt_F_dino_h_crr_rs_2763_2_0.png
   index: -1
 shirt_F_dino_h_crr_rs_2763_3_0.png
   rotate: false
-  xy: 702, 36
+  xy: 757, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 shirt_F_dino_h_crr_rs_2763_4_0.png
   rotate: false
-  xy: 917, 40
+  xy: 942, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 shirt_F_dino_h_crr_rs_2763_5_0.png
   rotate: false
-  xy: 851, 46
+  xy: 228, 25
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
   index: -1
 shirt_F_dino_h_crr_rs_2763_6_0.png
   rotate: false
-  xy: 326, 28
+  xy: 296, 13
   size: 6, 20
   orig: 6, 20
   offset: 0, 0
   index: -1
 shirt_F_dino_h_crr_rs_2763_7_0.png
   rotate: false
-  xy: 1006, 40
+  xy: 954, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_F_dino_h_drk_rs_2763_0_0.png
   rotate: false
-  xy: 744, 44
+  xy: 149, 12
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 shirt_F_dino_h_drk_rs_2763_1_0.png
   rotate: false
-  xy: 302, 50
+  xy: 620, 50
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 shirt_F_dino_h_drk_rs_2763_2_0.png
   rotate: false
-  xy: 379, 46
+  xy: 570, 46
   size: 22, 16
   orig: 22, 16
   offset: 0, 0
   index: -1
 shirt_F_dino_h_drk_rs_2763_3_0.png
   rotate: false
-  xy: 764, 43
+  xy: 664, 43
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 shirt_F_dino_h_drk_rs_2763_4_0.png
   rotate: false
-  xy: 833, 46
+  xy: 646, 46
   size: 16, 16
   orig: 16, 16
   offset: 0, 0
   index: -1
 shirt_F_dino_h_drk_rs_2763_5_0.png
   rotate: false
-  xy: 275, 49
+  xy: 171, 32
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 shirt_F_dino_h_drk_rs_2763_6_0.png
   rotate: false
-  xy: 247, 48
+  xy: 203, 48
   size: 26, 14
   orig: 26, 14
   offset: 0, 0
   index: -1
 shirt_F_dino_h_drk_rs_2763_7_0.png
   rotate: false
-  xy: 341, 35
+  xy: 330, 21
   size: 10, 13
   orig: 10, 13
   offset: 0, 0
@@ -125,21 +125,21 @@ shirt_F_dino_h_lay_ch_2763_2_0.png
   index: -1
 shirt_F_dino_h_lay_ch_2764_2_0.png
   rotate: false
-  xy: 215, 47
+  xy: 171, 47
   size: 30, 15
   orig: 30, 15
   offset: 0, 0
   index: -1
 shirt_F_dino_h_lay_ls_2763_2_0.png
   rotate: false
-  xy: 328, 50
+  xy: 594, 50
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 shirt_F_dino_h_lay_rs_2763_2_0.png
   rotate: false
-  xy: 354, 43
+  xy: 231, 43
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
@@ -153,7 +153,7 @@ shirt_F_dino_h_std_ch_2763_0_0.png
   index: -1
 shirt_F_dino_h_std_ch_2763_1_0.png
   rotate: false
-  xy: 592, 35
+  xy: 487, 35
   size: 14, 27
   orig: 14, 27
   offset: 0, 0
@@ -181,7 +181,7 @@ shirt_F_dino_h_std_ch_2763_7_0.png
   index: -1
 shirt_F_dino_h_std_ch_2764_0_0.png
   rotate: false
-  xy: 334, 29
+  xy: 311, 14
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
@@ -202,42 +202,42 @@ shirt_F_dino_h_std_ch_2764_2_0.png
   index: -1
 shirt_F_dino_h_std_ch_2764_3_0.png
   rotate: false
-  xy: 423, 36
+  xy: 340, 36
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
   index: -1
 shirt_F_dino_h_std_ch_2764_7_0.png
   rotate: false
-  xy: 353, 22
+  xy: 318, 14
   size: 3, 19
   orig: 3, 19
   offset: 0, 0
   index: -1
 shirt_F_dino_h_std_ls_2763_0_0.png
   rotate: false
-  xy: 302, 25
+  xy: 288, 13
   size: 6, 23
   orig: 6, 23
   offset: 0, 0
   index: -1
 shirt_F_dino_h_std_ls_2763_2_0.png
   rotate: false
-  xy: 274, 22
+  xy: 198, 21
   size: 6, 24
   orig: 6, 24
   offset: 0, 0
   index: -1
 shirt_F_dino_h_std_ls_2763_3_0.png
   rotate: false
-  xy: 195, 10
+  xy: 814, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_F_dino_h_std_ls_2763_7_0.png
   rotate: false
-  xy: 119, 7
+  xy: 769, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
@@ -251,7 +251,7 @@ shirt_F_dino_h_std_rs_2763_0_0.png
   index: -1
 shirt_F_dino_h_std_rs_2763_1_0.png
   rotate: false
-  xy: 929, 39
+  xy: 217, 23
   size: 9, 23
   orig: 9, 23
   offset: 0, 0
@@ -265,98 +265,98 @@ shirt_F_dino_h_std_rs_2763_2_0.png
   index: -1
 shirt_F_dino_h_std_rs_2763_3_0.png
   rotate: false
-  xy: 131, 7
+  xy: 781, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_F_dino_h_std_rs_2763_7_0.png
   rotate: false
-  xy: 162, 4
+  xy: 847, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_0_0.png
   rotate: false
-  xy: 640, 38
+  xy: 553, 38
   size: 15, 24
   orig: 15, 24
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_0_1.png
   rotate: false
-  xy: 442, 38
+  xy: 280, 38
   size: 18, 24
   orig: 18, 24
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_1_0.png
   rotate: false
-  xy: 250, 22
+  xy: 880, 38
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_1_1.png
   rotate: false
-  xy: 868, 39
+  xy: 893, 39
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_2_0.png
   rotate: false
-  xy: 481, 37
+  xy: 359, 37
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_2_1.png
   rotate: false
-  xy: 403, 36
+  xy: 320, 36
   size: 18, 26
   orig: 18, 26
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_3_0.png
   rotate: false
-  xy: 624, 36
+  xy: 119, 8
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_3_1.png
   rotate: false
-  xy: 574, 35
+  xy: 453, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_4_0.png
   rotate: false
-  xy: 518, 37
+  xy: 503, 37
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_4_1.png
   rotate: false
-  xy: 673, 37
+  xy: 521, 37
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_5_0.png
   rotate: false
-  xy: 462, 38
+  xy: 396, 38
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_5_1.png
   rotate: false
-  xy: 556, 38
+  xy: 435, 38
   size: 16, 24
   orig: 16, 24
   offset: 0, 0
@@ -370,196 +370,196 @@ shirt_F_dino_h_wav_ls_2763_6_0.png
   index: -1
 shirt_F_dino_h_wav_ls_2763_6_1.png
   rotate: false
-  xy: 191, 39
+  xy: 256, 39
   size: 22, 23
   orig: 22, 23
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_7_0.png
   rotate: false
-  xy: 500, 37
+  xy: 378, 37
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wav_ls_2763_7_1.png
   rotate: false
-  xy: 171, 35
+  xy: 300, 35
   size: 18, 27
   orig: 18, 27
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_ls_2763_0_0.png
   rotate: false
-  xy: 142, 12
+  xy: 273, 15
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_ls_2763_0_1.png
   rotate: false
-  xy: 250, 2
+  xy: 323, 16
   size: 5, 18
   orig: 5, 18
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_ls_2763_0_2.png
   rotate: false
-  xy: 1017, 40
+  xy: 304, 11
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_ls_2763_0_3.png
   rotate: false
-  xy: 282, 24
+  xy: 245, 18
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_ls_2763_1_0.png
   rotate: false
-  xy: 905, 40
+  xy: 906, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_ls_2763_1_1.png
   rotate: false
-  xy: 257, 2
+  xy: 228, 45
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_ls_2763_1_3.png
   rotate: false
-  xy: 310, 25
+  xy: 265, 14
   size: 6, 23
   orig: 6, 23
   offset: 0, 0
   index: -1
-shirt_F_dino_h_wlk_ls_2763_2_0.png
-  rotate: false
-  xy: 318, 26
-  size: 6, 22
-  orig: 6, 22
-  offset: 0, 0
-  index: -1
 shirt_F_dino_h_wlk_ls_2763_2_1.png
   rotate: false
-  xy: 292, 24
+  xy: 255, 14
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
+shirt_F_dino_h_wlk_ls_2763_2_2.png
+  rotate: false
+  xy: 280, 14
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
 shirt_F_dino_h_wlk_ls_2763_2_3.png
   rotate: false
-  xy: 257, 5
+  xy: 342, 20
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
-shirt_F_dino_h_wlk_ls_2763_3_0.png
-  rotate: false
-  xy: 228, 19
-  size: 9, 26
-  orig: 9, 26
-  offset: 0, 0
-  index: -1
 shirt_F_dino_h_wlk_ls_2763_3_1.png
   rotate: false
-  xy: 173, 6
+  xy: 803, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
+shirt_F_dino_h_wlk_ls_2763_3_2.png
+  rotate: false
+  xy: 869, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
 shirt_F_dino_h_wlk_ls_2763_3_3.png
   rotate: false
-  xy: 984, 38
+  xy: 206, 22
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_ls_2763_7_0.png
   rotate: false
-  xy: 239, 19
+  xy: 858, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_ls_2763_7_1.png
   rotate: false
-  xy: 995, 38
+  xy: 1009, 38
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_ls_2763_7_2.png
   rotate: false
-  xy: 973, 37
+  xy: 998, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_ls_2763_7_3.png
   rotate: false
-  xy: 184, 6
+  xy: 792, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_0_0.png
   rotate: false
-  xy: 149, 6
+  xy: 731, 38
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_0_1.png
   rotate: false
-  xy: 714, 38
+  xy: 135, 10
   size: 12, 24
   orig: 12, 24
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_0_2.png
   rotate: false
-  xy: 689, 36
+  xy: 744, 36
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_0_3.png
   rotate: false
-  xy: 728, 40
+  xy: 715, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_1_0.png
   rotate: false
-  xy: 881, 40
+  xy: 918, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_1_1.png
   rotate: false
-  xy: 799, 41
+  xy: 699, 41
   size: 14, 21
   orig: 14, 21
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_1_2.png
   rotate: false
-  xy: 893, 40
+  xy: 930, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_1_3.png
   rotate: false
-  xy: 782, 42
+  xy: 682, 42
   size: 15, 20
   orig: 15, 20
   offset: 0, 0
@@ -573,63 +573,63 @@ shirt_F_dino_h_wlk_rs_2763_2_0.png
   index: -1
 shirt_F_dino_h_wlk_rs_2763_2_1.png
   rotate: false
-  xy: 657, 37
+  xy: 537, 37
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_2_3.png
   rotate: false
-  xy: 608, 35
+  xy: 471, 35
   size: 14, 27
   orig: 14, 27
   offset: 0, 0
   index: -1
-shirt_F_dino_h_wlk_rs_2763_3_0.png
+shirt_F_dino_h_wlk_rs_2763_3_1.png
+  rotate: false
+  xy: 965, 39
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+shirt_F_dino_h_wlk_rs_2763_3_2.png
   rotate: false
   xy: 97, 2
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
-shirt_F_dino_h_wlk_rs_2763_3_1.png
-  rotate: false
-  xy: 940, 39
-  size: 9, 23
-  orig: 9, 23
-  offset: 0, 0
-  index: -1
 shirt_F_dino_h_wlk_rs_2763_3_3.png
   rotate: false
-  xy: 206, 11
+  xy: 825, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_7_0.png
   rotate: false
-  xy: 962, 37
+  xy: 976, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_7_1.png
   rotate: false
-  xy: 217, 19
+  xy: 836, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_7_2.png
   rotate: false
-  xy: 263, 21
+  xy: 987, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_F_dino_h_wlk_rs_2763_7_3.png
   rotate: false
-  xy: 951, 39
+  xy: 187, 7
   size: 9, 23
   orig: 9, 23
   offset: 0, 0

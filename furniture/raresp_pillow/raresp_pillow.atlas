@@ -1,0 +1,41 @@
+
+raresp_pillow.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+raresp_pillow_raresp_pillow_64_a_0_0.png
+  rotate: false
+  xy: 2, 22
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+raresp_pillow_raresp_pillow_64_b_0_0.png
+  rotate: false
+  xy: 76, 23
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+raresp_pillow_raresp_pillow_64_sd_0_0.png
+  rotate: false
+  xy: 76, 27
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+raresp_pillow_raresp_pillow_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+raresp_pillow_raresp_pillow_icon_b.png
+  rotate: false
+  xy: 34, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+hvirt_h17_hornolen.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hvirt_h17_hornolen_hvirt_h17_hornolen_64_a_4_0.png
+  rotate: false
+  xy: 2, 76
+  size: 50, 151
+  orig: 50, 151
+  offset: 0, 0
+  index: -1
+hvirt_h17_hornolen_hvirt_h17_hornolen_64_sd_4_0.png
+  rotate: false
+  xy: 2, 44
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+hvirt_h17_hornolen_hvirt_h17_hornolen_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1

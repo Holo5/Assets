@@ -4,142 +4,184 @@ size: 512,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+shirt_F_sexyfur_h_crr_ls_2407_0_0.png
+  rotate: false
+  xy: 365, 39
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
 shirt_F_sexyfur_h_crr_ls_2407_1_0.png
   rotate: false
-  xy: 109, 16
+  xy: 414, 48
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
+shirt_F_sexyfur_h_crr_ls_2407_2_0.png
+  rotate: false
+  xy: 153, 22
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
 shirt_F_sexyfur_h_crr_ls_2407_3_0.png
   rotate: false
-  xy: 94, 2
+  xy: 497, 51
   size: 9, 11
   orig: 9, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_ls_2407_6_0.png
   rotate: false
-  xy: 82, 2
+  xy: 314, 36
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_ls_2407_7_0.png
   rotate: false
-  xy: 135, 6
+  xy: 123, 19
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
+shirt_F_sexyfur_h_crr_ls_2408_0_0.png
+  rotate: false
+  xy: 486, 45
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
 shirt_F_sexyfur_h_crr_ls_2408_2_0.png
   rotate: false
-  xy: 202, 2
+  xy: 117, 2
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_ls_2408_3_0.png
   rotate: false
-  xy: 214, 13
+  xy: 400, 41
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_ls_2408_6_0.png
   rotate: false
-  xy: 264, 27
+  xy: 390, 41
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_ls_2408_7_0.png
   rotate: false
-  xy: 249, 19
+  xy: 128, 2
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_rs_2407_0_0.png
   rotate: false
-  xy: 314, 36
+  xy: 424, 51
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_rs_2407_1_0.png
   rotate: false
-  xy: 181, 11
+  xy: 355, 39
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
+shirt_F_sexyfur_h_crr_rs_2407_2_0.png
+  rotate: false
+  xy: 392, 49
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
 shirt_F_sexyfur_h_crr_rs_2407_3_0.png
   rotate: false
-  xy: 189, 21
+  xy: 86, 17
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_rs_2407_4_0.png
   rotate: false
-  xy: 224, 2
+  xy: 178, 8
   size: 5, 9
   orig: 5, 9
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_rs_2407_5_0.png
   rotate: false
-  xy: 145, 2
+  xy: 142, 8
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_rs_2407_6_0.png
   rotate: false
-  xy: 64, 2
+  xy: 73, 2
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_rs_2407_7_0.png
   rotate: false
-  xy: 125, 6
+  xy: 103, 19
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
+shirt_F_sexyfur_h_crr_rs_2408_0_0.png
+  rotate: false
+  xy: 457, 43
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+shirt_F_sexyfur_h_crr_rs_2408_3_0.png
+  rotate: false
+  xy: 169, 11
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
 shirt_F_sexyfur_h_crr_rs_2408_4_0.png
   rotate: false
-  xy: 238, 4
+  xy: 111, 2
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_rs_2408_6_0.png
   rotate: false
-  xy: 332, 36
+  xy: 497, 44
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_crr_rs_2408_7_0.png
   rotate: false
-  xy: 249, 25
+  xy: 137, 2
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_drk_rs_2407_0_0.png
   rotate: false
-  xy: 430, 52
+  xy: 485, 52
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_drk_rs_2407_1_0.png
   rotate: false
-  xy: 479, 54
+  xy: 233, 24
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
@@ -160,42 +202,42 @@ shirt_F_sexyfur_h_drk_rs_2407_3_0.png
   index: -1
 shirt_F_sexyfur_h_drk_rs_2407_6_0.png
   rotate: false
-  xy: 155, 7
+  xy: 96, 17
   size: 5, 11
   orig: 5, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_drk_rs_2407_7_0.png
   rotate: false
-  xy: 172, 9
+  xy: 336, 38
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_drk_rs_2408_0_0.png
   rotate: false
-  xy: 234, 13
+  xy: 153, 14
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_drk_rs_2408_2_0.png
   rotate: false
-  xy: 348, 44
+  xy: 146, 2
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_drk_rs_2408_3_0.png
   rotate: false
-  xy: 209, 2
+  xy: 372, 39
   size: 6, 9
   orig: 6, 9
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_drk_rs_2408_7_0.png
   rotate: false
-  xy: 258, 22
+  xy: 474, 43
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
@@ -216,16 +258,9 @@ shirt_F_sexyfur_h_lay_ch_2408_2_0.png
   index: -1
 shirt_F_sexyfur_h_lay_ls_2407_2_0.png
   rotate: false
-  xy: 342, 38
+  xy: 491, 46
   size: 4, 4
   orig: 4, 4
-  offset: 0, 0
-  index: -1
-shirt_F_sexyfur_h_lay_ls_2408_2_0.png
-  rotate: false
-  xy: 119, 16
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_lay_rs_2407_2_0.png
@@ -251,7 +286,7 @@ shirt_F_sexyfur_h_std_ch_2407_0_0.png
   index: -1
 shirt_F_sexyfur_h_std_ch_2407_1_0.png
   rotate: false
-  xy: 214, 29
+  xy: 160, 29
   size: 24, 33
   orig: 24, 33
   offset: 0, 0
@@ -265,14 +300,14 @@ shirt_F_sexyfur_h_std_ch_2407_2_0.png
   index: -1
 shirt_F_sexyfur_h_std_ch_2407_3_0.png
   rotate: false
-  xy: 187, 34
+  xy: 210, 34
   size: 25, 28
   orig: 25, 28
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_std_ch_2407_7_0.png
   rotate: false
-  xy: 160, 34
+  xy: 237, 34
   size: 25, 28
   orig: 25, 28
   offset: 0, 0
@@ -286,7 +321,7 @@ shirt_F_sexyfur_h_std_ch_2408_0_0.png
   index: -1
 shirt_F_sexyfur_h_std_ch_2408_1_0.png
   rotate: false
-  xy: 240, 31
+  xy: 186, 31
   size: 22, 31
   orig: 22, 31
   offset: 0, 0
@@ -312,13 +347,6 @@ shirt_F_sexyfur_h_std_ch_2408_7_0.png
   orig: 23, 27
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_std_ls_2407_0_0.png
-  rotate: false
-  xy: 284, 25
-  size: 5, 8
-  orig: 5, 8
-  offset: 0, 0
-  index: -1
 shirt_F_sexyfur_h_std_ls_2407_1_0.png
   rotate: false
   xy: 54, 2
@@ -328,322 +356,294 @@ shirt_F_sexyfur_h_std_ls_2407_1_0.png
   index: -1
 shirt_F_sexyfur_h_std_ls_2407_3_0.png
   rotate: false
-  xy: 119, 19
+  xy: 325, 23
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_std_ls_2407_7_0.png
   rotate: false
-  xy: 159, 20
+  xy: 326, 36
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_std_ls_2408_1_0.png
   rotate: false
-  xy: 125, 2
+  xy: 82, 12
   size: 4, 2
   orig: 4, 2
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_std_ls_2408_2_0.png
   rotate: false
-  xy: 243, 22
+  xy: 480, 43
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_std_ls_2408_3_0.png
   rotate: false
-  xy: 317, 29
+  xy: 120, 12
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_std_ls_2408_7_0.png
   rotate: false
-  xy: 332, 43
+  xy: 142, 13
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_std_rs_2407_0_0.png
   rotate: false
-  xy: 381, 51
+  xy: 436, 51
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_std_rs_2407_1_0.png
   rotate: false
-  xy: 191, 11
+  xy: 345, 40
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_std_rs_2407_2_0.png
-  rotate: false
-  xy: 79, 15
-  size: 9, 13
-  orig: 9, 13
-  offset: 0, 0
-  index: -1
 shirt_F_sexyfur_h_std_rs_2407_3_0.png
   rotate: false
-  xy: 145, 7
+  xy: 113, 19
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_std_rs_2407_7_0.png
   rotate: false
-  xy: 105, 2
+  xy: 315, 23
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_std_rs_2408_0_0.png
   rotate: false
-  xy: 224, 13
+  xy: 380, 41
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_std_rs_2408_2_0.png
-  rotate: false
-  xy: 192, 2
-  size: 8, 7
-  orig: 8, 7
-  offset: 0, 0
-  index: -1
 shirt_F_sexyfur_h_std_rs_2408_3_0.png
   rotate: false
-  xy: 172, 2
+  xy: 160, 12
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_std_rs_2408_7_0.png
   rotate: false
-  xy: 340, 44
+  xy: 134, 8
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wav_ls_2407_0_1.png
   rotate: false
-  xy: 291, 26
+  xy: 82, 2
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wav_ls_2407_2_1.png
+shirt_F_sexyfur_h_wav_ls_2407_2_0.png
   rotate: false
-  xy: 73, 2
+  xy: 64, 2
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wav_ls_2407_3_1.png
+shirt_F_sexyfur_h_wav_ls_2407_3_0.png
   rotate: false
-  xy: 101, 15
+  xy: 68, 13
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wav_ls_2407_4_1.png
+shirt_F_sexyfur_h_wav_ls_2407_4_0.png
   rotate: false
-  xy: 68, 13
+  xy: 403, 49
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wav_ls_2407_5_0.png
   rotate: false
-  xy: 442, 54
+  xy: 160, 19
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wav_ls_2407_6_1.png
   rotate: false
-  xy: 115, 2
+  xy: 76, 16
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wav_ls_2407_7_1.png
+shirt_F_sexyfur_h_wav_ls_2407_7_0.png
   rotate: false
-  xy: 90, 15
+  xy: 381, 49
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wav_ls_2408_0_1.png
   rotate: false
-  xy: 326, 40
+  xy: 105, 2
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wav_ls_2408_2_0.png
   rotate: false
-  xy: 332, 30
+  xy: 152, 2
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wav_ls_2408_3_1.png
+shirt_F_sexyfur_h_wav_ls_2408_3_0.png
   rotate: false
-  xy: 209, 23
+  xy: 129, 8
   size: 3, 9
   orig: 3, 9
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wav_ls_2408_4_1.png
   rotate: false
-  xy: 209, 13
+  xy: 123, 2
   size: 3, 8
   orig: 3, 8
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wav_ls_2408_6_0.png
+shirt_F_sexyfur_h_wav_ls_2408_6_1.png
   rotate: false
-  xy: 231, 3
+  xy: 98, 2
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wav_ls_2408_7_1.png
+shirt_F_sexyfur_h_wav_ls_2408_7_0.png
   rotate: false
-  xy: 237, 21
+  xy: 114, 11
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wlk_ls_2407_0_3.png
   rotate: false
-  xy: 201, 11
+  xy: 90, 2
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wlk_ls_2407_1_0.png
   rotate: false
-  xy: 131, 2
+  xy: 508, 60
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wlk_ls_2407_1_3.png
   rotate: false
-  xy: 135, 2
+  xy: 508, 56
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wlk_ls_2407_2_3.png
+shirt_F_sexyfur_h_wlk_ls_2407_3_0.png
   rotate: false
-  xy: 217, 2
-  size: 5, 9
-  orig: 5, 9
-  offset: 0, 0
-  index: -1
-shirt_F_sexyfur_h_wlk_ls_2407_3_2.png
-  rotate: false
-  xy: 169, 21
+  xy: 265, 22
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wlk_ls_2407_3_3.png
   rotate: false
-  xy: 179, 21
+  xy: 143, 20
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wlk_ls_2407_7_1.png
   rotate: false
-  xy: 139, 20
+  xy: 285, 22
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wlk_ls_2407_7_2.png
+shirt_F_sexyfur_h_wlk_ls_2407_7_3.png
   rotate: false
-  xy: 129, 19
+  xy: 275, 22
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wlk_ls_2408_0_0.png
+shirt_F_sexyfur_h_wlk_ls_2408_2_2.png
   rotate: false
-  xy: 337, 36
-  size: 3, 5
-  orig: 3, 5
-  offset: 0, 0
-  index: -1
-shirt_F_sexyfur_h_wlk_ls_2408_2_0.png
-  rotate: false
-  xy: 326, 31
+  xy: 468, 42
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wlk_ls_2408_3_1.png
+shirt_F_sexyfur_h_wlk_ls_2408_3_0.png
   rotate: false
-  xy: 308, 28
+  xy: 105, 11
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wlk_ls_2408_7_1.png
+shirt_F_sexyfur_h_wlk_ls_2408_7_3.png
   rotate: false
-  xy: 264, 21
+  xy: 134, 14
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wlk_rs_2407_0_1.png
   rotate: false
-  xy: 417, 52
+  xy: 472, 52
   size: 11, 10
   orig: 11, 10
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wlk_rs_2407_0_2.png
   rotate: false
-  xy: 405, 51
+  xy: 460, 51
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wlk_rs_2407_0_3.png
   rotate: false
-  xy: 393, 51
+  xy: 448, 51
   size: 10, 11
   orig: 10, 11
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wlk_rs_2407_1_1.png
+shirt_F_sexyfur_h_wlk_rs_2407_1_0.png
   rotate: false
-  xy: 455, 54
-  size: 10, 8
-  orig: 10, 8
-  offset: 0, 0
-  index: -1
-shirt_F_sexyfur_h_wlk_rs_2407_1_2.png
-  rotate: false
-  xy: 274, 25
+  xy: 255, 24
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
+shirt_F_sexyfur_h_wlk_rs_2407_1_1.png
+  rotate: false
+  xy: 173, 19
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
 shirt_F_sexyfur_h_wlk_rs_2407_1_3.png
   rotate: false
-  xy: 490, 54
+  xy: 222, 24
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
@@ -676,79 +676,79 @@ shirt_F_sexyfur_h_wlk_rs_2407_2_3.png
   orig: 11, 12
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wlk_rs_2407_3_0.png
+shirt_F_sexyfur_h_wlk_rs_2407_3_2.png
   rotate: false
-  xy: 199, 21
+  xy: 295, 23
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wlk_rs_2407_3_1.png
+shirt_F_sexyfur_h_wlk_rs_2407_3_3.png
   rotate: false
-  xy: 162, 7
+  xy: 305, 23
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wlk_rs_2407_7_1.png
+shirt_F_sexyfur_h_wlk_rs_2407_7_0.png
   rotate: false
-  xy: 149, 20
+  xy: 133, 20
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wlk_rs_2408_0_1.png
   rotate: false
-  xy: 214, 21
+  xy: 424, 43
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wlk_rs_2408_0_2.png
-  rotate: false
-  xy: 226, 21
-  size: 9, 6
-  orig: 9, 6
-  offset: 0, 0
-  index: -1
 shirt_F_sexyfur_h_wlk_rs_2408_2_0.png
   rotate: false
-  xy: 181, 2
+  xy: 436, 42
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_sexyfur_h_wlk_rs_2408_2_1.png
   rotate: false
-  xy: 501, 54
+  xy: 244, 24
   size: 9, 8
   orig: 9, 8
   offset: 0, 0
   index: -1
+shirt_F_sexyfur_h_wlk_rs_2408_2_2.png
+  rotate: false
+  xy: 447, 42
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
 shirt_F_sexyfur_h_wlk_rs_2408_2_3.png
   rotate: false
-  xy: 467, 54
+  xy: 210, 24
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_h_wlk_rs_2408_3_2.png
+shirt_F_sexyfur_sh_drk_rs_2408_2_0.png
   rotate: false
-  xy: 299, 28
-  size: 7, 6
-  orig: 7, 6
-  offset: 0, 0
-  index: -1
-shirt_F_sexyfur_sh_wlk_ls_2408_0_3.png
-  rotate: false
-  xy: 122, 16
+  xy: 150, 17
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-shirt_F_sexyfur_sh_wlk_ls_2408_0_3.png
+shirt_F_sexyfur_sh_drk_rs_2408_3_0.png
   rotate: false
-  xy: 258, 19
+  xy: 76, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_sexyfur_sh_drk_rs_2408_3_0.png
+  rotate: false
+  xy: 79, 13
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

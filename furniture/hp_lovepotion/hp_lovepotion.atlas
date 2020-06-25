@@ -1,0 +1,34 @@
+
+hp_lovepotion.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_lovepotion_hp_lovepotion_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+hp_lovepotion_hp_lovepotion_64_b_2_1.png
+  rotate: false
+  xy: 87, 26
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+hp_lovepotion_hp_lovepotion_64_b_2_2.png
+  rotate: false
+  xy: 66, 25
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+hp_lovepotion_hp_lovepotion_icon_a.png
+  rotate: false
+  xy: 45, 24
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+hp_roof.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_roof_hp_roof_64_a_2_0.png
+  rotate: false
+  xy: 248, 2
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+hp_roof_hp_roof_64_a_2_1.png
+  rotate: false
+  xy: 330, 2
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+hp_roof_hp_roof_64_a_2_2.png
+  rotate: false
+  xy: 412, 2
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+hp_roof_hp_roof_64_a_2_3.png
+  rotate: false
+  xy: 494, 2
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+hp_roof_hp_roof_64_a_2_4.png
+  rotate: false
+  xy: 84, 2
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+hp_roof_hp_roof_64_a_2_5.png
+  rotate: false
+  xy: 2, 2
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+hp_roof_hp_roof_64_a_2_6.png
+  rotate: false
+  xy: 166, 2
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+hp_roof_hp_roof_icon_a.png
+  rotate: false
+  xy: 576, 92
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

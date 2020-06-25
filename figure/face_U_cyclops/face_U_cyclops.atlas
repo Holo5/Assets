@@ -6,21 +6,21 @@ filter: Nearest,Nearest
 repeat: none
 face_U_cyclops_h_agr_ey_2926_1_0.png
   rotate: false
-  xy: 37, 2
+  xy: 26, 2
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 face_U_cyclops_h_agr_ey_2926_2_0.png
   rotate: false
-  xy: 131, 7
+  xy: 149, 7
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 face_U_cyclops_h_agr_ey_2926_3_0.png
   rotate: false
-  xy: 61, 2
+  xy: 50, 9
   size: 10, 5
   orig: 10, 5
   offset: 0, 0
@@ -41,77 +41,77 @@ face_U_cyclops_h_blw_ey_2926_2_0.png
   index: -1
 face_U_cyclops_h_blw_ey_2926_3_0.png
   rotate: false
-  xy: 61, 9
+  xy: 50, 2
   size: 10, 5
   orig: 10, 5
   offset: 0, 0
   index: -1
 face_U_cyclops_h_eyb_ey_2926_1_0.png
   rotate: false
-  xy: 173, 8
+  xy: 179, 8
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 face_U_cyclops_h_eyb_ey_2926_2_0.png
   rotate: false
-  xy: 149, 8
+  xy: 140, 8
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 face_U_cyclops_h_eyb_ey_2926_3_0.png
   rotate: false
-  xy: 37, 8
+  xy: 26, 8
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
 face_U_cyclops_h_lag_ey_2926_2_0.png
   rotate: false
-  xy: 101, 8
+  xy: 130, 8
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 face_U_cyclops_h_lay_ey_2926_2_0.png
   rotate: false
-  xy: 121, 8
+  xy: 120, 8
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 face_U_cyclops_h_ley_ey_2926_2_0.png
   rotate: false
-  xy: 111, 8
+  xy: 110, 8
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 face_U_cyclops_h_lsa_ey_2926_2_0.png
   rotate: false
-  xy: 91, 7
+  xy: 73, 7
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 face_U_cyclops_h_lsr_ey_2926_2_0.png
   rotate: false
-  xy: 26, 7
+  xy: 62, 7
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 face_U_cyclops_h_sad_ey_2926_1_0.png
   rotate: false
-  xy: 179, 7
+  xy: 167, 7
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 face_U_cyclops_h_sad_ey_2926_2_0.png
   rotate: false
-  xy: 73, 6
+  xy: 83, 6
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
@@ -125,14 +125,14 @@ face_U_cyclops_h_sad_ey_2926_3_0.png
   index: -1
 face_U_cyclops_h_srp_ey_2926_1_0.png
   rotate: false
-  xy: 185, 7
+  xy: 173, 7
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 face_U_cyclops_h_srp_ey_2926_2_0.png
   rotate: false
-  xy: 82, 6
+  xy: 92, 6
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
@@ -146,21 +146,21 @@ face_U_cyclops_h_srp_ey_2926_3_0.png
   index: -1
 face_U_cyclops_h_std_ey_2926_1_0.png
   rotate: false
-  xy: 167, 8
+  xy: 185, 8
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 face_U_cyclops_h_std_ey_2926_2_0.png
   rotate: false
-  xy: 140, 7
+  xy: 101, 7
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 face_U_cyclops_h_std_ey_2926_3_0.png
   rotate: false
-  xy: 49, 8
+  xy: 38, 8
   size: 10, 6
   orig: 10, 6
   offset: 0, 0

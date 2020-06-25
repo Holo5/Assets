@@ -6,84 +6,84 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_crownbraid_h_lay_hr_2966_2_0.png
   rotate: false
-  xy: 419, 32
+  xy: 393, 32
   size: 24, 30
   orig: 24, 30
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_lay_hrb_2966_2_0.png
   rotate: false
-  xy: 393, 32
+  xy: 419, 32
   size: 24, 30
   orig: 24, 30
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_lsp_hr_2966_2_0.png
   rotate: false
-  xy: 239, 2
+  xy: 265, 2
   size: 24, 31
   orig: 24, 31
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_lsp_hrb_2966_2_0.png
   rotate: false
-  xy: 265, 2
+  xy: 239, 2
   size: 24, 31
   orig: 24, 31
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_spk_hr_2966_0_0.png
   rotate: false
-  xy: 35, 28
+  xy: 2, 28
   size: 31, 34
   orig: 31, 34
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_spk_hr_2966_1_0.png
   rotate: false
-  xy: 134, 32
+  xy: 169, 32
   size: 33, 30
   orig: 33, 30
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_spk_hr_2966_2_0.png
   rotate: false
-  xy: 134, 2
+  xy: 169, 2
   size: 33, 28
   orig: 33, 28
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_spk_hr_2966_3_0.png
   rotate: false
-  xy: 32, 2
+  xy: 62, 2
   size: 28, 24
   orig: 28, 24
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_spk_hr_2966_7_0.png
   rotate: false
-  xy: 365, 32
+  xy: 337, 32
   size: 26, 30
   orig: 26, 30
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_spk_hrb_2966_0_0.png
   rotate: false
-  xy: 2, 28
+  xy: 35, 28
   size: 31, 34
   orig: 31, 34
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_spk_hrb_2966_1_0.png
   rotate: false
-  xy: 169, 32
+  xy: 134, 32
   size: 33, 30
   orig: 33, 30
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_spk_hrb_2966_2_0.png
   rotate: false
-  xy: 169, 2
+  xy: 134, 2
   size: 33, 28
   orig: 33, 28
   offset: 0, 0
@@ -97,7 +97,7 @@ hair_U_crownbraid_h_spk_hrb_2966_3_0.png
   index: -1
 hair_U_crownbraid_h_spk_hrb_2966_7_0.png
   rotate: false
-  xy: 337, 32
+  xy: 365, 32
   size: 26, 30
   orig: 26, 30
   offset: 0, 0
@@ -125,14 +125,14 @@ hair_U_crownbraid_h_std_hr_2966_2_0.png
   index: -1
 hair_U_crownbraid_h_std_hr_2966_3_0.png
   rotate: false
-  xy: 62, 2
+  xy: 2, 2
   size: 28, 24
   orig: 28, 24
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_std_hr_2966_7_0.png
   rotate: false
-  xy: 291, 2
+  xy: 309, 33
   size: 26, 29
   orig: 26, 29
   offset: 0, 0
@@ -160,14 +160,14 @@ hair_U_crownbraid_h_std_hrb_2966_2_0.png
   index: -1
 hair_U_crownbraid_h_std_hrb_2966_3_0.png
   rotate: false
-  xy: 2, 2
+  xy: 32, 2
   size: 28, 24
   orig: 28, 24
   offset: 0, 0
   index: -1
 hair_U_crownbraid_h_std_hrb_2966_7_0.png
   rotate: false
-  xy: 309, 33
+  xy: 291, 2
   size: 26, 29
   orig: 26, 29
   offset: 0, 0

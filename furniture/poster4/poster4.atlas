@@ -1,0 +1,20 @@
+
+poster4.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+poster4_poster4_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+poster4_poster4_icon_a.png
+  rotate: false
+  xy: 45, 14
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

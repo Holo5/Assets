@@ -1,0 +1,20 @@
+
+pixel16_shisha.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pixel16_shisha_pixel16_shisha_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+pixel16_shisha_pixel16_shisha_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1

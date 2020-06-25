@@ -1,0 +1,20 @@
+
+mDew_trophy.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mDew_trophy_mDew_trophy_64_a_0_0.png
+  rotate: false
+  xy: 18, 2
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+mDew_trophy_mDew_trophy_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1

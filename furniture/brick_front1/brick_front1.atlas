@@ -1,0 +1,27 @@
+
+brick_front1.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+brick_front1_brick_front1_64_a_2_0.png
+  rotate: false
+  xy: 2, 30
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+brick_front1_brick_front1_64_b_2_0.png
+  rotate: false
+  xy: 72, 32
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+brick_front1_brick_front1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

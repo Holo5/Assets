@@ -1,0 +1,27 @@
+
+rainbow_rug.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainbow_rug_rainbow_rug_64_a_0_0.png
+  rotate: false
+  xy: 2, 26
+  size: 128, 70
+  orig: 128, 70
+  offset: 0, 0
+  index: -1
+rainbow_rug_rainbow_rug_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+rainbow_rug_rainbow_rug_icon_a.png
+  rotate: false
+  xy: 132, 78
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1

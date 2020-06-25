@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 hat_U_firehelm_h_lay_ha_2786_2_0.png
   rotate: false
-  xy: 286, 12
+  xy: 249, 12
   size: 43, 42
   orig: 43, 42
   offset: 0, 0
   index: -1
 hat_U_firehelm_h_lsp_ha_2786_2_0.png
   rotate: false
-  xy: 240, 12
+  xy: 203, 12
   size: 44, 42
   orig: 44, 42
   offset: 0, 0
@@ -48,7 +48,7 @@ hat_U_firehelm_h_spk_ha_2786_3_0.png
   index: -1
 hat_U_firehelm_h_spk_ha_2786_7_0.png
   rotate: false
-  xy: 331, 5
+  xy: 294, 5
   size: 35, 49
   orig: 35, 49
   offset: 0, 0
@@ -69,7 +69,7 @@ hat_U_firehelm_h_std_ha_2786_1_0.png
   index: -1
 hat_U_firehelm_h_std_ha_2786_2_0.png
   rotate: false
-  xy: 203, 3
+  xy: 331, 3
   size: 35, 51
   orig: 35, 51
   offset: 0, 0

@@ -1,0 +1,90 @@
+
+hat_U_reanie.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_reanie_h_lay_ha_5626_2_0.png
+  rotate: false
+  xy: 69, 3
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+hat_U_reanie_h_lsp_ha_5626_2_0.png
+  rotate: false
+  xy: 225, 34
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+hat_U_reanie_h_spk_ha_5626_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+hat_U_reanie_h_spk_ha_5626_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+hat_U_reanie_h_spk_ha_5626_2_0.png
+  rotate: false
+  xy: 68, 33
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+hat_U_reanie_h_spk_ha_5626_3_0.png
+  rotate: false
+  xy: 195, 38
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+hat_U_reanie_h_spk_ha_5626_7_0.png
+  rotate: false
+  xy: 101, 2
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+hat_U_reanie_h_std_ha_5626_0_0.png
+  rotate: false
+  xy: 35, 32
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+hat_U_reanie_h_std_ha_5626_1_0.png
+  rotate: false
+  xy: 101, 36
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+hat_U_reanie_h_std_ha_5626_2_0.png
+  rotate: false
+  xy: 36, 2
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+hat_U_reanie_h_std_ha_5626_3_0.png
+  rotate: false
+  xy: 165, 36
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+hat_U_reanie_h_std_ha_5626_7_0.png
+  rotate: false
+  xy: 135, 31
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

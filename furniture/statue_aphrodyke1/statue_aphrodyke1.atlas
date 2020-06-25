@@ -1,0 +1,27 @@
+
+statue_aphrodyke1.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+statue_aphrodyke1_statue_aphrodyke1_64_a_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 62, 165
+  orig: 62, 165
+  offset: 0, 0
+  index: -1
+statue_aphrodyke1_statue_aphrodyke1_64_a_2_1.png
+  rotate: false
+  xy: 66, 33
+  size: 62, 165
+  orig: 62, 165
+  offset: 0, 0
+  index: -1
+statue_aphrodyke1_statue_aphrodyke1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1

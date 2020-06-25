@@ -1,0 +1,41 @@
+
+kitchen19_sink.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+kitchen19_sink_kitchen19_sink_64_a_2_0.png
+  rotate: false
+  xy: 77, 39
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+kitchen19_sink_kitchen19_sink_64_a_2_1.png
+  rotate: false
+  xy: 152, 39
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+kitchen19_sink_kitchen19_sink_64_a_2_2.png
+  rotate: false
+  xy: 2, 39
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+kitchen19_sink_kitchen19_sink_64_b_2_2.png
+  rotate: false
+  xy: 227, 39
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+kitchen19_sink_kitchen19_sink_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1

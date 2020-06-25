@@ -1,0 +1,62 @@
+
+drako_redhost.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+drako_redhost_drako_redhost_64_a_2_0.png
+  rotate: false
+  xy: 2, 52
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+drako_redhost_drako_redhost_64_a_2_1.png
+  rotate: false
+  xy: 60, 52
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+drako_redhost_drako_redhost_64_b_2_0.png
+  rotate: false
+  xy: 118, 120
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+drako_redhost_drako_redhost_64_b_2_1.png
+  rotate: false
+  xy: 70, 37
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+drako_redhost_drako_redhost_64_b_2_2.png
+  rotate: false
+  xy: 36, 5
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+drako_redhost_drako_redhost_64_b_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+drako_redhost_drako_redhost_64_b_2_4.png
+  rotate: false
+  xy: 36, 26
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+drako_redhost_drako_redhost_icon_a.png
+  rotate: false
+  xy: 2, 23
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1

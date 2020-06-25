@@ -1,0 +1,20 @@
+
+Stonesy_bar1.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Stonesy_bar1_Stonesy_bar1_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+Stonesy_bar1_Stonesy_bar1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

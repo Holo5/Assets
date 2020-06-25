@@ -1,0 +1,20 @@
+
+autumn16_guardiandragon.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+autumn16_guardiandragon_autumn16_guardiandragon_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 62, 127
+  orig: 62, 127
+  offset: 0, 0
+  index: -1
+autumn16_guardiandragon_autumn16_guardiandragon_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+xm0811_firewood.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xm0811_firewood_xm0811_firewood_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+xm0811_firewood_xm0811_firewood_64_a_0_1.png
+  rotate: false
+  xy: 59, 14
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+xm0811_firewood_xm0811_firewood_64_a_0_2.png
+  rotate: false
+  xy: 163, 14
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+xm0811_firewood_xm0811_firewood_64_a_0_3.png
+  rotate: false
+  xy: 111, 14
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+xm0811_firewood_xm0811_firewood_icon_a.png
+  rotate: false
+  xy: 215, 31
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

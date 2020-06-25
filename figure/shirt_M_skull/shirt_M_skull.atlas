@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 shirt_M_skull_h_crr_ls_2273_0_0.png
   rotate: false
-  xy: 67, 2
+  xy: 87, 11
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
@@ -25,6 +25,13 @@ shirt_M_skull_h_crr_rs_2273_0_0.png
   orig: 7, 9
   offset: 0, 0
   index: -1
+shirt_M_skull_h_crr_rs_2273_1_0.png
+  rotate: false
+  xy: 65, 2
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
 shirt_M_skull_h_crr_rs_2273_2_0.png
   rotate: false
   xy: 26, 4
@@ -39,23 +46,16 @@ shirt_M_skull_h_crr_rs_2273_4_0.png
   orig: 7, 8
   offset: 0, 0
   index: -1
-shirt_M_skull_h_crr_rs_2273_5_0.png
-  rotate: false
-  xy: 97, 16
-  size: 5, 9
-  orig: 5, 9
-  offset: 0, 0
-  index: -1
 shirt_M_skull_h_drk_rs_2273_3_0.png
   rotate: false
-  xy: 42, 12
+  xy: 46, 21
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_M_skull_h_drk_rs_2273_5_0.png
   rotate: false
-  xy: 109, 28
+  xy: 56, 21
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
@@ -83,6 +83,13 @@ shirt_M_skull_h_lay_rs_2273_2_0.png
   index: -1
 shirt_M_skull_h_sit_rs_2273_0_0.png
   rotate: false
+  xy: 87, 18
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+shirt_M_skull_h_sit_rs_2273_2_0.png
+  rotate: false
   xy: 77, 25
   size: 8, 6
   orig: 8, 6
@@ -90,7 +97,7 @@ shirt_M_skull_h_sit_rs_2273_0_0.png
   index: -1
 shirt_M_skull_h_std_ch_2273_0_0.png
   rotate: false
-  xy: 39, 30
+  xy: 2, 3
   size: 22, 32
   orig: 22, 32
   offset: 0, 0
@@ -104,7 +111,7 @@ shirt_M_skull_h_std_ch_2273_1_0.png
   index: -1
 shirt_M_skull_h_std_ch_2273_2_0.png
   rotate: false
-  xy: 2, 3
+  xy: 39, 30
   size: 22, 32
   orig: 22, 32
   offset: 0, 0
@@ -123,109 +130,102 @@ shirt_M_skull_h_std_ch_2273_7_0.png
   orig: 21, 27
   offset: 0, 0
   index: -1
-shirt_M_skull_h_std_ls_2273_1_0.png
-  rotate: false
-  xy: 98, 28
-  size: 9, 5
-  orig: 9, 5
-  offset: 0, 0
-  index: -1
 shirt_M_skull_h_std_ls_2273_2_0.png
   rotate: false
-  xy: 97, 9
+  xy: 122, 16
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
-shirt_M_skull_h_std_ls_2273_7_0.png
-  rotate: false
-  xy: 119, 23
-  size: 7, 5
-  orig: 7, 5
-  offset: 0, 0
-  index: -1
-shirt_M_skull_h_std_rs_2273_2_0.png
-  rotate: false
-  xy: 77, 17
-  size: 8, 6
-  orig: 8, 6
-  offset: 0, 0
-  index: -1
-shirt_M_skull_h_wav_ls_2273_2_0.png
-  rotate: false
-  xy: 87, 11
-  size: 8, 6
-  orig: 8, 6
-  offset: 0, 0
-  index: -1
-shirt_M_skull_h_wav_ls_2273_4_0.png
-  rotate: false
-  xy: 87, 19
-  size: 8, 6
-  orig: 8, 6
-  offset: 0, 0
-  index: -1
-shirt_M_skull_h_wav_ls_2273_4_1.png
-  rotate: false
-  xy: 66, 18
-  size: 9, 5
-  orig: 9, 5
-  offset: 0, 0
-  index: -1
-shirt_M_skull_h_wav_ls_2273_7_1.png
-  rotate: false
-  xy: 87, 27
-  size: 9, 6
-  orig: 9, 6
-  offset: 0, 0
-  index: -1
-shirt_M_skull_h_wlk_ls_2273_0_2.png
-  rotate: false
-  xy: 75, 2
-  size: 4, 5
-  orig: 4, 5
-  offset: 0, 0
-  index: -1
-shirt_M_skull_h_wlk_ls_2273_0_3.png
-  rotate: false
-  xy: 59, 2
-  size: 6, 5
-  orig: 6, 5
-  offset: 0, 0
-  index: -1
-shirt_M_skull_h_wlk_ls_2273_2_1.png
-  rotate: false
-  xy: 56, 21
-  size: 8, 7
-  orig: 8, 7
-  offset: 0, 0
-  index: -1
-shirt_M_skull_h_wlk_ls_2273_2_3.png
-  rotate: false
-  xy: 81, 9
-  size: 4, 6
-  orig: 4, 6
-  offset: 0, 0
-  index: -1
-shirt_M_skull_h_wlk_ls_2273_3_2.png
+shirt_M_skull_h_std_rs_2273_3_0.png
   rotate: false
   xy: 119, 30
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
-shirt_M_skull_h_wlk_ls_2273_7_3.png
+shirt_M_skull_h_std_rs_2273_7_0.png
   rotate: false
-  xy: 104, 21
-  size: 8, 5
-  orig: 8, 5
+  xy: 119, 23
+  size: 7, 5
+  orig: 7, 5
   offset: 0, 0
   index: -1
-shirt_M_skull_h_wlk_rs_2273_0_1.png
+shirt_M_skull_h_wav_ls_2273_2_0.png
+  rotate: false
+  xy: 77, 17
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+shirt_M_skull_h_wav_ls_2273_2_1.png
+  rotate: false
+  xy: 66, 18
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+shirt_M_skull_h_wav_ls_2273_4_0.png
+  rotate: false
+  xy: 109, 29
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+shirt_M_skull_h_wav_ls_2273_4_1.png
+  rotate: false
+  xy: 97, 20
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+shirt_M_skull_h_wav_ls_2273_7_1.png
+  rotate: false
+  xy: 97, 27
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+shirt_M_skull_h_wlk_ls_2273_0_0.png
+  rotate: false
+  xy: 116, 15
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+shirt_M_skull_h_wlk_ls_2273_0_1.png
   rotate: false
   xy: 35, 21
   size: 9, 7
   orig: 9, 7
+  offset: 0, 0
+  index: -1
+shirt_M_skull_h_wlk_ls_2273_0_3.png
+  rotate: false
+  xy: 108, 15
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+shirt_M_skull_h_wlk_ls_2273_2_0.png
+  rotate: false
+  xy: 59, 4
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+shirt_M_skull_h_wlk_ls_2273_2_1.png
+  rotate: false
+  xy: 42, 12
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+shirt_M_skull_h_wlk_ls_2273_7_3.png
+  rotate: false
+  xy: 108, 22
+  size: 8, 5
+  orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_M_skull_h_wlk_rs_2273_0_3.png
@@ -237,12 +237,12 @@ shirt_M_skull_h_wlk_rs_2273_0_3.png
   index: -1
 shirt_M_skull_h_wlk_rs_2273_1_3.png
   rotate: false
-  xy: 46, 21
+  xy: 87, 26
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
-shirt_M_skull_h_wlk_rs_2273_2_2.png
+shirt_M_skull_h_wlk_rs_2273_2_0.png
   rotate: false
   xy: 66, 25
   size: 9, 6
@@ -251,7 +251,7 @@ shirt_M_skull_h_wlk_rs_2273_2_2.png
   index: -1
 shirt_M_skull_h_wlk_rs_2273_7_1.png
   rotate: false
-  xy: 104, 14
+  xy: 97, 13
   size: 7, 5
   orig: 7, 5
   offset: 0, 0

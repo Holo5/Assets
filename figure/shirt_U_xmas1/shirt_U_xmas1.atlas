@@ -6,287 +6,280 @@ filter: Nearest,Nearest
 repeat: none
 shirt_U_xmas1_h_crr_ls_2540_0_0.png
   rotate: false
-  xy: 390, 22
+  xy: 411, 23
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_crr_ls_2540_1_0.png
-  rotate: false
-  xy: 506, 44
-  size: 15, 18
-  orig: 15, 18
-  offset: 0, 0
-  index: -1
 shirt_U_xmas1_h_crr_ls_2540_2_0.png
   rotate: false
-  xy: 251, 2
+  xy: 341, 22
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_ls_2540_3_0.png
   rotate: false
-  xy: 326, 20
+  xy: 178, 2
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_ls_2540_4_0.png
   rotate: false
-  xy: 189, 4
+  xy: 483, 34
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
   index: -1
+shirt_U_xmas1_h_crr_ls_2540_5_0.png
+  rotate: false
+  xy: 719, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
 shirt_U_xmas1_h_crr_ls_2540_6_0.png
   rotate: false
-  xy: 67, 2
+  xy: 84, 2
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_ls_2540_7_0.png
   rotate: false
-  xy: 289, 4
+  xy: 362, 21
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_ls_2541_2_0.png
   rotate: false
-  xy: 462, 25
+  xy: 493, 14
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_ls_2541_3_0.png
   rotate: false
-  xy: 588, 27
+  xy: 499, 21
   size: 4, 11
   orig: 4, 11
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_ls_2541_4_0.png
   rotate: false
-  xy: 408, 2
+  xy: 452, 18
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
+shirt_U_xmas1_h_crr_ls_2541_5_0.png
+  rotate: false
+  xy: 315, 31
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
 shirt_U_xmas1_h_crr_ls_2541_6_0.png
   rotate: false
-  xy: 331, 2
+  xy: 1015, 46
   size: 7, 16
   orig: 7, 16
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_crr_ls_2541_7_0.png
-  rotate: false
-  xy: 563, 23
-  size: 4, 15
-  orig: 4, 15
-  offset: 0, 0
-  index: -1
 shirt_U_xmas1_h_crr_rs_2540_0_0.png
   rotate: false
-  xy: 85, 2
+  xy: 102, 2
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
   index: -1
+shirt_U_xmas1_h_crr_rs_2540_1_0.png
+  rotate: false
+  xy: 736, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
 shirt_U_xmas1_h_crr_rs_2540_2_0.png
   rotate: false
-  xy: 666, 36
+  xy: 580, 36
   size: 13, 26
   orig: 13, 26
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_rs_2540_3_0.png
   rotate: false
-  xy: 336, 20
+  xy: 188, 2
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_rs_2540_4_0.png
   rotate: false
-  xy: 952, 39
+  xy: 241, 10
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_crr_rs_2540_5_0.png
-  rotate: false
-  xy: 523, 44
-  size: 15, 18
-  orig: 15, 18
-  offset: 0, 0
-  index: -1
 shirt_U_xmas1_h_crr_rs_2540_6_0.png
   rotate: false
-  xy: 369, 20
+  xy: 383, 20
   size: 6, 21
   orig: 6, 21
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_rs_2540_7_0.png
   rotate: false
-  xy: 300, 4
+  xy: 351, 21
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_rs_2541_0_0.png
   rotate: false
-  xy: 361, 2
+  xy: 383, 2
   size: 7, 16
   orig: 7, 16
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_rs_2541_1_0.png
   rotate: false
-  xy: 540, 28
+  xy: 306, 31
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_rs_2541_2_0.png
   rotate: false
-  xy: 400, 2
+  xy: 445, 2
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_rs_2541_3_0.png
   rotate: false
-  xy: 457, 26
+  xy: 275, 18
   size: 3, 15
   orig: 3, 15
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_crr_rs_2541_4_0.png
   rotate: false
-  xy: 412, 20
+  xy: 489, 14
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_crr_rs_2541_5_0.png
-  rotate: false
-  xy: 489, 35
-  size: 7, 13
-  orig: 7, 13
-  offset: 0, 0
-  index: -1
 shirt_U_xmas1_h_crr_rs_2541_7_0.png
   rotate: false
-  xy: 569, 23
+  xy: 459, 32
   size: 4, 15
   orig: 4, 15
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2540_0_0.png
   rotate: false
-  xy: 438, 43
+  xy: 420, 43
   size: 18, 19
   orig: 18, 19
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2540_1_0.png
   rotate: false
-  xy: 458, 49
+  xy: 440, 49
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2540_2_0.png
   rotate: false
-  xy: 344, 46
+  xy: 326, 46
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2540_3_0.png
   rotate: false
-  xy: 540, 43
+  xy: 702, 43
   size: 15, 19
   orig: 15, 19
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2540_4_0.png
   rotate: false
-  xy: 275, 31
+  xy: 280, 31
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2540_5_0.png
   rotate: false
-  xy: 290, 49
+  xy: 272, 49
   size: 26, 13
   orig: 26, 13
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2540_6_0.png
   rotate: false
-  xy: 259, 49
+  xy: 241, 49
   size: 29, 13
   orig: 29, 13
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2540_7_0.png
   rotate: false
-  xy: 437, 28
+  xy: 295, 31
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2541_0_0.png
   rotate: false
-  xy: 223, 2
+  xy: 206, 2
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2541_1_0.png
   rotate: false
-  xy: 594, 32
+  xy: 429, 2
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2541_2_0.png
   rotate: false
-  xy: 240, 26
+  xy: 263, 3
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2541_3_0.png
   rotate: false
-  xy: 407, 20
+  xy: 484, 14
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2541_4_0.png
   rotate: false
-  xy: 321, 21
+  xy: 15, 2
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2541_5_0.png
   rotate: false
-  xy: 506, 37
+  xy: 419, 2
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_drk_rs_2541_7_0.png
   rotate: false
-  xy: 256, 28
+  xy: 439, 3
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
@@ -300,14 +293,14 @@ shirt_U_xmas1_h_lay_ch_2540_2_0.png
   index: -1
 shirt_U_xmas1_h_lay_ch_2541_2_0.png
   rotate: false
-  xy: 318, 46
+  xy: 300, 46
   size: 24, 16
   orig: 24, 16
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_lay_ls_2540_2_0.png
   rotate: false
-  xy: 483, 50
+  xy: 241, 35
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
@@ -321,21 +314,21 @@ shirt_U_xmas1_h_lay_ls_2541_2_0.png
   index: -1
 shirt_U_xmas1_h_lay_rs_2540_2_0.png
   rotate: false
-  xy: 393, 44
+  xy: 397, 44
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_lay_rs_2541_2_0.png
   rotate: false
-  xy: 259, 35
+  xy: 264, 35
   size: 14, 12
   orig: 14, 12
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_ch_2540_0_0.png
   rotate: false
-  xy: 69, 26
+  xy: 94, 26
   size: 23, 36
   orig: 23, 36
   offset: 0, 0
@@ -356,7 +349,7 @@ shirt_U_xmas1_h_std_ch_2540_2_0.png
   index: -1
 shirt_U_xmas1_h_std_ch_2540_3_0.png
   rotate: false
-  xy: 94, 27
+  xy: 69, 27
   size: 23, 35
   orig: 23, 35
   offset: 0, 0
@@ -370,175 +363,161 @@ shirt_U_xmas1_h_std_ch_2540_7_0.png
   index: -1
 shirt_U_xmas1_h_std_ch_2541_1_0.png
   rotate: false
-  xy: 314, 26
+  xy: 330, 2
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_ch_2541_2_0.png
   rotate: false
-  xy: 369, 43
+  xy: 351, 43
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_ch_2541_3_0.png
   rotate: false
-  xy: 416, 43
+  xy: 375, 43
   size: 20, 19
   orig: 20, 19
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_std_ch_2541_7_0.png
-  rotate: false
-  xy: 314, 46
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 shirt_U_xmas1_h_std_ls_2540_0_0.png
   rotate: false
-  xy: 346, 21
+  xy: 300, 6
   size: 6, 23
   orig: 6, 23
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_ls_2540_1_0.png
   rotate: false
-  xy: 1013, 40
+  xy: 330, 22
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_ls_2540_2_0.png
   rotate: false
-  xy: 384, 20
+  xy: 405, 21
   size: 4, 21
   orig: 4, 21
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_ls_2540_3_0.png
   rotate: false
-  xy: 762, 34
+  xy: 839, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_ls_2540_7_0.png
   rotate: false
-  xy: 852, 36
+  xy: 962, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_std_ls_2541_0_0.png
+shirt_U_xmas1_h_std_ls_2541_7_0.png
   rotate: false
-  xy: 430, 3
-  size: 2, 11
-  orig: 2, 11
+  xy: 437, 26
+  size: 4, 15
+  orig: 4, 15
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_rs_2540_0_0.png
   rotate: false
-  xy: 738, 35
+  xy: 861, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_rs_2540_1_0.png
   rotate: false
-  xy: 1013, 16
+  xy: 308, 7
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_rs_2540_2_0.png
   rotate: false
-  xy: 750, 34
+  xy: 794, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_rs_2540_3_0.png
   rotate: false
-  xy: 773, 34
+  xy: 828, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_rs_2540_7_0.png
   rotate: false
-  xy: 863, 36
+  xy: 973, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_std_rs_2541_0_0.png
   rotate: false
-  xy: 370, 2
+  xy: 411, 5
   size: 6, 16
   orig: 6, 16
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_std_rs_2541_1_0.png
-  rotate: false
-  xy: 408, 27
-  size: 6, 15
-  orig: 6, 15
-  offset: 0, 0
-  index: -1
 shirt_U_xmas1_h_std_rs_2541_2_0.png
   rotate: false
-  xy: 392, 2
+  xy: 342, 2
   size: 6, 18
   orig: 6, 18
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_std_rs_2541_3_0.png
+shirt_U_xmas1_h_std_rs_2541_7_0.png
   rotate: false
-  xy: 386, 2
-  size: 4, 16
-  orig: 4, 16
+  xy: 350, 2
+  size: 4, 17
+  orig: 4, 17
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2540_0_0.png
   rotate: false
-  xy: 652, 35
+  xy: 595, 35
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2540_0_1.png
   rotate: false
-  xy: 223, 8
+  xy: 533, 37
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2540_1_0.png
   rotate: false
-  xy: 590, 40
+  xy: 655, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2540_1_1.png
   rotate: false
-  xy: 574, 40
+  xy: 671, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2540_2_0.png
   rotate: false
-  xy: 606, 36
+  xy: 517, 36
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2540_2_1.png
   rotate: false
-  xy: 241, 36
+  xy: 465, 36
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
@@ -601,7 +580,7 @@ shirt_U_xmas1_h_wav_ls_2540_6_1.png
   index: -1
 shirt_U_xmas1_h_wav_ls_2540_7_0.png
   rotate: false
-  xy: 206, 6
+  xy: 500, 35
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
@@ -613,191 +592,191 @@ shirt_U_xmas1_h_wav_ls_2540_7_1.png
   orig: 18, 28
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_wav_ls_2541_0_1.png
+shirt_U_xmas1_h_wav_ls_2541_0_0.png
   rotate: false
-  xy: 252, 26
+  xy: 476, 5
   size: 2, 7
   orig: 2, 7
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2541_3_0.png
   rotate: false
-  xy: 261, 2
+  xy: 10, 2
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2541_4_1.png
   rotate: false
-  xy: 266, 2
+  xy: 20, 2
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2541_5_0.png
   rotate: false
-  xy: 423, 2
+  xy: 473, 14
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2541_5_1.png
   rotate: false
-  xy: 416, 2
+  xy: 466, 14
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2541_6_0.png
   rotate: false
-  xy: 526, 32
+  xy: 463, 2
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2541_6_1.png
   rotate: false
-  xy: 516, 32
+  xy: 453, 2
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2541_7_0.png
   rotate: false
-  xy: 498, 37
+  xy: 484, 21
   size: 6, 11
   orig: 6, 11
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wav_ls_2541_7_1.png
   rotate: false
-  xy: 581, 27
+  xy: 492, 21
   size: 5, 11
   orig: 5, 11
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_0_0.png
   rotate: false
-  xy: 281, 5
+  xy: 198, 2
   size: 6, 24
   orig: 6, 24
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_0_1.png
   rotate: false
-  xy: 311, 3
+  xy: 373, 20
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_0_2.png
   rotate: false
-  xy: 354, 21
+  xy: 292, 6
   size: 6, 23
   orig: 6, 23
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_0_3.png
   rotate: false
-  xy: 1003, 39
+  xy: 253, 10
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_1_0.png
   rotate: false
-  xy: 964, 39
+  xy: 229, 10
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_1_1.png
   rotate: false
-  xy: 102, 2
+  xy: 67, 2
   size: 15, 23
   orig: 15, 23
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_1_2.png
   rotate: false
-  xy: 991, 39
+  xy: 217, 10
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_1_3.png
   rotate: false
-  xy: 976, 42
+  xy: 753, 42
   size: 13, 20
   orig: 13, 20
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_2_0.png
   rotate: false
-  xy: 362, 23
+  xy: 391, 20
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_2_1.png
   rotate: false
-  xy: 240, 2
+  xy: 319, 7
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_2_2.png
   rotate: false
-  xy: 377, 20
+  xy: 398, 21
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_2_3.png
   rotate: false
-  xy: 549, 26
+  xy: 452, 32
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_3_0.png
   rotate: false
-  xy: 841, 34
+  xy: 806, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_3_1.png
   rotate: false
-  xy: 830, 34
+  xy: 817, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_3_2.png
   rotate: false
-  xy: 819, 35
+  xy: 873, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_3_3.png
   rotate: false
-  xy: 941, 37
+  xy: 940, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_7_0.png
   rotate: false
-  xy: 908, 37
+  xy: 929, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_7_1.png
   rotate: false
-  xy: 261, 7
+  xy: 984, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
@@ -811,49 +790,63 @@ shirt_U_xmas1_h_wlk_ls_2540_7_2.png
   index: -1
 shirt_U_xmas1_h_wlk_ls_2540_7_3.png
   rotate: false
-  xy: 874, 36
+  xy: 906, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_wlk_ls_2541_0_1.png
+shirt_U_xmas1_h_wlk_ls_2541_0_0.png
   rotate: false
-  xy: 404, 18
+  xy: 480, 15
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1
+shirt_U_xmas1_h_wlk_ls_2541_0_3.png
+  rotate: false
+  xy: 480, 6
   size: 1, 7
   orig: 1, 7
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_wlk_ls_2541_2_1.png
+shirt_U_xmas1_h_wlk_ls_2541_2_2.png
   rotate: false
-  xy: 400, 16
+  xy: 472, 3
   size: 2, 9
   orig: 2, 9
   offset: 0, 0
   index: -1
+shirt_U_xmas1_h_wlk_ls_2541_2_3.png
+  rotate: false
+  xy: 295, 46
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 shirt_U_xmas1_h_wlk_ls_2541_3_0.png
   rotate: false
-  xy: 535, 29
+  xy: 275, 3
   size: 3, 13
   orig: 3, 13
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_wlk_ls_2541_3_3.png
+shirt_U_xmas1_h_wlk_ls_2541_3_2.png
   rotate: false
-  xy: 575, 25
+  xy: 324, 31
   size: 4, 13
   orig: 4, 13
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_wlk_ls_2541_7_2.png
+shirt_U_xmas1_h_wlk_ls_2541_7_3.png
   rotate: false
-  xy: 556, 23
+  xy: 445, 16
   size: 5, 15
   orig: 5, 15
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_0_0.png
   rotate: false
-  xy: 712, 37
+  xy: 768, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
@@ -867,203 +860,210 @@ shirt_U_xmas1_h_wlk_rs_2540_0_1.png
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_0_2.png
   rotate: false
-  xy: 885, 37
+  xy: 917, 37
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_0_3.png
   rotate: false
-  xy: 681, 39
+  xy: 639, 39
   size: 14, 23
   orig: 14, 23
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_1_0.png
   rotate: false
-  xy: 290, 26
+  xy: 263, 12
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_1_1.png
   rotate: false
-  xy: 697, 40
+  xy: 687, 40
   size: 13, 22
   orig: 13, 22
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_1_2.png
   rotate: false
-  xy: 302, 26
+  xy: 280, 8
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_1_3.png
   rotate: false
-  xy: 557, 40
+  xy: 622, 40
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_2_0.png
   rotate: false
-  xy: 725, 35
+  xy: 609, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_2_1.png
   rotate: false
-  xy: 622, 36
+  xy: 565, 36
   size: 13, 26
   orig: 13, 26
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_2_2.png
   rotate: false
-  xy: 784, 36
+  xy: 781, 36
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_2_3.png
   rotate: false
-  xy: 637, 35
+  xy: 550, 35
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_3_0.png
   rotate: false
-  xy: 797, 35
+  xy: 895, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_3_1.png
   rotate: false
-  xy: 897, 37
+  xy: 206, 8
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_3_2.png
   rotate: false
-  xy: 178, 3
+  xy: 850, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_3_3.png
   rotate: false
-  xy: 808, 35
+  xy: 884, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_7_1.png
   rotate: false
-  xy: 930, 37
+  xy: 1004, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_7_2.png
   rotate: false
-  xy: 919, 37
+  xy: 951, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2540_7_3.png
   rotate: false
-  xy: 271, 3
+  xy: 994, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2541_0_0.png
   rotate: false
-  xy: 340, 2
+  xy: 1015, 28
   size: 7, 16
   orig: 7, 16
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2541_0_1.png
   rotate: false
-  xy: 480, 33
+  xy: 427, 10
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2541_0_2.png
   rotate: false
-  xy: 448, 27
+  xy: 443, 33
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2541_0_3.png
   rotate: false
-  xy: 471, 33
+  xy: 436, 10
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2541_1_0.png
   rotate: false
-  xy: 462, 32
+  xy: 428, 26
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2541_1_1.png
   rotate: false
-  xy: 427, 26
+  xy: 418, 26
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
+shirt_U_xmas1_h_wlk_rs_2541_1_2.png
+  rotate: false
+  xy: 419, 9
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
 shirt_U_xmas1_h_wlk_rs_2541_1_3.png
   rotate: false
-  xy: 416, 26
+  xy: 362, 4
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2541_2_1.png
   rotate: false
-  xy: 397, 27
+  xy: 400, 4
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2541_2_2.png
   rotate: false
-  xy: 321, 2
+  xy: 373, 2
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_U_xmas1_h_wlk_rs_2541_2_3.png
   rotate: false
-  xy: 378, 2
+  xy: 392, 2
   size: 6, 16
   orig: 6, 16
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_wlk_rs_2541_7_0.png
+shirt_U_xmas1_h_wlk_rs_2541_3_0.png
   rotate: false
-  xy: 349, 2
-  size: 4, 17
-  orig: 4, 17
+  xy: 460, 14
+  size: 4, 16
+  orig: 4, 16
   offset: 0, 0
   index: -1
-shirt_U_xmas1_h_wlk_rs_2541_7_3.png
+shirt_U_xmas1_h_wlk_rs_2541_7_2.png
   rotate: false
-  xy: 355, 2
+  xy: 356, 2
   size: 4, 17
   orig: 4, 17
   offset: 0, 0

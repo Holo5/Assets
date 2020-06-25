@@ -1,0 +1,69 @@
+
+liverare19_lumberjackdragonlamp.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+liverare19_lumberjackdragonlamp_liverare19_lumberjackdragonlamp_64_a_4_0.png
+  rotate: false
+  xy: 148, 25
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+liverare19_lumberjackdragonlamp_liverare19_lumberjackdragonlamp_64_a_4_1.png
+  rotate: false
+  xy: 71, 25
+  size: 75, 79
+  orig: 75, 79
+  offset: 0, 0
+  index: -1
+liverare19_lumberjackdragonlamp_liverare19_lumberjackdragonlamp_64_b_4_1.png
+  rotate: false
+  xy: 334, 79
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+liverare19_lumberjackdragonlamp_liverare19_lumberjackdragonlamp_64_b_4_2.png
+  rotate: false
+  xy: 374, 79
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+liverare19_lumberjackdragonlamp_liverare19_lumberjackdragonlamp_64_b_4_3.png
+  rotate: false
+  xy: 254, 79
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+liverare19_lumberjackdragonlamp_liverare19_lumberjackdragonlamp_64_b_4_4.png
+  rotate: false
+  xy: 294, 79
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+liverare19_lumberjackdragonlamp_liverare19_lumberjackdragonlamp_icon_a.png
+  rotate: false
+  xy: 225, 60
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+liverare19_lumberjackdragonlamp_rare_dragonlamp_pink_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 102
+  orig: 67, 102
+  offset: 0, 0
+  index: -1
+liverare19_lumberjackdragonlamp_rare_dragonlamp_pink_64_b_4_4.png
+  rotate: false
+  xy: 414, 82
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1

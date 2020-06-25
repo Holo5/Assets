@@ -1,0 +1,34 @@
+
+st_heartfountain.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_heartfountain_st_heartfountain_64_a_2_1.png
+  rotate: false
+  xy: 332, 2
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+st_heartfountain_st_heartfountain_64_a_2_2.png
+  rotate: false
+  xy: 112, 2
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+st_heartfountain_st_heartfountain_64_a_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1
+st_heartfountain_st_heartfountain_icon_a.png
+  rotate: false
+  xy: 222, 2
+  size: 108, 113
+  orig: 108, 113
+  offset: 0, 0
+  index: -1

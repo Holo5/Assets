@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 jacket_F_cyleather_h_crr_rc_2635_0_0.png
   rotate: false
-  xy: 569, 40
+  xy: 568, 40
   size: 17, 22
   orig: 17, 22
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_crr_rc_2635_1_0.png
   rotate: false
-  xy: 608, 44
+  xy: 607, 44
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_crr_rc_2635_2_0.png
   rotate: false
-  xy: 442, 35
+  xy: 421, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_crr_rc_2635_3_0.png
   rotate: false
-  xy: 944, 36
+  xy: 867, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
@@ -41,112 +41,112 @@ jacket_F_cyleather_h_crr_rc_2635_4_0.png
   index: -1
 jacket_F_cyleather_h_crr_rc_2635_5_0.png
   rotate: false
-  xy: 88, 17
+  xy: 147, 17
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_crr_rc_2635_6_0.png
   rotate: false
-  xy: 288, 29
+  xy: 583, 21
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_crr_rc_2635_7_0.png
   rotate: false
-  xy: 265, 27
+  xy: 240, 13
   size: 6, 20
   orig: 6, 20
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_crr_rc_2636_0_0.png
   rotate: false
-  xy: 900, 35
+  xy: 830, 35
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_crr_rc_2636_1_0.png
   rotate: false
-  xy: 495, 33
+  xy: 607, 31
   size: 4, 2
   orig: 4, 2
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_crr_rc_2636_2_0.png
   rotate: false
-  xy: 300, 35
+  xy: 595, 35
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
-jacket_F_cyleather_h_crr_rc_2636_3_0.png
-  rotate: false
-  xy: 188, 11
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
 jacket_F_cyleather_h_crr_rc_2636_4_0.png
   rotate: false
-  xy: 15, 2
+  xy: 150, 35
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_crr_rc_2636_5_0.png
   rotate: false
-  xy: 218, 17
+  xy: 601, 26
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+jacket_F_cyleather_h_crr_rc_2636_7_0.png
+  rotate: false
+  xy: 626, 39
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_drk_rc_2635_0_0.png
   rotate: false
-  xy: 588, 42
+  xy: 587, 42
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_drk_rc_2635_1_0.png
   rotate: false
-  xy: 266, 49
+  xy: 201, 49
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_drk_rc_2635_2_0.png
   rotate: false
-  xy: 320, 45
+  xy: 255, 45
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_drk_rc_2635_3_0.png
   rotate: false
-  xy: 627, 43
+  xy: 626, 43
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_drk_rc_2635_4_0.png
   rotate: false
-  xy: 124, 19
+  xy: 566, 24
   size: 15, 14
   orig: 15, 14
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_drk_rc_2635_5_0.png
   rotate: false
-  xy: 293, 48
+  xy: 228, 48
   size: 25, 14
   orig: 25, 14
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_drk_rc_2635_6_0.png
   rotate: false
-  xy: 208, 47
+  xy: 143, 47
   size: 27, 15
   orig: 27, 15
   offset: 0, 0
@@ -160,23 +160,23 @@ jacket_F_cyleather_h_drk_rc_2635_7_0.png
   index: -1
 jacket_F_cyleather_h_drk_rc_2636_2_0.png
   rotate: false
-  xy: 232, 19
+  xy: 1019, 39
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_drk_rc_2636_3_0.png
   rotate: false
-  xy: 9, 2
+  xy: 153, 40
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-jacket_F_cyleather_h_drk_rc_2636_7_0.png
+jacket_F_cyleather_h_drk_rc_2636_6_0.png
   rotate: false
-  xy: 56, 16
-  size: 2, 1
-  orig: 2, 1
+  xy: 174, 7
+  size: 2, 2
+  orig: 2, 2
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_lay_cc_2635_2_0.png
@@ -195,9 +195,16 @@ jacket_F_cyleather_h_lay_cc_2636_2_0.png
   index: -1
 jacket_F_cyleather_h_lay_lc_2635_2_0.png
   rotate: false
-  xy: 237, 49
+  xy: 172, 49
   size: 27, 13
   orig: 27, 13
+  offset: 0, 0
+  index: -1
+jacket_F_cyleather_h_lay_lc_2636_2_0.png
+  rotate: false
+  xy: 56, 16
+  size: 2, 1
+  orig: 2, 1
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_lay_rc_2635_2_0.png
@@ -209,7 +216,7 @@ jacket_F_cyleather_h_lay_rc_2635_2_0.png
   index: -1
 jacket_F_cyleather_h_lay_rc_2636_2_0.png
   rotate: false
-  xy: 222, 17
+  xy: 1019, 53
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
@@ -223,7 +230,7 @@ jacket_F_cyleather_h_std_cc_2635_0_0.png
   index: -1
 jacket_F_cyleather_h_std_cc_2635_1_0.png
   rotate: false
-  xy: 344, 41
+  xy: 547, 41
   size: 19, 21
   orig: 19, 21
   offset: 0, 0
@@ -237,21 +244,21 @@ jacket_F_cyleather_h_std_cc_2635_2_0.png
   index: -1
 jacket_F_cyleather_h_std_cc_2635_3_0.png
   rotate: false
-  xy: 153, 42
+  xy: 88, 42
   size: 26, 20
   orig: 26, 20
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_cc_2635_7_0.png
   rotate: false
-  xy: 181, 43
+  xy: 116, 43
   size: 25, 19
   orig: 25, 19
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_cc_2636_0_0.png
   rotate: false
-  xy: 107, 2
+  xy: 2, 4
   size: 16, 8
   orig: 16, 8
   offset: 0, 0
@@ -265,245 +272,252 @@ jacket_F_cyleather_h_std_cc_2636_1_0.png
   index: -1
 jacket_F_cyleather_h_std_cc_2636_2_0.png
   rotate: false
-  xy: 88, 2
+  xy: 126, 2
   size: 17, 13
   orig: 17, 13
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_cc_2636_3_0.png
   rotate: false
-  xy: 105, 20
+  xy: 145, 2
   size: 17, 13
   orig: 17, 13
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_cc_2636_7_0.png
   rotate: false
-  xy: 2, 5
+  xy: 547, 32
   size: 17, 7
   orig: 17, 7
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_lc_2635_0_0.png
   rotate: false
-  xy: 281, 26
+  xy: 233, 12
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_lc_2635_1_0.png
   rotate: false
-  xy: 18, 2
+  xy: 174, 4
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_lc_2635_2_0.png
   rotate: false
-  xy: 250, 25
+  xy: 207, 11
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_lc_2635_3_0.png
   rotate: false
-  xy: 696, 32
+  xy: 922, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_lc_2635_7_0.png
   rotate: false
-  xy: 986, 35
+  xy: 97, 13
   size: 7, 27
   orig: 7, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_lc_2636_0_0.png
   rotate: false
-  xy: 6, 2
+  xy: 157, 44
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_lc_2636_1_0.png
   rotate: false
-  xy: 1021, 37
+  xy: 933, 32
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_F_cyleather_h_std_lc_2636_2_0.png
+  rotate: false
+  xy: 147, 35
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_lc_2636_3_0.png
   rotate: false
-  xy: 153, 35
+  xy: 595, 28
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_lc_2636_7_0.png
   rotate: false
-  xy: 294, 28
+  xy: 27, 10
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_rc_2635_0_0.png
   rotate: false
-  xy: 763, 33
+  xy: 775, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_rc_2635_1_0.png
   rotate: false
-  xy: 181, 15
+  xy: 106, 14
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_rc_2635_2_0.png
   rotate: false
-  xy: 821, 33
+  xy: 911, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_rc_2635_3_0.png
   rotate: false
-  xy: 661, 32
+  xy: 752, 32
   size: 10, 30
   orig: 10, 30
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_rc_2635_7_0.png
   rotate: false
-  xy: 995, 35
+  xy: 88, 13
   size: 7, 27
   orig: 7, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_rc_2636_0_0.png
   rotate: false
-  xy: 300, 42
+  xy: 20, 8
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_rc_2636_1_0.png
   rotate: false
-  xy: 907, 35
+  xy: 147, 38
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_rc_2636_2_0.png
   rotate: false
-  xy: 306, 36
+  xy: 601, 30
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_rc_2636_3_0.png
   rotate: false
-  xy: 21, 7
+  xy: 164, 3
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_std_rc_2636_7_0.png
   rotate: false
-  xy: 300, 31
+  xy: 170, 6
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_0_0.png
   rotate: false
-  xy: 722, 37
+  xy: 661, 37
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_0_1.png
   rotate: false
-  xy: 533, 38
+  xy: 459, 38
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_1_0.png
   rotate: false
-  xy: 832, 35
+  xy: 705, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_1_1.png
   rotate: false
-  xy: 738, 35
+  xy: 692, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_2_0.png
   rotate: false
-  xy: 423, 35
+  xy: 402, 35
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_2_1.png
   rotate: false
-  xy: 110, 35
+  xy: 301, 35
   size: 20, 27
   orig: 20, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_3_0.png
   rotate: false
-  xy: 478, 34
+  xy: 514, 34
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_3_1.png
   rotate: false
-  xy: 365, 34
+  xy: 344, 34
   size: 18, 28
   orig: 18, 28
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_4_0.png
   rotate: false
-  xy: 495, 37
+  xy: 439, 37
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_4_1.png
   rotate: false
-  xy: 515, 36
+  xy: 478, 36
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_5_0.png
   rotate: false
-  xy: 385, 34
+  xy: 364, 34
   size: 17, 28
   orig: 17, 28
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_5_1.png
   rotate: false
-  xy: 460, 34
+  xy: 496, 34
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_6_0.png
   rotate: false
-  xy: 132, 35
+  xy: 323, 35
   size: 19, 27
   orig: 19, 27
   offset: 0, 0
@@ -517,126 +531,119 @@ jacket_F_cyleather_h_wav_lc_2635_6_1.png
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_7_0.png
   rotate: false
-  xy: 404, 35
+  xy: 383, 35
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wav_lc_2635_7_1.png
   rotate: false
-  xy: 88, 35
+  xy: 279, 35
   size: 20, 27
   orig: 20, 27
   offset: 0, 0
   index: -1
-jacket_F_cyleather_h_wav_lc_2636_0_1.png
-  rotate: false
-  xy: 288, 25
-  size: 2, 2
-  orig: 2, 2
-  offset: 0, 0
-  index: -1
 jacket_F_cyleather_h_wav_lc_2636_1_0.png
   rotate: false
-  xy: 208, 44
+  xy: 613, 33
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-jacket_F_cyleather_h_wav_lc_2636_4_1.png
+jacket_F_cyleather_h_wav_lc_2636_3_0.png
   rotate: false
-  xy: 2, 2
+  xy: 60, 16
   size: 2, 1
   orig: 2, 1
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_0_0.png
   rotate: false
-  xy: 152, 12
+  xy: 226, 12
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_0_1.png
   rotate: false
-  xy: 273, 28
+  xy: 248, 14
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_0_2.png
   rotate: false
-  xy: 1015, 40
+  xy: 199, 11
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_0_3.png
   rotate: false
-  xy: 141, 12
+  xy: 215, 12
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_1_0.png
   rotate: false
-  xy: 913, 37
+  xy: 64, 12
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_2_0.png
   rotate: false
-  xy: 258, 25
+  xy: 174, 11
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_2_1.png
   rotate: false
-  xy: 239, 25
+  xy: 181, 11
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_2_2.png
   rotate: false
-  xy: 232, 23
+  xy: 192, 11
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_2_3.png
   rotate: false
-  xy: 294, 32
+  xy: 589, 26
   size: 4, 14
   orig: 4, 14
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_3_0.png
   rotate: false
-  xy: 810, 32
+  xy: 764, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_3_1.png
   rotate: false
-  xy: 775, 34
+  xy: 799, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_3_2.png
   rotate: false
-  xy: 799, 33
+  xy: 900, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_3_3.png
   rotate: false
-  xy: 170, 15
+  xy: 986, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
@@ -650,7 +657,7 @@ jacket_F_cyleather_h_wlk_lc_2635_7_0.png
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_7_1.png
   rotate: false
-  xy: 191, 16
+  xy: 116, 16
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
@@ -664,288 +671,281 @@ jacket_F_cyleather_h_wlk_lc_2635_7_2.png
   index: -1
 jacket_F_cyleather_h_wlk_lc_2635_7_3.png
   rotate: false
-  xy: 976, 35
+  xy: 955, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
-jacket_F_cyleather_h_wlk_lc_2636_0_0.png
+jacket_F_cyleather_h_wlk_lc_2636_0_1.png
   rotate: false
-  xy: 105, 17
+  xy: 70, 16
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2636_1_1.png
   rotate: false
-  xy: 12, 2
+  xy: 613, 36
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
-jacket_F_cyleather_h_wlk_lc_2636_2_0.png
+jacket_F_cyleather_h_wlk_lc_2636_3_2.png
   rotate: false
-  xy: 60, 16
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-jacket_F_cyleather_h_wlk_lc_2636_3_3.png
-  rotate: false
-  xy: 28, 4
+  xy: 170, 2
   size: 2, 2
   orig: 2, 2
   offset: 0, 0
   index: -1
-jacket_F_cyleather_h_wlk_lc_2636_7_1.png
+jacket_F_cyleather_h_wlk_lc_2636_7_2.png
   rotate: false
-  xy: 183, 10
+  xy: 1019, 43
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_lc_2636_7_3.png
   rotate: false
-  xy: 714, 31
+  xy: 614, 39
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_0_0.png
   rotate: false
-  xy: 844, 35
+  xy: 811, 35
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_0_1.png
   rotate: false
-  xy: 931, 37
+  xy: 854, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_0_2.png
   rotate: false
-  xy: 787, 34
+  xy: 717, 34
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_0_3.png
   rotate: false
-  xy: 900, 40
+  xy: 823, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_1_0.png
   rotate: false
-  xy: 211, 21
+  xy: 126, 17
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_1_1.png
   rotate: false
-  xy: 916, 39
+  xy: 839, 39
   size: 13, 23
   orig: 13, 23
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_1_2.png
   rotate: false
-  xy: 201, 17
+  xy: 137, 17
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_1_3.png
   rotate: false
-  xy: 552, 38
+  xy: 644, 38
   size: 15, 24
   orig: 15, 24
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_2_0.png
   rotate: false
-  xy: 673, 31
+  xy: 729, 31
   size: 10, 31
   orig: 10, 31
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_2_1.png
   rotate: false
-  xy: 707, 36
+  xy: 677, 36
   size: 13, 26
   orig: 13, 26
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_2_2.png
   rotate: false
-  xy: 685, 31
+  xy: 741, 31
   size: 9, 31
   orig: 9, 31
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_2_3.png
   rotate: false
-  xy: 645, 33
+  xy: 531, 33
   size: 14, 29
   orig: 14, 29
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_3_0.png
   rotate: false
-  xy: 751, 33
+  xy: 787, 33
   size: 10, 29
   orig: 10, 29
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_3_1.png
   rotate: false
-  xy: 159, 15
+  xy: 1008, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_3_2.png
   rotate: false
-  xy: 856, 35
+  xy: 944, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_3_3.png
   rotate: false
-  xy: 1004, 37
+  xy: 997, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_7_0.png
   rotate: false
-  xy: 966, 35
+  xy: 965, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_7_1.png
   rotate: false
-  xy: 955, 36
+  xy: 975, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_7_2.png
   rotate: false
-  xy: 867, 35
+  xy: 933, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2635_7_3.png
   rotate: false
-  xy: 222, 22
+  xy: 164, 10
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_0_0.png
   rotate: false
-  xy: 21, 2
+  xy: 823, 35
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_0_2.png
   rotate: false
-  xy: 707, 32
+  xy: 143, 43
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_0_3.png
   rotate: false
-  xy: 307, 42
+  xy: 20, 2
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_1_0.png
   rotate: false
-  xy: 211, 17
+  xy: 150, 43
   size: 5, 2
   orig: 5, 2
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_1_1.png
   rotate: false
-  xy: 313, 43
+  xy: 607, 39
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_1_2.png
   rotate: false
-  xy: 1015, 36
+  xy: 607, 35
   size: 4, 2
   orig: 4, 2
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_1_3.png
   rotate: false
-  xy: 501, 32
+  xy: 620, 39
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_2_0.png
   rotate: false
-  xy: 177, 10
+  xy: 595, 23
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_2_1.png
   rotate: false
-  xy: 507, 32
+  xy: 589, 21
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_2_2.png
   rotate: false
-  xy: 159, 11
+  xy: 64, 15
   size: 4, 2
   orig: 4, 2
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_2_3.png
   rotate: false
-  xy: 165, 9
+  xy: 26, 2
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 jacket_F_cyleather_h_wlk_rc_2636_7_0.png
   rotate: false
-  xy: 27, 8
+  xy: 1019, 58
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
-jacket_F_cyleather_h_wlk_rc_2636_7_1.png
-  rotate: false
-  xy: 227, 17
-  size: 3, 3
-  orig: 3, 3
-  offset: 0, 0
-  index: -1
 jacket_F_cyleather_h_wlk_rc_2636_7_2.png
   rotate: false
-  xy: 171, 9
+  xy: 601, 36
   size: 4, 4
   orig: 4, 4
+  offset: 0, 0
+  index: -1
+jacket_F_cyleather_h_wlk_rc_2636_7_3.png
+  rotate: false
+  xy: 1019, 48
+  size: 3, 3
+  orig: 3, 3
   offset: 0, 0
   index: -1

@@ -1,0 +1,27 @@
+
+TimeturnerEnglishWindow3.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+TimeturnerEnglishWindow3_TimeturnerEnglishWindow3_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 56, 113
+  orig: 56, 113
+  offset: 0, 0
+  index: -1
+TimeturnerEnglishWindow3_TimeturnerEnglishWindow3_64_a_2_1.png
+  rotate: false
+  xy: 2, 117
+  size: 56, 160
+  orig: 56, 160
+  offset: 0, 0
+  index: -1
+TimeturnerEnglishWindow3_TimeturnerEnglishWindow3_icon_a.png
+  rotate: false
+  xy: 2, 279
+  size: 56, 167
+  orig: 56, 167
+  offset: 0, 0
+  index: -1

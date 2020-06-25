@@ -1,0 +1,20 @@
+
+r18_ngh_milk.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+r18_ngh_milk_r18_ngh_milk_64_a_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+r18_ngh_milk_r18_ngh_milk_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

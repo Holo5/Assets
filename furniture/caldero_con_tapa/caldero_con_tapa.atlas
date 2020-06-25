@@ -1,0 +1,34 @@
+
+caldero_con_tapa.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+caldero_con_tapa_caldero_con_tapa_64_a_2_0.png
+  rotate: false
+  xy: 80, 2
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+caldero_con_tapa_caldero_con_tapa_64_a_2_1.png
+  rotate: false
+  xy: 41, 2
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+caldero_con_tapa_caldero_con_tapa_64_a_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+caldero_con_tapa_caldero_con_tapa_64_sd_2_0.png
+  rotate: false
+  xy: 119, 12
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1

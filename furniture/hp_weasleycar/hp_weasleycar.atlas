@@ -1,0 +1,20 @@
+
+hp_weasleycar.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_weasleycar_hp_weasleycar_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 138, 104
+  orig: 138, 104
+  offset: 0, 0
+  index: -1
+hp_weasleycar_hp_weasleycar_icon_a.png
+  rotate: false
+  xy: 142, 81
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1

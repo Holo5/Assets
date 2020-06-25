@@ -48,21 +48,21 @@ shoes_U_runway_h_sit_sh_2152_2_0.png
   index: -1
 shoes_U_runway_h_sit_sh_2153_0_0.png
   rotate: false
-  xy: 906, 9
+  xy: 651, 5
   size: 13, 11
   orig: 13, 11
   offset: 0, 0
   index: -1
 shoes_U_runway_h_sit_sh_2153_2_0.png
   rotate: false
-  xy: 122, 8
+  xy: 773, 11
   size: 3, 8
   orig: 3, 8
   offset: 0, 0
   index: -1
 shoes_U_runway_h_sit_sh_2153_2_0.png
   rotate: false
-  xy: 204, 9
+  xy: 122, 8
   size: 3, 8
   orig: 3, 8
   offset: 0, 0
@@ -76,7 +76,7 @@ shoes_U_runway_h_std_sh_2151_0_0.png
   index: -1
 shoes_U_runway_h_std_sh_2151_1_0.png
   rotate: false
-  xy: 976, 19
+  xy: 868, 19
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
@@ -90,7 +90,7 @@ shoes_U_runway_h_std_sh_2151_2_0.png
   index: -1
 shoes_U_runway_h_std_sh_2151_3_0.png
   rotate: false
-  xy: 409, 18
+  xy: 643, 18
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
@@ -111,21 +111,21 @@ shoes_U_runway_h_std_sh_2152_0_0.png
   index: -1
 shoes_U_runway_h_std_sh_2152_1_0.png
   rotate: false
-  xy: 772, 2
+  xy: 796, 12
   size: 15, 8
   orig: 15, 8
   offset: 0, 0
   index: -1
 shoes_U_runway_h_std_sh_2152_2_0.png
   rotate: false
-  xy: 643, 18
+  xy: 409, 18
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_U_runway_h_std_sh_2152_3_0.png
   rotate: false
-  xy: 823, 22
+  xy: 801, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
@@ -139,14 +139,14 @@ shoes_U_runway_h_std_sh_2152_7_0.png
   index: -1
 shoes_U_runway_h_std_sh_2153_0_0.png
   rotate: false
-  xy: 954, 23
+  xy: 974, 23
   size: 20, 7
   orig: 20, 7
   offset: 0, 0
   index: -1
 shoes_U_runway_h_std_sh_2153_1_0.png
   rotate: false
-  xy: 774, 12
+  xy: 637, 2
   size: 12, 6
   orig: 12, 6
   offset: 0, 0
@@ -160,7 +160,7 @@ shoes_U_runway_h_std_sh_2153_2_0.png
   index: -1
 shoes_U_runway_h_std_sh_2153_3_0.png
   rotate: false
-  xy: 889, 15
+  xy: 753, 3
   size: 15, 5
   orig: 15, 5
   offset: 0, 0
@@ -202,7 +202,7 @@ shoes_U_runway_h_wlk_sh_2151_0_3.png
   index: -1
 shoes_U_runway_h_wlk_sh_2151_1_0.png
   rotate: false
-  xy: 597, 19
+  xy: 620, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
@@ -286,28 +286,28 @@ shoes_U_runway_h_wlk_sh_2151_3_3.png
   index: -1
 shoes_U_runway_h_wlk_sh_2151_7_0.png
   rotate: false
-  xy: 731, 19
+  xy: 597, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2151_7_1.png
   rotate: false
-  xy: 313, 2
+  xy: 290, 2
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2151_7_3.png
   rotate: false
-  xy: 290, 2
+  xy: 239, 2
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2152_0_0.png
   rotate: false
-  xy: 889, 22
+  xy: 952, 22
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
@@ -321,7 +321,7 @@ shoes_U_runway_h_wlk_sh_2152_0_1.png
   index: -1
 shoes_U_runway_h_wlk_sh_2152_0_2.png
   rotate: false
-  xy: 620, 18
+  xy: 731, 18
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
@@ -335,7 +335,7 @@ shoes_U_runway_h_wlk_sh_2152_0_3.png
   index: -1
 shoes_U_runway_h_wlk_sh_2152_1_0.png
   rotate: false
-  xy: 753, 2
+  xy: 909, 11
   size: 17, 8
   orig: 17, 8
   offset: 0, 0
@@ -349,7 +349,7 @@ shoes_U_runway_h_wlk_sh_2152_1_1.png
   index: -1
 shoes_U_runway_h_wlk_sh_2152_1_2.png
   rotate: false
-  xy: 574, 8
+  xy: 754, 10
   size: 17, 9
   orig: 17, 9
   offset: 0, 0
@@ -370,14 +370,14 @@ shoes_U_runway_h_wlk_sh_2152_2_0.png
   index: -1
 shoes_U_runway_h_wlk_sh_2152_2_1.png
   rotate: false
-  xy: 556, 6
+  xy: 778, 9
   size: 16, 11
   orig: 16, 11
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2152_2_2.png
   rotate: false
-  xy: 997, 18
+  xy: 889, 18
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
@@ -391,21 +391,21 @@ shoes_U_runway_h_wlk_sh_2152_2_3.png
   index: -1
 shoes_U_runway_h_wlk_sh_2152_3_0.png
   rotate: false
-  xy: 778, 20
+  xy: 505, 20
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2152_3_1.png
   rotate: false
-  xy: 239, 2
+  xy: 313, 2
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2152_3_2.png
   rotate: false
-  xy: 731, 6
+  xy: 731, 5
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
@@ -419,14 +419,14 @@ shoes_U_runway_h_wlk_sh_2152_3_3.png
   index: -1
 shoes_U_runway_h_wlk_sh_2152_7_0.png
   rotate: false
-  xy: 800, 22
+  xy: 778, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2152_7_1.png
   rotate: false
-  xy: 846, 21
+  xy: 824, 21
   size: 20, 9
   orig: 20, 9
   offset: 0, 0
@@ -447,14 +447,14 @@ shoes_U_runway_h_wlk_sh_2152_7_2.png
   index: -1
 shoes_U_runway_h_wlk_sh_2152_7_3.png
   rotate: false
-  xy: 868, 21
+  xy: 909, 21
   size: 19, 9
   orig: 19, 9
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2153_0_0.png
   rotate: false
-  xy: 593, 2
+  xy: 577, 2
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
@@ -468,21 +468,21 @@ shoes_U_runway_h_wlk_sh_2153_0_1.png
   index: -1
 shoes_U_runway_h_wlk_sh_2153_0_2.png
   rotate: false
-  xy: 505, 20
+  xy: 846, 20
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2153_0_3.png
   rotate: false
-  xy: 933, 22
+  xy: 556, 9
   size: 19, 8
   orig: 19, 8
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2153_1_0.png
   rotate: false
-  xy: 789, 2
+  xy: 770, 2
   size: 13, 5
   orig: 13, 5
   offset: 0, 0
@@ -496,7 +496,7 @@ shoes_U_runway_h_wlk_sh_2153_1_1.png
   index: -1
 shoes_U_runway_h_wlk_sh_2153_1_2.png
   rotate: false
-  xy: 820, 13
+  xy: 796, 3
   size: 15, 7
   orig: 15, 7
   offset: 0, 0
@@ -510,7 +510,7 @@ shoes_U_runway_h_wlk_sh_2153_1_3.png
   index: -1
 shoes_U_runway_h_wlk_sh_2153_2_0.png
   rotate: false
-  xy: 911, 22
+  xy: 930, 22
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
@@ -538,56 +538,56 @@ shoes_U_runway_h_wlk_sh_2153_2_3.png
   index: -1
 shoes_U_runway_h_wlk_sh_2153_3_0.png
   rotate: false
-  xy: 800, 13
+  xy: 598, 10
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2153_3_1.png
   rotate: false
-  xy: 634, 9
+  xy: 996, 23
   size: 19, 7
   orig: 19, 7
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2153_3_2.png
   rotate: false
-  xy: 754, 12
+  xy: 618, 10
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2153_3_3.png
   rotate: false
-  xy: 593, 10
+  xy: 577, 10
   size: 19, 7
   orig: 19, 7
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2153_7_0.png
   rotate: false
-  xy: 633, 2
+  xy: 711, 2
   size: 18, 5
   orig: 18, 5
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2153_7_1.png
   rotate: false
-  xy: 614, 10
+  xy: 597, 2
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2153_7_2.png
   rotate: false
-  xy: 711, 2
+  xy: 556, 2
   size: 18, 5
   orig: 18, 5
   offset: 0, 0
   index: -1
 shoes_U_runway_h_wlk_sh_2153_7_3.png
   rotate: false
-  xy: 613, 2
+  xy: 617, 2
   size: 18, 6
   orig: 18, 6
   offset: 0, 0

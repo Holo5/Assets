@@ -1,0 +1,34 @@
+
+throne_sofa.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+throne_sofa_throne_sofa_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 95, 103
+  orig: 95, 103
+  offset: 0, 0
+  index: -1
+throne_sofa_throne_sofa_64_b_2_0.png
+  rotate: false
+  xy: 99, 13
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+throne_sofa_throne_sofa_64_sd_2_0.png
+  rotate: false
+  xy: 99, 59
+  size: 93, 46
+  orig: 93, 46
+  offset: 0, 0
+  index: -1
+throne_sofa_throne_sofa_icon_a.png
+  rotate: false
+  xy: 194, 78
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1

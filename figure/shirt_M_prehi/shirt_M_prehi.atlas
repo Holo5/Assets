@@ -1,0 +1,48 @@
+
+shirt_M_prehi.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_M_prehi_h_lay_ch_6675_2_0.png
+  rotate: false
+  xy: 58, 19
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+shirt_M_prehi_h_std_ch_6675_0_0.png
+  rotate: false
+  xy: 102, 5
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+shirt_M_prehi_h_std_ch_6675_1_0.png
+  rotate: false
+  xy: 156, 5
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+shirt_M_prehi_h_std_ch_6675_2_0.png
+  rotate: false
+  xy: 129, 4
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+shirt_M_prehi_h_std_ch_6675_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+shirt_M_prehi_h_std_ch_6675_7_0.png
+  rotate: false
+  xy: 30, 2
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1

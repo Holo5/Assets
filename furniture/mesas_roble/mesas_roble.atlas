@@ -1,0 +1,27 @@
+
+mesas_roble.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mesas_roble_mesas_roble_64_a_4_0.png
+  rotate: false
+  xy: 65, 8
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+mesas_roble_mesas_roble_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+mesas_roble_mesas_roble_icon_a.png
+  rotate: false
+  xy: 131, 28
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1

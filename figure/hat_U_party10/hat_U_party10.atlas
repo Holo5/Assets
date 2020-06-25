@@ -34,16 +34,9 @@ hat_U_party10_h_spk_ha_2963_2_0.png
   index: -1
 hat_U_party10_h_spk_ha_2963_7_0.png
   rotate: false
-  xy: 2, 2
+  xy: 23, 44
   size: 19, 18
   orig: 19, 18
-  offset: 0, 0
-  index: -1
-hat_U_party10_h_std_ha_2963_0_0.png
-  rotate: false
-  xy: 2, 43
-  size: 19, 19
-  orig: 19, 19
   offset: 0, 0
   index: -1
 hat_U_party10_h_std_ha_2963_1_0.png
@@ -53,9 +46,16 @@ hat_U_party10_h_std_ha_2963_1_0.png
   orig: 19, 18
   offset: 0, 0
   index: -1
-hat_U_party10_h_std_ha_2963_3_0.png
+hat_U_party10_h_std_ha_2963_2_0.png
   rotate: false
-  xy: 23, 44
+  xy: 2, 43
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+hat_U_party10_h_std_ha_2963_7_0.png
+  rotate: false
+  xy: 2, 2
   size: 19, 18
   orig: 19, 18
   offset: 0, 0

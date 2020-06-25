@@ -18,20 +18,6 @@ shoes_U_shoearmour_h_lay_sh_3038_2_0.png
   orig: 22, 23
   offset: 0, 0
   index: -1
-shoes_U_shoearmour_h_lay_sh_3039_2_0.png
-  rotate: false
-  xy: 777, 12
-  size: 14, 8
-  orig: 14, 8
-  offset: 0, 0
-  index: -1
-shoes_U_shoearmour_h_lay_sh_3039_2_0.png
-  rotate: false
-  xy: 785, 2
-  size: 14, 8
-  orig: 14, 8
-  offset: 0, 0
-  index: -1
 shoes_U_shoearmour_h_sit_sh_3038_0_0.png
   rotate: false
   xy: 641, 10
@@ -41,14 +27,28 @@ shoes_U_shoearmour_h_sit_sh_3038_0_0.png
   index: -1
 shoes_U_shoearmour_h_sit_sh_3039_0_0.png
   rotate: false
-  xy: 822, 2
+  xy: 1006, 21
   size: 16, 9
   orig: 16, 9
   offset: 0, 0
   index: -1
+shoes_U_shoearmour_h_sit_sh_3039_2_0.png
+  rotate: false
+  xy: 354, 9
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+shoes_U_shoearmour_h_sit_sh_3039_2_0.png
+  rotate: false
+  xy: 770, 5
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
 shoes_U_shoearmour_h_sit_sh_3040_0_0.png
   rotate: false
-  xy: 272, 2
+  xy: 794, 2
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
@@ -76,7 +76,7 @@ shoes_U_shoearmour_h_std_sh_3038_0_0.png
   index: -1
 shoes_U_shoearmour_h_std_sh_3038_1_0.png
   rotate: false
-  xy: 823, 21
+  xy: 845, 21
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
@@ -90,49 +90,49 @@ shoes_U_shoearmour_h_std_sh_3038_2_0.png
   index: -1
 shoes_U_shoearmour_h_std_sh_3038_3_0.png
   rotate: false
-  xy: 682, 19
+  xy: 659, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_std_sh_3038_7_0.png
   rotate: false
-  xy: 800, 22
+  xy: 960, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_std_sh_3039_0_0.png
   rotate: false
-  xy: 863, 2
+  xy: 786, 5
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_std_sh_3039_1_0.png
   rotate: false
-  xy: 192, 3
+  xy: 762, 8
   size: 6, 9
   orig: 6, 9
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_std_sh_3039_2_0.png
   rotate: false
-  xy: 203, 6
+  xy: 304, 3
   size: 17, 13
   orig: 17, 13
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_std_sh_3039_3_0.png
   rotate: false
-  xy: 793, 13
+  xy: 108, 2
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_std_sh_3039_7_0.png
   rotate: false
-  xy: 113, 10
+  xy: 983, 23
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
@@ -153,21 +153,21 @@ shoes_U_shoearmour_h_std_sh_3040_1_0.png
   index: -1
 shoes_U_shoearmour_h_std_sh_3040_2_0.png
   rotate: false
-  xy: 915, 20
+  xy: 914, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_std_sh_3040_3_0.png
   rotate: false
-  xy: 235, 14
+  xy: 541, 11
   size: 17, 7
   orig: 17, 7
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_std_sh_3040_7_0.png
   rotate: false
-  xy: 222, 2
+  xy: 279, 10
   size: 19, 4
   orig: 19, 4
   offset: 0, 0
@@ -244,7 +244,7 @@ shoes_U_shoearmour_h_wlk_sh_3038_2_1.png
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3038_2_2.png
   rotate: false
-  xy: 982, 19
+  xy: 246, 10
   size: 18, 11
   orig: 18, 11
   offset: 0, 0
@@ -258,63 +258,63 @@ shoes_U_shoearmour_h_wlk_sh_3038_2_3.png
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3038_3_0.png
   rotate: false
-  xy: 960, 19
+  xy: 751, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3038_3_1.png
   rotate: false
-  xy: 718, 5
+  xy: 696, 5
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3038_3_2.png
   rotate: false
-  xy: 938, 19
+  xy: 740, 6
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3038_3_3.png
   rotate: false
-  xy: 696, 5
+  xy: 718, 5
   size: 20, 12
   orig: 20, 12
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3038_7_0.png
   rotate: false
-  xy: 869, 20
+  xy: 868, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3038_7_1.png
   rotate: false
-  xy: 705, 19
+  xy: 682, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3038_7_2.png
   rotate: false
-  xy: 892, 20
+  xy: 891, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3038_7_3.png
   rotate: false
-  xy: 728, 19
+  xy: 705, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_0_0.png
   rotate: false
-  xy: 333, 2
+  xy: 953, 13
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
@@ -328,21 +328,21 @@ shoes_U_shoearmour_h_wlk_sh_3039_0_1.png
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_0_2.png
   rotate: false
-  xy: 340, 2
+  xy: 424, 9
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_0_3.png
   rotate: false
-  xy: 222, 8
+  xy: 323, 3
   size: 11, 13
   orig: 11, 13
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_1_0.png
   rotate: false
-  xy: 840, 2
+  xy: 218, 2
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
@@ -356,7 +356,7 @@ shoes_U_shoearmour_h_wlk_sh_3039_1_1.png
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_1_2.png
   rotate: false
-  xy: 559, 11
+  xy: 560, 11
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
@@ -370,21 +370,21 @@ shoes_U_shoearmour_h_wlk_sh_3039_1_3.png
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_2_0.png
   rotate: false
-  xy: 659, 19
+  xy: 728, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_2_1.png
   rotate: false
-  xy: 852, 2
+  xy: 230, 2
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_2_2.png
   rotate: false
-  xy: 284, 3
+  xy: 266, 10
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
@@ -398,63 +398,63 @@ shoes_U_shoearmour_h_wlk_sh_3039_2_3.png
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_3_0.png
   rotate: false
-  xy: 150, 5
+  xy: 131, 2
   size: 20, 7
   orig: 20, 7
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_3_1.png
   rotate: false
-  xy: 1002, 12
+  xy: 175, 4
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_3_2.png
   rotate: false
-  xy: 1002, 22
+  xy: 224, 13
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_3_3.png
   rotate: false
-  xy: 763, 2
+  xy: 153, 4
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_7_0.png
   rotate: false
-  xy: 641, 2
+  xy: 113, 11
   size: 21, 6
   orig: 21, 6
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_7_1.png
   rotate: false
-  xy: 846, 21
+  xy: 822, 21
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_7_2.png
   rotate: false
-  xy: 816, 13
+  xy: 641, 2
   size: 21, 6
   orig: 21, 6
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3039_7_3.png
   rotate: false
-  xy: 740, 2
+  xy: 937, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_0_0.png
   rotate: false
-  xy: 235, 8
+  xy: 794, 16
   size: 18, 4
   orig: 18, 4
   offset: 0, 0
@@ -468,21 +468,21 @@ shoes_U_shoearmour_h_wlk_sh_3040_0_1.png
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_0_2.png
   rotate: false
-  xy: 172, 6
+  xy: 284, 2
   size: 18, 6
   orig: 18, 6
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_0_3.png
   rotate: false
-  xy: 801, 2
+  xy: 197, 2
   size: 19, 9
   orig: 19, 9
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_1_0.png
   rotate: false
-  xy: 839, 13
+  xy: 241, 2
   size: 20, 6
   orig: 20, 6
   offset: 0, 0
@@ -496,7 +496,7 @@ shoes_U_shoearmour_h_wlk_sh_3040_1_1.png
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_1_2.png
   rotate: false
-  xy: 776, 22
+  xy: 798, 22
   size: 22, 8
   orig: 22, 8
   offset: 0, 0
@@ -510,21 +510,21 @@ shoes_U_shoearmour_h_wlk_sh_3040_1_3.png
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_2_0.png
   rotate: false
-  xy: 751, 22
+  xy: 773, 22
   size: 23, 8
   orig: 23, 8
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_2_1.png
   rotate: false
-  xy: 255, 6
+  xy: 339, 11
   size: 13, 6
   orig: 13, 6
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_2_2.png
   rotate: false
-  xy: 761, 12
+  xy: 937, 12
   size: 14, 8
   orig: 14, 8
   offset: 0, 0
@@ -538,56 +538,56 @@ shoes_U_shoearmour_h_wlk_sh_3040_2_3.png
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_3_0.png
   rotate: false
-  xy: 297, 2
+  xy: 388, 9
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_3_1.png
   rotate: false
-  xy: 541, 11
+  xy: 336, 2
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_3_2.png
   rotate: false
-  xy: 254, 14
+  xy: 370, 9
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_3_3.png
   rotate: false
-  xy: 315, 2
+  xy: 406, 9
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_7_0.png
   rotate: false
-  xy: 129, 2
+  xy: 203, 13
   size: 19, 6
   orig: 19, 6
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_7_1.png
   rotate: false
-  xy: 272, 16
+  xy: 279, 16
   size: 19, 5
   orig: 19, 5
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_7_2.png
   rotate: false
-  xy: 108, 2
+  xy: 263, 2
   size: 19, 6
   orig: 19, 6
   offset: 0, 0
   index: -1
 shoes_U_shoearmour_h_wlk_sh_3040_7_3.png
   rotate: false
-  xy: 740, 12
+  xy: 773, 15
   size: 19, 5
   orig: 19, 5
   offset: 0, 0

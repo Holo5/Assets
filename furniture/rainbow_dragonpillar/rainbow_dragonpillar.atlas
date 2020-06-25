@@ -1,0 +1,20 @@
+
+rainbow_dragonpillar.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainbow_dragonpillar_rainbow_dragonpillar_64_a_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 44, 162
+  orig: 44, 162
+  offset: 0, 0
+  index: -1
+rainbow_dragonpillar_rainbow_dragonpillar_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+infobuswallshelf1.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+infobuswallshelf1_infobuswallshelf1_64_a_2_0.png
+  rotate: false
+  xy: 242, 26
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+infobuswallshelf1_infobuswallshelf1_64_a_4_1.png
+  rotate: false
+  xy: 285, 26
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+infobuswallshelf1_infobuswallshelf1_64_b_2_0.png
+  rotate: false
+  xy: 122, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+infobuswallshelf1_infobuswallshelf1_64_b_2_1.png
+  rotate: false
+  xy: 182, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+infobuswallshelf1_infobuswallshelf1_64_b_4_0.png
+  rotate: false
+  xy: 62, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+infobuswallshelf1_infobuswallshelf1_64_b_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+infobuswallshelf1_infobuswallshelf1_icon_a.png
+  rotate: false
+  xy: 328, 30
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

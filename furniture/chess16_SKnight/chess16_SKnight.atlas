@@ -1,0 +1,20 @@
+
+chess16_SKnight.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess16_SKnight_chess16_SKnight_64_a_2_0.png
+  rotate: false
+  xy: 2, 31
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+chess16_SKnight_chess16_SKnight_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1

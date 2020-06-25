@@ -1,0 +1,27 @@
+
+sotw_trophy1.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sotw_trophy1_sotw_trophy1_64_a_2_0.png
+  rotate: false
+  xy: 2, 27
+  size: 44, 102
+  orig: 44, 102
+  offset: 0, 0
+  index: -1
+sotw_trophy1_sotw_trophy1_64_sd_2_0.png
+  rotate: false
+  xy: 48, 128
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sotw_trophy1_sotw_trophy1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1

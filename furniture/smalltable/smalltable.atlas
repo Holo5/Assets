@@ -1,0 +1,27 @@
+
+smalltable.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+smalltable_smalltable_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+smalltable_smalltable_64_sd_2_0.png
+  rotate: false
+  xy: 48, 24
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+smalltable_smalltable_icon_a.png
+  rotate: false
+  xy: 90, 27
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+rhed.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rhed_rhed_64_a_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+rhed_rhed_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

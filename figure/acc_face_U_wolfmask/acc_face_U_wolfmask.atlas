@@ -6,84 +6,84 @@ filter: Nearest,Nearest
 repeat: none
 acc_face_U_wolfmask_h_lay_fa_3323_2_0.png
   rotate: false
-  xy: 86, 72
+  xy: 86, 93
   size: 41, 33
   orig: 41, 33
   offset: 0, 0
   index: -1
-acc_face_U_wolfmask_h_lsp_fa_3324_2_0.png
+acc_face_U_wolfmask_h_lay_fa_3324_2_0.png
   rotate: false
-  xy: 86, 39
+  xy: 86, 60
   size: 39, 31
   orig: 39, 31
   offset: 0, 0
   index: -1
-acc_face_U_wolfmask_h_std_fa_3323_0_0.png
+acc_face_U_wolfmask_h_spk_fa_3323_1_0.png
   rotate: false
-  xy: 129, 72
-  size: 34, 33
-  orig: 34, 33
-  offset: 0, 0
-  index: -1
-acc_face_U_wolfmask_h_std_fa_3323_1_0.png
-  rotate: false
-  xy: 127, 40
+  xy: 86, 28
   size: 36, 30
   orig: 36, 30
   offset: 0, 0
   index: -1
-acc_face_U_wolfmask_h_std_fa_3323_2_0.png
+acc_face_U_wolfmask_h_spk_fa_3323_3_0.png
   rotate: false
-  xy: 86, 3
-  size: 32, 34
-  orig: 32, 34
-  offset: 0, 0
-  index: -1
-acc_face_U_wolfmask_h_std_fa_3323_3_0.png
-  rotate: false
-  xy: 165, 75
+  xy: 127, 61
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
+acc_face_U_wolfmask_h_spk_fa_3324_1_0.png
+  rotate: false
+  xy: 228, 97
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+acc_face_U_wolfmask_h_std_fa_3323_0_0.png
+  rotate: false
+  xy: 129, 93
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+acc_face_U_wolfmask_h_std_fa_3323_2_0.png
+  rotate: false
+  xy: 165, 92
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
 acc_face_U_wolfmask_h_std_fa_3323_7_0.png
   rotate: false
-  xy: 226, 47
+  xy: 86, 2
   size: 28, 24
   orig: 28, 24
   offset: 0, 0
   index: -1
 acc_face_U_wolfmask_h_std_fa_3324_0_0.png
   rotate: false
-  xy: 165, 40
+  xy: 199, 93
   size: 27, 33
   orig: 27, 33
   offset: 0, 0
   index: -1
-acc_face_U_wolfmask_h_std_fa_3324_1_0.png
-  rotate: false
-  xy: 227, 76
-  size: 14, 29
-  orig: 14, 29
-  offset: 0, 0
-  index: -1
 acc_face_U_wolfmask_h_std_fa_3324_2_0.png
   rotate: false
-  xy: 197, 73
+  xy: 159, 58
   size: 28, 32
   orig: 28, 32
   offset: 0, 0
   index: -1
 acc_face_U_wolfmask_h_std_fa_3324_3_0.png
   rotate: false
-  xy: 194, 44
+  xy: 189, 63
   size: 30, 27
   orig: 30, 27
   offset: 0, 0
   index: -1
 acc_face_U_wolfmask_h_std_fa_3324_7_0.png
   rotate: false
-  xy: 2, 2
+  xy: 2, 23
   size: 82, 103
   orig: 82, 103
   offset: 0, 0

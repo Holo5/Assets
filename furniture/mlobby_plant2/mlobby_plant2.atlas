@@ -1,0 +1,27 @@
+
+mlobby_plant2.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mlobby_plant2_mlobby_plant2_64_a_2_0.png
+  rotate: false
+  xy: 2, 21
+  size: 109, 101
+  orig: 109, 101
+  offset: 0, 0
+  index: -1
+mlobby_plant2_mlobby_plant2_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+mlobby_plant2_mlobby_plant2_icon_a.png
+  rotate: false
+  xy: 113, 121
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

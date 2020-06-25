@@ -1,0 +1,55 @@
+
+RoomRequirementBW.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RoomRequirementBW_RoomRequirementBW_64_a_4_0.png
+  rotate: false
+  xy: 373, 34
+  size: 69, 168
+  orig: 69, 168
+  offset: 0, 0
+  index: -1
+RoomRequirementBW_RoomRequirementBW_64_a_4_1.png
+  rotate: false
+  xy: 302, 34
+  size: 69, 168
+  orig: 69, 168
+  offset: 0, 0
+  index: -1
+RoomRequirementBW_RoomRequirementBW_64_a_4_2.png
+  rotate: false
+  xy: 231, 34
+  size: 69, 168
+  orig: 69, 168
+  offset: 0, 0
+  index: -1
+RoomRequirementBW_RoomRequirementBW_64_a_4_3.png
+  rotate: false
+  xy: 89, 34
+  size: 69, 168
+  orig: 69, 168
+  offset: 0, 0
+  index: -1
+RoomRequirementBW_RoomRequirementBW_64_a_6_0.png
+  rotate: false
+  xy: 160, 34
+  size: 69, 168
+  orig: 69, 168
+  offset: 0, 0
+  index: -1
+RoomRequirementBW_RoomRequirementBW_64_a_6_1.png
+  rotate: false
+  xy: 2, 34
+  size: 85, 168
+  orig: 85, 168
+  offset: 0, 0
+  index: -1
+RoomRequirementBW_RoomRequirementBW_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+jungle_c16_tre1.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jungle_c16_tre1_jungle_c16_tre1_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 110, 55
+  orig: 110, 55
+  offset: 0, 0
+  index: -1
+jungle_c16_tre1_jungle_c16_tre1_icon_a.png
+  rotate: false
+  xy: 114, 27
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

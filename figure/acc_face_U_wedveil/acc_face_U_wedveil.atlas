@@ -4,11 +4,11 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-acc_face_U_wedveil_h_lay_fa_2948_2_0.png
+acc_face_U_wedveil_h_lay_fa_2949_2_0.png
   rotate: false
-  xy: 102, 2
-  size: 14, 18
-  orig: 14, 18
+  xy: 34, 41
+  size: 31, 21
+  orig: 31, 21
   offset: 0, 0
   index: -1
 acc_face_U_wedveil_h_lay_fa_2950_2_0.png
@@ -18,25 +18,11 @@ acc_face_U_wedveil_h_lay_fa_2950_2_0.png
   orig: 11, 14
   offset: 0, 0
   index: -1
-acc_face_U_wedveil_h_lsp_fa_2949_2_0.png
+acc_face_U_wedveil_h_lsp_fa_2948_2_0.png
   rotate: false
-  xy: 34, 41
-  size: 31, 21
-  orig: 31, 21
-  offset: 0, 0
-  index: -1
-acc_face_U_wedveil_h_spk_fa_2948_0_0.png
-  rotate: false
-  xy: 41, 18
-  size: 16, 21
-  orig: 16, 21
-  offset: 0, 0
-  index: -1
-acc_face_U_wedveil_h_spk_fa_2948_1_0.png
-  rotate: false
-  xy: 41, 2
-  size: 17, 14
-  orig: 17, 14
+  xy: 102, 2
+  size: 14, 18
+  orig: 14, 18
   offset: 0, 0
   index: -1
 acc_face_U_wedveil_h_spk_fa_2948_2_0.png
@@ -48,14 +34,42 @@ acc_face_U_wedveil_h_spk_fa_2948_2_0.png
   index: -1
 acc_face_U_wedveil_h_spk_fa_2948_3_0.png
   rotate: false
-  xy: 90, 34
+  xy: 90, 49
   size: 26, 13
   orig: 26, 13
   offset: 0, 0
   index: -1
+acc_face_U_wedveil_h_spk_fa_2949_3_0.png
+  rotate: false
+  xy: 2, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+acc_face_U_wedveil_h_spk_fa_2950_3_0.png
+  rotate: false
+  xy: 82, 23
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+acc_face_U_wedveil_h_std_fa_2948_0_0.png
+  rotate: false
+  xy: 41, 18
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+acc_face_U_wedveil_h_std_fa_2948_1_0.png
+  rotate: false
+  xy: 41, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
 acc_face_U_wedveil_h_std_fa_2948_7_0.png
   rotate: false
-  xy: 90, 49
+  xy: 90, 34
   size: 26, 13
   orig: 26, 13
   offset: 0, 0
@@ -81,13 +95,6 @@ acc_face_U_wedveil_h_std_fa_2949_2_0.png
   orig: 24, 29
   offset: 0, 0
   index: -1
-acc_face_U_wedveil_h_std_fa_2949_3_0.png
-  rotate: false
-  xy: 2, 34
-  size: 30, 28
-  orig: 30, 28
-  offset: 0, 0
-  index: -1
 acc_face_U_wedveil_h_std_fa_2949_7_0.png
   rotate: false
   xy: 34, 38
@@ -104,23 +111,16 @@ acc_face_U_wedveil_h_std_fa_2950_0_0.png
   index: -1
 acc_face_U_wedveil_h_std_fa_2950_1_0.png
   rotate: false
-  xy: 73, 2
+  xy: 104, 22
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
   index: -1
 acc_face_U_wedveil_h_std_fa_2950_2_0.png
   rotate: false
-  xy: 104, 22
+  xy: 73, 2
   size: 17, 10
   orig: 17, 10
-  offset: 0, 0
-  index: -1
-acc_face_U_wedveil_h_std_fa_2950_3_0.png
-  rotate: false
-  xy: 82, 23
-  size: 20, 9
-  orig: 20, 9
   offset: 0, 0
   index: -1
 acc_face_U_wedveil_h_std_fa_2950_7_0.png

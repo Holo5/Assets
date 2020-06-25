@@ -1,0 +1,720 @@
+
+jacket_U_rise.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_U_rise_h_crr_lc_7428_0_0.png
+  rotate: false
+  xy: 709, 10
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_lc_7428_1_0.png
+  rotate: false
+  xy: 134, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_lc_7428_2_0.png
+  rotate: false
+  xy: 640, 2
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_lc_7428_3_0.png
+  rotate: false
+  xy: 662, 35
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_lc_7428_4_0.png
+  rotate: false
+  xy: 517, 37
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_lc_7428_5_0.png
+  rotate: false
+  xy: 497, 40
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_lc_7428_6_0.png
+  rotate: false
+  xy: 174, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_lc_7428_7_0.png
+  rotate: false
+  xy: 677, 12
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_rc_7428_0_0.png
+  rotate: false
+  xy: 555, 39
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_rc_7428_1_0.png
+  rotate: false
+  xy: 475, 40
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_rc_7428_2_0.png
+  rotate: false
+  xy: 338, 6
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_rc_7428_3_0.png
+  rotate: false
+  xy: 879, 35
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_rc_7428_4_0.png
+  rotate: false
+  xy: 839, 37
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_rc_7428_6_0.png
+  rotate: false
+  xy: 700, 10
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_crr_rc_7428_7_0.png
+  rotate: false
+  xy: 688, 12
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_drk_rc_7428_0_0.png
+  rotate: false
+  xy: 575, 42
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_drk_rc_7428_1_0.png
+  rotate: false
+  xy: 418, 46
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_drk_rc_7428_2_0.png
+  rotate: false
+  xy: 447, 45
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_drk_rc_7428_3_0.png
+  rotate: false
+  xy: 155, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_drk_rc_7428_4_0.png
+  rotate: false
+  xy: 108, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_drk_rc_7428_5_0.png
+  rotate: false
+  xy: 79, 2
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_drk_rc_7428_6_0.png
+  rotate: false
+  xy: 43, 2
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_drk_rc_7428_7_0.png
+  rotate: false
+  xy: 755, 20
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_lay_cc_7428_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_lay_cc_7429_2_0.png
+  rotate: false
+  xy: 397, 27
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_lay_lc_7428_2_0.png
+  rotate: false
+  xy: 596, 51
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_lay_rc_7428_2_0.png
+  rotate: false
+  xy: 392, 43
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_cc_7428_0_0.png
+  rotate: false
+  xy: 79, 19
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_cc_7428_1_0.png
+  rotate: false
+  xy: 161, 27
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_cc_7428_2_0.png
+  rotate: false
+  xy: 49, 18
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_cc_7428_3_0.png
+  rotate: false
+  xy: 107, 22
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_cc_7428_7_0.png
+  rotate: false
+  xy: 134, 25
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_cc_7429_0_0.png
+  rotate: false
+  xy: 124, 6
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_cc_7429_1_0.png
+  rotate: false
+  xy: 777, 25
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_cc_7429_2_0.png
+  rotate: false
+  xy: 767, 25
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_cc_7429_3_0.png
+  rotate: false
+  xy: 407, 27
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_cc_7429_7_0.png
+  rotate: false
+  xy: 397, 11
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_lc_7428_0_0.png
+  rotate: false
+  xy: 637, 29
+  size: 8, 33
+  orig: 8, 33
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_lc_7428_2_0.png
+  rotate: false
+  xy: 271, 2
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_lc_7428_3_0.png
+  rotate: false
+  xy: 584, 3
+  size: 10, 37
+  orig: 10, 37
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_lc_7428_7_0.png
+  rotate: false
+  xy: 612, 14
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_rc_7428_0_0.png
+  rotate: false
+  xy: 555, 2
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_rc_7428_1_0.png
+  rotate: false
+  xy: 245, 2
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_rc_7428_2_0.png
+  rotate: false
+  xy: 596, 12
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_rc_7428_3_0.png
+  rotate: false
+  xy: 625, 27
+  size: 10, 35
+  orig: 10, 35
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_std_rc_7428_7_0.png
+  rotate: false
+  xy: 570, 2
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_0_0.png
+  rotate: false
+  xy: 647, 35
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_0_1.png
+  rotate: false
+  xy: 227, 7
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_1_0.png
+  rotate: false
+  xy: 537, 37
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_1_1.png
+  rotate: false
+  xy: 321, 8
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_2_0.png
+  rotate: false
+  xy: 318, 35
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_2_1.png
+  rotate: false
+  xy: 234, 36
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_3_0.png
+  rotate: false
+  xy: 338, 34
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_3_1.png
+  rotate: false
+  xy: 256, 34
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_4_0.png
+  rotate: false
+  xy: 211, 36
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_4_1.png
+  rotate: false
+  xy: 297, 36
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_5_0.png
+  rotate: false
+  xy: 24, 2
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_5_1.png
+  rotate: false
+  xy: 356, 34
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_6_1.png
+  rotate: false
+  xy: 186, 35
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_7_0.png
+  rotate: false
+  xy: 374, 34
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wav_lc_7428_7_1.png
+  rotate: false
+  xy: 277, 34
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_0_0.png
+  rotate: false
+  xy: 727, 7
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_0_1.png
+  rotate: false
+  xy: 745, 17
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_0_2.png
+  rotate: false
+  xy: 718, 7
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_0_3.png
+  rotate: false
+  xy: 1006, 35
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_1_0.png
+  rotate: false
+  xy: 811, 38
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_1_1.png
+  rotate: false
+  xy: 759, 41
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_1_2.png
+  rotate: false
+  xy: 825, 38
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_1_3.png
+  rotate: false
+  xy: 743, 38
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_2_0.png
+  rotate: false
+  xy: 654, 7
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_2_1.png
+  rotate: false
+  xy: 677, 35
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_2_2.png
+  rotate: false
+  xy: 388, 7
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_2_3.png
+  rotate: false
+  xy: 736, 13
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_3_0.png
+  rotate: false
+  xy: 730, 34
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_3_1.png
+  rotate: false
+  xy: 717, 34
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_3_2.png
+  rotate: false
+  xy: 704, 34
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_3_3.png
+  rotate: false
+  xy: 892, 35
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_7_0.png
+  rotate: false
+  xy: 995, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_7_1.png
+  rotate: false
+  xy: 984, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_7_2.png
+  rotate: false
+  xy: 973, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_lc_7428_7_3.png
+  rotate: false
+  xy: 962, 36
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_0_0.png
+  rotate: false
+  xy: 195, 2
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_0_1.png
+  rotate: false
+  xy: 294, 3
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_0_2.png
+  rotate: false
+  xy: 691, 34
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_0_3.png
+  rotate: false
+  xy: 372, 7
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_1_0.png
+  rotate: false
+  xy: 625, 2
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_1_1.png
+  rotate: false
+  xy: 795, 40
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_1_2.png
+  rotate: false
+  xy: 664, 10
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_1_3.png
+  rotate: false
+  xy: 777, 41
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_2_0.png
+  rotate: false
+  xy: 308, 2
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_2_1.png
+  rotate: false
+  xy: 211, 4
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_2_2.png
+  rotate: false
+  xy: 258, 2
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_2_3.png
+  rotate: false
+  xy: 356, 6
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_3_0.png
+  rotate: false
+  xy: 927, 33
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_3_1.png
+  rotate: false
+  xy: 905, 34
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_3_2.png
+  rotate: false
+  xy: 283, 2
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_3_3.png
+  rotate: false
+  xy: 916, 34
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_7_0.png
+  rotate: false
+  xy: 866, 36
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_7_1.png
+  rotate: false
+  xy: 950, 36
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_7_2.png
+  rotate: false
+  xy: 853, 36
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+jacket_U_rise_h_wlk_rc_7428_7_3.png
+  rotate: false
+  xy: 938, 36
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1

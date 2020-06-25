@@ -1,0 +1,27 @@
+
+xmas18_icebearhedgehog.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas18_icebearhedgehog_xmas18_icebearhedgehog_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+xmas18_icebearhedgehog_xmas18_icebearhedgehog_64_sd_2_0.png
+  rotate: false
+  xy: 83, 31
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+xmas18_icebearhedgehog_xmas18_icebearhedgehog_icon_a.png
+  rotate: false
+  xy: 51, 19
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

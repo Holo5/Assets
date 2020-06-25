@@ -1,0 +1,20 @@
+
+prizetrophy_luminia.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+prizetrophy_luminia_prizetrophy_luminia_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 64, 180
+  orig: 64, 180
+  offset: 0, 0
+  index: -1
+prizetrophy_luminia_prizetrophy_luminia_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+boite_outils2.png
+size: 32,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boite_outils2_boite_outils2_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+boite_outils2_boite_outils2_icon_a.png
+  rotate: false
+  xy: 2, 32
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

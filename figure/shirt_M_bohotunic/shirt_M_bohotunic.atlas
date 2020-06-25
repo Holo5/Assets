@@ -11,23 +11,37 @@ shirt_M_bohotunic_h_crr_ls_3378_0_0.png
   orig: 5, 12
   offset: 0, 0
   index: -1
+shirt_M_bohotunic_h_crr_ls_3378_1_0.png
+  rotate: false
+  xy: 1419, 11
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+shirt_M_bohotunic_h_crr_ls_3378_2_0.png
+  rotate: false
+  xy: 1514, 12
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
 shirt_M_bohotunic_h_crr_ls_3378_3_0.png
   rotate: false
-  xy: 1306, 3
+  xy: 1286, 3
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_ls_3378_6_0.png
   rotate: false
-  xy: 1068, 3
+  xy: 443, 13
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_ls_3378_7_0.png
   rotate: false
-  xy: 1369, 6
+  xy: 1379, 6
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
@@ -41,79 +55,79 @@ shirt_M_bohotunic_h_crr_ls_3379_0_0.png
   index: -1
 shirt_M_bohotunic_h_crr_ls_3379_1_0.png
   rotate: false
-  xy: 665, 55
+  xy: 655, 55
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_ls_3379_2_0.png
   rotate: false
-  xy: 894, 3
+  xy: 895, 57
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_ls_3379_3_0.png
   rotate: false
-  xy: 757, 7
+  xy: 738, 56
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_ls_3379_6_0.png
   rotate: false
-  xy: 655, 55
+  xy: 665, 55
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_ls_3379_7_0.png
   rotate: false
-  xy: 864, 57
+  xy: 857, 2
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_ls_3380_0_0.png
   rotate: false
-  xy: 934, 58
+  xy: 939, 58
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
+shirt_M_bohotunic_h_crr_ls_3380_2_0.png
+  rotate: false
+  xy: 958, 59
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
 shirt_M_bohotunic_h_crr_ls_3380_3_0.png
   rotate: false
-  xy: 908, 58
+  xy: 913, 10
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_ls_3380_6_0.png
   rotate: false
-  xy: 865, 2
+  xy: 864, 57
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_ls_3380_7_0.png
   rotate: false
-  xy: 944, 59
+  xy: 807, 2
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3378_0_0.png
   rotate: false
-  xy: 1080, 3
+  xy: 1068, 3
   size: 10, 18
   orig: 10, 18
-  offset: 0, 0
-  index: -1
-shirt_M_bohotunic_h_crr_rs_3378_1_0.png
-  rotate: false
-  xy: 1419, 11
-  size: 8, 14
-  orig: 8, 14
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3378_2_0.png
@@ -125,7 +139,7 @@ shirt_M_bohotunic_h_crr_rs_3378_2_0.png
   index: -1
 shirt_M_bohotunic_h_crr_rs_3378_3_0.png
   rotate: false
-  xy: 1256, 3
+  xy: 1246, 3
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
@@ -139,7 +153,7 @@ shirt_M_bohotunic_h_crr_rs_3378_4_0.png
   index: -1
 shirt_M_bohotunic_h_crr_rs_3378_5_0.png
   rotate: false
-  xy: 1224, 4
+  xy: 1235, 4
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
@@ -181,21 +195,21 @@ shirt_M_bohotunic_h_crr_rs_3379_2_0.png
   index: -1
 shirt_M_bohotunic_h_crr_rs_3379_3_0.png
   rotate: false
-  xy: 748, 7
+  xy: 747, 56
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3379_4_0.png
   rotate: false
-  xy: 887, 2
+  xy: 880, 2
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3379_5_0.png
   rotate: false
-  xy: 137, 2
+  xy: 696, 56
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
@@ -209,63 +223,63 @@ shirt_M_bohotunic_h_crr_rs_3379_6_0.png
   index: -1
 shirt_M_bohotunic_h_crr_rs_3379_7_0.png
   rotate: false
-  xy: 848, 57
+  xy: 856, 57
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3380_0_0.png
   rotate: false
-  xy: 853, 9
+  xy: 865, 2
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3380_1_0.png
   rotate: false
-  xy: 880, 57
+  xy: 840, 57
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3380_2_0.png
   rotate: false
-  xy: 856, 57
+  xy: 861, 9
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3380_3_0.png
   rotate: false
-  xy: 907, 4
+  xy: 899, 10
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3380_4_0.png
   rotate: false
-  xy: 924, 4
+  xy: 920, 10
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3380_5_0.png
   rotate: false
-  xy: 401, 37
+  xy: 455, 2
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3380_6_0.png
   rotate: false
-  xy: 915, 58
+  xy: 901, 58
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_crr_rs_3380_7_0.png
   rotate: false
-  xy: 783, 2
+  xy: 801, 2
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
@@ -286,14 +300,14 @@ shirt_M_bohotunic_h_drk_rs_3378_1_0.png
   index: -1
 shirt_M_bohotunic_h_drk_rs_3378_2_0.png
   rotate: false
-  xy: 468, 49
+  xy: 483, 49
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_drk_rs_3378_3_0.png
   rotate: false
-  xy: 1018, 4
+  xy: 1005, 4
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
@@ -321,21 +335,21 @@ shirt_M_bohotunic_h_drk_rs_3378_6_0.png
   index: -1
 shirt_M_bohotunic_h_drk_rs_3378_7_0.png
   rotate: false
-  xy: 1235, 4
+  xy: 1224, 4
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_drk_rs_3379_0_0.png
   rotate: false
-  xy: 689, 2
+  xy: 697, 2
   size: 6, 9
   orig: 6, 9
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_drk_rs_3379_1_0.png
   rotate: false
-  xy: 1465, 3
+  xy: 1472, 3
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
@@ -349,21 +363,21 @@ shirt_M_bohotunic_h_drk_rs_3379_2_0.png
   index: -1
 shirt_M_bohotunic_h_drk_rs_3379_3_0.png
   rotate: false
-  xy: 538, 2
+  xy: 549, 2
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_drk_rs_3379_4_0.png
   rotate: false
-  xy: 697, 2
+  xy: 689, 2
   size: 6, 9
   orig: 6, 9
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_drk_rs_3379_5_0.png
   rotate: false
-  xy: 1472, 3
+  xy: 1465, 3
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
@@ -377,7 +391,7 @@ shirt_M_bohotunic_h_drk_rs_3379_6_0.png
   index: -1
 shirt_M_bohotunic_h_drk_rs_3379_7_0.png
   rotate: false
-  xy: 869, 9
+  xy: 888, 57
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
@@ -405,14 +419,14 @@ shirt_M_bohotunic_h_drk_rs_3380_2_0.png
   index: -1
 shirt_M_bohotunic_h_drk_rs_3380_3_0.png
   rotate: false
-  xy: 392, 37
+  xy: 464, 2
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_drk_rs_3380_4_0.png
   rotate: false
-  xy: 1428, 2
+  xy: 1416, 2
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
@@ -426,14 +440,14 @@ shirt_M_bohotunic_h_drk_rs_3380_5_0.png
   index: -1
 shirt_M_bohotunic_h_drk_rs_3380_6_0.png
   rotate: false
-  xy: 1416, 2
+  xy: 1422, 2
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_drk_rs_3380_7_0.png
   rotate: false
-  xy: 801, 2
+  xy: 944, 59
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
@@ -468,21 +482,21 @@ shirt_M_bohotunic_h_lay_ls_3378_2_0.png
   index: -1
 shirt_M_bohotunic_h_lay_ls_3379_2_0.png
   rotate: false
-  xy: 159, 2
+  xy: 164, 2
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_lay_ls_3380_2_0.png
   rotate: false
-  xy: 164, 2
+  xy: 159, 2
   size: 3, 2
   orig: 3, 2
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_lay_rs_3378_2_0.png
   rotate: false
-  xy: 439, 33
+  xy: 452, 49
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
@@ -545,7 +559,7 @@ shirt_M_bohotunic_h_sit_ch_3380_2_0.png
   index: -1
 shirt_M_bohotunic_h_std_ch_3378_0_0.png
   rotate: false
-  xy: 1251, 22
+  xy: 1305, 22
   size: 25, 40
   orig: 25, 40
   offset: 0, 0
@@ -566,14 +580,14 @@ shirt_M_bohotunic_h_std_ch_3378_2_0.png
   index: -1
 shirt_M_bohotunic_h_std_ch_3378_3_0.png
   rotate: false
-  xy: 1114, 23
+  xy: 1142, 23
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_std_ch_3378_7_0.png
   rotate: false
-  xy: 1384, 27
+  xy: 1519, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
@@ -627,6 +641,13 @@ shirt_M_bohotunic_h_std_ch_3380_1_0.png
   orig: 14, 24
   offset: 0, 0
   index: -1
+shirt_M_bohotunic_h_std_ch_3380_2_0.png
+  rotate: false
+  xy: 1724, 27
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
 shirt_M_bohotunic_h_std_ch_3380_3_0.png
   rotate: false
   xy: 229, 35
@@ -636,7 +657,7 @@ shirt_M_bohotunic_h_std_ch_3380_3_0.png
   index: -1
 shirt_M_bohotunic_h_std_ch_3380_7_0.png
   rotate: false
-  xy: 327, 35
+  xy: 304, 35
   size: 21, 27
   orig: 21, 27
   offset: 0, 0
@@ -648,23 +669,16 @@ shirt_M_bohotunic_h_std_ls_3378_1_0.png
   orig: 7, 13
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_std_ls_3378_2_0.png
-  rotate: false
-  xy: 1514, 12
-  size: 5, 13
-  orig: 5, 13
-  offset: 0, 0
-  index: -1
 shirt_M_bohotunic_h_std_ls_3378_3_0.png
   rotate: false
-  xy: 1134, 3
+  xy: 1214, 4
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_std_ls_3378_7_0.png
   rotate: false
-  xy: 1379, 6
+  xy: 1389, 10
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
@@ -676,11 +690,25 @@ shirt_M_bohotunic_h_std_ls_3379_0_0.png
   orig: 1, 3
   offset: 0, 0
   index: -1
+shirt_M_bohotunic_h_std_ls_3379_1_0.png
+  rotate: false
+  xy: 113, 2
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
 shirt_M_bohotunic_h_std_ls_3379_2_0.png
   rotate: false
-  xy: 958, 59
+  xy: 954, 59
   size: 2, 3
   orig: 2, 3
+  offset: 0, 0
+  index: -1
+shirt_M_bohotunic_h_std_ls_3379_7_0.png
+  rotate: false
+  xy: 783, 2
+  size: 4, 3
+  orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_std_ls_3380_0_0.png
@@ -690,23 +718,16 @@ shirt_M_bohotunic_h_std_ls_3380_0_0.png
   orig: 1, 3
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_std_ls_3380_2_0.png
+shirt_M_bohotunic_h_std_ls_3380_1_0.png
   rotate: false
-  xy: 954, 59
-  size: 2, 3
-  orig: 2, 3
-  offset: 0, 0
-  index: -1
-shirt_M_bohotunic_h_std_ls_3380_7_0.png
-  rotate: false
-  xy: 795, 2
-  size: 4, 3
-  orig: 4, 3
+  xy: 121, 2
+  size: 6, 3
+  orig: 6, 3
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_std_rs_3378_0_0.png
   rotate: false
-  xy: 443, 13
+  xy: 1080, 3
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
@@ -727,58 +748,37 @@ shirt_M_bohotunic_h_std_rs_3378_2_0.png
   index: -1
 shirt_M_bohotunic_h_std_rs_3378_3_0.png
   rotate: false
-  xy: 1246, 3
+  xy: 1256, 3
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_std_rs_3378_7_0.png
   rotate: false
-  xy: 1389, 10
+  xy: 1369, 6
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_std_rs_3379_0_0.png
   rotate: false
-  xy: 861, 9
+  xy: 848, 57
   size: 6, 5
   orig: 6, 5
-  offset: 0, 0
-  index: -1
-shirt_M_bohotunic_h_std_rs_3379_1_0.png
-  rotate: false
-  xy: 113, 2
-  size: 6, 3
-  orig: 6, 3
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_std_rs_3379_2_0.png
   rotate: false
-  xy: 872, 57
+  xy: 880, 57
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_std_rs_3379_7_0.png
-  rotate: false
-  xy: 789, 2
-  size: 4, 3
-  orig: 4, 3
-  offset: 0, 0
-  index: -1
 shirt_M_bohotunic_h_std_rs_3380_0_0.png
   rotate: false
-  xy: 482, 2
+  xy: 884, 10
   size: 6, 4
   orig: 6, 4
-  offset: 0, 0
-  index: -1
-shirt_M_bohotunic_h_std_rs_3380_1_0.png
-  rotate: false
-  xy: 156, 28
-  size: 6, 3
-  orig: 6, 3
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_std_rs_3380_2_0.png
@@ -788,7 +788,14 @@ shirt_M_bohotunic_h_std_rs_3380_2_0.png
   orig: 6, 4
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_wav_ls_3378_0_1.png
+shirt_M_bohotunic_h_std_rs_3380_3_0.png
+  rotate: false
+  xy: 795, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shirt_M_bohotunic_h_wav_ls_3378_0_0.png
   rotate: false
   xy: 956, 2
   size: 11, 14
@@ -823,7 +830,7 @@ shirt_M_bohotunic_h_wav_ls_3378_2_1.png
   orig: 13, 12
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_wav_ls_3378_3_1.png
+shirt_M_bohotunic_h_wav_ls_3378_3_0.png
   rotate: false
   xy: 980, 3
   size: 11, 16
@@ -839,14 +846,14 @@ shirt_M_bohotunic_h_wav_ls_3378_4_1.png
   index: -1
 shirt_M_bohotunic_h_wav_ls_3378_5_0.png
   rotate: false
-  xy: 452, 49
+  xy: 439, 33
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wav_ls_3378_5_1.png
   rotate: false
-  xy: 483, 49
+  xy: 468, 49
   size: 13, 13
   orig: 13, 13
   offset: 0, 0
@@ -902,7 +909,7 @@ shirt_M_bohotunic_h_wav_ls_3379_1_0.png
   index: -1
 shirt_M_bohotunic_h_wav_ls_3379_1_1.png
   rotate: false
-  xy: 775, 7
+  xy: 757, 7
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
@@ -916,14 +923,14 @@ shirt_M_bohotunic_h_wav_ls_3379_2_0.png
   index: -1
 shirt_M_bohotunic_h_wav_ls_3379_3_0.png
   rotate: false
-  xy: 714, 4
+  xy: 705, 4
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wav_ls_3379_3_1.png
   rotate: false
-  xy: 705, 4
+  xy: 714, 4
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
@@ -944,14 +951,14 @@ shirt_M_bohotunic_h_wav_ls_3379_4_1.png
   index: -1
 shirt_M_bohotunic_h_wav_ls_3379_5_0.png
   rotate: false
-  xy: 549, 2
+  xy: 538, 2
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wav_ls_3379_5_1.png
   rotate: false
-  xy: 490, 2
+  xy: 514, 2
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
@@ -986,7 +993,7 @@ shirt_M_bohotunic_h_wav_ls_3379_7_1.png
   index: -1
 shirt_M_bohotunic_h_wav_ls_3380_0_1.png
   rotate: false
-  xy: 840, 57
+  xy: 853, 9
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
@@ -1000,12 +1007,12 @@ shirt_M_bohotunic_h_wav_ls_3380_1_0.png
   index: -1
 shirt_M_bohotunic_h_wav_ls_3380_1_1.png
   rotate: false
-  xy: 920, 10
+  xy: 928, 58
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_wav_ls_3380_2_0.png
+shirt_M_bohotunic_h_wav_ls_3380_2_1.png
   rotate: false
   xy: 792, 7
   size: 6, 6
@@ -1014,12 +1021,12 @@ shirt_M_bohotunic_h_wav_ls_3380_2_0.png
   index: -1
 shirt_M_bohotunic_h_wav_ls_3380_3_1.png
   rotate: false
-  xy: 892, 10
+  xy: 907, 4
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_wav_ls_3380_4_1.png
+shirt_M_bohotunic_h_wav_ls_3380_4_0.png
   rotate: false
   xy: 718, 56
   size: 8, 6
@@ -1028,7 +1035,7 @@ shirt_M_bohotunic_h_wav_ls_3380_4_1.png
   index: -1
 shirt_M_bohotunic_h_wav_ls_3380_5_0.png
   rotate: false
-  xy: 844, 9
+  xy: 848, 2
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
@@ -1049,49 +1056,49 @@ shirt_M_bohotunic_h_wav_ls_3380_6_0.png
   index: -1
 shirt_M_bohotunic_h_wav_ls_3380_6_1.png
   rotate: false
-  xy: 1422, 2
+  xy: 1428, 2
   size: 4, 7
   orig: 4, 7
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wav_ls_3380_7_0.png
   rotate: false
-  xy: 826, 9
+  xy: 839, 2
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wav_ls_3380_7_1.png
   rotate: false
-  xy: 821, 2
+  xy: 844, 9
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_0_0.png
   rotate: false
-  xy: 1142, 23
+  xy: 809, 16
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_0_1.png
   rotate: false
-  xy: 752, 15
+  xy: 723, 15
   size: 27, 39
   orig: 27, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_0_2.png
   rotate: false
-  xy: 1305, 22
+  xy: 1251, 22
   size: 25, 40
   orig: 25, 40
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_0_3.png
   rotate: false
-  xy: 1278, 22
+  xy: 1224, 22
   size: 25, 40
   orig: 25, 40
   offset: 0, 0
@@ -1126,14 +1133,14 @@ shirt_M_bohotunic_h_wlk_ch_3378_1_3.png
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_2_0.png
   rotate: false
-  xy: 1004, 21
+  xy: 977, 21
   size: 25, 41
   orig: 25, 41
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_2_1.png
   rotate: false
-  xy: 977, 21
+  xy: 1004, 21
   size: 25, 41
   orig: 25, 41
   offset: 0, 0
@@ -1154,56 +1161,56 @@ shirt_M_bohotunic_h_wlk_ch_3378_2_3.png
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_3_0.png
   rotate: false
-  xy: 865, 16
+  xy: 949, 18
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_3_1.png
   rotate: false
-  xy: 837, 16
+  xy: 1086, 23
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_3_2.png
   rotate: false
-  xy: 809, 16
+  xy: 1058, 23
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_3_3.png
   rotate: false
-  xy: 893, 16
+  xy: 1114, 23
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_7_0.png
   rotate: false
-  xy: 1546, 27
+  xy: 1600, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_7_1.png
   rotate: false
-  xy: 1519, 27
+  xy: 1546, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_7_2.png
   rotate: false
-  xy: 1492, 27
+  xy: 1573, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3378_7_3.png
   rotate: false
-  xy: 1411, 27
+  xy: 1438, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
@@ -1238,7 +1245,7 @@ shirt_M_bohotunic_h_wlk_ch_3379_0_3.png
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_1_0.png
   rotate: false
-  xy: 1895, 26
+  xy: 1915, 26
   size: 18, 36
   orig: 18, 36
   offset: 0, 0
@@ -1252,7 +1259,7 @@ shirt_M_bohotunic_h_wlk_ch_3379_1_1.png
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_1_2.png
   rotate: false
-  xy: 1915, 26
+  xy: 1895, 26
   size: 18, 36
   orig: 18, 36
   offset: 0, 0
@@ -1273,7 +1280,7 @@ shirt_M_bohotunic_h_wlk_ch_3379_2_0.png
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_2_1.png
   rotate: false
-  xy: 1224, 22
+  xy: 1278, 22
   size: 25, 40
   orig: 25, 40
   offset: 0, 0
@@ -1287,63 +1294,63 @@ shirt_M_bohotunic_h_wlk_ch_3379_2_2.png
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_2_3.png
   rotate: false
-  xy: 723, 15
+  xy: 752, 15
   size: 27, 39
   orig: 27, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_3_0.png
   rotate: false
-  xy: 949, 18
+  xy: 921, 17
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_3_1.png
   rotate: false
-  xy: 921, 17
+  xy: 893, 16
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_3_2.png
   rotate: false
-  xy: 1086, 23
+  xy: 865, 16
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_3_3.png
   rotate: false
-  xy: 1058, 23
+  xy: 837, 16
   size: 26, 39
   orig: 26, 39
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_7_0.png
   rotate: false
-  xy: 1600, 27
+  xy: 1465, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_7_1.png
   rotate: false
-  xy: 1573, 27
+  xy: 1492, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_7_2.png
   rotate: false
-  xy: 1465, 27
+  xy: 1384, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3379_7_3.png
   rotate: false
-  xy: 1438, 27
+  xy: 1411, 27
   size: 25, 35
   orig: 25, 35
   offset: 0, 0
@@ -1378,7 +1385,7 @@ shirt_M_bohotunic_h_wlk_ch_3380_0_3.png
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3380_1_0.png
   rotate: false
-  xy: 67, 2
+  xy: 50, 2
   size: 15, 24
   orig: 15, 24
   offset: 0, 0
@@ -1392,7 +1399,7 @@ shirt_M_bohotunic_h_wlk_ch_3380_1_1.png
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3380_1_2.png
   rotate: false
-  xy: 50, 2
+  xy: 67, 2
   size: 15, 24
   orig: 15, 24
   offset: 0, 0
@@ -1418,13 +1425,6 @@ shirt_M_bohotunic_h_wlk_ch_3380_2_1.png
   orig: 21, 35
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_wlk_ch_3380_2_2.png
-  rotate: false
-  xy: 1724, 27
-  size: 21, 35
-  orig: 21, 35
-  offset: 0, 0
-  index: -1
 shirt_M_bohotunic_h_wlk_ch_3380_2_3.png
   rotate: false
   xy: 1677, 28
@@ -1434,14 +1434,14 @@ shirt_M_bohotunic_h_wlk_ch_3380_2_3.png
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3380_3_0.png
   rotate: false
-  xy: 289, 6
+  xy: 279, 35
   size: 23, 27
   orig: 23, 27
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3380_3_1.png
   rotate: false
-  xy: 279, 35
+  xy: 289, 6
   size: 23, 27
   orig: 23, 27
   offset: 0, 0
@@ -1455,14 +1455,21 @@ shirt_M_bohotunic_h_wlk_ch_3380_3_2.png
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3380_3_3.png
   rotate: false
-  xy: 304, 35
+  xy: 358, 6
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+shirt_M_bohotunic_h_wlk_ch_3380_7_0.png
+  rotate: false
+  xy: 335, 6
   size: 21, 27
   orig: 21, 27
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ch_3380_7_1.png
   rotate: false
-  xy: 358, 6
+  xy: 327, 35
   size: 21, 27
   orig: 21, 27
   offset: 0, 0
@@ -1474,25 +1481,18 @@ shirt_M_bohotunic_h_wlk_ch_3380_7_2.png
   orig: 21, 27
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_wlk_ch_3380_7_3.png
-  rotate: false
-  xy: 335, 6
-  size: 21, 27
-  orig: 21, 27
-  offset: 0, 0
-  index: -1
-shirt_M_bohotunic_h_wlk_ls_3378_0_0.png
-  rotate: false
-  xy: 1493, 11
-  size: 5, 14
-  orig: 5, 14
-  offset: 0, 0
-  index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_0_1.png
   rotate: false
-  xy: 1447, 10
+  xy: 1456, 10
   size: 7, 15
   orig: 7, 15
+  offset: 0, 0
+  index: -1
+shirt_M_bohotunic_h_wlk_ls_3378_0_2.png
+  rotate: false
+  xy: 1507, 11
+  size: 5, 14
+  orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_0_3.png
@@ -1504,7 +1504,7 @@ shirt_M_bohotunic_h_wlk_ls_3378_0_3.png
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_1_0.png
   rotate: false
-  xy: 1347, 6
+  xy: 1358, 7
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
@@ -1518,7 +1518,7 @@ shirt_M_bohotunic_h_wlk_ls_3378_1_1.png
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_1_2.png
   rotate: false
-  xy: 1358, 7
+  xy: 1347, 6
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
@@ -1532,21 +1532,21 @@ shirt_M_bohotunic_h_wlk_ls_3378_1_3.png
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_2_0.png
   rotate: false
-  xy: 1500, 11
+  xy: 1493, 11
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_2_1.png
   rotate: false
-  xy: 1456, 10
+  xy: 1447, 10
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_2_2.png
   rotate: false
-  xy: 1507, 11
+  xy: 1500, 11
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
@@ -1560,7 +1560,7 @@ shirt_M_bohotunic_h_wlk_ls_3378_2_3.png
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_3_0.png
   rotate: false
-  xy: 1164, 3
+  xy: 1154, 3
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
@@ -1581,126 +1581,126 @@ shirt_M_bohotunic_h_wlk_ls_3378_3_2.png
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_3_3.png
   rotate: false
-  xy: 1214, 4
+  xy: 1144, 3
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_7_0.png
   rotate: false
-  xy: 1296, 3
+  xy: 1276, 3
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_7_1.png
   rotate: false
-  xy: 1326, 4
+  xy: 1316, 4
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_7_2.png
   rotate: false
-  xy: 1286, 3
+  xy: 1266, 3
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3378_7_3.png
   rotate: false
-  xy: 1124, 3
+  xy: 1114, 3
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_0_1.png
   rotate: false
-  xy: 873, 2
+  xy: 869, 9
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_0_2.png
   rotate: false
-  xy: 895, 57
+  xy: 894, 3
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_0_3.png
   rotate: false
-  xy: 839, 2
+  xy: 835, 9
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_1_0.png
   rotate: false
-  xy: 617, 2
+  xy: 606, 2
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_1_1.png
   rotate: false
-  xy: 660, 2
+  xy: 148, 2
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_1_2.png
   rotate: false
-  xy: 794, 57
+  xy: 628, 2
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_1_3.png
   rotate: false
-  xy: 685, 56
+  xy: 137, 2
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_2_0.png
   rotate: false
-  xy: 880, 2
+  xy: 887, 2
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_2_1.png
   rotate: false
-  xy: 738, 56
+  xy: 756, 56
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_2_2.png
   rotate: false
-  xy: 888, 57
+  xy: 873, 2
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_wlk_ls_3379_2_3.png
-  rotate: false
-  xy: 127, 7
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_3_0.png
   rotate: false
-  xy: 857, 2
+  xy: 872, 57
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_wlk_ls_3379_3_2.png
+shirt_M_bohotunic_h_wlk_ls_3379_3_1.png
   rotate: false
   xy: 831, 57
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+shirt_M_bohotunic_h_wlk_ls_3379_3_2.png
+  rotate: false
+  xy: 822, 57
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
@@ -1714,33 +1714,33 @@ shirt_M_bohotunic_h_wlk_ls_3379_3_3.png
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_7_0.png
   rotate: false
-  xy: 835, 9
+  xy: 817, 9
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_7_1.png
   rotate: false
-  xy: 756, 56
+  xy: 766, 7
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3379_7_2.png
   rotate: false
-  xy: 830, 2
+  xy: 821, 2
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_wlk_ls_3380_0_0.png
+shirt_M_bohotunic_h_wlk_ls_3380_0_1.png
   rotate: false
   xy: 931, 12
   size: 2, 3
   orig: 2, 3
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_wlk_ls_3380_0_1.png
+shirt_M_bohotunic_h_wlk_ls_3380_0_2.png
   rotate: false
   xy: 950, 59
   size: 2, 3
@@ -1749,21 +1749,21 @@ shirt_M_bohotunic_h_wlk_ls_3380_0_1.png
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3380_0_3.png
   rotate: false
-  xy: 901, 58
+  xy: 892, 10
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3380_1_0.png
   rotate: false
-  xy: 121, 2
+  xy: 156, 28
   size: 6, 3
   orig: 6, 3
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3380_1_1.png
   rotate: false
-  xy: 813, 2
+  xy: 482, 2
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
@@ -1777,21 +1777,21 @@ shirt_M_bohotunic_h_wlk_ls_3380_1_2.png
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3380_1_3.png
   rotate: false
-  xy: 822, 57
+  xy: 804, 57
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3380_2_0.png
   rotate: false
-  xy: 939, 58
+  xy: 934, 58
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3380_2_1.png
   rotate: false
-  xy: 913, 10
+  xy: 915, 58
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
@@ -1803,16 +1803,23 @@ shirt_M_bohotunic_h_wlk_ls_3380_2_2.png
   orig: 3, 3
   offset: 0, 0
   index: -1
+shirt_M_bohotunic_h_wlk_ls_3380_2_3.png
+  rotate: false
+  xy: 127, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 shirt_M_bohotunic_h_wlk_ls_3380_3_3.png
   rotate: false
-  xy: 928, 58
+  xy: 922, 58
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3380_7_0.png
   rotate: false
-  xy: 769, 2
+  xy: 776, 2
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
@@ -1826,14 +1833,14 @@ shirt_M_bohotunic_h_wlk_ls_3380_7_1.png
   index: -1
 shirt_M_bohotunic_h_wlk_ls_3380_7_2.png
   rotate: false
-  xy: 776, 2
+  xy: 769, 2
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3378_0_0.png
   rotate: false
-  xy: 1044, 3
+  xy: 1056, 3
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
@@ -1847,7 +1854,7 @@ shirt_M_bohotunic_h_wlk_rs_3378_0_1.png
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3378_0_2.png
   rotate: false
-  xy: 1056, 3
+  xy: 1044, 3
   size: 10, 16
   orig: 10, 16
   offset: 0, 0
@@ -1882,7 +1889,7 @@ shirt_M_bohotunic_h_wlk_rs_3378_1_2.png
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3378_1_3.png
   rotate: false
-  xy: 1005, 4
+  xy: 1018, 4
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
@@ -1917,119 +1924,119 @@ shirt_M_bohotunic_h_wlk_rs_3378_2_3.png
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3378_3_0.png
   rotate: false
-  xy: 1184, 2
+  xy: 1174, 2
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3378_3_1.png
   rotate: false
-  xy: 1154, 3
+  xy: 1124, 3
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3378_3_2.png
   rotate: false
-  xy: 1144, 3
+  xy: 1134, 3
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3378_3_3.png
   rotate: false
-  xy: 1174, 2
+  xy: 1184, 2
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3378_7_0.png
   rotate: false
-  xy: 1266, 3
+  xy: 1306, 3
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3378_7_1.png
   rotate: false
-  xy: 1114, 3
+  xy: 1164, 3
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3378_7_2.png
   rotate: false
-  xy: 1276, 3
+  xy: 1296, 3
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3378_7_3.png
   rotate: false
-  xy: 1316, 4
+  xy: 1326, 4
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_0_0.png
   rotate: false
-  xy: 526, 2
+  xy: 490, 2
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_0_1.png
   rotate: false
-  xy: 514, 2
+  xy: 502, 2
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_0_2.png
   rotate: false
-  xy: 707, 56
+  xy: 638, 2
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_0_3.png
   rotate: false
-  xy: 696, 56
+  xy: 649, 2
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_1_0.png
   rotate: false
-  xy: 784, 57
+  xy: 794, 57
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_1_1.png
   rotate: false
-  xy: 649, 2
+  xy: 660, 2
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_1_2.png
   rotate: false
-  xy: 606, 2
+  xy: 617, 2
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_1_3.png
   rotate: false
-  xy: 638, 2
+  xy: 685, 56
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_2_0.png
   rotate: false
-  xy: 148, 2
+  xy: 707, 56
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
@@ -2050,7 +2057,7 @@ shirt_M_bohotunic_h_wlk_rs_3379_2_2.png
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_2_3.png
   rotate: false
-  xy: 502, 2
+  xy: 526, 2
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
@@ -2064,49 +2071,42 @@ shirt_M_bohotunic_h_wlk_rs_3379_3_1.png
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_7_0.png
   rotate: false
-  xy: 804, 57
-  size: 7, 5
-  orig: 7, 5
-  offset: 0, 0
-  index: -1
-shirt_M_bohotunic_h_wlk_rs_3379_7_1.png
-  rotate: false
-  xy: 808, 8
+  xy: 826, 9
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_7_2.png
   rotate: false
-  xy: 813, 57
+  xy: 830, 2
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3379_7_3.png
   rotate: false
-  xy: 747, 56
+  xy: 775, 7
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
-shirt_M_bohotunic_h_wlk_rs_3380_0_1.png
+shirt_M_bohotunic_h_wlk_rs_3380_0_0.png
   rotate: false
-  xy: 774, 57
-  size: 8, 5
-  orig: 8, 5
-  offset: 0, 0
-  index: -1
-shirt_M_bohotunic_h_wlk_rs_3380_0_3.png
-  rotate: false
-  xy: 464, 2
+  xy: 401, 37
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
+shirt_M_bohotunic_h_wlk_rs_3380_0_1.png
+  rotate: false
+  xy: 784, 57
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
 shirt_M_bohotunic_h_wlk_rs_3380_1_1.png
   rotate: false
-  xy: 848, 2
+  xy: 813, 57
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
@@ -2120,61 +2120,61 @@ shirt_M_bohotunic_h_wlk_rs_3380_1_2.png
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3380_1_3.png
   rotate: false
-  xy: 884, 10
+  xy: 813, 2
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3380_2_0.png
   rotate: false
-  xy: 455, 2
+  xy: 392, 37
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3380_2_1.png
   rotate: false
-  xy: 766, 7
+  xy: 748, 7
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3380_2_2.png
   rotate: false
-  xy: 817, 9
+  xy: 808, 8
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3380_2_3.png
   rotate: false
-  xy: 628, 2
+  xy: 774, 57
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
+shirt_M_bohotunic_h_wlk_rs_3380_3_0.png
+  rotate: false
+  xy: 748, 2
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
 shirt_M_bohotunic_h_wlk_rs_3380_3_1.png
   rotate: false
-  xy: 922, 58
+  xy: 924, 4
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3380_3_2.png
   rotate: false
-  xy: 807, 2
+  xy: 789, 2
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3380_7_0.png
-  rotate: false
-  xy: 755, 2
-  size: 5, 3
-  orig: 5, 3
-  offset: 0, 0
-  index: -1
-shirt_M_bohotunic_h_wlk_rs_3380_7_1.png
   rotate: false
   xy: 762, 2
   size: 5, 3
@@ -2183,14 +2183,14 @@ shirt_M_bohotunic_h_wlk_rs_3380_7_1.png
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3380_7_2.png
   rotate: false
-  xy: 748, 2
+  xy: 755, 2
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 shirt_M_bohotunic_h_wlk_rs_3380_7_3.png
   rotate: false
-  xy: 899, 10
+  xy: 908, 58
   size: 5, 4
   orig: 5, 4
   offset: 0, 0

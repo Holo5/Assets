@@ -1,0 +1,20 @@
+
+xmsglr.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmsglr_xmsglr_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 133
+  orig: 46, 133
+  offset: 0, 0
+  index: -1
+xmsglr_xmsglr_icon_a.png
+  rotate: false
+  xy: 50, 105
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1

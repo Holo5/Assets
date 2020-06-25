@@ -1,0 +1,27 @@
+
+halloween17_pillow.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+halloween17_pillow_halloween17_pillow_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 72, 41
+  orig: 72, 41
+  offset: 0, 0
+  index: -1
+halloween17_pillow_halloween17_pillow_64_sd_0_0.png
+  rotate: false
+  xy: 76, 8
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+halloween17_pillow_halloween17_pillow_icon_a.png
+  rotate: false
+  xy: 150, 24
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1

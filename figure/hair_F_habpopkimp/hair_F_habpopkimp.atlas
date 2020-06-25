@@ -1,0 +1,258 @@
+
+hair_F_habpopkimp.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_F_habpopkimp_h_lay_hr_1920_2_0.png
+  rotate: false
+  xy: 338, 48
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_lay_hr_1921_2_0.png
+  rotate: false
+  xy: 443, 71
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_lay_hrb_1920_2_0.png
+  rotate: false
+  xy: 45, 13
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_lay_hrb_1921_2_0.png
+  rotate: false
+  xy: 318, 48
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hr_1920_0_0.png
+  rotate: false
+  xy: 403, 71
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hr_1920_1_0.png
+  rotate: false
+  xy: 403, 107
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hr_1920_2_0.png
+  rotate: false
+  xy: 423, 71
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hr_1920_3_0.png
+  rotate: false
+  xy: 383, 71
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hr_1920_7_0.png
+  rotate: false
+  xy: 358, 48
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hr_1921_0_0.png
+  rotate: false
+  xy: 383, 107
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hr_1921_1_0.png
+  rotate: false
+  xy: 423, 89
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hr_1921_2_0.png
+  rotate: false
+  xy: 463, 71
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hr_1921_3_0.png
+  rotate: false
+  xy: 483, 89
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hrb_1920_0_0.png
+  rotate: false
+  xy: 278, 66
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hrb_1920_1_0.png
+  rotate: false
+  xy: 150, 60
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hrb_1920_2_0.png
+  rotate: false
+  xy: 2, 61
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hrb_1920_3_0.png
+  rotate: false
+  xy: 198, 54
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hrb_1920_7_0.png
+  rotate: false
+  xy: 321, 66
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hrb_1921_2_0.png
+  rotate: false
+  xy: 403, 89
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_spk_hrb_1921_3_0.png
+  rotate: false
+  xy: 423, 107
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hr_1920_0_0.png
+  rotate: false
+  xy: 95, 42
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hr_1920_1_0.png
+  rotate: false
+  xy: 115, 42
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hr_1920_2_0.png
+  rotate: false
+  xy: 298, 48
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hr_1920_3_0.png
+  rotate: false
+  xy: 278, 48
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hr_1920_7_0.png
+  rotate: false
+  xy: 463, 107
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hr_1921_0_0.png
+  rotate: false
+  xy: 443, 89
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hr_1921_1_0.png
+  rotate: false
+  xy: 443, 107
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hr_1921_2_0.png
+  rotate: false
+  xy: 483, 107
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hr_1921_7_0.png
+  rotate: false
+  xy: 383, 89
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hrb_1920_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hrb_1920_1_0.png
+  rotate: false
+  xy: 102, 60
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hrb_1920_2_0.png
+  rotate: false
+  xy: 52, 61
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hrb_1920_3_0.png
+  rotate: false
+  xy: 238, 54
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hrb_1920_7_0.png
+  rotate: false
+  xy: 352, 66
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hrb_1921_0_0.png
+  rotate: false
+  xy: 483, 71
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair_F_habpopkimp_h_std_hrb_1921_1_0.png
+  rotate: false
+  xy: 463, 89
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1

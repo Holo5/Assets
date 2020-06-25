@@ -6,9 +6,23 @@ filter: Nearest,Nearest
 repeat: none
 hat_U_brain_h_lay_ha_3262_2_0.png
   rotate: false
-  xy: 115, 5
+  xy: 141, 5
   size: 21, 24
   orig: 21, 24
+  offset: 0, 0
+  index: -1
+hat_U_brain_h_spk_ha_3262_3_0.png
+  rotate: false
+  xy: 115, 11
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+hat_U_brain_h_spk_ha_3262_7_0.png
+  rotate: false
+  xy: 31, 5
+  size: 24, 24
+  orig: 24, 24
   offset: 0, 0
   index: -1
 hat_U_brain_h_std_ha_3262_0_0.png
@@ -20,29 +34,15 @@ hat_U_brain_h_std_ha_3262_0_0.png
   index: -1
 hat_U_brain_h_std_ha_3262_1_0.png
   rotate: false
-  xy: 60, 10
+  xy: 86, 10
   size: 27, 19
   orig: 27, 19
   offset: 0, 0
   index: -1
 hat_U_brain_h_std_ha_3262_2_0.png
   rotate: false
-  xy: 31, 8
+  xy: 57, 8
   size: 27, 21
   orig: 27, 21
-  offset: 0, 0
-  index: -1
-hat_U_brain_h_std_ha_3262_3_0.png
-  rotate: false
-  xy: 138, 11
-  size: 24, 18
-  orig: 24, 18
-  offset: 0, 0
-  index: -1
-hat_U_brain_h_std_ha_3262_7_0.png
-  rotate: false
-  xy: 89, 5
-  size: 24, 24
-  orig: 24, 24
   offset: 0, 0
   index: -1

@@ -20,7 +20,7 @@ hat_U_mini_bowlerhat_dark_h_lsp_ha_3116_2_0.png
   index: -1
 hat_U_mini_bowlerhat_dark_h_spk_ha_3116_0_0.png
   rotate: false
-  xy: 2, 166
+  xy: 2, 208
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
@@ -34,14 +34,14 @@ hat_U_mini_bowlerhat_dark_h_spk_ha_3116_1_0.png
   index: -1
 hat_U_mini_bowlerhat_dark_h_spk_ha_3116_2_0.png
   rotate: false
-  xy: 2, 103
+  xy: 2, 166
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 hat_U_mini_bowlerhat_dark_h_spk_ha_3116_3_0.png
   rotate: false
-  xy: 2, 124
+  xy: 2, 229
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
@@ -55,7 +55,7 @@ hat_U_mini_bowlerhat_dark_h_spk_ha_3116_7_0.png
   index: -1
 hat_U_mini_bowlerhat_dark_h_std_ha_3116_0_0.png
   rotate: false
-  xy: 2, 229
+  xy: 2, 187
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
@@ -69,21 +69,21 @@ hat_U_mini_bowlerhat_dark_h_std_ha_3116_1_0.png
   index: -1
 hat_U_mini_bowlerhat_dark_h_std_ha_3116_2_0.png
   rotate: false
-  xy: 2, 187
+  xy: 2, 145
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 hat_U_mini_bowlerhat_dark_h_std_ha_3116_3_0.png
   rotate: false
-  xy: 2, 208
+  xy: 2, 103
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 hat_U_mini_bowlerhat_dark_h_std_ha_3116_7_0.png
   rotate: false
-  xy: 2, 145
+  xy: 2, 124
   size: 22, 19
   orig: 22, 19
   offset: 0, 0

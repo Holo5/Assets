@@ -4,45 +4,45 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hat_U_cow_h_lsp_ha_2969_2_0.png
+hat_U_cow_h_lay_ha_2969_2_0.png
   rotate: false
   xy: 76, 35
   size: 30, 27
   orig: 30, 27
   offset: 0, 0
   index: -1
-hat_U_cow_h_spk_ha_2969_0_0.png
-  rotate: false
-  xy: 2, 35
-  size: 36, 27
-  orig: 36, 27
-  offset: 0, 0
-  index: -1
-hat_U_cow_h_spk_ha_2969_1_0.png
-  rotate: false
-  xy: 72, 9
-  size: 30, 24
-  orig: 30, 24
-  offset: 0, 0
-  index: -1
-hat_U_cow_h_spk_ha_2969_2_0.png
-  rotate: false
-  xy: 2, 2
-  size: 32, 31
-  orig: 32, 31
-  offset: 0, 0
-  index: -1
-hat_U_cow_h_std_ha_2969_3_0.png
+hat_U_cow_h_spk_ha_2969_3_0.png
   rotate: false
   xy: 40, 35
   size: 34, 27
   orig: 34, 27
   offset: 0, 0
   index: -1
-hat_U_cow_h_std_ha_2969_7_0.png
+hat_U_cow_h_spk_ha_2969_7_0.png
   rotate: false
   xy: 36, 8
   size: 34, 25
   orig: 34, 25
+  offset: 0, 0
+  index: -1
+hat_U_cow_h_std_ha_2969_0_0.png
+  rotate: false
+  xy: 2, 35
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+hat_U_cow_h_std_ha_2969_1_0.png
+  rotate: false
+  xy: 72, 9
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+hat_U_cow_h_std_ha_2969_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 31
+  orig: 32, 31
   offset: 0, 0
   index: -1

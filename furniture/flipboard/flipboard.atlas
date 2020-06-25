@@ -1,0 +1,76 @@
+
+flipboard.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+flipboard_flipboard_64_a_2_0.png
+  rotate: false
+  xy: 188, 5
+  size: 184, 220
+  orig: 184, 220
+  offset: 0, 0
+  index: -1
+flipboard_flipboard_64_a_2_1.png
+  rotate: false
+  xy: 374, 5
+  size: 184, 220
+  orig: 184, 220
+  offset: 0, 0
+  index: -1
+flipboard_flipboard_64_a_2_2.png
+  rotate: false
+  xy: 560, 5
+  size: 184, 220
+  orig: 184, 220
+  offset: 0, 0
+  index: -1
+flipboard_flipboard_64_a_2_3.png
+  rotate: false
+  xy: 746, 5
+  size: 184, 220
+  orig: 184, 220
+  offset: 0, 0
+  index: -1
+flipboard_flipboard_64_a_2_4.png
+  rotate: false
+  xy: 932, 5
+  size: 184, 220
+  orig: 184, 220
+  offset: 0, 0
+  index: -1
+flipboard_flipboard_64_a_2_5.png
+  rotate: false
+  xy: 1118, 5
+  size: 184, 220
+  orig: 184, 220
+  offset: 0, 0
+  index: -1
+flipboard_flipboard_64_a_2_6.png
+  rotate: false
+  xy: 1304, 5
+  size: 184, 220
+  orig: 184, 220
+  offset: 0, 0
+  index: -1
+flipboard_flipboard_64_a_2_7.png
+  rotate: false
+  xy: 1490, 5
+  size: 184, 220
+  orig: 184, 220
+  offset: 0, 0
+  index: -1
+flipboard_flipboard_64_a_2_8.png
+  rotate: false
+  xy: 2, 5
+  size: 184, 220
+  orig: 184, 220
+  offset: 0, 0
+  index: -1
+flipboard_flipboard_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -11,6 +11,20 @@ acc_eye_U_gold10_h_lay_ea_3293_2_0.png
   orig: 24, 23
   offset: 0, 0
   index: -1
+acc_eye_U_gold10_h_spk_ea_3293_1_0.png
+  rotate: false
+  xy: 90, 16
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+acc_eye_U_gold10_h_spk_ea_3293_3_0.png
+  rotate: false
+  xy: 60, 16
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
 acc_eye_U_gold10_h_spk_ea_3293_7_0.png
   rotate: false
   xy: 116, 27
@@ -25,24 +39,10 @@ acc_eye_U_gold10_h_std_ea_3293_0_0.png
   orig: 17, 12
   offset: 0, 0
   index: -1
-acc_eye_U_gold10_h_std_ea_3293_1_0.png
-  rotate: false
-  xy: 90, 16
-  size: 24, 12
-  orig: 24, 12
-  offset: 0, 0
-  index: -1
 acc_eye_U_gold10_h_std_ea_3293_2_0.png
   rotate: false
   xy: 28, 11
   size: 30, 17
   orig: 30, 17
-  offset: 0, 0
-  index: -1
-acc_eye_U_gold10_h_std_ea_3293_3_0.png
-  rotate: false
-  xy: 60, 16
-  size: 28, 12
-  orig: 28, 12
   offset: 0, 0
   index: -1

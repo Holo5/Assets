@@ -1,0 +1,20 @@
+
+calippo_egg.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+calippo_egg_calippo_egg_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+calippo_egg_calippo_egg_icon_a.png
+  rotate: false
+  xy: 54, 30
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1

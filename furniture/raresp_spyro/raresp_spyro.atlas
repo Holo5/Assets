@@ -1,0 +1,20 @@
+
+raresp_spyro.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+raresp_spyro_raresp_spyro_64_a_0_0.png
+  rotate: false
+  xy: 2, 37
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+raresp_spyro_raresp_spyro_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1

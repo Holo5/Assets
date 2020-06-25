@@ -1,0 +1,41 @@
+
+rare_luminia_fountain.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_luminia_fountain_rare_luminia_fountain_64_a_4_0.png
+  rotate: false
+  xy: 2, 38
+  size: 103, 149
+  orig: 103, 149
+  offset: 0, 0
+  index: -1
+rare_luminia_fountain_rare_luminia_fountain_64_a_4_1.png
+  rotate: false
+  xy: 107, 38
+  size: 103, 149
+  orig: 103, 149
+  offset: 0, 0
+  index: -1
+rare_luminia_fountain_rare_luminia_fountain_64_a_4_2.png
+  rotate: false
+  xy: 317, 38
+  size: 103, 149
+  orig: 103, 149
+  offset: 0, 0
+  index: -1
+rare_luminia_fountain_rare_luminia_fountain_64_a_4_4.png
+  rotate: false
+  xy: 212, 38
+  size: 103, 149
+  orig: 103, 149
+  offset: 0, 0
+  index: -1
+rare_luminia_fountain_rare_luminia_fountain_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1

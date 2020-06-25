@@ -1,0 +1,62 @@
+
+st_hearthdragi.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_hearthdragi_st_hearthdragi_64_a_2_0.png
+  rotate: false
+  xy: 89, 158
+  size: 85, 96
+  orig: 85, 96
+  offset: 0, 0
+  index: -1
+st_hearthdragi_st_hearthdragi_64_a_2_1.png
+  rotate: false
+  xy: 176, 157
+  size: 76, 97
+  orig: 76, 97
+  offset: 0, 0
+  index: -1
+st_hearthdragi_st_hearthdragi_64_a_2_2.png
+  rotate: false
+  xy: 254, 160
+  size: 75, 94
+  orig: 75, 94
+  offset: 0, 0
+  index: -1
+st_hearthdragi_st_hearthdragi_64_a_2_3.png
+  rotate: false
+  xy: 331, 163
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+st_hearthdragi_st_hearthdragi_64_a_2_4.png
+  rotate: false
+  xy: 403, 163
+  size: 65, 91
+  orig: 65, 91
+  offset: 0, 0
+  index: -1
+st_hearthdragi_st_hearthdragi_64_a_2_5.png
+  rotate: false
+  xy: 2, 2
+  size: 82, 121
+  orig: 82, 121
+  offset: 0, 0
+  index: -1
+st_hearthdragi_st_hearthdragi_64_a_2_6.png
+  rotate: false
+  xy: 2, 125
+  size: 85, 129
+  orig: 85, 129
+  offset: 0, 0
+  index: -1
+st_hearthdragi_st_hearthdragi_64_sd_2_0.png
+  rotate: false
+  xy: 89, 128
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1

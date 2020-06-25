@@ -1,0 +1,27 @@
+
+rainnn_typing.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainnn_typing_rainnn_typing_64_a_0_0.png
+  rotate: false
+  xy: 2, 20
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+rainnn_typing_rainnn_typing_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+rainnn_typing_rainnn_typing_icon_a.png
+  rotate: false
+  xy: 53, 35
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

@@ -6,16 +6,9 @@ filter: Nearest,Nearest
 repeat: none
 shoes_U_flipflopsocks_h_lay_sh_3062_2_0.png
   rotate: false
-  xy: 422, 9
+  xy: 443, 9
   size: 22, 21
   orig: 22, 21
-  offset: 0, 0
-  index: -1
-shoes_U_flipflopsocks_h_lay_sh_3063_2_0.png
-  rotate: false
-  xy: 470, 9
-  size: 19, 21
-  orig: 19, 21
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_lay_sh_3063_2_0.png
@@ -25,72 +18,79 @@ shoes_U_flipflopsocks_h_lay_sh_3063_2_0.png
   orig: 19, 21
   offset: 0, 0
   index: -1
+shoes_U_flipflopsocks_h_lay_sh_3063_2_0.png
+  rotate: false
+  xy: 512, 9
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
 shoes_U_flipflopsocks_h_sit_sh_3062_0_0.png
   rotate: false
-  xy: 512, 12
+  xy: 533, 12
   size: 20, 18
   orig: 20, 18
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_sit_sh_3062_2_0.png
   rotate: false
-  xy: 446, 9
+  xy: 467, 9
   size: 22, 21
   orig: 22, 21
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_sit_sh_3063_0_0.png
   rotate: false
-  xy: 534, 12
+  xy: 555, 12
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_std_sh_3062_0_0.png
   rotate: false
-  xy: 288, 15
+  xy: 286, 15
   size: 26, 15
   orig: 26, 15
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_std_sh_3062_1_0.png
   rotate: false
-  xy: 909, 21
+  xy: 884, 21
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_std_sh_3062_2_0.png
   rotate: false
-  xy: 395, 13
+  xy: 314, 13
   size: 25, 17
   orig: 25, 17
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_std_sh_3062_3_0.png
   rotate: false
-  xy: 29, 2
+  xy: 2, 2
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_std_sh_3062_7_0.png
   rotate: false
-  xy: 272, 2
+  xy: 262, 2
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_std_sh_3063_0_0.png
   rotate: false
-  xy: 600, 20
+  xy: 415, 20
   size: 26, 10
   orig: 26, 10
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_std_sh_3063_1_0.png
   rotate: false
-  xy: 949, 23
+  xy: 944, 23
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
@@ -104,28 +104,28 @@ shoes_U_flipflopsocks_h_std_sh_3063_2_0.png
   index: -1
 shoes_U_flipflopsocks_h_std_sh_3063_3_0.png
   rotate: false
-  xy: 779, 23
+  xy: 796, 23
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_std_sh_3063_7_0.png
   rotate: false
-  xy: 802, 24
+  xy: 819, 24
   size: 21, 6
   orig: 21, 6
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_0_0.png
   rotate: false
-  xy: 368, 17
+  xy: 208, 2
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_0_1.png
   rotate: false
-  xy: 2, 15
+  xy: 43, 15
   size: 41, 15
   orig: 41, 15
   offset: 0, 0
@@ -146,21 +146,21 @@ shoes_U_flipflopsocks_h_wlk_sh_3062_0_3.png
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_1_0.png
   rotate: false
-  xy: 585, 2
+  xy: 667, 19
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_1_1.png
   rotate: false
-  xy: 86, 2
+  xy: 86, 17
   size: 41, 13
   orig: 41, 13
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_1_2.png
   rotate: false
-  xy: 736, 18
+  xy: 710, 18
   size: 18, 12
   orig: 18, 12
   offset: 0, 0
@@ -174,133 +174,133 @@ shoes_U_flipflopsocks_h_wlk_sh_3062_1_3.png
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_2_0.png
   rotate: false
-  xy: 258, 15
+  xy: 256, 15
   size: 28, 15
   orig: 28, 15
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_2_1.png
   rotate: false
-  xy: 716, 16
+  xy: 400, 2
   size: 18, 14
   orig: 18, 14
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_2_2.png
   rotate: false
-  xy: 343, 2
+  xy: 377, 2
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_2_3.png
   rotate: false
-  xy: 45, 13
+  xy: 2, 13
   size: 39, 17
   orig: 39, 17
   offset: 0, 0
   index: -1
-shoes_U_flipflopsocks_h_wlk_sh_3062_3_0.png
-  rotate: false
-  xy: 346, 18
-  size: 20, 12
-  orig: 20, 12
-  offset: 0, 0
-  index: -1
-shoes_U_flipflopsocks_h_wlk_sh_3062_3_0.png
-  rotate: false
-  xy: 366, 3
-  size: 20, 12
-  orig: 20, 12
-  offset: 0, 0
-  index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_3_1.png
   rotate: false
-  xy: 695, 18
+  xy: 689, 18
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_3_2.png
   rotate: false
-  xy: 674, 20
+  xy: 730, 20
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
+shoes_U_flipflopsocks_h_wlk_sh_3062_3_3.png
+  rotate: false
+  xy: 371, 18
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+shoes_U_flipflopsocks_h_wlk_sh_3062_3_3.png
+  rotate: false
+  xy: 393, 18
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_7_0.png
   rotate: false
-  xy: 295, 2
+  xy: 583, 2
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_7_1.png
   rotate: false
-  xy: 554, 15
+  xy: 575, 15
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_7_2.png
   rotate: false
-  xy: 562, 2
+  xy: 285, 2
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3062_7_3.png
   rotate: false
-  xy: 577, 15
+  xy: 420, 3
   size: 21, 15
   orig: 21, 15
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_0_0.png
   rotate: false
-  xy: 512, 2
+  xy: 533, 2
   size: 25, 8
   orig: 25, 8
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_0_1.png
   rotate: false
-  xy: 86, 17
+  xy: 86, 2
   size: 41, 13
   orig: 41, 13
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_0_2.png
   rotate: false
-  xy: 2, 2
+  xy: 235, 2
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_0_3.png
   rotate: false
-  xy: 318, 2
+  xy: 352, 2
   size: 23, 14
   orig: 23, 14
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_1_0.png
   rotate: false
-  xy: 825, 22
+  xy: 774, 22
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_1_1.png
   rotate: false
-  xy: 215, 20
+  xy: 43, 3
   size: 41, 10
   orig: 41, 10
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_1_2.png
   rotate: false
-  xy: 929, 21
+  xy: 904, 21
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
@@ -314,84 +314,84 @@ shoes_U_flipflopsocks_h_wlk_sh_3063_1_3.png
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_2_0.png
   rotate: false
-  xy: 316, 18
+  xy: 341, 18
   size: 28, 12
   orig: 28, 12
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_2_1.png
   rotate: false
-  xy: 889, 20
+  xy: 924, 20
   size: 18, 10
   orig: 18, 10
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_2_2.png
   rotate: false
-  xy: 249, 2
+  xy: 598, 19
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_2_3.png
   rotate: false
-  xy: 208, 5
+  xy: 215, 17
   size: 39, 13
   orig: 39, 13
   offset: 0, 0
   index: -1
+shoes_U_flipflopsocks_h_wlk_sh_3063_3_0.png
+  rotate: false
+  xy: 308, 2
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+shoes_U_flipflopsocks_h_wlk_sh_3063_3_0.png
+  rotate: false
+  xy: 330, 2
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_3_1.png
   rotate: false
-  xy: 868, 20
+  xy: 842, 20
   size: 19, 10
   orig: 19, 10
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_3_2.png
   rotate: false
-  xy: 847, 21
+  xy: 863, 21
   size: 19, 9
   orig: 19, 9
   offset: 0, 0
   index: -1
-shoes_U_flipflopsocks_h_wlk_sh_3063_3_3.png
-  rotate: false
-  xy: 52, 2
-  size: 20, 9
-  orig: 20, 9
-  offset: 0, 0
-  index: -1
-shoes_U_flipflopsocks_h_wlk_sh_3063_3_3.png
-  rotate: false
-  xy: 388, 2
-  size: 20, 9
-  orig: 20, 9
-  offset: 0, 0
-  index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_7_0.png
   rotate: false
-  xy: 756, 22
+  xy: 751, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_7_1.png
   rotate: false
-  xy: 651, 20
+  xy: 644, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_7_2.png
   rotate: false
-  xy: 539, 2
+  xy: 560, 2
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 shoes_U_flipflopsocks_h_wlk_sh_3063_7_3.png
   rotate: false
-  xy: 628, 20
+  xy: 621, 20
   size: 21, 10
   orig: 21, 10
   offset: 0, 0

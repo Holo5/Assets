@@ -1,0 +1,55 @@
+
+xs_partydrache_st.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xs_partydrache_st_xs_partydrache_st_64_a_2_1.png
+  rotate: false
+  xy: 204, 44
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+xs_partydrache_st_xs_partydrache_st_64_b_2_0.png
+  rotate: false
+  xy: 146, 13
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+xs_partydrache_st_xs_partydrache_st_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+xs_partydrache_st_xs_partydrache_st_64_b_2_2.png
+  rotate: false
+  xy: 110, 5
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+xs_partydrache_st_xs_partydrache_st_64_b_2_3.png
+  rotate: false
+  xy: 74, 3
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+xs_partydrache_st_xs_partydrache_st_64_b_2_4.png
+  rotate: false
+  xy: 38, 3
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+xs_partydrache_st_xs_partydrache_st_icon_a.png
+  rotate: false
+  xy: 179, 19
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1

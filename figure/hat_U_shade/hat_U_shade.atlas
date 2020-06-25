@@ -32,39 +32,53 @@ hat_U_shade_h_spk_ha_2042_0_0.png
   orig: 17, 26
   offset: 0, 0
   index: -1
-hat_U_shade_h_std_ha_2042_0_0.png
-  rotate: false
-  xy: 76, 37
-  size: 17, 25
-  orig: 17, 25
-  offset: 0, 0
-  index: -1
-hat_U_shade_h_std_ha_2042_1_0.png
+hat_U_shade_h_spk_ha_2042_1_0.png
   rotate: false
   xy: 2, 40
   size: 32, 22
   orig: 32, 22
   offset: 0, 0
   index: -1
-hat_U_shade_h_std_ha_2042_2_0.png
+hat_U_shade_h_spk_ha_2042_2_0.png
   rotate: false
   xy: 2, 18
   size: 31, 20
   orig: 31, 20
   offset: 0, 0
   index: -1
-hat_U_shade_h_std_ha_2042_3_0.png
+hat_U_shade_h_spk_ha_2042_3_0.png
   rotate: false
   xy: 2, 5
   size: 24, 11
   orig: 24, 11
   offset: 0, 0
   index: -1
-hat_U_shade_h_std_ha_2043_0_0.png
+hat_U_shade_h_spk_ha_2043_0_0.png
   rotate: false
   xy: 54, 2
   size: 11, 13
   orig: 11, 13
+  offset: 0, 0
+  index: -1
+hat_U_shade_h_spk_ha_2043_2_0.png
+  rotate: false
+  xy: 54, 17
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+hat_U_shade_h_spk_ha_2043_3_0.png
+  rotate: false
+  xy: 95, 57
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+hat_U_shade_h_std_ha_2042_0_0.png
+  rotate: false
+  xy: 76, 37
+  size: 17, 25
+  orig: 17, 25
   offset: 0, 0
   index: -1
 hat_U_shade_h_std_ha_2043_1_0.png
@@ -74,23 +88,30 @@ hat_U_shade_h_std_ha_2043_1_0.png
   orig: 12, 11
   offset: 0, 0
   index: -1
-hat_U_shade_h_std_ha_2043_2_0.png
-  rotate: false
-  xy: 54, 17
-  size: 20, 11
-  orig: 20, 11
-  offset: 0, 0
-  index: -1
-hat_U_shade_h_std_ha_2043_3_0.png
-  rotate: false
-  xy: 95, 57
-  size: 22, 5
-  orig: 22, 5
-  offset: 0, 0
-  index: -1
-hat_U_shade_h_std_ha_2043_7_0.png
+hat_U_shade_sh_std_ha_2042_7_0.png
   rotate: false
   xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_U_shade_sh_std_ha_2042_7_0.png
+  rotate: false
+  xy: 5, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_U_shade_sh_std_ha_2042_7_0.png
+  rotate: false
+  xy: 8, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hat_U_shade_sh_std_ha_2042_7_0.png
+  rotate: false
+  xy: 11, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

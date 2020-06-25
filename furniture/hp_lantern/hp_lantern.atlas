@@ -1,0 +1,76 @@
+
+hp_lantern.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_lantern_hp_lantern_64_a_2_0.png
+  rotate: false
+  xy: 158, 52
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+hp_lantern_hp_lantern_64_a_2_1.png
+  rotate: false
+  xy: 210, 154
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+hp_lantern_hp_lantern_64_a_2_2.png
+  rotate: false
+  xy: 106, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+hp_lantern_hp_lantern_64_a_2_3.png
+  rotate: false
+  xy: 158, 154
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+hp_lantern_hp_lantern_64_a_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+hp_lantern_hp_lantern_64_a_2_5.png
+  rotate: false
+  xy: 54, 2
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+hp_lantern_hp_lantern_64_a_2_6.png
+  rotate: false
+  xy: 2, 104
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+hp_lantern_hp_lantern_64_a_2_7.png
+  rotate: false
+  xy: 54, 104
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+hp_lantern_hp_lantern_64_a_2_8.png
+  rotate: false
+  xy: 106, 104
+  size: 50, 150
+  orig: 50, 150
+  offset: 0, 0
+  index: -1
+hp_lantern_hp_lantern_icon_a.png
+  rotate: false
+  xy: 158, 25
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1

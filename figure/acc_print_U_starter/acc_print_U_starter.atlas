@@ -1,0 +1,55 @@
+
+acc_print_U_starter.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_print_U_starter_h_lay_cp_6725_2_0.png
+  rotate: false
+  xy: 65, 12
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+acc_print_U_starter_h_lay_cp_6725_4_0.png
+  rotate: false
+  xy: 85, 15
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+acc_print_U_starter_h_std_cp_6725_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+acc_print_U_starter_h_std_cp_6725_3_0.png
+  rotate: false
+  xy: 43, 12
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+acc_print_U_starter_h_std_cp_6725_4_0.png
+  rotate: false
+  xy: 23, 8
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+acc_print_U_starter_sh_std_cp_6725_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_print_U_starter_sh_std_cp_6725_1_0.png
+  rotate: false
+  xy: 23, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

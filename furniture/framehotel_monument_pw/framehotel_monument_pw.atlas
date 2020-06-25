@@ -1,0 +1,41 @@
+
+framehotel_monument_pw.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+framehotel_monument_pw_framehotel_monument_pw_64_a_2_1.png
+  rotate: false
+  xy: 590, 34
+  size: 194, 201
+  orig: 194, 201
+  offset: 0, 0
+  index: -1
+framehotel_monument_pw_framehotel_monument_pw_64_a_2_2.png
+  rotate: false
+  xy: 394, 34
+  size: 194, 201
+  orig: 194, 201
+  offset: 0, 0
+  index: -1
+framehotel_monument_pw_framehotel_monument_pw_64_a_2_3.png
+  rotate: false
+  xy: 198, 34
+  size: 194, 201
+  orig: 194, 201
+  offset: 0, 0
+  index: -1
+framehotel_monument_pw_framehotel_monument_pw_64_sd_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 194, 201
+  orig: 194, 201
+  offset: 0, 0
+  index: -1
+framehotel_monument_pw_framehotel_monument_pw_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

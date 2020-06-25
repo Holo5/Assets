@@ -62,9 +62,30 @@ shirt_M_featherdress_h_lay_ch_3290_2_0.png
   index: -1
 shirt_M_featherdress_h_sit_ch_3290_0_0.png
   rotate: false
-  xy: 52, 164
+  xy: 2, 163
   size: 46, 41
   orig: 46, 41
+  offset: 0, 0
+  index: -1
+shirt_M_featherdress_h_std_ch_3290_2_0.png
+  rotate: false
+  xy: 2, 206
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+shirt_M_featherdress_h_std_ch_3290_3_0.png
+  rotate: false
+  xy: 2, 121
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+shirt_M_featherdress_h_std_ch_3290_7_0.png
+  rotate: false
+  xy: 50, 2
+  size: 46, 37
+  orig: 46, 37
   offset: 0, 0
   index: -1
 shirt_M_featherdress_h_std_ls_3290_3_0.png
@@ -111,28 +132,28 @@ shirt_M_featherdress_h_wav_ls_3290_7_1.png
   index: -1
 shirt_M_featherdress_h_wlk_ch_3290_0_2.png
   rotate: false
-  xy: 2, 121
+  xy: 50, 82
   size: 46, 40
   orig: 46, 40
   offset: 0, 0
   index: -1
 shirt_M_featherdress_h_wlk_ch_3290_0_3.png
   rotate: false
-  xy: 2, 163
+  xy: 52, 164
   size: 46, 41
   orig: 46, 41
   offset: 0, 0
   index: -1
-shirt_M_featherdress_h_wlk_ch_3290_1_2.png
+shirt_M_featherdress_h_wlk_ch_3290_1_0.png
   rotate: false
   xy: 2, 40
   size: 46, 38
   orig: 46, 38
   offset: 0, 0
   index: -1
-shirt_M_featherdress_h_wlk_ch_3290_1_3.png
+shirt_M_featherdress_h_wlk_ch_3290_1_1.png
   rotate: false
-  xy: 50, 41
+  xy: 2, 80
   size: 46, 39
   orig: 46, 39
   offset: 0, 0
@@ -144,39 +165,18 @@ shirt_M_featherdress_h_wlk_ch_3290_2_2.png
   orig: 48, 43
   offset: 0, 0
   index: -1
-shirt_M_featherdress_h_wlk_ch_3290_2_3.png
-  rotate: false
-  xy: 2, 206
-  size: 48, 44
-  orig: 48, 44
-  offset: 0, 0
-  index: -1
 shirt_M_featherdress_h_wlk_ch_3290_3_2.png
   rotate: false
-  xy: 2, 80
+  xy: 50, 41
   size: 46, 39
   orig: 46, 39
   offset: 0, 0
   index: -1
-shirt_M_featherdress_h_wlk_ch_3290_3_3.png
-  rotate: false
-  xy: 50, 82
-  size: 46, 40
-  orig: 46, 40
-  offset: 0, 0
-  index: -1
-shirt_M_featherdress_h_wlk_ch_3290_7_2.png
+shirt_M_featherdress_h_wlk_ch_3290_7_0.png
   rotate: false
   xy: 2, 2
   size: 46, 36
   orig: 46, 36
-  offset: 0, 0
-  index: -1
-shirt_M_featherdress_h_wlk_ch_3290_7_3.png
-  rotate: false
-  xy: 50, 2
-  size: 46, 37
-  orig: 46, 37
   offset: 0, 0
   index: -1
 shirt_M_featherdress_h_wlk_ls_3290_3_0.png
@@ -186,7 +186,7 @@ shirt_M_featherdress_h_wlk_ls_3290_3_0.png
   orig: 3, 9
   offset: 0, 0
   index: -1
-shirt_M_featherdress_h_wlk_ls_3290_3_1.png
+shirt_M_featherdress_h_wlk_ls_3290_3_3.png
   rotate: false
   xy: 108, 228
   size: 2, 9

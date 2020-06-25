@@ -6,70 +6,70 @@ filter: Nearest,Nearest
 repeat: none
 shirt_U_santa_h_crr_ls_2795_0_0.png
   rotate: false
-  xy: 690, 23
+  xy: 967, 41
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_ls_2795_1_0.png
   rotate: false
-  xy: 94, 2
+  xy: 194, 2
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_ls_2795_2_0.png
   rotate: false
-  xy: 831, 39
+  xy: 397, 2
   size: 12, 23
   orig: 12, 23
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_ls_2795_3_0.png
   rotate: false
-  xy: 595, 6
+  xy: 517, 5
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_ls_2795_4_0.png
   rotate: false
-  xy: 519, 33
+  xy: 557, 33
   size: 17, 29
   orig: 17, 29
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_ls_2795_5_0.png
   rotate: false
-  xy: 112, 2
+  xy: 118, 2
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_ls_2795_6_0.png
   rotate: false
-  xy: 178, 3
+  xy: 352, 2
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_ls_2795_7_0.png
   rotate: false
-  xy: 668, 24
+  xy: 938, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_rs_2795_0_0.png
   rotate: false
-  xy: 47, 2
+  xy: 62, 2
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_rs_2795_1_0.png
   rotate: false
-  xy: 215, 2
+  xy: 136, 2
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
@@ -83,238 +83,252 @@ shirt_U_santa_h_crr_rs_2795_2_0.png
   index: -1
 shirt_U_santa_h_crr_rs_2795_3_0.png
   rotate: false
-  xy: 558, 4
+  xy: 491, 5
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_rs_2795_4_0.png
   rotate: false
-  xy: 776, 39
+  xy: 370, 2
   size: 12, 23
   orig: 12, 23
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_rs_2795_5_0.png
   rotate: false
-  xy: 233, 2
+  xy: 100, 2
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_rs_2795_6_0.png
   rotate: false
-  xy: 720, 22
+  xy: 949, 41
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 shirt_U_santa_h_crr_rs_2795_7_0.png
   rotate: false
-  xy: 679, 23
+  xy: 927, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 shirt_U_santa_h_drk_rs_2795_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 31, 2
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
   index: -1
 shirt_U_santa_h_drk_rs_2795_1_0.png
   rotate: false
-  xy: 732, 48
+  xy: 733, 48
   size: 25, 14
   orig: 25, 14
   offset: 0, 0
   index: -1
 shirt_U_santa_h_drk_rs_2795_2_0.png
   rotate: false
-  xy: 707, 45
+  xy: 786, 45
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 shirt_U_santa_h_drk_rs_2795_3_0.png
   rotate: false
-  xy: 159, 3
+  xy: 333, 2
   size: 17, 23
   orig: 17, 23
   offset: 0, 0
   index: -1
 shirt_U_santa_h_drk_rs_2795_4_0.png
   rotate: false
-  xy: 759, 46
+  xy: 811, 46
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
   index: -1
 shirt_U_santa_h_drk_rs_2795_5_0.png
   rotate: false
-  xy: 681, 46
+  xy: 760, 46
   size: 24, 16
   orig: 24, 16
   offset: 0, 0
   index: -1
 shirt_U_santa_h_drk_rs_2795_6_0.png
   rotate: false
-  xy: 652, 47
+  xy: 704, 47
   size: 27, 15
   orig: 27, 15
   offset: 0, 0
   index: -1
 shirt_U_santa_h_drk_rs_2795_7_0.png
   rotate: false
-  xy: 707, 27
+  xy: 828, 46
   size: 11, 16
   orig: 11, 16
   offset: 0, 0
   index: -1
 shirt_U_santa_h_lay_ch_2795_2_0.png
   rotate: false
-  xy: 95, 35
+  xy: 93, 35
   size: 38, 27
   orig: 38, 27
   offset: 0, 0
   index: -1
+shirt_U_santa_h_lay_ls_2795_2_0.png
+  rotate: false
+  xy: 59, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 shirt_U_santa_h_lay_rs_2795_2_0.png
   rotate: false
-  xy: 22, 2
+  xy: 2, 2
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
   index: -1
 shirt_U_santa_h_std_ch_2795_0_0.png
   rotate: false
-  xy: 135, 28
+  xy: 133, 28
   size: 29, 34
   orig: 29, 34
   offset: 0, 0
   index: -1
+shirt_U_santa_h_std_ch_2795_1_0.png
+  rotate: false
+  xy: 344, 27
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+shirt_U_santa_h_std_ch_2795_2_0.png
+  rotate: false
+  xy: 62, 25
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
 shirt_U_santa_h_std_ch_2795_3_0.png
   rotate: false
-  xy: 228, 23
+  xy: 195, 23
   size: 27, 39
   orig: 27, 39
   offset: 0, 0
   index: -1
-shirt_U_santa_h_std_ch_2795_7_0.png
-  rotate: false
-  xy: 373, 27
-  size: 26, 35
-  orig: 26, 35
-  offset: 0, 0
-  index: -1
 shirt_U_santa_h_std_ls_2795_0_0.png
   rotate: false
-  xy: 489, 7
+  xy: 467, 8
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_U_santa_h_std_ls_2795_1_0.png
   rotate: false
-  xy: 639, 13
+  xy: 841, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_U_santa_h_std_ls_2795_3_0.png
   rotate: false
-  xy: 857, 35
+  xy: 592, 6
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_U_santa_h_std_ls_2795_7_0.png
   rotate: false
-  xy: 571, 4
+  xy: 581, 5
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 shirt_U_santa_h_std_rs_2795_0_0.png
   rotate: false
-  xy: 582, 6
+  xy: 557, 4
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 shirt_U_santa_h_std_rs_2795_1_0.png
   rotate: false
-  xy: 657, 23
+  xy: 852, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_U_santa_h_std_rs_2795_2_0.png
   rotate: false
-  xy: 989, 36
+  xy: 863, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_U_santa_h_std_rs_2795_3_0.png
   rotate: false
-  xy: 868, 35
+  xy: 615, 7
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_U_santa_h_std_rs_2795_7_0.png
   rotate: false
-  xy: 619, 6
+  xy: 570, 3
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wav_ls_2795_0_0.png
   rotate: false
-  xy: 420, 2
+  xy: 301, 2
   size: 14, 24
   orig: 14, 24
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wav_ls_2795_0_1.png
   rotate: false
-  xy: 401, 2
+  xy: 282, 2
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wav_ls_2795_1_0.png
   rotate: false
-  xy: 146, 2
+  xy: 384, 2
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wav_ls_2795_1_1.png
   rotate: false
-  xy: 790, 39
+  xy: 411, 2
   size: 12, 23
   orig: 12, 23
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wav_ls_2795_2_0.png
   rotate: false
-  xy: 471, 9
+  xy: 434, 6
   size: 16, 25
   orig: 16, 25
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wav_ls_2795_2_1.png
   rotate: false
-  xy: 632, 37
+  xy: 595, 37
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wav_ls_2795_3_0.png
   rotate: false
-  xy: 499, 6
+  xy: 670, 35
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
@@ -335,21 +349,21 @@ shirt_U_santa_h_wav_ls_2795_4_0.png
   index: -1
 shirt_U_santa_h_wav_ls_2795_4_1.png
   rotate: false
-  xy: 595, 35
+  xy: 652, 35
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wav_ls_2795_5_0.png
   rotate: false
-  xy: 613, 36
+  xy: 615, 36
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wav_ls_2795_5_1.png
   rotate: false
-  xy: 453, 9
+  xy: 634, 36
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
@@ -370,7 +384,7 @@ shirt_U_santa_h_wav_ls_2795_6_1.png
   index: -1
 shirt_U_santa_h_wav_ls_2795_7_0.png
   rotate: false
-  xy: 557, 34
+  xy: 519, 34
   size: 17, 28
   orig: 17, 28
   offset: 0, 0
@@ -384,273 +398,259 @@ shirt_U_santa_h_wav_ls_2795_7_1.png
   index: -1
 shirt_U_santa_h_wlk_ch_2795_0_0.png
   rotate: false
-  xy: 166, 28
+  xy: 313, 28
   size: 29, 34
   orig: 29, 34
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ch_2795_0_2.png
   rotate: false
-  xy: 197, 28
+  xy: 282, 28
   size: 29, 34
   orig: 29, 34
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ch_2795_1_0.png
   rotate: false
-  xy: 401, 28
+  xy: 373, 28
   size: 27, 34
   orig: 27, 34
   offset: 0, 0
   index: -1
-shirt_U_santa_h_wlk_ch_2795_1_1.png
-  rotate: false
-  xy: 344, 27
-  size: 27, 35
-  orig: 27, 35
-  offset: 0, 0
-  index: -1
 shirt_U_santa_h_wlk_ch_2795_1_2.png
   rotate: false
-  xy: 315, 26
+  xy: 253, 26
   size: 27, 36
   orig: 27, 36
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ch_2795_2_0.png
   rotate: false
-  xy: 64, 26
+  xy: 164, 26
   size: 29, 36
   orig: 29, 36
   offset: 0, 0
   index: -1
-shirt_U_santa_h_wlk_ch_2795_2_1.png
-  rotate: false
-  xy: 33, 25
-  size: 29, 37
-  orig: 29, 37
-  offset: 0, 0
-  index: -1
 shirt_U_santa_h_wlk_ch_2795_2_2.png
   rotate: false
-  xy: 2, 24
+  xy: 31, 24
   size: 29, 38
   orig: 29, 38
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ch_2795_3_0.png
   rotate: false
-  xy: 286, 24
+  xy: 224, 24
   size: 27, 38
   orig: 27, 38
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ch_2795_3_2.png
   rotate: false
-  xy: 257, 22
+  xy: 2, 22
   size: 27, 40
   orig: 27, 40
   offset: 0, 0
   index: -1
+shirt_U_santa_h_wlk_ch_2795_7_0.png
+  rotate: false
+  xy: 402, 27
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
 shirt_U_santa_h_wlk_ls_2795_0_0.png
   rotate: false
-  xy: 1000, 35
+  xy: 918, 35
   size: 7, 27
   orig: 7, 27
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ls_2795_0_1.png
   rotate: false
-  xy: 729, 22
+  xy: 958, 41
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ls_2795_0_3.png
   rotate: false
-  xy: 845, 35
+  xy: 603, 8
   size: 10, 27
   orig: 10, 27
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ls_2795_1_0.png
   rotate: false
-  xy: 1009, 40
+  xy: 182, 2
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
-shirt_U_santa_h_wlk_ls_2795_1_1.png
-  rotate: false
-  xy: 1021, 61
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 shirt_U_santa_h_wlk_ls_2795_1_3.png
   rotate: false
-  xy: 650, 13
+  xy: 976, 40
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ls_2795_2_1.png
   rotate: false
-  xy: 818, 37
+  xy: 544, 6
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ls_2795_2_2.png
   rotate: false
-  xy: 630, 11
+  xy: 425, 2
   size: 7, 23
   orig: 7, 23
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ls_2795_2_3.png
   rotate: false
-  xy: 699, 30
+  xy: 51, 8
   size: 6, 14
   orig: 6, 14
   offset: 0, 0
   index: -1
-shirt_U_santa_h_wlk_ls_2795_3_1.png
+shirt_U_santa_h_wlk_ls_2795_3_0.png
   rotate: false
-  xy: 879, 35
+  xy: 637, 7
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
-shirt_U_santa_h_wlk_ls_2795_3_2.png
+shirt_U_santa_h_wlk_ls_2795_3_1.png
   rotate: false
-  xy: 890, 35
+  xy: 659, 6
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ls_2795_3_3.png
   rotate: false
-  xy: 978, 36
+  xy: 670, 7
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ls_2795_7_1.png
   rotate: false
-  xy: 967, 36
+  xy: 874, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_ls_2795_7_3.png
   rotate: false
-  xy: 956, 36
+  xy: 648, 7
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
-shirt_U_santa_h_wlk_rs_2795_0_1.png
+shirt_U_santa_h_wlk_rs_2795_0_0.png
   rotate: false
-  xy: 804, 37
-  size: 12, 25
-  orig: 12, 25
-  offset: 0, 0
-  index: -1
-shirt_U_santa_h_wlk_rs_2795_0_2.png
-  rotate: false
-  xy: 531, 4
+  xy: 477, 7
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
+shirt_U_santa_h_wlk_rs_2795_0_1.png
+  rotate: false
+  xy: 530, 6
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
 shirt_U_santa_h_wlk_rs_2795_0_3.png
   rotate: false
-  xy: 130, 2
+  xy: 317, 2
   size: 14, 24
   orig: 14, 24
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_rs_2795_1_1.png
   rotate: false
-  xy: 66, 2
+  xy: 154, 2
   size: 13, 22
   orig: 13, 22
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_rs_2795_1_2.png
   rotate: false
-  xy: 81, 2
+  xy: 169, 2
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_rs_2795_1_3.png
   rotate: false
-  xy: 196, 5
+  xy: 81, 2
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
-shirt_U_santa_h_wlk_rs_2795_2_0.png
-  rotate: false
-  xy: 545, 3
-  size: 11, 28
-  orig: 11, 28
-  offset: 0, 0
-  index: -1
 shirt_U_santa_h_wlk_rs_2795_2_1.png
   rotate: false
-  xy: 516, 4
+  xy: 452, 8
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
+shirt_U_santa_h_wlk_rs_2795_2_2.png
+  rotate: false
+  xy: 504, 5
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
 shirt_U_santa_h_wlk_rs_2795_2_3.png
   rotate: false
-  xy: 436, 3
+  xy: 687, 34
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
   index: -1
-shirt_U_santa_h_wlk_rs_2795_3_1.png
+shirt_U_santa_h_wlk_rs_2795_3_0.png
   rotate: false
-  xy: 945, 36
-  size: 9, 26
-  orig: 9, 26
-  offset: 0, 0
-  index: -1
-shirt_U_santa_h_wlk_rs_2795_3_2.png
-  rotate: false
-  xy: 608, 6
+  xy: 626, 7
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
+shirt_U_santa_h_wlk_rs_2795_3_1.png
+  rotate: false
+  xy: 681, 6
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
 shirt_U_santa_h_wlk_rs_2795_3_3.png
   rotate: false
-  xy: 934, 36
+  xy: 692, 6
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_U_santa_h_wlk_rs_2795_7_0.png
+  rotate: false
+  xy: 885, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_rs_2795_7_1.png
   rotate: false
-  xy: 923, 36
-  size: 9, 26
-  orig: 9, 26
-  offset: 0, 0
-  index: -1
-shirt_U_santa_h_wlk_rs_2795_7_2.png
-  rotate: false
-  xy: 912, 36
+  xy: 896, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_U_santa_h_wlk_rs_2795_7_3.png
   rotate: false
-  xy: 901, 36
+  xy: 907, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0

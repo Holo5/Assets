@@ -1,0 +1,55 @@
+
+lamp002.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lamp002_lamp002_64_a_2_0.png
+  rotate: false
+  xy: 572, 146
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+lamp002_lamp002_64_a_2_1.png
+  rotate: false
+  xy: 614, 200
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+lamp002_lamp002_64_a_2_2.png
+  rotate: false
+  xy: 572, 200
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+lamp002_lamp002_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 188, 250
+  orig: 188, 250
+  offset: 0, 0
+  index: -1
+lamp002_lamp002_64_b_2_1.png
+  rotate: false
+  xy: 192, 2
+  size: 188, 250
+  orig: 188, 250
+  offset: 0, 0
+  index: -1
+lamp002_lamp002_64_b_2_2.png
+  rotate: false
+  xy: 382, 2
+  size: 188, 250
+  orig: 188, 250
+  offset: 0, 0
+  index: -1
+lamp002_lamp002_icon_a.png
+  rotate: false
+  xy: 572, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

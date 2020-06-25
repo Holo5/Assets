@@ -4,6 +4,20 @@ size: 1024,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+shoes_U_woolsocks_h_lay_sh_2252_2_0.png
+  rotate: false
+  xy: 198, 3
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+shoes_U_woolsocks_h_lay_sh_2252_2_0.png
+  rotate: false
+  xy: 337, 11
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
 shoes_U_woolsocks_h_lay_sh_2253_2_0.png
   rotate: false
   xy: 726, 23
@@ -20,14 +34,14 @@ shoes_U_woolsocks_h_lay_sh_2253_2_0.png
   index: -1
 shoes_U_woolsocks_h_lay_sh_2254_2_0.png
   rotate: false
-  xy: 244, 2
+  xy: 263, 2
   size: 17, 10
   orig: 17, 10
   offset: 0, 0
   index: -1
 shoes_U_woolsocks_h_lay_sh_2254_2_0.png
   rotate: false
-  xy: 263, 2
+  xy: 282, 2
   size: 17, 10
   orig: 17, 10
   offset: 0, 0
@@ -39,20 +53,6 @@ shoes_U_woolsocks_h_sit_sh_2252_0_0.png
   orig: 19, 18
   offset: 0, 0
   index: -1
-shoes_U_woolsocks_h_sit_sh_2252_2_0.png
-  rotate: false
-  xy: 198, 3
-  size: 23, 19
-  orig: 23, 19
-  offset: 0, 0
-  index: -1
-shoes_U_woolsocks_h_sit_sh_2252_2_0.png
-  rotate: false
-  xy: 337, 11
-  size: 23, 19
-  orig: 23, 19
-  offset: 0, 0
-  index: -1
 shoes_U_woolsocks_h_sit_sh_2253_0_0.png
   rotate: false
   xy: 406, 9
@@ -62,7 +62,7 @@ shoes_U_woolsocks_h_sit_sh_2253_0_0.png
   index: -1
 shoes_U_woolsocks_h_sit_sh_2254_0_0.png
   rotate: false
-  xy: 764, 22
+  xy: 798, 22
   size: 15, 8
   orig: 15, 8
   offset: 0, 0
@@ -76,14 +76,14 @@ shoes_U_woolsocks_h_std_sh_2252_0_0.png
   index: -1
 shoes_U_woolsocks_h_std_sh_2252_1_0.png
   rotate: false
-  xy: 282, 2
+  xy: 244, 2
   size: 17, 10
   orig: 17, 10
   offset: 0, 0
   index: -1
 shoes_U_woolsocks_h_std_sh_2252_2_0.png
   rotate: false
-  xy: 285, 14
+  xy: 311, 14
   size: 24, 16
   orig: 24, 16
   offset: 0, 0
@@ -97,7 +97,7 @@ shoes_U_woolsocks_h_std_sh_2252_3_0.png
   index: -1
 shoes_U_woolsocks_h_std_sh_2252_7_0.png
   rotate: false
-  xy: 385, 2
+  xy: 556, 2
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
@@ -137,23 +137,9 @@ shoes_U_woolsocks_h_std_sh_2253_7_0.png
   orig: 15, 4
   offset: 0, 0
   index: -1
-shoes_U_woolsocks_h_std_sh_2254_0_0.png
-  rotate: false
-  xy: 889, 23
-  size: 5, 7
-  orig: 5, 7
-  offset: 0, 0
-  index: -1
-shoes_U_woolsocks_h_std_sh_2254_0_0.png
-  rotate: false
-  xy: 896, 23
-  size: 5, 7
-  orig: 5, 7
-  offset: 0, 0
-  index: -1
 shoes_U_woolsocks_h_std_sh_2254_1_0.png
   rotate: false
-  xy: 353, 2
+  xy: 896, 23
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
@@ -244,7 +230,7 @@ shoes_U_woolsocks_h_wlk_sh_2252_2_1.png
   index: -1
 shoes_U_woolsocks_h_wlk_sh_2252_2_2.png
   rotate: false
-  xy: 311, 14
+  xy: 285, 14
   size: 24, 16
   orig: 24, 16
   offset: 0, 0
@@ -286,7 +272,7 @@ shoes_U_woolsocks_h_wlk_sh_2252_3_3.png
   index: -1
 shoes_U_woolsocks_h_wlk_sh_2252_7_1.png
   rotate: false
-  xy: 157, 2
+  xy: 171, 17
   size: 19, 13
   orig: 19, 13
   offset: 0, 0
@@ -300,7 +286,7 @@ shoes_U_woolsocks_h_wlk_sh_2252_7_2.png
   index: -1
 shoes_U_woolsocks_h_wlk_sh_2252_7_3.png
   rotate: false
-  xy: 171, 17
+  xy: 157, 2
   size: 19, 13
   orig: 19, 13
   offset: 0, 0
@@ -342,7 +328,7 @@ shoes_U_woolsocks_h_wlk_sh_2253_1_0.png
   index: -1
 shoes_U_woolsocks_h_wlk_sh_2253_1_1.png
   rotate: false
-  xy: 225, 22
+  xy: 418, 22
   size: 28, 8
   orig: 28, 8
   offset: 0, 0
@@ -389,9 +375,58 @@ shoes_U_woolsocks_h_wlk_sh_2253_2_3.png
   orig: 24, 9
   offset: 0, 0
   index: -1
+shoes_U_woolsocks_h_wlk_sh_2253_3_3.png
+  rotate: false
+  xy: 598, 15
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_woolsocks_h_wlk_sh_2253_3_3.png
+  rotate: false
+  xy: 405, 18
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_woolsocks_h_wlk_sh_2253_3_3.png
+  rotate: false
+  xy: 405, 15
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_woolsocks_h_wlk_sh_2253_3_3.png
+  rotate: false
+  xy: 642, 19
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_woolsocks_h_wlk_sh_2253_3_3.png
+  rotate: false
+  xy: 924, 29
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_woolsocks_h_wlk_sh_2253_3_3.png
+  rotate: false
+  xy: 651, 19
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
+shoes_U_woolsocks_h_wlk_sh_2253_3_3.png
+  rotate: false
+  xy: 924, 26
+  size: 7, 1
+  orig: 7, 1
+  offset: 0, 0
+  index: -1
 shoes_U_woolsocks_h_wlk_sh_2253_7_1.png
   rotate: false
-  xy: 798, 23
+  xy: 764, 23
   size: 15, 7
   orig: 15, 7
   offset: 0, 0
@@ -419,9 +454,23 @@ shoes_U_woolsocks_h_wlk_sh_2254_0_0.png
   index: -1
 shoes_U_woolsocks_h_wlk_sh_2254_0_1.png
   rotate: false
-  xy: 418, 22
+  xy: 225, 22
   size: 28, 8
   orig: 28, 8
+  offset: 0, 0
+  index: -1
+shoes_U_woolsocks_h_wlk_sh_2254_0_2.png
+  rotate: false
+  xy: 353, 2
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+shoes_U_woolsocks_h_wlk_sh_2254_0_2.png
+  rotate: false
+  xy: 889, 23
+  size: 5, 7
+  orig: 5, 7
   offset: 0, 0
   index: -1
 shoes_U_woolsocks_h_wlk_sh_2254_0_3.png
@@ -461,7 +510,7 @@ shoes_U_woolsocks_h_wlk_sh_2254_1_3.png
   index: -1
 shoes_U_woolsocks_h_wlk_sh_2254_2_0.png
   rotate: false
-  xy: 556, 2
+  xy: 385, 2
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
@@ -520,54 +569,5 @@ shoes_U_woolsocks_h_wlk_sh_2254_3_3.png
   xy: 642, 22
   size: 19, 8
   orig: 19, 8
-  offset: 0, 0
-  index: -1
-shoes_U_woolsocks_h_wlk_sh_2254_7_1.png
-  rotate: false
-  xy: 598, 15
-  size: 7, 1
-  orig: 7, 1
-  offset: 0, 0
-  index: -1
-shoes_U_woolsocks_h_wlk_sh_2254_7_1.png
-  rotate: false
-  xy: 405, 18
-  size: 7, 1
-  orig: 7, 1
-  offset: 0, 0
-  index: -1
-shoes_U_woolsocks_h_wlk_sh_2254_7_1.png
-  rotate: false
-  xy: 405, 15
-  size: 7, 1
-  orig: 7, 1
-  offset: 0, 0
-  index: -1
-shoes_U_woolsocks_h_wlk_sh_2254_7_1.png
-  rotate: false
-  xy: 642, 19
-  size: 7, 1
-  orig: 7, 1
-  offset: 0, 0
-  index: -1
-shoes_U_woolsocks_h_wlk_sh_2254_7_1.png
-  rotate: false
-  xy: 924, 29
-  size: 7, 1
-  orig: 7, 1
-  offset: 0, 0
-  index: -1
-shoes_U_woolsocks_h_wlk_sh_2254_7_1.png
-  rotate: false
-  xy: 651, 19
-  size: 7, 1
-  orig: 7, 1
-  offset: 0, 0
-  index: -1
-shoes_U_woolsocks_h_wlk_sh_2254_7_1.png
-  rotate: false
-  xy: 924, 26
-  size: 7, 1
-  orig: 7, 1
   offset: 0, 0
   index: -1

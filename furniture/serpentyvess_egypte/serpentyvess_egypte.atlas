@@ -1,0 +1,41 @@
+
+serpentyvess_egypte.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+serpentyvess_egypte_serpentyvess_egypte_64_a_2_0.png
+  rotate: false
+  xy: 200, 34
+  size: 64, 193
+  orig: 64, 193
+  offset: 0, 0
+  index: -1
+serpentyvess_egypte_serpentyvess_egypte_64_a_2_19.png
+  rotate: false
+  xy: 134, 34
+  size: 64, 193
+  orig: 64, 193
+  offset: 0, 0
+  index: -1
+serpentyvess_egypte_serpentyvess_egypte_64_a_2_6.png
+  rotate: false
+  xy: 68, 34
+  size: 64, 193
+  orig: 64, 193
+  offset: 0, 0
+  index: -1
+serpentyvess_egypte_serpentyvess_egypte_64_a_2_7.png
+  rotate: false
+  xy: 2, 34
+  size: 64, 193
+  orig: 64, 193
+  offset: 0, 0
+  index: -1
+serpentyvess_egypte_serpentyvess_egypte_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

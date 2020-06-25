@@ -4,7 +4,7 @@ size: 256,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hat_U_goldvictophat_h_lay_ha_3088_2_0.png
+hat_U_goldvictophat_h_lsp_ha_3088_2_0.png
   rotate: false
   xy: 2, 3
   size: 39, 34
@@ -13,35 +13,35 @@ hat_U_goldvictophat_h_lay_ha_3088_2_0.png
   index: -1
 hat_U_goldvictophat_h_spk_ha_3088_0_0.png
   rotate: false
-  xy: 43, 2
+  xy: 115, 2
   size: 34, 35
   orig: 34, 35
   offset: 0, 0
   index: -1
-hat_U_goldvictophat_h_spk_ha_3088_1_0.png
+hat_U_goldvictophat_h_std_ha_3088_1_0.png
   rotate: false
   xy: 187, 5
   size: 34, 32
   orig: 34, 32
   offset: 0, 0
   index: -1
-hat_U_goldvictophat_h_spk_ha_3088_2_0.png
+hat_U_goldvictophat_h_std_ha_3088_2_0.png
   rotate: false
-  xy: 151, 2
+  xy: 43, 2
   size: 34, 35
   orig: 34, 35
   offset: 0, 0
   index: -1
-hat_U_goldvictophat_h_spk_ha_3088_3_0.png
-  rotate: false
-  xy: 115, 2
-  size: 34, 35
-  orig: 34, 35
-  offset: 0, 0
-  index: -1
-hat_U_goldvictophat_h_spk_ha_3088_7_0.png
+hat_U_goldvictophat_h_std_ha_3088_3_0.png
   rotate: false
   xy: 79, 2
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+hat_U_goldvictophat_h_std_ha_3088_7_0.png
+  rotate: false
+  xy: 151, 2
   size: 34, 35
   orig: 34, 35
   offset: 0, 0

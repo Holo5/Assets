@@ -18,13 +18,6 @@ hat_U_daveycrockett_h_spk_ha_3064_0_0.png
   orig: 33, 39
   offset: 0, 0
   index: -1
-hat_U_daveycrockett_h_spk_ha_3064_1_0.png
-  rotate: false
-  xy: 41, 2
-  size: 34, 39
-  orig: 34, 39
-  offset: 0, 0
-  index: -1
 hat_U_daveycrockett_h_spk_ha_3064_2_0.png
   rotate: false
   xy: 2, 3
@@ -44,5 +37,12 @@ hat_U_daveycrockett_h_spk_ha_3064_7_0.png
   xy: 151, 3
   size: 32, 38
   orig: 32, 38
+  offset: 0, 0
+  index: -1
+hat_U_daveycrockett_h_std_ha_3064_1_0.png
+  rotate: false
+  xy: 41, 2
+  size: 34, 39
+  orig: 34, 39
   offset: 0, 0
   index: -1

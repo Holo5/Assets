@@ -11,32 +11,25 @@ hat_U_leafcrown_h_lsp_ha_2988_2_0.png
   orig: 28, 20
   offset: 0, 0
   index: -1
-hat_U_leafcrown_h_spk_ha_2988_3_0.png
-  rotate: false
-  xy: 135, 8
-  size: 30, 14
-  orig: 30, 14
-  offset: 0, 0
-  index: -1
-hat_U_leafcrown_h_spk_ha_2988_7_0.png
-  rotate: false
-  xy: 69, 6
-  size: 30, 16
-  orig: 30, 16
-  offset: 0, 0
-  index: -1
-hat_U_leafcrown_h_std_ha_2988_0_0.png
+hat_U_leafcrown_h_spk_ha_2988_0_0.png
   rotate: false
   xy: 2, 3
   size: 31, 19
   orig: 31, 19
   offset: 0, 0
   index: -1
-hat_U_leafcrown_h_std_ha_2988_1_0.png
+hat_U_leafcrown_h_spk_ha_2988_1_0.png
   rotate: false
-  xy: 101, 8
+  xy: 69, 8
   size: 32, 14
   orig: 32, 14
+  offset: 0, 0
+  index: -1
+hat_U_leafcrown_h_spk_ha_2988_7_0.png
+  rotate: false
+  xy: 135, 6
+  size: 30, 16
+  orig: 30, 16
   offset: 0, 0
   index: -1
 hat_U_leafcrown_h_std_ha_2988_2_0.png
@@ -44,5 +37,12 @@ hat_U_leafcrown_h_std_ha_2988_2_0.png
   xy: 35, 6
   size: 32, 16
   orig: 32, 16
+  offset: 0, 0
+  index: -1
+hat_U_leafcrown_h_std_ha_2988_3_0.png
+  rotate: false
+  xy: 103, 8
+  size: 30, 14
+  orig: 30, 14
   offset: 0, 0
   index: -1

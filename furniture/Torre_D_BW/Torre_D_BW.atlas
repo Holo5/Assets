@@ -1,0 +1,90 @@
+
+Torre_D_BW.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Torre_D_BW_Torre_D_BW_64_a_4_0.png
+  rotate: false
+  xy: 145, 12
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+Torre_D_BW_Torre_D_BW_64_b_4_0.png
+  rotate: false
+  xy: 2, 575
+  size: 152, 421
+  orig: 152, 421
+  offset: 0, 0
+  index: -1
+Torre_D_BW_Torre_D_BW_64_c_4_0.png
+  rotate: false
+  xy: 2, 80
+  size: 67, 493
+  orig: 67, 493
+  offset: 0, 0
+  index: -1
+Torre_D_BW_Torre_D_BW_64_d_4_3.png
+  rotate: false
+  xy: 71, 109
+  size: 88, 139
+  orig: 88, 139
+  offset: 0, 0
+  index: -1
+Torre_D_BW_Torre_D_BW_64_e_4_1.png
+  rotate: false
+  xy: 161, 109
+  size: 52, 139
+  orig: 52, 139
+  offset: 0, 0
+  index: -1
+Torre_D_BW_Torre_D_BW_64_f_4_0.png
+  rotate: false
+  xy: 156, 612
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Torre_D_BW_Torre_D_BW_64_f_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+Torre_D_BW_Torre_D_BW_64_g_4_1.png
+  rotate: false
+  xy: 92, 3
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Torre_D_BW_Torre_D_BW_64_h_4_0.png
+  rotate: false
+  xy: 71, 250
+  size: 152, 323
+  orig: 152, 323
+  offset: 0, 0
+  index: -1
+Torre_D_BW_Torre_D_BW_64_i_4_0.png
+  rotate: false
+  xy: 156, 615
+  size: 67, 381
+  orig: 67, 381
+  offset: 0, 0
+  index: -1
+Torre_D_BW_Torre_D_BW_64_sd_4_0.png
+  rotate: false
+  xy: 92, 56
+  size: 96, 51
+  orig: 96, 51
+  offset: 0, 0
+  index: -1
+Torre_D_BW_Torre_D_BW_icon_a.png
+  rotate: false
+  xy: 225, 967
+  size: 12, 29
+  orig: 12, 29
+  offset: 0, 0
+  index: -1

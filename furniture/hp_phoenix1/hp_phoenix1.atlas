@@ -1,0 +1,27 @@
+
+hp_phoenix1.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_phoenix1_hp_phoenix1_64_a_2_0.png
+  rotate: false
+  xy: 65, 24
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+hp_phoenix1_hp_phoenix1_64_a_2_1.png
+  rotate: false
+  xy: 2, 24
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+hp_phoenix1_hp_phoenix1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1

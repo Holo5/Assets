@@ -1,0 +1,20 @@
+
+lava_truhe.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lava_truhe_lava_truhe_64_a_2_0.png
+  rotate: false
+  xy: 2, 37
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+lava_truhe_lava_truhe_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1

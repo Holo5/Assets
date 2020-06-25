@@ -1,0 +1,20 @@
+
+mesita_elegante.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mesita_elegante_mesita_elegante_64_sd_2_0.png
+  rotate: false
+  xy: 70, 45
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+mesita_elegante_mesita_elegante_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1

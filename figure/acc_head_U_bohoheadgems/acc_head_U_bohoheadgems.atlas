@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 acc_head_U_bohoheadgems_h_lay_he_3402_2_0.png
   rotate: false
-  xy: 127, 4
+  xy: 146, 4
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
@@ -55,28 +55,28 @@ acc_head_U_bohoheadgems_h_std_he_3402_7_0.png
   index: -1
 acc_head_U_bohoheadgems_h_std_he_3403_0_0.png
   rotate: false
-  xy: 180, 19
+  xy: 199, 19
   size: 15, 9
   orig: 15, 9
   offset: 0, 0
   index: -1
 acc_head_U_bohoheadgems_h_std_he_3403_1_0.png
   rotate: false
-  xy: 146, 20
+  xy: 127, 20
   size: 17, 8
   orig: 17, 8
   offset: 0, 0
   index: -1
 acc_head_U_bohoheadgems_h_std_he_3403_2_0.png
   rotate: false
-  xy: 146, 10
+  xy: 180, 20
   size: 17, 8
   orig: 17, 8
   offset: 0, 0
   index: -1
 acc_head_U_bohoheadgems_h_std_he_3403_3_0.png
   rotate: false
-  xy: 197, 23
+  xy: 216, 23
   size: 18, 5
   orig: 18, 5
   offset: 0, 0

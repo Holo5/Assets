@@ -1,0 +1,20 @@
+
+dpyro.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dpyro_dpyro_64_a_0_0.png
+  rotate: false
+  xy: 100, 2
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+dpyro_dpyro_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1

@@ -6,30 +6,44 @@ filter: Nearest,Nearest
 repeat: none
 jacket_F_winter_coat_h_crr_lc_2258_0_0.png
   rotate: false
-  xy: 891, 40
+  xy: 449, 28
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
+jacket_F_winter_coat_h_crr_lc_2258_1_0.png
+  rotate: false
+  xy: 564, 42
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
 jacket_F_winter_coat_h_crr_lc_2258_2_0.png
   rotate: false
-  xy: 641, 37
+  xy: 673, 37
   size: 12, 25
   orig: 12, 25
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_lc_2258_3_0.png
   rotate: false
-  xy: 531, 22
+  xy: 660, 35
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_lc_2258_4_0.png
   rotate: false
-  xy: 423, 22
+  xy: 431, 25
   size: 16, 25
   orig: 16, 25
+  offset: 0, 0
+  index: -1
+jacket_F_winter_coat_h_crr_lc_2258_5_0.png
+  rotate: false
+  xy: 545, 42
+  size: 17, 20
+  orig: 17, 20
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_lc_2258_6_0.png
@@ -41,28 +55,28 @@ jacket_F_winter_coat_h_crr_lc_2258_6_0.png
   index: -1
 jacket_F_winter_coat_h_crr_lc_2258_7_0.png
   rotate: false
-  xy: 848, 42
+  xy: 941, 42
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_lc_2259_3_0.png
   rotate: false
-  xy: 577, 30
+  xy: 272, 7
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_lc_2259_4_0.png
   rotate: false
-  xy: 438, 18
+  xy: 392, 48
   size: 1, 2
   orig: 1, 2
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_lc_2259_6_0.png
   rotate: false
-  xy: 282, 2
+  xy: 315, 9
   size: 6, 3
   orig: 6, 3
   offset: 0, 0
@@ -74,86 +88,72 @@ jacket_F_winter_coat_h_crr_rc_2258_0_0.png
   orig: 19, 23
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_crr_rc_2258_1_0.png
-  rotate: false
-  xy: 384, 2
-  size: 17, 20
-  orig: 17, 20
-  offset: 0, 0
-  index: -1
 jacket_F_winter_coat_h_crr_rc_2258_2_0.png
   rotate: false
-  xy: 346, 15
+  xy: 395, 23
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_rc_2258_3_0.png
   rotate: false
-  xy: 474, 19
+  xy: 269, 15
   size: 11, 27
   orig: 11, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_rc_2258_4_0.png
   rotate: false
-  xy: 627, 37
+  xy: 468, 2
   size: 12, 25
   orig: 12, 25
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_crr_rc_2258_5_0.png
-  rotate: false
-  xy: 403, 2
-  size: 17, 20
-  orig: 17, 20
-  offset: 0, 0
-  index: -1
 jacket_F_winter_coat_h_crr_rc_2258_6_0.png
   rotate: false
-  xy: 907, 40
+  xy: 972, 40
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_rc_2258_7_0.png
   rotate: false
-  xy: 859, 42
+  xy: 952, 42
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_rc_2259_0_0.png
   rotate: false
-  xy: 263, 2
+  xy: 1012, 59
   size: 8, 3
   orig: 8, 3
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_rc_2259_2_0.png
   rotate: false
-  xy: 253, 7
+  xy: 992, 56
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_crr_rc_2259_3_0.png
   rotate: false
-  xy: 922, 56
+  xy: 282, 5
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_drk_rc_2258_0_0.png
   rotate: false
-  xy: 364, 2
+  xy: 413, 2
   size: 18, 20
   orig: 18, 20
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_drk_rc_2258_1_0.png
   rotate: false
-  xy: 487, 47
+  xy: 363, 47
   size: 27, 15
   orig: 27, 15
   offset: 0, 0
@@ -167,42 +167,42 @@ jacket_F_winter_coat_h_drk_rc_2258_2_0.png
   index: -1
 jacket_F_winter_coat_h_drk_rc_2258_3_0.png
   rotate: false
-  xy: 593, 41
+  xy: 433, 2
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_drk_rc_2258_4_0.png
   rotate: false
-  xy: 422, 2
+  xy: 457, 29
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_drk_rc_2258_5_0.png
   rotate: false
-  xy: 458, 48
+  xy: 487, 48
   size: 27, 14
   orig: 27, 14
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_drk_rc_2258_6_0.png
   rotate: false
-  xy: 428, 49
+  xy: 457, 49
   size: 28, 13
   orig: 28, 13
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_drk_rc_2258_7_0.png
   rotate: false
-  xy: 870, 45
+  xy: 473, 30
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_drk_rc_2259_3_0.png
   rotate: false
-  xy: 264, 7
+  xy: 987, 40
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
@@ -216,7 +216,7 @@ jacket_F_winter_coat_h_lay_cc_2258_2_0.png
   index: -1
 jacket_F_winter_coat_h_lay_cc_2259_2_0.png
   rotate: false
-  xy: 363, 52
+  xy: 392, 52
   size: 32, 10
   orig: 32, 10
   offset: 0, 0
@@ -237,7 +237,7 @@ jacket_F_winter_coat_h_lay_rc_2258_2_0.png
   index: -1
 jacket_F_winter_coat_h_lay_rc_2259_2_0.png
   rotate: false
-  xy: 568, 55
+  xy: 82, 12
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
@@ -286,7 +286,7 @@ jacket_F_winter_coat_h_std_cc_2259_0_0.png
   index: -1
 jacket_F_winter_coat_h_std_cc_2259_1_0.png
   rotate: false
-  xy: 545, 55
+  xy: 249, 6
   size: 21, 7
   orig: 21, 7
   offset: 0, 0
@@ -307,140 +307,147 @@ jacket_F_winter_coat_h_std_cc_2259_3_0.png
   index: -1
 jacket_F_winter_coat_h_std_cc_2259_7_0.png
   rotate: false
-  xy: 397, 52
+  xy: 426, 52
   size: 29, 10
   orig: 29, 10
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_std_lc_2258_2_0.png
   rotate: false
-  xy: 882, 40
+  xy: 963, 40
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_std_lc_2258_3_0.png
   rotate: false
-  xy: 727, 34
+  xy: 798, 34
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_std_lc_2258_7_0.png
   rotate: false
-  xy: 544, 22
+  xy: 842, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_std_lc_2259_3_0.png
   rotate: false
-  xy: 922, 49
+  xy: 292, 6
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_std_rc_2258_0_0.png
   rotate: false
-  xy: 517, 22
+  xy: 301, 13
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
+jacket_F_winter_coat_h_std_rc_2258_1_0.png
+  rotate: false
+  xy: 930, 41
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
 jacket_F_winter_coat_h_std_rc_2258_2_0.png
   rotate: false
-  xy: 411, 24
+  xy: 753, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_std_rc_2258_3_0.png
   rotate: false
-  xy: 716, 33
+  xy: 787, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_std_rc_2258_7_0.png
   rotate: false
-  xy: 760, 35
+  xy: 853, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_std_rc_2259_0_0.png
-  rotate: false
-  xy: 253, 2
-  size: 8, 3
-  orig: 8, 3
-  offset: 0, 0
-  index: -1
 jacket_F_winter_coat_h_std_rc_2259_2_0.png
   rotate: false
-  xy: 282, 7
+  xy: 405, 17
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_std_rc_2259_3_0.png
   rotate: false
-  xy: 82, 5
+  xy: 82, 4
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
+jacket_F_winter_coat_h_std_rc_2259_7_0.png
+  rotate: false
+  xy: 301, 6
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
 jacket_F_winter_coat_h_wav_lc_2258_0_0.png
   rotate: false
-  xy: 502, 18
+  xy: 616, 35
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2258_0_1.png
   rotate: false
-  xy: 292, 13
+  xy: 366, 18
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2258_2_0.png
   rotate: false
-  xy: 328, 14
+  xy: 315, 14
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2258_2_1.png
   rotate: false
-  xy: 253, 15
+  xy: 249, 15
   size: 18, 27
   orig: 18, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2258_3_0.png
   rotate: false
-  xy: 441, 20
+  xy: 583, 35
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2258_3_1.png
   rotate: false
-  xy: 273, 13
+  xy: 282, 13
   size: 17, 27
   orig: 17, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2258_4_0.png
   rotate: false
-  xy: 162, 2
+  xy: 158, 2
   size: 19, 26
   orig: 19, 26
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2258_4_1.png
   rotate: false
-  xy: 183, 2
+  xy: 179, 2
   size: 17, 26
   orig: 17, 26
   offset: 0, 0
@@ -454,7 +461,7 @@ jacket_F_winter_coat_h_wav_lc_2258_5_0.png
   index: -1
 jacket_F_winter_coat_h_wav_lc_2258_5_1.png
   rotate: false
-  xy: 310, 14
+  xy: 333, 14
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
@@ -475,191 +482,184 @@ jacket_F_winter_coat_h_wav_lc_2258_6_1.png
   index: -1
 jacket_F_winter_coat_h_wav_lc_2258_7_0.png
   rotate: false
-  xy: 223, 5
+  xy: 219, 2
   size: 17, 28
   orig: 17, 28
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2258_7_1.png
   rotate: false
-  xy: 202, 2
+  xy: 198, 2
   size: 19, 28
   orig: 19, 28
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2259_3_0.png
   rotate: false
-  xy: 587, 30
+  xy: 996, 40
   size: 3, 6
   orig: 3, 6
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2259_4_0.png
   rotate: false
-  xy: 249, 39
+  xy: 323, 9
   size: 2, 3
   orig: 2, 3
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2259_6_0.png
   rotate: false
-  xy: 290, 7
+  xy: 1001, 43
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wav_lc_2259_7_0.png
   rotate: false
-  xy: 948, 58
+  xy: 1007, 43
   size: 1, 4
   orig: 1, 4
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_lc_2258_0_1.png
   rotate: false
-  xy: 815, 38
+  xy: 919, 38
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_lc_2258_0_2.png
   rotate: false
-  xy: 826, 38
+  xy: 908, 38
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_lc_2258_0_3.png
   rotate: false
-  xy: 681, 38
+  xy: 713, 38
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
+jacket_F_winter_coat_h_wlk_lc_2258_1_1.png
+  rotate: false
+  xy: 726, 41
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
 jacket_F_winter_coat_h_wlk_lc_2258_1_3.png
   rotate: false
-  xy: 438, 2
+  xy: 987, 48
   size: 3, 14
   orig: 3, 14
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_wlk_lc_2258_2_0.png
-  rotate: false
-  xy: 899, 40
-  size: 6, 22
-  orig: 6, 22
-  offset: 0, 0
-  index: -1
 jacket_F_winter_coat_h_wlk_lc_2258_2_1.png
   rotate: false
-  xy: 150, 2
+  xy: 741, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
+jacket_F_winter_coat_h_wlk_lc_2258_2_2.png
+  rotate: false
+  xy: 150, 3
+  size: 6, 22
+  orig: 6, 22
+  offset: 0, 0
+  index: -1
 jacket_F_winter_coat_h_wlk_lc_2258_2_3.png
   rotate: false
-  xy: 915, 40
+  xy: 980, 40
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_wlk_lc_2258_3_1.png
+jacket_F_winter_coat_h_wlk_lc_2258_3_0.png
   rotate: false
-  xy: 566, 24
+  xy: 765, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_wlk_lc_2258_3_2.png
+jacket_F_winter_coat_h_wlk_lc_2258_3_1.png
   rotate: false
-  xy: 555, 24
+  xy: 776, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_lc_2258_3_3.png
   rotate: false
-  xy: 705, 35
+  xy: 809, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_lc_2258_7_1.png
   rotate: false
-  xy: 804, 36
+  xy: 897, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_lc_2258_7_2.png
   rotate: false
-  xy: 749, 35
+  xy: 831, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_lc_2258_7_3.png
   rotate: false
-  xy: 793, 36
+  xy: 875, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_wlk_lc_2259_3_0.png
+jacket_F_winter_coat_h_wlk_lc_2259_3_3.png
   rotate: false
-  xy: 82, 13
+  xy: 992, 48
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_wlk_lc_2259_7_3.png
+jacket_F_winter_coat_h_wlk_lc_2259_7_1.png
   rotate: false
-  xy: 941, 57
+  xy: 308, 6
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_0_0.png
   rotate: false
-  xy: 668, 37
+  xy: 700, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_0_1.png
   rotate: false
-  xy: 397, 24
+  xy: 646, 36
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_0_2.png
   rotate: false
-  xy: 655, 37
+  xy: 687, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_0_3.png
   rotate: false
-  xy: 577, 38
+  xy: 452, 2
   size: 14, 24
   orig: 14, 24
-  offset: 0, 0
-  index: -1
-jacket_F_winter_coat_h_wlk_rc_2258_1_1.png
-  rotate: false
-  xy: 612, 41
-  size: 13, 21
-  orig: 13, 21
-  offset: 0, 0
-  index: -1
-jacket_F_winter_coat_h_wlk_rc_2258_1_2.png
-  rotate: false
-  xy: 837, 41
-  size: 9, 21
-  orig: 9, 21
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_1_3.png
@@ -671,105 +671,105 @@ jacket_F_winter_coat_h_wlk_rc_2258_1_3.png
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_2_0.png
   rotate: false
-  xy: 382, 24
+  xy: 631, 36
   size: 13, 26
   orig: 13, 26
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_2_1.png
   rotate: false
-  xy: 364, 24
+  xy: 413, 24
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_2_2.png
   rotate: false
-  xy: 487, 18
+  xy: 351, 15
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_2_3.png
   rotate: false
-  xy: 458, 19
+  xy: 600, 35
   size: 14, 27
   orig: 14, 27
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_wlk_rc_2258_3_0.png
+jacket_F_winter_coat_h_wlk_rc_2258_3_1.png
+  rotate: false
+  xy: 384, 18
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+jacket_F_winter_coat_h_wlk_rc_2258_3_2.png
+  rotate: false
+  xy: 238, 4
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+jacket_F_winter_coat_h_wlk_rc_2258_3_3.png
   rotate: false
   xy: 44, 2
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_wlk_rc_2258_3_1.png
-  rotate: false
-  xy: 694, 35
-  size: 9, 27
-  orig: 9, 27
-  offset: 0, 0
-  index: -1
-jacket_F_winter_coat_h_wlk_rc_2258_3_3.png
-  rotate: false
-  xy: 242, 4
-  size: 9, 29
-  orig: 9, 29
-  offset: 0, 0
-  index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_7_1.png
   rotate: false
-  xy: 782, 36
+  xy: 886, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_7_2.png
   rotate: false
-  xy: 738, 35
+  xy: 820, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2258_7_3.png
   rotate: false
-  xy: 771, 36
+  xy: 864, 36
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_wlk_rc_2259_0_0.png
+jacket_F_winter_coat_h_wlk_rc_2259_0_2.png
   rotate: false
-  xy: 577, 25
+  xy: 395, 18
   size: 8, 3
   orig: 8, 3
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_wlk_rc_2259_2_0.png
+jacket_F_winter_coat_h_wlk_rc_2259_0_3.png
   rotate: false
-  xy: 932, 57
-  size: 7, 5
-  orig: 7, 5
+  xy: 272, 2
+  size: 8, 3
+  orig: 8, 3
   offset: 0, 0
   index: -1
 jacket_F_winter_coat_h_wlk_rc_2259_2_2.png
   rotate: false
-  xy: 273, 5
+  xy: 1003, 56
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_h_wlk_rc_2259_7_1.png
+jacket_F_winter_coat_h_wlk_rc_2259_2_3.png
   rotate: false
-  xy: 922, 42
-  size: 5, 5
-  orig: 5, 5
+  xy: 1001, 49
+  size: 7, 5
+  orig: 7, 5
   offset: 0, 0
   index: -1
-jacket_F_winter_coat_sh_std_rc_2259_0_0.png
+jacket_F_winter_coat_sh_crr_rc_2259_0_0.png
   rotate: false
-  xy: 158, 27
+  xy: 363, 44
   size: 1, 1
   orig: 1, 1
   offset: 0, 0

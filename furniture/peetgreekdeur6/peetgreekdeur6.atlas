@@ -1,0 +1,41 @@
+
+peetgreekdeur6.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+peetgreekdeur6_peetgreekdeur6_64_a_2_0.png
+  rotate: false
+  xy: 2, 258
+  size: 55, 126
+  orig: 55, 126
+  offset: 0, 0
+  index: -1
+peetgreekdeur6_peetgreekdeur6_64_a_2_1.png
+  rotate: false
+  xy: 2, 130
+  size: 55, 126
+  orig: 55, 126
+  offset: 0, 0
+  index: -1
+peetgreekdeur6_peetgreekdeur6_64_a_4_0.png
+  rotate: false
+  xy: 59, 258
+  size: 55, 126
+  orig: 55, 126
+  offset: 0, 0
+  index: -1
+peetgreekdeur6_peetgreekdeur6_64_a_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 126
+  orig: 55, 126
+  offset: 0, 0
+  index: -1
+peetgreekdeur6_peetgreekdeur6_icon_a.png
+  rotate: false
+  xy: 59, 224
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1

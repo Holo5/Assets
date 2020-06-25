@@ -6,43 +6,43 @@ filter: Nearest,Nearest
 repeat: none
 hat_U_furhat_h_lay_ha_2404_2_0.png
   rotate: false
-  xy: 144, 30
+  xy: 144, 3
   size: 29, 32
   orig: 29, 32
   offset: 0, 0
   index: -1
-hat_U_furhat_h_spk_ha_2404_0_0.png
+hat_U_furhat_h_spk_ha_2404_7_0.png
   rotate: false
-  xy: 40, 29
+  xy: 2, 2
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
-hat_U_furhat_h_spk_ha_2404_1_0.png
+hat_U_furhat_h_std_ha_2404_0_0.png
   rotate: false
-  xy: 2, 32
+  xy: 37, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+hat_U_furhat_h_std_ha_2404_1_0.png
+  rotate: false
+  xy: 72, 5
   size: 36, 30
   orig: 36, 30
   offset: 0, 0
   index: -1
-hat_U_furhat_h_spk_ha_2404_2_0.png
+hat_U_furhat_h_std_ha_2404_2_0.png
   rotate: false
-  xy: 110, 31
+  xy: 110, 4
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 hat_U_furhat_h_std_ha_2404_3_0.png
   rotate: false
-  xy: 110, 2
+  xy: 175, 8
   size: 32, 27
   orig: 32, 27
-  offset: 0, 0
-  index: -1
-hat_U_furhat_h_std_ha_2404_7_0.png
-  rotate: false
-  xy: 75, 29
-  size: 33, 33
-  orig: 33, 33
   offset: 0, 0
   index: -1

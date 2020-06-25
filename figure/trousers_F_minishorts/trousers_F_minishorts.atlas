@@ -27,70 +27,77 @@ trousers_F_minishorts_h_sit_lg_2027_2_0.png
   index: -1
 trousers_F_minishorts_h_std_lg_2027_0_0.png
   rotate: false
-  xy: 190, 9
+  xy: 112, 9
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_std_lg_2027_1_0.png
   rotate: false
-  xy: 461, 3
+  xy: 425, 3
   size: 16, 11
   orig: 16, 11
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_std_lg_2027_2_0.png
   rotate: false
-  xy: 215, 9
+  xy: 87, 9
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
   index: -1
+trousers_F_minishorts_h_std_lg_2027_3_0.png
+  rotate: false
+  xy: 337, 16
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
 trousers_F_minishorts_h_std_lg_2027_7_0.png
   rotate: false
-  xy: 360, 3
+  xy: 360, 16
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_0_0.png
   rotate: false
-  xy: 140, 10
+  xy: 215, 10
   size: 23, 17
   orig: 23, 17
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_0_1.png
   rotate: false
-  xy: 87, 11
+  xy: 162, 11
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_0_2.png
   rotate: false
-  xy: 165, 9
+  xy: 137, 9
   size: 23, 18
   orig: 23, 18
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_0_3.png
   rotate: false
-  xy: 312, 11
+  xy: 240, 11
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_1_0.png
   rotate: false
-  xy: 425, 3
+  xy: 461, 3
   size: 16, 11
   orig: 16, 11
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_1_1.png
   rotate: false
-  xy: 383, 2
+  xy: 404, 2
   size: 19, 12
   orig: 19, 12
   offset: 0, 0
@@ -104,35 +111,35 @@ trousers_F_minishorts_h_wlk_lg_2027_1_2.png
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_1_3.png
   rotate: false
-  xy: 404, 3
+  xy: 383, 3
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_2_0.png
   rotate: false
-  xy: 264, 10
+  xy: 265, 10
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_2_1.png
   rotate: false
-  xy: 288, 10
+  xy: 289, 10
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_2_2.png
   rotate: false
-  xy: 240, 9
+  xy: 313, 9
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_2_3.png
   rotate: false
-  xy: 114, 10
+  xy: 189, 10
   size: 24, 17
   orig: 24, 17
   offset: 0, 0
@@ -146,49 +153,42 @@ trousers_F_minishorts_h_wlk_lg_2027_3_0.png
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_3_1.png
   rotate: false
-  xy: 452, 16
-  size: 21, 11
-  orig: 21, 11
-  offset: 0, 0
-  index: -1
-trousers_F_minishorts_h_wlk_lg_2027_3_2.png
-  rotate: false
-  xy: 475, 16
+  xy: 406, 16
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_3_3.png
   rotate: false
-  xy: 337, 3
+  xy: 383, 16
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_7_0.png
   rotate: false
-  xy: 337, 16
+  xy: 452, 16
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_7_1.png
   rotate: false
-  xy: 360, 16
+  xy: 475, 16
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_7_2.png
   rotate: false
-  xy: 383, 16
+  xy: 337, 3
   size: 21, 11
   orig: 21, 11
   offset: 0, 0
   index: -1
 trousers_F_minishorts_h_wlk_lg_2027_7_3.png
   rotate: false
-  xy: 406, 16
+  xy: 360, 3
   size: 21, 11
   orig: 21, 11
   offset: 0, 0

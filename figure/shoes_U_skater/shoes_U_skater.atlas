@@ -6,56 +6,56 @@ filter: Nearest,Nearest
 repeat: none
 shoes_U_skater_h_lay_sh_2111_2_0.png
   rotate: false
-  xy: 316, 11
+  xy: 320, 11
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
-shoes_U_skater_h_lay_sh_2112_2_0.png
-  rotate: false
-  xy: 474, 15
-  size: 19, 15
-  orig: 19, 15
-  offset: 0, 0
-  index: -1
-shoes_U_skater_h_lay_sh_2112_2_0.png
-  rotate: false
-  xy: 495, 15
-  size: 19, 15
-  orig: 19, 15
-  offset: 0, 0
-  index: -1
 shoes_U_skater_h_sit_sh_2111_0_0.png
   rotate: false
-  xy: 516, 11
+  xy: 368, 11
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
   index: -1
 shoes_U_skater_h_sit_sh_2111_2_0.png
   rotate: false
-  xy: 292, 11
+  xy: 344, 11
   size: 22, 19
   orig: 22, 19
   offset: 0, 0
   index: -1
 shoes_U_skater_h_sit_sh_2112_0_0.png
   rotate: false
-  xy: 555, 7
+  xy: 305, 20
   size: 13, 10
   orig: 13, 10
   offset: 0, 0
   index: -1
+shoes_U_skater_h_sit_sh_2112_2_0.png
+  rotate: false
+  xy: 463, 15
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+shoes_U_skater_h_sit_sh_2112_2_0.png
+  rotate: false
+  xy: 484, 15
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
 shoes_U_skater_h_std_sh_2111_0_0.png
   rotate: false
-  xy: 340, 17
+  xy: 246, 17
   size: 26, 13
   orig: 26, 13
   offset: 0, 0
   index: -1
 shoes_U_skater_h_std_sh_2111_1_0.png
   rotate: false
-  xy: 535, 19
+  xy: 463, 2
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
@@ -83,42 +83,42 @@ shoes_U_skater_h_std_sh_2111_7_0.png
   index: -1
 shoes_U_skater_h_std_sh_2112_0_0.png
   rotate: false
-  xy: 413, 2
+  xy: 555, 16
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shoes_U_skater_h_std_sh_2112_1_0.png
   rotate: false
-  xy: 403, 2
+  xy: 450, 5
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shoes_U_skater_h_std_sh_2112_2_0.png
   rotate: false
-  xy: 556, 19
+  xy: 484, 2
   size: 16, 11
   orig: 16, 11
   offset: 0, 0
   index: -1
 shoes_U_skater_h_std_sh_2112_3_0.png
   rotate: false
-  xy: 674, 27
+  xy: 565, 27
   size: 19, 3
   orig: 19, 3
   offset: 0, 0
   index: -1
 shoes_U_skater_h_std_sh_2112_7_0.png
   rotate: false
-  xy: 695, 28
+  xy: 586, 28
   size: 19, 2
   orig: 19, 2
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2111_0_0.png
   rotate: false
-  xy: 342, 2
+  xy: 246, 2
   size: 25, 13
   orig: 25, 13
   offset: 0, 0
@@ -139,14 +139,14 @@ shoes_U_skater_h_wlk_sh_2111_0_2.png
   index: -1
 shoes_U_skater_h_wlk_sh_2111_0_3.png
   rotate: false
-  xy: 246, 2
+  xy: 274, 2
   size: 22, 16
   orig: 22, 16
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2111_1_0.png
   rotate: false
-  xy: 452, 17
+  xy: 417, 2
   size: 20, 13
   orig: 20, 13
   offset: 0, 0
@@ -160,7 +160,7 @@ shoes_U_skater_h_wlk_sh_2111_1_1.png
   index: -1
 shoes_U_skater_h_wlk_sh_2111_1_2.png
   rotate: false
-  xy: 429, 17
+  xy: 418, 17
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
@@ -209,7 +209,7 @@ shoes_U_skater_h_wlk_sh_2111_3_0.png
   index: -1
 shoes_U_skater_h_wlk_sh_2111_3_1.png
   rotate: false
-  xy: 369, 4
+  xy: 441, 14
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
@@ -223,7 +223,7 @@ shoes_U_skater_h_wlk_sh_2111_3_2.png
   index: -1
 shoes_U_skater_h_wlk_sh_2111_3_3.png
   rotate: false
-  xy: 270, 2
+  xy: 298, 2
   size: 20, 16
   orig: 20, 16
   offset: 0, 0
@@ -237,7 +237,7 @@ shoes_U_skater_h_wlk_sh_2111_7_1.png
   index: -1
 shoes_U_skater_h_wlk_sh_2111_7_2.png
   rotate: false
-  xy: 223, 2
+  xy: 201, 2
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
@@ -251,133 +251,133 @@ shoes_U_skater_h_wlk_sh_2111_7_3.png
   index: -1
 shoes_U_skater_h_wlk_sh_2112_0_0.png
   rotate: false
-  xy: 413, 17
+  xy: 607, 25
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_0_1.png
   rotate: false
-  xy: 292, 2
+  xy: 320, 2
   size: 28, 7
   orig: 28, 7
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_0_2.png
   rotate: false
-  xy: 422, 2
+  xy: 502, 6
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_0_3.png
   rotate: false
-  xy: 391, 10
+  xy: 405, 2
   size: 10, 10
   orig: 10, 10
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_1_0.png
   rotate: false
-  xy: 391, 2
+  xy: 25, 5
   size: 10, 6
   orig: 10, 6
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_1_1.png
   rotate: false
-  xy: 399, 24
+  xy: 387, 14
   size: 28, 6
   orig: 28, 6
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_1_2.png
   rotate: false
-  xy: 403, 17
+  xy: 545, 18
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_1_3.png
   rotate: false
-  xy: 368, 22
+  xy: 387, 22
   size: 29, 8
   orig: 29, 8
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_2_0.png
   rotate: false
-  xy: 201, 2
+  xy: 223, 2
   size: 20, 11
   orig: 20, 11
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_2_1.png
   rotate: false
-  xy: 25, 4
+  xy: 439, 5
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_2_2.png
   rotate: false
-  xy: 277, 20
+  xy: 390, 2
   size: 13, 10
   orig: 13, 10
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_2_3.png
   rotate: false
-  xy: 246, 20
+  xy: 274, 20
   size: 29, 10
   orig: 29, 10
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_3_0.png
   rotate: false
-  xy: 535, 12
+  xy: 505, 25
   size: 18, 5
   orig: 18, 5
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_3_1.png
   rotate: false
-  xy: 322, 2
+  xy: 370, 2
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_3_2.png
   rotate: false
-  xy: 594, 25
+  xy: 505, 18
   size: 18, 5
   orig: 18, 5
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_3_3.png
   rotate: false
-  xy: 574, 23
+  xy: 350, 2
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_7_1.png
   rotate: false
-  xy: 614, 25
+  xy: 525, 25
   size: 18, 5
   orig: 18, 5
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_7_2.png
   rotate: false
-  xy: 634, 25
+  xy: 525, 18
   size: 18, 5
   orig: 18, 5
   offset: 0, 0
   index: -1
 shoes_U_skater_h_wlk_sh_2112_7_3.png
   rotate: false
-  xy: 654, 25
+  xy: 545, 25
   size: 18, 5
   orig: 18, 5
   offset: 0, 0

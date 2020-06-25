@@ -1,0 +1,97 @@
+
+hat_U_obeyc.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_obeyc_h_lay_ha_5125_2_0.png
+  rotate: false
+  xy: 38, 2
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_h_lay_ha_5126_2_0.png
+  rotate: false
+  xy: 134, 26
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_h_spk_ha_5125_3_0.png
+  rotate: false
+  xy: 78, 32
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_h_spk_ha_5126_1_0.png
+  rotate: false
+  xy: 203, 43
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_h_spk_ha_5126_2_0.png
+  rotate: false
+  xy: 226, 43
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_h_spk_ha_5126_3_0.png
+  rotate: false
+  xy: 106, 21
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_h_std_ha_5125_0_0.png
+  rotate: false
+  xy: 2, 4
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_h_std_ha_5125_1_0.png
+  rotate: false
+  xy: 38, 35
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_h_std_ha_5125_2_0.png
+  rotate: false
+  xy: 2, 30
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_h_std_ha_5125_7_0.png
+  rotate: false
+  xy: 106, 38
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_h_std_ha_5126_0_0.png
+  rotate: false
+  xy: 134, 43
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_sh_spk_ha_5126_7_0.png
+  rotate: false
+  xy: 157, 43
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+hat_U_obeyc_sh_spk_ha_5126_7_0.png
+  rotate: false
+  xy: 180, 43
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1

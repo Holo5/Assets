@@ -34,7 +34,7 @@ hat_U_mardihat_h_lsp_ha_2230_2_0.png
   index: -1
 hat_U_mardihat_h_spk_ha_2229_0_0.png
   rotate: false
-  xy: 318, 11
+  xy: 362, 11
   size: 42, 51
   orig: 42, 51
   offset: 0, 0
@@ -55,14 +55,14 @@ hat_U_mardihat_h_spk_ha_2229_2_0.png
   index: -1
 hat_U_mardihat_h_spk_ha_2229_3_0.png
   rotate: false
-  xy: 159, 13
+  xy: 104, 13
   size: 53, 49
   orig: 53, 49
   offset: 0, 0
   index: -1
 hat_U_mardihat_h_spk_ha_2229_7_0.png
   rotate: false
-  xy: 266, 13
+  xy: 214, 13
   size: 50, 49
   orig: 50, 49
   offset: 0, 0
@@ -76,7 +76,7 @@ hat_U_mardihat_h_spk_ha_2230_0_0.png
   index: -1
 hat_U_mardihat_h_spk_ha_2230_1_0.png
   rotate: false
-  xy: 770, 39
+  xy: 748, 39
   size: 20, 23
   orig: 20, 23
   offset: 0, 0
@@ -90,7 +90,7 @@ hat_U_mardihat_h_spk_ha_2230_2_0.png
   index: -1
 hat_U_mardihat_h_spk_ha_2230_3_0.png
   rotate: false
-  xy: 721, 44
+  xy: 694, 44
   size: 25, 18
   orig: 25, 18
   offset: 0, 0
@@ -104,7 +104,7 @@ hat_U_mardihat_h_spk_ha_2230_7_0.png
   index: -1
 hat_U_mardihat_h_std_ha_2229_0_0.png
   rotate: false
-  xy: 362, 12
+  xy: 318, 12
   size: 42, 50
   orig: 42, 50
   offset: 0, 0
@@ -125,14 +125,14 @@ hat_U_mardihat_h_std_ha_2229_2_0.png
   index: -1
 hat_U_mardihat_h_std_ha_2229_3_0.png
   rotate: false
-  xy: 104, 13
+  xy: 159, 13
   size: 53, 49
   orig: 53, 49
   offset: 0, 0
   index: -1
 hat_U_mardihat_h_std_ha_2229_7_0.png
   rotate: false
-  xy: 214, 12
+  xy: 266, 12
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -146,7 +146,7 @@ hat_U_mardihat_h_std_ha_2230_0_0.png
   index: -1
 hat_U_mardihat_h_std_ha_2230_1_0.png
   rotate: false
-  xy: 748, 40
+  xy: 770, 40
   size: 20, 22
   orig: 20, 22
   offset: 0, 0
@@ -160,7 +160,7 @@ hat_U_mardihat_h_std_ha_2230_2_0.png
   index: -1
 hat_U_mardihat_h_std_ha_2230_3_0.png
   rotate: false
-  xy: 694, 44
+  xy: 721, 44
   size: 25, 18
   orig: 25, 18
   offset: 0, 0

@@ -4,39 +4,18 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-jacket_U_kevlar_h_crr_lc_2737_3_0.png
-  rotate: false
-  xy: 51, 2
-  size: 4, 11
-  orig: 4, 11
-  offset: 0, 0
-  index: -1
-jacket_U_kevlar_h_crr_rc_2737_2_0.png
-  rotate: false
-  xy: 51, 15
-  size: 6, 15
-  orig: 6, 15
-  offset: 0, 0
-  index: -1
-jacket_U_kevlar_h_crr_rc_2737_3_0.png
-  rotate: false
-  xy: 57, 2
-  size: 4, 11
-  orig: 4, 11
-  offset: 0, 0
-  index: -1
-jacket_U_kevlar_h_drk_rc_2737_0_0.png
-  rotate: false
-  xy: 66, 14
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 jacket_U_kevlar_h_drk_rc_2737_2_0.png
   rotate: false
   xy: 69, 15
   size: 5, 15
   orig: 5, 15
+  offset: 0, 0
+  index: -1
+jacket_U_kevlar_h_drk_rc_2737_3_0.png
+  rotate: false
+  xy: 51, 2
+  size: 4, 11
+  orig: 4, 11
   offset: 0, 0
   index: -1
 jacket_U_kevlar_h_lay_cc_2737_2_0.png
@@ -81,6 +60,34 @@ jacket_U_kevlar_h_std_cc_2737_7_0.png
   orig: 24, 30
   offset: 0, 0
   index: -1
+jacket_U_kevlar_h_std_lc_2737_3_0.png
+  rotate: false
+  xy: 122, 36
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+jacket_U_kevlar_h_std_lc_2737_7_0.png
+  rotate: false
+  xy: 115, 23
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+jacket_U_kevlar_h_std_rc_2737_2_0.png
+  rotate: false
+  xy: 51, 15
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
+jacket_U_kevlar_h_std_rc_2737_7_0.png
+  rotate: false
+  xy: 110, 23
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
 jacket_U_kevlar_h_wav_lc_2737_3_0.png
   rotate: false
   xy: 122, 49
@@ -102,42 +109,42 @@ jacket_U_kevlar_h_wav_lc_2737_5_1.png
   orig: 8, 7
   offset: 0, 0
   index: -1
-jacket_U_kevlar_h_wav_lc_2737_6_0.png
+jacket_U_kevlar_h_wav_lc_2737_6_1.png
   rotate: false
   xy: 59, 17
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
-jacket_U_kevlar_h_wav_lc_2737_7_0.png
+jacket_U_kevlar_h_wav_lc_2737_7_1.png
   rotate: false
   xy: 103, 20
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
   index: -1
-jacket_U_kevlar_h_wlk_lc_2737_1_1.png
+jacket_U_kevlar_h_wlk_lc_2737_3_0.png
+  rotate: false
+  xy: 57, 2
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1
+jacket_U_kevlar_h_wlk_rc_2737_0_0.png
+  rotate: false
+  xy: 66, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_kevlar_h_wlk_rc_2737_1_1.png
   rotate: false
   xy: 76, 17
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
-jacket_U_kevlar_h_wlk_lc_2737_3_0.png
-  rotate: false
-  xy: 122, 36
-  size: 4, 11
-  orig: 4, 11
-  offset: 0, 0
-  index: -1
-jacket_U_kevlar_h_wlk_lc_2737_7_0.png
-  rotate: false
-  xy: 115, 23
-  size: 3, 7
-  orig: 3, 7
-  offset: 0, 0
-  index: -1
-jacket_U_kevlar_h_wlk_rc_2737_2_2.png
+jacket_U_kevlar_h_wlk_rc_2737_2_1.png
   rotate: false
   xy: 95, 23
   size: 6, 7
@@ -151,17 +158,10 @@ jacket_U_kevlar_h_wlk_rc_2737_2_3.png
   orig: 7, 8
   offset: 0, 0
   index: -1
-jacket_U_kevlar_h_wlk_rc_2737_3_3.png
+jacket_U_kevlar_h_wlk_rc_2737_3_2.png
   rotate: false
   xy: 122, 23
   size: 4, 11
   orig: 4, 11
-  offset: 0, 0
-  index: -1
-jacket_U_kevlar_h_wlk_rc_2737_7_3.png
-  rotate: false
-  xy: 110, 23
-  size: 3, 7
-  orig: 3, 7
   offset: 0, 0
   index: -1

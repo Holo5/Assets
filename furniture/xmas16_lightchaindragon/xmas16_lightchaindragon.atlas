@@ -1,0 +1,20 @@
+
+xmas16_lightchaindragon.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas16_lightchaindragon_xmas16_lightchaindragon_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 81, 112
+  orig: 81, 112
+  offset: 0, 0
+  index: -1
+xmas16_lightchaindragon_xmas16_lightchaindragon_icon_a.png
+  rotate: false
+  xy: 85, 79
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+calippo_pillar.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+calippo_pillar_calippo_pillar_64_a_2_0.png
+  rotate: false
+  xy: 2, 27
+  size: 49, 178
+  orig: 49, 178
+  offset: 0, 0
+  index: -1
+calippo_pillar_calippo_pillar_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1

@@ -11,32 +11,11 @@ acc_head_U_gold3_h_lay_he_3102_2_0.png
   orig: 31, 43
   offset: 0, 0
   index: -1
-acc_head_U_gold3_h_lsp_he_3103_2_0.png
-  rotate: false
-  xy: 2, 2
-  size: 7, 7
-  orig: 7, 7
-  offset: 0, 0
-  index: -1
 acc_head_U_gold3_h_spk_he_3102_0_0.png
   rotate: false
   xy: 73, 7
   size: 28, 54
   orig: 28, 54
-  offset: 0, 0
-  index: -1
-acc_head_U_gold3_h_spk_he_3102_1_0.png
-  rotate: false
-  xy: 133, 3
-  size: 21, 58
-  orig: 21, 58
-  offset: 0, 0
-  index: -1
-acc_head_U_gold3_h_spk_he_3102_2_0.png
-  rotate: false
-  xy: 103, 5
-  size: 28, 56
-  orig: 28, 56
   offset: 0, 0
   index: -1
 acc_head_U_gold3_h_spk_he_3102_3_0.png
@@ -46,10 +25,31 @@ acc_head_U_gold3_h_spk_he_3102_3_0.png
   orig: 34, 50
   offset: 0, 0
   index: -1
+acc_head_U_gold3_h_std_he_3102_1_0.png
+  rotate: false
+  xy: 133, 3
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+acc_head_U_gold3_h_std_he_3102_2_0.png
+  rotate: false
+  xy: 103, 5
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
 acc_head_U_gold3_h_std_he_3102_7_0.png
   rotate: false
   xy: 38, 11
   size: 33, 50
   orig: 33, 50
+  offset: 0, 0
+  index: -1
+acc_head_U_gold3_h_std_he_3103_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 7, 7
+  orig: 7, 7
   offset: 0, 0
   index: -1

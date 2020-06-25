@@ -6,56 +6,56 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_bedhair_h_lay_hr_2898_2_0.png
   rotate: false
-  xy: 269, 26
+  xy: 234, 26
   size: 33, 36
   orig: 33, 36
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_lay_hrb_2898_2_0.png
   rotate: false
-  xy: 234, 26
+  xy: 269, 26
   size: 33, 36
   orig: 33, 36
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_lsp_hr_2898_2_0.png
   rotate: false
-  xy: 198, 25
+  xy: 162, 25
   size: 34, 37
   orig: 34, 37
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_lsp_hrb_2898_2_0.png
   rotate: false
-  xy: 162, 25
+  xy: 198, 25
   size: 34, 37
   orig: 34, 37
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_spk_hr_2898_0_0.png
   rotate: false
-  xy: 340, 28
+  xy: 304, 28
   size: 34, 34
   orig: 34, 34
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_spk_hr_2898_1_0.png
   rotate: false
-  xy: 753, 32
+  xy: 717, 32
   size: 34, 30
   orig: 34, 30
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_spk_hr_2898_2_0.png
   rotate: false
-  xy: 492, 31
+  xy: 643, 31
   size: 36, 31
   orig: 36, 31
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_spk_hr_2898_3_0.png
   rotate: false
-  xy: 453, 32
+  xy: 451, 32
   size: 37, 30
   orig: 37, 30
   offset: 0, 0
@@ -69,28 +69,28 @@ hair_U_bedhair_h_spk_hr_2898_7_0.png
   index: -1
 hair_U_bedhair_h_spk_hrb_2898_0_0.png
   rotate: false
-  xy: 304, 28
+  xy: 340, 28
   size: 34, 34
   orig: 34, 34
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_spk_hrb_2898_1_0.png
   rotate: false
-  xy: 717, 32
+  xy: 753, 32
   size: 34, 30
   orig: 34, 30
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_spk_hrb_2898_2_0.png
   rotate: false
-  xy: 376, 31
+  xy: 605, 31
   size: 36, 31
   orig: 36, 31
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_spk_hrb_2898_3_0.png
   rotate: false
-  xy: 414, 32
+  xy: 412, 32
   size: 37, 30
   orig: 37, 30
   offset: 0, 0
@@ -104,7 +104,7 @@ hair_U_bedhair_h_spk_hrb_2898_7_0.png
   index: -1
 hair_U_bedhair_h_std_hr_2898_0_0.png
   rotate: false
-  xy: 643, 29
+  xy: 376, 29
   size: 34, 33
   orig: 34, 33
   offset: 0, 0
@@ -118,14 +118,14 @@ hair_U_bedhair_h_std_hr_2898_1_0.png
   index: -1
 hair_U_bedhair_h_std_hr_2898_2_0.png
   rotate: false
-  xy: 530, 32
+  xy: 528, 32
   size: 36, 30
   orig: 36, 30
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_std_hr_2898_3_0.png
   rotate: false
-  xy: 568, 33
+  xy: 566, 33
   size: 37, 29
   orig: 37, 29
   offset: 0, 0
@@ -139,7 +139,7 @@ hair_U_bedhair_h_std_hr_2898_7_0.png
   index: -1
 hair_U_bedhair_h_std_hrb_2898_0_0.png
   rotate: false
-  xy: 607, 29
+  xy: 681, 29
   size: 34, 33
   orig: 34, 33
   offset: 0, 0
@@ -153,14 +153,14 @@ hair_U_bedhair_h_std_hrb_2898_1_0.png
   index: -1
 hair_U_bedhair_h_std_hrb_2898_2_0.png
   rotate: false
-  xy: 679, 32
+  xy: 490, 32
   size: 36, 30
   orig: 36, 30
   offset: 0, 0
   index: -1
 hair_U_bedhair_h_std_hrb_2898_3_0.png
   rotate: false
-  xy: 568, 2
+  xy: 566, 2
   size: 37, 29
   orig: 37, 29
   offset: 0, 0

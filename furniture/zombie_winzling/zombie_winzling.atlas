@@ -1,0 +1,69 @@
+
+zombie_winzling.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zombie_winzling_zombie_winzling_64_a_2_0.png
+  rotate: false
+  xy: 30, 2
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+zombie_winzling_zombie_winzling_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+zombie_winzling_zombie_winzling_64_a_2_2.png
+  rotate: false
+  xy: 114, 2
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+zombie_winzling_zombie_winzling_64_a_2_4.png
+  rotate: false
+  xy: 86, 2
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+zombie_winzling_zombie_winzling_64_a_2_5.png
+  rotate: false
+  xy: 58, 2
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+zombie_winzling_zombie_winzling_64_a_2_6.png
+  rotate: false
+  xy: 170, 2
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+zombie_winzling_zombie_winzling_64_a_2_7.png
+  rotate: false
+  xy: 142, 2
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+zombie_winzling_zombie_winzling_64_sd_2_0.png
+  rotate: false
+  xy: 198, 41
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+zombie_winzling_zombie_winzling_icon_a.png
+  rotate: false
+  xy: 234, 37
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1

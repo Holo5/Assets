@@ -1,0 +1,20 @@
+
+egghunt_6.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+egghunt_6_egghunt_6_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+egghunt_6_egghunt_6_icon_a.png
+  rotate: false
+  xy: 54, 29
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

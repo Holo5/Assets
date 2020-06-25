@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 hat_U_skulldino_h_lay_ha_2757_2_0.png
   rotate: false
-  xy: 80, 11
+  xy: 120, 11
   size: 38, 32
   orig: 38, 32
   offset: 0, 0
   index: -1
 hat_U_skulldino_h_lsp_ha_2757_2_0.png
   rotate: false
-  xy: 120, 11
+  xy: 80, 11
   size: 38, 32
   orig: 38, 32
   offset: 0, 0
@@ -27,30 +27,23 @@ hat_U_skulldino_h_spk_ha_2757_0_0.png
   index: -1
 hat_U_skulldino_h_spk_ha_2757_1_0.png
   rotate: false
-  xy: 160, 9
+  xy: 196, 9
   size: 34, 34
   orig: 34, 34
   offset: 0, 0
   index: -1
 hat_U_skulldino_h_spk_ha_2757_2_0.png
   rotate: false
-  xy: 232, 3
+  xy: 264, 3
   size: 30, 40
   orig: 30, 40
   offset: 0, 0
   index: -1
 hat_U_skulldino_h_spk_ha_2757_3_0.png
   rotate: false
-  xy: 327, 2
+  xy: 324, 2
   size: 26, 41
   orig: 26, 41
-  offset: 0, 0
-  index: -1
-hat_U_skulldino_h_spk_ha_2757_7_0.png
-  rotate: false
-  xy: 296, 7
-  size: 29, 36
-  orig: 29, 36
   offset: 0, 0
   index: -1
 hat_U_skulldino_h_std_ha_2757_0_0.png
@@ -62,22 +55,29 @@ hat_U_skulldino_h_std_ha_2757_0_0.png
   index: -1
 hat_U_skulldino_h_std_ha_2757_1_0.png
   rotate: false
-  xy: 196, 10
+  xy: 160, 10
   size: 34, 33
   orig: 34, 33
   offset: 0, 0
   index: -1
 hat_U_skulldino_h_std_ha_2757_2_0.png
   rotate: false
-  xy: 264, 4
+  xy: 232, 4
   size: 30, 39
   orig: 30, 39
   offset: 0, 0
   index: -1
 hat_U_skulldino_h_std_ha_2757_3_0.png
   rotate: false
-  xy: 355, 3
+  xy: 296, 3
   size: 26, 40
   orig: 26, 40
+  offset: 0, 0
+  index: -1
+hat_U_skulldino_h_std_ha_2757_7_0.png
+  rotate: false
+  xy: 352, 7
+  size: 29, 36
+  orig: 29, 36
   offset: 0, 0
   index: -1

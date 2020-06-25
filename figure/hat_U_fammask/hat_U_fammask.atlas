@@ -27,7 +27,7 @@ hat_U_fammask_h_spk_ha_2791_0_0.png
   index: -1
 hat_U_fammask_h_spk_ha_2791_1_0.png
   rotate: false
-  xy: 168, 6
+  xy: 136, 6
   size: 32, 53
   orig: 32, 53
   offset: 0, 0
@@ -41,14 +41,14 @@ hat_U_fammask_h_spk_ha_2791_2_0.png
   index: -1
 hat_U_fammask_h_spk_ha_2791_3_0.png
   rotate: false
-  xy: 136, 3
+  xy: 268, 3
   size: 30, 56
   orig: 30, 56
   offset: 0, 0
   index: -1
 hat_U_fammask_h_spk_ha_2791_7_0.png
   rotate: false
-  xy: 268, 8
+  xy: 204, 8
   size: 30, 51
   orig: 30, 51
   offset: 0, 0
@@ -62,7 +62,7 @@ hat_U_fammask_h_std_ha_2791_0_0.png
   index: -1
 hat_U_fammask_h_std_ha_2791_1_0.png
   rotate: false
-  xy: 234, 8
+  xy: 170, 8
   size: 32, 51
   orig: 32, 51
   offset: 0, 0
@@ -76,7 +76,7 @@ hat_U_fammask_h_std_ha_2791_2_0.png
   index: -1
 hat_U_fammask_h_std_ha_2791_3_0.png
   rotate: false
-  xy: 202, 5
+  xy: 236, 5
   size: 30, 54
   orig: 30, 54
   offset: 0, 0

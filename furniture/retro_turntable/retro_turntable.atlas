@@ -1,0 +1,27 @@
+
+retro_turntable.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+retro_turntable_retro_turntable_64_a_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+retro_turntable_retro_turntable_64_sd_2_0.png
+  rotate: false
+  xy: 79, 43
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+retro_turntable_retro_turntable_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

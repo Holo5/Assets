@@ -13,21 +13,28 @@ hat_U_armyhelmet_h_lay_ha_2281_2_0.png
   index: -1
 hat_U_armyhelmet_h_spk_ha_2281_0_0.png
   rotate: false
-  xy: 68, 29
+  xy: 35, 29
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
   index: -1
 hat_U_armyhelmet_h_spk_ha_2281_1_0.png
   rotate: false
-  xy: 35, 29
+  xy: 2, 29
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
   index: -1
+hat_U_armyhelmet_h_spk_ha_2281_3_0.png
+  rotate: false
+  xy: 199, 33
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
 hat_U_armyhelmet_h_std_ha_2281_0_0.png
   rotate: false
-  xy: 2, 29
+  xy: 68, 29
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
@@ -44,13 +51,6 @@ hat_U_armyhelmet_h_std_ha_2281_2_0.png
   xy: 101, 30
   size: 31, 31
   orig: 31, 31
-  offset: 0, 0
-  index: -1
-hat_U_armyhelmet_h_std_ha_2281_3_0.png
-  rotate: false
-  xy: 199, 33
-  size: 30, 28
-  orig: 30, 28
   offset: 0, 0
   index: -1
 hat_U_armyhelmet_h_std_ha_2281_7_0.png

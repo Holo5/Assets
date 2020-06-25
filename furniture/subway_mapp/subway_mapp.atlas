@@ -1,0 +1,20 @@
+
+subway_mapp.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+subway_mapp_subway_mapp_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 92, 101
+  orig: 92, 101
+  offset: 0, 0
+  index: -1
+subway_mapp_subway_mapp_icon_a.png
+  rotate: false
+  xy: 96, 73
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

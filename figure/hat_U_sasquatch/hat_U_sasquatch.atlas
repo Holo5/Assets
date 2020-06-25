@@ -20,7 +20,7 @@ hat_U_sasquatch_h_lsp_ha_3095_2_0.png
   index: -1
 hat_U_sasquatch_h_spk_ha_3095_1_0.png
   rotate: false
-  xy: 152, 2
+  xy: 2, 2
   size: 35, 46
   orig: 35, 46
   offset: 0, 0
@@ -39,16 +39,23 @@ hat_U_sasquatch_h_spk_ha_3095_3_0.png
   orig: 35, 46
   offset: 0, 0
   index: -1
+hat_U_sasquatch_h_spk_ha_3095_7_0.png
+  rotate: false
+  xy: 115, 3
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
 hat_U_sasquatch_h_std_ha_3095_0_0.png
   rotate: false
-  xy: 2, 4
+  xy: 39, 4
   size: 37, 44
   orig: 37, 44
   offset: 0, 0
   index: -1
 hat_U_sasquatch_h_std_ha_3095_1_0.png
   rotate: false
-  xy: 41, 3
+  xy: 152, 3
   size: 35, 45
   orig: 35, 45
   offset: 0, 0
@@ -63,13 +70,6 @@ hat_U_sasquatch_h_std_ha_3095_2_0.png
 hat_U_sasquatch_h_std_ha_3095_3_0.png
   rotate: false
   xy: 78, 3
-  size: 35, 45
-  orig: 35, 45
-  offset: 0, 0
-  index: -1
-hat_U_sasquatch_h_std_ha_3095_7_0.png
-  rotate: false
-  xy: 115, 3
   size: 35, 45
   orig: 35, 45
   offset: 0, 0

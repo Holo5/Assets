@@ -1,0 +1,83 @@
+
+unicorn16_fan.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+unicorn16_fan_unicorn16_fan_64_a_2_0.png
+  rotate: false
+  xy: 2, 45
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+unicorn16_fan_unicorn16_fan_64_a_6_0.png
+  rotate: false
+  xy: 48, 47
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+unicorn16_fan_unicorn16_fan_64_b_2_0.png
+  rotate: false
+  xy: 5, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+unicorn16_fan_unicorn16_fan_64_b_2_1.png
+  rotate: false
+  xy: 2, 5
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+unicorn16_fan_unicorn16_fan_64_c_2_0.png
+  rotate: false
+  xy: 123, 90
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+unicorn16_fan_unicorn16_fan_64_c_2_1.png
+  rotate: false
+  xy: 158, 90
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+unicorn16_fan_unicorn16_fan_64_c_2_2.png
+  rotate: false
+  xy: 85, 51
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+unicorn16_fan_unicorn16_fan_64_c_2_3.png
+  rotate: false
+  xy: 120, 53
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+unicorn16_fan_unicorn16_fan_64_d_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+unicorn16_fan_unicorn16_fan_64_sd_2_0.png
+  rotate: false
+  xy: 191, 112
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+unicorn16_fan_unicorn16_fan_icon_a.png
+  rotate: false
+  xy: 85, 90
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

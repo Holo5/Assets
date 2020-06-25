@@ -1,0 +1,20 @@
+
+pik02.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pik02_pik02_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+pik02_pik02_icon_a.png
+  rotate: false
+  xy: 54, 27
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

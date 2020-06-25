@@ -1,0 +1,20 @@
+
+DI_10_diam_coin.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+DI_10_diam_coin_DI_10_diam_coin_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+DI_10_diam_coin_DI_10_diam_coin_icon_a.png
+  rotate: false
+  xy: 2, 22
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+tile_stackmagic3.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tile_stackmagic3_tile_stackmagic3_64_a_0_0.png
+  rotate: false
+  xy: 2, 38
+  size: 638, 321
+  orig: 638, 321
+  offset: 0, 0
+  index: -1
+tile_stackmagic3_tile_stackmagic3_64_a_0_1.png
+  rotate: false
+  xy: 642, 38
+  size: 638, 321
+  orig: 638, 321
+  offset: 0, 0
+  index: -1
+tile_stackmagic3_tile_stackmagic3_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1

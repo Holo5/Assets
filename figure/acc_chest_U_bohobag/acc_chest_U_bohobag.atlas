@@ -20,7 +20,7 @@ acc_chest_U_bohobag_h_lay_ca_3388_2_0.png
   index: -1
 acc_chest_U_bohobag_h_std_ca_3387_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 24, 2
   size: 20, 42
   orig: 20, 42
   offset: 0, 0
@@ -34,7 +34,7 @@ acc_chest_U_bohobag_h_std_ca_3387_1_0.png
   index: -1
 acc_chest_U_bohobag_h_std_ca_3387_2_0.png
   rotate: false
-  xy: 24, 2
+  xy: 2, 2
   size: 20, 42
   orig: 20, 42
   offset: 0, 0
@@ -55,7 +55,7 @@ acc_chest_U_bohobag_h_std_ca_3387_7_0.png
   index: -1
 acc_chest_U_bohobag_h_std_ca_3388_0_0.png
   rotate: false
-  xy: 175, 6
+  xy: 155, 6
   size: 18, 38
   orig: 18, 38
   offset: 0, 0
@@ -69,7 +69,7 @@ acc_chest_U_bohobag_h_std_ca_3388_1_0.png
   index: -1
 acc_chest_U_bohobag_h_std_ca_3388_2_0.png
   rotate: false
-  xy: 155, 6
+  xy: 175, 6
   size: 18, 38
   orig: 18, 38
   offset: 0, 0

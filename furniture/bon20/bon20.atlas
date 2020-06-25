@@ -1,0 +1,20 @@
+
+bon20.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bon20_bon20_64_a_0_0.png
+  rotate: false
+  xy: 48, 2
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+bon20_bon20_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1

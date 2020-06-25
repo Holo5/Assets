@@ -1,0 +1,104 @@
+
+USAV_Roller.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+USAV_Roller_USAV_Roller_64_a_0_0.png
+  rotate: false
+  xy: 68, 22
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_64_b_0_0.png
+  rotate: false
+  xy: 2, 22
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_64_b_4_0.png
+  rotate: false
+  xy: 134, 22
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_64_c_4_0.png
+  rotate: false
+  xy: 33, 2
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_64_d_0_0.png
+  rotate: false
+  xy: 366, 33
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_64_d_0_1.png
+  rotate: false
+  xy: 262, 32
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_64_d_0_2.png
+  rotate: false
+  xy: 366, 2
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_64_d_4_0.png
+  rotate: false
+  xy: 315, 2
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_64_d_4_1.png
+  rotate: false
+  xy: 315, 32
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_64_d_4_2.png
+  rotate: false
+  xy: 262, 2
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_64_sd_0_0.png
+  rotate: false
+  xy: 200, 31
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_icon_a.png
+  rotate: false
+  xy: 417, 42
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+USAV_Roller_USAV_Roller_icon_b.png
+  rotate: false
+  xy: 451, 43
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1

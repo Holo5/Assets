@@ -1,0 +1,27 @@
+
+st_kameldragon.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_kameldragon_st_kameldragon_64_a_2_0.png
+  rotate: false
+  xy: 2, 59
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+st_kameldragon_st_kameldragon_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+st_kameldragon_st_kameldragon_icon_a.png
+  rotate: false
+  xy: 2, 21
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1

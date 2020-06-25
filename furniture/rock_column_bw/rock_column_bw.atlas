@@ -1,0 +1,27 @@
+
+rock_column_bw.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rock_column_bw_rock_column_bw_64_a_0_0.png
+  rotate: false
+  xy: 59, 34
+  size: 55, 140
+  orig: 55, 140
+  offset: 0, 0
+  index: -1
+rock_column_bw_rock_column_bw_64_a_0_1.png
+  rotate: false
+  xy: 2, 34
+  size: 55, 140
+  orig: 55, 140
+  offset: 0, 0
+  index: -1
+rock_column_bw_rock_column_bw_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

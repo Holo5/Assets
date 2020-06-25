@@ -1,0 +1,41 @@
+
+rare_pianosofa_brown.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_pianosofa_brown_rare_pianosofa_brown_64_a_2_0.png
+  rotate: false
+  xy: 56, 8
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+rare_pianosofa_brown_rare_pianosofa_brown_64_c_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 52, 93
+  orig: 52, 93
+  offset: 0, 0
+  index: -1
+rare_pianosofa_brown_rare_pianosofa_brown_64_d_2_0.png
+  rotate: false
+  xy: 156, 93
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+rare_pianosofa_brown_rare_pianosofa_brown_64_sd_2_0.png
+  rotate: false
+  xy: 56, 88
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+rare_pianosofa_brown_rare_pianosofa_brown_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

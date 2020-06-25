@@ -1,0 +1,657 @@
+
+shirt_U_hoboo.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shirt_U_hoboo_h_crr_ls_7049_0_0.png
+  rotate: false
+  xy: 191, 2
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_ls_7049_1_0.png
+  rotate: false
+  xy: 327, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_ls_7049_2_0.png
+  rotate: false
+  xy: 295, 3
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_ls_7049_3_0.png
+  rotate: false
+  xy: 526, 6
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_ls_7049_4_0.png
+  rotate: false
+  xy: 584, 33
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_ls_7049_5_0.png
+  rotate: false
+  xy: 218, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_ls_7049_6_0.png
+  rotate: false
+  xy: 448, 2
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_ls_7049_7_0.png
+  rotate: false
+  xy: 142, 2
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_rs_7049_0_0.png
+  rotate: false
+  xy: 93, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_rs_7049_1_0.png
+  rotate: false
+  xy: 309, 7
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_rs_7049_2_0.png
+  rotate: false
+  xy: 565, 33
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_rs_7049_3_0.png
+  rotate: false
+  xy: 466, 3
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_rs_7049_4_0.png
+  rotate: false
+  xy: 281, 3
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_rs_7049_5_0.png
+  rotate: false
+  xy: 200, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_rs_7049_6_0.png
+  rotate: false
+  xy: 173, 2
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_crr_rs_7049_7_0.png
+  rotate: false
+  xy: 131, 2
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_drk_rs_7049_0_0.png
+  rotate: false
+  xy: 153, 3
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_drk_rs_7049_1_0.png
+  rotate: false
+  xy: 826, 48
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_drk_rs_7049_2_0.png
+  rotate: false
+  xy: 775, 45
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_drk_rs_7049_3_0.png
+  rotate: false
+  xy: 429, 2
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_drk_rs_7049_4_0.png
+  rotate: false
+  xy: 345, 5
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_drk_rs_7049_5_0.png
+  rotate: false
+  xy: 800, 46
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_drk_rs_7049_6_0.png
+  rotate: false
+  xy: 64, 9
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_drk_rs_7049_7_0.png
+  rotate: false
+  xy: 362, 5
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_lay_ch_7049_2_0.png
+  rotate: false
+  xy: 209, 35
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_lay_ls_7049_2_0.png
+  rotate: false
+  xy: 345, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_lay_rs_7049_2_0.png
+  rotate: false
+  xy: 750, 44
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_ch_7049_0_0.png
+  rotate: false
+  xy: 249, 28
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_ch_7049_1_0.png
+  rotate: false
+  xy: 2, 26
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_ch_7049_2_0.png
+  rotate: false
+  xy: 110, 25
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_ch_7049_3_0.png
+  rotate: false
+  xy: 342, 23
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_ls_7049_0_0.png
+  rotate: false
+  xy: 779, 16
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_ls_7049_1_0.png
+  rotate: false
+  xy: 42, 2
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_ls_7049_3_0.png
+  rotate: false
+  xy: 614, 6
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_ls_7049_7_0.png
+  rotate: false
+  xy: 603, 5
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_rs_7049_0_0.png
+  rotate: false
+  xy: 552, 5
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_rs_7049_1_0.png
+  rotate: false
+  xy: 53, 2
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_rs_7049_2_0.png
+  rotate: false
+  xy: 757, 16
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_rs_7049_3_0.png
+  rotate: false
+  xy: 637, 7
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_std_rs_7049_7_0.png
+  rotate: false
+  xy: 592, 3
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_0_0.png
+  rotate: false
+  xy: 236, 2
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_0_1.png
+  rotate: false
+  xy: 731, 38
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_1_0.png
+  rotate: false
+  xy: 268, 2
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_1_1.png
+  rotate: false
+  xy: 712, 9
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_2_0.png
+  rotate: false
+  xy: 479, 10
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_2_1.png
+  rotate: false
+  xy: 622, 37
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_3_0.png
+  rotate: false
+  xy: 697, 35
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_3_1.png
+  rotate: false
+  xy: 526, 35
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_4_0.png
+  rotate: false
+  xy: 603, 35
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_4_1.png
+  rotate: false
+  xy: 679, 35
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_5_0.png
+  rotate: false
+  xy: 642, 36
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_5_1.png
+  rotate: false
+  xy: 661, 36
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_6_0.png
+  rotate: false
+  xy: 504, 36
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_6_1.png
+  rotate: false
+  xy: 479, 37
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_7_0.png
+  rotate: false
+  xy: 546, 34
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wav_ls_7049_7_1.png
+  rotate: false
+  xy: 457, 33
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ch_7049_0_0.png
+  rotate: false
+  xy: 311, 28
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ch_7049_0_2.png
+  rotate: false
+  xy: 280, 28
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ch_7049_1_0.png
+  rotate: false
+  xy: 74, 26
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ch_7049_1_2.png
+  rotate: false
+  xy: 38, 26
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ch_7049_2_0.png
+  rotate: false
+  xy: 176, 25
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ch_7049_2_2.png
+  rotate: false
+  xy: 143, 25
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ch_7049_3_0.png
+  rotate: false
+  xy: 400, 23
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ch_7049_3_2.png
+  rotate: false
+  xy: 371, 23
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ch_7049_7_0.png
+  rotate: false
+  xy: 429, 27
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_0_0.png
+  rotate: false
+  xy: 670, 7
+  size: 7, 27
+  orig: 7, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_0_1.png
+  rotate: false
+  xy: 182, 2
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_0_3.png
+  rotate: false
+  xy: 625, 8
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_1_0.png
+  rotate: false
+  xy: 30, 2
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_1_3.png
+  rotate: false
+  xy: 822, 22
+  size: 5, 22
+  orig: 5, 22
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_2_1.png
+  rotate: false
+  xy: 579, 6
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_2_2.png
+  rotate: false
+  xy: 726, 9
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_2_3.png
+  rotate: false
+  xy: 853, 48
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_3_0.png
+  rotate: false
+  xy: 659, 7
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_3_1.png
+  rotate: false
+  xy: 690, 6
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_3_3.png
+  rotate: false
+  xy: 701, 7
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_7_1.png
+  rotate: false
+  xy: 768, 16
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_ls_7049_7_3.png
+  rotate: false
+  xy: 679, 7
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_0_0.png
+  rotate: false
+  xy: 512, 7
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_0_1.png
+  rotate: false
+  xy: 565, 6
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_0_3.png
+  rotate: false
+  xy: 252, 2
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_1_1.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_1_2.png
+  rotate: false
+  xy: 17, 2
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_1_3.png
+  rotate: false
+  xy: 112, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_2_1.png
+  rotate: false
+  xy: 497, 7
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_2_2.png
+  rotate: false
+  xy: 539, 4
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_2_3.png
+  rotate: false
+  xy: 714, 34
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_3_0.png
+  rotate: false
+  xy: 648, 7
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_3_1.png
+  rotate: false
+  xy: 735, 10
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_3_3.png
+  rotate: false
+  xy: 746, 10
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_7_0.png
+  rotate: false
+  xy: 789, 17
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_7_1.png
+  rotate: false
+  xy: 800, 18
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+shirt_U_hoboo_h_wlk_rs_7049_7_3.png
+  rotate: false
+  xy: 811, 18
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1

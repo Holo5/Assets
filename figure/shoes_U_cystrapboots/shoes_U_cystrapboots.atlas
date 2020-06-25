@@ -20,28 +20,28 @@ shoes_U_cystrapboots_h_lay_sh_2661_2_0.png
   index: -1
 shoes_U_cystrapboots_h_lay_sh_2662_2_0.png
   rotate: false
-  xy: 391, 5
+  xy: 643, 8
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_lay_sh_2662_2_0.png
   rotate: false
-  xy: 664, 7
+  xy: 643, 2
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_lay_sh_2663_2_0.png
   rotate: false
-  xy: 861, 18
+  xy: 781, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_lay_sh_2663_2_0.png
   rotate: false
-  xy: 957, 29
+  xy: 784, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -55,7 +55,7 @@ shoes_U_cystrapboots_h_sit_sh_2661_0_0.png
   index: -1
 shoes_U_cystrapboots_h_sit_sh_2662_0_0.png
   rotate: false
-  xy: 593, 2
+  xy: 595, 2
   size: 16, 10
   orig: 16, 10
   offset: 0, 0
@@ -76,7 +76,7 @@ shoes_U_cystrapboots_h_std_sh_2661_0_0.png
   index: -1
 shoes_U_cystrapboots_h_std_sh_2661_1_0.png
   rotate: false
-  xy: 714, 2
+  xy: 802, 17
   size: 18, 13
   orig: 18, 13
   offset: 0, 0
@@ -97,21 +97,21 @@ shoes_U_cystrapboots_h_std_sh_2661_3_0.png
   index: -1
 shoes_U_cystrapboots_h_std_sh_2661_7_0.png
   rotate: false
-  xy: 669, 2
+  xy: 647, 2
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_std_sh_2662_0_0.png
   rotate: false
-  xy: 75, 2
+  xy: 74, 2
   size: 24, 11
   orig: 24, 11
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_std_sh_2662_1_0.png
   rotate: false
-  xy: 573, 2
+  xy: 26, 2
   size: 18, 10
   orig: 18, 10
   offset: 0, 0
@@ -125,72 +125,79 @@ shoes_U_cystrapboots_h_std_sh_2662_2_0.png
   index: -1
 shoes_U_cystrapboots_h_std_sh_2662_3_0.png
   rotate: false
-  xy: 641, 2
+  xy: 734, 2
   size: 21, 9
   orig: 21, 9
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_std_sh_2662_7_0.png
   rotate: false
-  xy: 155, 9
+  xy: 477, 2
   size: 21, 4
   orig: 21, 4
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_std_sh_2663_0_0.png
   rotate: false
-  xy: 172, 3
+  xy: 534, 2
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_std_sh_2663_0_0.png
   rotate: false
-  xy: 494, 2
+  xy: 540, 2
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
-shoes_U_cystrapboots_h_std_sh_2663_1_0.png
-  rotate: false
-  xy: 855, 16
-  size: 4, 3
-  orig: 4, 3
-  offset: 0, 0
-  index: -1
-shoes_U_cystrapboots_h_std_sh_2663_1_0.png
-  rotate: false
-  xy: 951, 27
-  size: 4, 3
-  orig: 4, 3
-  offset: 0, 0
-  index: -1
-shoes_U_cystrapboots_h_std_sh_2663_1_0.png
-  rotate: false
-  xy: 270, 10
-  size: 4, 3
-  orig: 4, 3
-  offset: 0, 0
-  index: -1
-shoes_U_cystrapboots_h_std_sh_2663_1_0.png
-  rotate: false
-  xy: 259, 4
-  size: 4, 3
-  orig: 4, 3
-  offset: 0, 0
-  index: -1
 shoes_U_cystrapboots_h_std_sh_2663_2_0.png
   rotate: false
-  xy: 917, 22
+  xy: 772, 5
   size: 12, 8
   orig: 12, 8
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_std_sh_2663_3_0.png
   rotate: false
-  xy: 836, 16
+  xy: 154, 10
   size: 17, 3
   orig: 17, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cystrapboots_h_std_sh_2663_7_0.png
+  rotate: false
+  xy: 772, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cystrapboots_h_std_sh_2663_7_0.png
+  rotate: false
+  xy: 546, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cystrapboots_h_std_sh_2663_7_0.png
+  rotate: false
+  xy: 546, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cystrapboots_h_std_sh_2663_7_0.png
+  rotate: false
+  xy: 775, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shoes_U_cystrapboots_h_std_sh_2663_7_0.png
+  rotate: false
+  xy: 778, 2
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2661_0_0.png
@@ -223,7 +230,7 @@ shoes_U_cystrapboots_h_wlk_sh_2661_0_3.png
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2661_1_0.png
   rotate: false
-  xy: 647, 13
+  xy: 740, 13
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
@@ -258,7 +265,7 @@ shoes_U_cystrapboots_h_wlk_sh_2661_2_0.png
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2661_2_1.png
   rotate: false
-  xy: 819, 14
+  xy: 822, 14
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
@@ -279,56 +286,56 @@ shoes_U_cystrapboots_h_wlk_sh_2661_2_3.png
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2661_3_0.png
   rotate: false
-  xy: 734, 2
+  xy: 714, 2
   size: 18, 14
   orig: 18, 14
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2661_3_1.png
   rotate: false
-  xy: 754, 2
+  xy: 694, 2
   size: 18, 14
   orig: 18, 14
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2661_3_2.png
   rotate: false
-  xy: 799, 15
+  xy: 762, 15
   size: 18, 15
   orig: 18, 15
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2661_3_3.png
   rotate: false
-  xy: 779, 15
+  xy: 782, 15
   size: 18, 15
   orig: 18, 15
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2661_7_0.png
   rotate: false
-  xy: 739, 18
+  xy: 717, 18
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2661_7_1.png
   rotate: false
-  xy: 694, 17
+  xy: 672, 17
   size: 20, 13
   orig: 20, 13
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2661_7_2.png
   rotate: false
-  xy: 716, 18
+  xy: 694, 18
   size: 21, 12
   orig: 21, 12
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2661_7_3.png
   rotate: false
-  xy: 692, 2
+  xy: 670, 2
   size: 20, 13
   orig: 20, 13
   offset: 0, 0
@@ -349,28 +356,28 @@ shoes_U_cystrapboots_h_wlk_sh_2662_0_1.png
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2662_0_2.png
   rotate: false
-  xy: 48, 2
+  xy: 47, 2
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2662_0_3.png
   rotate: false
-  xy: 669, 17
+  xy: 647, 17
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2662_1_0.png
   rotate: false
-  xy: 26, 2
+  xy: 573, 2
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2662_1_1.png
   rotate: false
-  xy: 178, 18
+  xy: 221, 18
   size: 41, 12
   orig: 41, 12
   offset: 0, 0
@@ -384,7 +391,7 @@ shoes_U_cystrapboots_h_wlk_sh_2662_1_2.png
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2662_1_3.png
   rotate: false
-  xy: 221, 18
+  xy: 178, 18
   size: 41, 12
   orig: 41, 12
   offset: 0, 0
@@ -398,7 +405,7 @@ shoes_U_cystrapboots_h_wlk_sh_2662_2_0.png
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2662_2_1.png
   rotate: false
-  xy: 762, 18
+  xy: 839, 18
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
@@ -419,28 +426,28 @@ shoes_U_cystrapboots_h_wlk_sh_2662_2_3.png
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2662_3_0.png
   rotate: false
-  xy: 851, 21
+  xy: 757, 2
   size: 13, 9
   orig: 13, 9
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2662_3_1.png
   rotate: false
-  xy: 836, 21
+  xy: 856, 21
   size: 13, 9
   orig: 13, 9
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2662_3_2.png
   rotate: false
-  xy: 626, 2
+  xy: 613, 2
   size: 13, 10
   orig: 13, 10
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2662_3_3.png
   rotate: false
-  xy: 611, 2
+  xy: 628, 2
   size: 13, 10
   orig: 13, 10
   offset: 0, 0
@@ -468,56 +475,84 @@ shoes_U_cystrapboots_h_wlk_sh_2662_7_2.png
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2662_7_3.png
   rotate: false
-  xy: 133, 6
+  xy: 132, 6
   size: 20, 7
   orig: 20, 7
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2663_0_0.png
   rotate: false
-  xy: 264, 9
+  xy: 253, 3
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2663_0_1.png
   rotate: false
-  xy: 101, 4
+  xy: 100, 4
   size: 30, 9
   orig: 30, 9
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2663_0_3.png
   rotate: false
-  xy: 944, 21
+  xy: 922, 21
   size: 5, 9
   orig: 5, 9
   offset: 0, 0
   index: -1
+shoes_U_cystrapboots_h_wlk_sh_2663_1_0.png
+  rotate: false
+  xy: 734, 13
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cystrapboots_h_wlk_sh_2663_1_0.png
+  rotate: false
+  xy: 929, 27
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cystrapboots_h_wlk_sh_2663_1_0.png
+  rotate: false
+  xy: 270, 10
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+shoes_U_cystrapboots_h_wlk_sh_2663_1_0.png
+  rotate: false
+  xy: 259, 4
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
 shoes_U_cystrapboots_h_wlk_sh_2663_1_3.png
   rotate: false
-  xy: 951, 22
+  xy: 929, 22
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2663_2_0.png
   rotate: false
-  xy: 883, 25
+  xy: 905, 25
   size: 15, 5
   orig: 15, 5
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2663_2_1.png
   rotate: false
-  xy: 253, 3
+  xy: 264, 9
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2663_2_2.png
   rotate: false
-  xy: 931, 22
+  xy: 786, 5
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
@@ -531,64 +566,29 @@ shoes_U_cystrapboots_h_wlk_sh_2663_2_3.png
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2663_3_0.png
   rotate: false
-  xy: 900, 26
+  xy: 517, 2
   size: 15, 4
   orig: 15, 4
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2663_3_1.png
   rotate: false
-  xy: 477, 2
+  xy: 500, 2
   size: 15, 4
   orig: 15, 4
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2663_3_2.png
   rotate: false
-  xy: 155, 2
+  xy: 871, 25
   size: 15, 5
   orig: 15, 5
   offset: 0, 0
   index: -1
 shoes_U_cystrapboots_h_wlk_sh_2663_3_3.png
   rotate: false
-  xy: 866, 25
+  xy: 888, 25
   size: 15, 5
   orig: 15, 5
-  offset: 0, 0
-  index: -1
-shoes_U_cystrapboots_h_wlk_sh_2663_7_3.png
-  rotate: false
-  xy: 391, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shoes_U_cystrapboots_h_wlk_sh_2663_7_3.png
-  rotate: false
-  xy: 446, 9
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shoes_U_cystrapboots_h_wlk_sh_2663_7_3.png
-  rotate: false
-  xy: 774, 15
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shoes_U_cystrapboots_h_wlk_sh_2663_7_3.png
-  rotate: false
-  xy: 774, 12
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shoes_U_cystrapboots_h_wlk_sh_2663_7_3.png
-  rotate: false
-  xy: 866, 22
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1

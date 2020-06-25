@@ -1,0 +1,27 @@
+
+acc_print_U_pikaface.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_print_U_pikaface_h_std_cp_6735_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+acc_print_U_pikaface_h_std_cp_6735_3_0.png
+  rotate: false
+  xy: 40, 6
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+acc_print_U_pikaface_h_std_cp_6735_4_0.png
+  rotate: false
+  xy: 21, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1

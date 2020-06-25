@@ -1,0 +1,27 @@
+
+ngh_https_luxtrophy.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngh_https_luxtrophy_ngh_https_luxtrophy_64_a_2_0.png
+  rotate: false
+  xy: 2, 66
+  size: 61, 127
+  orig: 61, 127
+  offset: 0, 0
+  index: -1
+ngh_https_luxtrophy_ngh_https_luxtrophy_64_sd_2_0.png
+  rotate: false
+  xy: 65, 163
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ngh_https_luxtrophy_ngh_https_luxtrophy_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1

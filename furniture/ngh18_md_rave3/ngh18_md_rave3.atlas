@@ -1,0 +1,48 @@
+
+ngh18_md_rave3.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngh18_md_rave3_ngh18_md_rave3_64_a_2_0.png
+  rotate: false
+  xy: 320, 47
+  size: 104, 147
+  orig: 104, 147
+  offset: 0, 0
+  index: -1
+ngh18_md_rave3_ngh18_md_rave3_64_a_2_1.png
+  rotate: false
+  xy: 214, 47
+  size: 104, 147
+  orig: 104, 147
+  offset: 0, 0
+  index: -1
+ngh18_md_rave3_ngh18_md_rave3_64_a_4_0.png
+  rotate: false
+  xy: 108, 47
+  size: 104, 147
+  orig: 104, 147
+  offset: 0, 0
+  index: -1
+ngh18_md_rave3_ngh18_md_rave3_64_a_4_1.png
+  rotate: false
+  xy: 2, 47
+  size: 104, 147
+  orig: 104, 147
+  offset: 0, 0
+  index: -1
+ngh18_md_rave3_ngh18_md_rave3_64_sd_4_0.png
+  rotate: false
+  xy: 426, 177
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+ngh18_md_rave3_ngh18_md_rave3_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+rare17_firewood.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare17_firewood_rare17_firewood_64_a_4_0.png
+  rotate: false
+  xy: 143, 41
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+rare17_firewood_rare17_firewood_64_a_4_1.png
+  rotate: false
+  xy: 71, 41
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+rare17_firewood_rare17_firewood_64_b_4_0.png
+  rotate: false
+  xy: 253, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rare17_firewood_rare17_firewood_64_b_4_1.png
+  rotate: false
+  xy: 71, 14
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+rare17_firewood_rare17_firewood_64_b_4_2.png
+  rotate: false
+  xy: 111, 14
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+rare17_firewood_rare17_firewood_64_b_4_3.png
+  rotate: false
+  xy: 215, 63
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+rare17_firewood_rare17_firewood_64_b_4_4.png
+  rotate: false
+  xy: 215, 36
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+rare17_firewood_rare17_firewood_64_c_4_0.png
+  rotate: false
+  xy: 253, 122
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rare17_firewood_rare17_firewood_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+rare17_firewood_rare17_firewood_icon_a.png
+  rotate: false
+  xy: 215, 90
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+rare17_firewood_rare_dragonlamp_pink_64_a_4_0.png
+  rotate: false
+  xy: 2, 24
+  size: 67, 102
+  orig: 67, 102
+  offset: 0, 0
+  index: -1
+rare17_firewood_rare_dragonlamp_pink_64_b_4_4.png
+  rotate: false
+  xy: 151, 17
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1

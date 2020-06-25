@@ -1,0 +1,104 @@
+
+shangrila_chest.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shangrila_chest_shangrila_chest_64_a_0_0.png
+  rotate: false
+  xy: 61, 366
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_a_0_1.png
+  rotate: false
+  xy: 2, 234
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_a_0_10.png
+  rotate: false
+  xy: 2, 36
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_a_0_11.png
+  rotate: false
+  xy: 61, 168
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_a_0_2.png
+  rotate: false
+  xy: 2, 432
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_a_0_3.png
+  rotate: false
+  xy: 2, 366
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_a_0_4.png
+  rotate: false
+  xy: 61, 432
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_a_0_5.png
+  rotate: false
+  xy: 2, 300
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_a_0_6.png
+  rotate: false
+  xy: 2, 102
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_a_0_7.png
+  rotate: false
+  xy: 61, 234
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_a_0_8.png
+  rotate: false
+  xy: 2, 168
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_a_0_9.png
+  rotate: false
+  xy: 61, 300
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_64_sd_0_0.png
+  rotate: false
+  xy: 61, 124
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+shangrila_chest_shangrila_chest_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1

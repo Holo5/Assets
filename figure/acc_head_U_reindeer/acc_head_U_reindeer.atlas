@@ -11,6 +11,20 @@ acc_head_U_reindeer_h_lay_he_2937_2_0.png
   orig: 28, 18
   offset: 0, 0
   index: -1
+acc_head_U_reindeer_h_spk_he_2937_0_0.png
+  rotate: false
+  xy: 2, 21
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+acc_head_U_reindeer_h_spk_he_2937_1_0.png
+  rotate: false
+  xy: 104, 2
+  size: 10, 28
+  orig: 10, 28
+  offset: 0, 0
+  index: -1
 acc_head_U_reindeer_h_spk_he_2937_7_0.png
   rotate: false
   xy: 104, 32
@@ -18,23 +32,9 @@ acc_head_U_reindeer_h_spk_he_2937_7_0.png
   orig: 58, 30
   offset: 0, 0
   index: -1
-acc_head_U_reindeer_h_std_he_2937_0_0.png
-  rotate: false
-  xy: 53, 21
-  size: 49, 41
-  orig: 49, 41
-  offset: 0, 0
-  index: -1
-acc_head_U_reindeer_h_std_he_2937_1_0.png
-  rotate: false
-  xy: 104, 2
-  size: 10, 28
-  orig: 10, 28
-  offset: 0, 0
-  index: -1
 acc_head_U_reindeer_h_std_he_2937_2_0.png
   rotate: false
-  xy: 2, 21
+  xy: 53, 21
   size: 49, 41
   orig: 49, 41
   offset: 0, 0

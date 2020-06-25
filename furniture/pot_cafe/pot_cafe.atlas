@@ -1,0 +1,27 @@
+
+pot_cafe.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pot_cafe_pot_cafe_64_a_2_1.png
+  rotate: false
+  xy: 22, 2
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+pot_cafe_pot_cafe_64_a_2_2.png
+  rotate: false
+  xy: 42, 2
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+pot_cafe_pot_cafe_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1

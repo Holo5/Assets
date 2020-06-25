@@ -1,0 +1,27 @@
+
+acc_face_U_siga.png
+size: 64,16
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_siga_h_lay_fa_7823_2_0.png
+  rotate: false
+  xy: 38, 2
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+acc_face_U_siga_h_std_fa_7823_1_0.png
+  rotate: false
+  xy: 20, 4
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+acc_face_U_siga_h_std_fa_7823_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1

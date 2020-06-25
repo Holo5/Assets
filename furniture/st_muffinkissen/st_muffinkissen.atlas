@@ -1,0 +1,20 @@
+
+st_muffinkissen.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_muffinkissen_st_muffinkissen_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+st_muffinkissen_st_muffinkissen_icon_a.png
+  rotate: false
+  xy: 80, 23
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1

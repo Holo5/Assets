@@ -1,0 +1,48 @@
+
+rare_dcdragonlamp.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_dcdragonlamp_rare_dcdragonlamp_64_a_2_0.png
+  rotate: false
+  xy: 166, 21
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+rare_dcdragonlamp_rare_dcdragonlamp_64_a_2_1.png
+  rotate: false
+  xy: 248, 21
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+rare_dcdragonlamp_rare_dcdragonlamp_64_a_2_2.png
+  rotate: false
+  xy: 2, 21
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+rare_dcdragonlamp_rare_dcdragonlamp_64_a_2_3.png
+  rotate: false
+  xy: 84, 21
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+rare_dcdragonlamp_rare_dcdragonlamp_64_a_2_4.png
+  rotate: false
+  xy: 330, 21
+  size: 80, 101
+  orig: 80, 101
+  offset: 0, 0
+  index: -1
+rare_dcdragonlamp_rare_dcdragonlamp_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+fire_voodoopuppe.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fire_voodoopuppe_fire_voodoopuppe_64_a_2_0.png
+  rotate: false
+  xy: 2, 234
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+fire_voodoopuppe_fire_voodoopuppe_64_a_2_1.png
+  rotate: false
+  xy: 2, 331
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+fire_voodoopuppe_fire_voodoopuppe_64_a_2_2.png
+  rotate: false
+  xy: 2, 40
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+fire_voodoopuppe_fire_voodoopuppe_64_a_2_3.png
+  rotate: false
+  xy: 2, 137
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+fire_voodoopuppe_fire_voodoopuppe_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+eco_trophy2.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eco_trophy2_eco_trophy2_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+eco_trophy2_eco_trophy2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

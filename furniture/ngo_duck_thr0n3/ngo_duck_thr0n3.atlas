@@ -1,0 +1,34 @@
+
+ngo_duck_thr0n3.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ngo_duck_thr0n3_ngo_duck_thr0n3_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+ngo_duck_thr0n3_ngo_duck_thr0n3_64_b_2_0.png
+  rotate: false
+  xy: 66, 78
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+ngo_duck_thr0n3_ngo_duck_thr0n3_64_sd_2_0.png
+  rotate: false
+  xy: 66, 59
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+ngo_duck_thr0n3_ngo_duck_thr0n3_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

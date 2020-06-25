@@ -1,0 +1,41 @@
+
+bday_dragi.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bday_dragi_bday_dragi_64_a_2_0.png
+  rotate: false
+  xy: 234, 40
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+bday_dragi_bday_dragi_64_a_2_1.png
+  rotate: false
+  xy: 2, 40
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+bday_dragi_bday_dragi_64_a_2_2.png
+  rotate: false
+  xy: 157, 40
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+bday_dragi_bday_dragi_64_a_2_3.png
+  rotate: false
+  xy: 80, 40
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+bday_dragi_bday_dragi_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1

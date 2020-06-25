@@ -13,7 +13,7 @@ shirt_F_football3_h_lay_ch_2175_2_0.png
   index: -1
 shirt_F_football3_h_lay_ch_2176_2_0.png
   rotate: false
-  xy: 127, 13
+  xy: 220, 25
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
@@ -69,14 +69,14 @@ shirt_F_football3_h_std_ch_2176_0_0.png
   index: -1
 shirt_F_football3_h_std_ch_2176_1_0.png
   rotate: false
-  xy: 220, 26
+  xy: 127, 14
   size: 17, 16
   orig: 17, 16
   offset: 0, 0
   index: -1
 shirt_F_football3_h_std_ch_2176_2_0.png
   rotate: false
-  xy: 229, 44
+  xy: 203, 44
   size: 24, 18
   orig: 24, 18
   offset: 0, 0
@@ -111,7 +111,7 @@ shirt_F_football3_h_std_ch_2177_1_0.png
   index: -1
 shirt_F_football3_h_std_ch_2177_2_0.png
   rotate: false
-  xy: 203, 44
+  xy: 229, 44
   size: 24, 18
   orig: 24, 18
   offset: 0, 0

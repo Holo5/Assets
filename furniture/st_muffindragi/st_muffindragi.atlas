@@ -1,0 +1,41 @@
+
+st_muffindragi.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_muffindragi_st_muffindragi_64_a_2_0.png
+  rotate: false
+  xy: 272, 128
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+st_muffindragi_st_muffindragi_64_a_2_2.png
+  rotate: false
+  xy: 182, 33
+  size: 88, 175
+  orig: 88, 175
+  offset: 0, 0
+  index: -1
+st_muffindragi_st_muffindragi_64_a_2_4.png
+  rotate: false
+  xy: 92, 33
+  size: 88, 175
+  orig: 88, 175
+  offset: 0, 0
+  index: -1
+st_muffindragi_st_muffindragi_64_a_2_6.png
+  rotate: false
+  xy: 2, 33
+  size: 88, 175
+  orig: 88, 175
+  offset: 0, 0
+  index: -1
+st_muffindragi_st_muffindragi_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

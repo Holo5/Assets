@@ -1,0 +1,20 @@
+
+poster27.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+poster27_poster27_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+poster27_poster27_icon_a.png
+  rotate: false
+  xy: 66, 24
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1

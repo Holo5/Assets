@@ -1,0 +1,104 @@
+
+towers_roof.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+towers_roof_towers_roof_64_a_0_0.png
+  rotate: false
+  xy: 753, 418
+  size: 130, 67
+  orig: 130, 67
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_b_0_0.png
+  rotate: false
+  xy: 2, 39
+  size: 194, 73
+  orig: 194, 73
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_c_0_0.png
+  rotate: false
+  xy: 509, 412
+  size: 242, 73
+  orig: 242, 73
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_d_0_0.png
+  rotate: false
+  xy: 509, 379
+  size: 200, 31
+  orig: 200, 31
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_e_0_0.png
+  rotate: false
+  xy: 215, 181
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_f_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_g_0_0.png
+  rotate: false
+  xy: 215, 144
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_h_0_0.png
+  rotate: false
+  xy: 885, 114
+  size: 51, 371
+  orig: 51, 371
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_i_0_0.png
+  rotate: false
+  xy: 938, 114
+  size: 32, 371
+  orig: 32, 371
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_j_0_0.png
+  rotate: false
+  xy: 397, 279
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_k_0_0.png
+  rotate: false
+  xy: 2, 114
+  size: 211, 371
+  orig: 211, 371
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_l_0_0.png
+  rotate: false
+  xy: 972, 438
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_64_sd_0_0.png
+  rotate: false
+  xy: 215, 348
+  size: 292, 137
+  orig: 292, 137
+  offset: 0, 0
+  index: -1
+towers_roof_towers_roof_icon_a.png
+  rotate: false
+  xy: 711, 380
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

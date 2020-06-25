@@ -25,58 +25,58 @@ trousers_U_bikinibottom_h_sit_lg_2221_2_0.png
   orig: 24, 16
   offset: 0, 0
   index: -1
-trousers_U_bikinibottom_h_std_lg_2221_0_0.png
-  rotate: false
-  xy: 101, 2
-  size: 21, 13
-  orig: 21, 13
-  offset: 0, 0
-  index: -1
 trousers_U_bikinibottom_h_std_lg_2221_1_0.png
   rotate: false
-  xy: 216, 14
+  xy: 216, 23
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_std_lg_2221_2_0.png
   rotate: false
-  xy: 77, 17
+  xy: 101, 17
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_std_lg_2221_3_0.png
   rotate: false
-  xy: 193, 12
+  xy: 2, 4
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_std_lg_2221_7_0.png
   rotate: false
-  xy: 193, 22
+  xy: 193, 12
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
+trousers_U_bikinibottom_h_wlk_lg_2221_0_0.png
+  rotate: false
+  xy: 101, 2
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
 trousers_U_bikinibottom_h_wlk_lg_2221_0_1.png
   rotate: false
-  xy: 77, 2
+  xy: 77, 17
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_wlk_lg_2221_0_3.png
   rotate: false
-  xy: 101, 17
+  xy: 77, 2
   size: 22, 13
   orig: 22, 13
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_wlk_lg_2221_1_0.png
   rotate: false
-  xy: 216, 23
+  xy: 216, 14
   size: 16, 7
   orig: 16, 7
   offset: 0, 0
@@ -111,56 +111,56 @@ trousers_U_bikinibottom_h_wlk_lg_2221_2_3.png
   index: -1
 trousers_U_bikinibottom_h_wlk_lg_2221_3_0.png
   rotate: false
-  xy: 170, 12
+  xy: 25, 4
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_wlk_lg_2221_3_1.png
   rotate: false
-  xy: 170, 2
+  xy: 147, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_wlk_lg_2221_3_2.png
   rotate: false
-  xy: 2, 4
+  xy: 147, 2
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_wlk_lg_2221_3_3.png
   rotate: false
-  xy: 147, 22
+  xy: 147, 12
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_wlk_lg_2221_7_0.png
   rotate: false
-  xy: 147, 12
+  xy: 193, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_wlk_lg_2221_7_1.png
   rotate: false
-  xy: 25, 4
+  xy: 170, 2
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_wlk_lg_2221_7_2.png
   rotate: false
-  xy: 170, 22
+  xy: 170, 12
   size: 21, 8
   orig: 21, 8
   offset: 0, 0
   index: -1
 trousers_U_bikinibottom_h_wlk_lg_2221_7_3.png
   rotate: false
-  xy: 147, 2
+  xy: 170, 22
   size: 21, 8
   orig: 21, 8
   offset: 0, 0

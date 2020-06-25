@@ -1,0 +1,27 @@
+
+ads_spyro_arcade.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_spyro_arcade_ads_spyro_arcade_64_a_2_0.png
+  rotate: false
+  xy: 68, 2
+  size: 64, 111
+  orig: 64, 111
+  offset: 0, 0
+  index: -1
+ads_spyro_arcade_ads_spyro_arcade_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 111
+  orig: 64, 111
+  offset: 0, 0
+  index: -1
+ads_spyro_arcade_ads_spyro_arcade_icon_a.png
+  rotate: false
+  xy: 134, 57
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1

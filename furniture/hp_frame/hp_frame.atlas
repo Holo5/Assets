@@ -1,0 +1,27 @@
+
+hp_frame.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_frame_hp_frame_64_a_2_0.png
+  rotate: false
+  xy: 47, 2
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+hp_frame_hp_frame_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+hp_frame_hp_frame_icon_a.png
+  rotate: false
+  xy: 92, 24
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

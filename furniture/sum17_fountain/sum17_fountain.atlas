@@ -1,0 +1,48 @@
+
+sum17_fountain.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sum17_fountain_sum17_fountain_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sum17_fountain_sum17_fountain_64_b_0_1.png
+  rotate: false
+  xy: 36, 5
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+sum17_fountain_sum17_fountain_64_b_0_2.png
+  rotate: false
+  xy: 73, 45
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+sum17_fountain_sum17_fountain_64_b_0_3.png
+  rotate: false
+  xy: 73, 80
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+sum17_fountain_sum17_fountain_64_c_0_0.png
+  rotate: false
+  xy: 2, 41
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+sum17_fountain_sum17_fountain_icon_a.png
+  rotate: false
+  xy: 2, 5
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+hp_candy.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_candy_hp_candy_64_a_2_0.png
+  rotate: false
+  xy: 1066, 29
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+hp_candy_hp_candy_64_a_2_1.png
+  rotate: false
+  xy: 1218, 29
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+hp_candy_hp_candy_64_a_2_2.png
+  rotate: false
+  xy: 762, 29
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+hp_candy_hp_candy_64_a_2_3.png
+  rotate: false
+  xy: 914, 29
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+hp_candy_hp_candy_64_a_2_4.png
+  rotate: false
+  xy: 306, 29
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+hp_candy_hp_candy_64_a_2_5.png
+  rotate: false
+  xy: 458, 29
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+hp_candy_hp_candy_64_a_2_6.png
+  rotate: false
+  xy: 2, 29
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+hp_candy_hp_candy_64_a_2_7.png
+  rotate: false
+  xy: 154, 29
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+hp_candy_hp_candy_64_a_2_8.png
+  rotate: false
+  xy: 610, 29
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+hp_candy_hp_candy_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1

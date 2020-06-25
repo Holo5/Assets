@@ -1,0 +1,55 @@
+
+liverare19_bluedragonlamp.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+liverare19_bluedragonlamp_liverare19_bluedragonlamp_64_a_4_0.png
+  rotate: false
+  xy: 2, 163
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+liverare19_bluedragonlamp_liverare19_bluedragonlamp_64_a_4_1.png
+  rotate: false
+  xy: 2, 241
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+liverare19_bluedragonlamp_liverare19_bluedragonlamp_64_b_4_1.png
+  rotate: false
+  xy: 2, 39
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+liverare19_bluedragonlamp_liverare19_bluedragonlamp_64_b_4_2.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+liverare19_bluedragonlamp_liverare19_bluedragonlamp_64_b_4_3.png
+  rotate: false
+  xy: 34, 124
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+liverare19_bluedragonlamp_liverare19_bluedragonlamp_64_b_4_4.png
+  rotate: false
+  xy: 2, 82
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+liverare19_bluedragonlamp_liverare19_bluedragonlamp_icon_a.png
+  rotate: false
+  xy: 2, 123
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1

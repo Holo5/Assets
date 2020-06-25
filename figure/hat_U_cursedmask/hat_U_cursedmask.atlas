@@ -11,27 +11,6 @@ hat_U_cursedmask_h_lay_ha_2998_2_0.png
   orig: 34, 34
   offset: 0, 0
   index: -1
-hat_U_cursedmask_h_spk_ha_2998_0_0.png
-  rotate: false
-  xy: 154, 6
-  size: 35, 42
-  orig: 35, 42
-  offset: 0, 0
-  index: -1
-hat_U_cursedmask_h_spk_ha_2998_1_0.png
-  rotate: false
-  xy: 2, 3
-  size: 39, 45
-  orig: 39, 45
-  offset: 0, 0
-  index: -1
-hat_U_cursedmask_h_spk_ha_2998_2_0.png
-  rotate: false
-  xy: 43, 3
-  size: 35, 45
-  orig: 35, 45
-  offset: 0, 0
-  index: -1
 hat_U_cursedmask_h_spk_ha_2998_3_0.png
   rotate: false
   xy: 80, 2
@@ -39,7 +18,28 @@ hat_U_cursedmask_h_spk_ha_2998_3_0.png
   orig: 35, 46
   offset: 0, 0
   index: -1
-hat_U_cursedmask_h_spk_ha_2998_7_0.png
+hat_U_cursedmask_h_std_ha_2998_0_0.png
+  rotate: false
+  xy: 154, 6
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+hat_U_cursedmask_h_std_ha_2998_1_0.png
+  rotate: false
+  xy: 2, 3
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+hat_U_cursedmask_h_std_ha_2998_2_0.png
+  rotate: false
+  xy: 43, 3
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+hat_U_cursedmask_h_std_ha_2998_7_0.png
   rotate: false
   xy: 117, 6
   size: 35, 42

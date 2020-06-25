@@ -1,0 +1,251 @@
+
+mini_totem_head.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mini_totem_head_mini_totem_head_64_a_2_0.png
+  rotate: false
+  xy: 1186, 10
+  size: 30, 48
+  orig: 30, 48
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_a_2_1.png
+  rotate: false
+  xy: 1218, 8
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_a_2_2.png
+  rotate: false
+  xy: 1248, 15
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_a_2_3.png
+  rotate: false
+  xy: 1124, 7
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_a_2_4.png
+  rotate: false
+  xy: 1156, 2
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_a_2_5.png
+  rotate: false
+  xy: 1082, 15
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_0.png
+  rotate: false
+  xy: 1082, 12
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_1.png
+  rotate: false
+  xy: 642, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_10.png
+  rotate: false
+  xy: 922, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_11.png
+  rotate: false
+  xy: 962, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_12.png
+  rotate: false
+  xy: 1002, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_13.png
+  rotate: false
+  xy: 1042, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_14.png
+  rotate: false
+  xy: 762, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_15.png
+  rotate: false
+  xy: 802, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_16.png
+  rotate: false
+  xy: 842, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_17.png
+  rotate: false
+  xy: 882, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_18.png
+  rotate: false
+  xy: 362, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_19.png
+  rotate: false
+  xy: 322, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_2.png
+  rotate: false
+  xy: 682, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_20.png
+  rotate: false
+  xy: 2, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_21.png
+  rotate: false
+  xy: 122, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_22.png
+  rotate: false
+  xy: 162, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_23.png
+  rotate: false
+  xy: 42, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_24.png
+  rotate: false
+  xy: 82, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_25.png
+  rotate: false
+  xy: 242, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_26.png
+  rotate: false
+  xy: 282, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_27.png
+  rotate: false
+  xy: 202, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_3.png
+  rotate: false
+  xy: 562, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_4.png
+  rotate: false
+  xy: 602, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_5.png
+  rotate: false
+  xy: 482, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_6.png
+  rotate: false
+  xy: 522, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_7.png
+  rotate: false
+  xy: 402, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_8.png
+  rotate: false
+  xy: 442, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_64_b_2_9.png
+  rotate: false
+  xy: 722, 5
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+mini_totem_head_mini_totem_head_icon_a.png
+  rotate: false
+  xy: 1277, 29
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+accurate_john_statue_ngh.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+accurate_john_statue_ngh_accurate_john_statue_ngh_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 121
+  orig: 65, 121
+  offset: 0, 0
+  index: -1
+accurate_john_statue_ngh_accurate_john_statue_ngh_icon_a.png
+  rotate: false
+  xy: 69, 93
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

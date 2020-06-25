@@ -6,42 +6,42 @@ filter: Nearest,Nearest
 repeat: none
 acc_eye_U_bloodglasses_h_lay_ea_3256_2_0.png
   rotate: false
-  xy: 56, 10
+  xy: 30, 5
   size: 22, 20
   orig: 22, 20
   offset: 0, 0
   index: -1
 acc_eye_U_bloodglasses_h_std_ea_3256_0_0.png
   rotate: false
-  xy: 80, 2
+  xy: 99, 12
   size: 10, 13
   orig: 10, 13
   offset: 0, 0
   index: -1
 acc_eye_U_bloodglasses_h_std_ea_3256_1_0.png
   rotate: false
-  xy: 80, 17
+  xy: 80, 12
   size: 17, 13
   orig: 17, 13
   offset: 0, 0
   index: -1
 acc_eye_U_bloodglasses_h_std_ea_3256_2_0.png
   rotate: false
-  xy: 2, 13
+  xy: 2, 8
   size: 26, 17
   orig: 26, 17
   offset: 0, 0
   index: -1
 acc_eye_U_bloodglasses_h_std_ea_3256_3_0.png
   rotate: false
-  xy: 30, 15
+  xy: 54, 10
   size: 24, 15
   orig: 24, 15
   offset: 0, 0
   index: -1
 acc_eye_U_bloodglasses_h_std_ea_3256_7_0.png
   rotate: false
-  xy: 2, 7
+  xy: 2, 2
   size: 26, 4
   orig: 26, 4
   offset: 0, 0

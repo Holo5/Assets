@@ -1,0 +1,20 @@
+
+hp_alchemybook.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_alchemybook_hp_alchemybook_64_a_2_0.png
+  rotate: false
+  xy: 2, 24
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+hp_alchemybook_hp_alchemybook_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1

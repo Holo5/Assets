@@ -1,0 +1,27 @@
+
+mesitam_caj1.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mesitam_caj1_mesitam_caj1_64_a_0_0.png
+  rotate: false
+  xy: 2, 58
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+mesitam_caj1_mesitam_caj1_64_sd_0_0.png
+  rotate: false
+  xy: 2, 40
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+mesitam_caj1_mesitam_caj1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1

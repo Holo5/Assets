@@ -1,0 +1,48 @@
+
+CC01_Kevo.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CC01_Kevo_CC01_Kevo_64_a_2_0.png
+  rotate: false
+  xy: 2, 18
+  size: 64, 130
+  orig: 64, 130
+  offset: 0, 0
+  index: -1
+CC01_Kevo_CC01_Kevo_64_a_2_1.png
+  rotate: false
+  xy: 68, 18
+  size: 64, 130
+  orig: 64, 130
+  offset: 0, 0
+  index: -1
+CC01_Kevo_CC01_Kevo_64_a_4_0.png
+  rotate: false
+  xy: 200, 18
+  size: 64, 130
+  orig: 64, 130
+  offset: 0, 0
+  index: -1
+CC01_Kevo_CC01_Kevo_64_a_4_1.png
+  rotate: false
+  xy: 134, 18
+  size: 64, 130
+  orig: 64, 130
+  offset: 0, 0
+  index: -1
+CC01_Kevo_CC01_Kevo_64_sd_4_0.png
+  rotate: false
+  xy: 266, 134
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+CC01_Kevo_CC01_Kevo_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+testing9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+testing9_testing9_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 390, 949
+  orig: 390, 949
+  offset: 0, 0
+  index: -1
+testing9_testing9_64_a_2_1.png
+  rotate: false
+  xy: 394, 92
+  size: 316, 886
+  orig: 316, 886
+  offset: 0, 0
+  index: -1
+testing9_testing9_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

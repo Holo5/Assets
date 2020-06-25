@@ -1,0 +1,20 @@
+
+fontein2_draak.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fontein2_draak_fontein2_draak_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 95, 249
+  orig: 95, 249
+  offset: 0, 0
+  index: -1
+fontein2_draak_fontein2_draak_icon_a.png
+  rotate: false
+  xy: 99, 233
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

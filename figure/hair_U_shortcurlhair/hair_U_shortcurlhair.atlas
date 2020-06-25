@@ -4,14 +4,14 @@ size: 256,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hair_U_shortcurlhair_h_lay_hr_3253_2_0.png
+hair_U_shortcurlhair_h_lsp_hr_3253_2_0.png
   rotate: false
-  xy: 105, 78
+  xy: 70, 40
   size: 29, 34
   orig: 29, 34
   offset: 0, 0
   index: -1
-hair_U_shortcurlhair_h_lay_hrb_3253_2_0.png
+hair_U_shortcurlhair_h_lsp_hrb_3253_2_0.png
   rotate: false
   xy: 35, 3
   size: 29, 34
@@ -20,106 +20,106 @@ hair_U_shortcurlhair_h_lay_hrb_3253_2_0.png
   index: -1
 hair_U_shortcurlhair_h_spk_hr_3253_0_0.png
   rotate: false
-  xy: 2, 40
+  xy: 37, 77
   size: 33, 35
   orig: 33, 35
   offset: 0, 0
   index: -1
 hair_U_shortcurlhair_h_spk_hr_3253_1_0.png
   rotate: false
-  xy: 66, 5
+  xy: 101, 42
   size: 30, 32
   orig: 30, 32
   offset: 0, 0
   index: -1
 hair_U_shortcurlhair_h_spk_hr_3253_2_0.png
   rotate: false
-  xy: 169, 80
+  xy: 171, 80
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
   index: -1
 hair_U_shortcurlhair_h_spk_hr_3253_3_0.png
   rotate: false
-  xy: 136, 47
+  xy: 166, 47
   size: 31, 31
   orig: 31, 31
   offset: 0, 0
   index: -1
 hair_U_shortcurlhair_h_spk_hr_3253_7_0.png
   rotate: false
-  xy: 72, 76
+  xy: 2, 2
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+hair_U_shortcurlhair_h_spk_hrb_3253_1_0.png
+  rotate: false
+  xy: 204, 80
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hair_U_shortcurlhair_h_spk_hrb_3253_2_0.png
+  rotate: false
+  xy: 105, 80
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+hair_U_shortcurlhair_h_spk_hrb_3253_3_0.png
+  rotate: false
+  xy: 199, 47
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+hair_U_shortcurlhair_h_spk_hrb_3253_7_0.png
+  rotate: false
+  xy: 37, 39
   size: 31, 36
   orig: 31, 36
   offset: 0, 0
   index: -1
 hair_U_shortcurlhair_h_std_hr_3253_0_0.png
   rotate: false
-  xy: 2, 77
+  xy: 2, 40
   size: 33, 35
   orig: 33, 35
   offset: 0, 0
   index: -1
 hair_U_shortcurlhair_h_std_hr_3253_1_0.png
   rotate: false
-  xy: 70, 42
+  xy: 66, 5
   size: 30, 32
   orig: 30, 32
   offset: 0, 0
   index: -1
 hair_U_shortcurlhair_h_std_hr_3253_2_0.png
   rotate: false
-  xy: 136, 80
+  xy: 138, 80
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
   index: -1
 hair_U_shortcurlhair_h_std_hr_3253_3_0.png
   rotate: false
-  xy: 98, 9
+  xy: 133, 47
   size: 31, 31
   orig: 31, 31
   offset: 0, 0
   index: -1
 hair_U_shortcurlhair_h_std_hr_3253_7_0.png
   rotate: false
-  xy: 2, 2
+  xy: 72, 76
   size: 31, 36
   orig: 31, 36
   offset: 0, 0
   index: -1
 hair_U_shortcurlhair_h_std_hrb_3253_0_0.png
   rotate: false
-  xy: 37, 77
+  xy: 2, 77
   size: 33, 35
   orig: 33, 35
-  offset: 0, 0
-  index: -1
-hair_U_shortcurlhair_h_std_hrb_3253_1_0.png
-  rotate: false
-  xy: 102, 42
-  size: 30, 32
-  orig: 30, 32
-  offset: 0, 0
-  index: -1
-hair_U_shortcurlhair_h_std_hrb_3253_2_0.png
-  rotate: false
-  xy: 202, 80
-  size: 31, 32
-  orig: 31, 32
-  offset: 0, 0
-  index: -1
-hair_U_shortcurlhair_h_std_hrb_3253_3_0.png
-  rotate: false
-  xy: 131, 9
-  size: 31, 31
-  orig: 31, 31
-  offset: 0, 0
-  index: -1
-hair_U_shortcurlhair_h_std_hrb_3253_7_0.png
-  rotate: false
-  xy: 37, 39
-  size: 31, 36
-  orig: 31, 36
   offset: 0, 0
   index: -1

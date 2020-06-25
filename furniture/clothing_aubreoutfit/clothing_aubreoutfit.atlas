@@ -1,0 +1,27 @@
+
+clothing_aubreoutfit.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_aubreoutfit_clothing_aubreoutfit_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 40, 106
+  orig: 40, 106
+  offset: 0, 0
+  index: -1
+clothing_aubreoutfit_clothing_aubreoutfit_64_a_2_1.png
+  rotate: false
+  xy: 44, 139
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+clothing_aubreoutfit_clothing_aubreoutfit_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

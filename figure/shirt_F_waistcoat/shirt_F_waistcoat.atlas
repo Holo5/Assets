@@ -6,70 +6,70 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_waistcoat_h_crr_ls_3341_3_0.png
   rotate: false
-  xy: 239, 17
+  xy: 219, 56
   size: 4, 11
   orig: 4, 11
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_ls_3341_4_0.png
   rotate: false
-  xy: 224, 2
+  xy: 326, 60
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_ls_3341_5_0.png
   rotate: false
-  xy: 348, 94
+  xy: 241, 59
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_ls_3341_6_0.png
   rotate: false
-  xy: 437, 108
+  xy: 373, 65
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_ls_3341_7_0.png
   rotate: false
-  xy: 176, 84
+  xy: 320, 66
   size: 4, 21
   orig: 4, 21
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_ls_3342_0_0.png
   rotate: false
-  xy: 108, 74
+  xy: 53, 2
   size: 14, 19
   orig: 14, 19
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_ls_3342_2_0.png
   rotate: false
-  xy: 76, 27
+  xy: 264, 64
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_ls_3342_3_0.png
   rotate: false
-  xy: 96, 50
+  xy: 160, 83
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_ls_3342_4_0.png
   rotate: false
-  xy: 150, 83
+  xy: 120, 4
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_ls_3342_5_0.png
   rotate: false
-  xy: 47, 27
+  xy: 283, 85
   size: 12, 17
   orig: 12, 17
   offset: 0, 0
@@ -83,42 +83,49 @@ shirt_F_waistcoat_h_crr_ls_3342_6_0.png
   index: -1
 shirt_F_waistcoat_h_crr_ls_3342_7_0.png
   rotate: false
-  xy: 180, 41
+  xy: 149, 50
   size: 6, 20
   orig: 6, 20
   offset: 0, 0
   index: -1
+shirt_F_waistcoat_h_crr_ls_3343_2_0.png
+  rotate: false
+  xy: 34, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 shirt_F_waistcoat_h_crr_rs_3341_0_0.png
   rotate: false
-  xy: 168, 25
+  xy: 428, 94
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3341_2_0.png
   rotate: false
-  xy: 237, 2
+  xy: 235, 52
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3341_3_0.png
   rotate: false
-  xy: 208, 19
+  xy: 393, 95
   size: 5, 11
   orig: 5, 11
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3341_7_0.png
   rotate: false
-  xy: 97, 5
+  xy: 129, 72
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3342_0_0.png
   rotate: false
-  xy: 331, 107
+  xy: 366, 107
   size: 15, 19
   orig: 15, 19
   offset: 0, 0
@@ -139,168 +146,168 @@ shirt_F_waistcoat_h_crr_rs_3342_2_0.png
   index: -1
 shirt_F_waistcoat_h_crr_rs_3342_3_0.png
   rotate: false
-  xy: 136, 59
+  xy: 100, 2
   size: 11, 22
   orig: 11, 22
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3342_4_0.png
   rotate: false
-  xy: 178, 6
+  xy: 306, 66
   size: 7, 17
   orig: 7, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3342_5_0.png
   rotate: false
-  xy: 230, 66
+  xy: 270, 84
   size: 11, 17
   orig: 11, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3342_6_0.png
   rotate: false
-  xy: 175, 63
+  xy: 37, 2
   size: 14, 19
   orig: 14, 19
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3342_7_0.png
   rotate: false
-  xy: 146, 5
+  xy: 349, 87
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3343_0_0.png
   rotate: false
-  xy: 245, 21
+  xy: 393, 86
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3343_1_0.png
   rotate: false
-  xy: 246, 37
+  xy: 170, 13
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3343_2_0.png
   rotate: false
-  xy: 401, 100
+  xy: 165, 33
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3343_3_0.png
   rotate: false
-  xy: 410, 100
+  xy: 225, 60
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3343_4_0.png
   rotate: false
-  xy: 427, 93
+  xy: 161, 14
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3343_5_0.png
   rotate: false
-  xy: 255, 70
+  xy: 170, 23
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_crr_rs_3343_6_0.png
   rotate: false
-  xy: 244, 47
+  xy: 176, 17
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3341_0_0.png
   rotate: false
-  xy: 216, 31
+  xy: 131, 27
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3341_1_0.png
   rotate: false
-  xy: 206, 2
+  xy: 418, 96
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3341_3_0.png
   rotate: false
-  xy: 224, 17
+  xy: 400, 96
   size: 7, 11
   orig: 7, 11
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3341_4_0.png
   rotate: false
-  xy: 251, 69
+  xy: 369, 63
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3341_5_0.png
   rotate: false
-  xy: 137, 26
+  xy: 383, 96
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3341_7_0.png
   rotate: false
-  xy: 206, 32
+  xy: 349, 71
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3342_0_0.png
   rotate: false
-  xy: 19, 9
+  xy: 60, 74
   size: 16, 17
   orig: 16, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3342_1_0.png
   rotate: false
-  xy: 461, 115
+  xy: 440, 115
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3342_2_0.png
   rotate: false
-  xy: 274, 108
+  xy: 182, 108
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3342_3_0.png
   rotate: false
-  xy: 60, 74
+  xy: 19, 9
   size: 16, 17
   orig: 16, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3342_4_0.png
   rotate: false
-  xy: 99, 33
+  xy: 203, 91
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3342_5_0.png
   rotate: false
-  xy: 440, 115
+  xy: 461, 115
   size: 19, 11
   orig: 19, 11
   offset: 0, 0
@@ -314,49 +321,49 @@ shirt_F_waistcoat_h_drk_rs_3342_6_0.png
   index: -1
 shirt_F_waistcoat_h_drk_rs_3342_7_0.png
   rotate: false
-  xy: 206, 48
+  xy: 118, 27
   size: 11, 14
   orig: 11, 14
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3343_0_0.png
   rotate: false
-  xy: 355, 88
+  xy: 225, 54
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3343_1_0.png
   rotate: false
-  xy: 429, 102
+  xy: 349, 65
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3343_2_0.png
   rotate: false
-  xy: 389, 93
+  xy: 161, 7
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3343_4_0.png
   rotate: false
-  xy: 261, 78
+  xy: 382, 71
   size: 7, 4
   orig: 7, 4
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3343_5_0.png
   rotate: false
-  xy: 270, 79
+  xy: 382, 77
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_drk_rs_3343_6_0.png
   rotate: false
-  xy: 216, 10
+  xy: 400, 87
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
@@ -370,21 +377,21 @@ shirt_F_waistcoat_h_lay_ch_3341_2_0.png
   index: -1
 shirt_F_waistcoat_h_lay_ch_3342_2_0.png
   rotate: false
-  xy: 155, 25
+  xy: 364, 93
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_lay_ch_3343_2_0.png
   rotate: false
-  xy: 233, 10
+  xy: 192, 45
   size: 6, 4
   orig: 6, 4
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_lay_ls_3342_2_0.png
   rotate: false
-  xy: 325, 96
+  xy: 136, 72
   size: 17, 9
   orig: 17, 9
   offset: 0, 0
@@ -405,7 +412,7 @@ shirt_F_waistcoat_h_lay_rs_3342_2_0.png
   index: -1
 shirt_F_waistcoat_h_lay_rs_3343_2_0.png
   rotate: false
-  xy: 215, 19
+  xy: 409, 97
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
@@ -447,14 +454,14 @@ shirt_F_waistcoat_h_std_ch_3341_7_0.png
   index: -1
 shirt_F_waistcoat_h_std_ch_3342_0_0.png
   rotate: false
-  xy: 325, 87
+  xy: 119, 43
   size: 18, 7
   orig: 18, 7
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_ch_3342_1_0.png
   rotate: false
-  xy: 348, 108
+  xy: 331, 108
   size: 16, 18
   orig: 16, 18
   offset: 0, 0
@@ -468,7 +475,7 @@ shirt_F_waistcoat_h_std_ch_3342_2_0.png
   index: -1
 shirt_F_waistcoat_h_std_ch_3342_3_0.png
   rotate: false
-  xy: 254, 108
+  xy: 202, 108
   size: 18, 18
   orig: 18, 18
   offset: 0, 0
@@ -482,28 +489,28 @@ shirt_F_waistcoat_h_std_ch_3342_7_0.png
   index: -1
 shirt_F_waistcoat_h_std_ch_3343_1_0.png
   rotate: false
-  xy: 126, 3
+  xy: 174, 36
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_ch_3343_2_0.png
   rotate: false
-  xy: 436, 93
+  xy: 391, 75
   size: 2, 7
   orig: 2, 7
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_ch_3343_3_0.png
   rotate: false
-  xy: 344, 97
+  xy: 204, 57
   size: 2, 8
   orig: 2, 8
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_ls_3341_3_0.png
   rotate: false
-  xy: 47, 2
+  xy: 108, 71
   size: 5, 23
   orig: 5, 23
   offset: 0, 0
@@ -517,161 +524,161 @@ shirt_F_waistcoat_h_std_ls_3341_7_0.png
   index: -1
 shirt_F_waistcoat_h_std_ls_3342_0_0.png
   rotate: false
-  xy: 240, 30
+  xy: 159, 33
   size: 4, 15
   orig: 4, 15
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_ls_3342_2_0.png
   rotate: false
-  xy: 234, 30
+  xy: 367, 70
   size: 4, 15
   orig: 4, 15
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_ls_3342_3_0.png
   rotate: false
-  xy: 113, 10
+  xy: 140, 30
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_ls_3342_7_0.png
   rotate: false
-  xy: 147, 37
+  xy: 185, 62
   size: 6, 20
   orig: 6, 20
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_ls_3343_1_0.png
   rotate: false
-  xy: 104, 2
+  xy: 252, 57
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3341_0_0.png
   rotate: false
-  xy: 163, 60
+  xy: 81, 50
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3341_1_0.png
   rotate: false
-  xy: 280, 87
+  xy: 69, 2
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3341_2_0.png
   rotate: false
-  xy: 155, 39
+  xy: 90, 2
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3341_3_0.png
   rotate: false
-  xy: 176, 25
+  xy: 179, 48
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3341_7_0.png
   rotate: false
-  xy: 75, 47
+  xy: 91, 23
   size: 5, 25
   orig: 5, 25
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3342_0_0.png
   rotate: false
-  xy: 217, 64
+  xy: 220, 69
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3342_1_0.png
   rotate: false
-  xy: 219, 47
+  xy: 107, 26
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3342_2_0.png
   rotate: false
-  xy: 123, 50
+  xy: 173, 84
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3342_3_0.png
   rotate: false
-  xy: 136, 83
+  xy: 47, 23
   size: 12, 21
   orig: 12, 21
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3342_7_0.png
   rotate: false
-  xy: 138, 3
+  xy: 141, 7
   size: 6, 21
   orig: 6, 21
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3343_0_0.png
   rotate: false
-  xy: 2, 2
+  xy: 13, 2
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3343_1_0.png
   rotate: false
-  xy: 115, 2
+  xy: 193, 59
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3343_2_0.png
   rotate: false
-  xy: 348, 100
+  xy: 192, 51
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3343_3_0.png
   rotate: false
-  xy: 392, 100
+  xy: 340, 63
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_std_rs_3343_7_0.png
   rotate: false
-  xy: 243, 66
+  xy: 176, 2
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
-shirt_F_waistcoat_h_wav_ls_3341_3_0.png
+shirt_F_waistcoat_h_wav_ls_3341_3_1.png
   rotate: false
-  xy: 202, 14
+  xy: 377, 92
   size: 4, 13
   orig: 4, 13
   offset: 0, 0
   index: -1
-shirt_F_waistcoat_h_wav_ls_3341_7_0.png
+shirt_F_waistcoat_h_wav_ls_3341_7_1.png
   rotate: false
-  xy: 147, 26
+  xy: 157, 50
   size: 6, 9
   orig: 6, 9
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_0_0.png
   rotate: false
-  xy: 182, 84
+  xy: 75, 23
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
@@ -685,21 +692,21 @@ shirt_F_waistcoat_h_wav_ls_3342_0_1.png
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_1_0.png
   rotate: false
-  xy: 303, 88
+  xy: 253, 65
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_1_1.png
   rotate: false
-  xy: 291, 88
+  xy: 241, 65
   size: 10, 17
   orig: 10, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_2_0.png
   rotate: false
-  xy: 198, 84
+  xy: 186, 89
   size: 15, 17
   orig: 15, 17
   offset: 0, 0
@@ -713,42 +720,42 @@ shirt_F_waistcoat_h_wav_ls_3342_2_1.png
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_3_0.png
   rotate: false
-  xy: 229, 85
+  xy: 297, 85
   size: 12, 17
   orig: 12, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_3_1.png
   rotate: false
-  xy: 54, 7
+  xy: 241, 84
   size: 13, 18
   orig: 13, 18
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_4_0.png
   rotate: false
-  xy: 182, 104
+  xy: 241, 104
   size: 17, 22
   orig: 17, 22
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_4_1.png
   rotate: false
-  xy: 219, 104
+  xy: 278, 104
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_5_0.png
   rotate: false
-  xy: 201, 103
+  xy: 260, 103
   size: 16, 23
   orig: 16, 23
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_5_1.png
   rotate: false
-  xy: 237, 104
+  xy: 296, 104
   size: 15, 22
   orig: 15, 22
   offset: 0, 0
@@ -769,329 +776,322 @@ shirt_F_waistcoat_h_wav_ls_3342_6_1.png
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_7_0.png
   rotate: false
-  xy: 366, 108
+  xy: 349, 108
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wav_ls_3342_7_1.png
   rotate: false
-  xy: 294, 107
+  xy: 222, 107
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
   index: -1
-shirt_F_waistcoat_h_wav_ls_3343_3_1.png
+shirt_F_waistcoat_h_wlk_ls_3341_1_2.png
   rotate: false
-  xy: 345, 94
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
-shirt_F_waistcoat_h_wlk_ls_3341_1_0.png
-  rotate: false
-  xy: 54, 2
+  xy: 186, 84
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3341_3_0.png
   rotate: false
-  xy: 188, 42
+  xy: 326, 68
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3341_3_1.png
   rotate: false
-  xy: 196, 9
+  xy: 173, 43
   size: 4, 14
   orig: 4, 14
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3341_3_2.png
   rotate: false
-  xy: 173, 39
+  xy: 357, 87
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3341_3_3.png
   rotate: false
-  xy: 239, 47
+  xy: 315, 66
   size: 3, 17
   orig: 3, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3341_7_0.png
   rotate: false
-  xy: 131, 2
+  xy: 113, 2
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3341_7_1.png
   rotate: false
-  xy: 243, 73
+  xy: 75, 43
   size: 4, 29
   orig: 4, 29
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3341_7_2.png
   rotate: false
-  xy: 131, 26
+  xy: 169, 59
   size: 4, 22
   orig: 4, 22
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3341_7_3.png
   rotate: false
-  xy: 165, 39
+  xy: 233, 67
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_0_0.png
   rotate: false
-  xy: 225, 30
+  xy: 340, 71
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_0_1.png
   rotate: false
-  xy: 187, 6
+  xy: 311, 85
   size: 7, 17
   orig: 7, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_0_3.png
   rotate: false
-  xy: 314, 88
+  xy: 295, 66
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_1_1.png
   rotate: false
-  xy: 61, 27
+  xy: 134, 52
   size: 13, 18
   orig: 13, 18
   offset: 0, 0
   index: -1
-shirt_F_waistcoat_h_wlk_ls_3342_1_3.png
-  rotate: false
-  xy: 116, 32
-  size: 13, 16
-  orig: 13, 16
-  offset: 0, 0
-  index: -1
-shirt_F_waistcoat_h_wlk_ls_3342_2_0.png
-  rotate: false
-  xy: 198, 29
-  size: 6, 15
-  orig: 6, 15
-  offset: 0, 0
-  index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_2_1.png
   rotate: false
-  xy: 206, 64
+  xy: 284, 65
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
+shirt_F_waistcoat_h_wlk_ls_3342_2_2.png
+  rotate: false
+  xy: 165, 42
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_2_3.png
   rotate: false
-  xy: 183, 25
+  xy: 333, 73
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_3_0.png
   rotate: false
-  xy: 162, 84
+  xy: 136, 83
   size: 12, 21
   orig: 12, 21
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_3_1.png
   rotate: false
-  xy: 37, 6
+  xy: 175, 62
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_3_2.png
   rotate: false
-  xy: 109, 50
+  xy: 93, 50
   size: 12, 22
   orig: 12, 22
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_3_3.png
   rotate: false
-  xy: 230, 47
+  xy: 331, 89
   size: 7, 17
   orig: 7, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_7_0.png
   rotate: false
-  xy: 122, 10
+  xy: 193, 67
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_7_1.png
   rotate: false
-  xy: 163, 5
+  xy: 340, 88
   size: 7, 18
   orig: 7, 18
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_7_2.png
   rotate: false
-  xy: 104, 10
+  xy: 132, 4
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_ls_3342_7_3.png
   rotate: false
-  xy: 137, 38
+  xy: 80, 2
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3341_0_1.png
   rotate: false
-  xy: 418, 92
+  xy: 161, 23
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
-shirt_F_waistcoat_h_wlk_rs_3341_0_3.png
+shirt_F_waistcoat_h_wlk_rs_3341_0_2.png
   rotate: false
-  xy: 216, 2
+  xy: 176, 26
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3341_1_1.png
   rotate: false
-  xy: 231, 2
+  xy: 176, 9
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3341_1_2.png
   rotate: false
-  xy: 418, 102
+  xy: 364, 87
   size: 9, 4
   orig: 9, 4
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3341_1_3.png
   rotate: false
-  xy: 99, 28
+  xy: 37, 23
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3341_2_2.png
   rotate: false
-  xy: 244, 56
+  xy: 333, 63
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3341_2_3.png
   rotate: false
-  xy: 190, 25
+  xy: 359, 70
   size: 6, 15
   orig: 6, 15
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3341_3_1.png
   rotate: false
-  xy: 249, 76
+  xy: 113, 43
   size: 4, 26
   orig: 4, 26
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3341_3_2.png
   rotate: false
-  xy: 81, 5
+  xy: 202, 67
   size: 4, 20
   orig: 4, 20
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3341_3_3.png
   rotate: false
-  xy: 233, 16
+  xy: 186, 48
   size: 4, 12
   orig: 4, 12
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3341_7_2.png
   rotate: false
-  xy: 172, 6
+  xy: 235, 88
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3341_7_3.png
   rotate: false
-  xy: 255, 80
+  xy: 107, 43
   size: 4, 26
   orig: 4, 26
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3342_0_0.png
   rotate: false
-  xy: 124, 73
+  xy: 149, 6
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3342_0_1.png
   rotate: false
-  xy: 215, 84
+  xy: 256, 84
   size: 12, 17
   orig: 12, 17
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3342_0_2.png
   rotate: false
-  xy: 87, 28
+  xy: 157, 61
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3342_0_3.png
   rotate: false
-  xy: 69, 7
+  xy: 208, 71
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
-shirt_F_waistcoat_h_wlk_rs_3342_1_0.png
+shirt_F_waistcoat_h_wlk_rs_3342_1_1.png
   rotate: false
-  xy: 195, 46
+  xy: 220, 89
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+shirt_F_waistcoat_h_wlk_rs_3342_1_2.png
+  rotate: false
+  xy: 320, 89
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3342_1_3.png
   rotate: false
-  xy: 191, 64
+  xy: 119, 52
   size: 13, 18
   orig: 13, 18
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3342_2_1.png
   rotate: false
-  xy: 149, 60
+  xy: 115, 72
   size: 12, 21
   orig: 12, 21
   offset: 0, 0
@@ -1105,7 +1105,7 @@ shirt_F_waistcoat_h_wlk_rs_3342_2_2.png
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3342_2_3.png
   rotate: false
-  xy: 82, 50
+  xy: 61, 23
   size: 12, 22
   orig: 12, 22
   offset: 0, 0
@@ -1126,161 +1126,161 @@ shirt_F_waistcoat_h_wlk_rs_3342_3_2.png
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3342_3_3.png
   rotate: false
-  xy: 270, 86
+  xy: 149, 28
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
-shirt_F_waistcoat_h_wlk_rs_3342_7_1.png
+shirt_F_waistcoat_h_wlk_rs_3342_7_0.png
   rotate: false
-  xy: 87, 5
-  size: 8, 21
-  orig: 8, 21
-  offset: 0, 0
-  index: -1
-shirt_F_waistcoat_h_wlk_rs_3342_7_2.png
-  rotate: false
-  xy: 261, 84
+  xy: 98, 26
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
+shirt_F_waistcoat_h_wlk_rs_3342_7_1.png
+  rotate: false
+  xy: 150, 83
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
 shirt_F_waistcoat_h_wlk_rs_3342_7_3.png
   rotate: false
-  xy: 154, 5
+  xy: 275, 64
   size: 7, 18
   orig: 7, 18
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_0_0.png
   rotate: false
-  xy: 398, 94
+  xy: 383, 90
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_0_1.png
   rotate: false
-  xy: 369, 93
+  xy: 24, 2
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_0_2.png
   rotate: false
-  xy: 196, 2
+  xy: 81, 43
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_0_3.png
   rotate: false
-  xy: 24, 2
+  xy: 263, 57
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_1_1.png
   rotate: false
-  xy: 408, 94
+  xy: 383, 84
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_1_2.png
   rotate: false
-  xy: 13, 2
+  xy: 2, 2
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_1_3.png
   rotate: false
-  xy: 224, 10
+  xy: 373, 71
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_2_0.png
   rotate: false
-  xy: 381, 100
+  xy: 179, 40
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_2_1.png
   rotate: false
-  xy: 370, 100
+  xy: 208, 55
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_2_2.png
   rotate: false
-  xy: 359, 100
+  xy: 208, 63
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_2_3.png
   rotate: false
-  xy: 379, 93
+  xy: 273, 57
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_3_0.png
   rotate: false
-  xy: 270, 72
+  xy: 241, 52
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_3_1.png
   rotate: false
-  xy: 444, 108
+  xy: 184, 27
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_3_2.png
   rotate: false
-  xy: 261, 71
+  xy: 373, 78
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_3_3.png
   rotate: false
-  xy: 345, 88
+  xy: 179, 34
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_7_0.png
   rotate: false
-  xy: 243, 3
+  xy: 375, 85
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_7_1.png
   rotate: false
-  xy: 359, 94
+  xy: 359, 64
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_7_2.png
   rotate: false
-  xy: 241, 10
+  xy: 233, 60
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_F_waistcoat_h_wlk_rs_3343_7_3.png
   rotate: false
-  xy: 246, 30
+  xy: 170, 6
   size: 4, 5
   orig: 4, 5
   offset: 0, 0

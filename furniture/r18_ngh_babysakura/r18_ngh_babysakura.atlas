@@ -1,0 +1,27 @@
+
+r18_ngh_babysakura.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+r18_ngh_babysakura_r18_ngh_babysakura_64_a_2_0.png
+  rotate: false
+  xy: 2, 18
+  size: 88, 137
+  orig: 88, 137
+  offset: 0, 0
+  index: -1
+r18_ngh_babysakura_r18_ngh_babysakura_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+r18_ngh_babysakura_r18_ngh_babysakura_icon_a.png
+  rotate: false
+  xy: 92, 154
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

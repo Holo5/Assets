@@ -4,25 +4,11 @@ size: 128,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hat_U_bff_h_lay_ha_3139_2_0.png
+hat_U_bff_h_lsp_ha_3139_2_0.png
   rotate: false
   xy: 2, 2
   size: 24, 31
   orig: 24, 31
-  offset: 0, 0
-  index: -1
-hat_U_bff_h_spk_ha_3139_0_0.png
-  rotate: false
-  xy: 78, 38
-  size: 34, 24
-  orig: 34, 24
-  offset: 0, 0
-  index: -1
-hat_U_bff_h_spk_ha_3139_1_0.png
-  rotate: false
-  xy: 38, 40
-  size: 38, 22
-  orig: 38, 22
   offset: 0, 0
   index: -1
 hat_U_bff_h_spk_ha_3140_0_0.png
@@ -30,6 +16,20 @@ hat_U_bff_h_spk_ha_3140_0_0.png
   xy: 84, 20
   size: 6, 7
   orig: 6, 7
+  offset: 0, 0
+  index: -1
+hat_U_bff_h_std_ha_3139_0_0.png
+  rotate: false
+  xy: 78, 38
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+hat_U_bff_h_std_ha_3139_1_0.png
+  rotate: false
+  xy: 38, 40
+  size: 38, 22
+  orig: 38, 22
   offset: 0, 0
   index: -1
 hat_U_bff_h_std_ha_3139_2_0.png

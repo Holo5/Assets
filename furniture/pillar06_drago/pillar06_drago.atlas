@@ -1,0 +1,20 @@
+
+pillar06_drago.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pillar06_drago_pillar06_drago_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 95, 249
+  orig: 95, 249
+  offset: 0, 0
+  index: -1
+pillar06_drago_pillar06_drago_icon_a.png
+  rotate: false
+  xy: 99, 233
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

@@ -4,7 +4,7 @@ size: 128,32
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hat_U_sparkleparty4_h_lsp_ha_3302_2_0.png
+hat_U_sparkleparty4_h_lay_ha_3302_2_0.png
   rotate: false
   xy: 2, 2
   size: 21, 20
@@ -13,28 +13,28 @@ hat_U_sparkleparty4_h_lsp_ha_3302_2_0.png
   index: -1
 hat_U_sparkleparty4_h_spk_ha_3302_1_0.png
   rotate: false
-  xy: 94, 6
+  xy: 71, 6
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
-hat_U_sparkleparty4_h_std_ha_3302_2_0.png
+hat_U_sparkleparty4_h_spk_ha_3302_2_0.png
   rotate: false
   xy: 25, 4
   size: 21, 18
   orig: 21, 18
   offset: 0, 0
   index: -1
-hat_U_sparkleparty4_h_std_ha_3302_3_0.png
+hat_U_sparkleparty4_h_spk_ha_3302_3_0.png
   rotate: false
-  xy: 71, 6
+  xy: 48, 6
   size: 21, 16
   orig: 21, 16
   offset: 0, 0
   index: -1
-hat_U_sparkleparty4_h_std_ha_3302_7_0.png
+hat_U_sparkleparty4_h_spk_ha_3302_7_0.png
   rotate: false
-  xy: 48, 6
+  xy: 94, 6
   size: 21, 16
   orig: 21, 16
   offset: 0, 0

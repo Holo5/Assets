@@ -1,0 +1,27 @@
+
+chest_of_drawers.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chest_of_drawers_chest_of_drawers_64_a_2_0.png
+  rotate: false
+  xy: 2, 21
+  size: 76, 183
+  orig: 76, 183
+  offset: 0, 0
+  index: -1
+chest_of_drawers_chest_of_drawers_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+chest_of_drawers_chest_of_drawers_icon_a.png
+  rotate: false
+  xy: 80, 174
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1

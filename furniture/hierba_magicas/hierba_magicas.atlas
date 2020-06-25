@@ -1,0 +1,20 @@
+
+hierba_magicas.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hierba_magicas_hierba_magicas_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+hierba_magicas_hierba_magicas_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

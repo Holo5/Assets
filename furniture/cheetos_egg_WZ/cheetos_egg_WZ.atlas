@@ -1,0 +1,20 @@
+
+cheetos_egg_WZ.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cheetos_egg_WZ_cheetos_egg_WZ_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+cheetos_egg_WZ_cheetos_egg_WZ_icon_a.png
+  rotate: false
+  xy: 55, 29
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

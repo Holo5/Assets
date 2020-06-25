@@ -1,0 +1,20 @@
+
+sign_c16_vip.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sign_c16_vip_sign_c16_vip_64_a_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 55, 103
+  orig: 55, 103
+  offset: 0, 0
+  index: -1
+sign_c16_vip_sign_c16_vip_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

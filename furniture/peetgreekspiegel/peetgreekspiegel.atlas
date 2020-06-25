@@ -1,0 +1,41 @@
+
+peetgreekspiegel.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+peetgreekspiegel_peetgreekspiegel_64_a_2_0.png
+  rotate: false
+  xy: 2, 308
+  size: 48, 151
+  orig: 48, 151
+  offset: 0, 0
+  index: -1
+peetgreekspiegel_peetgreekspiegel_64_a_2_1.png
+  rotate: false
+  xy: 2, 155
+  size: 48, 151
+  orig: 48, 151
+  offset: 0, 0
+  index: -1
+peetgreekspiegel_peetgreekspiegel_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 151
+  orig: 48, 151
+  offset: 0, 0
+  index: -1
+peetgreekspiegel_peetgreekspiegel_64_a_4_1.png
+  rotate: false
+  xy: 52, 308
+  size: 48, 151
+  orig: 48, 151
+  offset: 0, 0
+  index: -1
+peetgreekspiegel_peetgreekspiegel_icon_a.png
+  rotate: false
+  xy: 52, 274
+  size: 10, 32
+  orig: 10, 32
+  offset: 0, 0
+  index: -1

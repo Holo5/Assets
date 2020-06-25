@@ -1,0 +1,62 @@
+
+greenblue_dragonlamp.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greenblue_dragonlamp_greenblue_dragonlamp_64_a_2_0.png
+  rotate: false
+  xy: 64, 50
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+greenblue_dragonlamp_greenblue_dragonlamp_64_a_2_1.png
+  rotate: false
+  xy: 2, 41
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+greenblue_dragonlamp_greenblue_dragonlamp_64_b_2_0.png
+  rotate: false
+  xy: 171, 108
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+greenblue_dragonlamp_greenblue_dragonlamp_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+greenblue_dragonlamp_greenblue_dragonlamp_64_b_2_2.png
+  rotate: false
+  xy: 126, 87
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+greenblue_dragonlamp_greenblue_dragonlamp_64_b_2_3.png
+  rotate: false
+  xy: 150, 85
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+greenblue_dragonlamp_greenblue_dragonlamp_64_b_2_4.png
+  rotate: false
+  xy: 126, 50
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+greenblue_dragonlamp_greenblue_dragonlamp_icon_a.png
+  rotate: false
+  xy: 26, 12
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1

@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 Shirt_F_Cardigan_h_crr_ls_2125_0_0.png
   rotate: false
-  xy: 365, 25
+  xy: 1018, 45
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
@@ -20,28 +20,28 @@ Shirt_F_Cardigan_h_crr_ls_2125_1_0.png
   index: -1
 Shirt_F_Cardigan_h_crr_ls_2125_2_0.png
   rotate: false
-  xy: 840, 41
+  xy: 835, 41
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_crr_ls_2125_3_0.png
   rotate: false
-  xy: 997, 38
+  xy: 978, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_crr_ls_2125_7_0.png
   rotate: false
-  xy: 298, 25
+  xy: 313, 28
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_crr_rs_2125_0_0.png
   rotate: false
-  xy: 402, 41
+  xy: 383, 41
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
@@ -55,49 +55,49 @@ Shirt_F_Cardigan_h_crr_rs_2125_1_0.png
   index: -1
 Shirt_F_Cardigan_h_crr_rs_2125_2_0.png
   rotate: false
-  xy: 472, 36
+  xy: 453, 36
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_crr_rs_2125_3_0.png
   rotate: false
-  xy: 987, 38
+  xy: 988, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_crr_rs_2125_4_0.png
   rotate: false
-  xy: 853, 43
+  xy: 848, 43
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_crr_rs_2125_5_0.png
   rotate: false
-  xy: 577, 40
+  xy: 574, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_crr_rs_2125_6_0.png
   rotate: false
-  xy: 353, 29
+  xy: 359, 31
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_crr_rs_2125_7_0.png
   rotate: false
-  xy: 275, 23
+  xy: 322, 28
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_drk_rs_2125_0_0.png
   rotate: false
-  xy: 383, 43
+  xy: 590, 43
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
@@ -125,14 +125,14 @@ Shirt_F_Cardigan_h_drk_rs_2125_3_0.png
   index: -1
 Shirt_F_Cardigan_h_drk_rs_2125_4_0.png
   rotate: false
-  xy: 660, 46
+  xy: 862, 46
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_drk_rs_2125_5_0.png
   rotate: false
-  xy: 332, 50
+  xy: 307, 50
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
@@ -146,14 +146,14 @@ Shirt_F_Cardigan_h_drk_rs_2125_6_0.png
   index: -1
 Shirt_F_Cardigan_h_drk_rs_2125_7_0.png
   rotate: false
-  xy: 342, 32
+  xy: 877, 46
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_lay_ch_2123_2_0.png
   rotate: false
-  xy: 307, 49
+  xy: 333, 49
   size: 23, 13
   orig: 23, 13
   offset: 0, 0
@@ -172,18 +172,18 @@ Shirt_F_Cardigan_h_lay_ch_2125_2_0.png
   orig: 39, 26
   offset: 0, 0
   index: -1
+Shirt_F_Cardigan_h_lay_ls_2123_2_0.png
+  rotate: false
+  xy: 143, 32
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 Shirt_F_Cardigan_h_lay_ls_2125_2_0.png
   rotate: false
   xy: 235, 46
   size: 24, 16
   orig: 24, 16
-  offset: 0, 0
-  index: -1
-Shirt_F_Cardigan_h_lay_rs_2123_2_0.png
-  rotate: false
-  xy: 143, 32
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_lay_rs_2125_2_0.png
@@ -195,7 +195,7 @@ Shirt_F_Cardigan_h_lay_rs_2125_2_0.png
   index: -1
 Shirt_F_Cardigan_h_sit_ls_2125_0_0.png
   rotate: false
-  xy: 307, 25
+  xy: 283, 21
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
@@ -216,14 +216,14 @@ Shirt_F_Cardigan_h_sit_rs_2125_0_0.png
   index: -1
 Shirt_F_Cardigan_h_sit_rs_2125_2_0.png
   rotate: false
-  xy: 732, 32
+  xy: 741, 32
   size: 10, 30
   orig: 10, 30
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_std_ch_2123_0_0.png
   rotate: false
-  xy: 365, 44
+  xy: 204, 7
   size: 16, 6
   orig: 16, 6
   offset: 0, 0
@@ -244,7 +244,7 @@ Shirt_F_Cardigan_h_std_ch_2123_2_0.png
   index: -1
 Shirt_F_Cardigan_h_std_ch_2123_3_0.png
   rotate: false
-  xy: 421, 37
+  xy: 95, 2
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
@@ -258,21 +258,21 @@ Shirt_F_Cardigan_h_std_ch_2123_7_0.png
   index: -1
 Shirt_F_Cardigan_h_std_ch_2124_1_0.png
   rotate: false
-  xy: 235, 14
+  xy: 222, 7
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_std_ch_2124_2_0.png
   rotate: false
-  xy: 204, 2
+  xy: 371, 29
   size: 5, 10
   orig: 5, 10
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_std_ch_2124_3_0.png
   rotate: false
-  xy: 226, 14
+  xy: 371, 41
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
@@ -314,35 +314,35 @@ Shirt_F_Cardigan_h_std_ch_2125_7_0.png
   index: -1
 Shirt_F_Cardigan_h_std_ls_2125_0_0.png
   rotate: false
-  xy: 291, 23
+  xy: 306, 23
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_std_ls_2125_2_0.png
   rotate: false
-  xy: 284, 23
+  xy: 299, 23
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_std_ls_2125_3_0.png
   rotate: false
-  xy: 744, 34
+  xy: 763, 34
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_std_ls_2125_7_0.png
   rotate: false
-  xy: 957, 37
+  xy: 898, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_std_rs_2123_0_0.png
   rotate: false
-  xy: 360, 28
+  xy: 307, 47
   size: 3, 1
   orig: 3, 1
   offset: 0, 0
@@ -356,84 +356,84 @@ Shirt_F_Cardigan_h_std_rs_2125_0_0.png
   index: -1
 Shirt_F_Cardigan_h_std_rs_2125_1_0.png
   rotate: false
-  xy: 198, 14
+  xy: 246, 20
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_std_rs_2125_2_0.png
   rotate: false
-  xy: 947, 37
+  xy: 918, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_std_rs_2125_3_0.png
   rotate: false
-  xy: 754, 34
+  xy: 753, 34
   size: 8, 28
   orig: 8, 28
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_std_rs_2125_7_0.png
   rotate: false
-  xy: 808, 37
+  xy: 928, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wav_ls_2125_0_0.png
   rotate: false
-  xy: 705, 38
+  xy: 690, 38
   size: 12, 24
   orig: 12, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wav_ls_2125_0_1.png
   rotate: false
-  xy: 504, 38
+  xy: 485, 38
   size: 15, 24
   orig: 15, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wav_ls_2125_1_0.png
   rotate: false
-  xy: 719, 38
+  xy: 704, 38
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wav_ls_2125_1_1.png
   rotate: false
-  xy: 564, 36
+  xy: 545, 36
   size: 11, 26
   orig: 11, 26
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wav_ls_2125_2_0.png
   rotate: false
-  xy: 28, 9
+  xy: 502, 37
   size: 13, 25
   orig: 13, 25
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wav_ls_2125_2_1.png
   rotate: false
-  xy: 95, 2
+  xy: 436, 37
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wav_ls_2125_3_0.png
   rotate: false
-  xy: 521, 37
+  xy: 28, 9
   size: 13, 25
   orig: 13, 25
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wav_ls_2125_3_1.png
   rotate: false
-  xy: 438, 37
+  xy: 419, 37
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
@@ -447,7 +447,7 @@ Shirt_F_Cardigan_h_wav_ls_2125_4_0.png
   index: -1
 Shirt_F_Cardigan_h_wav_ls_2125_4_1.png
   rotate: false
-  xy: 488, 37
+  xy: 469, 37
   size: 14, 25
   orig: 14, 25
   offset: 0, 0
@@ -461,7 +461,7 @@ Shirt_F_Cardigan_h_wav_ls_2125_5_0.png
   index: -1
 Shirt_F_Cardigan_h_wav_ls_2125_5_1.png
   rotate: false
-  xy: 455, 36
+  xy: 402, 36
   size: 15, 26
   orig: 15, 26
   offset: 0, 0
@@ -496,133 +496,133 @@ Shirt_F_Cardigan_h_wav_ls_2125_7_1.png
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_0_0.png
   rotate: false
-  xy: 328, 27
+  xy: 331, 27
   size: 5, 20
   orig: 5, 20
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_0_1.png
   rotate: false
-  xy: 1016, 40
+  xy: 275, 21
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_0_2.png
   rotate: false
-  xy: 335, 28
+  xy: 338, 27
   size: 5, 20
   orig: 5, 20
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_0_3.png
   rotate: false
-  xy: 265, 22
+  xy: 888, 41
   size: 8, 21
   orig: 8, 21
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_1_0.png
   rotate: false
-  xy: 1007, 38
+  xy: 237, 20
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_1_1.png
   rotate: false
-  xy: 189, 14
+  xy: 228, 15
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_1_3.png
   rotate: false
-  xy: 360, 31
+  xy: 366, 31
   size: 3, 19
   orig: 3, 19
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_2_0.png
   rotate: false
-  xy: 321, 26
+  xy: 345, 26
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_2_1.png
   rotate: false
-  xy: 226, 25
+  xy: 290, 24
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_2_2.png
   rotate: false
-  xy: 314, 26
+  xy: 352, 26
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_2_3.png
   rotate: false
-  xy: 371, 30
+  xy: 1018, 31
   size: 4, 12
   orig: 4, 12
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_3_0.png
   rotate: false
-  xy: 917, 35
+  xy: 783, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_3_1.png
   rotate: false
-  xy: 897, 36
+  xy: 803, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_3_2.png
   rotate: false
-  xy: 907, 35
+  xy: 773, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_3_3.png
   rotate: false
-  xy: 967, 38
+  xy: 958, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_7_0.png
   rotate: false
-  xy: 798, 37
+  xy: 948, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_7_1.png
   rotate: false
-  xy: 867, 38
+  xy: 1008, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_7_2.png
   rotate: false
-  xy: 788, 37
+  xy: 938, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_ls_2125_7_3.png
   rotate: false
-  xy: 877, 38
+  xy: 998, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
@@ -636,14 +636,14 @@ Shirt_F_Cardigan_h_wlk_rs_2123_2_0.png
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2123_2_1.png
   rotate: false
-  xy: 242, 19
+  xy: 380, 49
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_0_0.png
   rotate: false
-  xy: 828, 39
+  xy: 823, 39
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
@@ -657,56 +657,56 @@ Shirt_F_Cardigan_h_wlk_rs_2125_0_1.png
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_0_2.png
   rotate: false
-  xy: 776, 37
+  xy: 717, 37
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_0_3.png
   rotate: false
-  xy: 593, 40
+  xy: 558, 40
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_1_0.png
   rotate: false
-  xy: 245, 21
+  xy: 209, 15
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_1_1.png
   rotate: false
-  xy: 690, 41
+  xy: 675, 41
   size: 13, 21
   orig: 13, 21
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_1_2.png
   rotate: false
-  xy: 207, 15
+  xy: 199, 15
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_1_3.png
   rotate: false
-  xy: 675, 42
+  xy: 660, 42
   size: 13, 20
   orig: 13, 20
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_2_0.png
   rotate: false
-  xy: 764, 36
+  xy: 729, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_2_1.png
   rotate: false
-  xy: 550, 36
+  xy: 517, 36
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
@@ -720,14 +720,14 @@ Shirt_F_Cardigan_h_wlk_rs_2125_2_2.png
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_2_3.png
   rotate: false
-  xy: 536, 35
+  xy: 531, 35
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_3_0.png
   rotate: false
-  xy: 937, 36
+  xy: 813, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
@@ -741,42 +741,42 @@ Shirt_F_Cardigan_h_wlk_rs_2125_3_1.png
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_3_2.png
   rotate: false
-  xy: 927, 35
+  xy: 793, 35
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_3_3.png
   rotate: false
-  xy: 977, 38
+  xy: 189, 14
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_7_0.png
   rotate: false
-  xy: 217, 15
+  xy: 219, 15
   size: 7, 23
   orig: 7, 23
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_7_1.png
   rotate: false
-  xy: 887, 38
+  xy: 968, 38
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_7_2.png
   rotate: false
-  xy: 818, 37
+  xy: 908, 37
   size: 8, 25
   orig: 8, 25
   offset: 0, 0
   index: -1
 Shirt_F_Cardigan_h_wlk_rs_2125_7_3.png
   rotate: false
-  xy: 235, 22
+  xy: 265, 21
   size: 8, 22
   orig: 8, 22
   offset: 0, 0

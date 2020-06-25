@@ -6,35 +6,35 @@ filter: Nearest,Nearest
 repeat: none
 hair_M_parted_h_lay_hr_2266_2_0.png
   rotate: false
-  xy: 423, 35
+  xy: 394, 35
   size: 28, 27
   orig: 28, 27
   offset: 0, 0
   index: -1
 hair_M_parted_h_lay_hr_2267_2_0.png
   rotate: false
-  xy: 747, 38
+  xy: 452, 8
   size: 20, 24
   orig: 20, 24
   offset: 0, 0
   index: -1
 hair_M_parted_h_lay_hrb_2266_2_0.png
   rotate: false
-  xy: 453, 35
+  xy: 424, 35
   size: 28, 27
   orig: 28, 27
   offset: 0, 0
   index: -1
 hair_M_parted_h_lay_hrb_2267_2_0.png
   rotate: false
-  xy: 769, 38
+  xy: 775, 38
   size: 20, 24
   orig: 20, 24
   offset: 0, 0
   index: -1
 hair_M_parted_h_spk_hr_2266_0_0.png
   rotate: false
-  xy: 130, 30
+  xy: 163, 30
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
@@ -48,7 +48,7 @@ hair_M_parted_h_spk_hr_2266_1_0.png
   index: -1
 hair_M_parted_h_spk_hr_2266_2_0.png
   rotate: false
-  xy: 262, 32
+  xy: 295, 32
   size: 31, 30
   orig: 31, 30
   offset: 0, 0
@@ -62,14 +62,14 @@ hair_M_parted_h_spk_hr_2266_3_0.png
   index: -1
 hair_M_parted_h_spk_hr_2266_7_0.png
   rotate: false
-  xy: 34, 26
+  xy: 2, 26
   size: 30, 36
   orig: 30, 36
   offset: 0, 0
   index: -1
 hair_M_parted_h_spk_hr_2267_0_0.png
   rotate: false
-  xy: 452, 8
+  xy: 539, 37
   size: 26, 25
   orig: 26, 25
   offset: 0, 0
@@ -83,28 +83,28 @@ hair_M_parted_h_spk_hr_2267_1_0.png
   index: -1
 hair_M_parted_h_spk_hr_2267_2_0.png
   rotate: false
-  xy: 570, 42
+  xy: 658, 42
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
   index: -1
 hair_M_parted_h_spk_hr_2267_3_0.png
   rotate: false
-  xy: 718, 45
+  xy: 717, 45
   size: 27, 17
   orig: 27, 17
   offset: 0, 0
   index: -1
 hair_M_parted_h_spk_hr_2267_7_0.png
   rotate: false
-  xy: 423, 5
+  xy: 394, 5
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hair_M_parted_h_spk_hrb_2266_0_0.png
   rotate: false
-  xy: 163, 30
+  xy: 130, 30
   size: 31, 32
   orig: 31, 32
   offset: 0, 0
@@ -118,7 +118,7 @@ hair_M_parted_h_spk_hrb_2266_1_0.png
   index: -1
 hair_M_parted_h_spk_hrb_2266_2_0.png
   rotate: false
-  xy: 295, 32
+  xy: 262, 32
   size: 31, 30
   orig: 31, 30
   offset: 0, 0
@@ -132,7 +132,7 @@ hair_M_parted_h_spk_hrb_2266_3_0.png
   index: -1
 hair_M_parted_h_spk_hrb_2266_7_0.png
   rotate: false
-  xy: 2, 26
+  xy: 34, 26
   size: 30, 36
   orig: 30, 36
   offset: 0, 0
@@ -144,44 +144,16 @@ hair_M_parted_h_spk_hrb_2267_0_0.png
   orig: 26, 25
   offset: 0, 0
   index: -1
-hair_M_parted_h_spk_hrb_2267_1_0.png
-  rotate: false
-  xy: 2, 4
-  size: 29, 20
-  orig: 29, 20
-  offset: 0, 0
-  index: -1
-hair_M_parted_h_spk_hrb_2267_2_0.png
-  rotate: false
-  xy: 600, 42
-  size: 28, 20
-  orig: 28, 20
-  offset: 0, 0
-  index: -1
-hair_M_parted_h_spk_hrb_2267_3_0.png
-  rotate: false
-  xy: 660, 45
-  size: 27, 17
-  orig: 27, 17
-  offset: 0, 0
-  index: -1
-hair_M_parted_h_spk_hrb_2267_7_0.png
-  rotate: false
-  xy: 394, 34
-  size: 27, 28
-  orig: 27, 28
-  offset: 0, 0
-  index: -1
 hair_M_parted_h_std_hr_2266_0_0.png
   rotate: false
-  xy: 196, 31
+  xy: 229, 31
   size: 31, 31
   orig: 31, 31
   offset: 0, 0
   index: -1
 hair_M_parted_h_std_hr_2266_1_0.png
   rotate: false
-  xy: 262, 2
+  xy: 295, 2
   size: 31, 28
   orig: 31, 28
   offset: 0, 0
@@ -195,14 +167,14 @@ hair_M_parted_h_std_hr_2266_2_0.png
   index: -1
 hair_M_parted_h_std_hr_2266_3_0.png
   rotate: false
-  xy: 130, 2
+  xy: 162, 2
   size: 30, 26
   orig: 30, 26
   offset: 0, 0
   index: -1
 hair_M_parted_h_std_hr_2266_7_0.png
   rotate: false
-  xy: 66, 27
+  xy: 98, 27
   size: 30, 35
   orig: 30, 35
   offset: 0, 0
@@ -216,42 +188,42 @@ hair_M_parted_h_std_hr_2267_0_0.png
   index: -1
 hair_M_parted_h_std_hr_2267_1_0.png
   rotate: false
-  xy: 539, 42
+  xy: 567, 42
   size: 29, 20
   orig: 29, 20
   offset: 0, 0
   index: -1
 hair_M_parted_h_std_hr_2267_2_0.png
   rotate: false
-  xy: 630, 42
+  xy: 628, 42
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
   index: -1
 hair_M_parted_h_std_hr_2267_3_0.png
   rotate: false
-  xy: 689, 45
+  xy: 746, 45
   size: 27, 17
   orig: 27, 17
   offset: 0, 0
   index: -1
 hair_M_parted_h_std_hr_2267_7_0.png
   rotate: false
-  xy: 394, 4
+  xy: 454, 34
   size: 27, 28
   orig: 27, 28
   offset: 0, 0
   index: -1
 hair_M_parted_h_std_hrb_2266_0_0.png
   rotate: false
-  xy: 229, 31
+  xy: 196, 31
   size: 31, 31
   orig: 31, 31
   offset: 0, 0
   index: -1
 hair_M_parted_h_std_hrb_2266_1_0.png
   rotate: false
-  xy: 295, 2
+  xy: 262, 2
   size: 31, 28
   orig: 31, 28
   offset: 0, 0
@@ -265,15 +237,43 @@ hair_M_parted_h_std_hrb_2266_2_0.png
   index: -1
 hair_M_parted_h_std_hrb_2266_3_0.png
   rotate: false
-  xy: 162, 2
+  xy: 130, 2
   size: 30, 26
   orig: 30, 26
   offset: 0, 0
   index: -1
 hair_M_parted_h_std_hrb_2266_7_0.png
   rotate: false
-  xy: 98, 27
+  xy: 66, 27
   size: 30, 35
   orig: 30, 35
+  offset: 0, 0
+  index: -1
+hair_M_parted_h_std_hrb_2267_1_0.png
+  rotate: false
+  xy: 2, 4
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+hair_M_parted_h_std_hrb_2267_2_0.png
+  rotate: false
+  xy: 598, 42
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+hair_M_parted_h_std_hrb_2267_3_0.png
+  rotate: false
+  xy: 688, 45
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+hair_M_parted_h_std_hrb_2267_7_0.png
+  rotate: false
+  xy: 423, 5
+  size: 27, 28
+  orig: 27, 28
   offset: 0, 0
   index: -1

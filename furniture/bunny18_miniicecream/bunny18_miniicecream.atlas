@@ -1,0 +1,20 @@
+
+bunny18_miniicecream.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bunny18_miniicecream_bunny18_miniicecream_64_a_2_0.png
+  rotate: false
+  xy: 2, 39
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+bunny18_miniicecream_bunny18_miniicecream_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1

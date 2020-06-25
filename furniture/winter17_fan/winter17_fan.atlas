@@ -1,0 +1,76 @@
+
+winter17_fan.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+winter17_fan_winter17_fan_32_c_2_0.png
+  rotate: false
+  xy: 45, 43
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+winter17_fan_winter17_fan_64_a_2_0.png
+  rotate: false
+  xy: 45, 46
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+winter17_fan_winter17_fan_64_a_6_0.png
+  rotate: false
+  xy: 2, 42
+  size: 41, 75
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+winter17_fan_winter17_fan_64_c_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+winter17_fan_winter17_fan_64_d_2_0.png
+  rotate: false
+  xy: 118, 81
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+winter17_fan_winter17_fan_64_d_2_1.png
+  rotate: false
+  xy: 188, 81
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+winter17_fan_winter17_fan_64_d_2_2.png
+  rotate: false
+  xy: 83, 80
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+winter17_fan_winter17_fan_64_d_2_3.png
+  rotate: false
+  xy: 153, 82
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+winter17_fan_winter17_fan_64_sd_2_0.png
+  rotate: false
+  xy: 83, 64
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+winter17_fan_winter17_fan_icon_a.png
+  rotate: false
+  xy: 221, 83
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1

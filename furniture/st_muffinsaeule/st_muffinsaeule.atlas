@@ -1,0 +1,20 @@
+
+st_muffinsaeule.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_muffinsaeule_st_muffinsaeule_64_a_2_0.png
+  rotate: false
+  xy: 2, 35
+  size: 42, 141
+  orig: 42, 141
+  offset: 0, 0
+  index: -1
+st_muffinsaeule_st_muffinsaeule_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1

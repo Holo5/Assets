@@ -1,0 +1,55 @@
+
+rare_dragonstone_cyan.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_dragonstone_cyan_rare_dragonstone_cyan_64_a_0_0.png
+  rotate: false
+  xy: 2, 50
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+rare_dragonstone_cyan_rare_dragonstone_cyan_64_b_0_0.png
+  rotate: false
+  xy: 191, 63
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rare_dragonstone_cyan_rare_dragonstone_cyan_64_b_0_1.png
+  rotate: false
+  xy: 132, 60
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+rare_dragonstone_cyan_rare_dragonstone_cyan_64_b_0_2.png
+  rotate: false
+  xy: 73, 59
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+rare_dragonstone_cyan_rare_dragonstone_cyan_64_b_0_3.png
+  rotate: false
+  xy: 191, 66
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+rare_dragonstone_cyan_rare_dragonstone_cyan_64_b_0_4.png
+  rotate: false
+  xy: 73, 2
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+rare_dragonstone_cyan_rare_dragonstone_cyan_icon_a.png
+  rotate: false
+  xy: 132, 24
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1

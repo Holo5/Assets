@@ -1,0 +1,20 @@
+
+donotsteal6.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+donotsteal6_donotsteal6_64_a_2_0.png
+  rotate: false
+  xy: 2, 23
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: -1
+donotsteal6_donotsteal6_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1

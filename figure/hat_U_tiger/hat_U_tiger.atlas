@@ -1,0 +1,48 @@
+
+hat_U_tiger.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hat_U_tiger_h_lay_ha_7383_2_0.png
+  rotate: false
+  xy: 111, 6
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+hat_U_tiger_h_std_ha_7383_0_0.png
+  rotate: false
+  xy: 39, 2
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+hat_U_tiger_h_std_ha_7383_1_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+hat_U_tiger_h_std_ha_7383_2_0.png
+  rotate: false
+  xy: 75, 3
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+hat_U_tiger_h_std_ha_7383_3_0.png
+  rotate: false
+  xy: 186, 9
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+hat_U_tiger_h_std_ha_7383_7_0.png
+  rotate: false
+  xy: 148, 7
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

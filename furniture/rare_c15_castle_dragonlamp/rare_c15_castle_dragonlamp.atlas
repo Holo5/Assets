@@ -1,0 +1,97 @@
+
+rare_c15_castle_dragonlamp.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_a_0_0.png
+  rotate: false
+  xy: 72, 50
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_a_0_1.png
+  rotate: false
+  xy: 2, 41
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_b_0_0.png
+  rotate: false
+  xy: 338, 62
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_b_0_1.png
+  rotate: false
+  xy: 242, 62
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_b_0_2.png
+  rotate: false
+  xy: 142, 2
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_b_0_3.png
+  rotate: false
+  xy: 338, 65
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_b_0_4.png
+  rotate: false
+  xy: 142, 63
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_b_0_5.png
+  rotate: false
+  xy: 290, 62
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_b_0_6.png
+  rotate: false
+  xy: 190, 2
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_b_0_7.png
+  rotate: false
+  xy: 387, 65
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_b_0_8.png
+  rotate: false
+  xy: 192, 63
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_64_sd_0_0.png
+  rotate: false
+  xy: 436, 106
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+rare_c15_castle_dragonlamp_rare_c15_castle_dragonlamp_icon_a.png
+  rotate: false
+  xy: 2, 9
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

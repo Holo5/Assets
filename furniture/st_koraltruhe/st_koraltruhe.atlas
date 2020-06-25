@@ -1,0 +1,20 @@
+
+st_koraltruhe.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_koraltruhe_st_koraltruhe_64_a_2_0.png
+  rotate: false
+  xy: 2, 31
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+st_koraltruhe_st_koraltruhe_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1

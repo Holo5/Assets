@@ -1,0 +1,20 @@
+
+rare18_crystallightspyro.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare18_crystallightspyro_rare18_crystallightspyro_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+rare18_crystallightspyro_rare18_crystallightspyro_icon_a.png
+  rotate: false
+  xy: 51, 20
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1

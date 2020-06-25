@@ -1,0 +1,55 @@
+
+bw_torciagrandehg.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bw_torciagrandehg_bw_torciagrandehg_64_a_2_0.png
+  rotate: false
+  xy: 144, 37
+  size: 69, 153
+  orig: 69, 153
+  offset: 0, 0
+  index: -1
+bw_torciagrandehg_bw_torciagrandehg_64_a_2_1.png
+  rotate: false
+  xy: 73, 35
+  size: 69, 155
+  orig: 69, 155
+  offset: 0, 0
+  index: -1
+bw_torciagrandehg_bw_torciagrandehg_64_a_2_2.png
+  rotate: false
+  xy: 2, 29
+  size: 69, 161
+  orig: 69, 161
+  offset: 0, 0
+  index: -1
+bw_torciagrandehg_bw_torciagrandehg_64_a_2_3.png
+  rotate: false
+  xy: 286, 42
+  size: 69, 148
+  orig: 69, 148
+  offset: 0, 0
+  index: -1
+bw_torciagrandehg_bw_torciagrandehg_64_a_2_4.png
+  rotate: false
+  xy: 357, 47
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1
+bw_torciagrandehg_bw_torciagrandehg_64_a_2_5.png
+  rotate: false
+  xy: 215, 41
+  size: 69, 149
+  orig: 69, 149
+  offset: 0, 0
+  index: -1
+bw_torciagrandehg_bw_torciagrandehg_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1

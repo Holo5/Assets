@@ -4,30 +4,30 @@ size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hair_U_judgewig_h_lay_hr_3152_2_0.png
+hair_U_judgewig_h_lay_hr_3153_2_0.png
   rotate: false
-  xy: 421, 28
-  size: 33, 34
-  orig: 33, 34
+  xy: 14, 19
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
-hair_U_judgewig_h_lay_hrb_3152_2_0.png
+hair_U_judgewig_h_lsp_hr_3152_2_0.png
   rotate: false
   xy: 386, 28
   size: 33, 34
   orig: 33, 34
   offset: 0, 0
   index: -1
-hair_U_judgewig_h_lsp_hr_3153_2_0.png
+hair_U_judgewig_h_lsp_hrb_3152_2_0.png
   rotate: false
-  xy: 748, 52
-  size: 1, 1
-  orig: 1, 1
+  xy: 421, 28
+  size: 33, 34
+  orig: 33, 34
   offset: 0, 0
   index: -1
 hair_U_judgewig_h_spk_hr_3152_0_0.png
   rotate: false
-  xy: 314, 29
+  xy: 204, 29
   size: 34, 33
   orig: 34, 33
   offset: 0, 0
@@ -48,7 +48,7 @@ hair_U_judgewig_h_spk_hr_3152_2_0.png
   index: -1
 hair_U_judgewig_h_spk_hr_3152_3_0.png
   rotate: false
-  xy: 652, 38
+  xy: 620, 38
   size: 30, 24
   orig: 30, 24
   offset: 0, 0
@@ -62,23 +62,23 @@ hair_U_judgewig_h_spk_hr_3152_7_0.png
   index: -1
 hair_U_judgewig_h_spk_hr_3153_1_0.png
   rotate: false
-  xy: 620, 31
+  xy: 2, 8
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
-hair_U_judgewig_h_spk_hr_3153_3_0.png
+hair_U_judgewig_h_spk_hr_3153_2_0.png
   rotate: false
-  xy: 14, 19
-  size: 1, 1
-  orig: 1, 1
+  xy: 130, 23
+  size: 6, 4
+  orig: 6, 4
   offset: 0, 0
   index: -1
-hair_U_judgewig_h_spk_hr_3153_7_0.png
+hair_U_judgewig_h_spk_hr_3153_3_0.png
   rotate: false
-  xy: 2, 15
-  size: 10, 5
-  orig: 10, 5
+  xy: 748, 52
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1
 hair_U_judgewig_h_spk_hrb_3152_0_0.png
@@ -104,7 +104,7 @@ hair_U_judgewig_h_spk_hrb_3152_2_0.png
   index: -1
 hair_U_judgewig_h_spk_hrb_3152_3_0.png
   rotate: false
-  xy: 620, 38
+  xy: 652, 38
   size: 30, 24
   orig: 30, 24
   offset: 0, 0
@@ -118,21 +118,21 @@ hair_U_judgewig_h_spk_hrb_3152_7_0.png
   index: -1
 hair_U_judgewig_h_std_hr_3152_0_0.png
   rotate: false
-  xy: 278, 30
+  xy: 456, 30
   size: 34, 32
   orig: 34, 32
   offset: 0, 0
   index: -1
 hair_U_judgewig_h_std_hr_3152_1_0.png
   rotate: false
-  xy: 556, 31
+  xy: 588, 31
   size: 30, 31
   orig: 30, 31
   offset: 0, 0
   index: -1
 hair_U_judgewig_h_std_hr_3152_2_0.png
   rotate: false
-  xy: 204, 30
+  xy: 277, 30
   size: 35, 32
   orig: 35, 32
   offset: 0, 0
@@ -146,7 +146,7 @@ hair_U_judgewig_h_std_hr_3152_3_0.png
   index: -1
 hair_U_judgewig_h_std_hr_3152_7_0.png
   rotate: false
-  xy: 66, 23
+  xy: 98, 23
   size: 30, 39
   orig: 30, 39
   offset: 0, 0
@@ -158,30 +158,23 @@ hair_U_judgewig_h_std_hr_3153_0_0.png
   orig: 8, 7
   offset: 0, 0
   index: -1
-hair_U_judgewig_h_std_hr_3153_2_0.png
-  rotate: false
-  xy: 130, 23
-  size: 6, 4
-  orig: 6, 4
-  offset: 0, 0
-  index: -1
 hair_U_judgewig_h_std_hrb_3152_0_0.png
   rotate: false
-  xy: 456, 30
+  xy: 314, 30
   size: 34, 32
   orig: 34, 32
   offset: 0, 0
   index: -1
 hair_U_judgewig_h_std_hrb_3152_1_0.png
   rotate: false
-  xy: 588, 31
+  xy: 556, 31
   size: 30, 31
   orig: 30, 31
   offset: 0, 0
   index: -1
 hair_U_judgewig_h_std_hrb_3152_2_0.png
   rotate: false
-  xy: 241, 30
+  xy: 240, 30
   size: 35, 32
   orig: 35, 32
   offset: 0, 0
@@ -195,14 +188,14 @@ hair_U_judgewig_h_std_hrb_3152_3_0.png
   index: -1
 hair_U_judgewig_h_std_hrb_3152_7_0.png
   rotate: false
-  xy: 98, 23
+  xy: 66, 23
   size: 30, 39
   orig: 30, 39
   offset: 0, 0
   index: -1
 hair_U_judgewig_h_std_hrb_3153_1_0.png
   rotate: false
-  xy: 2, 8
+  xy: 620, 31
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
@@ -212,5 +205,12 @@ hair_U_judgewig_h_std_hrb_3153_2_0.png
   xy: 2, 2
   size: 6, 4
   orig: 6, 4
+  offset: 0, 0
+  index: -1
+hair_U_judgewig_h_std_hrb_3153_7_0.png
+  rotate: false
+  xy: 2, 15
+  size: 10, 5
+  orig: 10, 5
   offset: 0, 0
   index: -1

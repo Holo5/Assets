@@ -6,51 +6,51 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_rippedtop_h_crr_ls_2915_0_0.png
   rotate: false
-  xy: 204, 5
+  xy: 199, 28
   size: 5, 9
   orig: 5, 9
   offset: 0, 0
   index: -1
+shirt_F_rippedtop_h_crr_ls_2915_1_0.png
+  rotate: false
+  xy: 180, 18
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
 shirt_F_rippedtop_h_crr_ls_2915_2_0.png
   rotate: false
-  xy: 123, 17
+  xy: 182, 2
   size: 4, 14
   orig: 4, 14
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_crr_ls_2915_3_0.png
   rotate: false
-  xy: 69, 13
+  xy: 247, 49
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_crr_ls_2915_6_0.png
   rotate: false
-  xy: 161, 14
+  xy: 232, 23
   size: 7, 11
   orig: 7, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_crr_ls_2915_7_0.png
   rotate: false
-  xy: 142, 6
+  xy: 241, 23
   size: 7, 11
   orig: 7, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_crr_rs_2915_0_0.png
   rotate: false
-  xy: 237, 43
+  xy: 180, 27
   size: 9, 10
   orig: 9, 10
-  offset: 0, 0
-  index: -1
-shirt_F_rippedtop_h_crr_rs_2915_1_0.png
-  rotate: false
-  xy: 176, 28
-  size: 10, 7
-  orig: 10, 7
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_crr_rs_2915_2_0.png
@@ -62,91 +62,91 @@ shirt_F_rippedtop_h_crr_rs_2915_2_0.png
   index: -1
 shirt_F_rippedtop_h_crr_rs_2915_3_0.png
   rotate: false
-  xy: 196, 3
+  xy: 218, 10
   size: 6, 11
   orig: 6, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_crr_rs_2915_4_0.png
   rotate: false
-  xy: 205, 16
+  xy: 192, 18
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_crr_rs_2915_5_0.png
   rotate: false
-  xy: 164, 27
+  xy: 192, 39
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_crr_rs_2915_6_0.png
   rotate: false
-  xy: 95, 14
+  xy: 188, 3
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_crr_rs_2915_7_0.png
   rotate: false
-  xy: 203, 25
+  xy: 223, 23
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_drk_rs_2915_0_0.png
   rotate: false
-  xy: 179, 37
+  xy: 115, 20
   size: 9, 11
   orig: 9, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_drk_rs_2915_1_0.png
   rotate: false
-  xy: 237, 31
+  xy: 141, 10
   size: 9, 10
   orig: 9, 10
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_drk_rs_2915_2_0.png
   rotate: false
-  xy: 131, 7
+  xy: 106, 8
   size: 9, 10
   orig: 9, 10
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_drk_rs_2915_3_0.png
   rotate: false
-  xy: 129, 19
+  xy: 104, 20
   size: 9, 11
   orig: 9, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_drk_rs_2915_4_0.png
   rotate: false
-  xy: 181, 2
+  xy: 191, 27
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_drk_rs_2915_5_0.png
   rotate: false
-  xy: 162, 2
+  xy: 163, 2
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_drk_rs_2915_6_0.png
   rotate: false
-  xy: 140, 19
+  xy: 163, 24
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_drk_rs_2915_7_0.png
   rotate: false
-  xy: 248, 41
+  xy: 215, 26
   size: 6, 12
   orig: 6, 12
   offset: 0, 0
@@ -160,7 +160,7 @@ shirt_F_rippedtop_h_lay_ch_2915_2_0.png
   index: -1
 shirt_F_rippedtop_h_lay_ls_2915_2_0.png
   rotate: false
-  xy: 237, 55
+  xy: 126, 23
   size: 13, 7
   orig: 13, 7
   offset: 0, 0
@@ -209,30 +209,37 @@ shirt_F_rippedtop_h_std_ch_2915_7_0.png
   index: -1
 shirt_F_rippedtop_h_std_ls_2915_0_0.png
   rotate: false
-  xy: 189, 2
+  xy: 173, 23
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_std_ls_2915_2_0.png
   rotate: false
-  xy: 225, 9
+  xy: 135, 8
   size: 4, 13
   orig: 4, 13
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_std_ls_2915_7_0.png
   rotate: false
-  xy: 228, 37
+  xy: 117, 7
   size: 7, 11
   orig: 7, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_std_rs_2915_0_0.png
   rotate: false
-  xy: 95, 2
+  xy: 152, 2
   size: 9, 10
   orig: 9, 10
+  offset: 0, 0
+  index: -1
+shirt_F_rippedtop_h_std_rs_2915_1_0.png
+  rotate: false
+  xy: 141, 22
+  size: 10, 8
+  orig: 10, 8
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_std_rs_2915_2_0.png
@@ -244,93 +251,86 @@ shirt_F_rippedtop_h_std_rs_2915_2_0.png
   index: -1
 shirt_F_rippedtop_h_std_rs_2915_3_0.png
   rotate: false
-  xy: 172, 2
+  xy: 173, 2
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_std_rs_2915_7_0.png
   rotate: false
-  xy: 114, 5
+  xy: 126, 9
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
-shirt_F_rippedtop_h_wav_ls_2915_1_0.png
+shirt_F_rippedtop_h_wav_ls_2915_1_1.png
   rotate: false
-  xy: 235, 22
+  xy: 166, 14
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
-shirt_F_rippedtop_h_wav_ls_2915_2_0.png
+shirt_F_rippedtop_h_wav_ls_2915_2_1.png
   rotate: false
-  xy: 170, 14
+  xy: 227, 37
   size: 7, 11
   orig: 7, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wav_ls_2915_3_0.png
   rotate: false
-  xy: 78, 13
+  xy: 79, 13
   size: 5, 14
   orig: 5, 14
   offset: 0, 0
   index: -1
-shirt_F_rippedtop_h_wav_ls_2915_4_0.png
+shirt_F_rippedtop_h_wav_ls_2915_4_1.png
   rotate: false
-  xy: 123, 2
+  xy: 96, 14
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wav_ls_2915_5_0.png
   rotate: false
-  xy: 194, 16
+  xy: 216, 41
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wav_ls_2915_6_0.png
   rotate: false
-  xy: 248, 28
+  xy: 210, 13
   size: 6, 11
   orig: 6, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wav_ls_2915_7_0.png
   rotate: false
-  xy: 205, 49
+  xy: 86, 14
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_0_1.png
   rotate: false
-  xy: 231, 11
+  xy: 210, 2
   size: 4, 9
   orig: 4, 9
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_0_3.png
   rotate: false
-  xy: 106, 2
+  xy: 196, 3
   size: 6, 13
   orig: 6, 13
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_1_1.png
   rotate: false
-  xy: 190, 39
+  xy: 179, 39
   size: 11, 8
   orig: 11, 8
-  offset: 0, 0
-  index: -1
-shirt_F_rippedtop_h_wlk_ls_2915_1_2.png
-  rotate: false
-  xy: 203, 39
-  size: 10, 8
-  orig: 10, 8
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_1_3.png
@@ -342,79 +342,86 @@ shirt_F_rippedtop_h_wlk_ls_2915_1_3.png
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_2_0.png
   rotate: false
-  xy: 219, 12
+  xy: 250, 21
   size: 4, 13
   orig: 4, 13
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_2_1.png
   rotate: false
-  xy: 188, 22
+  xy: 240, 8
   size: 4, 13
   orig: 4, 13
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_2_2.png
   rotate: false
-  xy: 213, 10
+  xy: 204, 6
   size: 4, 13
   orig: 4, 13
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_2_3.png
   rotate: false
-  xy: 212, 25
+  xy: 234, 9
   size: 4, 12
   orig: 4, 12
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_3_0.png
   rotate: false
-  xy: 113, 19
+  xy: 237, 50
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_3_1.png
   rotate: false
-  xy: 85, 14
+  xy: 69, 13
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_3_2.png
   rotate: false
-  xy: 103, 19
+  xy: 227, 50
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_3_3.png
   rotate: false
-  xy: 151, 14
+  xy: 153, 24
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_7_1.png
   rotate: false
-  xy: 226, 50
+  xy: 216, 50
   size: 9, 12
   orig: 9, 12
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_7_2.png
   rotate: false
-  xy: 181, 50
+  xy: 193, 50
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_ls_2915_7_3.png
   rotate: false
-  xy: 215, 50
+  xy: 205, 50
   size: 9, 12
   orig: 9, 12
+  offset: 0, 0
+  index: -1
+shirt_F_rippedtop_h_wlk_rs_2915_0_0.png
+  rotate: false
+  xy: 95, 2
+  size: 9, 10
+  orig: 9, 10
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_rs_2915_0_1.png
@@ -424,13 +431,6 @@ shirt_F_rippedtop_h_wlk_rs_2915_0_1.png
   orig: 9, 9
   offset: 0, 0
   index: -1
-shirt_F_rippedtop_h_wlk_rs_2915_0_2.png
-  rotate: false
-  xy: 151, 2
-  size: 9, 10
-  orig: 9, 10
-  offset: 0, 0
-  index: -1
 shirt_F_rippedtop_h_wlk_rs_2915_0_3.png
   rotate: false
   xy: 84, 2
@@ -438,16 +438,16 @@ shirt_F_rippedtop_h_wlk_rs_2915_0_3.png
   orig: 9, 9
   offset: 0, 0
   index: -1
-shirt_F_rippedtop_h_wlk_rs_2915_1_0.png
+shirt_F_rippedtop_h_wlk_rs_2915_1_2.png
   rotate: false
-  xy: 152, 27
+  xy: 204, 40
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_rs_2915_1_3.png
   rotate: false
-  xy: 215, 40
+  xy: 153, 14
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
@@ -482,49 +482,49 @@ shirt_F_rippedtop_h_wlk_rs_2915_2_3.png
   index: -1
 shirt_F_rippedtop_h_wlk_rs_2915_3_0.png
   rotate: false
-  xy: 194, 25
+  xy: 206, 26
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_rs_2915_3_1.png
   rotate: false
-  xy: 227, 24
+  xy: 226, 10
   size: 6, 11
   orig: 6, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_rs_2915_3_2.png
   rotate: false
-  xy: 218, 27
+  xy: 245, 36
   size: 7, 11
   orig: 7, 11
   offset: 0, 0
   index: -1
 shirt_F_rippedtop_h_wlk_rs_2915_3_3.png
   rotate: false
-  xy: 179, 14
+  xy: 236, 36
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
-shirt_F_rippedtop_h_wlk_rs_2915_7_1.png
-  rotate: false
-  xy: 193, 49
-  size: 10, 13
-  orig: 10, 13
-  offset: 0, 0
-  index: -1
-shirt_F_rippedtop_h_wlk_rs_2915_7_2.png
+shirt_F_rippedtop_h_wlk_rs_2915_7_0.png
   rotate: false
   xy: 44, 13
   size: 11, 13
   orig: 11, 13
   offset: 0, 0
   index: -1
-shirt_F_rippedtop_h_wlk_rs_2915_7_3.png
+shirt_F_rippedtop_h_wlk_rs_2915_7_1.png
   rotate: false
   xy: 57, 13
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+shirt_F_rippedtop_h_wlk_rs_2915_7_3.png
+  rotate: false
+  xy: 181, 49
   size: 10, 13
   orig: 10, 13
   offset: 0, 0

@@ -1,0 +1,62 @@
+
+darkgothic_dragonlamp.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+darkgothic_dragonlamp_darkgothic_dragonlamp_64_a_2_0.png
+  rotate: false
+  xy: 67, 50
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+darkgothic_dragonlamp_darkgothic_dragonlamp_64_a_2_1.png
+  rotate: false
+  xy: 2, 41
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+darkgothic_dragonlamp_darkgothic_dragonlamp_64_b_2_0.png
+  rotate: false
+  xy: 132, 86
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+darkgothic_dragonlamp_darkgothic_dragonlamp_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+darkgothic_dragonlamp_darkgothic_dragonlamp_64_b_2_2.png
+  rotate: false
+  xy: 175, 87
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+darkgothic_dragonlamp_darkgothic_dragonlamp_64_b_2_3.png
+  rotate: false
+  xy: 199, 85
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+darkgothic_dragonlamp_darkgothic_dragonlamp_64_b_2_4.png
+  rotate: false
+  xy: 220, 91
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+darkgothic_dragonlamp_darkgothic_dragonlamp_icon_a.png
+  rotate: false
+  xy: 26, 9
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

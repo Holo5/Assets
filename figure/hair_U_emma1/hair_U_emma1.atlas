@@ -1,0 +1,90 @@
+
+hair_U_emma1.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hair_U_emma1_h_lay_hr_9888_2_0.png
+  rotate: false
+  xy: 283, 2
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+hair_U_emma1_h_lsp_hrb_9888_2_0.png
+  rotate: false
+  xy: 246, 2
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+hair_U_emma1_h_spk_hr_9888_1_0.png
+  rotate: false
+  xy: 206, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+hair_U_emma1_h_spk_hr_9888_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+hair_U_emma1_h_spk_hr_9888_3_0.png
+  rotate: false
+  xy: 396, 6
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+hair_U_emma1_h_spk_hrb_9888_3_0.png
+  rotate: false
+  xy: 436, 6
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+hair_U_emma1_h_spk_hrb_9888_7_0.png
+  rotate: false
+  xy: 126, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+hair_U_emma1_h_std_hr_9888_0_0.png
+  rotate: false
+  xy: 320, 3
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+hair_U_emma1_h_std_hr_9888_7_0.png
+  rotate: false
+  xy: 86, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+hair_U_emma1_h_std_hrb_9888_0_0.png
+  rotate: false
+  xy: 358, 3
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+hair_U_emma1_h_std_hrb_9888_1_0.png
+  rotate: false
+  xy: 166, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+hair_U_emma1_h_std_hrb_9888_2_0.png
+  rotate: false
+  xy: 44, 3
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1

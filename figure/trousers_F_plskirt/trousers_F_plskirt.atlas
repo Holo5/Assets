@@ -48,23 +48,30 @@ trousers_F_plskirt_h_sit_lg_2316_2_0.png
   index: -1
 trousers_F_plskirt_h_std_lg_2315_2_0.png
   rotate: false
-  xy: 151, 10
+  xy: 123, 10
   size: 26, 20
   orig: 26, 20
   offset: 0, 0
   index: -1
 trousers_F_plskirt_h_std_lg_2315_3_0.png
   rotate: false
-  xy: 290, 14
+  xy: 263, 14
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
   index: -1
 trousers_F_plskirt_h_std_lg_2315_7_0.png
   rotate: false
-  xy: 263, 14
+  xy: 290, 14
   size: 25, 16
   orig: 25, 16
+  offset: 0, 0
+  index: -1
+trousers_F_plskirt_h_std_lg_2316_0_0.png
+  rotate: false
+  xy: 317, 14
+  size: 21, 16
+  orig: 21, 16
   offset: 0, 0
   index: -1
 trousers_F_plskirt_h_std_lg_2316_1_0.png
@@ -76,7 +83,7 @@ trousers_F_plskirt_h_std_lg_2316_1_0.png
   index: -1
 trousers_F_plskirt_h_std_lg_2316_2_0.png
   rotate: false
-  xy: 363, 13
+  xy: 340, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
@@ -88,7 +95,7 @@ trousers_F_plskirt_h_wlk_lg_2315_0_0.png
   orig: 26, 20
   offset: 0, 0
   index: -1
-trousers_F_plskirt_h_wlk_lg_2315_0_1.png
+trousers_F_plskirt_h_wlk_lg_2315_0_2.png
   rotate: false
   xy: 64, 10
   size: 27, 20
@@ -102,35 +109,28 @@ trousers_F_plskirt_h_wlk_lg_2315_1_0.png
   orig: 20, 15
   offset: 0, 0
   index: -1
-trousers_F_plskirt_h_wlk_lg_2315_2_1.png
+trousers_F_plskirt_h_wlk_lg_2315_2_3.png
   rotate: false
-  xy: 123, 10
+  xy: 151, 10
   size: 26, 20
   orig: 26, 20
   offset: 0, 0
   index: -1
-trousers_F_plskirt_h_wlk_lg_2316_0_3.png
+trousers_F_plskirt_h_wlk_lg_2316_2_2.png
   rotate: false
-  xy: 317, 14
-  size: 21, 16
-  orig: 21, 16
-  offset: 0, 0
-  index: -1
-trousers_F_plskirt_h_wlk_lg_2316_2_3.png
-  rotate: false
-  xy: 340, 13
+  xy: 363, 13
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
   index: -1
-trousers_F_plskirt_h_wlk_lg_2316_3_3.png
+trousers_F_plskirt_h_wlk_lg_2316_3_0.png
   rotate: false
   xy: 452, 16
   size: 19, 14
   orig: 19, 14
   offset: 0, 0
   index: -1
-trousers_F_plskirt_h_wlk_lg_2316_7_3.png
+trousers_F_plskirt_h_wlk_lg_2316_7_1.png
   rotate: false
   xy: 431, 16
   size: 19, 14

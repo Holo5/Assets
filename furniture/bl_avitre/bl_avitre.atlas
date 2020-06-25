@@ -1,0 +1,27 @@
+
+bl_avitre.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bl_avitre_bl_avitre_64_a_2_0.png
+  rotate: false
+  xy: 68, 29
+  size: 64, 196
+  orig: 64, 196
+  offset: 0, 0
+  index: -1
+bl_avitre_bl_avitre_64_a_2_1.png
+  rotate: false
+  xy: 2, 29
+  size: 64, 196
+  orig: 64, 196
+  offset: 0, 0
+  index: -1
+bl_avitre_bl_avitre_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1

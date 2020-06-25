@@ -6,93 +6,93 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_pjs1_h_crr_ls_2830_0_0.png
   rotate: false
-  xy: 969, 27
+  xy: 927, 20
   size: 5, 16
   orig: 5, 16
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_crr_ls_2830_1_0.png
-  rotate: false
-  xy: 277, 2
-  size: 16, 15
-  orig: 16, 15
-  offset: 0, 0
-  index: -1
 shirt_F_pjs1_h_crr_ls_2830_2_0.png
   rotate: false
-  xy: 521, 12
+  xy: 624, 15
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_ls_2830_3_0.png
   rotate: false
-  xy: 595, 15
+  xy: 544, 12
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_ls_2830_5_0.png
   rotate: false
-  xy: 310, 2
+  xy: 368, 2
   size: 15, 15
   orig: 15, 15
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_ls_2830_7_0.png
   rotate: false
-  xy: 490, 2
+  xy: 838, 20
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_ls_2831_0_0.png
   rotate: false
-  xy: 982, 28
+  xy: 946, 20
   size: 4, 15
   orig: 4, 15
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_ls_2831_1_0.png
   rotate: false
-  xy: 958, 45
+  xy: 414, 2
   size: 14, 17
   orig: 14, 17
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_ls_2831_2_0.png
   rotate: false
-  xy: 708, 14
+  xy: 658, 14
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_ls_2831_3_0.png
   rotate: false
-  xy: 863, 13
+  xy: 797, 12
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_ls_2831_5_0.png
   rotate: false
-  xy: 295, 2
+  xy: 463, 2
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_ls_2831_7_0.png
   rotate: false
-  xy: 950, 23
+  xy: 886, 20
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_rs_2830_0_0.png
   rotate: false
-  xy: 595, 41
+  xy: 479, 2
   size: 17, 21
   orig: 17, 21
+  offset: 0, 0
+  index: -1
+shirt_F_pjs1_h_crr_rs_2830_1_0.png
+  rotate: false
+  xy: 350, 2
+  size: 16, 15
+  orig: 16, 15
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_rs_2830_2_0.png
@@ -104,42 +104,42 @@ shirt_F_pjs1_h_crr_rs_2830_2_0.png
   index: -1
 shirt_F_pjs1_h_crr_rs_2830_3_0.png
   rotate: false
-  xy: 616, 16
+  xy: 512, 9
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_rs_2830_4_0.png
   rotate: false
-  xy: 696, 14
+  xy: 612, 16
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_rs_2830_6_0.png
   rotate: false
-  xy: 918, 20
+  xy: 900, 20
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_rs_2830_7_0.png
   rotate: false
-  xy: 888, 15
+  xy: 822, 17
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_rs_2831_0_0.png
   rotate: false
-  xy: 428, 2
+  xy: 595, 43
   size: 15, 19
   orig: 15, 19
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_rs_2831_1_0.png
   rotate: false
-  xy: 974, 45
+  xy: 277, 2
   size: 14, 17
   orig: 14, 17
   offset: 0, 0
@@ -153,147 +153,147 @@ shirt_F_pjs1_h_crr_rs_2831_2_0.png
   index: -1
 shirt_F_pjs1_h_crr_rs_2831_3_0.png
   rotate: false
-  xy: 657, 15
+  xy: 770, 11
   size: 7, 22
   orig: 7, 22
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_rs_2831_4_0.png
   rotate: false
-  xy: 445, 2
+  xy: 726, 13
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_rs_2831_5_0.png
   rotate: false
-  xy: 990, 45
+  xy: 448, 2
   size: 13, 17
   orig: 13, 17
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_rs_2831_6_0.png
   rotate: false
-  xy: 963, 25
+  xy: 934, 18
   size: 4, 18
   orig: 4, 18
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_crr_rs_2831_7_0.png
   rotate: false
-  xy: 469, 2
+  xy: 893, 20
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2830_0_0.png
   rotate: false
-  xy: 942, 44
+  xy: 849, 44
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2830_1_0.png
   rotate: false
-  xy: 437, 49
+  xy: 456, 49
   size: 20, 13
   orig: 20, 13
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2830_2_0.png
   rotate: false
-  xy: 227, 46
+  xy: 246, 46
   size: 26, 16
   orig: 26, 16
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2830_3_0.png
   rotate: false
-  xy: 614, 42
+  xy: 576, 42
   size: 17, 20
   orig: 17, 20
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2830_4_0.png
   rotate: false
-  xy: 258, 2
+  xy: 331, 2
   size: 17, 15
   orig: 17, 15
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2830_5_0.png
   rotate: false
-  xy: 285, 48
+  xy: 304, 48
   size: 25, 14
   orig: 25, 14
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2830_6_0.png
   rotate: false
-  xy: 195, 47
+  xy: 214, 47
   size: 30, 15
   orig: 30, 15
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2830_7_0.png
   rotate: false
-  xy: 925, 26
+  xy: 854, 26
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2831_0_0.png
   rotate: false
-  xy: 392, 2
+  xy: 295, 2
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2831_1_0.png
   rotate: false
-  xy: 387, 50
+  xy: 406, 50
   size: 23, 12
   orig: 23, 12
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2831_2_0.png
   rotate: false
-  xy: 312, 47
+  xy: 331, 47
   size: 25, 15
   orig: 25, 15
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2831_3_0.png
   rotate: false
-  xy: 411, 2
+  xy: 314, 2
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2831_4_0.png
   rotate: false
-  xy: 327, 2
+  xy: 385, 2
   size: 16, 13
   orig: 16, 13
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2831_5_0.png
   rotate: false
-  xy: 412, 50
+  xy: 431, 50
   size: 23, 12
   orig: 23, 12
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2831_6_0.png
   rotate: false
-  xy: 255, 49
+  xy: 274, 49
   size: 28, 13
   orig: 28, 13
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_drk_rs_2831_7_0.png
   rotate: false
-  xy: 359, 2
+  xy: 822, 2
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
@@ -307,42 +307,42 @@ shirt_F_pjs1_h_lay_ch_2830_2_0.png
   index: -1
 shirt_F_pjs1_h_lay_ch_2831_2_0.png
   rotate: false
-  xy: 459, 49
+  xy: 30, 32
   size: 4, 2
   orig: 4, 2
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_lay_ch_2832_2_0.png
   rotate: false
-  xy: 484, 24
+  xy: 865, 30
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_lay_ls_2830_2_0.png
   rotate: false
-  xy: 195, 34
+  xy: 214, 34
   size: 24, 11
   orig: 24, 11
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_lay_ls_2831_2_0.png
   rotate: false
-  xy: 459, 53
+  xy: 478, 53
   size: 23, 9
   orig: 23, 9
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_lay_rs_2830_2_0.png
   rotate: false
-  xy: 339, 43
+  xy: 358, 43
   size: 23, 19
   orig: 23, 19
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_lay_rs_2831_2_0.png
   rotate: false
-  xy: 364, 45
+  xy: 383, 45
   size: 21, 17
   orig: 21, 17
   offset: 0, 0
@@ -384,161 +384,140 @@ shirt_F_pjs1_h_std_ch_2830_7_0.png
   index: -1
 shirt_F_pjs1_h_std_ch_2832_2_0.png
   rotate: false
-  xy: 345, 2
+  xy: 260, 2
   size: 12, 13
   orig: 12, 13
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_std_ch_2832_3_0.png
   rotate: false
-  xy: 368, 4
+  xy: 244, 5
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_std_ls_2830_0_0.png
   rotate: false
-  xy: 688, 15
+  xy: 1016, 40
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_std_ls_2830_1_0.png
   rotate: false
-  xy: 546, 12
+  xy: 904, 41
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_std_ls_2830_2_0.png
   rotate: false
-  xy: 856, 11
+  xy: 719, 13
   size: 5, 22
   orig: 5, 22
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_std_ls_2830_3_0.png
   rotate: false
-  xy: 841, 33
+  xy: 403, 14
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_std_ls_2831_0_0.png
   rotate: false
-  xy: 627, 20
+  xy: 940, 15
   size: 4, 20
   orig: 4, 20
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_std_ls_2831_2_0.png
   rotate: false
-  xy: 904, 18
+  xy: 907, 19
   size: 5, 20
   orig: 5, 20
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_std_ls_2831_3_0.png
-  rotate: false
-  xy: 577, 10
-  size: 7, 25
-  orig: 7, 25
-  offset: 0, 0
-  index: -1
-shirt_F_pjs1_h_std_ls_2831_7_0.png
-  rotate: false
-  xy: 567, 10
-  size: 8, 25
-  orig: 8, 25
-  offset: 0, 0
-  index: -1
 shirt_F_pjs1_h_std_rs_2830_0_0.png
   rotate: false
-  xy: 209, 4
+  xy: 726, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_std_rs_2830_2_0.png
   rotate: false
-  xy: 785, 36
+  xy: 795, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
+shirt_F_pjs1_h_std_rs_2830_7_0.png
+  rotate: false
+  xy: 750, 35
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
 shirt_F_pjs1_h_std_rs_2831_0_0.png
   rotate: false
-  xy: 773, 36
+  xy: 783, 36
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_std_rs_2831_1_0.png
   rotate: false
-  xy: 730, 12
+  xy: 669, 12
   size: 9, 23
   orig: 9, 23
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_std_rs_2831_2_0.png
   rotate: false
-  xy: 874, 37
+  xy: 985, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_std_rs_2831_3_0.png
-  rotate: false
-  xy: 428, 23
-  size: 7, 25
-  orig: 7, 25
-  offset: 0, 0
-  index: -1
-shirt_F_pjs1_h_std_rs_2831_7_0.png
-  rotate: false
-  xy: 329, 20
-  size: 8, 25
-  orig: 8, 25
-  offset: 0, 0
-  index: -1
 shirt_F_pjs1_h_wav_ls_2830_0_0.png
   rotate: false
-  xy: 548, 35
+  xy: 511, 35
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2830_0_1.png
   rotate: false
-  xy: 258, 19
+  xy: 209, 4
   size: 16, 28
   orig: 16, 28
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2830_1_0.png
   rotate: false
-  xy: 696, 37
+  xy: 674, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2830_1_1.png
   rotate: false
-  xy: 748, 38
+  xy: 807, 38
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2830_2_0.png
   rotate: false
-  xy: 392, 22
+  xy: 385, 17
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2830_2_1.png
   rotate: false
-  xy: 56, 2
+  xy: 76, 2
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
@@ -559,28 +538,28 @@ shirt_F_pjs1_h_wav_ls_2830_3_1.png
   index: -1
 shirt_F_pjs1_h_wav_ls_2830_4_0.png
   rotate: false
-  xy: 222, 16
+  xy: 190, 4
   size: 17, 28
   orig: 17, 28
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2830_4_1.png
   rotate: false
-  xy: 276, 19
+  xy: 414, 21
   size: 15, 27
   orig: 15, 27
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2830_5_0.png
   rotate: false
-  xy: 484, 36
+  xy: 431, 22
   size: 15, 26
   orig: 15, 26
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2830_5_1.png
   rotate: false
-  xy: 293, 20
+  xy: 244, 18
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
@@ -601,105 +580,105 @@ shirt_F_pjs1_h_wav_ls_2830_6_1.png
   index: -1
 shirt_F_pjs1_h_wav_ls_2830_7_0.png
   rotate: false
-  xy: 241, 16
+  xy: 227, 4
   size: 15, 28
   orig: 15, 28
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2830_7_1.png
   rotate: false
-  xy: 190, 4
+  xy: 195, 34
   size: 17, 28
   orig: 17, 28
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_0_0.png
   rotate: false
-  xy: 885, 38
+  xy: 928, 38
   size: 10, 24
   orig: 10, 24
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_0_1.png
   rotate: false
-  xy: 578, 39
+  xy: 323, 22
   size: 15, 23
   orig: 15, 23
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_1_0.png
   rotate: false
-  xy: 719, 12
+  xy: 555, 13
   size: 9, 23
   orig: 9, 23
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_1_1.png
   rotate: false
-  xy: 677, 15
+  xy: 374, 19
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_2_0.png
   rotate: false
-  xy: 437, 23
+  xy: 526, 38
   size: 15, 24
   orig: 15, 24
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_2_1.png
   rotate: false
-  xy: 339, 17
+  xy: 304, 22
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_3_0.png
   rotate: false
-  xy: 454, 23
+  xy: 560, 38
   size: 14, 24
   orig: 14, 24
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_3_1.png
   rotate: false
-  xy: 358, 17
+  xy: 543, 38
   size: 15, 24
   orig: 15, 24
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_4_0.png
   rotate: false
-  xy: 311, 19
+  xy: 277, 21
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_4_1.png
   rotate: false
-  xy: 649, 39
+  xy: 628, 39
   size: 14, 23
   orig: 14, 23
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_5_0.png
   rotate: false
-  xy: 501, 36
+  xy: 448, 21
   size: 15, 26
   orig: 15, 26
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_5_1.png
   rotate: false
-  xy: 410, 22
+  xy: 340, 19
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_6_0.png
   rotate: false
-  xy: 76, 2
+  xy: 56, 2
   size: 18, 25
   orig: 18, 25
   offset: 0, 0
@@ -713,77 +692,70 @@ shirt_F_pjs1_h_wav_ls_2831_6_1.png
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_7_0.png
   rotate: false
-  xy: 518, 36
+  xy: 496, 25
   size: 13, 26
   orig: 13, 26
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wav_ls_2831_7_1.png
   rotate: false
-  xy: 375, 17
+  xy: 479, 25
   size: 15, 26
   orig: 15, 26
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2830_0_0.png
   rotate: false
-  xy: 848, 9
+  xy: 1016, 16
   size: 6, 22
   orig: 6, 22
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2830_0_1.png
   rotate: false
-  xy: 943, 24
+  xy: 920, 20
   size: 5, 18
   orig: 5, 18
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2830_0_3.png
   rotate: false
-  xy: 782, 12
+  xy: 760, 11
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2830_1_0.png
   rotate: false
-  xy: 457, 2
+  xy: 738, 13
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_wlk_ls_2830_1_1.png
-  rotate: false
-  xy: 925, 44
-  size: 15, 18
-  orig: 15, 18
-  offset: 0, 0
-  index: -1
 shirt_F_pjs1_h_wlk_ls_2830_1_3.png
   rotate: false
-  xy: 476, 2
+  xy: 865, 42
   size: 12, 20
   orig: 12, 20
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_wlk_ls_2830_2_0.png
-  rotate: false
-  xy: 897, 17
-  size: 5, 21
-  orig: 5, 21
-  offset: 0, 0
-  index: -1
 shirt_F_pjs1_h_wlk_ls_2830_2_1.png
   rotate: false
-  xy: 510, 10
+  xy: 533, 12
   size: 9, 24
   orig: 9, 24
   offset: 0, 0
   index: -1
+shirt_F_pjs1_h_wlk_ls_2830_2_2.png
+  rotate: false
+  xy: 831, 17
+  size: 5, 21
+  orig: 5, 21
+  offset: 0, 0
+  index: -1
 shirt_F_pjs1_h_wlk_ls_2830_2_3.png
   rotate: false
-  xy: 976, 28
+  xy: 952, 20
   size: 4, 15
   orig: 4, 15
   offset: 0, 0
@@ -804,301 +776,329 @@ shirt_F_pjs1_h_wlk_ls_2830_3_1.png
   index: -1
 shirt_F_pjs1_h_wlk_ls_2830_3_3.png
   rotate: false
-  xy: 852, 35
+  xy: 974, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2830_7_1.png
   rotate: false
-  xy: 558, 8
+  xy: 788, 9
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2830_7_2.png
   rotate: false
-  xy: 797, 35
+  xy: 772, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2830_7_3.png
   rotate: false
-  xy: 863, 37
+  xy: 963, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2831_0_0.png
   rotate: false
-  xy: 911, 19
+  xy: 847, 20
   size: 5, 20
   orig: 5, 20
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2831_0_1.png
   rotate: false
-  xy: 936, 25
+  xy: 879, 22
   size: 5, 17
   orig: 5, 17
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2831_0_2.png
   rotate: false
-  xy: 881, 14
+  xy: 806, 13
   size: 5, 21
   orig: 5, 21
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2831_0_3.png
   rotate: false
-  xy: 872, 14
+  xy: 813, 15
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_wlk_ls_2831_1_1.png
-  rotate: false
-  xy: 665, 40
-  size: 14, 22
-  orig: 14, 22
-  offset: 0, 0
-  index: -1
-shirt_F_pjs1_h_wlk_ls_2831_1_2.png
-  rotate: false
-  xy: 633, 16
-  size: 10, 21
-  orig: 10, 21
-  offset: 0, 0
-  index: -1
 shirt_F_pjs1_h_wlk_ls_2831_1_3.png
   rotate: false
-  xy: 911, 41
+  xy: 498, 2
   size: 12, 21
   orig: 12, 21
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_wlk_ls_2831_2_1.png
+shirt_F_pjs1_h_wlk_ls_2831_2_0.png
   rotate: false
-  xy: 772, 12
-  size: 8, 22
-  orig: 8, 22
-  offset: 0, 0
-  index: -1
-shirt_F_pjs1_h_wlk_ls_2831_2_2.png
-  rotate: false
-  xy: 957, 23
+  xy: 914, 19
   size: 4, 19
   orig: 4, 19
   offset: 0, 0
   index: -1
+shirt_F_pjs1_h_wlk_ls_2831_2_1.png
+  rotate: false
+  xy: 750, 11
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
 shirt_F_pjs1_h_wlk_ls_2831_2_3.png
   rotate: false
-  xy: 384, 2
+  xy: 831, 2
   size: 3, 13
   orig: 3, 13
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2831_3_1.png
   rotate: false
-  xy: 821, 8
+  xy: 603, 16
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
+shirt_F_pjs1_h_wlk_ls_2831_3_2.png
+  rotate: false
+  xy: 594, 15
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2831_3_3.png
   rotate: false
-  xy: 751, 12
+  xy: 680, 11
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_ls_2831_7_1.png
   rotate: false
-  xy: 812, 9
+  xy: 710, 11
   size: 7, 24
   orig: 7, 24
   offset: 0, 0
   index: -1
+shirt_F_pjs1_h_wlk_ls_2831_7_2.png
+  rotate: false
+  xy: 996, 37
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
 shirt_F_pjs1_h_wlk_ls_2831_7_3.png
   rotate: false
-  xy: 741, 11
+  xy: 523, 9
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_rs_2830_0_1.png
   rotate: false
-  xy: 735, 37
+  xy: 713, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_rs_2830_0_2.png
   rotate: false
-  xy: 709, 37
+  xy: 687, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_rs_2830_0_3.png
   rotate: false
-  xy: 633, 39
+  xy: 612, 39
   size: 14, 23
   orig: 14, 23
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_wlk_rs_2830_1_0.png
-  rotate: false
-  xy: 645, 15
-  size: 10, 22
-  orig: 10, 22
-  offset: 0, 0
-  index: -1
 shirt_F_pjs1_h_wlk_rs_2830_1_1.png
   rotate: false
-  xy: 1005, 42
+  xy: 834, 42
   size: 13, 20
   orig: 13, 20
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_wlk_rs_2830_2_0.png
+shirt_F_pjs1_h_wlk_rs_2830_1_2.png
   rotate: false
-  xy: 470, 24
-  size: 12, 27
-  orig: 12, 27
+  xy: 916, 40
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+shirt_F_pjs1_h_wlk_rs_2830_1_3.png
+  rotate: false
+  xy: 431, 2
+  size: 15, 18
+  orig: 15, 18
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_rs_2830_2_1.png
   rotate: false
-  xy: 681, 39
+  xy: 644, 39
   size: 13, 23
   orig: 13, 23
   offset: 0, 0
   index: -1
+shirt_F_pjs1_h_wlk_rs_2830_2_2.png
+  rotate: false
+  xy: 465, 20
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
 shirt_F_pjs1_h_wlk_rs_2830_2_3.png
   rotate: false
-  xy: 533, 35
+  xy: 262, 17
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_wlk_rs_2830_3_0.png
-  rotate: false
-  xy: 830, 34
-  size: 9, 28
-  orig: 9, 28
-  offset: 0, 0
-  index: -1
 shirt_F_pjs1_h_wlk_rs_2830_3_1.png
   rotate: false
-  xy: 606, 15
+  xy: 700, 11
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_wlk_rs_2830_3_3.png
+shirt_F_pjs1_h_wlk_rs_2830_3_2.png
   rotate: false
-  xy: 819, 35
-  size: 9, 27
-  orig: 9, 27
+  xy: 739, 34
+  size: 9, 28
+  orig: 9, 28
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_wlk_rs_2830_7_0.png
+shirt_F_pjs1_h_wlk_rs_2830_3_3.png
   rotate: false
-  xy: 808, 35
+  xy: 761, 35
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_rs_2830_7_1.png
   rotate: false
-  xy: 499, 9
+  xy: 952, 37
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_rs_2830_7_3.png
   rotate: false
-  xy: 586, 12
+  xy: 585, 15
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_rs_2831_0_0.png
   rotate: false
-  xy: 666, 15
+  xy: 636, 14
   size: 9, 23
   orig: 9, 23
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_rs_2831_0_1.png
   rotate: false
-  xy: 761, 12
+  xy: 647, 14
   size: 9, 23
   orig: 9, 23
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_rs_2831_0_3.png
   rotate: false
-  xy: 897, 40
+  xy: 820, 40
   size: 12, 22
   orig: 12, 22
   offset: 0, 0
   index: -1
+shirt_F_pjs1_h_wlk_rs_2831_1_0.png
+  rotate: false
+  xy: 892, 41
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
 shirt_F_pjs1_h_wlk_rs_2831_1_1.png
   rotate: false
-  xy: 533, 12
+  xy: 879, 41
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_wlk_rs_2831_2_1.png
+shirt_F_pjs1_h_wlk_rs_2831_1_3.png
   rotate: false
-  xy: 563, 37
-  size: 13, 25
-  orig: 13, 25
+  xy: 358, 19
+  size: 14, 22
+  orig: 14, 22
   offset: 0, 0
   index: -1
-shirt_F_pjs1_h_wlk_rs_2831_2_2.png
+shirt_F_pjs1_h_wlk_rs_2831_2_0.png
   rotate: false
-  xy: 761, 37
+  xy: 940, 37
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
+shirt_F_pjs1_h_wlk_rs_2831_2_1.png
+  rotate: false
+  xy: 659, 37
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
 shirt_F_pjs1_h_wlk_rs_2831_2_3.png
   rotate: false
-  xy: 722, 37
+  xy: 700, 37
   size: 11, 25
   orig: 11, 25
   offset: 0, 0
   index: -1
+shirt_F_pjs1_h_wlk_rs_2831_3_0.png
+  rotate: false
+  xy: 295, 22
+  size: 7, 25
+  orig: 7, 25
+  offset: 0, 0
+  index: -1
 shirt_F_pjs1_h_wlk_rs_2831_3_1.png
   rotate: false
-  xy: 792, 10
+  xy: 566, 13
   size: 8, 23
   orig: 8, 23
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_rs_2831_3_3.png
   rotate: false
-  xy: 839, 6
+  xy: 576, 15
   size: 7, 25
   orig: 7, 25
   offset: 0, 0
   index: -1
+shirt_F_pjs1_h_wlk_rs_2831_7_0.png
+  rotate: false
+  xy: 1006, 37
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
 shirt_F_pjs1_h_wlk_rs_2831_7_1.png
   rotate: false
-  xy: 802, 9
+  xy: 690, 11
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_F_pjs1_h_wlk_rs_2831_7_3.png
   rotate: false
-  xy: 830, 8
+  xy: 779, 9
   size: 7, 24
   orig: 7, 24
   offset: 0, 0

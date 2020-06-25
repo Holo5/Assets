@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_dreadlockstied_h_lay_hr_3389_2_0.png
   rotate: false
-  xy: 216, 174
+  xy: 2, 2
   size: 35, 32
   orig: 35, 32
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_lay_hr_3390_2_0.png
   rotate: false
-  xy: 194, 140
+  xy: 91, 24
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
@@ -27,28 +27,28 @@ hair_U_dreadlockstied_h_lay_hr_3391_2_0.png
   index: -1
 hair_U_dreadlockstied_h_lay_hrb_3389_2_0.png
   rotate: false
-  xy: 2, 4
+  xy: 63, 92
   size: 35, 32
   orig: 35, 32
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_lay_hrb_3390_2_0.png
   rotate: false
-  xy: 183, 120
+  xy: 237, 216
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_lay_hrb_3391_2_0.png
   rotate: false
-  xy: 150, 137
+  xy: 63, 60
   size: 29, 30
   orig: 29, 30
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3389_0_0.png
   rotate: false
-  xy: 126, 212
+  xy: 84, 168
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
@@ -62,281 +62,281 @@ hair_U_dreadlockstied_h_spk_hr_3389_1_0.png
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3389_2_0.png
   rotate: false
-  xy: 2, 168
+  xy: 2, 212
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3389_3_0.png
   rotate: false
-  xy: 63, 51
+  xy: 100, 94
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3389_7_0.png
   rotate: false
-  xy: 127, 80
+  xy: 184, 126
   size: 26, 44
   orig: 26, 44
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3390_0_0.png
   rotate: false
-  xy: 183, 100
+  xy: 237, 236
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3390_1_0.png
   rotate: false
-  xy: 235, 232
+  xy: 70, 20
   size: 19, 22
   orig: 19, 22
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3390_2_0.png
   rotate: false
-  xy: 138, 18
+  xy: 136, 71
   size: 18, 21
   orig: 18, 21
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3390_3_0.png
   rotate: false
-  xy: 182, 160
+  xy: 94, 56
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3390_7_0.png
   rotate: false
-  xy: 118, 2
+  xy: 136, 55
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3391_0_0.png
   rotate: false
-  xy: 65, 84
+  xy: 116, 124
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3391_1_0.png
   rotate: false
-  xy: 2, 82
+  xy: 147, 172
   size: 35, 40
   orig: 35, 40
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3391_2_0.png
   rotate: false
-  xy: 119, 170
+  xy: 79, 126
   size: 35, 40
   orig: 35, 40
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3391_3_0.png
   rotate: false
-  xy: 119, 57
+  xy: 211, 102
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
   index: -1
 hair_U_dreadlockstied_h_spk_hr_3391_7_0.png
   rotate: false
-  xy: 156, 169
+  xy: 37, 38
   size: 24, 41
   orig: 24, 41
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_spk_hrb_3390_1_0.png
+hair_U_dreadlockstied_h_spk_hrb_3389_0_0.png
   rotate: false
-  xy: 235, 208
-  size: 19, 22
-  orig: 19, 22
-  offset: 0, 0
-  index: -1
-hair_U_dreadlockstied_h_spk_hrb_3390_3_0.png
-  rotate: false
-  xy: 63, 39
-  size: 20, 10
-  orig: 20, 10
-  offset: 0, 0
-  index: -1
-hair_U_dreadlockstied_h_spk_hrb_3390_7_0.png
-  rotate: false
-  xy: 119, 41
-  size: 21, 14
-  orig: 21, 14
-  offset: 0, 0
-  index: -1
-hair_U_dreadlockstied_h_std_hr_3389_0_0.png
-  rotate: false
-  xy: 84, 168
+  xy: 2, 36
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hr_3389_1_0.png
+hair_U_dreadlockstied_h_spk_hrb_3389_1_0.png
   rotate: false
   xy: 2, 124
   size: 38, 42
   orig: 38, 42
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hr_3389_2_0.png
+hair_U_dreadlockstied_h_spk_hrb_3389_2_0.png
   rotate: false
-  xy: 2, 212
+  xy: 2, 168
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hr_3389_3_0.png
+hair_U_dreadlockstied_h_spk_hrb_3389_3_0.png
   rotate: false
-  xy: 155, 61
+  xy: 128, 94
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hr_3389_7_0.png
+hair_U_dreadlockstied_h_spk_hrb_3390_1_0.png
   rotate: false
-  xy: 99, 80
-  size: 26, 44
-  orig: 26, 44
-  offset: 0, 0
-  index: -1
-hair_U_dreadlockstied_h_std_hr_3390_1_0.png
-  rotate: false
-  xy: 70, 15
+  xy: 94, 68
   size: 19, 22
   orig: 19, 22
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hr_3390_7_0.png
+hair_U_dreadlockstied_h_spk_hrb_3390_7_0.png
   rotate: false
-  xy: 141, 2
+  xy: 63, 44
   size: 21, 14
   orig: 21, 14
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hr_3391_0_0.png
+hair_U_dreadlockstied_h_spk_hrb_3391_1_0.png
   rotate: false
-  xy: 116, 126
-  size: 32, 40
-  orig: 32, 40
-  offset: 0, 0
-  index: -1
-hair_U_dreadlockstied_h_std_hr_3391_1_0.png
-  rotate: false
-  xy: 79, 126
+  xy: 163, 214
   size: 35, 40
   orig: 35, 40
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hr_3391_2_0.png
+hair_U_dreadlockstied_h_spk_hrb_3391_7_0.png
   rotate: false
-  xy: 198, 214
-  size: 35, 40
-  orig: 35, 40
-  offset: 0, 0
-  index: -1
-hair_U_dreadlockstied_h_std_hr_3391_3_0.png
-  rotate: false
-  xy: 91, 27
-  size: 25, 21
-  orig: 25, 21
-  offset: 0, 0
-  index: -1
-hair_U_dreadlockstied_h_std_hr_3391_7_0.png
-  rotate: false
-  xy: 39, 81
+  xy: 218, 171
   size: 24, 41
   orig: 24, 41
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hrb_3389_0_0.png
+hair_U_dreadlockstied_h_std_hr_3389_0_0.png
   rotate: false
-  xy: 2, 38
+  xy: 2, 80
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hrb_3389_1_0.png
+hair_U_dreadlockstied_h_std_hr_3389_1_0.png
   rotate: false
   xy: 86, 212
   size: 38, 42
   orig: 38, 42
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hrb_3389_2_0.png
+hair_U_dreadlockstied_h_std_hr_3389_2_0.png
   rotate: false
   xy: 44, 212
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hrb_3389_3_0.png
+hair_U_dreadlockstied_h_std_hr_3389_3_0.png
   rotate: false
-  xy: 91, 50
+  xy: 156, 100
   size: 26, 28
   orig: 26, 28
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hrb_3389_7_0.png
+hair_U_dreadlockstied_h_std_hr_3389_7_0.png
   rotate: false
-  xy: 155, 91
+  xy: 212, 125
   size: 26, 44
   orig: 26, 44
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hrb_3390_0_0.png
+hair_U_dreadlockstied_h_std_hr_3390_0_0.png
   rotate: false
-  xy: 181, 140
+  xy: 159, 57
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hrb_3390_2_0.png
+hair_U_dreadlockstied_h_std_hr_3390_1_0.png
   rotate: false
-  xy: 118, 18
-  size: 18, 21
-  orig: 18, 21
+  xy: 115, 70
+  size: 19, 22
+  orig: 19, 22
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hrb_3391_0_0.png
+hair_U_dreadlockstied_h_std_hr_3390_7_0.png
   rotate: false
-  xy: 182, 172
+  xy: 70, 4
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+hair_U_dreadlockstied_h_std_hr_3391_0_0.png
+  rotate: false
+  xy: 184, 172
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hrb_3391_1_0.png
-  rotate: false
-  xy: 161, 214
-  size: 35, 40
-  orig: 35, 40
-  offset: 0, 0
-  index: -1
-hair_U_dreadlockstied_h_std_hrb_3391_2_0.png
+hair_U_dreadlockstied_h_std_hr_3391_1_0.png
   rotate: false
   xy: 42, 126
   size: 35, 40
   orig: 35, 40
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hrb_3391_3_0.png
+hair_U_dreadlockstied_h_std_hr_3391_2_0.png
   rotate: false
-  xy: 91, 4
+  xy: 200, 214
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+hair_U_dreadlockstied_h_std_hr_3391_3_0.png
+  rotate: false
+  xy: 156, 77
   size: 25, 21
   orig: 25, 21
   offset: 0, 0
   index: -1
-hair_U_dreadlockstied_h_std_hrb_3391_7_0.png
+hair_U_dreadlockstied_h_std_hr_3391_7_0.png
   rotate: false
-  xy: 37, 38
+  xy: 37, 81
   size: 24, 41
   orig: 24, 41
+  offset: 0, 0
+  index: -1
+hair_U_dreadlockstied_h_std_hrb_3389_7_0.png
+  rotate: false
+  xy: 119, 166
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+hair_U_dreadlockstied_h_std_hrb_3390_2_0.png
+  rotate: false
+  xy: 116, 47
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+hair_U_dreadlockstied_h_std_hrb_3390_3_0.png
+  rotate: false
+  xy: 86, 44
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+hair_U_dreadlockstied_h_std_hrb_3391_0_0.png
+  rotate: false
+  xy: 150, 130
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+hair_U_dreadlockstied_h_std_hrb_3391_2_0.png
+  rotate: false
+  xy: 126, 214
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+hair_U_dreadlockstied_h_std_hrb_3391_3_0.png
+  rotate: false
+  xy: 184, 103
+  size: 25, 21
+  orig: 25, 21
   offset: 0, 0
   index: -1

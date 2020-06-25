@@ -1,0 +1,27 @@
+
+maletin_runa.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+maletin_runa_maletin_runa_64_a_0_0.png
+  rotate: false
+  xy: 2, 50
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+maletin_runa_maletin_runa_64_sd_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+maletin_runa_maletin_runa_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

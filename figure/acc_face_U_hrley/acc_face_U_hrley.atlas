@@ -1,0 +1,48 @@
+
+acc_face_U_hrley.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+acc_face_U_hrley_h_lsp_fa_7884_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_face_U_hrley_h_spk_fa_7884_0_0.png
+  rotate: false
+  xy: 89, 28
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+acc_face_U_hrley_h_spk_fa_7884_1_0.png
+  rotate: false
+  xy: 64, 11
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+acc_face_U_hrley_h_spk_fa_7884_3_0.png
+  rotate: false
+  xy: 34, 9
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+acc_face_U_hrley_h_std_fa_7884_2_0.png
+  rotate: false
+  xy: 2, 8
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+acc_face_U_hrley_h_std_fa_7884_7_0.png
+  rotate: false
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

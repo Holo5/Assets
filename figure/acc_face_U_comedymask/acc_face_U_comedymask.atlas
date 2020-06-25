@@ -11,13 +11,6 @@ acc_face_U_comedymask_h_lay_fa_3422_2_0.png
   orig: 29, 24
   offset: 0, 0
   index: -1
-acc_face_U_comedymask_h_spk_fa_3422_0_0.png
-  rotate: false
-  xy: 2, 33
-  size: 32, 27
-  orig: 32, 27
-  offset: 0, 0
-  index: -1
 acc_face_U_comedymask_h_spk_fa_3422_1_0.png
   rotate: false
   xy: 36, 36
@@ -32,17 +25,24 @@ acc_face_U_comedymask_h_spk_fa_3422_2_0.png
   orig: 29, 29
   offset: 0, 0
   index: -1
-acc_face_U_comedymask_h_spk_fa_3422_3_0.png
-  rotate: false
-  xy: 99, 33
-  size: 26, 27
-  orig: 26, 27
-  offset: 0, 0
-  index: -1
 acc_face_U_comedymask_h_spk_fa_3422_7_0.png
   rotate: false
   xy: 36, 26
   size: 26, 8
   orig: 26, 8
+  offset: 0, 0
+  index: -1
+acc_face_U_comedymask_h_std_fa_3422_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+acc_face_U_comedymask_h_std_fa_3422_3_0.png
+  rotate: false
+  xy: 99, 33
+  size: 26, 27
+  orig: 26, 27
   offset: 0, 0
   index: -1

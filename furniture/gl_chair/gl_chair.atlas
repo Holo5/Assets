@@ -1,0 +1,20 @@
+
+gl_chair.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gl_chair_gl_chair_64_a_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+gl_chair_gl_chair_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+CF_50000_legendarybar.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CF_50000_legendarybar_CF_50000_legendarybar_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+CF_50000_legendarybar_CF_50000_legendarybar_icon_a.png
+  rotate: false
+  xy: 64, 12
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

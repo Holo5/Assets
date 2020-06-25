@@ -1,0 +1,580 @@
+
+jacket_U_cloa5.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jacket_U_cloa5_h_crr_lc_8291_2_0.png
+  rotate: false
+  xy: 119, 119
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_crr_lc_8291_3_0.png
+  rotate: false
+  xy: 97, 68
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_crr_lc_8291_4_0.png
+  rotate: false
+  xy: 40, 97
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_crr_lc_8291_5_0.png
+  rotate: false
+  xy: 90, 67
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_crr_lc_8291_6_0.png
+  rotate: false
+  xy: 119, 112
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_crr_rc_8291_0_0.png
+  rotate: false
+  xy: 112, 205
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_crr_rc_8291_1_0.png
+  rotate: false
+  xy: 98, 165
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_crr_rc_8291_2_0.png
+  rotate: false
+  xy: 82, 117
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_crr_rc_8291_3_0.png
+  rotate: false
+  xy: 111, 69
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_crr_rc_8291_4_0.png
+  rotate: false
+  xy: 104, 68
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_drk_rc_8291_0_0.png
+  rotate: false
+  xy: 51, 95
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_drk_rc_8291_1_0.png
+  rotate: false
+  xy: 40, 104
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_drk_rc_8291_2_0.png
+  rotate: false
+  xy: 82, 81
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_drk_rc_8291_3_0.png
+  rotate: false
+  xy: 119, 126
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_drk_rc_8291_4_0.png
+  rotate: false
+  xy: 119, 133
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_drk_rc_8291_5_0.png
+  rotate: false
+  xy: 98, 158
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_drk_rc_8291_7_0.png
+  rotate: false
+  xy: 93, 64
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_lay_cc_8291_2_0.png
+  rotate: false
+  xy: 42, 3
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_lay_rc_8291_2_0.png
+  rotate: false
+  xy: 78, 62
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_sit_cc_8291_0_0.png
+  rotate: false
+  xy: 2, 143
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_sit_cc_8291_2_0.png
+  rotate: false
+  xy: 2, 44
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_sit_cc_8292_0_0.png
+  rotate: false
+  xy: 90, 74
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_std_cc_8291_0_0.png
+  rotate: false
+  xy: 46, 202
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_std_cc_8291_1_0.png
+  rotate: false
+  xy: 58, 154
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_std_cc_8291_2_0.png
+  rotate: false
+  xy: 2, 197
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_std_cc_8291_3_0.png
+  rotate: false
+  xy: 79, 204
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_std_cc_8291_7_0.png
+  rotate: false
+  xy: 2, 94
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_std_cc_8292_7_0.png
+  rotate: false
+  xy: 119, 91
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_std_lc_8291_3_0.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_std_rc_8291_0_0.png
+  rotate: false
+  xy: 51, 44
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_std_rc_8291_1_0.png
+  rotate: false
+  xy: 108, 76
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_std_rc_8291_2_0.png
+  rotate: false
+  xy: 67, 118
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_std_rc_8291_3_0.png
+  rotate: false
+  xy: 22, 2
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_2_0.png
+  rotate: false
+  xy: 119, 77
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_2_1.png
+  rotate: false
+  xy: 119, 84
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_3_0.png
+  rotate: false
+  xy: 119, 98
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_3_1.png
+  rotate: false
+  xy: 119, 105
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_4_0.png
+  rotate: false
+  xy: 85, 55
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_4_1.png
+  rotate: false
+  xy: 85, 48
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_5_0.png
+  rotate: false
+  xy: 78, 55
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_5_1.png
+  rotate: false
+  xy: 105, 158
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_6_0.png
+  rotate: false
+  xy: 58, 147
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_6_1.png
+  rotate: false
+  xy: 119, 147
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_7_0.png
+  rotate: false
+  xy: 78, 48
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wav_lc_8291_7_1.png
+  rotate: false
+  xy: 119, 140
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wlk_rc_8291_0_0.png
+  rotate: false
+  xy: 112, 154
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wlk_rc_8291_0_1.png
+  rotate: false
+  xy: 35, 43
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wlk_rc_8291_0_2.png
+  rotate: false
+  xy: 42, 146
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wlk_rc_8291_0_3.png
+  rotate: false
+  xy: 82, 153
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wlk_rc_8291_1_0.png
+  rotate: false
+  xy: 67, 43
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wlk_rc_8291_1_1.png
+  rotate: false
+  xy: 97, 114
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wlk_rc_8291_1_2.png
+  rotate: false
+  xy: 108, 115
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wlk_rc_8291_1_3.png
+  rotate: false
+  xy: 97, 75
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_h_wlk_rc_8291_2_1.png
+  rotate: false
+  xy: 67, 82
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 42, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 40, 94
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 45, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 48, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 43, 94
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 198
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 195
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 192
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 189
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 186
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 183
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 180
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 177
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 174
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 168
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 109, 165
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 46, 94
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 46, 199
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 98, 155
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 78, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 81, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 90, 64
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 47, 101
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 49, 199
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 101, 155
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_U_cloa5_sh_crr_lc_8291_7_0.png
+  rotate: false
+  xy: 84, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

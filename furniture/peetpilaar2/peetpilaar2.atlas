@@ -1,0 +1,20 @@
+
+peetpilaar2.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+peetpilaar2_peetpilaar2_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+peetpilaar2_peetpilaar2_icon_a.png
+  rotate: false
+  xy: 64, 28
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1

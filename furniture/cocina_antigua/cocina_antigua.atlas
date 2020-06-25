@@ -1,0 +1,41 @@
+
+cocina_antigua.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cocina_antigua_cocina_antigua_64_a_2_1.png
+  rotate: false
+  xy: 296, 2
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+cocina_antigua_cocina_antigua_64_a_2_2.png
+  rotate: false
+  xy: 100, 2
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+cocina_antigua_cocina_antigua_64_a_2_3.png
+  rotate: false
+  xy: 198, 2
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+cocina_antigua_cocina_antigua_64_sd_2_0.png
+  rotate: false
+  xy: 394, 56
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+cocina_antigua_cocina_antigua_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1

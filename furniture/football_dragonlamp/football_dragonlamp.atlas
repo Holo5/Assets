@@ -1,0 +1,48 @@
+
+football_dragonlamp.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+football_dragonlamp_football_dragonlamp_64_a_2_0.png
+  rotate: false
+  xy: 258, 39
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+football_dragonlamp_football_dragonlamp_64_a_2_1.png
+  rotate: false
+  xy: 66, 4
+  size: 62, 107
+  orig: 62, 107
+  offset: 0, 0
+  index: -1
+football_dragonlamp_football_dragonlamp_64_a_2_2.png
+  rotate: false
+  xy: 130, 6
+  size: 62, 105
+  orig: 62, 105
+  offset: 0, 0
+  index: -1
+football_dragonlamp_football_dragonlamp_64_a_2_3.png
+  rotate: false
+  xy: 194, 8
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+football_dragonlamp_football_dragonlamp_64_a_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+football_dragonlamp_football_dragonlamp_icon_a.png
+  rotate: false
+  xy: 258, 10
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1

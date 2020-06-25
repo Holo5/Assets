@@ -4,11 +4,11 @@ size: 128,128
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-hat_U_snowman_h_lay_ha_3280_2_0.png
+hat_U_snowman_h_lsp_ha_3280_2_0.png
   rotate: false
-  xy: 37, 3
-  size: 30, 34
-  orig: 30, 34
+  xy: 37, 39
+  size: 30, 35
+  orig: 30, 35
   offset: 0, 0
   index: -1
 hat_U_snowman_h_spk_ha_3280_0_0.png
@@ -23,13 +23,6 @@ hat_U_snowman_h_spk_ha_3280_1_0.png
   xy: 104, 76
   size: 19, 34
   orig: 19, 34
-  offset: 0, 0
-  index: -1
-hat_U_snowman_h_spk_ha_3280_2_0.png
-  rotate: false
-  xy: 37, 39
-  size: 30, 35
-  orig: 30, 35
   offset: 0, 0
   index: -1
 hat_U_snowman_h_spk_ha_3280_3_0.png
@@ -58,6 +51,13 @@ hat_U_snowman_h_std_ha_3280_1_0.png
   xy: 69, 6
   size: 19, 33
   orig: 19, 33
+  offset: 0, 0
+  index: -1
+hat_U_snowman_h_std_ha_3280_2_0.png
+  rotate: false
+  xy: 37, 3
+  size: 30, 34
+  orig: 30, 34
   offset: 0, 0
   index: -1
 hat_U_snowman_h_std_ha_3280_3_0.png

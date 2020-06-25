@@ -1,0 +1,20 @@
+
+zomie.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zomie_zomie_64_a_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+zomie_zomie_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1

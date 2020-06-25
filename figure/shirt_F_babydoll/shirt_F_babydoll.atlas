@@ -6,184 +6,149 @@ filter: Nearest,Nearest
 repeat: none
 shirt_F_babydoll_h_crr_ls_2354_3_0.png
   rotate: false
-  xy: 480, 55
+  xy: 499, 55
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_crr_ls_2354_7_0.png
+shirt_F_babydoll_h_crr_ls_2356_0_0.png
   rotate: false
-  xy: 250, 32
-  size: 7, 7
-  orig: 7, 7
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_h_crr_ls_2356_7_0.png
-  rotate: false
-  xy: 327, 44
-  size: 2, 5
-  orig: 2, 5
+  xy: 509, 51
+  size: 1, 4
+  orig: 1, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_crr_rs_2354_2_0.png
   rotate: false
-  xy: 459, 55
+  xy: 428, 55
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_crr_rs_2354_3_0.png
   rotate: false
-  xy: 180, 7
+  xy: 237, 33
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_crr_rs_2354_4_0.png
   rotate: false
-  xy: 277, 42
+  xy: 348, 44
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_crr_rs_2354_5_0.png
   rotate: false
-  xy: 490, 55
+  xy: 247, 42
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_crr_rs_2354_6_0.png
   rotate: false
-  xy: 277, 34
+  xy: 282, 34
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_crr_rs_2356_3_0.png
-  rotate: false
-  xy: 225, 15
-  size: 2, 4
-  orig: 2, 4
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_h_crr_rs_2356_4_0.png
-  rotate: false
-  xy: 206, 22
-  size: 1, 5
-  orig: 1, 5
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_h_crr_rs_2356_6_0.png
-  rotate: false
-  xy: 342, 47
-  size: 1, 4
-  orig: 1, 4
-  offset: 0, 0
-  index: -1
 shirt_F_babydoll_h_drk_rs_2354_0_0.png
   rotate: false
-  xy: 320, 51
+  xy: 197, 28
   size: 9, 11
   orig: 9, 11
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2354_1_0.png
   rotate: false
-  xy: 438, 54
+  xy: 135, 2
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2354_2_0.png
   rotate: false
-  xy: 331, 53
+  xy: 344, 53
   size: 11, 9
   orig: 11, 9
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2354_3_0.png
   rotate: false
-  xy: 448, 55
+  xy: 439, 55
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2354_4_0.png
   rotate: false
-  xy: 171, 15
+  xy: 470, 52
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2354_5_0.png
   rotate: false
-  xy: 500, 54
+  xy: 479, 54
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2354_6_0.png
   rotate: false
-  xy: 234, 29
+  xy: 151, 12
   size: 6, 10
   orig: 6, 10
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2354_7_0.png
   rotate: false
-  xy: 150, 28
+  xy: 450, 53
   size: 9, 9
   orig: 9, 9
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2356_0_0.png
   rotate: false
-  xy: 180, 2
+  xy: 190, 21
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2356_1_0.png
   rotate: false
-  xy: 306, 44
+  xy: 142, 12
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2356_2_0.png
   rotate: false
-  xy: 162, 2
+  xy: 306, 37
   size: 5, 3
   orig: 5, 3
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2356_3_0.png
   rotate: false
-  xy: 199, 23
+  xy: 227, 23
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2356_4_0.png
   rotate: false
-  xy: 198, 17
+  xy: 306, 42
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2356_5_0.png
   rotate: false
-  xy: 198, 5
+  xy: 319, 36
   size: 4, 4
   orig: 4, 4
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_h_drk_rs_2356_6_0.png
-  rotate: false
-  xy: 71, 3
-  size: 1, 1
-  orig: 1, 1
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_drk_rs_2356_7_0.png
@@ -202,7 +167,7 @@ shirt_F_babydoll_h_lay_ch_2354_2_0.png
   index: -1
 shirt_F_babydoll_h_lay_ch_2355_2_0.png
   rotate: false
-  xy: 110, 19
+  xy: 132, 19
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
@@ -216,23 +181,44 @@ shirt_F_babydoll_h_lay_ch_2356_2_0.png
   index: -1
 shirt_F_babydoll_h_lay_ls_2354_2_0.png
   rotate: false
-  xy: 161, 19
+  xy: 132, 12
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_lay_rs_2354_2_0.png
   rotate: false
-  xy: 307, 51
+  xy: 331, 51
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_lay_rs_2356_2_0.png
   rotate: false
-  xy: 198, 11
+  xy: 325, 36
   size: 4, 4
   orig: 4, 4
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_h_sit_rs_2354_2_0.png
+  rotate: false
+  xy: 489, 54
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_h_sit_rs_2356_0_0.png
+  rotate: false
+  xy: 192, 15
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_h_sit_rs_2356_2_0.png
+  rotate: false
+  xy: 163, 5
+  size: 2, 5
+  orig: 2, 5
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_std_ch_2354_0_0.png
@@ -272,35 +258,35 @@ shirt_F_babydoll_h_std_ch_2354_7_0.png
   index: -1
 shirt_F_babydoll_h_std_ch_2355_0_0.png
   rotate: false
-  xy: 233, 47
+  xy: 211, 47
   size: 24, 15
   orig: 24, 15
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_std_ch_2355_1_0.png
   rotate: false
-  xy: 129, 28
+  xy: 285, 53
   size: 19, 9
   orig: 19, 9
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_std_ch_2355_2_0.png
   rotate: false
-  xy: 259, 51
+  xy: 237, 51
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_std_ch_2355_3_0.png
   rotate: false
-  xy: 233, 41
+  xy: 211, 41
   size: 23, 4
   orig: 23, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_std_ch_2355_7_0.png
   rotate: false
-  xy: 284, 52
+  xy: 262, 52
   size: 21, 10
   orig: 21, 10
   offset: 0, 0
@@ -314,7 +300,7 @@ shirt_F_babydoll_h_std_ch_2356_0_0.png
   index: -1
 shirt_F_babydoll_h_std_ch_2356_1_0.png
   rotate: false
-  xy: 211, 37
+  xy: 110, 12
   size: 20, 25
   orig: 20, 25
   offset: 0, 0
@@ -340,361 +326,396 @@ shirt_F_babydoll_h_std_ch_2356_7_0.png
   orig: 22, 21
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_std_ls_2354_3_0.png
-  rotate: false
-  xy: 171, 6
-  size: 7, 7
-  orig: 7, 7
-  offset: 0, 0
-  index: -1
 shirt_F_babydoll_h_std_ls_2356_0_0.png
   rotate: false
-  xy: 229, 15
+  xy: 167, 6
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_std_rs_2354_0_0.png
+shirt_F_babydoll_h_std_ls_2356_1_0.png
   rotate: false
-  xy: 357, 54
-  size: 10, 8
-  orig: 10, 8
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_h_std_rs_2354_2_0.png
-  rotate: false
-  xy: 428, 54
-  size: 8, 8
-  orig: 8, 8
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_h_std_rs_2356_0_0.png
-  rotate: false
-  xy: 229, 2
-  size: 2, 4
-  orig: 2, 4
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_h_std_rs_2356_1_0.png
-  rotate: false
-  xy: 215, 15
+  xy: 348, 37
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_std_rs_2356_2_0.png
+shirt_F_babydoll_h_std_ls_2356_2_0.png
   rotate: false
-  xy: 222, 8
+  xy: 61, 2
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_h_std_rs_2354_3_0.png
+  rotate: false
+  xy: 255, 24
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_h_std_rs_2354_7_0.png
+  rotate: false
+  xy: 274, 43
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_h_std_rs_2356_3_0.png
+  rotate: false
+  xy: 353, 37
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2354_0_0.png
   rotate: false
-  xy: 171, 27
+  xy: 208, 27
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2354_0_1.png
   rotate: false
-  xy: 135, 4
+  xy: 218, 26
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2354_1_0.png
   rotate: false
-  xy: 180, 16
+  xy: 154, 2
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2354_1_1.png
   rotate: false
-  xy: 189, 16
+  xy: 145, 2
   size: 7, 8
   orig: 7, 8
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2354_2_1.png
   rotate: false
-  xy: 162, 7
+  xy: 461, 52
   size: 7, 10
   orig: 7, 10
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2354_3_0.png
   rotate: false
-  xy: 153, 4
+  xy: 188, 26
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2354_3_1.png
   rotate: false
-  xy: 144, 4
+  xy: 179, 26
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_wav_ls_2354_4_1.png
+shirt_F_babydoll_h_wav_ls_2354_4_0.png
   rotate: false
-  xy: 110, 3
+  xy: 306, 48
   size: 13, 14
   orig: 13, 14
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_wav_ls_2354_5_1.png
+shirt_F_babydoll_h_wav_ls_2354_5_0.png
   rotate: false
-  xy: 199, 29
+  xy: 227, 29
   size: 8, 10
   orig: 8, 10
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2354_6_0.png
   rotate: false
-  xy: 125, 3
+  xy: 321, 48
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2354_6_1.png
   rotate: false
-  xy: 161, 26
+  xy: 160, 26
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2354_7_0.png
   rotate: false
-  xy: 190, 26
+  xy: 151, 24
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2354_7_1.png
   rotate: false
-  xy: 181, 26
+  xy: 170, 26
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_0_0.png
   rotate: false
-  xy: 313, 45
+  xy: 320, 42
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_0_1.png
   rotate: false
-  xy: 320, 45
+  xy: 313, 42
   size: 5, 4
   orig: 5, 4
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_wav_ls_2356_2_0.png
+shirt_F_babydoll_h_wav_ls_2356_2_1.png
   rotate: false
-  xy: 357, 49
+  xy: 171, 2
   size: 2, 3
   orig: 2, 3
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_3_0.png
   rotate: false
-  xy: 336, 46
+  xy: 289, 38
   size: 4, 5
   orig: 4, 5
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_3_1.png
   rotate: false
-  xy: 219, 2
+  xy: 343, 36
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_4_0.png
   rotate: false
-  xy: 226, 8
+  xy: 164, 19
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_4_1.png
   rotate: false
-  xy: 224, 2
+  xy: 174, 20
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_5_0.png
   rotate: false
-  xy: 186, 2
+  xy: 159, 12
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_5_1.png
   rotate: false
-  xy: 192, 2
+  xy: 184, 21
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_6_0.png
   rotate: false
-  xy: 209, 22
+  xy: 331, 36
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_6_1.png
   rotate: false
-  xy: 215, 22
+  xy: 337, 36
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_7_0.png
   rotate: false
-  xy: 210, 16
+  xy: 169, 13
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wav_ls_2356_7_1.png
   rotate: false
-  xy: 205, 16
+  xy: 174, 14
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2354_0_0.png
   rotate: false
-  xy: 299, 44
+  xy: 257, 33
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2354_0_1.png
   rotate: false
-  xy: 204, 8
+  xy: 283, 44
   size: 2, 6
   orig: 2, 6
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2354_0_2.png
   rotate: false
-  xy: 285, 44
+  xy: 294, 45
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2354_0_3.png
   rotate: false
-  xy: 292, 44
+  xy: 287, 45
   size: 5, 6
   orig: 5, 6
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_wlk_ls_2354_1_0.png
+shirt_F_babydoll_h_wlk_ls_2354_1_1.png
   rotate: false
-  xy: 141, 19
+  xy: 405, 54
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_h_wlk_ls_2354_1_2.png
+  rotate: false
+  xy: 237, 42
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
+shirt_F_babydoll_h_wlk_ls_2354_1_3.png
+  rotate: false
+  xy: 123, 2
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
 shirt_F_babydoll_h_wlk_ls_2354_2_0.png
   rotate: false
-  xy: 227, 27
+  xy: 257, 41
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2354_2_1.png
   rotate: false
-  xy: 190, 7
+  xy: 340, 42
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2354_2_2.png
   rotate: false
-  xy: 242, 31
+  xy: 264, 24
   size: 6, 8
   orig: 6, 8
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2354_2_3.png
   rotate: false
-  xy: 331, 45
+  xy: 301, 45
   size: 3, 6
   orig: 3, 6
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2354_3_1.png
   rotate: false
-  xy: 218, 28
+  xy: 273, 34
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2354_3_3.png
   rotate: false
-  xy: 209, 28
+  xy: 264, 34
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_wlk_ls_2354_7_0.png
+shirt_F_babydoll_h_wlk_ls_2354_7_3.png
   rotate: false
-  xy: 268, 33
+  xy: 237, 24
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2356_0_2.png
   rotate: false
-  xy: 345, 48
+  xy: 175, 8
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2356_0_3.png
   rotate: false
-  xy: 349, 48
+  xy: 171, 7
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
+shirt_F_babydoll_h_wlk_ls_2356_1_1.png
+  rotate: false
+  xy: 179, 20
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_h_wlk_ls_2356_1_3.png
+  rotate: false
+  xy: 313, 36
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_h_wlk_ls_2356_2_0.png
+  rotate: false
+  xy: 509, 57
+  size: 1, 5
+  orig: 1, 5
+  offset: 0, 0
+  index: -1
 shirt_F_babydoll_h_wlk_ls_2356_2_1.png
   rotate: false
-  xy: 231, 8
+  xy: 165, 12
   size: 2, 5
   orig: 2, 5
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2356_2_2.png
   rotate: false
-  xy: 208, 8
+  xy: 281, 26
   size: 2, 6
   orig: 2, 6
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2356_3_3.png
   rotate: false
-  xy: 353, 48
+  xy: 188, 15
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_ls_2356_7_1.png
   rotate: false
-  xy: 217, 8
+  xy: 169, 19
   size: 3, 5
   orig: 3, 5
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_h_wlk_rs_2354_0_0.png
+  rotate: false
+  xy: 381, 54
+  size: 10, 8
+  orig: 10, 8
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_rs_2354_0_1.png
@@ -706,169 +727,148 @@ shirt_F_babydoll_h_wlk_rs_2354_0_1.png
   index: -1
 shirt_F_babydoll_h_wlk_rs_2354_0_2.png
   rotate: false
-  xy: 381, 54
+  xy: 357, 54
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_rs_2354_0_3.png
   rotate: false
-  xy: 344, 54
+  xy: 110, 2
   size: 11, 8
   orig: 11, 8
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_rs_2354_1_0.png
   rotate: false
-  xy: 151, 19
+  xy: 264, 43
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_wlk_rs_2354_1_1.png
+shirt_F_babydoll_h_wlk_rs_2354_1_2.png
+  rotate: false
+  xy: 247, 33
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_h_wlk_rs_2354_2_1.png
   rotate: false
   xy: 393, 54
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_wlk_rs_2354_1_2.png
-  rotate: false
-  xy: 470, 55
-  size: 8, 7
-  orig: 8, 7
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_h_wlk_rs_2354_1_3.png
-  rotate: false
-  xy: 417, 54
-  size: 9, 8
-  orig: 9, 8
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_h_wlk_rs_2354_2_1.png
-  rotate: false
-  xy: 405, 54
-  size: 10, 8
-  orig: 10, 8
-  offset: 0, 0
-  index: -1
 shirt_F_babydoll_h_wlk_rs_2354_2_3.png
   rotate: false
-  xy: 129, 19
+  xy: 416, 55
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_rs_2354_3_1.png
   rotate: false
-  xy: 259, 42
+  xy: 272, 25
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_rs_2354_3_3.png
   rotate: false
-  xy: 268, 42
+  xy: 331, 42
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_wlk_rs_2354_7_0.png
+shirt_F_babydoll_h_wlk_rs_2354_7_3.png
   rotate: false
-  xy: 259, 33
+  xy: 246, 24
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_rs_2356_0_3.png
   rotate: false
-  xy: 204, 2
+  xy: 179, 14
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
-shirt_F_babydoll_h_wlk_rs_2356_1_1.png
+shirt_F_babydoll_h_wlk_rs_2356_2_0.png
   rotate: false
-  xy: 221, 22
-  size: 4, 4
-  orig: 4, 4
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_h_wlk_rs_2356_1_3.png
-  rotate: false
-  xy: 209, 2
-  size: 3, 4
-  orig: 3, 4
+  xy: 327, 42
+  size: 2, 4
+  orig: 2, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_rs_2356_2_1.png
   rotate: false
-  xy: 220, 15
+  xy: 285, 27
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_rs_2356_2_2.png
   rotate: false
-  xy: 214, 2
+  xy: 301, 39
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_rs_2356_2_3.png
   rotate: false
-  xy: 227, 21
+  xy: 295, 39
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_rs_2356_3_1.png
   rotate: false
-  xy: 233, 2
+  xy: 184, 15
   size: 2, 4
   orig: 2, 4
   offset: 0, 0
   index: -1
 shirt_F_babydoll_h_wlk_rs_2356_3_3.png
   rotate: false
-  xy: 212, 8
+  xy: 159, 17
   size: 3, 5
   orig: 3, 5
   offset: 0, 0
   index: -1
-shirt_F_babydoll_sh_crr_rs_2356_5_0.png
+shirt_F_babydoll_sh_drk_rs_2356_2_0.png
   rotate: false
-  xy: 61, 2
-  size: 1, 2
-  orig: 1, 2
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_sh_crr_rs_2356_5_0.png
-  rotate: false
-  xy: 64, 2
-  size: 1, 2
-  orig: 1, 2
-  offset: 0, 0
-  index: -1
-shirt_F_babydoll_sh_wav_ls_2356_4_0.png
-  rotate: false
-  xy: 198, 2
+  xy: 163, 2
   size: 2, 1
   orig: 2, 1
   offset: 0, 0
   index: -1
-shirt_F_babydoll_sh_wav_ls_2356_4_0.png
+shirt_F_babydoll_sh_drk_rs_2356_2_0.png
   rotate: false
-  xy: 67, 3
+  xy: 167, 3
   size: 2, 1
   orig: 2, 1
   offset: 0, 0
   index: -1
-shirt_F_babydoll_sh_wav_ls_2356_4_0.png
+shirt_F_babydoll_sh_drk_rs_2356_2_0.png
   rotate: false
-  xy: 361, 51
+  xy: 64, 3
   size: 2, 1
   orig: 2, 1
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_sh_drk_rs_2356_6_0.png
+  rotate: false
+  xy: 234, 26
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shirt_F_babydoll_sh_drk_rs_2356_6_0.png
+  rotate: false
+  xy: 234, 23
+  size: 1, 1
+  orig: 1, 1
   offset: 0, 0
   index: -1

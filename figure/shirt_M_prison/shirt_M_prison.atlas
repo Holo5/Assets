@@ -6,126 +6,126 @@ filter: Nearest,Nearest
 repeat: none
 shirt_M_prison_h_crr_ls_3176_0_0.png
   rotate: false
-  xy: 422, 2
+  xy: 855, 81
   size: 4, 18
   orig: 4, 18
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_ls_3176_1_0.png
   rotate: false
-  xy: 484, 96
+  xy: 253, 2
   size: 15, 16
   orig: 15, 16
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_ls_3176_2_0.png
   rotate: false
-  xy: 454, 87
+  xy: 693, 85
   size: 11, 21
   orig: 11, 21
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_ls_3176_3_0.png
   rotate: false
-  xy: 390, 20
+  xy: 797, 77
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_ls_3176_7_0.png
   rotate: false
-  xy: 560, 71
+  xy: 277, 18
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_ls_3177_0_0.png
   rotate: false
-  xy: 393, 87
+  xy: 2, 3
   size: 3, 3
   orig: 3, 3
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_ls_3177_2_0.png
   rotate: false
-  xy: 573, 95
+  xy: 286, 42
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_ls_3177_3_0.png
   rotate: false
-  xy: 437, 89
+  xy: 715, 107
   size: 15, 19
   orig: 15, 19
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_ls_3177_4_0.png
   rotate: false
-  xy: 409, 111
+  xy: 427, 111
   size: 26, 15
   orig: 26, 15
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_ls_3177_5_0.png
   rotate: false
-  xy: 251, 2
+  xy: 472, 64
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_rs_3176_0_0.png
   rotate: false
-  xy: 658, 104
+  xy: 529, 90
   size: 17, 22
   orig: 17, 22
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_rs_3176_1_0.png
   rotate: false
-  xy: 412, 91
+  xy: 749, 108
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_rs_3176_2_0.png
   rotate: false
-  xy: 762, 100
+  xy: 437, 83
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_rs_3176_3_0.png
   rotate: false
-  xy: 400, 32
+  xy: 807, 76
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_rs_3176_4_0.png
   rotate: false
-  xy: 410, 70
+  xy: 715, 86
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_rs_3176_5_0.png
   rotate: false
-  xy: 884, 104
+  xy: 564, 90
   size: 14, 22
   orig: 14, 22
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_rs_3176_6_0.png
   rotate: false
-  xy: 553, 81
+  xy: 729, 86
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_rs_3176_7_0.png
   rotate: false
-  xy: 418, 22
+  xy: 706, 85
   size: 7, 21
   orig: 7, 21
   offset: 0, 0
@@ -146,49 +146,49 @@ shirt_M_prison_h_crr_rs_3177_1_0.png
   index: -1
 shirt_M_prison_h_crr_rs_3177_2_0.png
   rotate: false
-  xy: 380, 111
+  xy: 398, 111
   size: 27, 15
   orig: 27, 15
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_rs_3177_3_0.png
   rotate: false
-  xy: 393, 92
+  xy: 677, 109
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 shirt_M_prison_h_crr_rs_3177_4_0.png
   rotate: false
-  xy: 560, 94
+  xy: 766, 85
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3176_0_0.png
   rotate: false
-  xy: 639, 108
+  xy: 696, 108
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3176_1_0.png
   rotate: false
-  xy: 546, 114
+  xy: 564, 114
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3176_2_0.png
   rotate: false
-  xy: 437, 110
+  xy: 455, 110
   size: 25, 16
   orig: 25, 16
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3176_3_0.png
   rotate: false
-  xy: 467, 94
+  xy: 732, 108
   size: 15, 18
   orig: 15, 18
   offset: 0, 0
@@ -202,63 +202,63 @@ shirt_M_prison_h_drk_rs_3176_4_0.png
   index: -1
 shirt_M_prison_h_drk_rs_3176_5_0.png
   rotate: false
-  xy: 520, 114
+  xy: 538, 114
   size: 24, 12
   orig: 24, 12
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3176_6_0.png
   rotate: false
-  xy: 492, 114
+  xy: 482, 114
   size: 26, 12
   orig: 26, 12
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3176_7_0.png
   rotate: false
-  xy: 636, 90
+  xy: 442, 65
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3177_0_0.png
   rotate: false
-  xy: 268, 63
+  xy: 301, 66
   size: 13, 31
   orig: 13, 31
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3177_1_0.png
   rotate: false
-  xy: 821, 100
+  xy: 616, 86
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3177_2_0.png
   rotate: false
-  xy: 301, 69
+  xy: 483, 84
   size: 13, 28
   orig: 13, 28
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3177_3_0.png
   rotate: false
-  xy: 868, 105
+  xy: 766, 105
   size: 14, 21
   orig: 14, 21
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3177_4_0.png
   rotate: false
-  xy: 398, 68
+  xy: 736, 84
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 shirt_M_prison_h_drk_rs_3177_5_0.png
   rotate: false
-  xy: 730, 100
+  xy: 498, 86
   size: 14, 26
   orig: 14, 26
   offset: 0, 0
@@ -272,7 +272,7 @@ shirt_M_prison_h_drk_rs_3177_6_0.png
   index: -1
 shirt_M_prison_h_drk_rs_3177_7_0.png
   rotate: false
-  xy: 693, 93
+  xy: 279, 2
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
@@ -286,7 +286,7 @@ shirt_M_prison_h_lay_ch_3176_2_0.png
   index: -1
 shirt_M_prison_h_lay_ls_3176_2_0.png
   rotate: false
-  xy: 572, 115
+  xy: 590, 115
   size: 24, 11
   orig: 24, 11
   offset: 0, 0
@@ -340,205 +340,177 @@ shirt_M_prison_h_std_ch_3176_7_0.png
   orig: 23, 29
   offset: 0, 0
   index: -1
-shirt_M_prison_h_std_ch_3177_7_0.png
+shirt_M_prison_h_std_ch_3177_1_0.png
   rotate: false
-  xy: 292, 34
+  xy: 395, 111
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_ls_3176_0_0.png
   rotate: false
-  xy: 410, 20
+  xy: 817, 77
   size: 6, 23
   orig: 6, 23
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_ls_3176_1_0.png
   rotate: false
-  xy: 586, 91
+  xy: 845, 77
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_ls_3176_2_0.png
   rotate: false
-  xy: 410, 45
+  xy: 277, 41
   size: 7, 23
   orig: 7, 23
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_ls_3176_3_0.png
   rotate: false
-  xy: 980, 98
+  xy: 654, 84
   size: 9, 28
   orig: 9, 28
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_ls_3176_7_0.png
   rotate: false
-  xy: 315, 11
+  xy: 957, 99
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_ls_3177_0_0.png
   rotate: false
-  xy: 317, 2
+  xy: 326, 36
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
-shirt_M_prison_h_std_ls_3177_1_0.png
-  rotate: false
-  xy: 282, 30
-  size: 1, 2
-  orig: 1, 2
-  offset: 0, 0
-  index: -1
 shirt_M_prison_h_std_ls_3177_2_0.png
   rotate: false
-  xy: 390, 2
+  xy: 299, 44
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
-shirt_M_prison_h_std_ls_3177_3_0.png
-  rotate: false
-  xy: 619, 114
-  size: 18, 12
-  orig: 18, 12
-  offset: 0, 0
-  index: -1
 shirt_M_prison_h_std_ls_3177_4_0.png
   rotate: false
-  xy: 349, 114
+  xy: 367, 114
   size: 29, 12
   orig: 29, 12
   offset: 0, 0
   index: -1
-shirt_M_prison_h_std_ls_3177_7_0.png
-  rotate: false
-  xy: 501, 92
-  size: 9, 7
-  orig: 9, 7
-  offset: 0, 0
-  index: -1
 shirt_M_prison_h_std_rs_3176_0_0.png
   rotate: false
-  xy: 943, 97
+  xy: 389, 69
   size: 11, 29
   orig: 11, 29
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_rs_3176_1_0.png
   rotate: false
-  xy: 400, 8
+  xy: 286, 18
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_rs_3176_2_0.png
   rotate: false
-  xy: 285, 5
+  xy: 967, 99
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_rs_3176_3_0.png
   rotate: false
-  xy: 302, 40
+  xy: 665, 86
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_rs_3176_7_0.png
   rotate: false
-  xy: 313, 40
+  xy: 606, 86
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_rs_3177_1_0.png
   rotate: false
-  xy: 541, 102
+  xy: 453, 69
   size: 17, 10
   orig: 17, 10
   offset: 0, 0
   index: -1
 shirt_M_prison_h_std_rs_3177_2_0.png
   rotate: false
-  xy: 348, 100
+  xy: 366, 100
   size: 27, 12
   orig: 27, 12
   offset: 0, 0
   index: -1
-shirt_M_prison_h_std_rs_3177_3_0.png
-  rotate: false
-  xy: 598, 114
-  size: 19, 12
-  orig: 19, 12
-  offset: 0, 0
-  index: -1
 shirt_M_prison_h_std_rs_3177_4_0.png
   rotate: false
-  xy: 647, 90
+  xy: 341, 54
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wav_ls_3176_0_0.png
   rotate: false
-  xy: 778, 100
+  xy: 514, 86
   size: 13, 26
   orig: 13, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wav_ls_3176_0_1.png
   rotate: false
-  xy: 695, 100
+  xy: 334, 72
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wav_ls_3176_1_0.png
   rotate: false
-  xy: 323, 43
+  xy: 580, 86
   size: 10, 26
   orig: 10, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wav_ls_3176_1_1.png
   rotate: false
-  xy: 367, 17
+  xy: 825, 101
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wav_ls_3176_2_0.png
   rotate: false
-  xy: 713, 100
+  xy: 420, 83
   size: 15, 26
   orig: 15, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wav_ls_3176_2_1.png
   rotate: false
-  xy: 352, 73
+  xy: 370, 73
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wav_ls_3176_3_0.png
   rotate: false
-  xy: 746, 99
+  xy: 453, 81
   size: 14, 27
   orig: 14, 27
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wav_ls_3176_3_1.png
   rotate: false
-  xy: 316, 71
+  xy: 316, 70
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
@@ -552,14 +524,14 @@ shirt_M_prison_h_wav_ls_3176_4_0.png
   index: -1
 shirt_M_prison_h_wav_ls_3176_4_1.png
   rotate: false
-  xy: 267, 2
+  xy: 352, 72
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wav_ls_3176_5_0.png
   rotate: false
-  xy: 334, 71
+  xy: 268, 66
   size: 16, 27
   orig: 16, 27
   offset: 0, 0
@@ -573,7 +545,7 @@ shirt_M_prison_h_wav_ls_3176_5_1.png
   index: -1
 shirt_M_prison_h_wav_ls_3176_6_0.png
   rotate: false
-  xy: 274, 99
+  xy: 292, 99
   size: 19, 27
   orig: 19, 27
   offset: 0, 0
@@ -587,28 +559,21 @@ shirt_M_prison_h_wav_ls_3176_6_1.png
   index: -1
 shirt_M_prison_h_wav_ls_3176_7_0.png
   rotate: false
-  xy: 677, 100
+  xy: 402, 83
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wav_ls_3176_7_1.png
   rotate: false
-  xy: 295, 99
+  xy: 313, 99
   size: 18, 27
   orig: 18, 27
   offset: 0, 0
   index: -1
-shirt_M_prison_h_wav_ls_3177_0_0.png
-  rotate: false
-  xy: 410, 11
-  size: 9, 7
-  orig: 9, 7
-  offset: 0, 0
-  index: -1
 shirt_M_prison_h_wav_ls_3177_0_1.png
   rotate: false
-  xy: 305, 2
+  xy: 873, 81
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
@@ -685,93 +650,93 @@ shirt_M_prison_h_wav_ls_3177_5_1.png
   index: -1
 shirt_M_prison_h_wav_ls_3177_6_0.png
   rotate: false
-  xy: 267, 30
+  xy: 286, 62
   size: 13, 31
   orig: 13, 31
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wav_ls_3177_6_1.png
   rotate: false
-  xy: 283, 66
+  xy: 274, 95
   size: 16, 31
   orig: 16, 31
   offset: 0, 0
   index: -1
-shirt_M_prison_h_wav_ls_3177_7_0.png
+shirt_M_prison_h_wav_ls_3177_7_1.png
   rotate: false
-  xy: 410, 2
+  xy: 861, 81
   size: 10, 7
   orig: 10, 7
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_0_0.png
   rotate: false
-  xy: 391, 59
+  xy: 790, 78
   size: 5, 24
   orig: 5, 24
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_0_1.png
   rotate: false
-  xy: 569, 73
+  xy: 309, 44
   size: 5, 19
   orig: 5, 19
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_0_2.png
   rotate: false
-  xy: 419, 45
+  xy: 334, 47
   size: 5, 23
   orig: 5, 23
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_0_3.png
   rotate: false
-  xy: 381, 59
+  xy: 296, 16
   size: 8, 24
   orig: 8, 24
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_1_0.png
   rotate: false
-  xy: 596, 90
+  xy: 316, 22
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_1_1.png
   rotate: false
-  xy: 851, 105
+  xy: 676, 86
   size: 15, 21
   orig: 15, 21
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_1_2.png
   rotate: false
-  xy: 606, 90
+  xy: 316, 46
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_1_3.png
   rotate: false
-  xy: 576, 74
+  xy: 760, 87
   size: 4, 19
   orig: 4, 19
   offset: 0, 0
   index: -1
-shirt_M_prison_h_wlk_ls_3176_2_1.png
+shirt_M_prison_h_wlk_ls_3176_2_0.png
   rotate: false
-  xy: 335, 44
-  size: 10, 25
-  orig: 10, 25
-  offset: 0, 0
-  index: -1
-shirt_M_prison_h_wlk_ls_3176_2_2.png
-  rotate: false
-  xy: 429, 86
+  xy: 326, 45
   size: 6, 23
   orig: 6, 23
+  offset: 0, 0
+  index: -1
+shirt_M_prison_h_wlk_ls_3176_2_1.png
+  rotate: false
+  xy: 837, 101
+  size: 10, 25
+  orig: 10, 25
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_2_3.png
@@ -783,77 +748,84 @@ shirt_M_prison_h_wlk_ls_3176_2_3.png
   index: -1
 shirt_M_prison_h_wlk_ls_3176_3_0.png
   rotate: false
-  xy: 346, 16
+  xy: 872, 100
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_3_1.png
   rotate: false
-  xy: 379, 17
+  xy: 997, 101
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_3_2.png
   rotate: false
-  xy: 335, 16
+  xy: 883, 100
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_3_3.png
   rotate: false
-  xy: 358, 45
+  xy: 861, 100
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_7_0.png
   rotate: false
-  xy: 282, 34
+  xy: 947, 99
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_7_1.png
   rotate: false
-  xy: 325, 15
+  xy: 267, 36
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_7_2.png
   rotate: false
-  xy: 371, 71
+  xy: 937, 99
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3176_7_3.png
   rotate: false
-  xy: 292, 37
+  xy: 927, 99
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
-shirt_M_prison_h_wlk_ls_3177_0_0.png
+shirt_M_prison_h_wlk_ls_3177_0_2.png
   rotate: false
-  xy: 686, 91
+  xy: 395, 102
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
+shirt_M_prison_h_wlk_ls_3177_1_0.png
+  rotate: false
+  xy: 224, 15
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
 shirt_M_prison_h_wlk_ls_3177_2_0.png
   rotate: false
-  xy: 355, 2
+  xy: 270, 2
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3177_2_1.png
   rotate: false
-  xy: 345, 2
+  xy: 267, 22
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
@@ -865,170 +837,191 @@ shirt_M_prison_h_wlk_ls_3177_3_1.png
   orig: 17, 8
   offset: 0, 0
   index: -1
+shirt_M_prison_h_wlk_ls_3177_3_2.png
+  rotate: false
+  xy: 637, 114
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
 shirt_M_prison_h_wlk_ls_3177_3_3.png
   rotate: false
-  xy: 325, 2
+  xy: 657, 115
   size: 18, 11
   orig: 18, 11
   offset: 0, 0
   index: -1
+shirt_M_prison_h_wlk_ls_3177_7_0.png
+  rotate: false
+  xy: 351, 63
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
 shirt_M_prison_h_wlk_ls_3177_7_1.png
   rotate: false
-  xy: 512, 92
+  xy: 892, 90
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_ls_3177_7_3.png
   rotate: false
-  xy: 533, 93
+  xy: 885, 81
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_0_0.png
   rotate: false
-  xy: 381, 85
+  xy: 748, 82
   size: 10, 24
   orig: 10, 24
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_0_1.png
   rotate: false
-  xy: 930, 102
+  xy: 812, 102
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_0_2.png
   rotate: false
-  xy: 369, 44
+  xy: 849, 101
   size: 10, 25
   orig: 10, 25
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_0_3.png
   rotate: false
-  xy: 915, 103
+  xy: 797, 103
   size: 13, 23
   orig: 13, 23
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_1_0.png
   rotate: false
-  xy: 626, 90
+  xy: 825, 77
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_1_1.png
   rotate: false
-  xy: 900, 104
+  xy: 782, 104
   size: 13, 22
   orig: 13, 22
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_1_2.png
   rotate: false
-  xy: 616, 90
+  xy: 835, 77
   size: 8, 22
   orig: 8, 22
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_1_3.png
   rotate: false
-  xy: 835, 103
+  xy: 548, 89
   size: 14, 23
   orig: 14, 23
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_2_0.png
   rotate: false
-  xy: 968, 98
+  xy: 642, 84
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_2_1.png
   rotate: false
-  xy: 807, 100
+  xy: 592, 87
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_2_2.png
   rotate: false
-  xy: 956, 98
+  xy: 630, 84
   size: 10, 28
   orig: 10, 28
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_2_3.png
   rotate: false
-  xy: 793, 99
+  xy: 469, 81
   size: 12, 27
   orig: 12, 27
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_3_0.png
   rotate: false
-  xy: 1013, 99
+  xy: 916, 99
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_3_1.png
   rotate: false
-  xy: 347, 44
+  xy: 779, 77
   size: 9, 25
   orig: 9, 25
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_3_2.png
   rotate: false
-  xy: 1002, 99
+  xy: 894, 99
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_3_3.png
   rotate: false
-  xy: 991, 99
+  xy: 905, 99
   size: 9, 27
   orig: 9, 27
   offset: 0, 0
   index: -1
-shirt_M_prison_h_wlk_rs_3176_7_1.png
+shirt_M_prison_h_wlk_rs_3176_7_0.png
   rotate: false
-  xy: 305, 11
+  xy: 977, 99
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
-shirt_M_prison_h_wlk_rs_3176_7_2.png
+shirt_M_prison_h_wlk_rs_3176_7_1.png
   rotate: false
-  xy: 295, 8
+  xy: 987, 99
   size: 8, 27
   orig: 8, 27
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3176_7_3.png
   rotate: false
-  xy: 357, 16
+  xy: 306, 16
   size: 8, 26
   orig: 8, 26
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3177_0_1.png
   rotate: false
-  xy: 467, 84
+  xy: 1008, 105
   size: 14, 8
   orig: 14, 8
   offset: 0, 0
   index: -1
+shirt_M_prison_h_wlk_rs_3177_0_2.png
+  rotate: false
+  xy: 351, 54
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
 shirt_M_prison_h_wlk_rs_3177_0_3.png
   rotate: false
-  xy: 398, 58
+  xy: 880, 90
   size: 10, 8
   orig: 10, 8
   offset: 0, 0
@@ -1042,70 +1035,77 @@ shirt_M_prison_h_wlk_rs_3177_1_1.png
   index: -1
 shirt_M_prison_h_wlk_rs_3177_1_2.png
   rotate: false
-  xy: 521, 102
+  xy: 422, 71
   size: 18, 10
   orig: 18, 10
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3177_1_3.png
   rotate: false
-  xy: 381, 46
+  xy: 1008, 115
   size: 14, 11
   orig: 14, 11
   offset: 0, 0
   index: -1
-shirt_M_prison_h_wlk_rs_3177_2_1.png
+shirt_M_prison_h_wlk_rs_3177_2_0.png
   rotate: false
-  xy: 315, 114
-  size: 32, 12
-  orig: 32, 12
-  offset: 0, 0
-  index: -1
-shirt_M_prison_h_wlk_rs_3177_2_2.png
-  rotate: false
-  xy: 315, 100
+  xy: 333, 100
   size: 31, 12
   orig: 31, 12
   offset: 0, 0
   index: -1
+shirt_M_prison_h_wlk_rs_3177_2_1.png
+  rotate: false
+  xy: 333, 114
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
 shirt_M_prison_h_wlk_rs_3177_2_3.png
   rotate: false
-  xy: 464, 114
+  xy: 510, 114
   size: 26, 12
   orig: 26, 12
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3177_3_1.png
   rotate: false
-  xy: 501, 101
+  xy: 402, 70
   size: 18, 11
   orig: 18, 11
   offset: 0, 0
   index: -1
+shirt_M_prison_h_wlk_rs_3177_3_2.png
+  rotate: false
+  xy: 616, 114
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
 shirt_M_prison_h_wlk_rs_3177_3_3.png
   rotate: false
-  xy: 657, 94
+  xy: 861, 90
   size: 17, 8
   orig: 17, 8
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3177_7_0.png
   rotate: false
-  xy: 522, 93
+  xy: 279, 9
   size: 9, 7
   orig: 9, 7
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3177_7_1.png
   rotate: false
-  xy: 543, 93
+  xy: 902, 90
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_M_prison_h_wlk_rs_3177_7_3.png
   rotate: false
-  xy: 676, 91
+  xy: 895, 81
   size: 8, 7
   orig: 8, 7
   offset: 0, 0

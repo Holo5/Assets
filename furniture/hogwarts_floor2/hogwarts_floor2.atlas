@@ -1,0 +1,41 @@
+
+hogwarts_floor2.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hogwarts_floor2_hogwarts_floor2_64_a_0_0.png
+  rotate: false
+  xy: 398, 19
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+hogwarts_floor2_hogwarts_floor2_64_a_0_1.png
+  rotate: false
+  xy: 266, 19
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+hogwarts_floor2_hogwarts_floor2_64_a_0_2.png
+  rotate: false
+  xy: 134, 19
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+hogwarts_floor2_hogwarts_floor2_64_a_0_3.png
+  rotate: false
+  xy: 2, 19
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+hogwarts_floor2_hogwarts_floor2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1

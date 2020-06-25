@@ -4,39 +4,39 @@ size: 1024,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-shirt_U_skele_h_crr_ls_2392_1_0.png
+shirt_U_skele_h_crr_ls_2392_0_0.png
   rotate: false
-  xy: 354, 42
-  size: 23, 20
-  orig: 23, 20
+  xy: 696, 44
+  size: 20, 18
+  orig: 20, 18
   offset: 0, 0
   index: -1
 shirt_U_skele_h_crr_ls_2392_2_0.png
   rotate: false
-  xy: 53, 2
+  xy: 25, 2
   size: 19, 25
   orig: 19, 25
   offset: 0, 0
   index: -1
 shirt_U_skele_h_crr_ls_2392_3_0.png
   rotate: false
-  xy: 646, 3
+  xy: 561, 2
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 shirt_U_skele_h_crr_ls_2392_7_0.png
   rotate: false
-  xy: 668, 11
+  xy: 46, 7
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
-shirt_U_skele_h_crr_rs_2392_0_0.png
+shirt_U_skele_h_crr_rs_2392_1_0.png
   rotate: false
-  xy: 720, 44
-  size: 20, 18
-  orig: 20, 18
+  xy: 348, 42
+  size: 23, 20
+  orig: 23, 20
   offset: 0, 0
   index: -1
 shirt_U_skele_h_crr_rs_2392_2_0.png
@@ -48,308 +48,308 @@ shirt_U_skele_h_crr_rs_2392_2_0.png
   index: -1
 shirt_U_skele_h_crr_rs_2392_3_0.png
   rotate: false
-  xy: 632, 3
+  xy: 590, 3
   size: 12, 26
   orig: 12, 26
   offset: 0, 0
   index: -1
 shirt_U_skele_h_crr_rs_2392_4_0.png
   rotate: false
-  xy: 379, 37
+  xy: 398, 37
   size: 19, 25
   orig: 19, 25
   offset: 0, 0
   index: -1
 shirt_U_skele_h_crr_rs_2392_5_0.png
   rotate: false
-  xy: 329, 42
+  xy: 373, 42
   size: 23, 20
   orig: 23, 20
   offset: 0, 0
   index: -1
 shirt_U_skele_h_crr_rs_2392_6_0.png
   rotate: false
-  xy: 698, 44
+  xy: 718, 44
   size: 20, 18
   orig: 20, 18
   offset: 0, 0
   index: -1
 shirt_U_skele_h_crr_rs_2392_7_0.png
   rotate: false
-  xy: 660, 10
+  xy: 604, 9
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 shirt_U_skele_h_drk_rs_2392_0_0.png
   rotate: false
-  xy: 681, 37
+  xy: 657, 37
   size: 15, 25
   orig: 15, 25
   offset: 0, 0
   index: -1
 shirt_U_skele_h_drk_rs_2392_1_0.png
   rotate: false
-  xy: 273, 42
+  xy: 292, 42
   size: 26, 20
   orig: 26, 20
   offset: 0, 0
   index: -1
 shirt_U_skele_h_drk_rs_2392_2_0.png
   rotate: false
-  xy: 244, 42
+  xy: 263, 42
   size: 27, 20
   orig: 27, 20
   offset: 0, 0
   index: -1
 shirt_U_skele_h_drk_rs_2392_3_0.png
   rotate: false
-  xy: 742, 44
+  xy: 674, 44
   size: 20, 18
   orig: 20, 18
   offset: 0, 0
   index: -1
 shirt_U_skele_h_drk_rs_2392_4_0.png
   rotate: false
-  xy: 74, 5
+  xy: 760, 41
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
 shirt_U_skele_h_drk_rs_2392_5_0.png
   rotate: false
-  xy: 301, 42
+  xy: 320, 42
   size: 26, 20
   orig: 26, 20
   offset: 0, 0
   index: -1
 shirt_U_skele_h_drk_rs_2392_6_0.png
   rotate: false
-  xy: 152, 41
+  xy: 171, 41
   size: 29, 21
   orig: 29, 21
   offset: 0, 0
   index: -1
 shirt_U_skele_h_drk_rs_2392_7_0.png
   rotate: false
-  xy: 172, 26
+  xy: 54, 13
   size: 8, 13
   orig: 8, 13
   offset: 0, 0
   index: -1
 shirt_U_skele_h_lay_ch_2392_2_0.png
   rotate: false
-  xy: 821, 49
+  xy: 816, 49
   size: 20, 13
   orig: 20, 13
   offset: 0, 0
   index: -1
 shirt_U_skele_h_lay_ch_2393_2_0.png
   rotate: false
-  xy: 152, 30
+  xy: 171, 30
   size: 18, 9
   orig: 18, 9
   offset: 0, 0
   index: -1
 shirt_U_skele_h_lay_ls_2392_2_0.png
   rotate: false
-  xy: 183, 42
+  xy: 202, 42
   size: 29, 20
   orig: 29, 20
   offset: 0, 0
   index: -1
 shirt_U_skele_h_lay_rs_2392_2_0.png
   rotate: false
-  xy: 214, 42
+  xy: 233, 42
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ch_2392_0_0.png
   rotate: false
-  xy: 676, 16
+  xy: 612, 14
   size: 4, 14
   orig: 4, 14
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ch_2392_1_0.png
   rotate: false
-  xy: 1013, 47
+  xy: 618, 12
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ch_2392_2_0.png
   rotate: false
-  xy: 764, 43
+  xy: 740, 43
   size: 18, 19
   orig: 18, 19
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ch_2392_3_0.png
   rotate: false
-  xy: 802, 45
+  xy: 797, 45
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ch_2393_0_0.png
   rotate: false
-  xy: 25, 15
+  xy: 73, 13
   size: 2, 13
   orig: 2, 13
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ch_2393_1_0.png
   rotate: false
-  xy: 754, 30
+  xy: 64, 14
   size: 7, 12
   orig: 7, 12
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ch_2393_2_0.png
   rotate: false
-  xy: 784, 43
+  xy: 779, 43
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ch_2393_3_0.png
   rotate: false
-  xy: 93, 9
+  xy: 838, 47
   size: 17, 15
   orig: 17, 15
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ls_2392_0_0.png
   rotate: false
-  xy: 932, 32
+  xy: 983, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ls_2392_2_0.png
   rotate: false
-  xy: 855, 31
+  xy: 972, 31
   size: 9, 31
   orig: 9, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ls_2392_3_0.png
   rotate: false
-  xy: 989, 29
+  xy: 657, 2
   size: 6, 33
   orig: 6, 33
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_ls_2392_7_0.png
   rotate: false
-  xy: 706, 10
+  xy: 681, 10
   size: 6, 32
   orig: 6, 32
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_rs_2392_0_0.png
   rotate: false
-  xy: 910, 31
+  xy: 928, 31
   size: 9, 31
   orig: 9, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_rs_2392_1_0.png
   rotate: false
-  xy: 921, 31
+  xy: 939, 31
   size: 9, 31
   orig: 9, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_rs_2392_2_0.png
   rotate: false
-  xy: 877, 30
+  xy: 917, 30
   size: 9, 32
   orig: 9, 32
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_rs_2392_3_0.png
   rotate: false
-  xy: 997, 29
+  xy: 1016, 29
   size: 6, 33
   orig: 6, 33
   offset: 0, 0
   index: -1
 shirt_U_skele_h_std_rs_2392_7_0.png
   rotate: false
-  xy: 981, 30
+  xy: 705, 10
   size: 6, 32
   orig: 6, 32
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wav_ls_2392_0_0.png
   rotate: false
-  xy: 561, 31
+  xy: 575, 31
   size: 13, 31
   orig: 13, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wav_ls_2392_0_1.png
   rotate: false
-  xy: 442, 31
+  xy: 461, 31
   size: 17, 31
   orig: 17, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wav_ls_2392_1_0.png
   rotate: false
-  xy: 576, 30
+  xy: 561, 30
   size: 12, 32
   orig: 12, 32
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wav_ls_2392_1_1.png
   rotate: false
-  xy: 604, 29
+  xy: 618, 29
   size: 11, 33
   orig: 11, 33
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wav_ls_2392_2_0.png
   rotate: false
-  xy: 497, 28
+  xy: 515, 28
   size: 14, 34
   orig: 14, 34
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wav_ls_2392_2_1.png
   rotate: false
-  xy: 76, 28
+  xy: 133, 28
   size: 17, 34
   orig: 17, 34
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wav_ls_2392_3_0.png
   rotate: false
-  xy: 528, 28
+  xy: 531, 28
   size: 13, 34
   orig: 13, 34
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wav_ls_2392_3_1.png
   rotate: false
-  xy: 133, 28
+  xy: 76, 28
   size: 17, 34
   orig: 17, 34
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wav_ls_2392_4_0.png
   rotate: false
-  xy: 53, 29
+  xy: 30, 29
   size: 21, 33
   orig: 21, 33
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wav_ls_2392_4_1.png
   rotate: false
-  xy: 461, 29
+  xy: 152, 29
   size: 17, 33
   orig: 17, 33
   offset: 0, 0
@@ -363,14 +363,14 @@ shirt_U_skele_h_wav_ls_2392_5_0.png
   index: -1
 shirt_U_skele_h_wav_ls_2392_5_1.png
   rotate: false
-  xy: 480, 28
+  xy: 498, 28
   size: 15, 34
   orig: 15, 34
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wav_ls_2392_6_0.png
   rotate: false
-  xy: 30, 28
+  xy: 53, 28
   size: 21, 34
   orig: 21, 34
   offset: 0, 0
@@ -384,7 +384,7 @@ shirt_U_skele_h_wav_ls_2392_6_1.png
   index: -1
 shirt_U_skele_h_wav_ls_2392_7_0.png
   rotate: false
-  xy: 513, 26
+  xy: 546, 26
   size: 13, 36
   orig: 13, 36
   offset: 0, 0
@@ -398,44 +398,44 @@ shirt_U_skele_h_wav_ls_2392_7_1.png
   index: -1
 shirt_U_skele_h_wlk_ls_2392_0_2.png
   rotate: false
-  xy: 943, 32
+  xy: 994, 32
   size: 9, 30
   orig: 9, 30
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_ls_2392_0_3.png
   rotate: false
-  xy: 543, 2
+  xy: 857, 34
   size: 11, 28
   orig: 11, 28
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_ls_2392_1_1.png
   rotate: false
-  xy: 421, 35
+  xy: 440, 35
   size: 19, 27
   orig: 19, 27
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_ls_2392_1_2.png
   rotate: false
-  xy: 843, 31
+  xy: 894, 31
   size: 10, 31
   orig: 10, 31
   offset: 0, 0
   index: -1
-shirt_U_skele_h_wlk_ls_2392_2_0.png
-  rotate: false
-  xy: 899, 31
-  size: 9, 31
-  orig: 9, 31
-  offset: 0, 0
-  index: -1
 shirt_U_skele_h_wlk_ls_2392_2_1.png
   rotate: false
-  xy: 590, 30
+  xy: 604, 30
   size: 12, 32
   orig: 12, 32
+  offset: 0, 0
+  index: -1
+shirt_U_skele_h_wlk_ls_2392_2_2.png
+  rotate: false
+  xy: 961, 31
+  size: 9, 31
+  orig: 9, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_ls_2392_2_3.png
@@ -447,154 +447,154 @@ shirt_U_skele_h_wlk_ls_2392_2_3.png
   index: -1
 shirt_U_skele_h_wlk_ls_2392_3_0.png
   rotate: false
-  xy: 690, 3
+  xy: 689, 10
   size: 6, 32
   orig: 6, 32
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_ls_2392_3_1.png
   rotate: false
-  xy: 698, 10
+  xy: 697, 10
   size: 6, 32
   orig: 6, 32
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_ls_2392_3_3.png
   rotate: false
-  xy: 722, 11
-  size: 6, 31
-  orig: 6, 31
-  offset: 0, 0
-  index: -1
-shirt_U_skele_h_wlk_ls_2392_7_0.png
-  rotate: false
-  xy: 965, 31
+  xy: 769, 8
   size: 6, 31
   orig: 6, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_ls_2392_7_1.png
   rotate: false
-  xy: 1013, 16
+  xy: 761, 10
   size: 6, 29
   orig: 6, 29
   offset: 0, 0
   index: -1
+shirt_U_skele_h_wlk_ls_2392_7_2.png
+  rotate: false
+  xy: 737, 10
+  size: 6, 31
+  orig: 6, 31
+  offset: 0, 0
+  index: -1
 shirt_U_skele_h_wlk_ls_2392_7_3.png
   rotate: false
-  xy: 973, 31
+  xy: 745, 10
   size: 6, 31
   orig: 6, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_rs_2392_0_0.png
   rotate: false
-  xy: 888, 31
+  xy: 950, 31
   size: 9, 31
   orig: 9, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_rs_2392_0_1.png
   rotate: false
-  xy: 954, 33
+  xy: 1005, 33
   size: 9, 29
   orig: 9, 29
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_rs_2392_0_2.png
   rotate: false
-  xy: 644, 31
+  xy: 882, 31
   size: 10, 31
   orig: 10, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_rs_2392_0_3.png
   rotate: false
-  xy: 617, 2
+  xy: 575, 2
   size: 13, 27
   orig: 13, 27
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_rs_2392_1_1.png
   rotate: false
-  xy: 668, 32
+  xy: 644, 32
   size: 11, 30
   orig: 11, 30
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_rs_2392_1_2.png
   rotate: false
-  xy: 656, 31
+  xy: 870, 31
   size: 10, 31
   orig: 10, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_rs_2392_1_3.png
   rotate: false
-  xy: 400, 35
+  xy: 419, 35
   size: 19, 27
   orig: 19, 27
   offset: 0, 0
   index: -1
-shirt_U_skele_h_wlk_rs_2392_2_1.png
+shirt_U_skele_h_wlk_rs_2392_2_0.png
   rotate: false
-  xy: 617, 31
-  size: 12, 31
-  orig: 12, 31
-  offset: 0, 0
-  index: -1
-shirt_U_skele_h_wlk_rs_2392_2_2.png
-  rotate: false
-  xy: 866, 30
+  xy: 906, 30
   size: 9, 32
   orig: 9, 32
   offset: 0, 0
   index: -1
+shirt_U_skele_h_wlk_rs_2392_2_1.png
+  rotate: false
+  xy: 590, 31
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1
 shirt_U_skele_h_wlk_rs_2392_2_3.png
   rotate: false
-  xy: 543, 32
+  xy: 480, 32
   size: 16, 30
   orig: 16, 30
   offset: 0, 0
   index: -1
-shirt_U_skele_h_wlk_rs_2392_3_1.png
+shirt_U_skele_h_wlk_rs_2392_3_0.png
   rotate: false
-  xy: 714, 11
-  size: 6, 31
-  orig: 6, 31
-  offset: 0, 0
-  index: -1
-shirt_U_skele_h_wlk_rs_2392_3_2.png
-  rotate: false
-  xy: 682, 3
+  xy: 673, 3
   size: 6, 32
   orig: 6, 32
+  offset: 0, 0
+  index: -1
+shirt_U_skele_h_wlk_rs_2392_3_1.png
+  rotate: false
+  xy: 713, 11
+  size: 6, 31
+  orig: 6, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_rs_2392_3_3.png
   rotate: false
-  xy: 1005, 30
+  xy: 665, 3
   size: 6, 32
   orig: 6, 32
   offset: 0, 0
   index: -1
-shirt_U_skele_h_wlk_rs_2392_7_1.png
+shirt_U_skele_h_wlk_rs_2392_7_0.png
   rotate: false
-  xy: 738, 11
+  xy: 721, 11
   size: 6, 31
   orig: 6, 31
   offset: 0, 0
   index: -1
-shirt_U_skele_h_wlk_rs_2392_7_2.png
+shirt_U_skele_h_wlk_rs_2392_7_1.png
   rotate: false
-  xy: 730, 11
+  xy: 729, 11
   size: 6, 31
   orig: 6, 31
   offset: 0, 0
   index: -1
 shirt_U_skele_h_wlk_rs_2392_7_3.png
   rotate: false
-  xy: 746, 13
+  xy: 753, 10
   size: 6, 29
   orig: 6, 29
   offset: 0, 0

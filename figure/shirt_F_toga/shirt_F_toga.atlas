@@ -4,198 +4,198 @@ size: 2048,64
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+shirt_F_toga_h_crr_ls_2982_1_0.png
+  rotate: false
+  xy: 1471, 44
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_crr_ls_2982_2_0.png
   rotate: false
-  xy: 1789, 50
+  xy: 1097, 28
   size: 3, 12
   orig: 3, 12
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_ls_2982_3_0.png
   rotate: false
-  xy: 1725, 45
+  xy: 1752, 45
   size: 7, 17
   orig: 7, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_ls_2982_4_0.png
   rotate: false
-  xy: 1307, 40
+  xy: 1294, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_ls_2982_6_0.png
   rotate: false
-  xy: 899, 10
+  xy: 1271, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_ls_2982_7_0.png
   rotate: false
-  xy: 1734, 45
+  xy: 1761, 45
   size: 7, 17
   orig: 7, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_ls_2993_0_0.png
   rotate: false
-  xy: 1199, 24
+  xy: 1821, 45
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_ls_2993_2_0.png
   rotate: false
-  xy: 1159, 23
+  xy: 1827, 42
   size: 4, 20
   orig: 4, 20
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_ls_2993_3_0.png
   rotate: false
-  xy: 922, 16
+  xy: 1838, 45
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_ls_2993_7_0.png
   rotate: false
-  xy: 1775, 48
+  xy: 973, 2
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
-shirt_F_toga_h_crr_ls_2994_1_0.png
-  rotate: false
-  xy: 1206, 43
-  size: 10, 19
-  orig: 10, 19
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_crr_ls_2994_2_0.png
   rotate: false
-  xy: 94, 27
+  xy: 226, 9
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_ls_2994_3_0.png
   rotate: false
-  xy: 770, 2
+  xy: 538, 5
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_ls_2994_4_0.png
   rotate: false
-  xy: 203, 8
+  xy: 916, 2
   size: 6, 7
   orig: 6, 7
   offset: 0, 0
   index: -1
+shirt_F_toga_h_crr_ls_2994_5_0.png
+  rotate: false
+  xy: 1235, 43
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_crr_ls_2994_6_0.png
   rotate: false
-  xy: 218, 7
+  xy: 209, 7
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_rs_2982_0_0.png
   rotate: false
-  xy: 887, 10
+  xy: 1259, 40
   size: 10, 22
   orig: 10, 22
   offset: 0, 0
   index: -1
-shirt_F_toga_h_crr_rs_2982_1_0.png
-  rotate: false
-  xy: 1409, 44
-  size: 9, 18
-  orig: 9, 18
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_crr_rs_2982_2_0.png
   rotate: false
-  xy: 1252, 41
+  xy: 1338, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_rs_2982_3_0.png
   rotate: false
-  xy: 1397, 44
+  xy: 1211, 44
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_rs_2982_4_0.png
   rotate: false
-  xy: 1743, 43
+  xy: 1647, 43
   size: 6, 19
   orig: 6, 19
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_rs_2982_5_0.png
   rotate: false
-  xy: 1594, 44
+  xy: 1460, 44
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_rs_2982_6_0.png
   rotate: false
-  xy: 916, 16
+  xy: 1815, 45
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_rs_2982_7_0.png
   rotate: false
-  xy: 1142, 20
+  xy: 1630, 42
   size: 7, 20
   orig: 7, 20
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_rs_2994_0_0.png
   rotate: false
-  xy: 224, 7
+  xy: 215, 7
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
+shirt_F_toga_h_crr_rs_2994_1_0.png
+  rotate: false
+  xy: 1223, 43
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_crr_rs_2994_2_0.png
   rotate: false
-  xy: 1151, 19
+  xy: 1639, 38
   size: 6, 24
   orig: 6, 24
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_rs_2994_3_0.png
   rotate: false
-  xy: 761, 2
+  xy: 1854, 56
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
 shirt_F_toga_h_crr_rs_2994_4_0.png
   rotate: false
-  xy: 211, 8
+  xy: 775, 8
   size: 5, 7
   orig: 5, 7
   offset: 0, 0
   index: -1
-shirt_F_toga_h_crr_rs_2994_5_0.png
-  rotate: false
-  xy: 1194, 43
-  size: 10, 19
-  orig: 10, 19
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_drk_rs_2982_0_0.png
   rotate: false
-  xy: 489, 4
+  xy: 564, 2
   size: 18, 11
   orig: 18, 11
   offset: 0, 0
@@ -216,7 +216,7 @@ shirt_F_toga_h_drk_rs_2982_2_0.png
   index: -1
 shirt_F_toga_h_drk_rs_2982_3_0.png
   rotate: false
-  xy: 1128, 21
+  xy: 913, 14
   size: 12, 19
   orig: 12, 19
   offset: 0, 0
@@ -230,77 +230,84 @@ shirt_F_toga_h_drk_rs_2982_4_0.png
   index: -1
 shirt_F_toga_h_drk_rs_2982_5_0.png
   rotate: false
-  xy: 739, 7
+  xy: 887, 2
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 shirt_F_toga_h_drk_rs_2982_6_0.png
   rotate: false
-  xy: 661, 2
+  xy: 739, 5
   size: 16, 10
   orig: 16, 10
   offset: 0, 0
   index: -1
 shirt_F_toga_h_drk_rs_2982_7_0.png
   rotate: false
-  xy: 509, 2
+  xy: 584, 2
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
+shirt_F_toga_h_drk_rs_2993_6_0.png
+  rotate: false
+  xy: 23, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_drk_rs_2994_0_0.png
   rotate: false
-  xy: 916, 10
+  xy: 108, 34
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 shirt_F_toga_h_drk_rs_2994_1_0.png
   rotate: false
-  xy: 874, 2
+  xy: 53, 34
   size: 21, 6
   orig: 21, 6
   offset: 0, 0
   index: -1
 shirt_F_toga_h_drk_rs_2994_2_0.png
   rotate: false
-  xy: 679, 7
+  xy: 874, 2
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 shirt_F_toga_h_drk_rs_2994_3_0.png
   rotate: false
-  xy: 1165, 23
+  xy: 1621, 43
   size: 7, 19
   orig: 7, 19
   offset: 0, 0
   index: -1
 shirt_F_toga_h_drk_rs_2994_4_0.png
   rotate: false
-  xy: 51, 27
+  xy: 84, 27
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_drk_rs_2994_5_0.png
   rotate: false
-  xy: 1794, 55
+  xy: 757, 8
   size: 7, 7
   orig: 7, 7
   offset: 0, 0
   index: -1
 shirt_F_toga_h_drk_rs_2994_6_0.png
   rotate: false
-  xy: 230, 7
+  xy: 203, 7
   size: 4, 8
   orig: 4, 8
   offset: 0, 0
   index: -1
 shirt_F_toga_h_drk_rs_2994_7_0.png
   rotate: false
-  xy: 88, 27
+  xy: 232, 9
   size: 4, 6
   orig: 4, 6
   offset: 0, 0
@@ -328,14 +335,14 @@ shirt_F_toga_h_lay_ch_2994_2_0.png
   index: -1
 shirt_F_toga_h_lay_ls_2982_2_0.png
   rotate: false
-  xy: 533, 5
+  xy: 608, 5
   size: 18, 8
   orig: 18, 8
   offset: 0, 0
   index: -1
 shirt_F_toga_h_lay_ls_2994_2_0.png
   rotate: false
-  xy: 580, 2
+  xy: 127, 34
   size: 4, 4
   orig: 4, 4
   offset: 0, 0
@@ -349,7 +356,7 @@ shirt_F_toga_h_lay_rs_2982_2_0.png
   index: -1
 shirt_F_toga_h_lay_rs_2994_2_0.png
   rotate: false
-  xy: 73, 32
+  xy: 909, 2
   size: 5, 8
   orig: 5, 8
   offset: 0, 0
@@ -370,7 +377,7 @@ shirt_F_toga_h_sit_ch_2982_2_0.png
   index: -1
 shirt_F_toga_h_sit_ch_2993_2_0.png
   rotate: false
-  xy: 938, 27
+  xy: 1077, 27
   size: 18, 35
   orig: 18, 35
   offset: 0, 0
@@ -391,21 +398,21 @@ shirt_F_toga_h_sit_ch_2994_2_0.png
   index: -1
 shirt_F_toga_h_sit_ls_2982_0_0.png
   rotate: false
-  xy: 1205, 24
+  xy: 1809, 45
   size: 4, 17
   orig: 4, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_sit_ls_2982_2_0.png
   rotate: false
-  xy: 1211, 26
+  xy: 1844, 47
   size: 3, 15
   orig: 3, 15
   offset: 0, 0
   index: -1
 shirt_F_toga_h_sit_ls_2994_2_0.png
   rotate: false
-  xy: 779, 5
+  xy: 884, 6
   size: 1, 3
   orig: 1, 3
   offset: 0, 0
@@ -419,37 +426,23 @@ shirt_F_toga_h_sit_rs_2982_0_0.png
   index: -1
 shirt_F_toga_h_sit_rs_2982_2_0.png
   rotate: false
-  xy: 1341, 42
+  xy: 1371, 42
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
-shirt_F_toga_h_sit_rs_2993_2_0.png
-  rotate: false
-  xy: 779, 2
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_sit_rs_2994_0_0.png
   rotate: false
-  xy: 1330, 42
+  xy: 1360, 42
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 shirt_F_toga_h_sit_rs_2994_2_0.png
   rotate: false
-  xy: 571, 2
+  xy: 118, 34
   size: 7, 4
   orig: 7, 4
-  offset: 0, 0
-  index: -1
-shirt_F_toga_h_std_ch_2982_0_0.png
-  rotate: false
-  xy: 404, 22
-  size: 27, 40
-  orig: 27, 40
   offset: 0, 0
   index: -1
 shirt_F_toga_h_std_ch_2982_1_0.png
@@ -461,7 +454,7 @@ shirt_F_toga_h_std_ch_2982_1_0.png
   index: -1
 shirt_F_toga_h_std_ch_2982_2_0.png
   rotate: false
-  xy: 978, 20
+  xy: 958, 20
   size: 16, 42
   orig: 16, 42
   offset: 0, 0
@@ -473,88 +466,67 @@ shirt_F_toga_h_std_ch_2982_3_0.png
   orig: 23, 47
   offset: 0, 0
   index: -1
+shirt_F_toga_h_std_ch_2982_7_0.png
+  rotate: false
+  xy: 664, 17
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_std_ch_2993_3_0.png
   rotate: false
-  xy: 996, 18
+  xy: 976, 18
   size: 15, 44
   orig: 15, 44
   offset: 0, 0
   index: -1
-shirt_F_toga_h_std_ch_2994_1_0.png
+shirt_F_toga_h_std_ch_2994_3_0.png
   rotate: false
-  xy: 761, 17
-  size: 19, 45
-  orig: 19, 45
+  xy: 489, 14
+  size: 23, 48
+  orig: 23, 48
   offset: 0, 0
   index: -1
-shirt_F_toga_h_std_ch_2994_2_0.png
+shirt_F_toga_h_std_ch_2994_7_0.png
   rotate: false
-  xy: 323, 17
-  size: 25, 45
-  orig: 25, 45
+  xy: 913, 35
+  size: 23, 27
+  orig: 23, 27
   offset: 0, 0
   index: -1
 shirt_F_toga_h_std_ls_2982_1_0.png
   rotate: false
-  xy: 1682, 47
+  xy: 1709, 47
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 shirt_F_toga_h_std_ls_2982_2_0.png
   rotate: false
-  xy: 558, 2
+  xy: 633, 2
   size: 3, 11
   orig: 3, 11
   offset: 0, 0
   index: -1
 shirt_F_toga_h_std_ls_2982_3_0.png
   rotate: false
-  xy: 1518, 45
+  xy: 1556, 45
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_std_ls_2982_7_0.png
   rotate: false
-  xy: 1616, 45
+  xy: 1589, 45
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_std_ls_2993_3_0.png
   rotate: false
-  xy: 236, 7
+  xy: 221, 7
   size: 3, 8
   orig: 3, 8
-  offset: 0, 0
-  index: -1
-shirt_F_toga_h_std_ls_2994_1_0.png
-  rotate: false
-  xy: 1386, 43
-  size: 9, 19
-  orig: 9, 19
-  offset: 0, 0
-  index: -1
-shirt_F_toga_h_std_ls_2994_2_0.png
-  rotate: false
-  xy: 203, 2
-  size: 2, 4
-  orig: 2, 4
-  offset: 0, 0
-  index: -1
-shirt_F_toga_h_std_ls_2994_3_0.png
-  rotate: false
-  xy: 1870, 57
-  size: 6, 5
-  orig: 6, 5
-  offset: 0, 0
-  index: -1
-shirt_F_toga_h_std_ls_2994_7_0.png
-  rotate: false
-  xy: 581, 8
-  size: 6, 5
-  orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_std_rs_2982_0_0.png
@@ -566,30 +538,44 @@ shirt_F_toga_h_std_rs_2982_0_0.png
   index: -1
 shirt_F_toga_h_std_rs_2982_1_0.png
   rotate: false
-  xy: 1704, 47
+  xy: 728, 2
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 shirt_F_toga_h_std_rs_2982_2_0.png
   rotate: false
-  xy: 1660, 46
+  xy: 951, 2
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
+shirt_F_toga_h_std_rs_2982_3_0.png
+  rotate: false
+  xy: 1534, 45
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_std_rs_2982_7_0.png
   rotate: false
-  xy: 1715, 45
+  xy: 1655, 45
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_std_rs_2994_0_0.png
   rotate: false
-  xy: 1218, 41
+  xy: 1247, 41
   size: 10, 21
   orig: 10, 21
+  offset: 0, 0
+  index: -1
+shirt_F_toga_h_std_rs_2994_1_0.png
+  rotate: false
+  xy: 1416, 43
+  size: 9, 19
+  orig: 9, 19
   offset: 0, 0
   index: -1
 shirt_F_toga_h_std_rs_2994_2_0.png
@@ -601,14 +587,14 @@ shirt_F_toga_h_std_rs_2994_2_0.png
   index: -1
 shirt_F_toga_h_std_rs_2994_7_0.png
   rotate: false
-  xy: 1843, 57
+  xy: 766, 2
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2982_0_0.png
   rotate: false
-  xy: 1434, 46
+  xy: 938, 2
   size: 11, 16
   orig: 11, 16
   offset: 0, 0
@@ -622,14 +608,14 @@ shirt_F_toga_h_wav_ls_2982_0_1.png
   index: -1
 shirt_F_toga_h_wav_ls_2982_1_0.png
   rotate: false
-  xy: 1460, 47
+  xy: 1509, 47
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2982_1_1.png
   rotate: false
-  xy: 1447, 47
+  xy: 1496, 47
   size: 11, 15
   orig: 11, 15
   offset: 0, 0
@@ -650,14 +636,14 @@ shirt_F_toga_h_wav_ls_2982_2_1.png
   index: -1
 shirt_F_toga_h_wav_ls_2982_3_0.png
   rotate: false
-  xy: 423, 2
+  xy: 439, 2
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2982_3_1.png
   rotate: false
-  xy: 1150, 45
+  xy: 1182, 45
   size: 14, 17
   orig: 14, 17
   offset: 0, 0
@@ -671,7 +657,7 @@ shirt_F_toga_h_wav_ls_2982_4_0.png
   index: -1
 shirt_F_toga_h_wav_ls_2982_4_1.png
   rotate: false
-  xy: 1097, 21
+  xy: 1136, 43
   size: 14, 19
   orig: 14, 19
   offset: 0, 0
@@ -706,140 +692,140 @@ shirt_F_toga_h_wav_ls_2982_6_1.png
   index: -1
 shirt_F_toga_h_wav_ls_2982_7_0.png
   rotate: false
-  xy: 1166, 44
+  xy: 1167, 44
   size: 13, 18
   orig: 13, 18
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2982_7_1.png
   rotate: false
-  xy: 439, 2
+  xy: 423, 2
   size: 14, 18
   orig: 14, 18
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2993_0_0.png
   rotate: false
-  xy: 563, 4
+  xy: 520, 2
   size: 6, 9
   orig: 6, 9
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2993_0_1.png
   rotate: false
-  xy: 928, 16
+  xy: 511, 2
   size: 7, 9
   orig: 7, 9
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wav_ls_2993_3_0.png
+shirt_F_toga_h_wav_ls_2993_3_1.png
   rotate: false
-  xy: 553, 2
+  xy: 628, 2
   size: 3, 11
   orig: 3, 11
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wav_ls_2993_7_0.png
+shirt_F_toga_h_wav_ls_2993_7_1.png
   rotate: false
-  xy: 522, 2
+  xy: 597, 2
   size: 9, 11
   orig: 9, 11
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_0_0.png
   rotate: false
-  xy: 772, 10
+  xy: 95, 27
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_0_1.png
   rotate: false
-  xy: 919, 2
+  xy: 1102, 34
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wav_ls_2994_1_1.png
+shirt_F_toga_h_wav_ls_2994_1_0.png
   rotate: false
-  xy: 897, 2
+  xy: 76, 34
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_2_0.png
   rotate: false
-  xy: 571, 8
+  xy: 1863, 57
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_3_0.png
   rotate: false
-  xy: 948, 20
+  xy: 125, 27
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_3_1.png
   rotate: false
-  xy: 928, 27
+  xy: 528, 5
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_4_0.png
   rotate: false
-  xy: 63, 34
+  xy: 982, 10
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_4_1.png
   rotate: false
-  xy: 761, 10
+  xy: 51, 27
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_5_0.png
   rotate: false
-  xy: 53, 34
+  xy: 982, 2
   size: 8, 6
   orig: 8, 6
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_5_1.png
   rotate: false
-  xy: 926, 10
+  xy: 98, 34
   size: 8, 4
   orig: 8, 4
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_6_0.png
   rotate: false
-  xy: 1823, 57
+  xy: 1111, 35
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_6_1.png
   rotate: false
-  xy: 908, 2
+  xy: 87, 34
   size: 9, 6
   orig: 9, 6
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wav_ls_2994_7_1.png
   rotate: false
-  xy: 1813, 57
+  xy: 547, 6
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ch_2982_0_0.png
   rotate: false
-  xy: 433, 22
+  xy: 404, 22
   size: 27, 40
   orig: 27, 40
   offset: 0, 0
@@ -851,16 +837,23 @@ shirt_F_toga_h_wlk_ch_2982_0_1.png
   orig: 30, 41
   offset: 0, 0
   index: -1
+shirt_F_toga_h_wlk_ch_2982_0_2.png
+  rotate: false
+  xy: 433, 22
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_wlk_ch_2982_0_3.png
   rotate: false
-  xy: 294, 17
+  xy: 265, 17
   size: 27, 45
   orig: 27, 45
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ch_2982_1_1.png
   rotate: false
-  xy: 265, 17
+  xy: 294, 17
   size: 27, 45
   orig: 27, 45
   offset: 0, 0
@@ -881,14 +874,14 @@ shirt_F_toga_h_wlk_ch_2982_2_1.png
   index: -1
 shirt_F_toga_h_wlk_ch_2982_2_3.png
   rotate: false
-  xy: 958, 20
+  xy: 938, 20
   size: 18, 42
   orig: 18, 42
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ch_2982_3_1.png
   rotate: false
-  xy: 589, 13
+  xy: 539, 13
   size: 23, 49
   orig: 23, 49
   offset: 0, 0
@@ -902,117 +895,110 @@ shirt_F_toga_h_wlk_ch_2982_3_3.png
   index: -1
 shirt_F_toga_h_wlk_ch_2982_7_1.png
   rotate: false
-  xy: 539, 15
+  xy: 589, 15
   size: 23, 47
   orig: 23, 47
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_ch_2982_7_2.png
-  rotate: false
-  xy: 489, 17
-  size: 23, 45
-  orig: 23, 45
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_wlk_ch_2982_7_3.png
   rotate: false
-  xy: 514, 15
+  xy: 614, 15
   size: 23, 47
   orig: 23, 47
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ch_2993_0_0.png
   rotate: false
-  xy: 840, 6
+  xy: 829, 2
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ch_2993_0_1.png
   rotate: false
-  xy: 851, 6
+  xy: 840, 6
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ch_2993_0_3.png
   rotate: false
-  xy: 829, 2
+  xy: 851, 6
   size: 9, 26
   orig: 9, 26
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_ch_2993_1_2.png
-  rotate: false
-  xy: 350, 19
-  size: 25, 43
-  orig: 25, 43
-  offset: 0, 0
-  index: -1
-shirt_F_toga_h_wlk_ch_2993_1_3.png
+shirt_F_toga_h_wlk_ch_2993_1_0.png
   rotate: false
   xy: 377, 19
   size: 25, 43
   orig: 25, 43
   offset: 0, 0
   index: -1
+shirt_F_toga_h_wlk_ch_2993_1_1.png
+  rotate: false
+  xy: 350, 19
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_wlk_ch_2993_2_1.png
   rotate: false
-  xy: 1064, 22
+  xy: 1044, 22
   size: 15, 40
   orig: 15, 40
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ch_2993_2_2.png
   rotate: false
-  xy: 1030, 20
+  xy: 1010, 20
   size: 15, 42
   orig: 15, 42
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ch_2993_2_3.png
   rotate: false
-  xy: 1047, 20
+  xy: 1027, 20
   size: 15, 42
   orig: 15, 42
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ch_2993_3_1.png
   rotate: false
-  xy: 1081, 21
+  xy: 1061, 21
   size: 14, 41
   orig: 14, 41
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ch_2993_3_3.png
   rotate: false
-  xy: 1013, 17
+  xy: 993, 17
   size: 15, 45
   orig: 15, 45
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_ch_2993_7_0.png
-  rotate: false
-  xy: 66, 2
-  size: 13, 23
-  orig: 13, 23
-  offset: 0, 0
-  index: -1
-shirt_F_toga_h_wlk_ch_2993_7_1.png
+shirt_F_toga_h_wlk_ch_2993_7_2.png
   rotate: false
   xy: 51, 2
   size: 13, 23
   orig: 13, 23
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_ch_2994_0_1.png
+shirt_F_toga_h_wlk_ch_2993_7_3.png
   rotate: false
-  xy: 887, 34
+  xy: 66, 2
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+shirt_F_toga_h_wlk_ch_2994_0_0.png
+  rotate: false
+  xy: 835, 34
   size: 24, 28
   orig: 24, 28
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_ch_2994_0_2.png
+shirt_F_toga_h_wlk_ch_2994_0_1.png
   rotate: false
   xy: 861, 34
   size: 24, 28
@@ -1021,9 +1007,16 @@ shirt_F_toga_h_wlk_ch_2994_0_2.png
   index: -1
 shirt_F_toga_h_wlk_ch_2994_0_3.png
   rotate: false
-  xy: 835, 34
+  xy: 887, 34
   size: 24, 28
   orig: 24, 28
+  offset: 0, 0
+  index: -1
+shirt_F_toga_h_wlk_ch_2994_1_0.png
+  rotate: false
+  xy: 761, 17
+  size: 19, 45
+  orig: 19, 45
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ch_2994_1_3.png
@@ -1040,6 +1033,13 @@ shirt_F_toga_h_wlk_ch_2994_2_1.png
   orig: 25, 42
   offset: 0, 0
   index: -1
+shirt_F_toga_h_wlk_ch_2994_2_2.png
+  rotate: false
+  xy: 323, 17
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_wlk_ch_2994_2_3.png
   rotate: false
   xy: 235, 17
@@ -1049,149 +1049,135 @@ shirt_F_toga_h_wlk_ch_2994_2_3.png
   index: -1
 shirt_F_toga_h_wlk_ch_2994_3_1.png
   rotate: false
-  xy: 664, 16
+  xy: 639, 16
   size: 23, 46
   orig: 23, 46
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_ch_2994_3_2.png
-  rotate: false
-  xy: 639, 14
-  size: 23, 48
-  orig: 23, 48
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_wlk_ch_2994_3_3.png
   rotate: false
-  xy: 614, 13
+  xy: 514, 13
   size: 23, 49
   orig: 23, 49
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_ch_2994_7_3.png
+shirt_F_toga_h_wlk_ls_2982_0_0.png
   rotate: false
-  xy: 913, 35
-  size: 23, 27
-  orig: 23, 27
-  offset: 0, 0
-  index: -1
-shirt_F_toga_h_wlk_ls_2982_0_1.png
-  rotate: false
-  xy: 1174, 23
-  size: 6, 19
-  orig: 6, 19
-  offset: 0, 0
-  index: -1
-shirt_F_toga_h_wlk_ls_2982_0_2.png
-  rotate: false
-  xy: 1751, 44
+  xy: 1778, 44
   size: 5, 18
   orig: 5, 18
   offset: 0, 0
   index: -1
+shirt_F_toga_h_wlk_ls_2982_0_1.png
+  rotate: false
+  xy: 1770, 43
+  size: 6, 19
+  orig: 6, 19
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_wlk_ls_2982_0_3.png
   rotate: false
-  xy: 1584, 43
+  xy: 1611, 43
   size: 8, 19
   orig: 8, 19
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_1_0.png
   rotate: false
-  xy: 1638, 46
+  xy: 1687, 46
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_ls_2982_1_1.png
-  rotate: false
-  xy: 189, 2
-  size: 12, 17
-  orig: 12, 17
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_wlk_ls_2982_1_3.png
   rotate: false
-  xy: 392, 2
+  xy: 1482, 47
   size: 12, 15
   orig: 12, 15
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_2_0.png
   rotate: false
-  xy: 1767, 47
+  xy: 1794, 47
   size: 6, 15
   orig: 6, 15
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_2_1.png
   rotate: false
-  xy: 1758, 47
+  xy: 1785, 47
   size: 7, 15
   orig: 7, 15
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_2_3.png
   rotate: false
-  xy: 1192, 25
+  xy: 1802, 46
   size: 5, 16
   orig: 5, 16
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_3_0.png
   rotate: false
-  xy: 1274, 40
+  xy: 1305, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_3_1.png
   rotate: false
-  xy: 1529, 45
+  xy: 1578, 45
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_3_2.png
   rotate: false
-  xy: 1263, 40
+  xy: 1316, 40
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_3_3.png
   rotate: false
-  xy: 1649, 46
+  xy: 1698, 46
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_7_0.png
   rotate: false
-  xy: 1496, 45
+  xy: 1545, 45
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_7_1.png
   rotate: false
-  xy: 1375, 43
+  xy: 1427, 43
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_7_2.png
   rotate: false
-  xy: 1241, 41
+  xy: 1349, 41
   size: 9, 21
   orig: 9, 21
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2982_7_3.png
   rotate: false
-  xy: 1485, 46
+  xy: 962, 2
   size: 9, 16
   orig: 9, 16
+  offset: 0, 0
+  index: -1
+shirt_F_toga_h_wlk_ls_2993_3_0.png
+  rotate: false
+  xy: 1833, 41
+  size: 3, 21
+  orig: 3, 21
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2993_3_1.png
@@ -1201,135 +1187,156 @@ shirt_F_toga_h_wlk_ls_2993_3_1.png
   orig: 21, 20
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_ls_2993_3_2.png
-  rotate: false
-  xy: 911, 11
-  size: 3, 21
-  orig: 3, 21
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_wlk_ls_2993_3_3.png
   rotate: false
-  xy: 1784, 47
+  xy: 1849, 47
   size: 3, 15
   orig: 3, 15
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2994_0_3.png
   rotate: false
-  xy: 241, 10
+  xy: 557, 6
   size: 5, 5
   orig: 5, 5
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_ls_2994_1_0.png
-  rotate: false
-  xy: 1296, 40
-  size: 9, 22
-  orig: 9, 22
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_wlk_ls_2994_1_1.png
   rotate: false
-  xy: 1318, 42
+  xy: 901, 12
   size: 10, 20
   orig: 10, 20
   offset: 0, 0
   index: -1
+shirt_F_toga_h_wlk_ls_2994_1_2.png
+  rotate: false
+  xy: 1283, 40
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_wlk_ls_2994_1_3.png
   rotate: false
-  xy: 937, 20
+  xy: 73, 27
   size: 9, 5
   orig: 9, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2994_2_1.png
   rotate: false
-  xy: 928, 2
+  xy: 766, 9
   size: 7, 6
   orig: 7, 6
   offset: 0, 0
   index: -1
+shirt_F_toga_h_wlk_ls_2994_2_2.png
+  rotate: false
+  xy: 775, 2
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_wlk_ls_2994_3_0.png
   rotate: false
-  xy: 1861, 57
+  xy: 1121, 35
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2994_3_1.png
   rotate: false
-  xy: 1833, 57
+  xy: 115, 27
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
+shirt_F_toga_h_wlk_ls_2994_3_2.png
+  rotate: false
+  xy: 1891, 57
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_wlk_ls_2994_3_3.png
   rotate: false
-  xy: 80, 27
+  xy: 1863, 49
   size: 6, 6
   orig: 6, 6
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2994_7_0.png
   rotate: false
-  xy: 1852, 57
+  xy: 1854, 49
   size: 7, 5
   orig: 7, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2994_7_1.png
   rotate: false
-  xy: 90, 35
+  xy: 1883, 57
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+shirt_F_toga_h_wlk_ls_2994_7_2.png
+  rotate: false
+  xy: 1871, 50
   size: 6, 5
   orig: 6, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_ls_2994_7_3.png
   rotate: false
-  xy: 1803, 57
+  xy: 105, 27
   size: 8, 5
   orig: 8, 5
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2982_0_0.png
   rotate: false
-  xy: 1540, 44
+  xy: 1600, 44
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2982_0_1.png
   rotate: false
-  xy: 1113, 21
+  xy: 1152, 43
   size: 13, 19
   orig: 13, 19
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2982_0_3.png
   rotate: false
-  xy: 1352, 43
+  xy: 1393, 43
   size: 10, 19
   orig: 10, 19
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_rs_2982_1_0.png
-  rotate: false
-  xy: 1473, 47
-  size: 10, 15
-  orig: 10, 15
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_wlk_rs_2982_1_1.png
   rotate: false
-  xy: 1420, 47
+  xy: 392, 2
   size: 12, 15
   orig: 12, 15
   offset: 0, 0
   index: -1
+shirt_F_toga_h_wlk_rs_2982_1_2.png
+  rotate: false
+  xy: 1522, 47
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shirt_F_toga_h_wlk_rs_2982_1_3.png
+  rotate: false
+  xy: 189, 2
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_wlk_rs_2982_2_0.png
   rotate: false
-  xy: 1181, 44
+  xy: 1198, 44
   size: 11, 18
   orig: 11, 18
   offset: 0, 0
@@ -1343,77 +1350,70 @@ shirt_F_toga_h_wlk_rs_2982_2_1.png
   index: -1
 shirt_F_toga_h_wlk_rs_2982_2_3.png
   rotate: false
-  xy: 1136, 42
+  xy: 887, 12
   size: 12, 20
   orig: 12, 20
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_rs_2982_3_0.png
-  rotate: false
-  xy: 1507, 45
-  size: 9, 17
-  orig: 9, 17
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_wlk_rs_2982_3_1.png
   rotate: false
-  xy: 728, 2
+  xy: 1720, 47
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2982_3_3.png
   rotate: false
-  xy: 1627, 46
+  xy: 1665, 46
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2982_7_0.png
   rotate: false
-  xy: 1182, 25
+  xy: 1742, 45
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2982_7_1.png
   rotate: false
-  xy: 1671, 46
+  xy: 1676, 46
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2982_7_2.png
   rotate: false
-  xy: 1605, 45
+  xy: 1567, 45
   size: 9, 17
   orig: 9, 17
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2982_7_3.png
   rotate: false
-  xy: 1693, 47
+  xy: 1731, 47
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2993_3_2.png
   rotate: false
-  xy: 639, 2
+  xy: 489, 2
   size: 20, 10
   orig: 20, 10
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2994_0_0.png
   rotate: false
-  xy: 1285, 40
+  xy: 927, 11
   size: 9, 22
   orig: 9, 22
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2994_0_1.png
   rotate: false
-  xy: 109, 2
+  xy: 121, 2
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
@@ -1427,21 +1427,21 @@ shirt_F_toga_h_wlk_rs_2994_0_2.png
   index: -1
 shirt_F_toga_h_wlk_rs_2994_0_3.png
   rotate: false
-  xy: 121, 2
+  xy: 109, 2
   size: 10, 23
   orig: 10, 23
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2994_1_0.png
   rotate: false
-  xy: 1551, 43
+  xy: 1438, 43
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2994_1_2.png
   rotate: false
-  xy: 1562, 43
+  xy: 1449, 43
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
@@ -1474,30 +1474,30 @@ shirt_F_toga_h_wlk_rs_2994_2_3.png
   orig: 10, 25
   offset: 0, 0
   index: -1
-shirt_F_toga_h_wlk_rs_2994_3_0.png
-  rotate: false
-  xy: 1230, 41
-  size: 9, 21
-  orig: 9, 21
-  offset: 0, 0
-  index: -1
 shirt_F_toga_h_wlk_rs_2994_3_1.png
   rotate: false
-  xy: 1364, 43
+  xy: 1405, 43
   size: 9, 19
   orig: 9, 19
   offset: 0, 0
   index: -1
+shirt_F_toga_h_wlk_rs_2994_3_2.png
+  rotate: false
+  xy: 1327, 41
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
 shirt_F_toga_h_wlk_rs_2994_3_3.png
   rotate: false
-  xy: 1573, 42
+  xy: 1382, 42
   size: 9, 20
   orig: 9, 20
   offset: 0, 0
   index: -1
 shirt_F_toga_h_wlk_rs_2994_7_3.png
   rotate: false
-  xy: 80, 35
+  xy: 1873, 57
   size: 8, 5
   orig: 8, 5
   offset: 0, 0

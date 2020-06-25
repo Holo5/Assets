@@ -11,7 +11,7 @@ hair_U_longwavy2_h_lay_hr_3307_2_0.png
   orig: 29, 48
   offset: 0, 0
   index: -1
-hair_U_longwavy2_h_lay_hrb_3307_2_0.png
+hair_U_longwavy2_h_lsp_hrb_3307_2_0.png
   rotate: false
   xy: 569, 6
   size: 29, 48
@@ -41,14 +41,14 @@ hair_U_longwavy2_h_spk_hr_3307_2_0.png
   index: -1
 hair_U_longwavy2_h_spk_hr_3307_3_0.png
   rotate: false
-  xy: 446, 15
+  xy: 528, 15
   size: 39, 39
   orig: 39, 39
   offset: 0, 0
   index: -1
 hair_U_longwavy2_h_spk_hr_3307_7_0.png
   rotate: false
-  xy: 412, 3
+  xy: 378, 3
   size: 32, 51
   orig: 32, 51
   offset: 0, 0
@@ -62,30 +62,9 @@ hair_U_longwavy2_h_spk_hrb_3307_0_0.png
   index: -1
 hair_U_longwavy2_h_spk_hrb_3307_1_0.png
   rotate: false
-  xy: 268, 5
+  xy: 306, 5
   size: 36, 49
   orig: 36, 49
-  offset: 0, 0
-  index: -1
-hair_U_longwavy2_h_spk_hrb_3307_2_0.png
-  rotate: false
-  xy: 188, 7
-  size: 38, 47
-  orig: 38, 47
-  offset: 0, 0
-  index: -1
-hair_U_longwavy2_h_spk_hrb_3307_3_0.png
-  rotate: false
-  xy: 487, 15
-  size: 39, 39
-  orig: 39, 39
-  offset: 0, 0
-  index: -1
-hair_U_longwavy2_h_spk_hrb_3307_7_0.png
-  rotate: false
-  xy: 344, 3
-  size: 32, 51
-  orig: 32, 51
   offset: 0, 0
   index: -1
 hair_U_longwavy2_h_std_hr_3307_0_0.png
@@ -97,7 +76,7 @@ hair_U_longwavy2_h_std_hr_3307_0_0.png
   index: -1
 hair_U_longwavy2_h_std_hr_3307_1_0.png
   rotate: false
-  xy: 306, 5
+  xy: 268, 5
   size: 36, 49
   orig: 36, 49
   offset: 0, 0
@@ -111,14 +90,35 @@ hair_U_longwavy2_h_std_hr_3307_2_0.png
   index: -1
 hair_U_longwavy2_h_std_hr_3307_3_0.png
   rotate: false
-  xy: 528, 15
+  xy: 487, 15
   size: 39, 39
   orig: 39, 39
   offset: 0, 0
   index: -1
 hair_U_longwavy2_h_std_hr_3307_7_0.png
   rotate: false
-  xy: 378, 3
+  xy: 412, 3
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+hair_U_longwavy2_h_std_hrb_3307_2_0.png
+  rotate: false
+  xy: 188, 7
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+hair_U_longwavy2_h_std_hrb_3307_3_0.png
+  rotate: false
+  xy: 446, 15
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+hair_U_longwavy2_h_std_hrb_3307_7_0.png
+  rotate: false
+  xy: 344, 3
   size: 32, 51
   orig: 32, 51
   offset: 0, 0

@@ -6,133 +6,119 @@ filter: Nearest,Nearest
 repeat: none
 jacket_F_exoticvest_h_crr_lc_3002_3_0.png
   rotate: false
-  xy: 62, 12
+  xy: 345, 30
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_crr_lc_3002_5_0.png
+jacket_F_exoticvest_h_crr_lc_3002_4_0.png
   rotate: false
-  xy: 183, 4
-  size: 11, 9
-  orig: 11, 9
+  xy: 283, 32
+  size: 9, 10
+  orig: 9, 10
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_crr_lc_3002_6_0.png
   rotate: false
-  xy: 135, 2
+  xy: 212, 16
   size: 9, 11
   orig: 9, 11
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_crr_lc_3003_3_0.png
   rotate: false
-  xy: 371, 30
+  xy: 420, 33
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_crr_lc_3003_4_0.png
-  rotate: false
-  xy: 427, 24
-  size: 9, 10
-  orig: 9, 10
-  offset: 0, 0
-  index: -1
-jacket_F_exoticvest_h_crr_lc_3003_7_0.png
-  rotate: false
-  xy: 479, 22
-  size: 7, 12
-  orig: 7, 12
-  offset: 0, 0
-  index: -1
 jacket_F_exoticvest_h_crr_rc_3002_0_0.png
   rotate: false
-  xy: 98, 2
+  xy: 124, 16
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_crr_rc_3002_2_0.png
   rotate: false
-  xy: 455, 50
+  xy: 420, 50
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_crr_rc_3002_3_0.png
   rotate: false
-  xy: 349, 30
+  xy: 328, 47
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
+jacket_F_exoticvest_h_crr_rc_3002_7_0.png
+  rotate: false
+  xy: 243, 17
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
 jacket_F_exoticvest_h_crr_rc_3003_0_0.png
   rotate: false
-  xy: 391, 35
+  xy: 294, 32
   size: 10, 13
   orig: 10, 13
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_crr_rc_3003_7_0.png
-  rotate: false
-  xy: 470, 22
-  size: 7, 12
-  orig: 7, 12
-  offset: 0, 0
-  index: -1
 jacket_F_exoticvest_h_drk_rc_3002_0_0.png
   rotate: false
-  xy: 438, 22
+  xy: 477, 25
   size: 9, 12
   orig: 9, 12
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_drk_rc_3002_2_0.png
-  rotate: false
-  xy: 404, 24
-  size: 10, 10
-  orig: 10, 10
-  offset: 0, 0
-  index: -1
 jacket_F_exoticvest_h_drk_rc_3002_3_0.png
   rotate: false
-  xy: 111, 2
+  xy: 150, 16
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_drk_rc_3002_7_0.png
   rotate: false
-  xy: 217, 2
+  xy: 497, 26
   size: 7, 14
   orig: 7, 14
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_drk_rc_3003_0_0.png
   rotate: false
-  xy: 460, 22
+  xy: 237, 2
   size: 8, 12
   orig: 8, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_drk_rc_3003_1_0.png
   rotate: false
-  xy: 494, 37
+  xy: 163, 16
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
+jacket_F_exoticvest_h_drk_rc_3003_2_0.png
+  rotate: false
+  xy: 443, 27
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
 jacket_F_exoticvest_h_drk_rc_3003_3_0.png
   rotate: false
-  xy: 85, 2
+  xy: 137, 16
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_drk_rc_3003_7_0.png
   rotate: false
-  xy: 114, 15
+  xy: 247, 2
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
@@ -146,63 +132,63 @@ jacket_F_exoticvest_h_lay_cc_3002_2_0.png
   index: -1
 jacket_F_exoticvest_h_lay_cc_3003_2_0.png
   rotate: false
-  xy: 235, 38
+  xy: 39, 3
   size: 32, 24
   orig: 32, 24
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_lay_lc_3003_2_0.png
+jacket_F_exoticvest_h_lay_lc_3002_2_0.png
   rotate: false
-  xy: 266, 35
+  xy: 73, 2
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_lay_rc_3002_2_0.png
   rotate: false
-  xy: 507, 60
+  xy: 73, 5
   size: 1, 2
   orig: 1, 2
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_lay_rc_3003_2_0.png
   rotate: false
-  xy: 72, 2
+  xy: 176, 16
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_std_cc_3002_0_0.png
   rotate: false
-  xy: 2, 29
+  xy: 34, 29
   size: 29, 33
   orig: 29, 33
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_std_cc_3002_1_0.png
   rotate: false
-  xy: 269, 32
+  xy: 235, 32
   size: 22, 30
   orig: 22, 30
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_std_cc_3002_2_0.png
   rotate: false
-  xy: 63, 30
+  xy: 2, 30
   size: 30, 32
   orig: 30, 32
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_std_cc_3002_3_0.png
   rotate: false
-  xy: 33, 29
+  xy: 65, 29
   size: 28, 33
   orig: 28, 33
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_std_cc_3002_7_0.png
   rotate: false
-  xy: 180, 29
+  xy: 124, 29
   size: 26, 33
   orig: 26, 33
   offset: 0, 0
@@ -216,7 +202,7 @@ jacket_F_exoticvest_h_std_cc_3003_0_0.png
   index: -1
 jacket_F_exoticvest_h_std_cc_3003_1_0.png
   rotate: false
-  xy: 293, 32
+  xy: 259, 32
   size: 22, 30
   orig: 22, 30
   offset: 0, 0
@@ -230,399 +216,413 @@ jacket_F_exoticvest_h_std_cc_3003_2_0.png
   index: -1
 jacket_F_exoticvest_h_std_cc_3003_3_0.png
   rotate: false
-  xy: 152, 29
+  xy: 180, 29
   size: 26, 33
   orig: 26, 33
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_std_cc_3003_7_0.png
   rotate: false
-  xy: 124, 29
+  xy: 152, 29
   size: 26, 33
   orig: 26, 33
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_std_lc_3002_3_0.png
+jacket_F_exoticvest_h_std_lc_3002_0_0.png
   rotate: false
   xy: 350, 47
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jacket_F_exoticvest_h_std_lc_3002_1_0.png
+  rotate: false
+  xy: 458, 39
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+jacket_F_exoticvest_h_std_lc_3002_3_0.png
+  rotate: false
+  xy: 305, 47
   size: 10, 15
   orig: 10, 15
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_std_lc_3002_4_0.png
   rotate: false
-  xy: 195, 15
+  xy: 226, 2
   size: 9, 12
   orig: 9, 12
   offset: 0, 0
   index: -1
+jacket_F_exoticvest_h_std_lc_3002_5_0.png
+  rotate: false
+  xy: 430, 28
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
 jacket_F_exoticvest_h_std_lc_3002_7_0.png
   rotate: false
-  xy: 72, 15
+  xy: 399, 35
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_std_lc_3003_3_0.png
   rotate: false
-  xy: 362, 47
+  xy: 339, 47
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_std_lc_3003_6_0.png
   rotate: false
-  xy: 146, 2
+  xy: 223, 16
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
+jacket_F_exoticvest_h_std_lc_3003_7_0.png
+  rotate: false
+  xy: 261, 18
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
 jacket_F_exoticvest_h_std_rc_3002_0_0.png
   rotate: false
-  xy: 124, 2
+  xy: 201, 16
   size: 9, 11
   orig: 9, 11
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_std_rc_3002_1_0.png
-  rotate: false
-  xy: 170, 4
-  size: 11, 9
-  orig: 11, 9
-  offset: 0, 0
-  index: -1
 jacket_F_exoticvest_h_std_rc_3002_2_0.png
   rotate: false
-  xy: 449, 22
+  xy: 215, 2
   size: 9, 12
   orig: 9, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_std_rc_3002_3_0.png
   rotate: false
-  xy: 338, 47
+  xy: 293, 47
   size: 10, 15
   orig: 10, 15
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_std_rc_3003_0_0.png
   rotate: false
-  xy: 495, 26
+  xy: 233, 16
   size: 8, 9
   orig: 8, 9
   offset: 0, 0
   index: -1
+jacket_F_exoticvest_h_std_rc_3003_2_0.png
+  rotate: false
+  xy: 455, 27
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
 jacket_F_exoticvest_h_std_rc_3003_3_0.png
   rotate: false
-  xy: 360, 30
+  xy: 317, 47
   size: 9, 15
   orig: 9, 15
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wav_lc_3002_3_1.png
+jacket_F_exoticvest_h_std_rc_3003_7_0.png
   rotate: false
-  xy: 39, 9
+  xy: 488, 25
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+jacket_F_exoticvest_h_wav_lc_3002_3_0.png
+  rotate: false
+  xy: 73, 9
   size: 10, 18
   orig: 10, 18
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wav_lc_3002_4_1.png
+jacket_F_exoticvest_h_wav_lc_3002_4_0.png
   rotate: false
-  xy: 226, 3
+  xy: 252, 17
   size: 7, 13
   orig: 7, 13
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wav_lc_3002_5_1.png
-  rotate: false
-  xy: 317, 31
-  size: 10, 11
-  orig: 10, 11
-  offset: 0, 0
-  index: -1
 jacket_F_exoticvest_h_wav_lc_3002_6_1.png
   rotate: false
-  xy: 373, 48
+  xy: 365, 34
   size: 10, 14
   orig: 10, 14
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wav_lc_3002_7_0.png
+jacket_F_exoticvest_h_wav_lc_3002_7_1.png
   rotate: false
-  xy: 339, 29
+  xy: 355, 32
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wav_lc_3003_3_1.png
   rotate: false
-  xy: 317, 44
+  xy: 283, 44
   size: 8, 18
   orig: 8, 18
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wav_lc_3003_4_0.png
+jacket_F_exoticvest_h_wav_lc_3003_4_1.png
   rotate: false
-  xy: 488, 22
+  xy: 117, 16
   size: 5, 12
   orig: 5, 12
   offset: 0, 0
   index: -1
+jacket_F_exoticvest_h_wav_lc_3003_5_0.png
+  rotate: false
+  xy: 189, 16
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
 jacket_F_exoticvest_h_wav_lc_3003_6_0.png
   rotate: false
-  xy: 83, 15
+  xy: 388, 35
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wav_lc_3003_7_1.png
+jacket_F_exoticvest_h_wav_lc_3003_7_0.png
   rotate: false
-  xy: 381, 30
+  xy: 107, 12
   size: 8, 16
   orig: 8, 16
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wav_rc_3002_2_0.png
-  rotate: false
-  xy: 416, 24
-  size: 9, 10
-  orig: 9, 10
-  offset: 0, 0
-  index: -1
 jacket_F_exoticvest_h_wlk_lc_3002_3_0.png
   rotate: false
-  xy: 329, 29
+  xy: 410, 33
   size: 8, 15
   orig: 8, 15
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_lc_3002_4_0.png
   rotate: false
-  xy: 123, 15
+  xy: 179, 2
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_lc_3002_4_1.png
   rotate: false
-  xy: 206, 15
+  xy: 466, 25
   size: 9, 12
   orig: 9, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_lc_3002_4_2.png
   rotate: false
-  xy: 135, 15
+  xy: 167, 2
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_lc_3002_4_3.png
   rotate: false
-  xy: 399, 50
+  xy: 406, 50
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wlk_lc_3002_5_0.png
+jacket_F_exoticvest_h_wlk_lc_3002_6_2.png
   rotate: false
-  xy: 196, 4
-  size: 11, 9
-  orig: 11, 9
-  offset: 0, 0
-  index: -1
-jacket_F_exoticvest_h_wlk_lc_3002_5_1.png
-  rotate: false
-  xy: 235, 27
-  size: 12, 9
-  orig: 12, 9
-  offset: 0, 0
-  index: -1
-jacket_F_exoticvest_h_wlk_lc_3002_5_3.png
-  rotate: false
-  xy: 249, 27
-  size: 12, 9
-  orig: 12, 9
-  offset: 0, 0
-  index: -1
-jacket_F_exoticvest_h_wlk_lc_3002_6_1.png
-  rotate: false
-  xy: 468, 36
+  xy: 433, 50
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wlk_lc_3002_7_3.png
+jacket_F_exoticvest_h_wlk_lc_3002_7_1.png
   rotate: false
-  xy: 94, 15
+  xy: 377, 35
   size: 9, 13
   orig: 9, 13
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wlk_lc_3003_0_0.png
-  rotate: false
-  xy: 263, 35
-  size: 1, 1
-  orig: 1, 1
-  offset: 0, 0
-  index: -1
 jacket_F_exoticvest_h_wlk_lc_3003_4_0.png
   rotate: false
-  xy: 429, 36
+  xy: 472, 50
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_lc_3003_4_1.png
   rotate: false
-  xy: 416, 36
+  xy: 459, 50
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_lc_3003_4_2.png
   rotate: false
-  xy: 403, 36
+  xy: 446, 50
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_lc_3003_4_3.png
   rotate: false
-  xy: 413, 50
+  xy: 350, 50
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
+jacket_F_exoticvest_h_wlk_lc_3003_5_1.png
+  rotate: false
+  xy: 498, 42
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+jacket_F_exoticvest_h_wlk_lc_3003_5_2.png
+  rotate: false
+  xy: 471, 39
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+jacket_F_exoticvest_h_wlk_lc_3003_5_3.png
+  rotate: false
+  xy: 498, 53
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
 jacket_F_exoticvest_h_wlk_lc_3003_6_0.png
   rotate: false
-  xy: 183, 15
+  xy: 203, 2
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_lc_3003_6_2.png
   rotate: false
-  xy: 171, 15
+  xy: 191, 2
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_rc_3002_0_1.png
   rotate: false
-  xy: 441, 50
+  xy: 378, 50
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
+jacket_F_exoticvest_h_wlk_rc_3002_1_0.png
+  rotate: false
+  xy: 484, 39
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+jacket_F_exoticvest_h_wlk_rc_3002_1_1.png
+  rotate: false
+  xy: 444, 39
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+jacket_F_exoticvest_h_wlk_rc_3002_1_3.png
+  rotate: false
+  xy: 430, 39
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
 jacket_F_exoticvest_h_wlk_rc_3002_2_0.png
   rotate: false
-  xy: 455, 36
+  xy: 306, 33
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_rc_3002_2_1.png
   rotate: false
-  xy: 442, 36
+  xy: 319, 33
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_rc_3002_2_2.png
   rotate: false
-  xy: 481, 36
+  xy: 485, 50
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_rc_3002_2_3.png
   rotate: false
-  xy: 427, 50
+  xy: 364, 50
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wlk_rc_3002_3_0.png
+jacket_F_exoticvest_h_wlk_rc_3002_3_3.png
   rotate: false
-  xy: 327, 46
+  xy: 85, 11
   size: 9, 16
   orig: 9, 16
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wlk_rc_3002_7_3.png
+jacket_F_exoticvest_h_wlk_rc_3003_0_2.png
   rotate: false
-  xy: 105, 15
-  size: 7, 13
-  orig: 7, 13
-  offset: 0, 0
-  index: -1
-jacket_F_exoticvest_h_wlk_rc_3003_0_1.png
-  rotate: false
-  xy: 159, 15
+  xy: 155, 2
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_rc_3003_0_3.png
   rotate: false
-  xy: 147, 15
+  xy: 143, 2
   size: 10, 12
   orig: 10, 12
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wlk_rc_3003_1_1.png
-  rotate: false
-  xy: 217, 18
-  size: 12, 9
-  orig: 12, 9
-  offset: 0, 0
-  index: -1
-jacket_F_exoticvest_h_wlk_rc_3003_1_2.png
-  rotate: false
-  xy: 391, 24
-  size: 11, 9
-  orig: 11, 9
-  offset: 0, 0
-  index: -1
-jacket_F_exoticvest_h_wlk_rc_3003_1_3.png
-  rotate: false
-  xy: 156, 4
-  size: 12, 9
-  orig: 12, 9
-  offset: 0, 0
-  index: -1
 jacket_F_exoticvest_h_wlk_rc_3003_2_0.png
   rotate: false
-  xy: 494, 50
+  xy: 332, 33
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_rc_3003_2_1.png
   rotate: false
-  xy: 468, 50
+  xy: 117, 2
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_rc_3003_2_2.png
   rotate: false
-  xy: 481, 50
+  xy: 130, 2
   size: 11, 12
   orig: 11, 12
   offset: 0, 0
   index: -1
 jacket_F_exoticvest_h_wlk_rc_3003_2_3.png
   rotate: false
-  xy: 385, 50
+  xy: 392, 50
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
-jacket_F_exoticvest_h_wlk_rc_3003_3_0.png
+jacket_F_exoticvest_h_wlk_rc_3003_3_2.png
   rotate: false
-  xy: 51, 11
+  xy: 96, 12
   size: 9, 16
   orig: 9, 16
   offset: 0, 0

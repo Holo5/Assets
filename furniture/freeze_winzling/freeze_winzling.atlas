@@ -1,0 +1,69 @@
+
+freeze_winzling.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+freeze_winzling_freeze_winzling_64_a_2_0.png
+  rotate: false
+  xy: 41, 31
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+freeze_winzling_freeze_winzling_64_a_2_1.png
+  rotate: false
+  xy: 2, 31
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+freeze_winzling_freeze_winzling_64_a_2_2.png
+  rotate: false
+  xy: 125, 31
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+freeze_winzling_freeze_winzling_64_a_2_4.png
+  rotate: false
+  xy: 97, 31
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+freeze_winzling_freeze_winzling_64_a_2_5.png
+  rotate: false
+  xy: 69, 31
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+freeze_winzling_freeze_winzling_64_a_2_6.png
+  rotate: false
+  xy: 181, 31
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+freeze_winzling_freeze_winzling_64_a_2_7.png
+  rotate: false
+  xy: 153, 31
+  size: 26, 63
+  orig: 26, 63
+  offset: 0, 0
+  index: -1
+freeze_winzling_freeze_winzling_64_sd_2_0.png
+  rotate: false
+  xy: 209, 77
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+freeze_winzling_freeze_winzling_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

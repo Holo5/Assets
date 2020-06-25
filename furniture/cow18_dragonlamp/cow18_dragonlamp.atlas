@@ -1,0 +1,76 @@
+
+cow18_dragonlamp.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cow18_dragonlamp_cow18_dragonlamp_32_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cow18_dragonlamp_cow18_dragonlamp_32_b_4_0.png
+  rotate: false
+  xy: 248, 117
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cow18_dragonlamp_cow18_dragonlamp_64_a_4_0.png
+  rotate: false
+  xy: 2, 32
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+cow18_dragonlamp_cow18_dragonlamp_64_b_4_1.png
+  rotate: false
+  xy: 128, 93
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+cow18_dragonlamp_cow18_dragonlamp_64_b_4_2.png
+  rotate: false
+  xy: 2, 5
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+cow18_dragonlamp_cow18_dragonlamp_64_b_4_3.png
+  rotate: false
+  xy: 208, 93
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+cow18_dragonlamp_cow18_dragonlamp_64_b_4_4.png
+  rotate: false
+  xy: 168, 93
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+cow18_dragonlamp_cow18_dragonlamp_64_sd_4_0.png
+  rotate: false
+  xy: 64, 98
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+cow18_dragonlamp_cow18_dragonlamp_icon_a.png
+  rotate: false
+  xy: 64, 50
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+cow18_dragonlamp_rare_dragonlamp_pink_64_b_4_4.png
+  rotate: false
+  xy: 64, 26
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1

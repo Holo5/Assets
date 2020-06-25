@@ -6,28 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 hair_U_ombre_h_lay_hr_2896_2_0.png
   rotate: false
-  xy: 207, 182
+  xy: 41, 37
   size: 34, 37
   orig: 34, 37
   offset: 0, 0
   index: -1
 hair_U_ombre_h_lay_hr_2897_2_0.png
   rotate: false
-  xy: 113, 11
+  xy: 72, 2
   size: 29, 33
   orig: 29, 33
   offset: 0, 0
   index: -1
 hair_U_ombre_h_lay_hrb_2896_2_0.png
   rotate: false
-  xy: 82, 65
+  xy: 77, 37
   size: 34, 37
   orig: 34, 37
   offset: 0, 0
   index: -1
-hair_U_ombre_h_lay_hrb_2897_2_0.png
+hair_U_ombre_h_lsp_hrb_2897_2_0.png
   rotate: false
-  xy: 82, 30
+  xy: 41, 2
   size: 29, 33
   orig: 29, 33
   offset: 0, 0
@@ -41,7 +41,7 @@ hair_U_ombre_h_spk_hr_2896_0_0.png
   index: -1
 hair_U_ombre_h_spk_hr_2896_1_0.png
   rotate: false
-  xy: 43, 217
+  xy: 84, 217
   size: 39, 37
   orig: 39, 37
   offset: 0, 0
@@ -55,7 +55,7 @@ hair_U_ombre_h_spk_hr_2896_2_0.png
   index: -1
 hair_U_ombre_h_spk_hr_2896_3_0.png
   rotate: false
-  xy: 166, 220
+  xy: 166, 184
   size: 39, 34
   orig: 39, 34
   offset: 0, 0
@@ -69,49 +69,49 @@ hair_U_ombre_h_spk_hr_2896_7_0.png
   index: -1
 hair_U_ombre_h_spk_hr_2897_0_0.png
   rotate: false
-  xy: 41, 2
+  xy: 203, 76
   size: 35, 26
   orig: 35, 26
   offset: 0, 0
   index: -1
 hair_U_ombre_h_spk_hr_2897_1_0.png
   rotate: false
-  xy: 125, 150
+  xy: 125, 120
   size: 37, 29
   orig: 37, 29
   offset: 0, 0
   index: -1
 hair_U_ombre_h_spk_hr_2897_2_0.png
   rotate: false
-  xy: 162, 107
+  xy: 203, 132
   size: 37, 26
   orig: 37, 26
   offset: 0, 0
   index: -1
 hair_U_ombre_h_spk_hr_2897_3_0.png
   rotate: false
-  xy: 166, 163
+  xy: 164, 80
   size: 37, 20
   orig: 37, 20
   offset: 0, 0
   index: -1
 hair_U_ombre_h_spk_hr_2897_7_0.png
   rotate: false
-  xy: 2, 2
+  xy: 113, 26
   size: 37, 20
   orig: 37, 20
   offset: 0, 0
   index: -1
 hair_U_ombre_h_spk_hrb_2896_0_0.png
   rotate: false
-  xy: 43, 101
+  xy: 2, 60
   size: 37, 37
   orig: 37, 37
   offset: 0, 0
   index: -1
 hair_U_ombre_h_spk_hrb_2896_1_0.png
   rotate: false
-  xy: 84, 217
+  xy: 43, 217
   size: 39, 37
   orig: 39, 37
   offset: 0, 0
@@ -125,7 +125,7 @@ hair_U_ombre_h_spk_hrb_2896_2_0.png
   index: -1
 hair_U_ombre_h_spk_hrb_2896_3_0.png
   rotate: false
-  xy: 82, 104
+  xy: 166, 220
   size: 39, 34
   orig: 39, 34
   offset: 0, 0
@@ -139,42 +139,42 @@ hair_U_ombre_h_spk_hrb_2896_7_0.png
   index: -1
 hair_U_ombre_h_spk_hrb_2897_0_0.png
   rotate: false
-  xy: 157, 31
+  xy: 152, 31
   size: 35, 26
   orig: 35, 26
   offset: 0, 0
   index: -1
 hair_U_ombre_h_spk_hrb_2897_1_0.png
   rotate: false
-  xy: 123, 119
+  xy: 164, 132
   size: 37, 29
   orig: 37, 29
   offset: 0, 0
   index: -1
 hair_U_ombre_h_spk_hrb_2897_2_0.png
   rotate: false
-  xy: 164, 135
+  xy: 203, 104
   size: 37, 26
   orig: 37, 26
   offset: 0, 0
   index: -1
 hair_U_ombre_h_spk_hrb_2897_3_0.png
   rotate: false
-  xy: 118, 46
+  xy: 103, 4
   size: 37, 20
   orig: 37, 20
   offset: 0, 0
   index: -1
 hair_U_ombre_h_spk_hrb_2897_7_0.png
   rotate: false
-  xy: 201, 84
+  xy: 119, 75
   size: 37, 20
   orig: 37, 20
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hr_2896_0_0.png
   rotate: false
-  xy: 43, 63
+  xy: 207, 218
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
@@ -195,56 +195,56 @@ hair_U_ombre_h_std_hr_2896_2_0.png
   index: -1
 hair_U_ombre_h_std_hr_2896_3_0.png
   rotate: false
-  xy: 166, 185
+  xy: 207, 183
   size: 39, 33
   orig: 39, 33
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hr_2896_7_0.png
   rotate: false
-  xy: 2, 137
+  xy: 43, 178
   size: 39, 37
   orig: 39, 37
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hr_2897_0_0.png
   rotate: false
-  xy: 43, 36
+  xy: 197, 49
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hr_2897_1_0.png
   rotate: false
-  xy: 205, 152
+  xy: 164, 102
   size: 37, 28
   orig: 37, 28
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hr_2897_2_0.png
   rotate: false
-  xy: 157, 59
+  xy: 113, 48
   size: 37, 25
   orig: 37, 25
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hr_2897_3_0.png
   rotate: false
-  xy: 123, 98
+  xy: 158, 59
   size: 37, 19
   orig: 37, 19
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hr_2897_7_0.png
   rotate: false
-  xy: 201, 106
+  xy: 125, 97
   size: 37, 21
   orig: 37, 21
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hrb_2896_0_0.png
   rotate: false
-  xy: 2, 24
+  xy: 2, 22
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
@@ -258,56 +258,56 @@ hair_U_ombre_h_std_hrb_2896_1_0.png
   index: -1
 hair_U_ombre_h_std_hrb_2896_2_0.png
   rotate: false
-  xy: 2, 62
+  xy: 43, 103
   size: 39, 35
   orig: 39, 35
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hrb_2896_3_0.png
   rotate: false
-  xy: 207, 221
+  xy: 84, 105
   size: 39, 33
   orig: 39, 33
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hrb_2896_7_0.png
   rotate: false
-  xy: 43, 178
+  xy: 2, 137
   size: 39, 37
   orig: 39, 37
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hrb_2897_0_0.png
   rotate: false
-  xy: 194, 30
+  xy: 82, 76
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hrb_2897_1_0.png
   rotate: false
-  xy: 118, 68
+  xy: 125, 151
   size: 37, 28
   orig: 37, 28
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hrb_2897_2_0.png
   rotate: false
-  xy: 196, 57
+  xy: 43, 76
   size: 37, 25
   orig: 37, 25
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hrb_2897_3_0.png
   rotate: false
-  xy: 162, 86
+  xy: 166, 163
   size: 37, 19
   orig: 37, 19
   offset: 0, 0
   index: -1
 hair_U_ombre_h_std_hrb_2897_7_0.png
   rotate: false
-  xy: 203, 129
+  xy: 205, 160
   size: 37, 21
   orig: 37, 21
   offset: 0, 0

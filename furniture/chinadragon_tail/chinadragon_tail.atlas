@@ -1,0 +1,27 @@
+
+chinadragon_tail.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chinadragon_tail_chinadragon_tail_64_a_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+chinadragon_tail_chinadragon_tail_64_sd_2_0.png
+  rotate: false
+  xy: 33, 102
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+chinadragon_tail_chinadragon_tail_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1

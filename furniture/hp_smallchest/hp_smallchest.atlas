@@ -1,0 +1,48 @@
+
+hp_smallchest.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hp_smallchest_hp_smallchest_64_a_2_0.png
+  rotate: false
+  xy: 142, 2
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+hp_smallchest_hp_smallchest_64_a_2_1.png
+  rotate: false
+  xy: 72, 2
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+hp_smallchest_hp_smallchest_64_a_2_2.png
+  rotate: false
+  xy: 282, 2
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+hp_smallchest_hp_smallchest_64_a_2_3.png
+  rotate: false
+  xy: 212, 2
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+hp_smallchest_hp_smallchest_64_a_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+hp_smallchest_hp_smallchest_icon_a.png
+  rotate: false
+  xy: 352, 36
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1

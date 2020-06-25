@@ -1,0 +1,27 @@
+
+pizza16_floor.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pizza16_floor_pizza16_floor_64_a_0_0.png
+  rotate: false
+  xy: 132, 22
+  size: 128, 70
+  orig: 128, 70
+  offset: 0, 0
+  index: -1
+pizza16_floor_pizza16_floor_64_a_0_1.png
+  rotate: false
+  xy: 2, 22
+  size: 128, 70
+  orig: 128, 70
+  offset: 0, 0
+  index: -1
+pizza16_floor_pizza16_floor_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1

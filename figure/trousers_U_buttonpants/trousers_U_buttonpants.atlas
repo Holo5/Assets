@@ -6,14 +6,14 @@ filter: Nearest,Nearest
 repeat: none
 trousers_U_buttonpants_h_lay_lg_3073_2_0.png
   rotate: false
-  xy: 136, 41
+  xy: 306, 41
   size: 28, 21
   orig: 28, 21
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_lay_lg_3074_2_0.png
   rotate: false
-  xy: 175, 2
+  xy: 491, 2
   size: 13, 17
   orig: 13, 17
   offset: 0, 0
@@ -27,98 +27,98 @@ trousers_U_buttonpants_h_sit_lg_3073_0_0.png
   index: -1
 trousers_U_buttonpants_h_sit_lg_3073_2_0.png
   rotate: false
-  xy: 166, 42
+  xy: 336, 42
   size: 28, 20
   orig: 28, 20
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_sit_lg_3074_0_0.png
   rotate: false
-  xy: 96, 35
+  xy: 203, 2
   size: 3, 4
   orig: 3, 4
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_sit_lg_3074_2_0.png
   rotate: false
-  xy: 34, 2
+  xy: 58, 2
   size: 13, 16
   orig: 13, 16
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_std_lg_3073_0_0.png
   rotate: false
-  xy: 345, 34
+  xy: 258, 34
   size: 22, 28
   orig: 22, 28
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_std_lg_3073_1_0.png
   rotate: false
-  xy: 49, 10
+  xy: 286, 9
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_std_lg_3073_2_0.png
   rotate: false
-  xy: 369, 34
+  xy: 234, 34
   size: 22, 28
   orig: 22, 28
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_std_lg_3073_3_0.png
   rotate: false
-  xy: 345, 9
+  xy: 366, 39
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_std_lg_3073_7_0.png
   rotate: false
-  xy: 320, 9
+  xy: 157, 7
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_std_lg_3074_0_0.png
   rotate: false
-  xy: 441, 2
+  xy: 94, 2
   size: 12, 7
   orig: 12, 7
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_std_lg_3074_1_0.png
   rotate: false
-  xy: 162, 19
+  xy: 383, 16
   size: 11, 20
   orig: 11, 20
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_std_lg_3074_2_0.png
   rotate: false
-  xy: 278, 8
+  xy: 205, 8
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_std_lg_3074_3_0.png
   rotate: false
-  xy: 175, 21
+  xy: 491, 21
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_std_lg_3074_7_0.png
   rotate: false
-  xy: 85, 5
+  xy: 34, 2
   size: 19, 3
   orig: 19, 3
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_0_0.png
   rotate: false
-  xy: 417, 35
+  xy: 282, 35
   size: 22, 27
   orig: 22, 27
   offset: 0, 0
@@ -132,21 +132,21 @@ trousers_U_buttonpants_h_wlk_lg_3073_0_1.png
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_0_2.png
   rotate: false
-  xy: 393, 34
+  xy: 210, 34
   size: 22, 28
   orig: 22, 28
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_0_3.png
   rotate: false
-  xy: 271, 32
+  xy: 161, 32
   size: 23, 30
   orig: 23, 30
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_1_0.png
   rotate: false
-  xy: 93, 10
+  xy: 324, 10
   size: 17, 23
   orig: 17, 23
   offset: 0, 0
@@ -160,7 +160,7 @@ trousers_U_buttonpants_h_wlk_lg_3073_1_1.png
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_1_2.png
   rotate: false
-  xy: 490, 38
+  xy: 305, 9
   size: 17, 24
   orig: 17, 24
   offset: 0, 0
@@ -174,21 +174,21 @@ trousers_U_buttonpants_h_wlk_lg_3073_1_3.png
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_2_0.png
   rotate: false
-  xy: 441, 36
+  xy: 34, 7
   size: 22, 26
   orig: 22, 26
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_2_1.png
   rotate: false
-  xy: 296, 32
+  xy: 186, 32
   size: 22, 30
   orig: 22, 30
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_2_2.png
   rotate: false
-  xy: 320, 34
+  xy: 136, 34
   size: 23, 28
   orig: 23, 28
   offset: 0, 0
@@ -202,168 +202,168 @@ trousers_U_buttonpants_h_wlk_lg_3073_2_3.png
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_3_0.png
   rotate: false
-  xy: 196, 39
+  xy: 132, 9
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_3_1.png
   rotate: false
-  xy: 246, 38
+  xy: 441, 38
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_3_2.png
   rotate: false
-  xy: 221, 39
+  xy: 94, 11
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_3_3.png
   rotate: false
-  xy: 68, 10
+  xy: 466, 14
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_7_1.png
   rotate: false
-  xy: 370, 8
+  xy: 391, 38
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_7_2.png
   rotate: false
-  xy: 395, 9
+  xy: 466, 39
   size: 23, 23
   orig: 23, 23
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3073_7_3.png
   rotate: false
-  xy: 465, 38
+  xy: 416, 38
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_0_0.png
   rotate: false
-  xy: 49, 2
+  xy: 324, 2
   size: 13, 6
   orig: 13, 6
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_0_1.png
   rotate: false
-  xy: 68, 35
+  xy: 306, 35
   size: 26, 4
   orig: 26, 4
   offset: 0, 0
   index: -1
-trousers_U_buttonpants_h_wlk_lg_3074_0_2.png
+trousers_U_buttonpants_h_wlk_lg_3074_0_3.png
   rotate: false
-  xy: 190, 16
+  xy: 94, 36
   size: 4, 3
   orig: 4, 3
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_1_0.png
   rotate: false
-  xy: 495, 17
+  xy: 396, 17
   size: 11, 19
   orig: 11, 19
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_1_1.png
   rotate: false
-  xy: 420, 11
+  xy: 182, 8
   size: 21, 22
   orig: 21, 22
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_1_3.png
   rotate: false
-  xy: 112, 13
+  xy: 223, 11
   size: 22, 21
   orig: 22, 21
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_2_0.png
   rotate: false
-  xy: 259, 11
+  xy: 364, 18
   size: 17, 19
   orig: 17, 19
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_2_1.png
   rotate: false
-  xy: 464, 10
+  xy: 119, 10
   size: 11, 24
   orig: 11, 24
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_2_2.png
   rotate: false
-  xy: 477, 14
+  xy: 268, 10
   size: 16, 22
   orig: 16, 22
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_2_3.png
   rotate: false
-  xy: 136, 20
+  xy: 68, 20
   size: 24, 19
   orig: 24, 19
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_3_0.png
   rotate: false
-  xy: 196, 18
+  xy: 247, 13
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_3_1.png
   rotate: false
-  xy: 443, 14
+  xy: 491, 42
   size: 19, 20
   orig: 19, 20
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_3_2.png
   rotate: false
-  xy: 217, 19
+  xy: 343, 2
   size: 19, 18
   orig: 19, 18
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_3_3.png
   rotate: false
-  xy: 238, 18
+  xy: 343, 22
   size: 19, 18
   orig: 19, 18
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_7_1.png
   rotate: false
-  xy: 136, 11
+  xy: 73, 2
   size: 19, 7
   orig: 19, 7
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_7_2.png
   rotate: false
-  xy: 64, 4
+  xy: 182, 2
   size: 19, 4
   orig: 19, 4
   offset: 0, 0
   index: -1
 trousers_U_buttonpants_h_wlk_lg_3074_7_3.png
   rotate: false
-  xy: 420, 2
+  xy: 73, 11
   size: 19, 7
   orig: 19, 7
   offset: 0, 0

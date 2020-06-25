@@ -6,63 +6,63 @@ filter: Nearest,Nearest
 repeat: none
 Hair_U_Multi_Colour_h_lay_hr_2068_2_0.png
   rotate: false
-  xy: 737, 27
+  xy: 772, 27
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_lay_hr_2069_2_0.png
   rotate: false
-  xy: 948, 45
+  xy: 996, 45
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_lay_hrb_2068_2_0.png
   rotate: false
-  xy: 703, 27
+  xy: 738, 27
   size: 32, 35
   orig: 32, 35
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_lay_hrb_2069_2_0.png
   rotate: false
-  xy: 972, 45
+  xy: 917, 29
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_lsp_hr_2068_2_0.png
   rotate: false
-  xy: 806, 2
+  xy: 806, 33
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_lsp_hrb_2068_2_0.png
   rotate: false
-  xy: 806, 33
+  xy: 806, 2
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_spk_hr_2068_0_0.png
   rotate: false
-  xy: 668, 27
+  xy: 703, 27
   size: 33, 35
   orig: 33, 35
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_spk_hr_2068_1_0.png
   rotate: false
-  xy: 485, 29
+  xy: 522, 29
   size: 35, 33
   orig: 35, 33
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_spk_hr_2068_2_0.png
   rotate: false
-  xy: 116, 27
+  xy: 2, 27
   size: 36, 35
   orig: 36, 35
   offset: 0, 0
@@ -83,21 +83,21 @@ Hair_U_Multi_Colour_h_spk_hr_2068_7_0.png
   index: -1
 Hair_U_Multi_Colour_h_spk_hr_2069_0_0.png
   rotate: false
-  xy: 83, 2
+  xy: 127, 2
   size: 20, 23
   orig: 20, 23
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_spk_hr_2069_1_0.png
   rotate: false
-  xy: 996, 44
+  xy: 972, 44
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_spk_hr_2069_2_0.png
   rotate: false
-  xy: 2, 2
+  xy: 56, 2
   size: 25, 23
   orig: 25, 23
   offset: 0, 0
@@ -125,21 +125,21 @@ Hair_U_Multi_Colour_h_spk_hrb_2068_0_0.png
   index: -1
 Hair_U_Multi_Colour_h_spk_hrb_2068_1_0.png
   rotate: false
-  xy: 522, 29
+  xy: 485, 29
   size: 35, 33
   orig: 35, 33
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_spk_hrb_2068_2_0.png
   rotate: false
-  xy: 2, 27
+  xy: 78, 27
   size: 36, 35
   orig: 36, 35
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_spk_hrb_2068_3_0.png
   rotate: false
-  xy: 78, 27
+  xy: 116, 27
   size: 36, 35
   orig: 36, 35
   offset: 0, 0
@@ -158,6 +158,13 @@ Hair_U_Multi_Colour_h_spk_hrb_2069_3_0.png
   orig: 21, 25
   offset: 0, 0
   index: -1
+Hair_U_Multi_Colour_h_spk_hrb_2069_7_0.png
+  rotate: false
+  xy: 886, 48
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
 Hair_U_Multi_Colour_h_std_hr_2068_0_0.png
   rotate: false
   xy: 633, 28
@@ -174,14 +181,14 @@ Hair_U_Multi_Colour_h_std_hr_2068_1_0.png
   index: -1
 Hair_U_Multi_Colour_h_std_hr_2068_2_0.png
   rotate: false
-  xy: 230, 28
+  xy: 192, 28
   size: 36, 34
   orig: 36, 34
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_std_hr_2068_3_0.png
   rotate: false
-  xy: 154, 28
+  xy: 230, 28
   size: 36, 34
   orig: 36, 34
   offset: 0, 0
@@ -195,7 +202,7 @@ Hair_U_Multi_Colour_h_std_hr_2068_7_0.png
   index: -1
 Hair_U_Multi_Colour_h_std_hr_2069_0_0.png
   rotate: false
-  xy: 127, 2
+  xy: 83, 2
   size: 20, 23
   orig: 20, 23
   offset: 0, 0
@@ -216,7 +223,7 @@ Hair_U_Multi_Colour_h_std_hr_2069_2_0.png
   index: -1
 Hair_U_Multi_Colour_h_std_hr_2069_3_0.png
   rotate: false
-  xy: 840, 37
+  xy: 840, 10
   size: 21, 25
   orig: 21, 25
   offset: 0, 0
@@ -230,7 +237,7 @@ Hair_U_Multi_Colour_h_std_hr_2069_7_0.png
   index: -1
 Hair_U_Multi_Colour_h_std_hrb_2068_0_0.png
   rotate: false
-  xy: 771, 28
+  xy: 668, 28
   size: 33, 34
   orig: 33, 34
   offset: 0, 0
@@ -251,7 +258,7 @@ Hair_U_Multi_Colour_h_std_hrb_2068_2_0.png
   index: -1
 Hair_U_Multi_Colour_h_std_hrb_2068_3_0.png
   rotate: false
-  xy: 192, 28
+  xy: 154, 28
   size: 36, 34
   orig: 36, 34
   offset: 0, 0
@@ -272,29 +279,22 @@ Hair_U_Multi_Colour_h_std_hrb_2069_0_0.png
   index: -1
 Hair_U_Multi_Colour_h_std_hrb_2069_1_0.png
   rotate: false
-  xy: 917, 28
+  xy: 948, 44
   size: 22, 18
   orig: 22, 18
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_std_hrb_2069_2_0.png
   rotate: false
-  xy: 56, 2
+  xy: 2, 2
   size: 25, 23
   orig: 25, 23
   offset: 0, 0
   index: -1
 Hair_U_Multi_Colour_h_std_hrb_2069_3_0.png
   rotate: false
-  xy: 840, 10
+  xy: 840, 37
   size: 21, 25
   orig: 21, 25
-  offset: 0, 0
-  index: -1
-Hair_U_Multi_Colour_h_std_hrb_2069_7_0.png
-  rotate: false
-  xy: 886, 48
-  size: 29, 14
-  orig: 29, 14
   offset: 0, 0
   index: -1
