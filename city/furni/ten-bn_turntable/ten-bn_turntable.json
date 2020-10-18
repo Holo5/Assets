@@ -1,0 +1,176 @@
+{
+    "meta": {
+        "app": "Holo5-Excavator ~ Holo5 (github:Pi-Bouf)",
+        "format": "RGBA8888",
+        "image": ".png",
+        "scale": "1.0",
+        "size": {
+            "w": 130,
+            "h": 80
+        },
+        "version": "1.0"
+    },
+    "frames": {
+        'ten-bn_turntable_ten-bn_turntable_64_sd_0_0': {
+                "frame": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 65,
+                    "h": 32
+                },
+                "sourceSize": {
+                    "w": 65,
+                    "h": 32
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 65,
+                    "h": 32
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'ten-bn_turntable_ten-bn_turntable_64_sd_2_0': {
+                "frame": {
+                    "x": 0,
+                    "y": 32,
+                    "w": 65,
+                    "h": 32
+                },
+                "sourceSize": {
+                    "w": 65,
+                    "h": 32
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 65,
+                    "h": 32
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'ten-bn_turntable_ten-bn_turntable_64_sd_4_0': {
+                "frame": {
+                    "x": 65,
+                    "y": 0,
+                    "w": 65,
+                    "h": 32
+                },
+                "sourceSize": {
+                    "w": 65,
+                    "h": 32
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 65,
+                    "h": 32
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'ten-bn_turntable_ten-bn_turntable_64_sd_6_0': {
+                "frame": {
+                    "x": 65,
+                    "y": 32,
+                    "w": 65,
+                    "h": 32
+                },
+                "sourceSize": {
+                    "w": 65,
+                    "h": 32
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 65,
+                    "h": 32
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'ten-bn_turntable_ten-bn_turntable_32_sd_0_0': {
+                "frame": {
+                    "x": 0,
+                    "y": 64,
+                    "w": 30,
+                    "h": 16
+                },
+                "sourceSize": {
+                    "w": 30,
+                    "h": 16
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 30,
+                    "h": 16
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'ten-bn_turntable_ten-bn_turntable_32_sd_2_0': {
+                "frame": {
+                    "x": 30,
+                    "y": 64,
+                    "w": 30,
+                    "h": 16
+                },
+                "sourceSize": {
+                    "w": 30,
+                    "h": 16
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 30,
+                    "h": 16
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'ten-bn_turntable_ten-bn_turntable_32_sd_4_0': {
+                "frame": {
+                    "x": 60,
+                    "y": 64,
+                    "w": 30,
+                    "h": 16
+                },
+                "sourceSize": {
+                    "w": 30,
+                    "h": 16
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 30,
+                    "h": 16
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'ten-bn_turntable_ten-bn_turntable_32_sd_6_0': {
+                "frame": {
+                    "x": 90,
+                    "y": 64,
+                    "w": 30,
+                    "h": 16
+                },
+                "sourceSize": {
+                    "w": 30,
+                    "h": 16
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 30,
+                    "h": 16
+                },
+                "rotated": false,
+                "trimmed": true
+                }
+        
+    }
+}
