@@ -1,0 +1,96 @@
+{
+    "meta": {
+        "app": "Holo5-Excavator ~ Holo5 (github:Pi-Bouf)",
+        "format": "RGBA8888",
+        "image": ".png",
+        "scale": "1.0",
+        "size": {
+            "w": 387,
+            "h": 273
+        },
+        "version": "1.0"
+    },
+    "frames": {
+        "nottetempoBWHP_nottetempoBWHP_64_a_0_0": {
+                "frame": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 193,
+                    "h": 273
+                },
+                "sourceSize": {
+                    "w": 193,
+                    "h": 273
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 193,
+                    "h": 273
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        "nottetempoBWHP_nottetempoBWHP_32_a_0_0": {
+                "frame": {
+                    "x": 193,
+                    "y": 0,
+                    "w": 97,
+                    "h": 137
+                },
+                "sourceSize": {
+                    "w": 97,
+                    "h": 137
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 97,
+                    "h": 137
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        "nottetempoBWHP_nottetempoBWHP_32_a_2_0": {
+                "frame": {
+                    "x": 290,
+                    "y": 0,
+                    "w": 97,
+                    "h": 137
+                },
+                "sourceSize": {
+                    "w": 97,
+                    "h": 137
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 97,
+                    "h": 137
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        "nottetempoBWHP_nottetempoBWHP_icon_a": {
+                "frame": {
+                    "x": 290,
+                    "y": 137,
+                    "w": 21,
+                    "h": 30
+                },
+                "sourceSize": {
+                    "w": 21,
+                    "h": 30
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 21,
+                    "h": 30
+                },
+                "rotated": false,
+                "trimmed": true
+                }
+        
+    }
+}

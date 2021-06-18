@@ -1,0 +1,356 @@
+{
+    "meta": {
+        "app": "Holo5-Excavator ~ Holo5 (github:Pi-Bouf)",
+        "format": "RGBA8888",
+        "image": ".png",
+        "scale": "1.0",
+        "size": {
+            "w": 669,
+            "h": 659
+        },
+        "version": "1.0"
+    },
+    "frames": {
+        'Drag-pete_Drag-pete_64_a_0_0': {
+                "frame": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 223,
+                    "h": 263
+                },
+                "sourceSize": {
+                    "w": 223,
+                    "h": 263
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 223,
+                    "h": 263
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_64_a_2_0': {
+                "frame": {
+                    "x": 223,
+                    "y": 0,
+                    "w": 223,
+                    "h": 263
+                },
+                "sourceSize": {
+                    "w": 223,
+                    "h": 263
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 223,
+                    "h": 263
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_64_a_4_0': {
+                "frame": {
+                    "x": 446,
+                    "y": 0,
+                    "w": 223,
+                    "h": 263
+                },
+                "sourceSize": {
+                    "w": 223,
+                    "h": 263
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 223,
+                    "h": 263
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_64_a_6_0': {
+                "frame": {
+                    "x": 0,
+                    "y": 263,
+                    "w": 223,
+                    "h": 263
+                },
+                "sourceSize": {
+                    "w": 223,
+                    "h": 263
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 223,
+                    "h": 263
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_32_a_0_0': {
+                "frame": {
+                    "x": 223,
+                    "y": 263,
+                    "w": 113,
+                    "h": 133
+                },
+                "sourceSize": {
+                    "w": 113,
+                    "h": 133
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 113,
+                    "h": 133
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_32_a_2_0': {
+                "frame": {
+                    "x": 336,
+                    "y": 263,
+                    "w": 113,
+                    "h": 133
+                },
+                "sourceSize": {
+                    "w": 113,
+                    "h": 133
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 113,
+                    "h": 133
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_32_a_4_0': {
+                "frame": {
+                    "x": 449,
+                    "y": 263,
+                    "w": 113,
+                    "h": 133
+                },
+                "sourceSize": {
+                    "w": 113,
+                    "h": 133
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 113,
+                    "h": 133
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_32_a_6_0': {
+                "frame": {
+                    "x": 0,
+                    "y": 526,
+                    "w": 113,
+                    "h": 133
+                },
+                "sourceSize": {
+                    "w": 113,
+                    "h": 133
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 113,
+                    "h": 133
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_icon_a': {
+                "frame": {
+                    "x": 562,
+                    "y": 263,
+                    "w": 25,
+                    "h": 33
+                },
+                "sourceSize": {
+                    "w": 25,
+                    "h": 33
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 25,
+                    "h": 33
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_64_sd_0_0': {
+                "frame": {
+                    "x": 587,
+                    "y": 263,
+                    "w": 53,
+                    "h": 14
+                },
+                "sourceSize": {
+                    "w": 53,
+                    "h": 14
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 53,
+                    "h": 14
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_64_sd_2_0': {
+                "frame": {
+                    "x": 587,
+                    "y": 277,
+                    "w": 53,
+                    "h": 14
+                },
+                "sourceSize": {
+                    "w": 53,
+                    "h": 14
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 53,
+                    "h": 14
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_64_sd_4_0': {
+                "frame": {
+                    "x": 562,
+                    "y": 296,
+                    "w": 53,
+                    "h": 14
+                },
+                "sourceSize": {
+                    "w": 53,
+                    "h": 14
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 53,
+                    "h": 14
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_64_sd_6_0': {
+                "frame": {
+                    "x": 615,
+                    "y": 296,
+                    "w": 53,
+                    "h": 14
+                },
+                "sourceSize": {
+                    "w": 53,
+                    "h": 14
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 53,
+                    "h": 14
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_32_sd_0_0': {
+                "frame": {
+                    "x": 640,
+                    "y": 263,
+                    "w": 25,
+                    "h": 7
+                },
+                "sourceSize": {
+                    "w": 25,
+                    "h": 7
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 25,
+                    "h": 7
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_32_sd_2_0': {
+                "frame": {
+                    "x": 640,
+                    "y": 270,
+                    "w": 25,
+                    "h": 7
+                },
+                "sourceSize": {
+                    "w": 25,
+                    "h": 7
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 25,
+                    "h": 7
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_32_sd_4_0': {
+                "frame": {
+                    "x": 640,
+                    "y": 277,
+                    "w": 25,
+                    "h": 7
+                },
+                "sourceSize": {
+                    "w": 25,
+                    "h": 7
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 25,
+                    "h": 7
+                },
+                "rotated": false,
+                "trimmed": true
+                },
+        'Drag-pete_Drag-pete_32_sd_6_0': {
+                "frame": {
+                    "x": 640,
+                    "y": 284,
+                    "w": 25,
+                    "h": 7
+                },
+                "sourceSize": {
+                    "w": 25,
+                    "h": 7
+                },
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 25,
+                    "h": 7
+                },
+                "rotated": false,
+                "trimmed": true
+                }
+        
+    }
+}
