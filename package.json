@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Current Holo5 assets repository",
   "scripts": {
-    "start": "yarn http-server ./ -p 8081 -i --cors"
+    "start": "yarn http-server ./ -p 8082 -i --cors"
   },
   "dependencies": {
     "http-server": "^0.12.3"
